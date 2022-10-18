@@ -5859,7 +5859,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 150296,
       "name": "Eine Idee",
       "url": "https://open.spotify.com/track/21MlfDYRjL0DuBbiCS9wlB"
@@ -18639,7 +18639,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -20862,6 +20862,24 @@
     },
     {
       "album": {
+        "name": "Weed Mit Nach Bayern",
+        "url": "https://open.spotify.com/album/1RoHhffSfJXhWd990Htaw8"
+      },
+      "artists": [
+        {
+          "name": "1Raf7",
+          "url": "https://open.spotify.com/artist/1EpAFkkYqDliTyekBEpPM2"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190855,
+      "name": "Weed Mit Nach Bayern",
+      "url": "https://open.spotify.com/track/2vVbbL7ogWKRbtTNBvR1ik"
+    },
+    {
+      "album": {
         "name": "WMNB",
         "url": "https://open.spotify.com/album/2Pinnq7QsxIvjzyelt8xRx"
       },
@@ -20881,7 +20899,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 190855,
       "name": "WeedMNBayern",
       "url": "https://open.spotify.com/track/3w0JTTlgoxPBLq7AauhY02"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,923 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,934 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 57 | [Say My Name](https://open.spotify.com/track/4mgJ2xyzSAmC3jZymzeTXO) | [LaLa Rose](https://open.spotify.com/artist/4sKgxCn1r8DiKCUGO6gyHo) | [Like It, Love It](https://open.spotify.com/album/3YqDFPeG8Gh8jiveN1L8u3) | 2:49 |
 | 58 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Ella Eyre](https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5) | 3:50 |
 | 59 | [When It Ends](https://open.spotify.com/track/02ZhaPjgCzidCbPHBuzHzN) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [When It Ends](https://open.spotify.com/album/6k0XOP9hsiwudcKYeqPP4A) | 3:49 |
-| 60 | [Cycles](https://open.spotify.com/track/040mp23DaszF0qOITsidKN) | [ANNALIA](https://open.spotify.com/artist/3HqtySTAiAcvSU847Itcdt) | [Cycles](https://open.spotify.com/album/4YcPIXN0EoAToSkGIdNf0r) | 3:16 |
+| 60 | [Cycles](https://open.spotify.com/track/20u73uhB794MKCNzyiU6Z7) | [ANNALIA](https://open.spotify.com/artist/3HqtySTAiAcvSU847Itcdt) | [Cycles](https://open.spotify.com/album/04lOZJwWbxJyyAg6k3h5Jy) | 3:16 |
 | 61 | [Ain't Nobody \(Loves Me Better\) \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:06 |
 | 62 | [Control](https://open.spotify.com/track/3NrMppEmrfhrz9OXaUejp7) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance](https://open.spotify.com/album/68basHoqk34JRezSeXRacF) | 2:50 |
 | 63 | [Control](https://open.spotify.com/track/1b0eXIKJQmx2G7NOMqrITI) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:50 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDU2NmNiYTY4ZmIyNjcwYWE5MGMyNDUzODQ1NzllZWUz`
+Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDIxYThhNWZmYTc0ODFlOTVhMjBlODQzZjA5MGI0Njg5`

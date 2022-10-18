@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-140 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/5z5TOODdOzr7Xe3P1TW7fd)
+141 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/5z5TOODdOzr7Xe3P1TW7fd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Can't Do Without You](https://open.spotify.com/track/6xiQVuzbG52jkyRmLpEFj2) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love \(Expanded Edition\)](https://open.spotify.com/album/7k7LfcXJsRSWzzlNb3zjDC) | 3:56 | 2022-02-03 | 2022-07-29 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2022-02-03 |  |
 | [Constant Reminder](https://open.spotify.com/track/2R1ie4gZr9VXwVQlqrdGNP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 1:30 | 2022-02-03 |  |
-| [Core](https://open.spotify.com/track/53KxyoDip0dabA3jAq6RiV) | [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Equal Amounts Afraid](https://open.spotify.com/album/5dIqaxM2nT1kODBGnB67Wp) | 4:12 | 2022-02-03 |  |
+| [Core](https://open.spotify.com/track/53KxyoDip0dabA3jAq6RiV) | [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Equal Amounts Afraid](https://open.spotify.com/album/5dIqaxM2nT1kODBGnB67Wp) | 4:12 | 2022-02-03 | 2022-10-18 |
 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 | 2022-02-03 |  |
 | [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 | 2022-02-03 |  |
 | [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 | 2022-02-03 |  |
@@ -125,6 +125,7 @@
 | [The Colour In Anything](https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 3:33 | 2022-02-03 |  |
 | [The Feeling \(Of Warmth And Beauty\)](https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse) | [Richard H\. Kirk](https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr) | [Virtual State](https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok) | 6:08 | 2022-02-03 | 2022-09-03 |
 | [The Kiss](https://open.spotify.com/track/18oa7BOnHF8Y3YItQ8rV3e) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 3:17 | 2022-02-03 | 2022-07-29 |
+| [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 | 2022-02-03 |  |
 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 | 2022-02-03 |  |
 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 | 2022-02-03 |  |
 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 | 2022-02-03 | 2022-07-29 |

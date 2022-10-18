@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 187823,
+  "num_followers": 187843,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTgxMTg5NCwwMDAwMDAwMGI4ODE2YzVjOTcyYTY5NzAyNDM0OGQ1NzQxNTkzMmYw",
+  "snapshot_id": "MTY2NTgxMTg5NCwwMDAwMDAwMGYwYmRjYjc1NjEzZDVkYTlhMDE1MjI0MTkyMzI3ZmM1",
   "tracks": [
     {
       "added_at": "2022-10-15 05:31:34",
@@ -203,6 +203,26 @@
     {
       "added_at": "2022-10-15 05:31:34",
       "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2022-10-15 05:31:34",
+      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
-    },
-    {
-      "added_at": "2022-10-15 05:31:34",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-10-15 05:31:34",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-15 05:31:34",
       "album": {
+        "name": "EveryTime I Cry",
+        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 177855,
+      "name": "EveryTime I Cry",
+      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
+    },
+    {
+      "added_at": "2022-10-15 05:31:34",
+      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 167307,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
-    },
-    {
-      "added_at": "2022-10-15 05:31:34",
-      "album": {
-        "name": "EveryTime I Cry",
-        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 177855,
-      "name": "EveryTime I Cry",
-      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
     },
     {
       "added_at": "2022-10-15 05:31:34",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-10-15 05:31:34",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 166898,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
-    },
-    {
-      "added_at": "2022-10-15 05:31:34",
-      "album": {
         "name": "Sad (feat. Afrojack)",
         "url": "https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2022-10-15 05:31:34",
       "album": {
-        "name": "Staying at Tamara's (Remixes)",
-        "url": "https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        },
-        {
-          "name": "The Wild",
-          "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 193037,
-      "name": "Shotgun (The Wild Remix)",
-      "url": "https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod"
+      "duration_ms": 166898,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
     },
     {
       "added_at": "2022-10-15 05:31:34",
@@ -1035,6 +1015,26 @@
       "duration_ms": 146355,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
+    },
+    {
+      "added_at": "2022-10-15 05:31:34",
+      "album": {
+        "name": "Staying at Tamara's (Remixes)",
+        "url": "https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "The Wild",
+          "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
+        }
+      ],
+      "duration_ms": 193037,
+      "name": "Shotgun (The Wild Remix)",
+      "url": "https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod"
     },
     {
       "added_at": "2022-10-15 05:31:34",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2022-10-15 05:31:34",
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
-      },
-      "artists": [
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
-        },
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        },
-        {
-          "name": "Slopes",
-          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
-        }
-      ],
-      "duration_ms": 162983,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
-    },
-    {
-      "added_at": "2022-10-15 05:31:34",
-      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2022-10-15 05:31:34",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
+      },
+      "artists": [
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Slopes",
+          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
+        }
+      ],
+      "duration_ms": 162983,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
     },
     {
       "added_at": "2022-10-15 05:31:34",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2022-10-15 05:31:34",
       "album": {
-        "name": "Bittersweet Symphony",
-        "url": "https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh"
+        "name": "Lose my mind",
+        "url": "https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG"
       },
       "artists": [
         {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        },
-        {
-          "name": "Emily Roberts",
-          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
         }
       ],
-      "duration_ms": 194618,
-      "name": "Bittersweet Symphony",
-      "url": "https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L"
+      "duration_ms": 173854,
+      "name": "Lose my mind",
+      "url": "https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS"
     },
     {
       "added_at": "2022-10-15 05:31:34",

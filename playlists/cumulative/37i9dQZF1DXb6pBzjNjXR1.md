@@ -4,7 +4,7 @@
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg">Dr Feel</a>
 
-57 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
+58 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Inde Lendlela](https://open.spotify.com/track/0TWr1HfWDoqZ4zPiBySwxM) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [LuckyKeyz](https://open.spotify.com/artist/6xPpWHSxCdWbkrOWn45d2Y) | [The 12 Year Saga](https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5) | 5:56 | 2022-09-22 |  |
 | [iThemba \- Radio Edit](https://open.spotify.com/track/113nrUgCQf0iWLdpjPKNnq) | [AfroNerd](https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD), [Thoby Dladla](https://open.spotify.com/artist/0kyaZ9bi9LIKEqRhpZssLo) | [iThemba \(Radio Edit\)](https://open.spotify.com/album/7wXIm0d8WwdMQGf8ahwTAA) | 4:11 | 2022-09-09 |  |
 | [iVolovolo](https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Michael King](https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri) | [iVolovolo](https://open.spotify.com/album/5EHqm4YXBZ0kQLObE0c7WR) | 7:30 | 2022-08-11 |  |
-| [Jika](https://open.spotify.com/track/4DByodhCD8rykLsxgiCXt8) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Jika EP](https://open.spotify.com/album/3PHBGOYUSYCUczVqnaDmga) | 6:10 | 2022-08-11 |  |
+| [Jika](https://open.spotify.com/track/3YHmg8KZYgKnj0Z6jqyyOy) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Jika EP](https://open.spotify.com/album/620uN2e9ilPg65f7hDSJBr) | 6:10 | 2022-08-11 |  |
+| [Jika](https://open.spotify.com/track/4DByodhCD8rykLsxgiCXt8) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Jika EP](https://open.spotify.com/album/3PHBGOYUSYCUczVqnaDmga) | 6:10 | 2022-08-11 | 2022-10-18 |
 | [Karma](https://open.spotify.com/track/5Po3stEOmRMz7PFWTcJlA1) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den) | [Karma](https://open.spotify.com/album/35n0TxcygupgDWujKwNsT1) | 8:23 | 2022-08-18 |  |
 | [Like A Dream \- Enoo Napa Remix](https://open.spotify.com/track/6OvK413r6gXm4MCuvzXbND) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Like A Dream \(Enoo Napa Remix\)](https://open.spotify.com/album/3RnON1jDs8Gj8PaBNMIzif) | 6:32 | 2022-08-11 |  |
 | [Little Thing](https://open.spotify.com/track/60OtCQpCOk0FGlvVlGYZkz) | [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x), [Cuebur](https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7), [Madu](https://open.spotify.com/artist/23f2Kbt6to4lDnHfZ68x1L) | [Little Thing](https://open.spotify.com/album/5RdMjaikoNiJV8nKjhneII) | 4:16 | 2022-08-11 |  |

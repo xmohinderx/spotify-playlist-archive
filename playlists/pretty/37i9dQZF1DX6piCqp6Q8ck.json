@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 73840,
+  "num_followers": 73843,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMDMwNTM0ZWZjN2IwOTlkNGJjMThhY2UxNGVmMmNkZmFl",
+  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMGUxNGZlZDUxZThiOGM5OTFlM2RmM2RlZjlhYmQ0YWE3",
   "tracks": [
     {
       "added_at": "2022-09-27 07:00:12",
@@ -115,18 +115,18 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "The Definitive Vince Guaraldi",
+        "url": "https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
         }
       ],
-      "duration_ms": 84986,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
+      "duration_ms": 144373,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "The Definitive Vince Guaraldi",
-        "url": "https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Skating",
-      "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 205320,
       "name": "Christmas Is Coming",
       "url": "https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 84986,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -211,22 +211,6 @@
       "duration_ms": 171333,
       "name": "(There's No Place Like) Home for the Holidays - 1954 Version",
       "url": "https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 121986,
-      "name": "Caroling, Caroling",
-      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -308,9 +292,25 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 103746,
-      "name": "The Happiest Christmas Tree",
-      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
+      "duration_ms": 121986,
+      "name": "Caroling, Caroling",
+      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Ultra-Lounge: Christmas Cocktails",
+        "url": "https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
+      "url": "https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -351,6 +351,26 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
+        "name": "Ella: The Legendary Decca Recordings",
+        "url": "https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 163706,
+      "name": "Baby It's Cold Outside",
+      "url": "https://open.spotify.com/track/5INjLnLJcfG22QkaLUMcZm"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -383,26 +403,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Ella: The Legendary Decca Recordings",
-        "url": "https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Baby It's Cold Outside",
-      "url": "https://open.spotify.com/track/5INjLnLJcfG22QkaLUMcZm"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "The Song Society Playlist",
         "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 253388,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 103746,
+      "name": "The Happiest Christmas Tree",
+      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Mr. Christmas",
-        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 216042,
-      "name": "Mr. Christmas",
-      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 162720,
       "name": "Christmas Night In Harlem",
       "url": "https://open.spotify.com/track/1oE2ZJOWfLrKU8R18OzFrI"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Mr. Christmas",
+        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 216042,
+      "name": "Mr. Christmas",
+      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
-      },
-      "artists": [
-        {
-          "name": "Dries Riesen",
-          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
-        }
-      ],
-      "duration_ms": 68707,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "Ella & Louis Christmas",
         "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 164080,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
+      },
+      "artists": [
+        {
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+        }
+      ],
+      "duration_ms": 68707,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -967,22 +983,6 @@
       "duration_ms": 263960,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "pov: you ride on santa's sleigh",
-        "url": "https://open.spotify.com/album/46arEAoeGGDuHrbMLlsqeF"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
-      "url": "https://open.spotify.com/track/35P5nEqdmC5UxN4jGbCMsQ"
     },
     {
       "added_at": "2022-09-27 07:00:12",

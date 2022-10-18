@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Stephen Dawes
 
-1,092 songs - 2 day 10 hr 4 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,093 songs - 2 day 10 hr 7 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2020-05-01 | 2020-07-31 |
 | [Brutal](https://open.spotify.com/track/5bRYA6MVHD4uioMc402Mow) | [Rainsford](https://open.spotify.com/artist/4XxCuxkBeoJUdzaVRGJjrJ), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Brutal](https://open.spotify.com/album/3FxFEZQqhxLPadxejyLY6H) | 3:03 | 2022-01-28 | 2022-03-26 |
 | [Built For This](https://open.spotify.com/track/7vA2Np8N7Yu1KfTQ43oLwF) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Love and Heartache](https://open.spotify.com/album/1kIEcVx2bLpobnhKmY73pc) | 2:35 | 2020-10-01 | 2020-10-02 |
-| [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2022-09-16 |  |
+| [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2022-09-16 | 2022-10-18 |
 | [Burn](https://open.spotify.com/track/5UgPFAG4Qj6eN3AMPKATgt) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/2nE9SyLBu59x3WP0nJRMT8) | 3:42 | 2020-12-04 | 2021-03-19 |
 | [busy](https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Something New](https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q) | 3:03 | 2022-07-15 | 2022-10-15 |
 | [Butterflies](https://open.spotify.com/track/5XGJj8eIm5tSdxkIm6GBal) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Butterflies](https://open.spotify.com/album/5pzzVGspnxIYiGqqYyxstR) | 3:18 | 2021-03-19 | 2021-06-12 |
@@ -894,6 +894,7 @@
 | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/track/6SGG5AxHShqSYiV9fCWpZz) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/album/2z5swLenXPUPG79UfLU51I) | 3:26 | 2020-12-04 | 2021-06-12 |
 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 | 2020-05-16 | 2020-07-18 |
 | [Stay With Me](https://open.spotify.com/track/3N9YteGxz7t9FLdZLeqmEM) | [Joel Blackmon](https://open.spotify.com/artist/4XBNTfuiL1ful1Erm746lY) | [Stay With Me](https://open.spotify.com/album/4anOgmW4hSXsK8jrxwbtqk) | 2:30 | 2021-07-04 | 2021-08-14 |
+| [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-14 |  |
 | [Stealing All My Friends](https://open.spotify.com/track/5UiBcv3HW0hIshBrOQxY2q) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Stealing All My Friends](https://open.spotify.com/album/5gOHjDCfex1LV4MbKIUM97) | 2:41 | 2020-06-29 | 2020-07-31 |
 | [Step On Flowers](https://open.spotify.com/track/7156NTCsRSyw7A2si4sm5e) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 3:33 | 2022-07-15 | 2022-08-13 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-20 |  |

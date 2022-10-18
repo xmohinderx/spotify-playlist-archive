@@ -2,7 +2,7 @@
 
 ### [GUNDAM SERIES \-ガンダムシリーズ\-](https://open.spotify.com/playlist/37i9dQZF1DX6aZ9vrXqd1U)
 
-> Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。
+> Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
 183 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
 

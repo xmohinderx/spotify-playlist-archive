@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-421 songs - 1 day 2 hr 18 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+422 songs - 1 day 2 hr 21 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [I Will Be The One](https://open.spotify.com/track/21kL3TTAMIgRxSUgxNW2Dv) | [Jim van der Zee](https://open.spotify.com/artist/7CjnYXSrc2CkcgptzVsxDm) | [I Will Be The One](https://open.spotify.com/album/5URtJTonJpOR4LRpjrSH7e) | 3:27 | 2022-01-27 | 2022-07-29 |
 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 | 2022-03-30 |  |
 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 | 2022-05-02 |  |
-| [I'll Buy a House \- Acoustic](https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy a House \(Acoustic\)](https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF) | 3:06 | 2022-01-27 |  |
+| [I'll Buy a House \- Acoustic](https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy a House \(Acoustic\)](https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF) | 3:06 | 2022-01-27 | 2022-10-18 |
 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 | 2022-01-27 |  |
 | [I'm Dreaming Of You](https://open.spotify.com/track/5bZGtll3p5dE9dgGWsGPSG) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Dream](https://open.spotify.com/album/37qXQpbCmtNUX99XY39Ay7) | 3:22 | 2022-05-11 |  |
 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2022-07-08 |  |
@@ -208,6 +208,7 @@
 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2022-01-27 |  |
 | [Lay By Me](https://open.spotify.com/track/4l6boTiX3Erh3HYpKOa0D6) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Lay By Me](https://open.spotify.com/album/6RZ6Kas2zRvJo0d6CZUfMZ) | 2:50 | 2022-01-27 | 2022-07-29 |
 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 | 2022-07-08 |  |
+| [Left Side](https://open.spotify.com/track/3yAlkOEMjk2rH2hZTgvfoH) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW) | 2:24 | 2022-09-30 |  |
 | [Left Side](https://open.spotify.com/track/6QUVcbxAJTVDQeDrchWzZx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/6VtxEWVdKRHUyRnrtC3K7r) | 2:24 | 2022-01-27 | 2022-07-29 |
 | [Left Side](https://open.spotify.com/track/6WpE1zKOrnVKNDUHzwsUJ7) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 2:24 | 2022-07-08 | 2022-10-13 |
 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 | 2022-07-08 |  |

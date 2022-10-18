@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,739 likes - 59 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,756 likes - 59 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 26 | [Make It Up](https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Make It Up](https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1) | 3:50 |
 | 27 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
 | 28 | [For These Times \- Original Mix](https://open.spotify.com/track/45by5RY3OL9PmKecKej79H) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Think & Change](https://open.spotify.com/album/6OFlmBDfwGMBQce1sh1ylG) | 4:57 |
-| 29 | [Fatherless](https://open.spotify.com/track/6njoiANKTAdL1QQcFnPmUu) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Fatherless](https://open.spotify.com/album/37lKlkS7VUd7F7A958ZIeU) | 6:20 |
+| 29 | [Fatherless](https://open.spotify.com/track/5Bs93ZX1NAjAT5tPyPLJRA) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Fatherless](https://open.spotify.com/album/4FhBOsnkUXVVSnRkG7ikcr) | 6:20 |
 | 30 | [Medium](https://open.spotify.com/track/6cZOCKcURyJNou1nudfb5X) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:14 |
 | 31 | [J.W\. on a Good Night](https://open.spotify.com/track/5ftI5jeqgxBMAFVVpK0ApJ) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw) | [DAT Music 2](https://open.spotify.com/album/6QoY08xZUGGVzI95yI6l7i) | 5:43 |
 | 32 | [In Pursuit \- Cop Envy Remix](https://open.spotify.com/track/7eKjcdrG4huRp03nwhn3J0) | [Dormir](https://open.spotify.com/artist/6NeUtAR8dDb4RFlJgFhvHY), [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [In Pursuit](https://open.spotify.com/album/60PGaCcO98DArFT0ElFnGc) | 5:21 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 51 | [Rerocc](https://open.spotify.com/track/6cUTZnDarVMD7EBgCj97YW) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [The Blue M&M 3](https://open.spotify.com/album/2qyo6pRUbmVXDoITP4aOP6) | 3:19 |
 | 52 | [Forsaken](https://open.spotify.com/track/5zY3OVGdFR7Pj6n1fAWCW9) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY), [SpectraSoul](https://open.spotify.com/artist/5OvI3XKz7Y1TJAxPbn848T) | [1984](https://open.spotify.com/album/2fzARPEkcMwRoYqoSZhcsc) | 6:01 |
 | 53 | [Brazil \(feat\. Lily McKenzie\)](https://open.spotify.com/track/47u5MX4xCrTfvK63PV2lvm) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [Lily Mckenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [You Stand Uncertain](https://open.spotify.com/album/4RAYGIbYUHeSVVjdziCmNd) | 3:23 |
-| 54 | [Corner](https://open.spotify.com/track/5liextsoaZH0M6eLohY9Qf) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 2:50 |
+| 54 | [Corner](https://open.spotify.com/track/0A0igEVrmwHhDocCu2NFHs) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 2:50 |
 | 55 | [I Won't Forget](https://open.spotify.com/track/37lk3qgO3DYCoSpeJpp3KR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:33 |
 | 56 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 |
 | 57 | [The Way](https://open.spotify.com/track/319WGqfBViMHQZx8IS5bmv) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [The Way](https://open.spotify.com/album/2ZKbkTT2jeH8zvMapy8sTT) | 4:19 |
 | 58 | [J&W Beat](https://open.spotify.com/track/3ulYmElxqeXxo8TaezKciy) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [J&W Beat](https://open.spotify.com/album/2DFU3nz0jrhjY0Vj2aJA37) | 6:03 |
 | 59 | [Unravel in the Designated Zone](https://open.spotify.com/track/10IxtRq6xz3ABo8E9aDROE) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [OTMI001](https://open.spotify.com/album/12w3hePulByvTE7fOF0r6W) | 4:48 |
 
-Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMDE3YWU1OTkxOGIxYTUzNTVmNWJkYWUxY2M1NWE0NDJl`
+Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMDMzZWI2N2Q0NTAzYjBhZjk1ZjVhZTYwODI4NDI5MzRl`

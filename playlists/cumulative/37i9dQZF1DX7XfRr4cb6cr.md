@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-175 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+176 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 | 2022-01-28 |  |
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2022-01-21 |  |
 | [Procession](https://open.spotify.com/track/3aY7DXuLSjhZWylrsxZlvS) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Emanate](https://open.spotify.com/album/1egylUUEu5VyrBX4Sn8LwW) | 5:34 | 2022-01-21 | 2022-07-29 |
+| [Proof of My Existence](https://open.spotify.com/track/7DOzFtfWtleNT2nXfxrkJM) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [Proof of My Existence](https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh) | 2:24 | 2022-10-14 |  |
 | [Pärt: Für Alina \- 1\. Für Alina](https://open.spotify.com/track/0fXQMORkpxlJUqyu5fTUL3) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Contemporary Piano](https://open.spotify.com/album/3rc04zjug6LVTSqefi5v5A) | 10:42 | 2022-01-21 | 2022-07-21 |
 | [Rakas](https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Rakka II](https://open.spotify.com/album/5y0y4UtptE7P7p8SZFgAZT) | 3:42 | 2022-01-21 | 2022-07-29 |
 | [Rendering Intuitions](https://open.spotify.com/track/1JsRDrH5qt8QV5wqMOjQfk) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/357UFd2FDdnDRYS3IdyhJs) | 6:36 | 2022-01-28 | 2022-07-17 |
@@ -170,7 +171,7 @@
 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 | 2022-01-21 |  |
 | [Untitled, Saturday](https://open.spotify.com/track/1yAG81LXyetlG4yrmowDGn) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 4:52 | 2022-01-28 | 2022-07-29 |
 | [Vaara](https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vaara](https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7) | 5:09 | 2022-01-21 |  |
-| [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 |  |
+| [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-10-18 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
 | [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 | 2022-07-29 |

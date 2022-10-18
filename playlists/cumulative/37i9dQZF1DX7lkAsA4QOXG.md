@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-121 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+122 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Between the Bars](https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78) | [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp), [Becca Stevens](https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk) | [Daylight at Midnight](https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d) | 4:00 | 2022-09-13 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [Come Home](https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn) | 3:49 | 2022-09-13 |  |
 | [Billie Jean](https://open.spotify.com/track/3pMwgThbs4lcXs9h4EAIJg) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR), [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:34 | 2022-09-13 |  |
+| [Bird On The Wire](https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 3:46 | 2022-10-13 |  |
 | [Blackbird](https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 4:59 | 2022-09-13 |  |
 | [Blackbird](https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:59 | 2022-09-13 | 2022-10-12 |
 | [Blowin' In The Wind](https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Reflections](https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu) | 2:32 | 2022-09-13 | 2022-10-12 |
@@ -50,7 +51,7 @@
 | [Flim](https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [These Are The Vistas](https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q) | 4:04 | 2022-09-13 |  |
 | [Get Here](https://open.spotify.com/track/2IX8WR2FoBLii7teJJLibA) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Eternal Beauty](https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx) | 4:20 | 2022-09-13 |  |
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-10-13 |  |
-| [Hallelujah](https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Return To You](https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj) | 5:35 | 2022-09-13 |  |
+| [Hallelujah](https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Return To You](https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj) | 5:35 | 2022-09-13 | 2022-10-18 |
 | [Harvest Moon](https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Fictions](https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3) | 3:05 | 2022-09-13 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 4:10 | 2022-09-13 |  |
 | [Heart Shaped Box](https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO) | [Yaron Herman Trio](https://open.spotify.com/artist/0ZHBP592ndKCuNxhiKtgdI), [Yaron Herman](https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ) | [Follow the White Rabbit](https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM) | 4:37 | 2022-09-13 |  |

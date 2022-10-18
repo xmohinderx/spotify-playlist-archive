@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,717 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,770 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 48 | [Dirty Punk](https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:09 |
 | 49 | [First Night Back in London](https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:11 |
 
-Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDBlYTNjNjA1ZDRjZmNmMTFkNTk3MDRmZjc0ZDA5MTk2Mw==`
+Snapshot ID: `Mjc3NjY4NzIsMDAwMDAwMDA5YjExOTJlMGEyNzAxNmMwYjA0ZmQwZTk0YmIxNjg0Yw==`

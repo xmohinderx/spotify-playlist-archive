@@ -4,7 +4,7 @@
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Unnati Shah, Artwork: Isu Kim
 
-598 songs - 1 day 11 hr 42 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+599 songs - 1 day 11 hr 46 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,8 @@
 | [Theher Ja Tu](https://open.spotify.com/track/39IDnhcezSNxCO7P505zvs) | [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc), [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Theher Ja Tu](https://open.spotify.com/album/65fZrXiqlCjrIVxM4vRz9N) | 2:43 | 2022-04-06 | 2022-07-21 |
 | [This Song's for You](https://open.spotify.com/track/3VlYy83A7uFHQZVGdC0lY6) | [Jameer Kharkongor](https://open.spotify.com/artist/25Z2HZcDY5kcL6xuedmQUH) | [This Song's for You](https://open.spotify.com/album/5IkU0g031NEVHLUfARBQ6D) | 3:00 | 2022-02-09 | 2022-02-13 |
 | [This Train](https://open.spotify.com/track/2x1iPG4yOBpbH2ZtKvKhRq) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [This Train](https://open.spotify.com/album/79KUNFWfqYedA9PhJwqTnj) | 3:03 | 2021-12-01 | 2022-01-13 |
-| [Those Colourful Days](https://open.spotify.com/track/2zQUFVZsR5eyfn1MIgA1Hq) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Those Colourful Days](https://open.spotify.com/album/4sWJdwvzWHNF6LTm5d6NRs) | 3:20 | 2022-09-28 |  |
+| [Those Colourful Days](https://open.spotify.com/track/2WU79SGwAELqGqdITcPZeg) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Those Colourful Days](https://open.spotify.com/album/48Y57IkEQdwYukhQ6OcBrY) | 3:20 | 2022-10-12 |  |
+| [Those Colourful Days](https://open.spotify.com/track/2zQUFVZsR5eyfn1MIgA1Hq) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Those Colourful Days](https://open.spotify.com/album/4sWJdwvzWHNF6LTm5d6NRs) | 3:20 | 2022-09-28 | 2022-10-18 |
 | [Thousand Miles](https://open.spotify.com/track/1VJYxSVAhJLUUj2fGegCtb) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Thousand Miles](https://open.spotify.com/album/0cZ4FY7vanJaKXCSTG5guS) | 5:43 | 2021-12-01 | 2022-01-13 |
 | [Tigress](https://open.spotify.com/track/45TcQuukZWtO7qDPJyNFHm) | [Manchild](https://open.spotify.com/artist/29DEknQpxdiLrlgOHxnWKF) | [Tigress](https://open.spotify.com/album/6Evwv4kbSbqj1Fyjr8iOhJ) | 4:02 | 2022-06-22 | 2022-09-15 |
 | [Tippity\-Toe](https://open.spotify.com/track/0pVWurfElBtrujP1YB5WY3) | [Shivangi Kale](https://open.spotify.com/artist/1xGv7tCiaxDMDVtj8RY2N6) | [Tippity\-Toe](https://open.spotify.com/album/2DCh4W0PUjpJ5smHIJ9A6U) | 3:29 | 2022-06-08 | 2022-06-23 |

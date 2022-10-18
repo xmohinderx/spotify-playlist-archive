@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Justin Quiles & Carin Leon.",
-  "num_followers": 262187,
+  "num_followers": 262245,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMGNiMmVjOWQ4OGMzYmUzNTkyYzAxY2MyY2RkYTE4Zjc1",
+  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMDY2OTAxZDA3Mzc1MzZhMjY2ODJiMTJhNjBiZTE0NTA4",
   "tracks": [
     {
       "added_at": "2022-10-07 15:58:02",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/3ySFOPY56x68lcMXvpMNAX"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 195797,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/3HyPmMTJCrV6DlTYQVqIGN"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "Fino",
         "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 205210,
       "name": "Fino",
       "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/3ySFOPY56x68lcMXvpMNAX"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 195797,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/3HyPmMTJCrV6DlTYQVqIGN"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "descomplicados",
-        "url": "https://open.spotify.com/album/1TYlMgA9p6MDchfnrkvJ3t"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "descomplicados",
-      "url": "https://open.spotify.com/track/6LAU7C4wP7JKX2ejdoD4Jm"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 218803,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "descomplicados",
+        "url": "https://open.spotify.com/album/1TYlMgA9p6MDchfnrkvJ3t"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "descomplicados",
+      "url": "https://open.spotify.com/track/6LAU7C4wP7JKX2ejdoD4Jm"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Amor Y Sal",
-        "url": "https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 152249,
-      "name": "Amor Y Sal",
-      "url": "https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Gadejo",
         "url": "https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 133744,
       "name": "Gadejo",
       "url": "https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Amor Y Sal",
+        "url": "https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 152249,
+      "name": "Amor Y Sal",
+      "url": "https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Brindar\u00e9",
-        "url": "https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 146128,
-      "name": "Brindar\u00e9",
-      "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "GOTEO",
         "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 223384,
       "name": "GUR\u00da",
       "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Brindar\u00e9",
+        "url": "https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 146128,
+      "name": "Brindar\u00e9",
+      "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 196523,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "Papelito",
         "url": "https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 179949,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Problemas",
-        "url": "https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 196523,
-      "name": "Problemas",
-      "url": "https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Pa Que Te Digo Que No",
+        "url": "https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Pa Que Te Digo Que No",
+      "url": "https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "Tq para mi \u2728",
         "url": "https://open.spotify.com/album/1VWrrII4gcdo9tr3wEak1t"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 216000,
       "name": "Tq para mi \u2728",
       "url": "https://open.spotify.com/track/1wBM6bZWmwr0Wtq3S4SRDr"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Pa Que Te Digo Que No",
-        "url": "https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Pa Que Te Digo Que No",
-      "url": "https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0"
     },
     {
       "added_at": "2022-10-07 15:58:02",

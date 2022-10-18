@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 28797,
+  "num_followers": 29220,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDQ0MCwwMDAwMDAwMDMwYmZhZDc0MDYyODZhY2FjNGNhZjNkM2U0NTAyM2U0",
+  "snapshot_id": "MTY2NTcyMDQ0MCwwMDAwMDAwMGU1ZTBhMzQ2YjE0ZTIxMDgyZjdkNmUwZjFlZmJhNTYz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:07:20",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
+    },
+    {
+      "added_at": "2022-10-14 04:07:20",
+      "album": {
         "name": "Did I Shave My Legs For This?",
         "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
       },
@@ -375,38 +391,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2022-10-14 04:07:20",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234515,
-      "name": "White Horse (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
-    },
-    {
-      "added_at": "2022-10-14 04:07:20",
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2022-10-14 04:07:20",
@@ -459,6 +443,22 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234515,
+      "name": "White Horse (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
+    },
+    {
+      "added_at": "2022-10-14 04:07:20",
+      "album": {
         "name": "Just About Over You",
         "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 179213,
       "name": "Just About Over You",
       "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
-    },
-    {
-      "added_at": "2022-10-14 04:07:20",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261842,
-      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
     },
     {
       "added_at": "2022-10-14 04:07:20",
@@ -539,6 +523,22 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Want It Again",
+      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
+    },
+    {
+      "added_at": "2022-10-14 04:07:20",
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 172586,
-      "name": "Want It Again",
-      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
+      "duration_ms": 261842,
+      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
     },
     {
       "added_at": "2022-10-14 04:07:20",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
-        "name": "Breakups",
-        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 223129,
-      "name": "Breakups",
-      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+      "duration_ms": 253373,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
     }
   ],
   "unique_name": "sad girl country",

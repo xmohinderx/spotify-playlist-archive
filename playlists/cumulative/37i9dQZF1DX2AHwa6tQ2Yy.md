@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-141 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
+142 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Find You](https://open.spotify.com/track/0vReW9aojdOBzsLYVFW02g) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Find You](https://open.spotify.com/album/6ioai4bGdimLFJ4piWAPSl) | 5:03 | 2022-06-02 | 2022-07-29 |
 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 | 2022-07-28 |  |
 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-04 | 2022-10-14 |
+| [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 | 2022-10-13 |  |
 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 | 2022-06-02 |  |
 | [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2022-06-02 |  |
 | [Forgot About](https://open.spotify.com/track/3JnRyp1X0N1QxiaMwnXlEs) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Forgot About](https://open.spotify.com/album/1KdLuqgmPBrrOtkqFDDvxe) | 3:38 | 2022-06-02 | 2022-09-09 |
@@ -107,7 +108,7 @@
 | [Pictures](https://open.spotify.com/track/2EJU98tJcIaOsMYYhS2Zt1) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Pictures](https://open.spotify.com/album/3m0uXhHzlhaRYnKfXIX9zS) | 3:21 | 2022-07-28 | 2022-09-09 |
 | [Pictures](https://open.spotify.com/track/5GcvMgyFOsYePFR2jM8OOV) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Pictures](https://open.spotify.com/album/2wGZQdBRhuJJUd6WmNMCQW) | 3:21 | 2022-06-02 | 2022-07-29 |
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-08 |  |
-| [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 | 2022-06-02 |  |
+| [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 | 2022-06-02 | 2022-10-18 |
 | [Proven \(with Rick Ross\)](https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 4:27 | 2022-06-02 |  |
 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-06-02 |  |
 | [Put It On Hold](https://open.spotify.com/track/6VXBOJfGbi8LFr6LItukTc) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [Put It On Hold](https://open.spotify.com/album/2N0um43ZRVVPA8Hn4fQ8Il) | 2:36 | 2022-06-02 | 2022-07-22 |

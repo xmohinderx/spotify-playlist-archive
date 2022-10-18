@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
-184 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
+185 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bye Bye](https://open.spotify.com/track/5gb1HXr2CFFMURJRLzpzHi) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Bye Bye](https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD) | 3:16 | 2021-12-16 | 2022-09-26 |
 | [Chicolata](https://open.spotify.com/track/2gMTpYNYooniYFd3qXZcOe) | [Bosy](https://open.spotify.com/artist/3CYfsLhei8oA3TUsEW8w8X), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Aman Ya Sahby](https://open.spotify.com/album/6lhOzHXoc8yFo60o0sXOdT) | 2:43 | 2021-12-16 | 2021-12-29 |
 | [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 | 2021-12-16 | 2022-07-29 |
-| [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/track/7tIjuahzTIksfKRBHn4eN2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Amr Yousef](https://open.spotify.com/artist/2k39kWM8QPPwDQ3OLbVZZZ), [Hassan Elraddad](https://open.spotify.com/artist/1OLMBIjZa6BlqAOjL5oIkW), [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/album/39myupeh2lms0htXCRYpgv) | 3:18 | 2022-02-23 |  |
+| [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/track/7tIjuahzTIksfKRBHn4eN2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Amr Yousef](https://open.spotify.com/artist/2k39kWM8QPPwDQ3OLbVZZZ), [Hassan Elraddad](https://open.spotify.com/artist/1OLMBIjZa6BlqAOjL5oIkW), [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/album/39myupeh2lms0htXCRYpgv) | 3:18 | 2022-02-23 | 2022-10-18 |
 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 | 2021-12-16 | 2022-07-28 |
 | [Efrah](https://open.spotify.com/track/4rQSgu2iUS6lLutbTytuM6) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [Efrah](https://open.spotify.com/album/65TrnR56Wv5be0H9z1NQ5l) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Egrah](https://open.spotify.com/track/37AS9boC6XdWKXWcNtbGZj) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Egrah](https://open.spotify.com/album/4zYbesk0LhlwiTEibnlDRf) | 5:18 | 2021-12-16 |  |
@@ -161,6 +161,7 @@
 | [خليك علي عومي](https://open.spotify.com/track/3P3nUCBz4AQPwmapGkWLPX) | [Faten Farid](https://open.spotify.com/artist/2MIpxKcT5RbV18YPsgQnhw) | [خليك علي عومي](https://open.spotify.com/album/1oyIuyB1gila3RG6UF17Kt) | 10:07 | 2021-12-16 | 2022-07-28 |
 | [رؤيه](https://open.spotify.com/track/0CbicEFhMQc3pJvVCXGWCQ) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [رؤيه](https://open.spotify.com/album/543Xje9ZP6XhTf8h9hOznR) | 5:14 | 2021-12-16 | 2022-07-29 |
 | [رؤيه](https://open.spotify.com/track/6fUKfFIg9KDlAEEv5fbA5Y) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [رؤيه](https://open.spotify.com/album/0sViw2t348HGD2T27ek4sk) | 5:14 | 2022-07-14 |  |
+| [رجوله برجوله](https://open.spotify.com/track/2jKz9RbKLDLoLGVUQcJyGN) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/4ONvsbkmfIQNvHa3Bc6STl) | 2:39 | 2022-09-01 |  |
 | [رجوله برجوله](https://open.spotify.com/track/6zHTueE7m07zUriRDA5qIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/0RpaDyeJRmBWFpWWTlFPmM) | 2:39 | 2021-12-16 | 2022-07-29 |
 | [ست الدار](https://open.spotify.com/track/0grRZWW58zX4wvEqa2egZ7) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/48YwDUsVYuSRX7wb5yOhpr) | 2:35 | 2022-07-14 |  |
 | [ست الدار](https://open.spotify.com/track/0oLd6k3kyus10YjweGcRnU) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/1qUtZxDRJ8C9214Axp9bl7) | 2:35 | 2021-12-16 | 2022-07-28 |

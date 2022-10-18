@@ -4,12 +4,13 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-66 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
+67 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bad Bitch](https://open.spotify.com/track/0GvgMLQN98WOVkkN6iuSQF) | [Peach Club](https://open.spotify.com/artist/0iqaZVmBEEmjk5FcoEOPVv) | [Cherry Baby EP](https://open.spotify.com/album/38IosoVjY7oVRh7AYtlPpA) | 4:00 | 2021-06-02 |  |
-| [Bad Lieutenant](https://open.spotify.com/track/68xwEFbMGQ2yet7YiuA4Kg) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Bad Lieutenant](https://open.spotify.com/album/0D3F58REntXQ5apUoQimOV) | 3:17 | 2021-06-02 |  |
+| [Bad Lieutenant](https://open.spotify.com/track/5OtJV84lmbqSfrE8VBLFBy) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Bad Lieutenant](https://open.spotify.com/album/03XbxOVj2wfUVZrccBgPBB) | 3:17 | 2021-06-02 |  |
+| [Bad Lieutenant](https://open.spotify.com/track/68xwEFbMGQ2yet7YiuA4Kg) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Bad Lieutenant](https://open.spotify.com/album/0D3F58REntXQ5apUoQimOV) | 3:17 | 2021-06-02 | 2022-10-18 |
 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 | 2021-06-02 |  |
 | [Bad Reputation](https://open.spotify.com/track/5M5ySjWYS4s6hi2pEvEwb5) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Remastered\)](https://open.spotify.com/album/4W6ZPZ7h5P3F9oL2Y3oN75) | 2:50 | 2021-06-02 | 2022-07-29 |
 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 | 2021-06-02 |  |

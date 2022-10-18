@@ -4,7 +4,7 @@
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-135 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/0M6njmtzRHYynJsPIx1FqT)
+136 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/0M6njmtzRHYynJsPIx1FqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [County Line](https://open.spotify.com/track/4RIneS2VuDIzSaN4WRbFLD) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Wit's End](https://open.spotify.com/album/4yVsTp41xK16NMHyNQYuyy) | 5:37 | 2018-12-11 | 2022-06-10 |
 | [County Line](https://open.spotify.com/track/4eLiCNf1Yy1ry1Kpl0KYHV) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Wit's End](https://open.spotify.com/album/3gw0MWlmFki30UNjQr92JZ) | 5:37 | 2018-12-11 | 2022-07-29 |
 | [Dear God \(Sincerely M.O.F.\)](https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W) | [Monsters Of Folk](https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj) | [Monsters Of Folk](https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL) | 5:07 | 2018-12-11 | 2022-07-29 |
+| [Dry Your Eyes](https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 4:12 | 2018-12-11 |  |
 | [Dry Your Eyes](https://open.spotify.com/track/3wfyXleQB8piYZimuVLazF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/2vBwQxoey9MJ7CApSpGya9) | 4:12 | 2018-12-11 | 2022-07-29 |
 | [Dusty Trails](https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl) | 4:24 | 2018-12-11 | 2022-07-29 |
 | [Dusty Trails](https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 4:24 | 2018-12-11 |  |
@@ -37,7 +38,7 @@
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2018-12-11 | 2022-07-29 |
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2018-12-11 |  |
 | [Florida](https://open.spotify.com/track/2ThHGTlfGw9uzQwgTFk2nK) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Good Mood Fool](https://open.spotify.com/album/6N0O0Smt0qOTTJYmcGQ4ss) | 4:25 | 2018-12-11 | 2022-07-29 |
-| [Florida](https://open.spotify.com/track/7Gp9a203CEybAAeHfegOFX) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Good Mood Fool](https://open.spotify.com/album/2IzDjQKBPexTK0BZsAHhxk) | 4:25 | 2018-12-11 |  |
+| [Florida](https://open.spotify.com/track/7Gp9a203CEybAAeHfegOFX) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Good Mood Fool](https://open.spotify.com/album/2IzDjQKBPexTK0BZsAHhxk) | 4:25 | 2018-12-11 | 2022-10-18 |
 | [Giant of Illinois](https://open.spotify.com/track/5PKq3gMexDhqvHb3LsJDpK) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Things Are Really Great Here, Sort Of...](https://open.spotify.com/album/1nXNVxTKqOzvy7zYAmddR0) | 3:31 | 2018-12-11 | 2022-07-28 |
 | [Goin' Home](https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:53 | 2018-12-11 |  |
 | [Goin' Home](https://open.spotify.com/track/6smJr4cmKlPE7EQrN8XItq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Up In The Air \[Music From The Motion Picture\]](https://open.spotify.com/album/5bif3MPGjOxCM4Sw1Nvh1d) | 4:53 | 2018-12-11 | 2022-07-29 |

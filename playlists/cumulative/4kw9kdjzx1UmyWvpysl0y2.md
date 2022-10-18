@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-288 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+289 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
+| [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 |  |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 | 2022-08-12 |  |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |

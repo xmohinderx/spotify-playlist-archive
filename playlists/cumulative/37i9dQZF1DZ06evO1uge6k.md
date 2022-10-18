@@ -4,10 +4,11 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
+60 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Fool for Your Stockings](https://open.spotify.com/track/0NmxhwG2NwLhY6iCJIfGWA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [One Foot in the Blues](https://open.spotify.com/album/0etWjNu0rvWYY3fUMacV14) | 4:16 | 2022-10-17 |  |
 | [Arrested for Driving While Blind](https://open.spotify.com/track/5NR2RuQ5rQplGLaKS7ZwAu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:06 | 2022-10-12 |  |
 | [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 | 2022-09-17 |  |
 | [Bad Girl \- 2008 Remaster](https://open.spotify.com/track/6xjNioXsWUYOduKYUrjuEX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:22 | 2022-09-30 | 2022-10-12 |
@@ -59,7 +60,7 @@
 | [Sleeping Bag](https://open.spotify.com/track/1ESuT2y9AKu1zMdxq47qW5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:02 | 2022-09-17 |  |
 | [Stages](https://open.spotify.com/track/4Sx0FBH0vNWZVxeUCpdHoL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:32 | 2022-09-17 |  |
 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 7:20 | 2022-09-17 |  |
-| [Thunderbird \- 2005 Remaster](https://open.spotify.com/track/3BMhtHTzh510RHekQ5YT3B) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:10 | 2022-09-17 |  |
+| [Thunderbird \- 2005 Remaster](https://open.spotify.com/track/3BMhtHTzh510RHekQ5YT3B) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:10 | 2022-09-17 | 2022-10-18 |
 | [Tube Snake Boogie](https://open.spotify.com/track/7fuEQbsUxgUpnvwuHl2S0Q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \('That Little Ol' Band From Texas' Original Soundtrack\)](https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh) | 3:06 | 2022-09-17 |  |
 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 | 2022-09-17 |  |
 | [TV Dinners \- 2008 Remaster](https://open.spotify.com/track/4c0IaYoW94OEFhJE40zcQb) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:50 | 2022-09-17 | 2022-10-16 |

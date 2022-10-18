@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-92 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+93 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 | 2022-10-04 |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |
 | [Child](https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG), [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [Child](https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj) | 2:48 | 2022-08-08 |  |
-| [Clutch](https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Clutch](https://open.spotify.com/album/2XjeQuBI4tCzwlNTsC7EZo) | 3:03 | 2022-07-22 |  |
+| [Clutch](https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Clutch](https://open.spotify.com/album/2XjeQuBI4tCzwlNTsC7EZo) | 3:03 | 2022-07-22 | 2022-10-18 |
 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 | 2021-11-05 |  |
 | [Count to Five \(Tensnake Remix\) \- Mixed](https://open.spotify.com/track/4bq9akE1BhJPFMd6SZBQa6) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 4:26 | 2021-11-05 |  |
 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 | 2021-11-05 |  |
@@ -31,6 +31,7 @@
 | [ENTROPY/](https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [ENTROPY/](https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm) | 3:37 | 2022-05-06 | 2022-07-12 |
 | [Everything Is Changing \- Radio Edit](https://open.spotify.com/track/5aTCZ0Hc3GtpqcC6mCKTyY) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Everything Is Changing](https://open.spotify.com/album/02yAJpRDnL6aMkVenvEUlt) | 3:11 | 2022-10-03 |  |
 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 | 2021-11-05 |  |
+| [Feel's Like Someone's Comin'](https://open.spotify.com/track/2EVGocaGZCElznJxqmg2yn) | [Joe Lewandowski](https://open.spotify.com/artist/7vElnPfV9oKuSqfN1Zptbl) | [Feel's Like Someone's Comin'](https://open.spotify.com/album/6oHfW34zDkRBzaldkpGnUt) | 3:03 | 2022-10-17 |  |
 | [Fire](https://open.spotify.com/track/7ey8VyqgIjVqXQWM2kWkZM) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 4:02 | 2021-11-05 |  |
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-25 | 2022-07-28 |
 | [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 | 2022-06-21 |

@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-170 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
+172 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,14 +51,14 @@
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-12-03 | 2022-07-29 |
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-12-03 | 2022-07-28 |
 | [Do Do Do](https://open.spotify.com/track/3YwRKGjwuE2vjd6SRxUgqi) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Do Do Do](https://open.spotify.com/album/1mzhBqG1GEnitZzIYlbUxC) | 2:51 | 2021-12-03 | 2022-07-29 |
-| [Do Over](https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Do Over](https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU) | 2:57 | 2022-04-15 |  |
+| [Do Over](https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Do Over](https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU) | 2:57 | 2022-04-15 | 2022-10-18 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 |  |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-12-03 | 2022-07-24 |
 | [Drunk Sleeping In Taxis](https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Drunk Sleeping In Taxis](https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm) | 3:33 | 2021-12-03 |  |
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-01-07 |  |
 | [Emo Song](https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:38 | 2021-12-03 |  |
 | [Emotion](https://open.spotify.com/track/1WurdHYjLIZKqCCOLe9lQb) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Emotion](https://open.spotify.com/album/0Czj0tGSkcsBdOcqLFw2YT) | 1:44 | 2021-12-03 | 2022-07-27 |
-| [Everyday](https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Everyday](https://open.spotify.com/album/2NooKyai1JcE7xuu5RDTwr) | 2:43 | 2021-12-03 |  |
+| [Everyday](https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Everyday](https://open.spotify.com/album/2NooKyai1JcE7xuu5RDTwr) | 2:43 | 2021-12-03 | 2022-10-18 |
 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 | 2021-12-03 |  |
 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 | 2022-01-21 |  |
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2021-12-03 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-12-03 | 2022-07-29 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2022-07-15 |  |
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-12-03 |  |
+| [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 | 2022-09-02 |  |
 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 | 2021-12-03 | 2022-10-14 |
 | [Less Like](https://open.spotify.com/track/5iEvWfUIV8sWCU5thnoXHt) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Less Like](https://open.spotify.com/album/6BLQDI9duVfrkQ8tjNeqRn) | 2:53 | 2021-12-03 | 2022-07-29 |
 | [LITTLE FIRES](https://open.spotify.com/track/3rZbiEFem2bm8zYUIA9ecd) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [LITTLE FIRES](https://open.spotify.com/album/1vVD2Jm1xVWk3TGhdQ6z97) | 2:59 | 2022-02-04 | 2022-07-18 |
@@ -135,6 +136,7 @@
 | [Selfish](https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil) | 2:26 | 2021-12-03 |  |
 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 | 2021-12-03 |  |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 |  |
+| [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 | 2022-09-02 |  |
 | [Silver Into Rain](https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Silver Into Rain](https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd) | 3:21 | 2022-02-04 | 2022-10-13 |
 | [SnowNoiSe](https://open.spotify.com/track/4JtExvx1bGIpS1H3d4WzFK) | [NOILION](https://open.spotify.com/artist/7A8ngqXYxuxssjjLk8c0BH) | [SnowNoiSe](https://open.spotify.com/album/2Wv9nMgTWd7r5uJiAowd8L) | 3:02 | 2022-04-15 | 2022-07-28 |
 | [Socially Alive](https://open.spotify.com/track/1sYgPZEyrbHr2Zo2R6g06z) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Socially Alive](https://open.spotify.com/album/6E1POnYQD6QWppdK9tZBcv) | 2:57 | 2021-12-03 | 2022-07-29 |

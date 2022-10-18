@@ -4,7 +4,7 @@
 
 > A swinging Jazz soundtrack for your drive time.
 
-201 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/0C5uVtE1kP1r63LtVzXgsK)
+202 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/0C5uVtE1kP1r63LtVzXgsK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Blue Minor \- Rudy Van Gelder Edition/1998 Remaster](https://open.spotify.com/track/4K2wcfSfyNYIJNhoCvVnbP) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin' \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX) | 10:19 | 2021-12-16 |  |
 | [Blues For Benny \- Remastered 1998](https://open.spotify.com/track/78jOpEmX8qzsEzXCe4C0FX) | [The Frank Foster Quintet](https://open.spotify.com/artist/1zXucB9S1Oqy7WwBXUVR0l) | [Here Comes Frank Foster / George Wallington Showcase](https://open.spotify.com/album/0KgGiJRoLCmI2m0z27FwCG) | 3:49 | 2021-12-16 | 2022-09-29 |
 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 | 2021-12-16 |  |
-| [Blues for J.P.](https://open.spotify.com/track/2nghi9VfQXW7uqBeTHuels) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [1963](https://open.spotify.com/album/5cAJIzjpg8LOLe7tHGeIKN) | 3:29 | 2022-10-01 |  |
+| [Blues for J.P.](https://open.spotify.com/track/2nghi9VfQXW7uqBeTHuels) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [1963](https://open.spotify.com/album/5cAJIzjpg8LOLe7tHGeIKN) | 3:29 | 2022-10-01 | 2022-10-18 |
 | [Blues For O.T.](https://open.spotify.com/track/4D4vqh8aun2oRFHDCEUEIQ) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Man From Two Worlds](https://open.spotify.com/album/2N6zxHMBYAJq6e1GZYk81M) | 4:34 | 2021-12-16 | 2022-10-08 |
 | [Blues Function](https://open.spotify.com/track/55cpqzYGlvah8FSmlxroCQ) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Bluesnik](https://open.spotify.com/album/6Z0WFkHsVLpDZA7lVZlJgH) | 7:18 | 2021-12-16 | 2022-07-28 |
 | [Blues Function \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Bluesnik \(Remastered/ Expanded Edition\)](https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW) | 7:19 | 2022-06-23 |  |
@@ -43,6 +43,7 @@
 | [Blues\-Blues\-Blues \- Digital Remaster/2007](https://open.spotify.com/track/5ZdiptWvOuvw0W73ZuqGte) | [Freddie Redd](https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV) | [Shades Of Redd \(Remastered\)](https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF) | 5:57 | 2021-12-16 | 2022-09-29 |
 | [Bolivia](https://open.spotify.com/track/3znm5SwKU1R0Pin9qkaweZ) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT), [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC), [Sam Jones](https://open.spotify.com/artist/1kAv08slEx0DSJkSOrKlsY), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [Third Set](https://open.spotify.com/album/0Wv7KPJsuYJggFVul2CzNi) | 12:39 | 2022-05-20 | 2022-10-08 |
 | [Bouncing With Myself](https://open.spotify.com/track/5sQmQ2bd4rRnw4t350a7Qz) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 7:37 | 2021-12-16 | 2022-07-29 |
+| [Broken Conversations](https://open.spotify.com/track/6RGjEDKAVrGpnKtLXcq9ta) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2), [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [Lost in Translation](https://open.spotify.com/album/5ztmAaoF2ikqtGJJJ8KWcn) | 2:48 | 2022-10-07 |  |
 | [Brown](https://open.spotify.com/track/7nsAltNT0LQC7f11Heikhd) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:30 | 2022-04-13 |  |
 | [Ca\-Lee\-So](https://open.spotify.com/track/4NmKPXHwoW2GTWUwisRZwf) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/6DvTWSduV6WzpowZIJC3PG) | 5:33 | 2022-10-01 |  |
 | [Camouflage \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 | 2021-12-16 |  |

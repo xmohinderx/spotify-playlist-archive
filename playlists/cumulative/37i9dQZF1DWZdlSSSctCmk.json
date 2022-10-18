@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Sketches From An Island 2",
+        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224428,
+      "name": "Brunch With Suki",
+      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
+    },
+    {
+      "album": {
         "name": "Wandering",
         "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
       },
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 347317,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759"

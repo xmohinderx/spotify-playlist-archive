@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-590 songs - 1 day 8 hr 46 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+591 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 | 2022-02-08 | 2022-04-20 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-28 |  |
 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 | 2022-08-03 | 2022-08-09 |
-| [Cure For Me](https://open.spotify.com/track/7Iiek3SL6PluRxj9IgbTC1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:18 | 2022-10-10 |  |
+| [Cure For Me](https://open.spotify.com/track/7Iiek3SL6PluRxj9IgbTC1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:18 | 2022-10-10 | 2022-10-18 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-30 | 2022-10-03 |
 | [Cómo No Amarla](https://open.spotify.com/track/3QKefGfjGUP4DM8eDyDQ3K) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Ahí Viene la Subida](https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ) | 4:13 | 2022-05-20 | 2022-06-15 |
 | [Decide Tú](https://open.spotify.com/track/0uzmqJiynxBYYZ1Eo6iPkm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:30 | 2022-06-22 | 2022-07-12 |
@@ -308,7 +308,8 @@
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-31 | 2022-09-02 |
 | [Melancólicos Anónimos](https://open.spotify.com/track/1s4jVre4ZgBm3sVJP1NTrl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:19 | 2022-02-15 | 2022-02-26 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-05-10 | 2022-05-28 |
-| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-08-25 |  |
+| [Menthol](https://open.spotify.com/track/2TiaktqJAtI0CsTL9NfyAS) | [Los Audio Kimikos](https://open.spotify.com/artist/4jS4FtPkA8eOSeXKlRz2dl), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Myztiko](https://open.spotify.com/artist/2aZII4u5vhdDD2aCKvPfnU) | [Menthol](https://open.spotify.com/album/4J0cGevPAxdyPGSYrcSt09) | 2:57 | 2022-10-17 |  |
+| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-08-25 | 2022-10-18 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO) | [Blazer Zero](https://open.spotify.com/artist/2ihGOBxVB7zeDYbieFyeHO) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB) | 3:39 | 2022-07-18 | 2022-07-21 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4KbSQQsRUGuwnwe6PDZB9v) | [Martín Vizcarra](https://open.spotify.com/artist/1cmcYJNbE5UsCnPn5jtfUe) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/6KuRgyWHYHcec0e3YUqLdg) | 3:39 | 2022-07-09 | 2022-07-14 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K) | [Nimaru Sasuki](https://open.spotify.com/artist/5UZD1JyyirR8AeaMaeQ0rs) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/2K6BxWzcd239wPWr3SVURE) | 3:39 | 2022-07-13 | 2022-07-19 |
@@ -595,7 +596,7 @@
 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2022-07-20 | 2022-07-25 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-02-08 | 2022-02-21 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-10 | 2022-05-28 |
-| [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-08-23 | 2022-10-12 |
+| [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-08-23 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-18 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-02-08 | 2022-03-16 |
 

@@ -4,7 +4,7 @@
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-327 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/2B4rpcPWiyrM64IWAHu8yo)
+328 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/2B4rpcPWiyrM64IWAHu8yo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 | 2022-05-30 |  |
 | [I Miss You](https://open.spotify.com/track/3jBvVySFsir2Cn8kGH90Ah) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits \(Explicit Version\)](https://open.spotify.com/album/2ghxwONTYbBQNxkROvij6C) | 3:47 | 2020-07-23 | 2022-07-29 |
 | [I Predict A Riot](https://open.spotify.com/track/6q0HeADAxsP27jDJQSKaCB) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/04sr0EUQWLrByyOKYZNS2K) | 3:53 | 2020-07-23 | 2022-07-29 |
+| [I Predict a Riot](https://open.spotify.com/track/1GMDNgkkcMO9EGCN8qmny1) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6GygB5BdiE2SkV63jtDrEm) | 3:54 | 2022-05-30 |  |
 | [I Predict a Riot](https://open.spotify.com/track/3fMoeGj4mDusrmYOOF60aC) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/1jnbLwKGgg3XoKYlDmaxmF) | 3:54 | 2022-05-30 | 2022-10-13 |
 | [I Will Possess Your Heart](https://open.spotify.com/track/77vYwoC7e3pVoPq8BA9CuL) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Narrow Stairs](https://open.spotify.com/album/7G84Q2FcA43cjLeWBSIedv) | 8:25 | 2020-07-23 |  |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2020-07-23 |  |
@@ -255,7 +256,7 @@
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2022-05-30 |  |
 | [Steady, as She Goes](https://open.spotify.com/track/2i37Y95xkPhHtoYBywVBUm) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4o1jHCrMnkiRMdFpyCnNaH) | 3:35 | 2020-07-23 | 2022-07-29 |
 | [Steady, As She Goes](https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/54phnRxP2PmwQDuUfiNFPx) | 3:35 | 2020-07-23 | 2022-01-22 |
-| [Still in Love Song](https://open.spotify.com/track/0nHU0E1betoeYGxM4mvo8s) | [The Stills](https://open.spotify.com/artist/0fdKgNnfYBXuLEwoSdIf76) | [Logic Will Break Your Heart \(U.S\. Version\)](https://open.spotify.com/album/1HSDFwFV8ErtkwmpWqf6sJ) | 3:40 | 2020-07-23 |  |
+| [Still in Love Song](https://open.spotify.com/track/0nHU0E1betoeYGxM4mvo8s) | [The Stills](https://open.spotify.com/artist/0fdKgNnfYBXuLEwoSdIf76) | [Logic Will Break Your Heart \(U.S\. Version\)](https://open.spotify.com/album/1HSDFwFV8ErtkwmpWqf6sJ) | 3:40 | 2020-07-23 | 2022-10-18 |
 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2020-07-23 |  |
 | [Such Great Heights](https://open.spotify.com/track/3iDK8BAaBUatPR84gdfa9g) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/19AxGebIDoa4PrkvuZ2ACZ) | 4:26 | 2020-07-23 | 2022-07-29 |
 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 | 2022-05-30 |  |

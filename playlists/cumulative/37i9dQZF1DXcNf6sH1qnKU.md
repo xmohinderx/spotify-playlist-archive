@@ -4,7 +4,7 @@
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-102 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
+103 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Majorette](https://open.spotify.com/track/73guNXAOFu7XB6Sby4ahCp) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Thank Your Lucky Stars](https://open.spotify.com/album/7zPfNw88t2Xv2nVXWKqQls) | 4:00 | 2022-01-11 | 2022-07-29 |
 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 | 2021-10-01 | 2022-10-12 |
 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 | 2021-10-01 |  |
-| [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 | 2021-10-01 |  |
+| [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 | 2021-10-01 | 2022-10-18 |
 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 | 2021-10-01 |  |
 | [Nothing Natural](https://open.spotify.com/track/6zrL6etENCa2ZEwnPcxGkb) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/4sy5PYpO6j5BgLajSMGcZD) | 5:54 | 2021-10-01 | 2022-07-29 |
 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 | 2021-10-01 |  |
@@ -71,6 +71,7 @@
 | [Outdoor Miner](https://open.spotify.com/track/2WzZo5zzYL1sn8vjTUnXWV) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [For Love](https://open.spotify.com/album/1h0ppp7vyFT9hNrY5DMj2L) | 2:51 | 2021-10-01 | 2022-03-10 |
 | [Pearl](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 | 2021-10-01 | 2022-07-26 |
 | [Pearl \- Edit](https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:50 | 2021-10-01 | 2022-07-29 |
+| [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 | 2021-10-01 |  |
 | [Pulling Our Weight](https://open.spotify.com/track/22tKhWXrNZ3XxlOIBXJlkm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/4vIEzWfChYUpciMNXdfHwZ) | 3:21 | 2021-10-01 | 2022-07-29 |
 | [Pulling Our Weight](https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ) | 3:21 | 2021-10-01 | 2022-10-07 |
 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 | 2021-10-01 |  |

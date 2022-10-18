@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-362 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+363 songs - 22 hr 26 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-10-14 |  |
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-07-11 |  |
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-11-12 | 2022-07-28 |
-| [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-07-11 |  |
+| [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-07-11 | 2022-10-18 |
 | [Heart of Gold](https://open.spotify.com/track/6llEKdd9fteEPFnyV0OLZc) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Heart of Gold](https://open.spotify.com/album/5tYPEtQgBSORry07FxxmO7) | 2:51 | 2021-11-12 | 2022-07-29 |
 | [Heart Shape](https://open.spotify.com/track/0Y2d6bZXLoQLfJvI7Sqr5q) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real b/w Heart Shape](https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu) | 3:16 | 2022-05-25 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/5ZiigafDOtWnrNixa0ukEc) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [Heaven](https://open.spotify.com/album/76Tv0cocmSJNZXiS2tAOi3) | 4:45 | 2021-11-12 | 2022-01-13 |
@@ -347,6 +347,7 @@
 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-05-25 |  |
 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 | 2022-04-01 |  |
 | [TNT](https://open.spotify.com/track/179A1qSTXEGDi9AZ6DpOW3) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [TNT](https://open.spotify.com/album/762iwsnUB2xG34C0PdPUuZ) | 4:04 | 2021-11-12 | 2022-07-29 |
+| [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 | 2022-10-14 |  |
 | [Turn Off The News \(Build A Garden\) \- Acoustic](https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 3:01 | 2021-11-12 |  |
 | [UFOF](https://open.spotify.com/track/0DZfBeJhOPyjhqoaTkE3kZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [UFOF](https://open.spotify.com/album/13arYJWgDb5xGDHU49Nlj9) | 3:08 | 2021-11-12 | 2022-07-28 |
 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 | 2022-07-11 |  |

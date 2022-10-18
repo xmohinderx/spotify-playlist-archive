@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-227 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+228 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [I Won't Do U Like That](https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Call Collect 8](https://open.spotify.com/album/5WKe6hq1b2Ywo2wpn1o2fD) | 2:35 | 2021-09-03 |  |
 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 | 2021-07-09 |  |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-29 |
-| [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-26 |  |
+| [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-26 | 2022-10-18 |
 | [J.A.M\. \(Just A Minute\)](https://open.spotify.com/track/7eEo7A0Kw7xAQJLLh3WdKq) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [J.A.M\. \(Just A Minute\)](https://open.spotify.com/album/7umzCfogCGrZbYgTYqc2vh) | 3:31 | 2022-04-22 |  |
 | [Jam On](https://open.spotify.com/track/0qDpUNoPqMV4aTiVepqXOQ) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [Jam On](https://open.spotify.com/album/2pf5YXATqLlqx7R0eMRKRg) | 5:02 | 2020-11-20 | 2022-01-29 |
 | [Jammin' Tonight](https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Jammin' Tonight](https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7) | 4:07 | 2022-08-26 |  |
@@ -159,6 +159,7 @@
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2020-11-20 | 2022-04-09 |
 | [Out Of Love \- Single Version](https://open.spotify.com/track/1zTLGwLbuOJeTMPsknMNDc) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Out Of Love](https://open.spotify.com/album/4P5gCGasm3kNIop9UKG53e) | 3:22 | 2020-11-20 | 2022-04-09 |
 | [Outta Touch](https://open.spotify.com/track/7IHToAweRwCubhQLs0Vy48) | [Corey El](https://open.spotify.com/artist/7MiIOLb4zegDIU0Uq7UKhd) | [Outta Touch](https://open.spotify.com/album/6TQSwl8zJuSJ3uD72qRfMT) | 3:31 | 2021-07-02 | 2022-04-29 |
+| [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 | 2022-10-17 |  |
 | [Patrick Swayze](https://open.spotify.com/track/0jf7jehC9YDd49ipvJDzFS) | [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Patrick Swayze](https://open.spotify.com/album/6BZSvgXRCnf3WjaaOafAwJ) | 3:55 | 2021-10-15 |  |
 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 | 2022-06-17 |  |
 | [Pick Up](https://open.spotify.com/track/40zIrmsbbjNBLm8s2bCUx3) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pick Up](https://open.spotify.com/album/0fOPYWlHgWRi8caKaiy30y) | 3:30 | 2022-07-15 | 2022-09-17 |

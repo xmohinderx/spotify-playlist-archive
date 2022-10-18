@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-284 songs - 17 hr 23 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+285 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Baby Blue](https://open.spotify.com/track/5PC9pAUZns03tp7SxXjVgo) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [blablablue](https://open.spotify.com/album/1cyCmy6etmUKPWqmfAxrOz) | 2:12 | 2022-02-25 | 2022-07-18 |
 | [Beautiful](https://open.spotify.com/track/4zK1WjkD3srlJX4Fq1Gtcq) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/4XibEeMTF3nDZK8zpUXDoS) | 4:22 | 2020-10-17 | 2022-04-21 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-26 | 2022-10-14 |
+| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-08-26 |  |
 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 | 2022-09-01 |
 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 | 2020-10-17 | 2022-07-04 |
 | [Believe](https://open.spotify.com/track/26UKqa0ZbJKqPCos6kke1B) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/5sirXG61pe7mBq8g6IlNxG) | 3:54 | 2020-10-17 | 2022-04-20 |
@@ -284,7 +285,7 @@
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 |  |
 | [What We Found](https://open.spotify.com/track/60npzcMuSF3IgdQoAHIFfx) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG) | [What We Found](https://open.spotify.com/album/3DmN6DaelY8XtdGFQzuBzp) | 3:10 | 2021-02-19 | 2022-07-18 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 | 2022-09-17 |
-| [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-07-16 |  |
+| [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-07-16 | 2022-10-18 |
 | [Will I Get Off Easy](https://open.spotify.com/track/1RsqyOxg254bZioR6jx5lD) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Will I Get Off Easy](https://open.spotify.com/album/6dFZJZEoVLsHnaq4a4UZwo) | 3:29 | 2020-10-17 | 2022-04-20 |
 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 | 2022-08-26 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-10-17 | 2022-04-19 |

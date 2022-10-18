@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-186 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
+187 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Smile](https://open.spotify.com/track/33Ya9pdh5KEpbaG1Q8D3eh) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq) | 6:02 | 2021-10-22 | 2022-07-29 |
 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 | 2021-10-22 | 2022-07-29 |
 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 | 2022-07-11 | 2022-10-13 |
+| [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2022-07-11 |  |
 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 | 2021-12-09 |  |
 | [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 | 2021-10-22 | 2022-07-29 |
 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 | 2021-10-22 |  |
@@ -177,7 +178,7 @@
 | [Tiger Mountain](https://open.spotify.com/track/5EUiOwwy0NAuaopdn5s7Sw) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/5DS2LGEb5JALEKTnYTaWls) | 6:22 | 2021-10-22 | 2022-07-29 |
 | [Toronto](https://open.spotify.com/track/1MsL6JYYuh9CCxD53zbrfV) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Toronto](https://open.spotify.com/album/0Lc5iXOUviqJeRMtCAAlbK) | 3:20 | 2021-10-22 | 2022-07-29 |
 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 | 2021-10-22 | 2022-07-29 |
-| [Vessel](https://open.spotify.com/track/1Z3cJgi5T2qhrxSR8vtFEh) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Alarms in the Heart](https://open.spotify.com/album/6xvzrRUXEUAPeo6iIVUzy2) | 5:12 | 2022-07-11 |  |
+| [Vessel](https://open.spotify.com/track/1Z3cJgi5T2qhrxSR8vtFEh) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Alarms in the Heart](https://open.spotify.com/album/6xvzrRUXEUAPeo6iIVUzy2) | 5:12 | 2022-07-11 | 2022-10-18 |
 | [Vessel](https://open.spotify.com/track/4wGGWZHX1RXAkJLngvOKrR) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Alarms in the Heart](https://open.spotify.com/album/2mfBfecmeq4XsCUJRq4PPp) | 5:12 | 2021-10-22 | 2022-07-29 |
 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 | 2022-07-11 |  |
 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 | 2021-10-22 |  |

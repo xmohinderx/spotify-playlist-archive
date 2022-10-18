@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg">Dr Feel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 55 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 676 likes - 55 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 38 | [Zamekile \- Club Edit](https://open.spotify.com/track/6lK80e4t6CNBlSCMKbrXfi) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Zamekile](https://open.spotify.com/album/0LG7AnjJMlJvjAia17myir) | 8:24 |
 | 39 | [Nefarious \- Atmospheric Mix](https://open.spotify.com/track/2zRynSzo4zMUtpvgodmeBl) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Ingwenya EP](https://open.spotify.com/album/1ex9FmpXwOQUuCLBSJdskM) | 7:01 |
 | 40 | [Matasa](https://open.spotify.com/track/6G0od201NbSzN4Yutk2Ufc) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Matasa](https://open.spotify.com/album/1r7Z8yvkt3sFRt7XK0jFR7) | 7:33 |
-| 41 | [Jika](https://open.spotify.com/track/4DByodhCD8rykLsxgiCXt8) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Jika EP](https://open.spotify.com/album/3PHBGOYUSYCUczVqnaDmga) | 6:10 |
+| 41 | [Jika](https://open.spotify.com/track/3YHmg8KZYgKnj0Z6jqyyOy) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Jika EP](https://open.spotify.com/album/620uN2e9ilPg65f7hDSJBr) | 6:10 |
 | 42 | [Fambai Neni](https://open.spotify.com/track/3mr5NkN0MnqpVssi5mEEI2) | [HALU!](https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z), [Reverb7](https://open.spotify.com/artist/6eWzuNjgNPDhshDsIT0NAy), [Adiona Chidzonga](https://open.spotify.com/artist/76avF7YCvtjytdxOfnd4Hw) | [Fambai Neni](https://open.spotify.com/album/1RhYjWnenPSe3e3llwX5mN) | 6:00 |
 | 43 | [Suka](https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S), [104 BPM](https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi) | [Suka](https://open.spotify.com/album/3DIvPF7rZfvZMCQJUpUON7) | 6:19 |
 | 44 | [Ascension \- Club Mix](https://open.spotify.com/track/7yOx1vZmg8davDfpKdiANa) | [Shona SA](https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk), [Audius](https://open.spotify.com/artist/0hlmXXrdo1zokBH5gIeswI), [Native Tribe](https://open.spotify.com/artist/0UERNMh2GUYxeNlI151GfE), [Da Q\-Bic](https://open.spotify.com/artist/0y1IsLnNOTfRm0Rpjz51Q7) | [Ascension](https://open.spotify.com/album/1vRpUch8iE9h7JZeW6aLaQ) | 7:34 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 54 | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/track/1H9TYvAoW9ntBwyP8d0Rna) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Lorraine Ditsebe](https://open.spotify.com/artist/7HXnk61pLAf6l4pEr5Sp3w) | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/album/2yfnsIziWvYQ7YDOTrbHFT) | 4:37 |
 | 55 | [Clarity \- Shredded Mix](https://open.spotify.com/track/5oAaNT8wiuSjHoGLIbJnRU) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Clarity \(Shredded Mix\)](https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S) | 5:41 |
 
-Snapshot ID: `MTY2NDc4OTQwMiwwMDAwMDAwMDkzNjRhODIzMGNkZmUxNDM1NjM0MWY0NmQ2OTg1YWZi`
+Snapshot ID: `MTY2NDc4OTQwMiwwMDAwMDAwMDFlZjBlMjdhMWFhZTFmNzlmMzFjNjE3NzE0MGNlODA0`

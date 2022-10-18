@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-332 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+333 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Connect 5](https://open.spotify.com/track/6GHXF7ip4leelmjjAFYLgE) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Connect 5](https://open.spotify.com/album/2rqHR4Sjr44TPMxAmzJ0pq) | 2:53 | 2021-12-22 | 2022-07-27 |
 | [cool guy](https://open.spotify.com/track/5ifM6wdzeM0hLHhqQFea4P) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [cool guy](https://open.spotify.com/album/0llQ8VXp81FgVxnvnyvLIf) | 3:16 | 2022-06-22 | 2022-07-28 |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2021-12-22 | 2022-10-14 |
+| [Corduroy Dreams](https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 3:26 | 2022-07-04 |  |
 | [Cotton Candy](https://open.spotify.com/track/7K1H5Peem34cxKy40kNFw5) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/265inH5rByFJoFVUYb9D98) | 1:33 | 2021-12-22 | 2022-07-25 |
 | [cowboys don't have friends](https://open.spotify.com/track/0Zt2XPMZ6ZS95OcPCT7sns) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [cowboys don't have friends](https://open.spotify.com/album/7pKkHdMVLyYC5bknWNzOcb) | 2:37 | 2021-12-22 | 2022-07-29 |
 | [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2022-02-04 | 2022-04-10 |
@@ -295,7 +296,7 @@
 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 | 2021-12-22 | 2022-07-22 |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-12-22 | 2022-10-14 |
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-12-22 | 2022-07-29 |
-| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-12-22 |  |
+| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-12-22 | 2022-10-18 |
 | [The Modern Age](https://open.spotify.com/track/6uzUiybCLM0jYozLSvQZBo) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/5yIIxsXGdQucmqHN82xGig) | 3:32 | 2022-03-31 | 2022-04-16 |
 | [The Night](https://open.spotify.com/track/6Pi2UMOtnJJqEUD3Jdalyu) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [The Night](https://open.spotify.com/album/0VO3UbmFTG70b27lk5N9p0) | 3:24 | 2022-03-31 | 2022-07-08 |
 | [The Rush](https://open.spotify.com/track/3sBpAPxT5vYbj0haQEr5lA) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [The Rush](https://open.spotify.com/album/4zXVhFAp2JpAv4iUOfEugv) | 3:18 | 2022-03-31 | 2022-07-07 |

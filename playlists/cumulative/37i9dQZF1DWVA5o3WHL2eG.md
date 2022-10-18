@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-549 songs - 1 day 4 hr 42 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+550 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [I Hate You, I Love You](https://open.spotify.com/track/18RK0e1rjXAF7sPE8h3IBn) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [I Hate You, I Love You](https://open.spotify.com/album/7lKYxMi5eKpAtoEHDfBwEj) | 2:22 | 2022-09-06 | 2022-10-05 |
 | [I Like](https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [I Like](https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF) | 2:31 | 2022-07-05 | 2022-07-29 |
 | [I Like](https://open.spotify.com/track/3F7JkvI31gWw0ifIA553X5) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [I Like](https://open.spotify.com/album/5W3ngAppnDgT0px27YkXNI) | 2:31 | 2022-07-05 | 2022-08-03 |
-| [I Thought I Could Swim](https://open.spotify.com/track/0KpBWHG4yujKhnRetYYzzm) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [I Thought I Could Swim](https://open.spotify.com/album/5qMIuw4jSPn3U7AglBvF4X) | 5:35 | 2022-10-04 |  |
+| [I Thought I Could Swim](https://open.spotify.com/track/0KpBWHG4yujKhnRetYYzzm) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [I Thought I Could Swim](https://open.spotify.com/album/5qMIuw4jSPn3U7AglBvF4X) | 5:35 | 2022-10-04 | 2022-10-18 |
+| [I Thought I Could Swim](https://open.spotify.com/track/1wbZ4Q4MXPyXMOnOYJVOK0) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [I Thought I Could Swim](https://open.spotify.com/album/1ZEohi9YHX7ysT9gBMLFwc) | 5:35 | 2022-10-04 |  |
 | [I Wanna Leave](https://open.spotify.com/track/6WjrEhPZ9oezEwacrsu62m) | [CHRISTL](https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W) | [I Wanna Leave](https://open.spotify.com/album/0mvGBWUMxf1jT60TwDGXd2) | 2:58 | 2021-12-21 | 2022-01-05 |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-02-01 | 2022-03-08 |
 | [I'll Wait](https://open.spotify.com/track/4Vqt0vr38rhIGpZZmZzVZ2) | [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG) | [I'll Wait](https://open.spotify.com/album/48S3Lf4GXMHRUeMKRIU1RD) | 4:30 | 2021-12-21 | 2022-01-05 |

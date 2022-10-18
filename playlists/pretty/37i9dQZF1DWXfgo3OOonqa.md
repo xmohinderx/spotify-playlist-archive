@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,967 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,006 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 14 | [DUBBELT](https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [DUBBELT](https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk) | 2:38 |
 | 15 | [En Chans](https://open.spotify.com/track/2JDsYmNrm68Om1TK0D4VeA) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [En Chans](https://open.spotify.com/album/2iWpYrj5Crkov7rTVn7TCU) | 2:04 |
 | 16 | [Tar hand om dig](https://open.spotify.com/track/2GcKDi81Fn68QAnwWV0E6j) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tar hand om dig](https://open.spotify.com/album/2efLOVdyxvkHRcPjLXOHEv) | 3:06 |
-| 17 | [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 |
+| 17 | [Paid](https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:16 |
 | 18 | [D KLART DOM HATAR OSS](https://open.spotify.com/track/2YKJ2m1l8GxKjzcCVVy7v2) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [ALLVARLIGT + D KLART DOM HATAR OSS](https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb) | 2:14 |
 | 19 | [ALLVARLIGT](https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [ALLVARLIGT + D KLART DOM HATAR OSS](https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb) | 3:18 |
 | 20 | [Vikt](https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Vikt](https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [Hammarkullen \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Studio 100](https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej) | 2:49 |
 | 80 | [Lägg ner ditt vapen Remix \- Recorded at Spotify Studios Stockholm \(feat\. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats\)](https://open.spotify.com/track/08AjLNql6tuf1avIzHdKns) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk), [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5), [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [SHRN](https://open.spotify.com/artist/1s08lsfz12cC55p6MB5XMf), [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk), [Aleks](https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7), [Ismael](https://open.spotify.com/artist/4kyXgKmaqyXCLW5e0sxqMj), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN), [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4) | [Studio 100 \(feat\. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats\)](https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C) | 5:21 |
 
-Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDgyNWU0MDU3YmMwYTA5ZWY5OGRiMzQ4Mjk2OTljMGI4`
+Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDVlYzM1ZDhjMjk0NmFhMTE1NGFmY2EwZmY1MmZhMDM4`

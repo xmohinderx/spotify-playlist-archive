@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-174 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+175 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 | 2022-02-18 |  |
 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 | 2022-02-18 |  |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2022-02-18 | 2022-10-04 |
-| [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-06-17 |  |
+| [Baby Tonight](https://open.spotify.com/track/4Y6EyYdcDG77hdj8uvpdM0) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/5SFfKzez4Lh100nWLmupS0) | 3:18 | 2022-06-17 |  |
+| [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 | 2022-06-17 | 2022-10-18 |
 | [Back To Life](https://open.spotify.com/track/7Cgqdh9mds9zdbwitjanVY) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 3:42 | 2022-02-18 | 2022-02-26 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-02-18 | 2022-02-26 |
 | [Bamboo](https://open.spotify.com/track/7aJGnriGYMhFONUgC4yDFh) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Bamboo](https://open.spotify.com/album/5nbiNNINR828Q0QWmZ0pxK) | 4:50 | 2022-02-18 |  |

@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Chills",
+        "url": "https://open.spotify.com/album/1oTz9EXkj804GhKZNhmzhk"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188475,
+      "name": "Chills",
+      "url": "https://open.spotify.com/track/0u5RyQsiu3ImN5uUAatTuz"
+    },
+    {
+      "album": {
         "name": "Cold Cold Night",
         "url": "https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X"
       },
@@ -1427,7 +1445,7 @@
           "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
         }
       ],
-      "date_added": "2022-10-15",
+      "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170400,

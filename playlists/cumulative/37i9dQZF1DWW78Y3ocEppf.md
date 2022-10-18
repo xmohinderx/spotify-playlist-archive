@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Leon Thomas
 
-346 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+347 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 | 2021-12-15 | 2022-09-10 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-15 | 2022-09-24 |
 | [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-05 |  |
+| [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2022-10-14 |  |
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2022-08-05 |  |
 | [I'm Coming Back](https://open.spotify.com/track/1v0PjMzN2vFtK3vTWwASDS) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Where It All Begins](https://open.spotify.com/album/1eXj3GU32V64aHE5BMInZX) | 6:57 | 2022-03-25 | 2022-04-20 |
 | [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2021-12-15 | 2022-10-13 |
@@ -335,7 +336,7 @@
 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 | 2021-12-15 | 2022-07-29 |
 | [We Need A Resolution \(feat\. Timbaland\)](https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:02 | 2022-03-25 | 2022-04-16 |
 | [WEAKEND \(feat\. D Smoke\)](https://open.spotify.com/track/5wQXnFCRgb3HO6f28AkdjU) | [Rhyon Brown](https://open.spotify.com/artist/5jwCDGKUT2wrfp8yAu8Qob), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [WEAKEND](https://open.spotify.com/album/7DtoI2IFo25oN7q8DFRblP) | 3:23 | 2021-12-15 | 2022-04-16 |
-| [WHAM](https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [WHAM](https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT) | 2:56 | 2022-09-09 |  |
+| [WHAM](https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [WHAM](https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT) | 2:56 | 2022-09-09 | 2022-10-18 |
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-29 | 2022-09-20 |
 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/0A7xgfdP4RKVJD95kF0dx6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [New Light](https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4) | 3:08 | 2022-02-04 | 2022-09-03 |
 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/2rXEvLUrJergtH0iQnyr29) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/5soGYnfqSGI3S1vOHDG9xe) | 3:08 | 2021-12-15 | 2022-07-02 |

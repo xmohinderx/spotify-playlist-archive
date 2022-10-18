@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 2190,
+  "num_followers": 2330,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDg5NTlhOWI4MGJiZjQzN2YwOGI0Mzg0OWNhOTA5MDEz",
+  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDIyZTQ5MjdlNzYyMDBjMjAwMjc1OWYxMzJiNWVlMDli",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 199386,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "He Loves Me (Lyzel in E Flat)",
-      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 319958,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "He Loves Me (Lyzel in E Flat)",
+      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "The New Danger",
+        "url": "https://open.spotify.com/album/5v3WMkjb8qzmVLREB2AuQR"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 251213,
+      "name": "The Panties",
+      "url": "https://open.spotify.com/track/3ewIu3AibUiSiDNS0Ta8Lm"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "The New Danger",
-        "url": "https://open.spotify.com/album/5v3WMkjb8qzmVLREB2AuQR"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 251213,
-      "name": "The Panties",
-      "url": "https://open.spotify.com/track/3ewIu3AibUiSiDNS0Ta8Lm"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 325960,
-      "name": "Get MuNNY",
-      "url": "https://open.spotify.com/track/0ZKCq8E5QS4lRjEtFvZqZX"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 255880,
       "name": "If",
       "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "New Amerykah Part Two: Return Of The Ankh",
+        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 325960,
+      "name": "Get MuNNY",
+      "url": "https://open.spotify.com/track/0ZKCq8E5QS4lRjEtFvZqZX"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Oh, Maker",
-      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 182106,
       "name": "Jerrod",
       "url": "https://open.spotify.com/track/6ZDQdAeTYt13V67K7LJXDv"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "Oh, Maker",
+      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
     },
     {
       "added_at": "2022-10-01 16:54:27",

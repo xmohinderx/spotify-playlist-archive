@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-141 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+142 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [S.T.A.Y.](https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 6:23 | 2022-07-25 |  |
 | [S.T.A.Y.](https://open.spotify.com/track/780LdT9wWORqCCUUiLfRvi) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3N8fGhRcHWqyy0SfWa92H0) | 6:23 | 2021-12-08 | 2022-07-29 |
 | [Scene 2](https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pentagram](https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO) | 2:52 | 2021-12-08 |  |
-| [Second Sun](https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z) | 3:44 | 2021-12-08 |  |
+| [Second Sun](https://open.spotify.com/track/0vgIkHFK8wpogVc1XCi18F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/4J8Pj9kUO58eoafjZlHiLf) | 3:44 | 2022-09-16 |  |
+| [Second Sun](https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z) | 3:44 | 2021-12-08 | 2022-10-18 |
 | [Sibyl](https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Pillars](https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF) | 4:03 | 2021-12-08 |  |
 | [Smile](https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Smile](https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k) | 3:34 | 2021-12-08 |  |
 | [Snowfields](https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Snowfields](https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5) | 2:48 | 2022-05-31 |  |

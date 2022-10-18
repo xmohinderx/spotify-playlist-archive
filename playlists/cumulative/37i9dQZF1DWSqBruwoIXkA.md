@@ -4,7 +4,7 @@
 
 > Nights on your own? I bet you think about me\. Cover: Jessie Murph
 
-353 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+355 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-05-20 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/7HWetAoWK9qkFM575HONAY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3ILTeVimMva0ImF0dWtoQC) | 2:29 | 2021-12-17 | 2022-08-12 |
-| [lonely isn't the word for this](https://open.spotify.com/track/6uyOYLLHKfhl8Vp0oPg4Fv) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [lonely isn't the word for this](https://open.spotify.com/album/7fWabOywuebAeji4tvC1nP) | 2:47 | 2022-05-27 |  |
+| [lonely isn't the word for this](https://open.spotify.com/track/6uyOYLLHKfhl8Vp0oPg4Fv) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [lonely isn't the word for this](https://open.spotify.com/album/7fWabOywuebAeji4tvC1nP) | 2:47 | 2022-05-27 | 2022-10-18 |
 | [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-07-22 |  |
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-03-23 |
@@ -235,6 +235,7 @@
 | [Nauseous](https://open.spotify.com/track/1HMCbPngUxPENYBBt2fQXr) | [Eric Punzo](https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS) | [Nauseous](https://open.spotify.com/album/2BJkdy0VsRsfoSStdX8CLV) | 2:53 | 2021-12-24 | 2021-12-26 |
 | [Need Someone](https://open.spotify.com/track/3iYS4NIxfoSNNnPuBhawZy) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Need Someone](https://open.spotify.com/album/0A3sognBevBEGwN2qSpKQ6) | 2:56 | 2022-04-29 | 2022-04-30 |
 | [Never Be Me](https://open.spotify.com/track/1M7qLcfozANPcMKfgMEHOt) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:35 | 2021-12-17 | 2022-05-03 |
+| [Never Had a Chance](https://open.spotify.com/track/5ICjRLHOxUv6gcRbr2ux9Z) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5SU6TQaPF0wDCXpU9l585n) | 2:25 | 2022-09-16 |  |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-10-08 |
 | [never have i ever](https://open.spotify.com/track/3Xd99mhH9oQVZTzTlVo2yI) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [never have i ever](https://open.spotify.com/album/2LiJdjvvjQ9epjhTMtbedp) | 2:28 | 2022-02-11 | 2022-03-13 |
 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-03-18 |  |
@@ -277,7 +278,7 @@
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-07-18 | 2022-07-23 |
 | [Ruins](https://open.spotify.com/track/4yqi1WxBUMw75zodggxj6g) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4), [Drew Schueler](https://open.spotify.com/artist/1F2PBVC03y1a9PCszIxJhI) | [Ruins](https://open.spotify.com/album/49xPyLWptFULo4SmaCW6D0) | 3:20 | 2022-05-27 | 2022-06-10 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-05-20 |
-| [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 |  |
+| [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 | 2022-10-18 |
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2021-12-17 |  |
 | [Show Me Where It Hurts](https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Show Me Where It Hurts](https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr) | 4:18 | 2022-04-08 | 2022-04-21 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-21 |
@@ -311,6 +312,7 @@
 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 | 2021-12-17 | 2022-03-26 |
 | [things i wish you said](https://open.spotify.com/track/5FG8UuV9f6UpZYDViPyoko) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [things i wish you said](https://open.spotify.com/album/0IZ8aLvItatSlcnQ313lMu) | 2:44 | 2022-06-03 | 2022-06-06 |
 | [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 | 2022-09-23 | 2022-10-13 |
+| [this is what sadness feels like](https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:11 | 2022-09-23 |  |
 | [tired of me](https://open.spotify.com/track/3ohXJ2Ti6Rl8pGKYmSmZXT) | [Karina Grace](https://open.spotify.com/artist/1AdlTCptosPR3D2zT18GwI) | [tired of me](https://open.spotify.com/album/1pssJQN76a3Kohwu3rIHxg) | 3:17 | 2022-02-04 | 2022-10-15 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-12-17 | 2022-05-20 |
 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 | 2022-08-19 | 2022-10-01 |

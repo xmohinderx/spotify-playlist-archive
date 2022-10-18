@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > it's a cinnamon infused kind of mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,237 likes - 79 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,102 likes - 79 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

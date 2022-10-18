@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127188,
+  "num_followers": 127187,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY5Myw1OTg4M2ZiMTZjMzVmOGQ3MzQ2ODFjOTEwMWY1NWE2ZGM5YWMxNWY2",
+  "snapshot_id": "MzY5NSw5M2IxZmVhZWY4MGE0ZmZlN2Q3NTNkYzJlY2Q1NzRhOTRkMDk5MTRl",
   "tracks": [
+    {
+      "added_at": "2022-10-17 17:24:38",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 209677,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk"
+    },
     {
       "added_at": "2022-10-14 22:09:29",
       "album": {

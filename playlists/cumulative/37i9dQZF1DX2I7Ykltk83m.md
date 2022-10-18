@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-293 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+294 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Hypochondriac](https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK) | 3:12 | 2022-05-20 |  |
 | [Hypochondriac](https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/1DE8BoNxaCs9Fxo7KG7ZXH) | 3:12 | 2021-11-14 | 2022-07-29 |
 | [I Don't Know You Like I Used To](https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don't Know You Like I Used To](https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK) | 4:19 | 2022-04-01 |  |
+| [I Don't Recognise You](https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 4:35 | 2022-10-07 |  |
 | [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-05-20 | 2022-10-14 |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2021-11-14 | 2022-07-29 |
 | [I Don’t Have Control Sometimes](https://open.spotify.com/track/4iuyaXj8B2WPjcqqbOSMB6) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [I Don’t Have Control Sometimes](https://open.spotify.com/album/1q6sKXBOqyDL5iv1A89wqa) | 2:33 | 2022-04-15 | 2022-07-28 |
@@ -146,7 +147,7 @@
 | [Impostor](https://open.spotify.com/track/2sRnxGuNqJupVOv4DHEnsT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Impostor](https://open.spotify.com/album/5CSWA2j8rjSQoJ2y1vYQlV) | 4:25 | 2021-11-14 | 2022-07-29 |
 | [Interstate Vision](https://open.spotify.com/track/333ynS8xzTSbeRxxodU33d) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/5ftfK29sHT2Tx7Wc3NMbqR) | 2:42 | 2021-11-14 | 2022-07-28 |
 | [Interstate Vision](https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/2ayYjy02kHqMSMKHXOLRGp) | 2:42 | 2022-05-20 |  |
-| [It Just Goes On](https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:33 | 2022-10-07 |  |
+| [It Just Goes On](https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:33 | 2022-10-07 | 2022-10-18 |
 | [It Just Goes On](https://open.spotify.com/track/2sQTFWciCwG4CgNql5aiKj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [It Just Goes On](https://open.spotify.com/album/5aXWY1KsCF76okXvdps06y) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-14 |  |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-02-11 | 2022-07-29 |

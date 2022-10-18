@@ -45,6 +45,28 @@
     {
       "album": {
         "name": "All I Do Is Dream of You",
+        "url": "https://open.spotify.com/album/6qDAXqSFZE5WxqhhG2QPFZ"
+      },
+      "artists": [
+        {
+          "name": "Faultline",
+          "url": "https://open.spotify.com/artist/2MDj3VdPVUo2w1A6bRwvAh"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/3gxp1JkAXtD40LleVZgqOE"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162046,
+      "name": "All I Do Is Dream of You",
+      "url": "https://open.spotify.com/track/1Cxx2ec6iADMThJFeKSOzl"
+    },
+    {
+      "album": {
+        "name": "All I Do Is Dream of You",
         "url": "https://open.spotify.com/album/2Lng1m3dqvpXdcqGITtLF8"
       },
       "artists": [
@@ -59,7 +81,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 162046,
       "name": "All I Do Is Dream of You",
       "url": "https://open.spotify.com/track/5eximiWUaKZdE1y1zHbVwL"

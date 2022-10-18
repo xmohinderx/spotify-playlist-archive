@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-443 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+444 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Cariñito](https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW) | [Cariñito](https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW) | 3:13 | 2022-05-06 | 2022-07-21 |
 | [Cariño](https://open.spotify.com/track/7HA3fBwy9HrbcQiz8maa2p) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [BREVE II](https://open.spotify.com/album/1TU0KMcLmv18RV2PrI9jNh) | 3:12 | 2022-01-14 | 2022-07-29 |
 | [Carta](https://open.spotify.com/track/2TiTcWEs1CldfTx7fOGfS4) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Carta](https://open.spotify.com/album/1ebHnnX7boUGSAD0YSAJyX) | 3:23 | 2022-01-14 | 2022-07-29 |
+| [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 | 2022-10-14 |  |
 | [Carta](https://open.spotify.com/track/4miJQ6X8wzlO4SZJ5winyb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:24 | 2022-07-15 | 2022-09-15 |
 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 | 2022-06-03 | 2022-07-21 |
 | [Casa](https://open.spotify.com/track/3v1wgEVzX2SUrHrdzBCO7P) | [Ninja](https://open.spotify.com/artist/1aEDZ5whyuDHTQxdrPiJYE), [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [RUSIA](https://open.spotify.com/album/1Oq780XyJNTi9BAGySxECi) | 3:19 | 2022-01-21 | 2022-07-24 |
@@ -415,7 +416,7 @@
 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 | 2022-07-15 |  |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 | 2022-01-21 | 2022-07-26 |
 | [Un Gatito](https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Un Gatito](https://open.spotify.com/album/37mDIREfofAksvorhbC64M) | 3:05 | 2022-01-14 |  |
-| [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 | 2022-06-03 |  |
+| [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 | 2022-06-03 | 2022-10-18 |
 | [una mierda](https://open.spotify.com/track/4LHhCe6lsP0SjHCc9p4JUz) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [una mierda](https://open.spotify.com/album/5k0nwJYBXi7ThDotmYzjuq) | 3:09 | 2022-01-21 | 2022-07-27 |
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-01-21 | 2022-07-28 |
 | [Uuu](https://open.spotify.com/track/0n6GBjCRWTuUx1tJkks68A) | [Ruidas](https://open.spotify.com/artist/6hBhlnqFApSOZe6ZQlYwlC) | [Multisensual](https://open.spotify.com/album/4IMqOie0AAZ5zfWgzzPJW7) | 3:29 | 2022-04-01 | 2022-04-20 |

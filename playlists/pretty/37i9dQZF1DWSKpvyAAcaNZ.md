@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,584 likes - 150 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,675 likes - 150 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 102 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 103 | [Don't Give Up](https://open.spotify.com/track/1RDlm1UEyvBynCXBmbGsgM) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 4:42 |
 | 104 | [Bring Down The Wall](https://open.spotify.com/track/19sS9R9gt0JVDFupSctN6E) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [I Dreamed An Island](https://open.spotify.com/album/3ichj596r90a2Sg4tg2FDA) | 3:25 |
-| 105 | [Something’s Got a Hold on Me](https://open.spotify.com/track/5oU6hEiZ3l1CG8xMPdI5M0) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/1WK7PVI8kDQX8ogzKMJfn4) | 3:08 |
+| 105 | [Something’s Got a Hold on Me](https://open.spotify.com/track/5MAbReBs2DiDoJM0egoalR) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/5QKPqc66fu8qqsYLxgfZGj) | 3:08 |
 | 106 | [Good Evening](https://open.spotify.com/track/5DFELITzxqOwPROrMfCXNc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [El Astronauta](https://open.spotify.com/album/62UCTVNpAhCrmRMf4knpvS) | 4:39 |
 | 107 | [Call It What It Is](https://open.spotify.com/track/5RTeMqtMcVCOukwgiNg11H) | [Ben Harper And The Innocent Criminals](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) | [Call It What It Is](https://open.spotify.com/album/57oXPv7yhDbk5TQjspArGP) | 3:47 |
 | 108 | [Fleet Foot](https://open.spotify.com/track/57ySi6fWZOIefsFmOnRqIY) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Don't Wake the Riot](https://open.spotify.com/album/3OTIQe9TKVBc8wR6JWhlQU) | 3:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 149 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 150 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDBlOTUzZTFiZDMxNDIxZTAwN2RlOTMwMTNlYmZiYmZh`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMGViOTcxNWQwYWMxZmNhM2Q4MTdkY2IyOGI2MzA1MGI4`

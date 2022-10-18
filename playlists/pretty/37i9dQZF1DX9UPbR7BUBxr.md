@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,793 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,795 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 17 | [Memento Mori](https://open.spotify.com/track/6QzjpDOcw3iNEpThhku00y) | [Nathaniel Drew X Tom Fox](https://open.spotify.com/artist/6WYhTsOkDtjLcZlwSrpBGm) | [Memento Mori](https://open.spotify.com/album/5tuCsC7rIetZYlOrfyOQtq) | 2:23 |
 | 18 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 |
 | 19 | [Weightlessness](https://open.spotify.com/track/7HqAhyGH7OHpm2a9UTXIww) | [Nathaniel Drew X Tom Fox](https://open.spotify.com/artist/6WYhTsOkDtjLcZlwSrpBGm) | [Weightlessness](https://open.spotify.com/album/1FLxDwaS1W5nv6eU2DWUwE) | 2:10 |
-| 20 | [Balboa](https://open.spotify.com/track/45O1e0ZvpERqu1frDcL80Q) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Vision](https://open.spotify.com/album/194eei5V6BkQOcs4aWbZjs) | 2:50 |
+| 20 | [Balboa](https://open.spotify.com/track/1fs76RZdPTj9kQoptX4UW4) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Vision](https://open.spotify.com/album/48aV8DO9dFrbnuIqUhDzFi) | 2:50 |
 | 21 | [The Lighthouse](https://open.spotify.com/track/0xCw0LHiXmkgmCkzOWqhuF) | [Nathaniel Drew X Tom Fox](https://open.spotify.com/artist/6WYhTsOkDtjLcZlwSrpBGm) | [The Lighthouse](https://open.spotify.com/album/4GiswPccl2MKtLCwlZ20Ux) | 3:01 |
 | 22 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 |
 | 23 | [wanna do nothing.](https://open.spotify.com/track/1rRXlVZUHhwigRtQn1w3Fm) | [bluemoon.music](https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1) | [wanna do nothing.](https://open.spotify.com/album/2OqUSC9wGmXsmBvmubRwFN) | 1:36 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY2NTQ4ODMxMywwMDAwMDAwMDY5OWU0NTBmYzE5ODBmN2JiNzYxOWIyMDA1OWM5OWRk`
+Snapshot ID: `MTY2NTQ4ODMxMywwMDAwMDAwMDU2ODE5N2QzN2Q4NjcxZDA5MmZhNTZkNThlMzQxMjM4`

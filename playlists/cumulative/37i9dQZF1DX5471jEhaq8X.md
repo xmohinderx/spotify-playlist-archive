@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Los Del Cristo & Los de Porte Fino.
 
-311 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+312 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [6 Colores](https://open.spotify.com/track/0pKtkEfClNEFZAwPGymF5z) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [6 Colores](https://open.spotify.com/album/01pQdmPM1scnFN27Xgt2jQ) | 2:44 | 2022-06-03 |  |
 | [9\-1 \(En Vivo\)](https://open.spotify.com/track/5HqpV0oNKqiNxTG1qGnHGC) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [9\-1 \(En Vivo\)](https://open.spotify.com/album/4y6zzO9tCXxXmYy3uANnFt) | 2:58 | 2022-08-26 | 2022-10-08 |
 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-05-13 |  |
+| [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2022-10-14 |  |
 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 | 2022-05-13 |  |
 | [Alpacino](https://open.spotify.com/track/5Ukv2W9qlvgxHPg35Wktwr) | [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR) | [Alpacino](https://open.spotify.com/album/5MWhWfV9tNFRkxhRlHpSRU) | 2:45 | 2022-05-13 | 2022-07-29 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-05-13 |  |
@@ -269,9 +270,9 @@
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2022-10-14 |  |
 | [Puros Franklin’s](https://open.spotify.com/track/6OhzX5vs2QKGkTaRfFmYC3) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Corridos De Encargo](https://open.spotify.com/album/77e78AIb7Qrihuvdjg7pqB) | 2:54 | 2022-06-10 |  |
 | [Que Te Valga Verga](https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Que Te Valga Verga](https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH) | 2:06 | 2022-05-13 |  |
-| [Ramiro Sierra \- En Vivo](https://open.spotify.com/track/2NEFuCjC8X6Ku5EXuBCxDQ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Ramiro Sierra \(En Vivo\)](https://open.spotify.com/album/1BOmIs7gzgck4veOmMHVe1) | 3:04 | 2022-05-13 |  |
+| [Ramiro Sierra \- En Vivo](https://open.spotify.com/track/2NEFuCjC8X6Ku5EXuBCxDQ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Ramiro Sierra \(En Vivo\)](https://open.spotify.com/album/1BOmIs7gzgck4veOmMHVe1) | 3:04 | 2022-05-13 | 2022-10-18 |
 | [Relojito Adiamantado](https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Relojito Adiamantado](https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm) | 2:58 | 2022-05-13 |  |
-| [Retorno a la Vida \(En Vivo\)](https://open.spotify.com/track/1rdTTFchWSIJGmlLmaaUWk) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Retorno a la Vida \(En Vivo\)](https://open.spotify.com/album/50WKY8Dne8rI3NPRLT5VBt) | 3:12 | 2022-05-27 | 2022-10-13 |
+| [Retorno a la Vida \(En Vivo\)](https://open.spotify.com/track/1rdTTFchWSIJGmlLmaaUWk) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Retorno a la Vida \(En Vivo\)](https://open.spotify.com/album/50WKY8Dne8rI3NPRLT5VBt) | 3:12 | 2022-05-27 |  |
 | [Rolando En La Angelina](https://open.spotify.com/track/1xAkrUOFzkvnNZ5Sb0QqKr) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Rolando En La Angelina](https://open.spotify.com/album/26iH8P8fQ5tvGQ6VoS2elm) | 2:08 | 2022-05-13 | 2022-07-29 |
 | [Rompiendola](https://open.spotify.com/track/5j2a9gxEti7yAY8bv3M7yx) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [Rompiendola](https://open.spotify.com/album/0SfGD6tBcvqnzvgoVcxT3t) | 2:39 | 2022-06-03 |  |
 | [San Judas Cuida Mis Pasos](https://open.spotify.com/track/3zjMCQ1iipDBsltIZZ3Vhf) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [San Judas Cuida Mis Pasos](https://open.spotify.com/album/0wMpIFch9IxaSji4X6HKsK) | 3:09 | 2022-08-26 | 2022-09-10 |

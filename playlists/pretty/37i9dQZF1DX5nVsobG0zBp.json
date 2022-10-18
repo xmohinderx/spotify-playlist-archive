@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 32586,
+  "num_followers": 32633,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDJhZDYyMTQ5MzNlNDQ5MjRhNDM0ZDA0NmI1Nzk0ZmI4",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGU4MjVjMGU5YzIxYWRlYzVlYmE0MzViOWIwNzhiOTQ4",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Reflexo",
-        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Mo Boy",
-      "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
+      "duration_ms": 158114,
+      "name": "1 de Abril",
+      "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -303,6 +303,38 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Reflexo",
+        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Mo Boy",
+      "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Deepak Looper",
+        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 193492,
+      "name": "Impec",
+      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Mais Antigo",
         "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
@@ -315,38 +347,6 @@
       "duration_ms": 206466,
       "name": "Lembrei-me",
       "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Teu Eternamente",
-      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Irrespons\u00e1vel",
-        "url": "https://open.spotify.com/album/1kPMe6IT9S56HnFRnHiISK"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "Irrespons\u00e1vel",
-      "url": "https://open.spotify.com/track/1AgqELuodwiIUbJhXM74Jx"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -403,34 +403,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 158114,
-      "name": "1 de Abril",
-      "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Deepak Looper",
-        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Impec",
-      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Irrespons\u00e1vel",
+        "url": "https://open.spotify.com/album/1kPMe6IT9S56HnFRnHiISK"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Irrespons\u00e1vel",
+      "url": "https://open.spotify.com/track/1AgqELuodwiIUbJhXM74Jx"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Primeira Vez",
         "url": "https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE"
       },
@@ -523,6 +523,42 @@
       "duration_ms": 155456,
       "name": "Primeira Vez",
       "url": "https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Los Cavakitos",
+          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+        }
+      ],
+      "duration_ms": 260301,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -547,22 +583,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Na Via",
         "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 290736,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Los Cavakitos",
-          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
-        }
-      ],
-      "duration_ms": 260301,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Mechelas",
-        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
+        "name": "Conto",
+        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
       },
       "artists": [
         {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
         }
       ],
-      "duration_ms": 314133,
-      "name": "Sendo Assim",
-      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
+      "duration_ms": 202886,
+      "name": "Conto",
+      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -715,18 +715,50 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Conto",
-        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
+        "name": "Mechelas",
+        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Conto",
-      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
+      "duration_ms": 314133,
+      "name": "Sendo Assim",
+      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -791,34 +823,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+        "name": "Mo Money Mo Problems",
+        "url": "https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
         }
       ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+      "duration_ms": 158555,
+      "name": "Mo Money Mo Problems",
+      "url": "https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 240594,
       "name": "La Bella Mafia",
       "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Mo Money Mo Problems",
-        "url": "https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap"
-      },
-      "artists": [
-        {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
-        }
-      ],
-      "duration_ms": 158555,
-      "name": "Mo Money Mo Problems",
-      "url": "https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Sentimento Safari",
-        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Sentimento Safari",
-      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
       },
@@ -911,6 +895,26 @@
       "duration_ms": 278211,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+        }
+      ],
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -935,22 +939,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+        "name": "Sentimento Safari",
+        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
+      "duration_ms": 205217,
+      "name": "Sentimento Safari",
+      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Perseus",
-        "url": "https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 214654,
-      "name": "Perseus",
-      "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Pull Up na C",
         "url": "https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+        "name": "Perseus",
+        "url": "https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
+      "duration_ms": 214654,
+      "name": "Perseus",
+      "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "STAY FLY",
+        "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "STAY FLY",
+      "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
     }
   ],
   "unique_name": "Rap Tuga Hits",

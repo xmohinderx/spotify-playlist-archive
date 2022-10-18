@@ -1,12 +1,12 @@
 {
   "description": "Keep it low-key with all of today's chill pop. Cover: Stephen Dawes",
-  "num_followers": 1789252,
+  "num_followers": 1789288,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDYwMzY3NmFmZGJkY2RhNTkyYTY5MWRkMzNmMjY3MTk3",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDU1ODg5YzliYzZkOWQ1N2U4YjJkZDg2NzlkYWM2N2I2",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Birthday Cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -819,38 +819,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Hello World",
-        "url": "https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 159345,
-      "name": "Sky is the Limit",
-      "url": "https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 182076,
-      "name": "Every Second",
-      "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Detached",
         "url": "https://open.spotify.com/album/7gqvota2LkWgkoqEI51Q3U"
       },
@@ -883,6 +851,38 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 159345,
+      "name": "Sky is the Limit",
+      "url": "https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 182076,
+      "name": "Every Second",
+      "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 249937,
       "name": "Grow As We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Right Person Right Time",
-        "url": "https://open.spotify.com/album/2VFni6wfmAnqDS7OWnBUt6"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Right Person Right Time",
-      "url": "https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Paper Airplanes",
         "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
       },
@@ -983,34 +983,18 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Right Person Right Time",
+        "url": "https://open.spotify.com/album/2VFni6wfmAnqDS7OWnBUt6"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
         }
       ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "All 4 Nothing",
-        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 168722,
-      "name": "Hey Ari",
-      "url": "https://open.spotify.com/track/3XA0msNCCQysLnspbnbgw3"
+      "duration_ms": 178000,
+      "name": "Right Person Right Time",
+      "url": "https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 168722,
+      "name": "Hey Ari",
+      "url": "https://open.spotify.com/track/3XA0msNCCQysLnspbnbgw3"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Stayed at the Party",
+        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 213166,
+      "name": "Stayed at the Party",
+      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 201881,
       "name": "Thank You - Spotify Singles",
       "url": "https://open.spotify.com/track/7aZYmiZWN7BNsvDX4f1qmn"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Bump",
-        "url": "https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 202260,
-      "name": "Bump",
-      "url": "https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd"
     }
   ],
   "unique_name": "Chill Pop",

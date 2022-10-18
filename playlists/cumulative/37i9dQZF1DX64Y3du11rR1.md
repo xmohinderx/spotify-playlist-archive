@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-123 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+124 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [The Scientist \- Acoustic](https://open.spotify.com/track/5J2ZFB7p7087vLpXT4seLC) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [The Scientist \(Acoustic\)](https://open.spotify.com/album/6EEdMj1ZXNeutqqXeXF7bl) | 3:27 | 2021-12-22 |  |
 | [The Unforgiven](https://open.spotify.com/track/5qzzFRYW7fbG7UMVK79GkN) | [Fatin Majidi](https://open.spotify.com/artist/0ddd7w9reaR40shckQqUep) | [The Unforgiven](https://open.spotify.com/album/1uS73kkNltHKdmBzk8yjsS) | 6:35 | 2022-06-15 |  |
 | [Time After Time](https://open.spotify.com/track/1gcciAKMxnfM5wpiGmWMWe) | [Theresa Sokyrka](https://open.spotify.com/artist/2zAv7AJFf3oFv3OSYijDZV), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Time After Time](https://open.spotify.com/album/5nK2Jv9zFovAu7eu3SeeB2) | 3:48 | 2021-12-22 |  |
-| [To Build a Home](https://open.spotify.com/track/1mrvBZuZYxmYySuY1JY4Fa) | [Circumnavigate](https://open.spotify.com/artist/5K2y9FGdE8Kfwwa5wXB3o7) | [To Build a Home](https://open.spotify.com/album/0A0pfZMux8E6MQuqYhPZff) | 5:55 | 2021-12-22 |  |
+| [To Build a Home](https://open.spotify.com/track/1mrvBZuZYxmYySuY1JY4Fa) | [Circumnavigate](https://open.spotify.com/artist/5K2y9FGdE8Kfwwa5wXB3o7) | [To Build a Home](https://open.spotify.com/album/0A0pfZMux8E6MQuqYhPZff) | 5:55 | 2021-12-22 | 2022-10-18 |
+| [To Build a Home](https://open.spotify.com/track/5JH1Rg7hoAdUIYNlx304hc) | [Circumnavigate](https://open.spotify.com/artist/5K2y9FGdE8Kfwwa5wXB3o7) | [To Build a Home](https://open.spotify.com/album/2XL7Qjr9XqC4ljSdFObUYT) | 5:55 | 2022-10-13 |  |
 | [Use Somebody \(Acoustic Cover\)](https://open.spotify.com/track/7ywQ9rSdx2tKs8HonVjKtu) | [Coloratura](https://open.spotify.com/artist/71SDjlchGqvJOsB4GTG00p) | [Acoustic Covers, Vol\. 1](https://open.spotify.com/album/4gRmdZUKfkIxVsO7MjfKvX) | 3:33 | 2022-08-12 |  |
 | [Wake Me Up](https://open.spotify.com/track/2nBrIzKacrNdIxs90FlsT1) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Wake Me Up](https://open.spotify.com/album/3vTe1NISvsM9f1QGjraPsQ) | 3:16 | 2021-12-22 |  |
 | [We Found Love](https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3), [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [We Found Love](https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO) | 2:53 | 2021-12-22 |  |

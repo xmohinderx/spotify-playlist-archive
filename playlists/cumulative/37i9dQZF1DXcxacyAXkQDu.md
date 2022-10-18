@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-775 songs - 1 day 22 hr 6 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+776 songs - 1 day 22 hr 9 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 | 2021-12-21 |  |
 | [Fight For You](https://open.spotify.com/track/39b57sOdT2Rq8dV73tXLnQ) | [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Fight For You](https://open.spotify.com/album/34FWkEPkGoKb2cSPef1nmF) | 3:05 | 2022-01-07 | 2022-06-08 |
 | [Fight For You](https://open.spotify.com/track/3YGTxLdUcOk5upQGt7iYC4) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:05 | 2022-07-08 | 2022-08-23 |
-| [Fight Song \- Acoustic version](https://open.spotify.com/track/4UaxxZPHAlBEwtI0roFdSG) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK) | [Fight Song](https://open.spotify.com/album/25kZ8tRCpxb2g3QcskOMOa) | 4:02 | 2022-07-08 |  |
+| [Fight Song \- Acoustic version](https://open.spotify.com/track/4UaxxZPHAlBEwtI0roFdSG) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK) | [Fight Song](https://open.spotify.com/album/25kZ8tRCpxb2g3QcskOMOa) | 4:02 | 2022-07-08 | 2022-10-18 |
 | [Fight Song \- Acoustic version](https://open.spotify.com/track/5CyWu4wp8Q8pII8RTo6d2d) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK) | [Fight Song](https://open.spotify.com/album/3DzusYJgPXdUyCHpi9REsC) | 4:02 | 2022-03-24 | 2022-04-20 |
 | [Fill Me Up](https://open.spotify.com/track/1d17pl7cIypQY8CABIJpWb) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/7BAhm5zjEzoHlfC3cIZaKf) | 2:34 | 2021-12-21 | 2022-07-29 |
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-07-08 |  |
@@ -514,6 +514,7 @@
 | [Pick Up Your Phone](https://open.spotify.com/track/4hIppgm5PYoVIoGtCCSJnh) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Pick Up Your Phone](https://open.spotify.com/album/0R4xeAX58W4xrgIQ9OIJ6q) | 2:26 | 2021-12-21 | 2022-07-28 |
 | [Piece of Your Heart](https://open.spotify.com/track/3uimavYD57o1IhPMM8bskW) | [Ren](https://open.spotify.com/artist/0GsvK0GnZnmCVVilqxuxHS) | [A Calling from the Shore](https://open.spotify.com/album/6m31ojOV14mNOiG9DRkL26) | 3:05 | 2021-12-21 | 2022-07-29 |
 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2021-12-21 | 2022-10-14 |
+| [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 | 2022-10-07 |  |
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2022-08-22 | 2022-08-27 |
 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 | 2021-12-21 |  |
 | [Promise](https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 6:24 | 2022-03-24 |  |

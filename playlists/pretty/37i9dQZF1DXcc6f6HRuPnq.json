@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 53814,
+  "num_followers": 53941,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2Mjk1NSwwMDAwMDAwMDNkOThkNjdiMGQ2MzczYTgxOWZhNzY2ZWY4YTBiMDBi",
+  "snapshot_id": "MTY2NTc2Mjk1NSwwMDAwMDAwMDA4ZmZiZjdhZWI3MGU1ZDFkMWJiZWUzMWJkMWUwMmE3",
   "tracks": [
     {
       "added_at": "2022-10-14 15:55:55",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 464040,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "Power of the Blues",
         "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 364906,
-      "name": "You're Still My Woman",
-      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -519,22 +503,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
       },
@@ -567,6 +535,22 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 364906,
+      "name": "You're Still My Woman",
+      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
         "name": "Track Record",
         "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 226840,
       "name": "RHYTHMS OF THE NIGHT",
       "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -683,22 +683,6 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -831,6 +815,22 @@
       "duration_ms": 214600,
       "name": "She Puts Me In The Mood",
       "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/4vgVcdlhX5r5jvNamnV5rX"
+      },
+      "artists": [
+        {
+          "name": "Pat Tierney",
+          "url": "https://open.spotify.com/artist/2wTN9hQfRJLQ8lllx6EphC"
+        }
+      ],
+      "duration_ms": 292445,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/229PfulMeZPFcv2mzXfsCX"
     }
   ],
   "unique_name": "Midnight Blues",

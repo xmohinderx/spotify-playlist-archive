@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-228 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+229 songs - 21 hr 39 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Rain](https://open.spotify.com/track/0U070HY5rBmCyh4SIWHrgN) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/7Blwoot1kZX3VuiIfHI0jT) | 7:33 | 2022-07-07 |  |
 | [Rain](https://open.spotify.com/track/61Wh9vJtPH9gqRTEsgi6cU) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/4Bd8Cuk3T1UhXQKZ3YBboH) | 7:33 | 2022-02-10 | 2022-07-29 |
 | [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 | 2022-02-10 |  |
-| [Red Milk](https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg) | 7:42 | 2022-02-18 |  |
+| [Red Milk](https://open.spotify.com/track/2S7VcpELtk2PK61IjHq0zO) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/4SFScQIEdCjOpeg5PcqrMk) | 7:42 | 2022-10-13 |  |
+| [Red Milk](https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg) | 7:42 | 2022-02-18 | 2022-10-18 |
 | [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 | 2022-04-07 |  |
 | [Remembering](https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 4:43 | 2022-04-29 |  |
 | [Reminiscence](https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 7:03 | 2022-02-10 |  |

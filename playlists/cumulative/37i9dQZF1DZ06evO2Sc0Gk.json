@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 164001,
       "name": "Open & Close",
       "url": "https://open.spotify.com/track/69BDyJybd7jXW0Tvl5QHt6"
@@ -1763,6 +1763,28 @@
       "duration_ms": 119290,
       "name": "Saudi Arabia",
       "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
+    },
+    {
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq"
+      },
+      "artists": [
+        {
+          "name": "Small Doctor",
+          "url": "https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7"
     },
     {
       "album": {

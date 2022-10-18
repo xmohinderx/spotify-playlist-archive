@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Oxlade
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,125 likes - 105 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,148 likes - 105 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

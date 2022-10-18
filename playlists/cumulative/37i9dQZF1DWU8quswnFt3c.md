@@ -2,9 +2,9 @@
 
 ### [EQUAL Global ](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women from all over the world, at full volume\. Cover: Rina Sawayama
+> Listen to women from all over the world, at full volume\. Cover: Silvana Estrada
 
-758 songs - 1 day 17 hr 42 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+759 songs - 1 day 17 hr 45 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-04-06 | 2022-08-04 |
 | [Balance](https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Balance](https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz) | 2:56 | 2022-09-07 | 2022-10-05 |
 | [Bali](https://open.spotify.com/track/5MZeeySHvuMx4DoPtI6sgy) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Happiness](https://open.spotify.com/album/7tKhCsssgWuP7QVuOJw3Hd) | 2:35 | 2021-12-11 | 2022-01-06 |
+| [Baraye](https://open.spotify.com/track/5lkeYKxvxXb80SzJBjJY5h) | [Shervin Hajipour](https://open.spotify.com/artist/4O8DQCEBU9I1wQ274THitE) | [Baraye](https://open.spotify.com/album/0o0ScZ26kHmTubAB6nHezL) | 2:31 | 2022-10-18 |  |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-02-02 | 2022-03-09 |
 | [Be Kind](https://open.spotify.com/track/1r73DoCuAo0SN5Jh80z0gC) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Be Kind](https://open.spotify.com/album/7HM12F2hFEIuQW2URxMrkv) | 2:46 | 2022-07-06 | 2022-08-04 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-08-03 | 2022-09-09 |

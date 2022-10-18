@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Shanti Celeste
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,343 likes - 120 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,480 likes - 120 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

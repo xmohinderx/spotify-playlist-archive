@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 590962,
+  "num_followers": 591273,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDhkM2E1MWVkMGZlMWIzOWZlYzU1OWNlNTU1Yjc5ZDQ5",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGFjMTU5ZGM4NDdkNzI1NDBhMzhkZDI2MGM3YjUwMWU1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Things A Man Oughta Know",
-      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -467,18 +451,34 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "If I Was a Cowboy",
-        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 195013,
-      "name": "If I Was a Cowboy",
-      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
+      "duration_ms": 203373,
+      "name": "Things A Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+        "name": "If I Was a Cowboy",
+        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+      "duration_ms": 195013,
+      "name": "If I Was a Cowboy",
+      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 227266,
       "name": "Suds in the Bucket",
       "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 221240,
       "name": "Country Again",
       "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Outlaws Like Me",
-        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "If Heaven Wasn't So Far Away",
-      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "I Still Believe In You",
         "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 191200,
       "name": "One More Last Chance",
       "url": "https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Outlaws Like Me",
+        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "If Heaven Wasn't So Far Away",
+      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Drake Milligan - EP",
-        "url": "https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u"
-      },
-      "artists": [
-        {
-          "name": "Drake Milligan",
-          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
-        }
-      ],
-      "duration_ms": 197044,
-      "name": "Over Drinkin' Under Thinkin'",
-      "url": "https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Son Of A",
         "url": "https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Vinyl",
-        "url": "https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g"
+        "name": "Drake Milligan - EP",
+        "url": "https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u"
       },
       "artists": [
         {
-          "name": "William Michael Morgan",
-          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
         }
       ],
-      "duration_ms": 201533,
-      "name": "I Met a Girl",
-      "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
+      "duration_ms": 197044,
+      "name": "Over Drinkin' Under Thinkin'",
+      "url": "https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 261826,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Vinyl",
+        "url": "https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g"
+      },
+      "artists": [
+        {
+          "name": "William Michael Morgan",
+          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "I Met a Girl",
+      "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Little Miss Saturday Night",
-        "url": "https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j"
+        "name": "Country Is My Rock",
+        "url": "https://open.spotify.com/album/1dMtfygDergsiS0sep6KDL"
       },
       "artists": [
         {
-          "name": "Drew Parker",
-          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+          "name": "Trent Tomlinson",
+          "url": "https://open.spotify.com/artist/1Zn69emN3uZsF6YwCrkgYp"
         }
       ],
-      "duration_ms": 200438,
-      "name": "Little Miss Saturday Night",
-      "url": "https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs"
+      "duration_ms": 218720,
+      "name": "Just Might Have Her Radio On",
+      "url": "https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm"
     }
   ],
   "unique_name": "Traditional Country",

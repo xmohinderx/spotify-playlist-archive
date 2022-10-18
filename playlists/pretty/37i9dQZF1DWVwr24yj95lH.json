@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 520059,
+  "num_followers": 520187,
   "original_name": "Post-Grunge Appreciation Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzNjI5MCwwMDAwMDAwMGE4YTZmMzZlMzg1OTIyNDQ5OWFkMWEzZmYxYjJiYjhl",
+  "snapshot_id": "MTY2NDUzNjI5MCwwMDAwMDAwMDQ2ZTMzNmNlZTMyZTM3YmU2MmEwMTBhZjcwMzdmMjdk",
   "tracks": [
     {
       "added_at": "2022-09-30 11:11:30",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 261853,
       "name": "Lips Of An Angel",
       "url": "https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 231480,
       "name": "I Hate Everything About You",
       "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
         "name": "The Boy Who Died Wolf",
         "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 252360,
       "name": "Send the Pain Below",
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 298600,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "So Much For The Afterglow",
         "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 226466,
       "name": "1000hp",
       "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "Candlebox",
-        "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
-      },
-      "artists": [
-        {
-          "name": "Candlebox",
-          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "Shallow Bay: The Best Of Breaking Benjamin (Explicit)",
         "url": "https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 340106,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "Candlebox",
+        "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
+      },
+      "artists": [
+        {
+          "name": "Candlebox",
+          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 267284,
-      "name": "Poor Aileen",
-      "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 176621,
       "name": "Ashtray",
       "url": "https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 267284,
+      "name": "Poor Aileen",
+      "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
+        "name": "13 Ways To Bleed Onstage",
+        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
         "name": "Introvert",
         "url": "https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6"
       },
@@ -1475,38 +1491,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 189363,
-      "name": "Stoned, Alone",
-      "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
-        "name": "13 Ways To Bleed Onstage",
-        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
-      },
-      "artists": [
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/5IUoKMmB607UsJmfzKhAhh"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 207973,
       "name": "Don't Wake Me",
       "url": "https://open.spotify.com/track/13heJXQpJsfROWJpNR22e0"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 189363,
+      "name": "Stoned, Alone",
+      "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "10: 1993-2003 - Ten Years of K's Choice",
         "url": "https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 288183,
       "name": "Not An Addict",
       "url": "https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2022-09-30 11:11:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,249 likes - 106 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,260 likes - 106 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 65 | [heaven](https://open.spotify.com/track/5C1fqZBORhw6rLvqG0dDdp) | [niceboy ed](https://open.spotify.com/artist/72IB1qSk51wyeLceXNypqR) | [heaven](https://open.spotify.com/album/6xaNWA10SHWyjzBese8dEI) | 2:34 |
 | 66 | [not a loser](https://open.spotify.com/track/2ZINfbgWX4TeBdhCu8M5Na) | [RebMoe](https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM) | [not a loser](https://open.spotify.com/album/7zDcI37BSu34XU0MC0BKqS) | 2:41 |
 | 67 | [Sorry Mom](https://open.spotify.com/track/61WTJ7xfIaZi9WL6XqwSD9) | [BLENDA](https://open.spotify.com/artist/0mdmebp0N7udUXXqtoZU5D) | [Sorry Mom](https://open.spotify.com/album/6uEEsqjSIIQtZR5T5Z2LdG) | 2:13 |
-| 68 | [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 |
+| 68 | [Paid](https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:16 |
 | 69 | [Stay Inside](https://open.spotify.com/track/0FGrsEkYbMixF240cAUCFX) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Stay Inside](https://open.spotify.com/album/7EypcYYCFnB7Bwj7wUtyaa) | 1:52 |
 | 70 | [\(Kom Ikväll\) 6AM](https://open.spotify.com/track/3ongDpO7dFXdeCFlFxMZnI) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [\(Kom Ikväll\) 6AM](https://open.spotify.com/album/6n0rdVkA27jUjVPrqgcnlu) | 3:01 |
 | 71 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 105 | [Resurrected](https://open.spotify.com/track/34uU8Lu6oYDbl4MPm5K2pO) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:25 |
 | 106 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 |
 
-Snapshot ID: `MTY2NTc0NDc3MCwwMDAwMDAwMGUwYzg1NjQ0ZmU2YjE2ZjJlMDE2NmZkZTc0YWIyZGMx`
+Snapshot ID: `MTY2NTc0NDc3MCwwMDAwMDAwMDViNWFlNzg5MmY3NDA4NGQwODVkZGI5NjcwZTBmYjg2`

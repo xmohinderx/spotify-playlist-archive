@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 127613,
+  "num_followers": 127664,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDc2NSwwMDAwMDAwMGM0NDkzN2M2Yjc4MjZmZDA3OGY0ZjcwYmIwMDg2NmRh",
+  "snapshot_id": "MTY2MTkzMDc2NSwwMDAwMDAwMDY4MjUyMzU3OTA2ZmZjNmFjZDEyYzRjN2QwZjY3NmQx",
   "tracks": [
     {
       "added_at": "2022-08-31 07:26:05",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
         "name": "Exitos de Victor Manuelle",
         "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
         "name": "Pura Salsa",
         "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 313560,
       "name": "Mi Mayor Venganza",
       "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -215,6 +199,22 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -251,6 +251,46 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
       },
@@ -283,42 +323,18 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "Lo Qu\u00e9 Pide La Gente",
-        "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 402360,
-      "name": "El Rey De La Puntualidad",
-      "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 328786,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+      "duration_ms": 333280,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -339,38 +355,22 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+        "name": "Lo Qu\u00e9 Pide La Gente",
+        "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
-        "name": "Desde Un Principio / From The Beginning",
-        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 366200,
-      "name": "Vivir Lo Nuestro",
-      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+      "duration_ms": 402360,
+      "name": "El Rey De La Puntualidad",
+      "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -407,54 +407,6 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -467,6 +419,22 @@
       "duration_ms": 449640,
       "name": "Aparentemente - En Vivo",
       "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -487,6 +455,22 @@
       "duration_ms": 377253,
       "name": "Ag\u00fazate",
       "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -523,6 +507,22 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
         "name": "Rey del Bajo",
         "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "Serie Sensacional: Marvin Santiago",
-        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Fuego A La Jicotea",
-      "url": "https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "Serie Sensacional: Marvin Santiago",
+        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
         }
       ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
+      "duration_ms": 201426,
+      "name": "Fuego A La Jicotea",
+      "url": "https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -619,6 +603,26 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -631,6 +635,22 @@
       "duration_ms": 420040,
       "name": "Lo Mio Es Amor - En Vivo",
       "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -671,8 +691,8 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
       },
       "artists": [
         {
@@ -680,13 +700,13 @@
           "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         },
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+      "duration_ms": 298306,
+      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -771,22 +791,18 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "25/7",
-        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 298306,
-      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
-      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
+      "duration_ms": 280333,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -803,22 +819,6 @@
       "duration_ms": 236611,
       "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL"
     },
     {
       "added_at": "2022-08-31 07:26:05",

@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6187,
+  "num_followers": 6193,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDRhOTM0NmE4ZDBlNWU2ZmU3NzUwZTFiYTU3N2YyNWNj",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGRkM2EzOGU2YTEwNTg5OGE3NmU3NmQ4N2EzYmM5ODI0",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "When The Saints Go Marching In",
+      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "1917-36",
         "url": "https://open.spotify.com/album/3jgqADR5t7Fr7OLlnxAsbE"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 192426,
       "name": "Black Bottom Stomp - 2002 Remastered",
       "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "When The Saints Go Marching In",
-      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "1939-1944",
         "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jazz Foundations Vol. 25",
         "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
       },
@@ -199,6 +199,38 @@
       "duration_ms": 274808,
       "name": "Walkin' The Dog",
       "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
+      },
+      "artists": [
+        {
+          "name": "Turk Murphy",
+          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -231,22 +263,6 @@
       "duration_ms": 227026,
       "name": "Frankie & Johnny",
       "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -287,22 +303,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
-      },
-      "artists": [
-        {
-          "name": "Turk Murphy",
-          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans Preservation, Vol. 1",
         "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "South Rampart Street Parade",
-        "url": "https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1"
-      },
-      "artists": [
-        {
-          "name": "Bob Crosby & His Orchestra",
-          "url": "https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4"
-        }
-      ],
-      "duration_ms": 213906,
-      "name": "South Rampart Street Parade",
-      "url": "https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Fabulous Sidney Bechet",
         "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 232306,
       "name": "Ballin' The Jack",
       "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "South Rampart Street Parade",
+        "url": "https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1"
+      },
+      "artists": [
+        {
+          "name": "Bob Crosby & His Orchestra",
+          "url": "https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4"
+        }
+      ],
+      "duration_ms": 213906,
+      "name": "South Rampart Street Parade",
+      "url": "https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Complete Set - 1923-1926",
-        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
-      },
-      "artists": [
-        {
-          "name": "Freddie Keppard",
-          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Stock Yards Strut",
-      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Presenting Eddie Condon",
         "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+        "name": "The Complete Set - 1923-1926",
+        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
       },
       "artists": [
         {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+          "name": "Freddie Keppard",
+          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
         }
       ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
+      "duration_ms": 153506,
+      "name": "Stock Yards Strut",
+      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -595,6 +579,22 @@
       "duration_ms": 242733,
       "name": "Clarinete Marmelade",
       "url": "https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Sounds Of New Orleans, Vol. 2",
         "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 315600,
       "name": "Bugle Boy March",
       "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -879,22 +879,6 @@
       "duration_ms": 170866,
       "name": "We're Gonna Have Smooth Sailing",
       "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -987,6 +971,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Roaring' 20's",
         "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "50 Classics: The Best Of Dixieland Jazz",
-        "url": "https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO"
+        "name": "4th of July Parade: 30 Patriotic Marches for Independence Day",
+        "url": "https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj"
       },
       "artists": [
         {
-          "name": "The Muscrat Ramblers",
-          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
+          "name": "The Kings Of Dixieland",
+          "url": "https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg"
         }
       ],
-      "duration_ms": 188160,
-      "name": "In The Good Old Summertime",
-      "url": "https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz"
+      "duration_ms": 189074,
+      "name": "Semper Fidelis",
+      "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

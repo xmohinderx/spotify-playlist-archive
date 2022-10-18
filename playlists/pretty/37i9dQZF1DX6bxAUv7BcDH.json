@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDVjNWRiMGJhMDk2NDJjMDI1NDEwMTI1ZWI4NmQ0YzAz",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDBmNjkxYWIyMTQyNmYwN2NjZTFhMjI0YzE1NDA0NTll",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Heavier Things",
-        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 237906,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 191973,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 237906,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Simply the Best",
         "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Johnny Horton'S Greatest Hits",
         "url": "https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 287321,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Experience The Divine (Greatest Hits)",
-        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -891,6 +875,22 @@
       "duration_ms": 217893,
       "name": "The Shadow of Your Smile (Love Theme from \"The Sandpiper\")",
       "url": "https://open.spotify.com/track/66YI4JFp7BcMcepibGprsN"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Experience The Divine (Greatest Hits)",
+        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/1qcLcWUFHHFWe54IP7PN7j"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change The World",
+      "url": "https://open.spotify.com/track/463G7EJ5QLNSXzLIXRiY2g"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Live At The Troubadour",
         "url": "https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 126933,
       "name": "Days Of Wine And Roses - REMASTERED",
       "url": "https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Theme of Exodus (From \"Exodus\" Soundtrack)",
-        "url": "https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0"
-      },
-      "artists": [
-        {
-          "name": "Ernest Gold",
-          "url": "https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE"
-        }
-      ],
-      "duration_ms": 892203,
-      "name": "Theme of Exodus - From \"Exodus\" Soundtrack",
-      "url": "https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi"
     }
   ],
   "unique_name": "#SpotifyTBT: Song of the Year",

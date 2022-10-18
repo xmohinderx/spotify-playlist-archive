@@ -541,10 +541,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 141386,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2LdHJepGKdvmPPbm0pC6QC"
+    },
+    {
+      "album": {
+        "name": "Quiet Time",
+        "url": "https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ"
+      },
+      "artists": [
+        {
+          "name": "Eddie Jenkins",
+          "url": "https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141386,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3"
     },
     {
       "album": {

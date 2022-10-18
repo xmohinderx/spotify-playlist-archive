@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-395 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+396 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Play Along](https://open.spotify.com/track/0vcaM5lVTdNaLagTWiuJqe) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 3:11 | 2022-08-12 |  |
 | [Play Along](https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Play Along](https://open.spotify.com/album/4D9Fx7V3jOlawbQW9Svcf9) | 3:11 | 2022-03-09 | 2022-07-29 |
 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2022-07-29 | 2022-10-13 |
+| [Post Humorous](https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:39 | 2022-10-07 |  |
 | [Preach](https://open.spotify.com/track/2mAlil0VCzglcu4t1dALfN) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Preach](https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe) | 3:04 | 2021-03-10 | 2022-05-28 |
 | [Preacher Man](https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Preacher Man](https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha) | 3:39 | 2021-03-10 |  |
 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 |  |
@@ -346,7 +347,7 @@
 | [Television](https://open.spotify.com/track/469PWHZlngcQyOJnGGAWzs) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Television](https://open.spotify.com/album/5BjVFIuhhstr2pWVAUqxnb) | 3:06 | 2021-06-25 | 2022-07-29 |
 | [Tell Me Tell Me](https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Tell Me Tell Me](https://open.spotify.com/album/0XbVK5VZidNVJ66a1m6KXz) | 3:08 | 2022-03-09 | 2022-04-21 |
 | [The Heart of Me](https://open.spotify.com/track/4MBTPJod6j1k2mPbPaPFfH) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:59 | 2022-03-11 | 2022-04-21 |
-| [The Hills](https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Hills](https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz) | 3:37 | 2022-05-04 |  |
+| [The Hills](https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Hills](https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz) | 3:37 | 2022-05-04 | 2022-10-18 |
 | [The Idea of You](https://open.spotify.com/track/2q0wGZoUjHbnQsmd3J3lQf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [The Idea of You](https://open.spotify.com/album/0ISJFgFpHxZzn82nNHB1kb) | 2:58 | 2021-07-02 | 2022-07-29 |
 | [The Last Dance](https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/61xkcDOeRRSetouvqU2d3w) | 3:24 | 2022-03-11 | 2022-07-26 |
 | [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 | 2022-07-29 |  |

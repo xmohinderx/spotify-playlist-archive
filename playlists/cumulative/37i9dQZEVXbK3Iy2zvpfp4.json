@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 170625,
       "name": "33 Max Verstappen",
       "url": "https://open.spotify.com/track/6OoGxii9mSxyt4JGab8PsG"
@@ -2181,7 +2181,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 202843,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/5TB7FL9eaJ4fIN3oqJK8rp"
@@ -4370,6 +4370,24 @@
     },
     {
       "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
         "name": "Mockingbird (Remix)",
         "url": "https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E"
       },
@@ -4649,6 +4667,24 @@
       "duration_ms": 179095,
       "name": "Nad R\u00e1nom",
       "url": "https://open.spotify.com/track/4NVd4zMxBVlbmzoAYgXf8a"
+    },
+    {
+      "album": {
+        "name": "Dobr\u00ed Chlapci 4",
+        "url": "https://open.spotify.com/album/5vQV1oJMmTDKHUfaBP80yE"
+      },
+      "artists": [
+        {
+          "name": "Moja Re\u010d",
+          "url": "https://open.spotify.com/artist/4iT1NSlNBtadjX842P3jAm"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Nad r\u00e1nom",
+      "url": "https://open.spotify.com/track/7tYLoT749YA0w6z82g9HpM"
     },
     {
       "album": {
@@ -6097,7 +6133,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
@@ -6727,7 +6763,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"

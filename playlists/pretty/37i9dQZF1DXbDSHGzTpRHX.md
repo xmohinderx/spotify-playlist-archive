@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,150 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,151 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 40 | [Icing on the Cake](https://open.spotify.com/track/5vgag6LYnA7LhlUw6u4K5T) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/1NNr44atY90LWvAcDcwqMU) | 1:56 |
 | 41 | [Superfruit](https://open.spotify.com/track/7ayF9ECtSW7wG9z7jvktPQ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/4FnuxJYVZgYBwPMgxgwDJN) | 2:18 |
 | 42 | [500 Days of Summer](https://open.spotify.com/track/5PQhQUcdaUJy6t39LdOOX7) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [500 Days of Summer](https://open.spotify.com/album/6MHDuOVCnyO1Z7fW6rgClE) | 1:53 |
-| 43 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 |
+| 43 | [Go Wild](https://open.spotify.com/track/1XlCgSoRWfxw2uL4Ofl7DR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/2hZDO2BCO07r3kh4M3fedd) | 3:17 |
 | 44 | [Union Station](https://open.spotify.com/track/6YntwnoQvYqHYwmg6ujWwo) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Union Station](https://open.spotify.com/album/09BKJ2x8XXjKaLWiuLrNt9) | 3:16 |
 | 45 | [CLOUD](https://open.spotify.com/track/7yeWt7sq2oRlEZWv880u9E) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Tradition](https://open.spotify.com/album/4zETbpGKT1FHsEZq3QFQUR) | 3:00 |
 | 46 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGRhZThhNTA0MWY2M2FmMGE0MGI1ZDMwZDUyOTA5YjU1`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGY1NjJiNjZmOTdjZjhlN2NkZDYwNzY0OGY2ZDYxNjE3`

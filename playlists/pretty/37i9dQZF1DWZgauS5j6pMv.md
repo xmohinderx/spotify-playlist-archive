@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,284 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,490 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
+| 1 | [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 |
 | 2 | [AA Side Single](https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [AA Side Single](https://open.spotify.com/album/6YGh1X0EPIt3kLJV91txRN) | 4:03 |
 | 3 | [YeahYeahYeah](https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [YeahYeahYeah](https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU) | 5:17 |
 | 4 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 |
 | 5 | [I Ain't Perfect](https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [FALL](https://open.spotify.com/album/7z0evm6hjFVuDzigZkB33b) | 3:18 |
 | 6 | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA) | 5:26 |
 | 7 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
-| 8 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 |
-| 9 | [Airplane Mode](https://open.spotify.com/track/7k3csxuuABvuHa1OE3J2Mh) | [Kero Uno](https://open.spotify.com/artist/3CzIZAYykK3RjxEipSr185), [Ace Hashimoto](https://open.spotify.com/artist/5Y8PCl4iNLDIHGkCMi5i76) | [Airplane Mode](https://open.spotify.com/album/1jKwmoG8hZmEELwySu2zsR) | 2:46 |
-| 10 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
-| 11 | [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 |
-| 12 | [Waste My Time](https://open.spotify.com/track/0EVVIialQkNLFen9S5tEo2) | [Rachel Horter](https://open.spotify.com/artist/6TRCClB2b8EhHakLcDyjV2) | [Waste My Time](https://open.spotify.com/album/4vPgUWYdrztuLoY8wKA8gb) | 2:51 |
-| 13 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 |
+| 8 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
+| 9 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 |
+| 10 | [Airplane Mode](https://open.spotify.com/track/7k3csxuuABvuHa1OE3J2Mh) | [Kero Uno](https://open.spotify.com/artist/3CzIZAYykK3RjxEipSr185), [Ace Hashimoto](https://open.spotify.com/artist/5Y8PCl4iNLDIHGkCMi5i76) | [Airplane Mode](https://open.spotify.com/album/1jKwmoG8hZmEELwySu2zsR) | 2:46 |
+| 11 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
+| 12 | [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 |
+| 13 | [Waste My Time](https://open.spotify.com/track/0EVVIialQkNLFen9S5tEo2) | [Rachel Horter](https://open.spotify.com/artist/6TRCClB2b8EhHakLcDyjV2) | [Waste My Time](https://open.spotify.com/album/4vPgUWYdrztuLoY8wKA8gb) | 2:51 |
 | 14 | [Turn Me Around](https://open.spotify.com/track/71lKKdPXCH32BawD9OkuwQ) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Turn Me Around](https://open.spotify.com/album/0Ts3tXNheajRfq7vOFzivD) | 5:15 |
 | 15 | [Gimme The Word](https://open.spotify.com/track/4kIhrMfenA2r86h98xh91r) | [Uzuhan](https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37) | [Gimme The Word](https://open.spotify.com/album/4I7sMTrlO9UQ4jNDQxqGBq) | 3:17 |
 | 16 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [You Got Me](https://open.spotify.com/track/01VawRVmW4NMgKUxiZ5doE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/5D2PG86teTWdvU5rlxnh2O) | 3:00 |
 | 100 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDM5YWNlOTQ1ZGNhMjU5YWMxMTc1ZGRlNTAzMzM2YmM2`
+Snapshot ID: `MTY2NjAxODUwNywwMDAwMDAwMDcyY2JjM2IwYjJiYzYxNzQ3MzU3Njk0YjAzNDYwMTAx`

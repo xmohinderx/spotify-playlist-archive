@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-213 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+214 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Gnossienne N°3 \(Variation\)](https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Classical Garden](https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS) | 3:35 | 2022-05-27 | 2022-10-11 |
 | [Grafskrift](https://open.spotify.com/track/1nx2J8SyOuz3ITycgMFRsV) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Grafskrift](https://open.spotify.com/album/7HP2tqN6U7lpSmQHaldwZI) | 2:31 | 2021-12-10 | 2022-07-29 |
 | [Grains of Gold](https://open.spotify.com/track/5v7pQPsysLm14B8S8FjkZL) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Grains of Gold](https://open.spotify.com/album/0Vecaj0BC8QYqMGhQLnDGF) | 3:17 | 2021-12-10 | 2022-07-29 |
-| [Grande Anse](https://open.spotify.com/track/1xOaETzZpfvTpADA2kvnZZ) | [Felix Räuber](https://open.spotify.com/artist/16msWAQnQ3L2GIIWPSVcfL) | [Grande Anse](https://open.spotify.com/album/23J4oBfI2idJvAmHIlDGzI) | 3:01 | 2022-04-01 |  |
+| [Grande Anse](https://open.spotify.com/track/1xOaETzZpfvTpADA2kvnZZ) | [Felix Räuber](https://open.spotify.com/artist/16msWAQnQ3L2GIIWPSVcfL) | [Grande Anse](https://open.spotify.com/album/23J4oBfI2idJvAmHIlDGzI) | 3:01 | 2022-04-01 | 2022-10-18 |
 | [Gymnopédie No\. 3 \- Henrik Schwarz Rework \(FRAGMENTS / Erik Satie\) / Edit](https://open.spotify.com/track/47PBJyZe1MA0Menqa6l3lD) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Gymnopédie No\. 3 \[Henrik Schwarz Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/2ibADMduteqGORYnJ74ReP) | 4:30 | 2022-03-25 | 2022-04-02 |
 | [Hallonlandet \(Reimagined by Manu Delago\)](https://open.spotify.com/track/5ybr6iS8RnzFIAxYxlJ9B6) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Reimagined](https://open.spotify.com/album/1raUMik9260TRBAIYsa0ZP) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Harvester of Sorrow](https://open.spotify.com/track/1K11KPcUynDLD0b0Ds1zpQ) | [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe), [Jenn Mundia](https://open.spotify.com/artist/23Cb4TkNrKVdjShbEnyHQq) | [Justice](https://open.spotify.com/album/7cYJR3GwWpo1sMvNkyNBJH) | 3:47 | 2021-12-10 | 2022-04-02 |
@@ -189,6 +189,7 @@
 | [Soleil Pâle](https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Music for Film and Theatre](https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W) | 3:53 | 2022-07-22 |  |
 | [Soul II \(Elan\)](https://open.spotify.com/track/0ibj8o3eL2AWIqOgaoB87U) | [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Soul II \(Elan\)](https://open.spotify.com/album/2NULnHzzUr5rSEjgKwG8LM) | 3:39 | 2021-12-10 | 2022-07-23 |
 | [Spring 1 \- Levitation Mix](https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(Levitation Mix\)](https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX) | 3:35 | 2022-06-24 |  |
+| [Star of the County Down \- Ambient Mix](https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Star of the County Down \(Ambient Mix\)](https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya) | 5:40 | 2022-10-14 |  |
 | [Stars as Eyes \- Foam and Sand Rework](https://open.spotify.com/track/554PUKsVbNU38ljA1p65OE) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Stars as Eyes \(Foam and Sand Rework\)](https://open.spotify.com/album/1iSjVqPEIpQO8uo75ZfMlC) | 4:00 | 2022-03-25 | 2022-07-27 |
 | [Super Hexacordum \- Ensemb7e Version](https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU) | 5:18 | 2022-04-15 | 2022-07-29 |
 | [Synchronised Valve](https://open.spotify.com/track/3QuKpOxqvF5PTBANxKtx6p) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Synchronised Valve](https://open.spotify.com/album/725dZKUCaDY1QFjdoj0WYh) | 4:06 | 2021-12-10 | 2022-04-02 |

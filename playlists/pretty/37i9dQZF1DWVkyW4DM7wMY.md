@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,676 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,681 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 40 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 |
 | 41 | [Feel A Vibe](https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br) | [Feel A Vibe](https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp) | 2:59 |
 | 42 | [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 |
-| 43 | [Twisted](https://open.spotify.com/track/3yzGebxFtsxeh0iEAgyyUq) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/45dLgbt1hpbGuUDpwexuTv) | 4:10 |
+| 43 | [Twisted](https://open.spotify.com/track/7pjYCOtz5ATpc1OQKSWT1H) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/6bXBekfJuGWf9UFpuS2dXt) | 4:10 |
 | 44 | [Just Another Love Song](https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Meghan](https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI) | [Just Another Love Song](https://open.spotify.com/album/532BimGtZfjb35BXOSTnJe) | 2:57 |
 | 45 | [Klabu](https://open.spotify.com/track/6QOxa26PnUPC9bxJKWDinP) | [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Klabu](https://open.spotify.com/album/6QP1Xlw0ufY3bsCmaMz8im) | 2:08 |
 | 46 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 |
 | 70 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 |
 
-Snapshot ID: `MTY2NTY5NDc0MCwwMDAwMDAwMDdhZjMzYTQzZDIzNWM1NGExMDI3ODhkMDNjY2I4OWNk`
+Snapshot ID: `MTY2NTY5NDc0MCwwMDAwMDAwMDYyZDg0M2RlNzg3MDhiYTc4OGYxMTVmM2FmMTRmM2Ix`

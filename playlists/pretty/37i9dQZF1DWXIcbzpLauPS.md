@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,149 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,134 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 26 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 |
 | 27 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 |
 | 28 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 |
-| 29 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 |
-| 30 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
-| 31 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
+| 29 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
+| 30 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 |
+| 31 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
 | 32 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
 | 33 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 |
 | 34 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
 | 35 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
 | 36 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
-| 37 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
-| 38 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
+| 37 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
+| 38 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
 | 39 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
 | 40 | [Hotel Underground](https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Hotel Underground](https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5) | 2:46 |
 | 41 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 70 | [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 |
 | 71 | [Eden Will Drown](https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Eden Will Drown](https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR) | 3:12 |
 | 72 | [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 |
-| 73 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
-| 74 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 |
+| 73 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 |
+| 74 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
 | 75 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMGI0YzRkM2VhYjc3NzRjNWIxOGRkNWVhZDMwZDE3ZmI1`
+Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDQxZmM2YTE0ZDczZGMzYmVkODFjYmU0MDZkMDU0ZmM4`

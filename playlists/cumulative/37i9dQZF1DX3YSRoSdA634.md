@@ -4,13 +4,13 @@
 
 > Having a bad day? We know how it feels!
 
-452 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+453 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 | 2021-12-15 | 2022-07-29 |
 | [5AM](https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:17 | 2022-02-07 | 2022-08-06 |
-| [7 Minutes](https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [7 Minutes](https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar) | 3:31 | 2021-12-15 |  |
+| [7 Minutes](https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [7 Minutes](https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar) | 3:31 | 2021-12-15 | 2022-10-18 |
 | [A Drop In The Ocean](https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Bedroom Demos](https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm) | 3:40 | 2021-12-15 |  |
 | [A Little Too Much](https://open.spotify.com/track/06DaCxeg3IUMcxDkKEyQKf) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5wKylB0Zwnxz046O7po25D) | 3:07 | 2021-12-15 | 2022-07-29 |
 | [A Little Too Much](https://open.spotify.com/track/1T7AiFL9ruKKwlONN35Vh0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:07 | 2022-07-01 |  |
@@ -51,6 +51,7 @@
 | [Blood and Bones](https://open.spotify.com/track/4uIE29yKjg7Cbw6aEXyxiK) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [I Wouldn't Be \- EP](https://open.spotify.com/album/0Y7pcfduu7xTuLF2MmAHw5) | 3:52 | 2022-02-07 | 2022-04-21 |
 | [BRAVE](https://open.spotify.com/track/1LiEAia09qw722mpzqfROY) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [BRAVE](https://open.spotify.com/album/05LkMk4sbSJ1GewU2FHI1t) | 4:37 | 2021-12-15 | 2022-05-21 |
 | [Break My Heart \- Piano Acoustic](https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart \(Piano Acoustic\)](https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB) | 3:38 | 2021-12-15 | 2022-07-29 |
+| [Break My Heart Again](https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh) | 3:58 | 2022-09-30 |  |
 | [Break My Heart Again](https://open.spotify.com/track/2is19a6HY7ZdWP654IMhEE) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Break My Heart Again](https://open.spotify.com/album/3vh5Rvh2LVovpYKhrnSndx) | 3:58 | 2021-12-15 | 2022-10-13 |
 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2021-12-15 | 2022-07-29 |
 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 | 2022-07-01 |  |

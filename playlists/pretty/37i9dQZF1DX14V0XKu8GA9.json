@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 16854,
+  "num_followers": 16877,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NzEyMCwwMDAwMDAwMDc3MmI0YzcyODQ4N2I3Nzk2NWUxYzk0YjE0MzI5NDM4",
+  "snapshot_id": "MTY2Mzk0NzEyMCwwMDAwMDAwMGE4ZDFlOGFhMGVhMjkyZmY3MzY1MmVkNGNjZmNlNjFj",
   "tracks": [
     {
       "added_at": "2022-09-23 15:32:00",
@@ -727,6 +727,30 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Rosary",
+        "url": "https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 238723,
+      "name": "Rosary",
+      "url": "https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Millions",
         "url": "https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL"
       },
@@ -775,26 +799,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Club Banger (feat. Peysoh)",
-        "url": "https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "Club Banger (feat. Peysoh)",
-      "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "My Light",
         "url": "https://open.spotify.com/album/32KAZuMWyfCY3MkIY5BtK1"
       },
@@ -819,46 +823,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Rosary",
-        "url": "https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        },
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 238723,
-      "name": "Rosary",
-      "url": "https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM"
-      },
-      "artists": [
-        {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
-        }
-      ],
-      "duration_ms": 213861,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Gangsta Movie",
         "url": "https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX"
       },
@@ -871,26 +835,6 @@
       "duration_ms": 133333,
       "name": "Rich $outh Sider",
       "url": "https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "She Gon Choose (feat. Lil Weirdo)",
-        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        },
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        }
-      ],
-      "duration_ms": 156984,
-      "name": "She Gon Choose (feat. Lil Weirdo)",
-      "url": "https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -923,6 +867,86 @@
       "duration_ms": 191059,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/68l3AHETwLT381pxp70aUa"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM"
+      },
+      "artists": [
+        {
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+        }
+      ],
+      "duration_ms": 213861,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Club Banger (feat. Peysoh)",
+        "url": "https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Club Banger (feat. Peysoh)",
+      "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Grimey Park",
+        "url": "https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "Grimey Park",
+      "url": "https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "She Gon Choose (feat. Lil Weirdo)",
+        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        },
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 156984,
+      "name": "She Gon Choose (feat. Lil Weirdo)",
+      "url": "https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -963,30 +987,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Grimey Park",
-        "url": "https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        },
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Grimey Park",
-      "url": "https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Kap On Edge",
         "url": "https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "She Gon Choose (feat. Lil Weirdo)",
-        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
+        "name": "i'm Hot",
+        "url": "https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF"
       },
       "artists": [
         {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
         }
       ],
-      "duration_ms": 117833,
-      "name": "I\u2019m Back",
-      "url": "https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS"
+      "duration_ms": 128994,
+      "name": "i'm Hot",
+      "url": "https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "i'm Hot",
-        "url": "https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF"
+        "name": "She Gon Choose (feat. Lil Weirdo)",
+        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
       },
       "artists": [
         {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
         }
       ],
-      "duration_ms": 128994,
-      "name": "i'm Hot",
-      "url": "https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe"
+      "duration_ms": 117833,
+      "name": "I\u2019m Back",
+      "url": "https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Vivir...",
-        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
-      },
-      "artists": [
-        {
-          "name": "Bodega Bamz",
-          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
-        }
-      ],
-      "duration_ms": 135959,
-      "name": "Palo De Santo",
-      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Smile Now",
         "url": "https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 170514,
       "name": "Smile Now",
       "url": "https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Vivir...",
+        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
+      },
+      "artists": [
+        {
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
+        }
+      ],
+      "duration_ms": 135959,
+      "name": "Palo De Santo",
+      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "SLIDIN",
         "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
       },
@@ -1307,46 +1327,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
-      },
-      "artists": [
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        },
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Sometime In The H",
         "url": "https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 169795,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        },
+        {
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "La Daisy",
         "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 178000,
       "name": "It's Whateva",
       "url": "https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Barbacoa",
-        "url": "https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS"
-      },
-      "artists": [
-        {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
-        }
-      ],
-      "duration_ms": 114936,
-      "name": "Barbacoa",
-      "url": "https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

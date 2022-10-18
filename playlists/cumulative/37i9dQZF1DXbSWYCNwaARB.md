@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: Dreamcatcher\(드림캐쳐\)
 
-320 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+321 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,12 +209,13 @@
 | [Not That Type](https://open.spotify.com/track/0dHWWPN5XGWotUnM57QQZK) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.5 New Action](https://open.spotify.com/album/1eztr3rLc24EvhtvIdRjkl) | 3:11 | 2021-01-18 | 2021-03-10 |
 | [Not Yours](https://open.spotify.com/track/6F8NVcYbERkpD3TlkYYVm4) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:03 | 2021-03-02 | 2022-04-21 |
 | [Nun Nu Nan Na](https://open.spotify.com/track/7ladzyHoK60op9Zq7wy9UN) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [Nun Nu Nan Na](https://open.spotify.com/album/7p3NTiZoaZRzgPmwlGMHtM) | 3:28 | 2021-02-19 | 2022-04-19 |
+| [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-17 |  |
 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-02-23 |  |
 | [Odd Eye](https://open.spotify.com/track/28Jwll1H52Hr4JzQ6vMoul) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:04 | 2021-01-30 | 2022-04-14 |
 | [Oh MAMA](https://open.spotify.com/track/3usVtuGqnWOy2zp8CMO0PB) | [Bling Bling](https://open.spotify.com/artist/6xS3dyQKA8RajjorUSVrvi) | [CONTRAST](https://open.spotify.com/album/7ivQIfOWxgSAg3OSDsbrch) | 3:14 | 2021-08-25 | 2022-07-28 |
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2020-10-13\* | 2022-10-13 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-04-17 |
-| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 |  |
+| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 | 2022-10-18 |
 | [OOMM \(Out of My Mind\)](https://open.spotify.com/track/65gzcr0GjgVInjECujSpPm) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [OOMM \(Out of My Mind\)](https://open.spotify.com/album/2oTioa2D2E29diIrgaQmag) | 3:20 | 2021-03-01 | 2022-04-16 |
 | [OOPSIE \(My Bad\)](https://open.spotify.com/track/5TEdFgup4L8CdEZlcqcAHK) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE A](https://open.spotify.com/album/2rWqzpo4TfsbjUt4FSmpJ8) | 3:21 | 2021-02-28 | 2022-04-19 |
 | [Passionate Love 열A\-야](https://open.spotify.com/track/0OnrBE4rqwpul8IBSJrcB4) | [Kang xiwon](https://open.spotify.com/artist/2Y5wddf5A6jv6MVB6aH90e) | [SUPA DIVA](https://open.spotify.com/album/5dxaaGgyuZrfXjTWFKvuOZ) | 3:26 | 2021-03-01 | 2022-04-13 |

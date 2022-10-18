@@ -1,13 +1,29 @@
 {
   "description": "Up and down I-95. Cover: A Boogie Wit Da Hoodie",
-  "num_followers": 420066,
+  "num_followers": 420189,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg3Zjg5YWZjZjIzOTZiNWU3MmRhODZjYTcyZjk2ZmE0",
+  "snapshot_id": "MTY2NjA1MTQ1NiwwMDAwMDAwMDJkNDc4ZmQ2Yjk0ZWI4MGY5YjVkZmI3NGYyOWY3MDhl",
   "tracks": [
+    {
+      "added_at": "2022-10-18 00:04:16",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -1843,26 +1859,6 @@
       "duration_ms": 226666,
       "name": "Unappreciated",
       "url": "https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "More Than Music, Pt. 2",
-        "url": "https://open.spotify.com/album/1AFfH43xNSiszkqzN3z9xO"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 179743,
-      "name": "The Wire (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/5HyHnZ6aSdORxyY24BWkdo"
     },
     {
       "added_at": "2022-10-14 04:00:00",

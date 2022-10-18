@@ -1,12 +1,12 @@
 {
   "description": "An introduction to some of alt-rock\u2019s most seminal tracks.",
-  "num_followers": 75230,
+  "num_followers": 75352,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ3Mzc0NCwwMDAwMDAwMDAzODJjNmIwZjgzODQ4OTRmNmQ2MWQ4NTc4YTE4YjUz",
+  "snapshot_id": "MTY2NjAzODk4MiwwMDAwMDAwMDBlNjZhNzBhYjZjMTZjOTcwNjBkYTFkNWQzNjk4Yjky",
   "tracks": [
     {
       "added_at": "2022-10-11 07:35:44",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "Reckless Tongue",
+        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
+      },
+      "artists": [
+        {
+          "name": "Airways",
+          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
+        }
+      ],
+      "duration_ms": 178795,
+      "name": "Reckless Tongue",
+      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "Fantastic Planet",
         "url": "https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Reckless Tongue",
-        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
-      },
-      "artists": [
-        {
-          "name": "Airways",
-          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
-        }
-      ],
-      "duration_ms": 178795,
-      "name": "Reckless Tongue",
-      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 260306,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Fools and Worthless Liars (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Hunstanton Pier",
+      "url": "https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -295,6 +311,22 @@
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Simplicity",
+        "url": "https://open.spotify.com/album/4cgXduilLVjNuIMBIbUUIN"
+      },
+      "artists": [
+        {
+          "name": "Curtiss",
+          "url": "https://open.spotify.com/artist/1JaFPRzVdBkoUq5K16U8ly"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2DyhBbEIaPX1neN47yLJkk"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -507,22 +539,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 282121,
-      "name": "Weed Pin",
-      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Keep Telling Myself It's Alright",
         "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
       },
@@ -535,6 +551,22 @@
       "duration_ms": 229080,
       "name": "The Stone",
       "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 282121,
+      "name": "Weed Pin",
+      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -811,22 +843,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Aquasun",
-      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Under Exit Lights",
         "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "The New Vice EP",
-        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
-          "name": "Otherkin",
-          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 213492,
-      "name": "Yeah, I Know",
-      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
+      "duration_ms": 222040,
+      "name": "Aquasun",
+      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -871,6 +887,22 @@
       "duration_ms": 158435,
       "name": "Husk",
       "url": "https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "The New Vice EP",
+        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+      },
+      "artists": [
+        {
+          "name": "Otherkin",
+          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Yeah, I Know",
+      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1147,22 +1179,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "I'll Find You",
-      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Workbook",
         "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
       },
@@ -1175,6 +1191,22 @@
       "duration_ms": 212066,
       "name": "See A Little Light",
       "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "I'll Find You",
+      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "The Vertigo of Bliss",
         "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Pushing the Senses",
-        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
       },
       "artists": [
         {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
         }
       ],
-      "duration_ms": 207946,
-      "name": "Pushing The Senses",
-      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+        "name": "Pushing the Senses",
+        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
       },
       "artists": [
         {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
         }
       ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
+      "duration_ms": 207946,
+      "name": "Pushing The Senses",
+      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1339,6 +1355,22 @@
       "duration_ms": 198160,
       "name": "Used For Glue",
       "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1503,18 +1535,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Fools and Worthless Liars (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I"
+        "name": "Infinite Pleasure",
+        "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
       },
       "artists": [
         {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
         }
       ],
-      "duration_ms": 289733,
-      "name": "Hunstanton Pier",
-      "url": "https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q"
+      "duration_ms": 247360,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1579,38 +1611,6 @@
       "duration_ms": 268519,
       "name": "Vacation Forever",
       "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Transatlantic Foe",
-      "url": "https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
-        "name": "Too Shabby",
-        "url": "https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897"
-      },
-      "artists": [
-        {
-          "name": "Rozwell Kid",
-          "url": "https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0"
-        }
-      ],
-      "duration_ms": 270634,
-      "name": "Kangaroo Pocket",
-      "url": "https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

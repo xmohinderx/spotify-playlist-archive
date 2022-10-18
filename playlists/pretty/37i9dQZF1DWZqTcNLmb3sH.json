@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Triple Riding",
-  "num_followers": 41452,
+  "num_followers": 41497,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU1OTM4MSwwMDAwMDAwMGJmMjljNjAzOTEyYWY3NTE5ZjY0ZGFjYTVkOWZkNWY0",
+  "snapshot_id": "MTY2NTk4NTExMiwwMDAwMDAwMGFhNzY5ODk0MTYzZTY4NzM1MWY5YTNhY2E5NGNhMWIy",
   "tracks": [
     {
       "added_at": "2022-09-16 05:21:59",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6J7whJ91XKvDnLWpa1Cqn2"
     },
     {
+      "added_at": "2022-10-17 05:34:12",
+      "album": {
+        "name": "Dil Pasand",
+        "url": "https://open.spotify.com/album/0iICq3mg6ddYWF6ZYoVAES"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 182636,
+      "name": "Rama Rama Rama",
+      "url": "https://open.spotify.com/track/0aLovS5m8YwIdgNfruWPjO"
+    },
+    {
       "added_at": "2022-10-12 07:23:01",
       "album": {
         "name": "Triple Riding",
@@ -75,6 +91,30 @@
       "duration_ms": 219206,
       "name": "Nijave Athava",
       "url": "https://open.spotify.com/track/3TUOWcaXYcZe3rFSurNgdN"
+    },
+    {
+      "added_at": "2022-10-17 05:38:32",
+      "album": {
+        "name": "Raymo",
+        "url": "https://open.spotify.com/album/3QEkUqZl3XJpGM7L8rnMSB"
+      },
+      "artists": [
+        {
+          "name": "Aniruddha Shastry",
+          "url": "https://open.spotify.com/artist/2RvSkEl1DWFZ4k6cbVTEbK"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        }
+      ],
+      "duration_ms": 312615,
+      "name": "Ninnade Ninnade",
+      "url": "https://open.spotify.com/track/3m3aL9HHzyAfoyMOLtrzd1"
     },
     {
       "added_at": "2022-10-06 14:52:14",

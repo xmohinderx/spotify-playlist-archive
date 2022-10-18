@@ -1101,6 +1101,24 @@
     {
       "album": {
         "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv"
+      },
+      "artists": [
+        {
+          "name": "Abhilasha Sinha",
+          "url": "https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219353,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B"
+    },
+    {
+      "album": {
+        "name": "Honey Bee",
         "url": "https://open.spotify.com/album/2EJPiGw5V1dJciKQaK7jd6"
       },
       "artists": [
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 219353,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8"

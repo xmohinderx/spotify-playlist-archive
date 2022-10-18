@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-389 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+390 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-06-03 |  |
 | [Amarrados](https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tanta Mentira](https://open.spotify.com/album/5GnCrMgngU8v3fNCAOTV7f) | 3:13 | 2022-01-07 |  |
 | [Amor Amor](https://open.spotify.com/track/26c4FxlTwUr202Cl9k07gV) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 4:15 | 2022-01-07 | 2022-07-28 |
-| [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 | 2022-07-15 |  |
+| [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 | 2022-07-15 | 2022-10-18 |
 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 | 2022-04-01 | 2022-04-21 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-01 | 2022-04-18 |
 | [Amor de Verano](https://open.spotify.com/track/60hPM9MOu0wjKInZzYwYH8) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Amor de Verano](https://open.spotify.com/album/1KDE0rBIiV7nUkSwV0GvzZ) | 2:31 | 2022-01-07 | 2022-07-29 |
@@ -85,7 +85,7 @@
 | [Cintas Con Vos](https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Yate](https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG) | 2:42 | 2022-01-28 | 2022-07-20 |
 | [Como Quieras](https://open.spotify.com/track/7H1zvsLV2Wt8l6x9WyTqdb) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Como Quieras](https://open.spotify.com/album/7iVDvrhP6V3JcChZCFJq7H) | 3:08 | 2022-01-28 | 2022-07-25 |
 | [Como un Pez \(feat\. Usted Señalemelo\)](https://open.spotify.com/track/0fcpgW9niaGLg6ECW2fs6f) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 4:01 | 2022-04-01 | 2022-04-21 |
-| [Confía](https://open.spotify.com/track/1SXPlj3wH0Luz40LmBFjso) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Confía](https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU) | 3:04 | 2022-01-07 | 2022-10-12 |
+| [Confía](https://open.spotify.com/track/1SXPlj3wH0Luz40LmBFjso) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Confía](https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU) | 3:04 | 2022-01-07 |  |
 | [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 | 2022-06-03 | 2022-07-02 |
 | [Corazón](https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp) | 3:19 | 2022-01-07 | 2022-04-20 |
 | [Corazón de piedra](https://open.spotify.com/track/0ck5g54mtxNccaHXSHiKxu) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [Corazón de piedra](https://open.spotify.com/album/1SSa8plyYVHl21FG65zkJQ) | 3:21 | 2022-05-06 | 2022-07-26 |
@@ -93,6 +93,7 @@
 | [Cuando Estamos los Dos](https://open.spotify.com/track/49OdM2GAMPKmjMvKREwr9z) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Cuando Estamos los Dos](https://open.spotify.com/album/6fcX02OAL5PYZWgzusNEwB) | 3:17 | 2022-01-07 | 2022-07-24 |
 | [Cuando Te Vas](https://open.spotify.com/track/72ge45v4SgWtoP7Z3IxNUr) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Cuando Te Vas](https://open.spotify.com/album/2KOXFHYCaZITE4XsWwE1w1) | 3:22 | 2022-04-01 | 2022-04-15 |
 | [Cuenta Conmigo](https://open.spotify.com/track/5pkLzY2lawUgk6TZHph7uN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Cuenta Conmigo](https://open.spotify.com/album/1PV8wnu2yvaGsq7WQnbj4P) | 4:51 | 2022-01-07 | 2022-06-21 |
+| [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-14 |  |
 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 | 2022-01-07 | 2022-07-28 |
 | [Cómo y Cuándo](https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY) | [El Féral](https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Cómo y Cuándo](https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku) | 3:24 | 2022-01-28 | 2022-06-24 |
 | [Cósmica](https://open.spotify.com/track/0cdk7aW3T86BCMyvACbbEu) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/0gvYgxTHHuLxo79sOjrU82) | 3:36 | 2022-01-07 | 2022-07-05 |
@@ -221,7 +222,7 @@
 | [Los Bajos Vibran en Mi Pecho](https://open.spotify.com/track/27nAzQhusAaGLD11Nyr1BL) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Foto Pa Ti](https://open.spotify.com/album/1rNUjDL3QTqUvQJuqS7TKH) | 3:52 | 2022-04-01 | 2022-04-26 |
 | [Los Dos](https://open.spotify.com/track/13dXaz9leceR03UtdsNMkd) | [Federico Zeppelin](https://open.spotify.com/artist/3vPlqPnE0BZKjaPqvEA6QL) | [Los Dos](https://open.spotify.com/album/7ld53psAXN2djkesOze8GF) | 3:06 | 2022-01-28 | 2022-07-24 |
 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2022-01-07 | 2022-07-22 |
-| [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 | 2022-06-03 |  |
+| [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 | 2022-06-03 | 2022-10-18 |
 | [Love](https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Love](https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ) | 3:24 | 2022-01-07 |  |
 | [Luces Que Se Apagarán](https://open.spotify.com/track/34ZV1fPOupFnhdHXjudklU) | [Dani Bander](https://open.spotify.com/artist/5vz76TPq0Mr6SwREOxs3Sf) | [Luces Que Se Apagarán](https://open.spotify.com/album/3v0V5PCTVsz7BzhQWIeJ9a) | 2:57 | 2022-01-07 | 2022-07-07 |
 | [Luna en piscis](https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:26 | 2022-01-28 | 2022-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: D.O.D &amp; Raphaella
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,280 likes - 150 songs - 7 hr 40 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,275 likes - 151 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 145 | [Going Home](https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Max Vidima](https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6) | [Going Home](https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y) | 4:22 |
 | 146 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 |
 | 147 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 |
-| 148 | [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 |
-| 149 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 |
-| 150 | [PYRO](https://open.spotify.com/track/3aDhgouoRk6awklXL4QBGQ) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [PYRO](https://open.spotify.com/album/1pUyOjLNNT79a8OhVFsD5x) | 2:28 |
+| 148 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
+| 149 | [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 |
+| 150 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 |
+| 151 | [PYRO](https://open.spotify.com/track/3aDhgouoRk6awklXL4QBGQ) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [PYRO](https://open.spotify.com/album/1pUyOjLNNT79a8OhVFsD5x) | 2:28 |
 
-Snapshot ID: `NTIxNjIsOTgxYjBiMzBjODg4Y2RkZWE4YjJiYjJiMjE1NjYxYTQ4NWU3NmUyYg==`
+Snapshot ID: `NTIxNjMsOWY5NDNmZDRmNzA0MmUzYzY3Y2UwNWMzNjUyOWM0OGE3MmYyZGM5YQ==`

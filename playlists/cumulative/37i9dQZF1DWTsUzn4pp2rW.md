@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-219 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+220 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-10-13 |  |
 | [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 | 2021-11-19 |  |
 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 | 2021-11-19 |  |
+| [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 | 2022-10-13 |  |
 | [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2021-11-19 | 2022-02-09 |
 | [Hey Laura](https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj) | 3:19 | 2021-11-19 |  |
 | [Hey Laura](https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [Hey Laura](https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d) | 3:13 | 2021-11-19 |  |
@@ -182,7 +183,7 @@
 | [Smile](https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Smile](https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ) | 3:20 | 2021-11-19 |  |
 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 | 2021-11-19 | 2022-10-08 |
 | [Some Day](https://open.spotify.com/track/5J7bcTD1AKOTElTwl42Ds9) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Some Day](https://open.spotify.com/album/6Vx5ZUPBLPwmTTTNum05Uh) | 3:47 | 2021-11-19 | 2022-07-29 |
-| [Some Day](https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 3:49 | 2022-07-14 |  |
+| [Some Day](https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 3:49 | 2022-07-14 | 2022-10-18 |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 | 2022-07-14 |  |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/7uKjeD7TdjUQLgjyYO2leP) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/album/3oX8Sb6OrZxhELPcsk30UW) | 3:10 | 2022-06-08 | 2022-07-29 |
 | [Something My Heart Trusts](https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Something My Heart Trusts](https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw) | 4:37 | 2022-06-22 |  |

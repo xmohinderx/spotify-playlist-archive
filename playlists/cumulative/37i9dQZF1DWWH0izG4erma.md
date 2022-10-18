@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: Koe Wetzel
 
-193 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+194 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 | 2022-03-18 |  |
 | [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 | 2021-11-01 |  |
 | [Southbound](https://open.spotify.com/track/1jxiUxaIBx8C2IOlak1j4Q) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream Part II](https://open.spotify.com/album/7xpZ5rRDizgbzLEwl88p7m) | 3:57 | 2021-11-01 | 2022-07-23 |
+| [Still a Few Cowboys Left](https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Still a Few Cowboys Left](https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD) | 3:14 | 2022-10-14 |  |
 | [Still Somethin' \- Bonus](https://open.spotify.com/track/04zWejuIz7CTNxHVeEYe6E) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/3OFpU1aJJJzwEI7ixUZer1) | 3:08 | 2022-05-06 | 2022-07-28 |
 | [Stronger Than You](https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:08 | 2021-11-01 |  |
 | [Sunday Drunk](https://open.spotify.com/track/2kWP0vqm0XoLahLhTxCPCL) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Sunday Drunk](https://open.spotify.com/album/60PmqavfpQTRQpFjAd4Hcn) | 4:31 | 2021-11-01 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Whole World Gone Crazy](https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whole World Gone Crazy](https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur) | 3:04 | 2022-04-29 |  |
 | [Workin' Man](https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Workin' Man](https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX) | 3:38 | 2022-06-24 |  |
 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 | 2021-11-05 |  |
-| [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 | 2021-11-01 |  |
+| [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 | 2021-11-01 | 2022-10-18 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2021-11-01 | 2022-08-27 |
 | [Your Momma Still Does](https://open.spotify.com/track/0F7Kxrd27Q1jYhnKVoWnUa) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 2:37 | 2022-07-22 |  |
 | [Your Momma Still Does](https://open.spotify.com/track/4lC2VHtTze7OouvfKwPpDa) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Your Momma Still Does](https://open.spotify.com/album/5v6ex5A7Kozxgp04iKaOX2) | 2:37 | 2021-11-01 | 2022-07-29 |

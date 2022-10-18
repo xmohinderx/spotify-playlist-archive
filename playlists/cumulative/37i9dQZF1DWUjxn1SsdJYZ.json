@@ -508,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Magic Carpet",
+        "url": "https://open.spotify.com/album/60EeMUDmDt8aq1LFuthq9v"
+      },
+      "artists": [
+        {
+          "name": "Menarku'",
+          "url": "https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123490,
+      "name": "Bl!p",
+      "url": "https://open.spotify.com/track/0tGvVY1beqjzoQqYV6zszU"
+    },
+    {
+      "album": {
         "name": "BL!P",
         "url": "https://open.spotify.com/album/3jQrRpgeCfb9lJhA8RvELG"
       },
@@ -519,7 +537,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 123490,
       "name": "BL!P",
       "url": "https://open.spotify.com/track/1fRejLP4jAjKWD9jjRxXN0"

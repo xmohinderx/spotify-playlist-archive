@@ -1,13 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX442zFw7L5ce) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX442zFw7L5ce)
 
-### [GRWM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce)
+### [\#GRWM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce)
 
 > Songs that will remind you of the QUEEN you are, while you get ready to slay the world! <br/>Cover : Pooja Hegde
 
-106 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
+108 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangali, Kid Sathya](https://open.spotify.com/artist/0msjNpDNwMgjbKmjbcwGHU) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 | 2022-10-17 |  |
 | [Adhento Gaani Vunnapaatuga](https://open.spotify.com/track/6jR5F8G9ZzCEQo27UgUrN6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Adhento Gaani Vunnapaatuga\(Jersey\)](https://open.spotify.com/album/00S5jU14zx45cD2F6RqV22) | 3:57 | 2021-10-21 | 2022-10-14 |
 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan, Gopika poornima](https://open.spotify.com/artist/2XvK1qhSh7sTup7WKTrnoi) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 | 2022-10-13 |  |
 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 | 2022-10-13 |  |
@@ -50,6 +51,7 @@
 | [Kolu Kolu \(From "Virataparvam"\)](https://open.spotify.com/track/6qr9d3B4CSQbnSVYR7z2f2) | [Divya Malika](https://open.spotify.com/artist/1vo1URSTODJ3jirm410pd4), [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ) | [Kolu Kolu \(From "Virataparvam"\)](https://open.spotify.com/album/3WSctd5DXg9j3oUwRENICD) | 3:46 | 2021-10-21 | 2022-10-14 |
 | [Kundanapu Bomma](https://open.spotify.com/track/2xofTipSxfwbxwSdBcjYIe) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Kalyani Menon](https://open.spotify.com/artist/56cdU5EX1q2eqlhV0w2A6D) | [Yemaaya Chesave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7n61GzJSBuZGrm8U1V9TLd) | 5:32 | 2022-10-13 |  |
 | [Lacha Gummadi \- Telugu](https://open.spotify.com/track/6hT5QTvZrbNd61AaNqz8XM) | [Srivardhini](https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Miss India](https://open.spotify.com/album/12hlzcNOaVR7erb6fjWHR1) | 3:53 | 2021-10-21 | 2022-10-14 |
+| [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:43 | 2022-10-17 |  |
 | [Leharaayi](https://open.spotify.com/track/0pCXbJ3lbtinCZnwg1CYDC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Most Eligible Bachelor](https://open.spotify.com/album/67FATbnVWtXgD9TF6OGb3P) | 4:05 | 2021-10-21 | 2022-10-14 |
 | [Maate Vinadhuga](https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Taxiwaala](https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN) | 4:56 | 2021-10-21 | 2022-10-14 |
 | [Maate Vinadhuga \- From "Taxiwaala"](https://open.spotify.com/track/3edo3q894PZFxsbDqqsm6r) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maate Vinadhuga \(From "Taxiwaala"\)](https://open.spotify.com/album/1ZpNDIqJmmtcA7o894qYnZ) | 4:56 | 2021-10-21 | 2022-07-29 |

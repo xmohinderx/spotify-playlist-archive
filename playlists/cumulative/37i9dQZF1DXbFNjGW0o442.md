@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3](https://open.spotify.com/track/1uRihlRJsDwZDua2HzUTMs) | [Caro Luisa](https://open.spotify.com/artist/5jpYEIn8PiFl8HmZ0sFpOb) | [\#3](https://open.spotify.com/album/2ngqOCSgr6VREfGkEsmm3m) | 3:45 | 2022-01-20 | 2022-07-28 |
-| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-01-20 | 2022-10-15 |
+| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-01-20 |  |
 | [2 Espinas](https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [2 Espinas](https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV) | 3:31 | 2022-01-20 |  |
 | [420](https://open.spotify.com/track/3YwPUBBP5zKXqnsmpbOKka) | [Boconas](https://open.spotify.com/artist/5QUMXH6cu4OHbGqT4uQRJI) | [420](https://open.spotify.com/album/5TWt1ln4nz4OxObp3QJPqW) | 2:36 | 2022-01-20 | 2022-07-17 |
 | [A 1200 Km](https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 3:49 | 2022-01-20 |  |
@@ -133,7 +133,7 @@
 | [Mujeres](https://open.spotify.com/track/2wVZPxC1lrkix7RGHhUzkA) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Dectectives](https://open.spotify.com/album/4OCganNLdrhUcEgG5Hkcjx) | 3:34 | 2022-03-08 | 2022-07-06 |
 | [Más Que Imaginación](https://open.spotify.com/track/03eYIOtSexrXgmHkJASYO8) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Celeste Carballo y La Generación](https://open.spotify.com/album/2I5HdZx4z2FkJLCLW7IQcG) | 4:01 | 2022-01-20 | 2022-07-19 |
 | [Nada](https://open.spotify.com/track/0jOZNv1RX2RDeKCKe2tKrg) | [Flor Gerson](https://open.spotify.com/artist/40q0uCjzcyKrvan9wU5Lph) | [Nada](https://open.spotify.com/album/3EVa7SywshiNqJPLA9fyjV) | 3:15 | 2022-01-20 | 2022-07-28 |
-| [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 | 2022-01-20 |  |
+| [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 | 2022-01-20 | 2022-10-18 |
 | [Ni Una Más](https://open.spotify.com/track/4WvhYvgVKgtLG7TFsJO0KI) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [Ni Una Más](https://open.spotify.com/album/4EzZTsc7MkOjbwpIfGZuzK) | 4:41 | 2022-01-20 | 2022-08-31 |
 | [No Hay Santos](https://open.spotify.com/track/3cxNVuq0RAy0zymBZ8u4FG) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [No Hay Santos](https://open.spotify.com/album/0XajlMSVe4RQCjuRr5eYas) | 2:44 | 2022-01-20 | 2022-07-29 |
 | [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 | 2022-07-15 |  |

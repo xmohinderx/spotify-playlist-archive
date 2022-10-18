@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with the golden age of pop punk.",
-  "num_followers": 2115877,
+  "num_followers": 2116326,
   "original_name": "Pop Punk Powerhouses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMGRmZjkzNjMyMWVkMjM2ZWQzMGU2ODk5Y2IyYjMwNjI1",
+  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMGQwMDdkNWFlNmViNTNlYjhkNGM1ZjU2NmE2MTYwNTcz",
   "tracks": [
     {
       "added_at": "2022-09-12 19:21:47",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 180160,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
         "name": "Dude Ranch",
         "url": "https://open.spotify.com/album/2CoVyQi2zIifUNBcVR0gEH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 165373,
       "name": "Dammit",
       "url": "https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -567,6 +567,22 @@
       "duration_ms": 233266,
       "name": "Swing, Swing",
       "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "crushcrushcrush",
+      "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -615,22 +631,6 @@
       "duration_ms": 198000,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "crushcrushcrush",
-      "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
     },
     {
       "added_at": "2022-09-12 19:21:47",

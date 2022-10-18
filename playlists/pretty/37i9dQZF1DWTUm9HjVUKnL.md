@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,737 likes - 797 songs - 2 day 0 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,769 likes - 797 songs - 2 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

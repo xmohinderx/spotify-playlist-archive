@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,558 likes - 93 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,560 likes - 93 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 6 | [Dinosaur Song](https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 3:04 |
 | 7 | [Roar Like a Dinosaur](https://open.spotify.com/track/5V8PN3AF3IEckdMJo9Zunq) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:39 |
 | 8 | [I Love Dinosaurs](https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 1:50 |
-| 9 | [Dinosaur Song](https://open.spotify.com/track/6eGrP5UF9ysYwIprgtBTiT) | [ITS MUSIC](https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn) | [Dinosaur Song](https://open.spotify.com/album/1gHWTkLcyoF0ubYXx6kWKa) | 1:48 |
+| 9 | [Dinosaur Song](https://open.spotify.com/track/0GxRQtlH4J3YbSIw1zshle) | [ITS MUSIC](https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn) | [Dinosaur Song](https://open.spotify.com/album/5AXypWo2PE4LHa3UsVGRsY) | 1:48 |
 | 10 | [I Am a Lonely T\-Rex](https://open.spotify.com/track/7zTOGqiWjXnqI5wGai2F29) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 2](https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU) | 2:25 |
 | 11 | [Future Dinosaur](https://open.spotify.com/track/6e6qP0r6SWIOXPcuJS7QeQ) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Future Dinosaur](https://open.spotify.com/album/17923sUaKpO4osXta791hP) | 2:36 |
 | 12 | [Dinosaur](https://open.spotify.com/track/3exDuR6wcyLuT2qoiykN2A) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 2:19 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 92 | [Brachiosaurus Song](https://open.spotify.com/track/3uJmMKTwR7dK9tfBPgik2N) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 1:30 |
 | 93 | [Stack up the Dinosaurs](https://open.spotify.com/track/7vHTkPmEceEaARz6JWZGuw) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 3:23 |
 
-Snapshot ID: `MTY2MDY2MDgzNSwwMDAwMDAwMGNjZTk1NmRlMTk4ZmZlZjI5NWVlODFjYjNhM2FkNjNm`
+Snapshot ID: `MTY2MDY2MDgzNSwwMDAwMDAwMGRiMmU0NGVjYTMzOGM2NWEzODkzYjRkY2QwOTU5OTMx`

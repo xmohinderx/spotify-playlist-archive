@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-341 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+342 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Nadie Me Brinda Na'](https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:55 | 2021-02-02 | 2022-07-27 |
 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 | 2021-02-02 |  |
 | [Necesito Tenerla](https://open.spotify.com/track/0ThqfCbSfTgycaLeIysSDx) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC) | 4:02 | 2021-02-02 | 2022-07-29 |
-| [Ni Tu Ni Yo](https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:38 | 2021-02-02 |  |
+| [Ni Tu Ni Yo](https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:38 | 2021-02-02 | 2022-10-18 |
 | [No Hay Nadie Mas](https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:39 | 2021-02-02 |  |
 | [No Hay Nadie Mas](https://open.spotify.com/track/587IZMRMDXL3EJuFrahPFU) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Merengue De Amor Vol\. 4](https://open.spotify.com/album/0auXpGnzLqaPl1ayPTLkW8) | 4:39 | 2021-02-02 | 2022-07-29 |
 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 | 2021-02-02 |  |
@@ -269,6 +269,7 @@
 | [Secretos](https://open.spotify.com/track/2KserR4WEVdrloo5eHsic6) | [Peter Cruz](https://open.spotify.com/artist/624La0EtrGIQnHyM76BkIq) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 4:05 | 2021-02-02 | 2022-07-26 |
 | [Secretos](https://open.spotify.com/track/2X4xABS94IDT6n880ec1uV) | [Peter Cruz](https://open.spotify.com/artist/624La0EtrGIQnHyM76BkIq) | [30 Merengues Clasicos Pal' Pueblo](https://open.spotify.com/album/6NPXa6NKhHQRw4bMbBaqwQ) | 4:05 | 2021-02-02 |  |
 | [Si Algun Dia la Ves](https://open.spotify.com/track/6RiDziyC7ycj1wCmAWr808) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo) | 4:44 | 2021-02-02 | 2022-07-29 |
+| [Si Algún Día la Ves](https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf) | 4:44 | 2021-02-02 |  |
 | [Si Algún Día la Ves](https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7) | 4:44 | 2021-02-02 | 2022-10-14 |
 | [Si Algún Día la Ves](https://open.spotify.com/track/6BjTfMFU1X39YbkyAjwiuB) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:45 | 2021-02-02 | 2022-07-29 |
 | [Si Algún Día la Ves](https://open.spotify.com/track/4syqdNyOYmJLHumi3MZSSA) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Los Hijos Del Rey](https://open.spotify.com/artist/3MLOPdmhPLxNrNttpNCo0c) | [Sergio Vargas y Los Hijos del Rey](https://open.spotify.com/album/7MplwPN74mBvlnk7I0nT1e) | 4:42 | 2021-02-02 | 2022-10-15 |

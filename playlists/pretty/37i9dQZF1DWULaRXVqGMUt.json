@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 25885,
+  "num_followers": 25937,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDg1MDYwMTYzY2NlZWFlNTA5MDhlNDlkZGI0MDM2ZmE0",
+  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDIzMDIxOTViN2RjNDQ4ZDU4YTA1NDYzMDhmMTY5Y2Nj",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:46",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 173893,
       "name": "Roll 'Em",
       "url": "https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "I Got It - Remastered",
-      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 169000,
       "name": "Let Me Go Home, Whiskey",
       "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 150571,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Jumpin' With Joe",
         "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
@@ -631,18 +615,34 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 172973,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
+      "duration_ms": 150571,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+      },
+      "artists": [
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Blue Lamp",
+      "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
       },
       "artists": [
         {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 181093,
-      "name": "Blue Lamp",
-      "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
+      "duration_ms": 172973,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -863,22 +863,18 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
       "artists": [
         {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
+      "duration_ms": 160795,
+      "name": "Boogie Woogie - Mono",
+      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
     }
   ],
   "unique_name": "Boogie-woogie Blues",

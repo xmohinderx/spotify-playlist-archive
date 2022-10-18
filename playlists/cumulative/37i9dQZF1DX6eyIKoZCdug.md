@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-77 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
+78 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Nkanyezi](https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [My Story](https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge) | 5:04 | 2022-03-24 |  |
 | [OLOGO SPACE CADET](https://open.spotify.com/track/7v5FweJJVE9XAnHuEpQ6e9) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [TMX001: Alàdélọbà](https://open.spotify.com/album/1F7o30WrhraNnnTTRYLFJ6) | 2:24 | 2021-04-09 |  |
 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 | 2021-10-15 |  |
-| [Out of Africa](https://open.spotify.com/track/7F9ilCsP3fM0hCggluGRcO) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Out of Africa](https://open.spotify.com/album/7yLiwC4leVxILTgFXJfxYX) | 7:33 | 2021-10-21 |  |
+| [Out of Africa](https://open.spotify.com/track/1LQgm4SnlgeNriEJdEd9AE) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr) | 7:33 | 2021-10-21 |  |
+| [Out of Africa](https://open.spotify.com/track/7F9ilCsP3fM0hCggluGRcO) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Out of Africa](https://open.spotify.com/album/7yLiwC4leVxILTgFXJfxYX) | 7:33 | 2021-10-21 | 2022-10-18 |
 | [Phuze](https://open.spotify.com/track/1kny8eA0I5sU4deUq8dqfi) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Phuze](https://open.spotify.com/album/4LjhAwYIgU7lqqcM1hUZjv) | 6:06 | 2021-07-23 |  |
 | [Possessed Whistle](https://open.spotify.com/track/0a5uK28NPc4qV3McAxIw5i) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Kwa Kwa](https://open.spotify.com/album/68gRa9XZPN0Nfi9FYCrKyC) | 6:34 | 2021-12-02 |  |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2022-02-17 |  |

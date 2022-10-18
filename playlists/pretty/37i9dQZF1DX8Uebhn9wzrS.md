@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,703 likes - 500 songs - 18 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,881 likes - 500 songs - 18 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,7 +233,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 223 | [haha yeah ok \(lofi remix\)](https://open.spotify.com/track/18wRLqDBZQGNCBeiECoJ5s) | [sancy j](https://open.spotify.com/artist/3UVxi5LYbngFziA6ots019), [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT), [West Bestern](https://open.spotify.com/artist/7zOLbjVjQZPAldCJ6K9Nha) | [haha yeah ok \(lofi remix\)](https://open.spotify.com/album/771hb2ACwe9f8Fd34jBRIX) | 2:20 |
 | 224 | [Parades](https://open.spotify.com/track/2ApTu6hFTnNI4OgspbovcK) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/31LiiyocxjrRlfQS5jRoPx) | 2:17 |
 | 225 | [Open All Night](https://open.spotify.com/track/6Dt6AytHdXimlTCONkV95z) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Open All Night](https://open.spotify.com/album/1QcHc5DY3LS2MZNMhlgjCz) | 2:50 |
-| 226 | [Slow Down](https://open.spotify.com/track/152uFhDdcN9JZlD8B9S8rq) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/2J2b3QMHkQF5Ysm0fhE6rT) | 2:15 |
+| 226 | [Slow Down](https://open.spotify.com/track/4MkSW2NZdEL4AiOlPT1m1V) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/5qjG9PP6cva8U9CQPaeF1i) | 2:15 |
 | 227 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 |
 | 228 | [Daydreaming](https://open.spotify.com/track/4EON13xU5v3CsQG6C5BZcO) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Daydreaming](https://open.spotify.com/album/7DbRuyDxuJTVIIUKvPFgb9) | 2:33 |
 | 229 | [Ricochet](https://open.spotify.com/track/3a5cfttZFZ20nfTvzZ462L) | [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Ricochet](https://open.spotify.com/album/6boX8DHQXaCfF1rF1ph4Bz) | 2:44 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [Peace](https://open.spotify.com/track/6ivY5r6kbT1t8WQeWBK0kc) | [Eddie & George](https://open.spotify.com/artist/5aYybCPaexHcWutawAyUvv) | [Peace](https://open.spotify.com/album/56y7dcDWWN47pDCuaecWA0) | 2:06 |
 | 500 | [Shanghai, 4AM](https://open.spotify.com/track/7GWNhXxBhU5zXifNuLA9Vp) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Shanghai, 4AM](https://open.spotify.com/album/33a3a2DxYBxPv5RYa18pxe) | 1:47 |
 
-Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGZmMzBjOGEyMWE2NjQxNWRiOThmYzE1OWE3NTUxNzEx`
+Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGExNmQ3NzBiZWI4MzlkODY3Y2M2MmEzZTYwODU3ZTU3`

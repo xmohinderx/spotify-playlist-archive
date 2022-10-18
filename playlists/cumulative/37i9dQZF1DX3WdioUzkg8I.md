@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-247 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/5rgh2vQqq4FwzvlZrwNuEX)
+248 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/5rgh2vQqq4FwzvlZrwNuEX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2022-01-04 | 2022-04-29 |
 | [Final Relaxation](https://open.spotify.com/track/3D4RnotCB06bK7QHlPl2B7) | [Adela Rynsburger](https://open.spotify.com/artist/4SkN6vgI1t8Es1N7KTjc22) | [Final Relaxation](https://open.spotify.com/album/6XelgT98VbSCej4ACD5ILa) | 2:53 | 2022-04-28 |  |
 | [Finally In Peace](https://open.spotify.com/track/52tcU3qihtTISeQJz1JFfl) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 2:56 | 2022-01-04 |  |
-| [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2022-01-04 |  |
+| [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2022-01-04 | 2022-10-18 |
+| [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2022-09-23 |  |
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2022-01-04 |  |
 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 | 2022-01-04 |  |
 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 | 2022-01-04 |  |

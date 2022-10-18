@@ -2511,10 +2511,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 252058,
       "name": "Recyclers",
       "url": "https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3"
+    },
+    {
+      "album": {
+        "name": "Recyclers",
+        "url": "https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf"
+      },
+      "artists": [
+        {
+          "name": "Jagguar",
+          "url": "https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252058,
+      "name": "Recyclers",
+      "url": "https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj"
     },
     {
       "album": {

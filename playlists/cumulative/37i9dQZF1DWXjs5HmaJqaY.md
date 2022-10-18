@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-73 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
+74 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [OK](https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [OK, OK](https://open.spotify.com/album/0TERygqKJpDLNi8zwfyCzZ) | 5:46 | 2022-09-16 |  |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2022-09-16 |  |
 | [Patterns](https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Patterns](https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T) | 7:48 | 2022-09-16 |  |
-| [Philly](https://open.spotify.com/track/5WmWTKaOjVRLdTtZXHMzoH) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/7pdcKXEVHGRdF2sE4w5Nx0) | 8:15 | 2022-09-16 |  |
+| [Philly](https://open.spotify.com/track/1yjHf4kssDAt3AsJVzIx1w) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/1tNdETUVwKwr0Ur02zAEm4) | 8:15 | 2022-10-07 |  |
+| [Philly](https://open.spotify.com/track/5WmWTKaOjVRLdTtZXHMzoH) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/7pdcKXEVHGRdF2sE4w5Nx0) | 8:15 | 2022-09-16 | 2022-10-18 |
 | [Pictureoftheday \- Breitenstein Remix](https://open.spotify.com/track/7FwnbicTkdRzrzwWc8hkHp) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Pictureoftheday \- Breitenstein Remix](https://open.spotify.com/album/6du7BevPmXnj3oHFwiwD6f) | 8:19 | 2022-09-16 |  |
 | [Pictureoftheday \- Marco Faraone Remix](https://open.spotify.com/track/4VxbQKewmC9zm1qYDVx64W) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Pictureoftheday \- Marco Faraone Remix](https://open.spotify.com/album/4BtmVqZMhKF4qqo7lpIUAv) | 7:14 | 2022-09-16 |  |
 | [Purple Noise](https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Puls](https://open.spotify.com/album/5x7HlzUrvG4KxSrGjDEcBO) | 5:22 | 2022-09-16 |  |

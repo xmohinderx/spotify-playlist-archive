@@ -1984,6 +1984,32 @@
     },
     {
       "album": {
+        "name": "Dembow",
+        "url": "https://open.spotify.com/album/0h5NIUrrySBxouSVVbZchi"
+      },
+      "artists": [
+        {
+          "name": "BM Legacy",
+          "url": "https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q"
+        },
+        {
+          "name": "Ale Mix",
+          "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178796,
+      "name": "Dembow",
+      "url": "https://open.spotify.com/track/5uJWQVYH6Xq3ChSFx8AU6s"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -7175,7 +7201,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 182506,
       "name": "Quemando Calor\u00edas",
       "url": "https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF"
@@ -7279,7 +7305,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 538462,
       "name": "Quiero Fumar - Remix",
       "url": "https://open.spotify.com/track/62jJgYMqkNuVlOiyscQo15"
@@ -9277,7 +9303,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 218693,
       "name": "XQ Te Pones As\u00ed",
       "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"

@@ -1741,7 +1741,7 @@
     {
       "album": {
         "name": "Chicago Sunrise EP",
-        "url": "https://open.spotify.com/album/6Ufe2NurrlZTDH5GEq1HHT"
+        "url": "https://open.spotify.com/album/2nfNNNXNAG5nJ0au7QHr6I"
       },
       "artists": [
         {
@@ -1752,6 +1752,24 @@
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 417701,
+      "name": "Trojan",
+      "url": "https://open.spotify.com/track/00m6m26lE6LZlOGLesqg8g"
+    },
+    {
+      "album": {
+        "name": "Chicago Sunrise EP",
+        "url": "https://open.spotify.com/album/6Ufe2NurrlZTDH5GEq1HHT"
+      },
+      "artists": [
+        {
+          "name": "Mark Henning",
+          "url": "https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 417701,
       "name": "Trojan",
       "url": "https://open.spotify.com/track/2msoOJb4doUd2uBlFSXiKU"

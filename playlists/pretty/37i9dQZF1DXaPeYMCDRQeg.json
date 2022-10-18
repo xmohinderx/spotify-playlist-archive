@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 140427,
+  "num_followers": 140505,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTk2OTcwMCwwMDAwMDAwMGVkZDU3NTYyMjYxM2FhZTQ0M2U0OTgzYTk2Njk0ZGYw",
+  "snapshot_id": "MTY2NTk2OTcwMCwwMDAwMDAwMDgxMjU5MTIwYTE4M2U1MjMxMzgzNjdiN2YyOWJiMjIz",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -435,26 +451,6 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 238321,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -479,18 +475,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+      "duration_ms": 238321,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -871,6 +887,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Dontchange",
+      "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Guy",
         "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
       },
@@ -883,54 +915,6 @@
       "duration_ms": 294475,
       "name": "I Like",
       "url": "https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -951,18 +935,34 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
       },
       "artists": [
         {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
         }
       ],
-      "duration_ms": 304426,
-      "name": "Dontchange",
-      "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Personal Conversation",
+        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Happily Ever After",
+      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 314537,
       "name": "U Send Me Swingin'",
       "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Personal Conversation",
-        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Happily Ever After",
-      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+        "name": "Electric Circus",
+        "url": "https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 279720,
-      "name": "Gone Baby, Don't Be Long",
-      "url": "https://open.spotify.com/track/0QQDaKW7eRRoqvbLCylzrn"
+      "duration_ms": 275066,
+      "name": "Come Close",
+      "url": "https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs"
     }
   ],
   "unique_name": "Love Language",

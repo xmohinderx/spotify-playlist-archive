@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 85,362 likes - 100 songs - 6 hr 2 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 85,433 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 99 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 | 100 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 
-Snapshot ID: `NjMyLDdiM2I0MjQ0NDFmOWEwYjhhMWVmZjViOGU4ZDYzZmY1MTRmYTJkZWU=`
+Snapshot ID: `NjM0LDE1ZWFhYTVmY2JiMzk1Mjk4MWQ5ZWU3NDEzM2JmOGI1YTI5Y2U2MmM=`

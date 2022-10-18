@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-144 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+145 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 | 2022-02-04 |  |
 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 | 2022-07-26 |  |
 | [Run](https://open.spotify.com/track/6DuZiUskmmowv4zLdLfSxt) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/3V0mDywNFRF9zqzG8L8IPr) | 5:59 | 2022-02-04 | 2022-07-29 |
-| [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2022-02-04 |  |
+| [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 | 2022-07-26 |  |
+| [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2022-02-04 | 2022-10-18 |
 | [Seigfried](https://open.spotify.com/track/1BViPjTT585XAhkUUrkts0) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:34 | 2022-07-19 | 2022-07-27 |
 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 | 2022-07-19 | 2022-07-27 |
 | [SheChoseMe!!!!](https://open.spotify.com/track/4oZp0RcyjNqdY0jB5PkSlN) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [Zion II](https://open.spotify.com/album/5fnXMRZFd0SkPitan6pLu4) | 2:44 | 2022-07-19 | 2022-07-27 |

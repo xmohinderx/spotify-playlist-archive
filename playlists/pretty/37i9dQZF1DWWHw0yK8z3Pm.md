@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Julian Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,496 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,510 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 63 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 |
 | 64 | [Be My Witness \(feat\. Madison Cunningham\)](https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:22 |
 | 65 | [Kanituet](https://open.spotify.com/track/2UHg2rEhfGXdMkgdzu8eq2) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Uapen Nuta / Terre de nos aïeux](https://open.spotify.com/album/5utA00dzaUdLDJsAFkPa8N) | 4:07 |
-| 66 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 |
+| 66 | [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 |
 | 67 | [American Me](https://open.spotify.com/track/3fpiUjp4x55znD0i8Nfxv8) | [Joey Stylez](https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE) | [American Me](https://open.spotify.com/album/575myLnpElthZpP8fsRTCF) | 3:14 |
 | 68 | [The Long Way](https://open.spotify.com/track/5KOJUMQeo8SwT5G0pnaXm4) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Long Way](https://open.spotify.com/album/4wBMQcc5oKOxvL6PYVoVp9) | 3:33 |
 | 69 | [Water From A Stone](https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [Water From A Stone](https://open.spotify.com/album/3LwJ8hTTXCKzW4Trh9ZpCn) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Caroline](https://open.spotify.com/track/3ME0oA0PvhyIabL6ZiDOea) | [Willie Stratton](https://open.spotify.com/artist/1vEiaSJR9xF1T2Ckp4oZwT) | [Caroline](https://open.spotify.com/album/2OyX6YzNKwM7C8dX6NOI5I) | 4:08 |
 | 100 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGQ4MzY4NzJmNjA5MjZhOTJlMTUwNDQ3NmVmZDRlNGEw`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGMxNjc0MmI2NjJiNTgwNjIwNTA1OTE5N2VlNWU3YWNl`

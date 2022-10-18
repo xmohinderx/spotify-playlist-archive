@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43690,
+  "num_followers": 43703,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk4MCxhZmQ0OTYwYzJjZGYyZmNkY2VmMzZjOTUxMjFmYmFmN2NjNmQwOTM4",
+  "snapshot_id": "Mjk4MywwMmM4YjI1OWUyMmUwMWQ0NWM1NDI2NmNlOWRkZjZmMDk0ODI0ZTJh",
   "tracks": [
+    {
+      "added_at": "2022-10-17 08:13:22",
+      "album": {
+        "name": "Feel's Like Someone's Comin'",
+        "url": "https://open.spotify.com/album/6oHfW34zDkRBzaldkpGnUt"
+      },
+      "artists": [
+        {
+          "name": "Joe Lewandowski",
+          "url": "https://open.spotify.com/artist/7vElnPfV9oKuSqfN1Zptbl"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Feel's Like Someone's Comin'",
+      "url": "https://open.spotify.com/track/2EVGocaGZCElznJxqmg2yn"
+    },
     {
       "added_at": "2022-10-14 08:01:48",
       "album": {
@@ -407,26 +423,6 @@
       "duration_ms": 252241,
       "name": "Salute",
       "url": "https://open.spotify.com/track/6CnEBsHGd2njYxN7brrmd7"
-    },
-    {
-      "added_at": "2022-07-22 08:18:32",
-      "album": {
-        "name": "Clutch",
-        "url": "https://open.spotify.com/album/2XjeQuBI4tCzwlNTsC7EZo"
-      },
-      "artists": [
-        {
-          "name": "UOKAYE",
-          "url": "https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx"
-        },
-        {
-          "name": "Sei",
-          "url": "https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE"
     },
     {
       "added_at": "2021-11-05 15:47:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Unnati Shah, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,919 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,941 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 21 | [Ghar Pe Kadam](https://open.spotify.com/track/257GwIhbgQ2E4xaFgE8wSU) | [Vipin Singh](https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp) | [Ghar Pe Kadam](https://open.spotify.com/album/1yemy0XB1WOSh0vnP1XPsG) | 2:57 |
 | 22 | [Aaftabi](https://open.spotify.com/track/68BjRqJvavHHlOEM9tTZoP) | [Saurabh Gupta](https://open.spotify.com/artist/399Wm02p9KmXxCBcguYrRK), [Navdeep Dwivedi](https://open.spotify.com/artist/4X0ns3xMj7uAjv8x9N01pF) | [Aaftabi](https://open.spotify.com/album/0hgqbHnnL5Tobv8l6TyE86) | 3:11 |
 | 23 | [Raat ki baahon mein](https://open.spotify.com/track/6JGdAT7sqT9KmAb6lTgjo9) | [Rahul Thapa](https://open.spotify.com/artist/5ms3i2JA5fVPh0lt2fxjdy) | [Raat ki baahon mein](https://open.spotify.com/album/20VuWlOqoE5YF5WOczDsno) | 2:42 |
-| 24 | [Those Colourful Days](https://open.spotify.com/track/2zQUFVZsR5eyfn1MIgA1Hq) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Those Colourful Days](https://open.spotify.com/album/4sWJdwvzWHNF6LTm5d6NRs) | 3:20 |
+| 24 | [Those Colourful Days](https://open.spotify.com/track/2WU79SGwAELqGqdITcPZeg) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Those Colourful Days](https://open.spotify.com/album/48Y57IkEQdwYukhQ6OcBrY) | 3:20 |
 | 25 | [i'll find you](https://open.spotify.com/track/0D6eLIyn9XjSmZjPa4NN34) | [MEHR](https://open.spotify.com/artist/5taDTOB63KA2s63VcVMay8) | [songs i wrote on the bathroom floor](https://open.spotify.com/album/4ptzoNurzgzNWDsfNLooIm) | 4:30 |
 | 26 | [Sabra](https://open.spotify.com/track/1XTmU27elAyFrt6fYk2EwU) | [Usman Shaikh](https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl) | [Sabra](https://open.spotify.com/album/3AjZDOTnekRPl8RKb0ZVym) | 6:38 |
 | 27 | [Kahan Main Gum Gaya](https://open.spotify.com/track/70Zyo5t03zLxFSWsAablmm) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Yash Jaiswal](https://open.spotify.com/artist/2IfdSJiWRwrOLHL5vrG8Ih), [Kanchan Khapre](https://open.spotify.com/artist/5R0LsixshmsTJwRbzYHNXI) | [Kahan Main Gum Gaya](https://open.spotify.com/album/6Sl9KQQFiCHQZu8AJZWmN4) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Hide](https://open.spotify.com/track/0W10TL64os9A2FihL8QV3A) | [Anushka](https://open.spotify.com/artist/2Nnn3hP90YnEYzfMZhSOl6), [Bønehead](https://open.spotify.com/artist/6f96mKa3JM5EDYrYU3rC2N) | [Hide](https://open.spotify.com/album/3s3m2FxVwBQyahIOB0BUsP) | 4:14 |
 | 100 | [Lavinia](https://open.spotify.com/track/1GIGwGjBw5CT3QKK7Ibw6b) | [Prabhtoj Singh](https://open.spotify.com/artist/78XtO5iHFCF6gSqWV18AWA) | [Lavinia](https://open.spotify.com/album/58ukWZd5zrrWi2clQ4PqSI) | 3:46 |
 
-Snapshot ID: `MTY2NTU2NDU3NiwwMDAwMDAwMGQ3ODYyZmM4OWIzZDJkNmU5OWUwNmEyNWFkYTlkM2Q5`
+Snapshot ID: `MTY2NTU2NDU3NiwwMDAwMDAwMGMxYTNkZTA1MGNlNDRhMmQ5YTk2MTYwMzFhMDhjOTNh`

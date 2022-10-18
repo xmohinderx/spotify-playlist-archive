@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Meet Me @ The Altar
 
-829 songs - 1 day 20 hr 20 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+830 songs - 1 day 20 hr 23 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Crying Wolf](https://open.spotify.com/track/6s0lUde4F2kTYAw6u7ku2r) | [The Story Changes](https://open.spotify.com/artist/4ESrVjoUNUtw0QUZl6t3nF) | [To Hell with This Delicate Equation](https://open.spotify.com/album/53RDG8S4bVMArK8jN7o21x) | 2:33 | 2022-03-25 | 2022-04-15 |
 | [Cult](https://open.spotify.com/track/42VEP8qv16ffoRKHcgUYYj) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Cult](https://open.spotify.com/album/4L4UaXxbqEB5NxBk6qaFtx) | 3:13 | 2021-12-10 | 2022-06-24 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-09 |  |
+| [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 | 2022-10-07 |  |
 | [D.E.A.D!](https://open.spotify.com/track/15OzbEtsa84wwohAPrqERa) | [Maggie Cassidy](https://open.spotify.com/artist/7B99QVNBpkSQa93242sJWu) | [D.E.A.D!](https://open.spotify.com/album/2VmPEru0nk8o9cm5alkLH4) | 3:05 | 2021-12-10 | 2022-07-01 |
 | [Dangerous State of Mind](https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Dangerous State of Mind](https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD) | 1:55 | 2022-07-08 |  |
 | [Daniel, I'm Not Gonna Make It\. Go Ahead Without Me.](https://open.spotify.com/track/7GVWRchkbkVfKvs3Yg4WAM) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [Daniel, I'm Not Gonna Make It\. Go Ahead Without Me.](https://open.spotify.com/album/5PyXaokxaYD39EJbNvPeC1) | 4:00 | 2022-06-17 | 2022-06-23 |
@@ -369,7 +370,7 @@
 | [I'M SO SAD](https://open.spotify.com/track/4DoktnFiNtdGGkV8ImIRUi) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [I'M SO SAD](https://open.spotify.com/album/7LBHqu2er3C0rHnXWFfaQA) | 3:15 | 2021-12-10 | 2022-05-20 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [I.O.U’s](https://open.spotify.com/track/6hHS1tNNcXdmdoL3fmBNSj) | [You vs Yesterday](https://open.spotify.com/artist/1PxE1tqEDHBQMGsV1K7Dwu) | [You vs Yesterday](https://open.spotify.com/album/7d26NcbJ2LmBmtRwtDfAK5) | 3:26 | 2022-02-04 | 2022-04-19 |
-| [IDGAF](https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:58 | 2022-07-08 |  |
+| [IDGAF](https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:58 | 2022-07-08 | 2022-10-18 |
 | [IDGAF](https://open.spotify.com/track/1ifG66jNkap7NFql3R0jot) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [IDGAF](https://open.spotify.com/album/3Hy6uEoyOZvkgww0iQwhJk) | 2:59 | 2021-12-10 | 2022-07-29 |
 | [If Happiness Is What You Reach For](https://open.spotify.com/track/0Ib05WPyxnYczOWjjoEII3) | [Parris Bridge](https://open.spotify.com/artist/0e2mamzzCCvHBBOmznjgQu) | [If Happiness Is What You Reach For](https://open.spotify.com/album/5mbK2jN39Le6E2kBY2mEH7) | 2:53 | 2021-12-10 | 2022-05-16 |
 | [If I Die I Love You](https://open.spotify.com/track/09rIgg2ZkE3MkEoWkciuuK) | [Jason Lancaster](https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES) | [If I Die I Love You](https://open.spotify.com/album/3KyTip0BZalva0l1a9KGp0) | 3:56 | 2021-12-10 | 2022-07-28 |

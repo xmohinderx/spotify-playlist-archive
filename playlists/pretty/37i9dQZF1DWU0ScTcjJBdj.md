@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,727,559 likes - 126 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,727,640 likes - 126 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 64 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 |
 | 65 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 |
 | 66 | [I'm Not My Season \- Solstice Version](https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:10 |
-| 67 | [Howling Wind](https://open.spotify.com/track/5PTw6BvUEMgZth1POt15io) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Howling Wind](https://open.spotify.com/album/3zGOXOgAt4cXMltlooJtZ7) | 4:11 |
+| 67 | [Howling Wind](https://open.spotify.com/track/4zrnQfvi5zFqZXivgpcKuP) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Looking Glass](https://open.spotify.com/album/00hzdJCM7mCbwkDRgN7r5n) | 4:11 |
 | 68 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 69 | [Old Gods](https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 3:46 |
 | 70 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 125 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 |
 | 126 | [Stay Alive](https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive](https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL) | 3:53 |
 
-Snapshot ID: `MTY1OTUzODIxNywwMDAwMDAwMDU5ZTAyOTg3Mzg2MjVjMzI4YzQwMTI0NGVjNDVhMjVl`
+Snapshot ID: `MTY1OTUzODIxNywwMDAwMDAwMDNkNjA3YWNiNjg0MjRmYjI1MjdmZDc1MTJiZTdlYjJm`

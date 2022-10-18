@@ -4,11 +4,12 @@
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/71DPVD0UJs9jy7z6tEeoxz)
+62 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/71DPVD0UJs9jy7z6tEeoxz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Merican](https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 | 2022-09-16 |  |
+| [Baby Doncha Know](https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 | 2022-10-17 |  |
 | [Bikeage](https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:14 | 2022-09-16 |  |
 | [Cameage](https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:05 | 2022-09-16 |  |
 | [Catalina](https://open.spotify.com/track/7fvcx0cXsc7FZhViJAtRxg) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:47 | 2022-10-05 | 2022-10-13 |
@@ -48,7 +49,7 @@
 | [On You](https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Suffrage](https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9) | 2:22 | 2022-09-16 |  |
 | [Pep Talk](https://open.spotify.com/track/2dsB4EWZpV3X5jin2pcjhm) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:05 | 2022-09-16 |  |
 | [Pervert](https://open.spotify.com/track/5R3w9JrCCcwjkXUbGAmmEr) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 1:47 | 2022-10-12 |  |
-| [Ride the Wild](https://open.spotify.com/track/14FjdxiIwPJBJteMrqHBoL) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 2:14 | 2022-09-16 |  |
+| [Ride the Wild](https://open.spotify.com/track/14FjdxiIwPJBJteMrqHBoL) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 2:14 | 2022-09-16 | 2022-10-18 |
 | [Rotting Out](https://open.spotify.com/track/4N22k5sUjgC4rTymY5ilpq) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:57 | 2022-09-16 |  |
 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 | 2022-09-20 | 2022-10-08 |
 | [She Don't Care](https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 | 2022-09-16 |  |

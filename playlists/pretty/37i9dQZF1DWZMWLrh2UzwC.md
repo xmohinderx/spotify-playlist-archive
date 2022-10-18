@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Louis Tomlinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,545 likes - 92 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,547 likes - 91 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,6 +99,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 89 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
 | 90 | [dirty af1s](https://open.spotify.com/track/5QtkOcCpbMfcVjDkzlx9al) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [dirty af1s](https://open.spotify.com/album/1MR4kqZbbAYSojdJpqeyAb) | 3:27 |
 | 91 | [What If](https://open.spotify.com/track/4sEni2QRFyUqC5h2gw5WRN) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [What If](https://open.spotify.com/album/5W5JTrm3ZWu1IBNbx54mEe) | 5:21 |
-| 92 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 |
 
-Snapshot ID: `MTY2NTY3NzEwMCwwMDAwMDAwMGY2N2MwZGI5MDgwNWNiNTYxZmFkNmZhOTNiYjlmZWQ3`
+Snapshot ID: `MTY2NTk4Mzg4NSwwMDAwMDAwMDVlYjU4YTM5OGM2ZDVhMTc0YzEzODFkZDEwOWFkYjli`

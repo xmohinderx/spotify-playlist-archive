@@ -3081,6 +3081,32 @@
     {
       "album": {
         "name": "Traction Avant Vol.2",
+        "url": "https://open.spotify.com/album/4SFScQIEdCjOpeg5PcqrMk"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Galati",
+          "url": "https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk"
+        },
+        {
+          "name": "Palle Danielsson",
+          "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
+        },
+        {
+          "name": "Peter Erskine",
+          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462824,
+      "name": "Red Milk",
+      "url": "https://open.spotify.com/track/2S7VcpELtk2PK61IjHq0zO"
+    },
+    {
+      "album": {
+        "name": "Traction Avant Vol.2",
         "url": "https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg"
       },
       "artists": [
@@ -3099,7 +3125,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 462824,
       "name": "Red Milk",
       "url": "https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR"

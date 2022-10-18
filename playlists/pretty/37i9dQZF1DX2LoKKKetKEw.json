@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 11935,
+  "num_followers": 12047,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMGM5YjBhNzJmODk3NTcwNWRkZDRjNzVjOTAxNWQyMzll",
+  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMGE4ZmM1OThmNTQ1MTk5OGViY2MzMzMxODNlYzY2ZGU0",
   "tracks": [
     {
       "added_at": "2022-10-01 05:16:54",
@@ -663,6 +663,26 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
+        "name": "Still Blessed",
+        "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Nathanael",
+          "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Still Blessed",
+      "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
         "name": "Ike",
         "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 160528,
       "name": "Oluwa",
       "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
-        "name": "Still Blessed",
-        "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Nathanael",
-          "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Still Blessed",
-      "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
     },
     {
       "added_at": "2022-10-01 05:16:54",

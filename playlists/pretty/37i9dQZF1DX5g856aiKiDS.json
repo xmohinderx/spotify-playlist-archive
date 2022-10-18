@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 418619,
+  "num_followers": 418786,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY0MDE3NSwwMDAwMDAwMGVkMjA1OTlmZWNhMWI0NmQ5MWY0M2MxNGMwMTNiNmE4",
+  "snapshot_id": "MTY2NTY0MDE3NSwwMDAwMDAwMDVkNjE2Y2ZjMTM1YmM0OTQyMDExNTJiMmE4MjEwYWQy",
   "tracks": [
     {
       "added_at": "2022-10-07 04:55:45",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
-      "added_at": "2022-10-17 01:55:07",
+      "added_at": "2022-10-18 01:45:34",
       "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
-        "name": "Chancellor",
-        "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Walking In The Rain (feat. Younha)",
-      "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -383,6 +363,26 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
+        "name": "Chancellor",
+        "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Walking In The Rain (feat. Younha)",
+      "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -399,30 +399,6 @@
       "duration_ms": 257631,
       "name": "It's You (Feat. ZICO)",
       "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
-        "name": "fool",
-        "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
-      },
-      "artists": [
-        {
-          "name": "frad",
-          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
-        },
-        {
-          "name": "Hayne",
-          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
-        },
-        {
-          "name": "Milky Day",
-          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
-        }
-      ],
-      "duration_ms": 130333,
-      "name": "fool",
-      "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -447,6 +423,30 @@
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
+        "name": "fool",
+        "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
+      },
+      "artists": [
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        },
+        {
+          "name": "Hayne",
+          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        }
+      ],
+      "duration_ms": 130333,
+      "name": "fool",
+      "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -599,22 +615,6 @@
       "duration_ms": 239002,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
         "name": "ordinary.",
         "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 217510,
       "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
       "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2022-10-07 04:55:45",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
         "name": "doodle",
         "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
+    },
+    {
+      "added_at": "2022-10-07 04:55:45",
+      "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2022-10-07 04:55:45",
@@ -927,22 +943,6 @@
       "duration_ms": 177133,
       "name": "Knock Knock (Feat. pH-1, Moon Sujin)",
       "url": "https://open.spotify.com/track/1eX3uqAJ1gXZPOR0aXQD4G"
-    },
-    {
-      "added_at": "2022-10-07 04:55:45",
-      "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     }
   ],
   "unique_name": "Dalkom Cafe",

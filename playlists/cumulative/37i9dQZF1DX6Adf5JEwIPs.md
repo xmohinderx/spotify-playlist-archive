@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Grupo Marca Registrada & Luis R Conriquez
 
-1,161 songs - 2 day 12 hr 50 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+1,162 songs - 2 day 12 hr 52 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Aguas Turbulentas](https://open.spotify.com/track/290Ug0y2nZJ8bamtgu435i) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aguas Turbulentas](https://open.spotify.com/album/69wLMt4yFfuHuueICXyo44) | 2:16 | 2022-07-22 | 2022-07-30 |
 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 | 2022-09-30 | 2022-10-08 |
 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 | 2022-08-26 | 2022-09-03 |
+| [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2022-10-14 |  |
 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 | 2022-06-03 | 2022-06-11 |
 | [Al 100](https://open.spotify.com/track/4igazRGtBANpag6ud1dftp) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4), [Dani Tapia](https://open.spotify.com/artist/0ODccomcktwx3B6hJVAF1C) | [Al 100 \(En Vivo\)](https://open.spotify.com/album/3ZDjVCnhLrpwBBOAU0Dl9B) | 3:25 | 2022-08-26 | 2022-09-03 |
 | [Al Sabor Del Champagne](https://open.spotify.com/track/31CBLt8Zkp2kEE6JX8aWx0) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Al Sabor Del Champagne](https://open.spotify.com/album/2Fg4m6JftW78wXMQ1bEaUG) | 2:52 | 2022-06-24 | 2022-07-02 |

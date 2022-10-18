@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-221 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+222 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Across the Room](https://open.spotify.com/track/7dCSqTnarqs3EF7iDRVRW9) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Across the Room](https://open.spotify.com/album/29cmVFCBfJRKN5zbFehSVe) | 3:00 | 2022-06-10 | 2022-07-27 |
 | [Addicted to the Sunshine](https://open.spotify.com/track/5ppBE5KFTiTx7JoHQAzr5O) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Addicted to the Sunshine](https://open.spotify.com/album/0XU3RVlRPmguNHy6tXMFoz) | 4:30 | 2020-01-31 | 2022-07-29 |
 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2022-06-10 | 2022-07-17 |
-| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-06-10 |  |
+| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-06-10 | 2022-10-18 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-08-17 |  |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2022-06-10 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2020-01-31 | 2022-07-29 |
@@ -79,6 +79,7 @@
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-06-10 | 2022-06-12 |
 | [Get Out](https://open.spotify.com/track/7aFfriQJAyHK6eC09YMQBK) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/7EchhykwUf4ACDDABEDa7o) | 3:51 | 2020-01-31 | 2022-06-11 |
 | [Ghost](https://open.spotify.com/track/7J3imjXerh4bDiKg01t4XA) | [Mystery Skulls](https://open.spotify.com/artist/5ZbRDyTYX4HhXveONcZQn2) | [Forever](https://open.spotify.com/album/04nlTDq2mKxyaIMfeFNvUO) | 4:19 | 2020-01-31 | 2022-06-11 |
+| [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 | 2022-09-02 |  |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2022-06-10 | 2022-10-13 |
 | [Give Yourself a Try](https://open.spotify.com/track/3Y9zmioo5pZABLx1onkohD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/7zuAt0boSPInT1b0sKyQMk) | 3:16 | 2020-01-31 | 2022-06-11 |
 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 | 2022-06-10 | 2022-07-29 |

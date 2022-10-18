@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,050 likes - 104 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,062 likes - 104 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 84 | [Motive](https://open.spotify.com/track/7Mtje0ilPfIxQDTabWq4Oz) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P), [Babyybax](https://open.spotify.com/artist/64pwX5U5Qq2U3VmJYNEIFs), [DJ Sefru](https://open.spotify.com/artist/5CrNWXWkDKDR0ZuT5qvt41) | [Motive](https://open.spotify.com/album/6WPxjrDYvET9PXKYzqlrK8) | 2:31 |
 | 85 | [Going Back](https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [Going Back](https://open.spotify.com/album/0NTtjYRlK8beG6UUsynAHP) | 2:26 |
 | 86 | [THREATS](https://open.spotify.com/track/2UGiuIfTLUG0WxSy6kw6F1) | [Snoee Badman](https://open.spotify.com/artist/5xNfUAoQGkcNnNDn2CnXKm) | [THREATS](https://open.spotify.com/album/4edJaJjzKXWUcLtWbv5Hf0) | 2:12 |
-| 87 | [BL!P](https://open.spotify.com/track/1fRejLP4jAjKWD9jjRxXN0) | [Menarku'](https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR) | [BL!P](https://open.spotify.com/album/3jQrRpgeCfb9lJhA8RvELG) | 2:03 |
+| 87 | [Bl!p](https://open.spotify.com/track/0tGvVY1beqjzoQqYV6zszU) | [Menarku'](https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR) | [Magic Carpet](https://open.spotify.com/album/60EeMUDmDt8aq1LFuthq9v) | 2:03 |
 | 88 | [Favourite](https://open.spotify.com/track/2T1HDMEh7BDKfCZlKxET3D) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Favourite](https://open.spotify.com/album/6yZo8WscLdGcBeMyN8J3VH) | 2:27 |
 | 89 | [BIG BALLER BARS 3](https://open.spotify.com/track/25eWgXkoj3mDpVdqBJ40u5) | [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ), [Wombat](https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H) | [Revenge SZN 2](https://open.spotify.com/album/6KqexBaC7d9wX9DsqKJJ3A) | 3:40 |
 | 90 | [Trap Talk](https://open.spotify.com/track/2vNvy7NbrgsopoZ1VFjgd9) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [CG](https://open.spotify.com/artist/7emez5lGlXnCUAkL2qgt4z) | [Trap Talk](https://open.spotify.com/album/3YdTjt5JpHKyHF16NaDbEK) | 3:14 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 103 | [ON MY BACK](https://open.spotify.com/track/3NdEadbqRaZtfmMxRgAvJx) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [ON MY BACK](https://open.spotify.com/album/4MYsrNvPiMSjYCIiVms8qA) | 2:05 |
 | 104 | [RICKY](https://open.spotify.com/track/2YXYSajbiZzJD5K49KUGon) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [RICKY](https://open.spotify.com/album/4z94jJZUEw0ne7zNzozKLy) | 2:56 |
 
-Snapshot ID: `MTY2NTY2NjAwMCwwMDAwMDAwMDBkYmVlZTI2ZWRmOTQyN2RmMDA1N2FlNmRjZDBkNTgx`
+Snapshot ID: `MTY2NTY2NjAwMCwwMDAwMDAwMDZkM2IwZTc3M2E1YWQxODFiOWQ2YjRiYzBlMmY3ZmEx`

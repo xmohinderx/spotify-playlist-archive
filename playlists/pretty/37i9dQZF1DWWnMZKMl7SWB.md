@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,139 likes - 214 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,157 likes - 214 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 120 | [My Cloud](https://open.spotify.com/track/5o4jvwNQLPmMaNBFgjvO92) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:27 |
 | 121 | [Soak It Up](https://open.spotify.com/track/6MOqASyUNmA1Q2I1pcmztK) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [All Night](https://open.spotify.com/album/5y3wpUTsIatqZCQjlE82N5) | 4:11 |
 | 122 | [Unspoken](https://open.spotify.com/track/69t0SrCVeudh7Ycxp9PxDr) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds \(Special Anniversary Edition\)](https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1) | 9:31 |
-| 123 | [Those Days](https://open.spotify.com/track/2CylUcZGI81nhek3kJQkJ3) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Tramuntana](https://open.spotify.com/album/3NeynrdysMtEJoSn0ESyYE) | 5:20 |
+| 123 | [Those Days](https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Tramuntana](https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg) | 5:20 |
 | 124 | [Sweet Berries](https://open.spotify.com/track/4V4NLXR80N6ePJ6UDxez7s) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Sweet Berries](https://open.spotify.com/album/16agYZgs1aCOoAak0kyzZV) | 2:47 |
 | 125 | [anemone](https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X) | 3:48 |
 | 126 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 213 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 214 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDIwMmUwODM4OTYzOTcxZWZhYjkxNjE4NDVjNmQzOWYx`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGVhOTQwYWU2NGU3NTlkOTdkM2I4ZTk5ZmVhM2QwN2Rm`

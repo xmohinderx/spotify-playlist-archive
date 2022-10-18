@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 446612,
+  "num_followers": 446604,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAxNTEyNCwwMDAwMDAwMDQ5ZDA0NjIxYTNmZWI2NjQ4OTkzMzMyZDQyZTUzMzE5",
+  "snapshot_id": "MTY2NTAxNTEyNCwwMDAwMDAwMDQwOGVkMWY2NmEzODJiOTMwYTk1NGNlZDkwZGRkYTM4",
   "tracks": [
     {
       "added_at": "2022-09-21 01:58:52",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
+      "added_at": "2022-09-07 00:29:17",
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
+    },
+    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Transactional Relationship",
@@ -331,22 +347,6 @@
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
-    },
-    {
-      "added_at": "2022-09-07 00:29:17",
-      "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 323919,
-      "name": "World Turns",
-      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
     },
     {
       "added_at": "2022-01-21 20:14:08",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
-      "added_at": "2022-01-13 02:05:11",
-      "album": {
-        "name": "Sweat Sonic",
-        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
-      },
-      "artists": [
-        {
-          "name": "Closet Yi",
-          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
-        }
-      ],
-      "duration_ms": 382487,
-      "name": "Sweat Sonic",
-      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
-    },
-    {
       "added_at": "2022-07-15 05:34:07",
       "album": {
         "name": "GRIT.",
@@ -503,6 +487,22 @@
       "duration_ms": 331032,
       "name": "Surrounded By Neighbours",
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
+    },
+    {
+      "added_at": "2022-01-13 02:05:11",
+      "album": {
+        "name": "Sweat Sonic",
+        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
+      },
+      "artists": [
+        {
+          "name": "Closet Yi",
+          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+        }
+      ],
+      "duration_ms": 382487,
+      "name": "Sweat Sonic",
+      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
     },
     {
       "added_at": "2022-08-03 02:49:15",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/1TKeKz3JYu302uXKYseuFB"
     },
     {
-      "added_at": "2022-03-11 06:33:02",
-      "album": {
-        "name": "Yesterday Faded (Edit)",
-        "url": "https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Yesterday Faded - Edit",
-      "url": "https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP"
-    },
-    {
       "added_at": "2022-01-19 22:44:25",
       "album": {
         "name": "Fwd: Re: late (Ref.: karoshi)",
@@ -867,6 +851,22 @@
       "duration_ms": 361386,
       "name": "Fwd: Re: late (Ref.: karoshi)",
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
+      "added_at": "2022-03-11 06:33:02",
+      "album": {
+        "name": "Yesterday Faded (Edit)",
+        "url": "https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 242784,
+      "name": "Yesterday Faded - Edit",
+      "url": "https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP"
     }
   ],
   "unique_name": "Genre Glitch",

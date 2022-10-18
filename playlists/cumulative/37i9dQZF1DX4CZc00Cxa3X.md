@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-151 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+152 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Buenas Noches, Yuki](https://open.spotify.com/track/6OXmhrJPmcFNVK4nXskReG) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:21 | 2022-03-17 | 2022-07-28 |
 | [Chronology](https://open.spotify.com/track/6hGoOJmGx40sD8e0czLy6E) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Chronology](https://open.spotify.com/album/7BZVmbH7so3Hf1tciJPXkI) | 6:52 | 2022-03-17 | 2022-09-29 |
 | [Clarion](https://open.spotify.com/track/3NkbX8CT16SAoC772UUf9F) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Clarion](https://open.spotify.com/album/6bwGn6t0zkAN8KMEbKJmMx) | 9:36 | 2022-03-17 |  |
+| [Clouds](https://open.spotify.com/track/05dqjOZbjR2coSczMXDqa6) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH) | [Clouds](https://open.spotify.com/album/7rOuHgosEnuBdQSk8kyvyh) | 3:46 | 2022-10-14 |  |
 | [Crescent](https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Crescent](https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc) | 5:51 | 2022-08-17 |  |
 | [Dear](https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 1:56 | 2022-03-30 |  |
 | [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 | 2022-07-21 |
@@ -72,7 +73,7 @@
 | [Knowledge](https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sphere](https://open.spotify.com/album/7LqeayMSLKMDHFkGkk5TTM) | 4:54 | 2022-05-18 |  |
 | [La tristeza de una ciudad](https://open.spotify.com/track/5RhexhsWN9cboUH9Qo1EuK) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:15 | 2022-03-17 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-03-17 |  |
-| [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 |  |
+| [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 | 2022-10-18 |
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 | 2022-10-10 |
 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 | 2022-10-10 |  |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-03-17 |  |

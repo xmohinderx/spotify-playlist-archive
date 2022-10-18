@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-394 songs - 1 day 0 hr 46 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+395 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Eternally 12](https://open.spotify.com/track/6mEP1cofyVXsJ9oDAeaRIt) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Eternally 12](https://open.spotify.com/album/1cQ9w7Zzb53KdTyuswFh02) | 4:01 | 2020-12-21 | 2022-04-21 |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2020-12-21 | 2022-07-21 |
 | [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/track/61tqM0XiMGnKayktVzrhJp) | [Cedric Madden](https://open.spotify.com/artist/2ngMI7KbUaMxWwSSM9sMPP), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/album/6eF8DpVcPMWCCU3Dcx7azj) | 3:15 | 2022-10-03 | 2022-10-08 |
-| [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2022-07-12 |  |
+| [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2022-07-12 | 2022-10-18 |
 | [Everything's Fine](https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:52 | 2021-05-01 | 2022-07-29 |
 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 | 2022-07-12 | 2022-07-28 |
 | [FACE](https://open.spotify.com/track/5bknBRjKJZ643DAN2w8Yoy) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION](https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm) | 4:19 | 2022-05-06 | 2022-06-18 |
@@ -141,6 +141,7 @@
 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-31 |  |
 | [Galaxy Surfing](https://open.spotify.com/track/0tI9jtQuJynzivmpQFc4Gx) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Ezra's Garden](https://open.spotify.com/album/2BtznmYidvZ9JQWhcmXVTZ) | 3:22 | 2022-05-06 | 2022-07-29 |
 | [Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Get Me Back in the Game](https://open.spotify.com/album/2ZmCrPaswCSKEy1yIfgJ5W) | 4:32 | 2020-12-21 | 2022-04-21 |
+| [Girl](https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Girl](https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt) | 3:31 | 2022-10-13 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:14 | 2022-10-16 |  |
 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 | 2020-12-21 | 2022-04-03 |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-06-25 | 2022-07-21 |

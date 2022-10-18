@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 35396,
+  "num_followers": 35472,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjMzNiwwMDAwMDAwMDM3ZmI2MTE4MzM3YTE0NDdlMmVlZWM1Njk3ZTI3ZGJh",
+  "snapshot_id": "MTY2NTQwNjMzNiwwMDAwMDAwMGU4M2M1ZjI5ZmM0ZTRmMGVlMzA0YzgzOTExOTE1ODY3",
   "tracks": [
     {
       "added_at": "2022-10-03 13:20:23",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Emotion & Commotion",
         "url": "https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "Better Than Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/45blvARBYrViZz3eYg50sH"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 356360,
+      "name": "Tell Her You Belong To Me",
+      "url": "https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Country Ghetto",
         "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 268200,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Better Than Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/45blvARBYrViZz3eYg50sH"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 356360,
-      "name": "Tell Her You Belong To Me",
-      "url": "https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
     },
     {
-      "added_at": "2022-10-17 01:52:23",
+      "added_at": "2022-10-18 01:43:01",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Don't Let the Green Grass Fool You",
         "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
       },
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
     },
     {
-      "added_at": "2022-10-17 01:52:23",
+      "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Come on Sunshine",
-        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
       },
       "artists": [
         {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Come on Sunshine",
-      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
     },
     {
-      "added_at": "2022-10-03 13:20:23",
+      "added_at": "2022-10-18 01:43:01",
       "album": {
-        "name": "Other Side of Goodbye",
-        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+        "name": "Come on Sunshine",
+        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
       },
       "artists": [
         {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
         }
       ],
-      "duration_ms": 154226,
-      "name": "Other Side of Goodbye",
-      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+      "duration_ms": 256640,
+      "name": "Come on Sunshine",
+      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Juice Me Up",
-        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 356426,
       "name": "A Quitter Never Wins",
       "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Juice Me Up",
+        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "John Lyons Band",
-        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
-      },
-      "artists": [
-        {
-          "name": "John Lyons",
-          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
-        }
-      ],
-      "duration_ms": 438204,
-      "name": "Lonely Fool",
-      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Precious Little",
         "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 289960,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "John Lyons Band",
+        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
+      },
+      "artists": [
+        {
+          "name": "John Lyons",
+          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
+        }
+      ],
+      "duration_ms": 438204,
+      "name": "Lonely Fool",
+      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
-      "added_at": "2022-10-17 01:52:23",
+      "added_at": "2022-10-18 01:43:01",
       "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Take Your Shoes Off",
-        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
-      },
-      "artists": [
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 270600,
       "name": "River",
       "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Take Your Shoes Off",
+        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Jigsaw Heart",
-        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 250946,
-      "name": "Better This Way",
-      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Rise to the Grind",
-        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+        "name": "Jigsaw Heart",
+        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
       },
       "artists": [
         {
-          "name": "Garrett Lebeau",
-          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
         }
       ],
-      "duration_ms": 290453,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+      "duration_ms": 250946,
+      "name": "Better This Way",
+      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1383,6 +1367,22 @@
       "duration_ms": 160800,
       "name": "Pulling Down The Ride",
       "url": "https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Rise to the Grind",
+        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+      },
+      "artists": [
+        {
+          "name": "Garrett Lebeau",
+          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "Let Me Down Easy",
+        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Sand Castles",
         "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Let Me Down Easy",
-        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
       },
       "artists": [
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 172013,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
+      "duration_ms": 268000,
+      "name": "Get These Blues Off Me",
+      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get These Blues Off Me",
-      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 222823,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ"
-    },
-    {
-      "added_at": "2022-10-17 01:52:23",
-      "album": {
-        "name": "Look Up!",
-        "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
-      },
-      "artists": [
-        {
-          "name": "The Harlem Gospel Travelers",
-          "url": "https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft"
-        }
-      ],
-      "duration_ms": 172801,
-      "name": "Hold On (Joy Is Coming)",
-      "url": "https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1667,6 +1651,22 @@
       "duration_ms": 210731,
       "name": "Barefoot In Heaven",
       "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2022-10-18 01:43:01",
+      "album": {
+        "name": "Look Up!",
+        "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
+      },
+      "artists": [
+        {
+          "name": "The Harlem Gospel Travelers",
+          "url": "https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft"
+        }
+      ],
+      "duration_ms": 172801,
+      "name": "Hold On (Joy Is Coming)",
+      "url": "https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ"
     },
     {
       "added_at": "2022-10-03 13:20:23",

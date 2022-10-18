@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: KiNG MALA
 
-211 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+212 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 | 2021-11-12 |  |
 | [Behaviour](https://open.spotify.com/track/08VUmUWFeWtXjfswYufGXQ) | [Glove](https://open.spotify.com/artist/4QbWweBoGYV4uFUQZeK1cy) | [Behaviour](https://open.spotify.com/album/2t3NoK6VU6iH91Uo2A38NC) | 3:55 | 2021-07-23 | 2022-07-28 |
 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 | 2021-08-06 |  |
-| [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 | 2020-11-24 |  |
+| [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 | 2020-11-24 | 2022-10-18 |
 | [Black & White](https://open.spotify.com/track/7ajdfpfW1h6cN7GMQ5Sver) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Black & White](https://open.spotify.com/album/7rK2XqSVowv63XkuuuRYqK) | 3:08 | 2022-03-04 | 2022-05-31 |
 | [Body](https://open.spotify.com/track/656neoAxvwrA9812K99kTO) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Body](https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J) | 2:27 | 2021-07-30 |  |
 | [Body Bag \- ROMES Remix](https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY), [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Body Bag \(ROMES Remix\)](https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM) | 3:15 | 2021-06-11 | 2022-07-28 |
@@ -38,6 +38,7 @@
 | [Cape Life](https://open.spotify.com/track/7u6GFqgcCl8xXge6GEiTs9) | [I Know Where You Live](https://open.spotify.com/artist/18QW5AfIV8SXQlRRPhCK3a) | [Cape Life](https://open.spotify.com/album/7b2YNOmODl0dfir9hX0sr1) | 3:12 | 2021-04-30 | 2022-07-29 |
 | [Caravan](https://open.spotify.com/track/4adccIMEbN7zRHUNhuaujV) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Caravan](https://open.spotify.com/album/7ip2qZSLimGLwwj1N7KmZ4) | 3:00 | 2022-05-30 | 2022-07-28 |
 | [Caviar](https://open.spotify.com/track/0ZAZ5XqPjXolpowsqUZLjb) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Caviar & Amy](https://open.spotify.com/album/4MVOY4ldM8BPaK5loNtBAa) | 2:56 | 2022-02-11 | 2022-10-13 |
+| [Caviar](https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:56 | 2022-10-14 |  |
 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 | 2022-03-15 | 2022-10-15 |
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2021-07-16 | 2022-03-05 |
 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 | 2022-06-17 |  |

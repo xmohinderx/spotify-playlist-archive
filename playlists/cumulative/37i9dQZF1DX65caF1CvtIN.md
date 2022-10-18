@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-130 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
+131 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Blue Light](https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Blue Light](https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1) | 2:14 | 2022-08-03 |  |
 | [Breath \(Grá II\)](https://open.spotify.com/track/5v6ulqOooaywlNs3RgpVRd) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Breath \(Grá II\)](https://open.spotify.com/album/3G77IE3Sk30ZmOj8redRiH) | 2:53 | 2022-08-03 |  |
 | [Brian's Song](https://open.spotify.com/track/5NT2QCIgDzhHeYG1dI1gIA) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Brian's Song](https://open.spotify.com/album/4SgqN5nEzsvsJrpcQbPGGx) | 3:39 | 2022-08-03 |  |
-| [Candlelight](https://open.spotify.com/track/2LdHJepGKdvmPPbm0pC6QC) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/2vFW1pn1Arj2jgozPMLdy4) | 2:21 | 2022-08-03 |  |
+| [Candlelight](https://open.spotify.com/track/2LdHJepGKdvmPPbm0pC6QC) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/2vFW1pn1Arj2jgozPMLdy4) | 2:21 | 2022-08-03 | 2022-10-18 |
+| [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 | 2022-10-14 |  |
 | [Carrer Figuera](https://open.spotify.com/track/54Twh2P3phC9d0XpU5Lsao) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Carrer Figuera](https://open.spotify.com/album/2eQDpvN1mPywvbfGFIzGOi) | 3:01 | 2022-08-03 |  |
 | [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-08-03 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-08-03 |  |

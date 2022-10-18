@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 2150,
+  "num_followers": 2155,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDE4NjJmN2M4NzYxZGM1YTBlNjBhYmQzM2IxMTE0OWJk",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGVmMThlZjJjNzYwZjMyNjQ0YTBkY2VmZjBmYjMyZjc4",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Made In Lagos",
@@ -275,6 +259,22 @@
       "duration_ms": 205000,
       "name": "Overloading (OVERDOSE)",
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Sinner",
@@ -663,22 +679,6 @@
       "duration_ms": 201600,
       "name": "Forever (Remix)",
       "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -733,6 +733,34 @@
       "url": "https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc"
     },
     {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        }
+      ],
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Legalize",
@@ -747,6 +775,26 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Cough (Odo)",
+        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Cough (Odo)",
+      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -777,6 +825,22 @@
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
       "added_at": "2022-08-05 07:04:42",
       "album": {
         "name": "Playboy",
@@ -797,34 +861,6 @@
       "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "The Guy",
@@ -843,22 +879,6 @@
       "duration_ms": 176842,
       "name": "The Love Song (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -1029,24 +1049,20 @@
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
+      "added_at": "2022-02-11 10:48:58",
       "album": {
-        "name": "Cough (Odo)",
-        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 176134,
-      "name": "Cough (Odo)",
-      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+      "duration_ms": 165040,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 156771,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
-    },
-    {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
       "added_at": "2022-03-18 00:00:00",
@@ -1249,26 +1249,6 @@
       "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
     },
     {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 230020,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
-    },
-    {
       "added_at": "2022-09-30 06:55:26",
       "album": {
         "name": "Love (feat. Adekunle Gold)",
@@ -1287,6 +1267,26 @@
       "duration_ms": 188181,
       "name": "Love (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
+    },
+    {
+      "added_at": "2022-02-11 10:48:58",
+      "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 230020,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
     },
     {
       "added_at": "2022-03-31 23:00:00",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/6S5XNauc7v8FLJWEIk0z2c"
     },
     {
+      "added_at": "2022-09-15 23:00:00",
+      "album": {
+        "name": "Big Money",
+        "url": "https://open.spotify.com/album/1kXCtMduX4ysnZnIfEdBBA"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 138999,
+      "name": "Big Money",
+      "url": "https://open.spotify.com/track/5cKpgv19Uh2kwWM29Q5YNp"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "A Night In Cocody",
@@ -1455,22 +1471,6 @@
       "duration_ms": 189280,
       "name": "Love Like This (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/0Eq1YipYrFdRzPKT8y7iOC"
-    },
-    {
-      "added_at": "2022-09-15 23:00:00",
-      "album": {
-        "name": "Big Money",
-        "url": "https://open.spotify.com/album/1kXCtMduX4ysnZnIfEdBBA"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 138999,
-      "name": "Big Money",
-      "url": "https://open.spotify.com/track/5cKpgv19Uh2kwWM29Q5YNp"
     },
     {
       "added_at": "2022-09-01 23:00:00",

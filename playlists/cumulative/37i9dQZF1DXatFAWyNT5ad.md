@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-519 songs - 1 day 3 hr 16 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+520 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 | 2022-09-01 |  |
 | [Body And Mind](https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:06 | 2022-03-17 | 2022-10-13 |
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2022-03-17 | 2022-07-28 |
-| [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-03-17 |  |
+| [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-03-17 | 2022-10-18 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-17 |  |
 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 | 2022-03-17 | 2022-07-27 |
 | [Bones](https://open.spotify.com/track/7zwQ9mduS7Fzf4PlirJxuO) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN 1.2](https://open.spotify.com/album/3XDnwKSA0JXsygKK3ILJto) | 3:27 | 2022-03-24 | 2022-04-16 |
@@ -145,6 +145,7 @@
 | [Dream](https://open.spotify.com/track/0bZFa5DZcx9HWx25m2Nd19) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:34 | 2022-03-24 | 2022-04-21 |
 | [Dress](https://open.spotify.com/track/1JA0tPLWaGL7wuHcPcgT9T) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Dress](https://open.spotify.com/album/5qFDSMfDk1Uv9q7Meft0mQ) | 2:23 | 2022-03-17 | 2022-07-29 |
 | [Dress](https://open.spotify.com/track/26ORKiTdampbfuv4Zno5su) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:23 | 2022-07-07 | 2022-09-05 |
+| [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 | 2022-10-14 |  |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2022-03-17 | 2022-07-26 |
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-24 | 2022-08-13 |

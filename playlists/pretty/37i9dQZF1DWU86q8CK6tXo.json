@@ -1,12 +1,12 @@
 {
   "description": "Music by female-identifying musicians ONLY! Cover: <a href=\u201cspotify:artist:34bhyY8jfKez7uKakMfy4y\u201d>Maddie & Tae</a>. ",
-  "num_followers": 20878,
+  "num_followers": 20888,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU4NjIxMSwwMDAwMDAwMDVhZGY0YjEwNTFiN2QyN2JlMzA2MDQwODY1YTMzMjg5",
+  "snapshot_id": "MTY2NTU4NjIxMSwwMDAwMDAwMDAxNjhmOGE4OWM2OGM4MjQ0Yzk4OTcxNTU0MzZiZmUy",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "act up",
+        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 128793,
+      "name": "act up",
+      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "What Does Sorry Mean",
         "url": "https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 156314,
       "name": "Many Men - Spotify Singles",
       "url": "https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "act up",
-        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 128793,
-      "name": "act up",
-      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
     },
     {
       "added_at": "2022-10-07 04:00:00",

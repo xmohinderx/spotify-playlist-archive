@@ -4,13 +4,14 @@
 
 > Los corridos más placosos que suenan en las calles\. Natanael Cano en portada.
 
-71 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
+72 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [300 Locos](https://open.spotify.com/track/09bJUDqFhk1vkUvAxBA7o5) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [La Nueva Etapa](https://open.spotify.com/album/2IObwHQtduGlInF83SAvGE) | 2:56 | 2022-02-04 |  |
 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-03-18 | 2022-10-15 |
 | [Acá en Guanajuato](https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:55 | 2022-02-04 |  |
+| [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2022-10-14 |  |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-02-21 |  |
 | [Aquí Seguimos](https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Aquí Seguimos](https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH) | 3:29 | 2022-02-04 | 2022-06-25 |
 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 | 2022-02-04 |  |

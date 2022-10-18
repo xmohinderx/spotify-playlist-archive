@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-515 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+516 songs - 1 day 3 hr 3 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Broken](https://open.spotify.com/track/2BqUqdJZGWRUaM1b6ttnQr) | [N\-Chased](https://open.spotify.com/artist/1wpTJaiRo7wAJn5vyO00wR), [Jesse Ian](https://open.spotify.com/artist/6ELqFk6gbjoiUj0aSvC6Ra) | [Broken](https://open.spotify.com/album/2P981ISmsGDVLN6ww0SnDb) | 2:51 | 2022-01-14 | 2022-07-29 |
 | [Broken](https://open.spotify.com/track/5Pu7psyoFgkFFYdx6upeMf) | [N\-Chased](https://open.spotify.com/artist/1wpTJaiRo7wAJn5vyO00wR), [Jesse Ian](https://open.spotify.com/artist/6ELqFk6gbjoiUj0aSvC6Ra) | [Broken](https://open.spotify.com/album/6p9MgFMp41WpBg2RtXEUXD) | 2:51 | 2022-07-22 |  |
 | [California Dreamin \- Radio Edit](https://open.spotify.com/track/0M3bL9NQrBKSgMJjPpEIOy) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:32 | 2022-02-18 | 2022-04-20 |
-| [California Nights](https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox) | [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [California Nights](https://open.spotify.com/album/23DAwmVitzaPkFbmOsmuw4) | 2:12 | 2022-05-13 |  |
+| [California Nights](https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox) | [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [California Nights](https://open.spotify.com/album/23DAwmVitzaPkFbmOsmuw4) | 2:12 | 2022-05-13 | 2022-10-18 |
 | [Call Me Over](https://open.spotify.com/track/65AuuSC0parBq0hAFyA22v) | [Dusky Grey](https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol) | [Call Me Over](https://open.spotify.com/album/0GF9iQgs4WkJhfSO8PgjO9) | 3:31 | 2022-01-21 | 2022-04-15 |
 | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc) | 3:12 | 2022-01-14 |  |
 | [Called Home](https://open.spotify.com/track/53MCUyJ3sxf8YGaiYiC4G6) | [Clay Pirinha](https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu), [JKW](https://open.spotify.com/artist/0M89PD00gvmH7R30uowa8w) | [Called Home](https://open.spotify.com/album/4Balkzz2ZZ57cvEmbEia1c) | 2:18 | 2022-07-08 |  |
@@ -126,6 +126,7 @@
 | [Existe El Amor](https://open.spotify.com/track/1vrFjapAsAdYA2Xmtry5de) | [Noile](https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9), [Ladina Viva](https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm) | [Existe El Amor](https://open.spotify.com/album/3JyjkVtZ539jj7srxSCQGY) | 2:05 | 2022-07-22 |  |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-04-01 |  |
 | [Fade Away](https://open.spotify.com/track/1oLxfF4dmgoKunk9LCQBCX) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Lush & Simon](https://open.spotify.com/artist/0UN8vGMxWEBKNNu8NtyF96), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:50 | 2022-01-14 | 2022-04-20 |
+| [Fade Away](https://open.spotify.com/track/6yGafCLQo7XjTr6eatEhNS) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Fade Away](https://open.spotify.com/album/7453KE569DhKAIsAFgGCDi) | 3:44 | 2022-10-14 |  |
 | [Fade Into Darkness](https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB) | [Fade Into Darkness](https://open.spotify.com/album/63tZ4KGiLkwp2kDgMfXePx) | 3:31 | 2022-04-01 |  |
 | [Fall At Your Feet](https://open.spotify.com/track/69lKbD1RGW41qnsksqtMuq) | [Lucy Neville](https://open.spotify.com/artist/0bq4n0hc3bUfuqIFU79sBC) | [Fall At Your Feet](https://open.spotify.com/album/3NT7QaUJUgaZb5HBlcXEpv) | 3:22 | 2022-01-14 | 2022-05-14 |
 | [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2022-01-14 |  |

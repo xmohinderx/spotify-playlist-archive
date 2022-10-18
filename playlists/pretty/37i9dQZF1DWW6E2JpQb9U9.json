@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Rata Blanca",
-  "num_followers": 91729,
+  "num_followers": 91750,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDc3NzJlNTRjYWFkNWEyNDViZDE0ZDE4NDdlOTE3ZmE4",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGI3MTQ3OTdjYTI4OGQyNmM1YTdhNTAyYTdhZTUyNTZj",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Llega llega llega (Vivo en Obras)",
         "url": "https://open.spotify.com/album/3UIVJ4b4NAzKUXiDx5WUPo"
       },
@@ -211,26 +211,6 @@
       "duration_ms": 267836,
       "name": "Llega llega llega - Vivo en Obras",
       "url": "https://open.spotify.com/track/5iADCLb4Q9ZMaRAx0yHNO0"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Spinetta y Las Bandas Eternas",
-        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 196453,
-      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -263,6 +243,26 @@
       "duration_ms": 305280,
       "name": "Eres - MTV Unplugged",
       "url": "https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Spinetta y Las Bandas Eternas",
+        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Catalina Garc\u00eda de Monsieur Perin\u00e9, Flor de Toloache",
-          "url": "https://open.spotify.com/artist/02cfFgG5C1GSyRYBwY6WYp"
-        }
-      ],
-      "duration_ms": 289154,
-      "name": "Al Vac\u00edo",
-      "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Pepsi Music 2005",
         "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
       },
@@ -455,6 +435,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Catalina Garc\u00eda de Monsieur Perin\u00e9, Flor de Toloache",
+          "url": "https://open.spotify.com/artist/02cfFgG5C1GSyRYBwY6WYp"
+        }
+      ],
+      "duration_ms": 289154,
+      "name": "Al Vac\u00edo",
+      "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Quebrado Vivo",
         "url": "https://open.spotify.com/album/2obHx8Orxsw1my5N3SrLhY"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 215093,
       "name": "Faro de los Ahogados",
       "url": "https://open.spotify.com/track/6SmQ9rcEcmcpGdk41EKgWr"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -523,54 +539,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Ven\u00ed Raquel - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "NTVG en Vivo - Buenos Aires",
-        "url": "https://open.spotify.com/album/67WlOjAlClWfVuIWK6oQ4r"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Te Voy a Llevar (En Vivo)",
-      "url": "https://open.spotify.com/track/4XtlB59EAchNsLuVWiLZ8r"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 340653,
       "name": "A Rodar Mi Vida - En Vivo",
       "url": "https://open.spotify.com/track/4tHukPtCIjMugUkLh0aIpE"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 186598,
+      "name": "Ven\u00ed Raquel - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -619,6 +603,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "NTVG en Vivo - Buenos Aires",
+        "url": "https://open.spotify.com/album/67WlOjAlClWfVuIWK6oQ4r"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Te Voy a Llevar (En Vivo)",
+      "url": "https://open.spotify.com/track/4XtlB59EAchNsLuVWiLZ8r"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "En Vivo en The Theater at Madison Square Garden",
         "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 432680,
-      "name": "Al Lado Del Camino",
-      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Yo Tomo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 432680,
+      "name": "Al Lado Del Camino",
+      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Yo Tomo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
-        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
-      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "1982-1987 - Himnos Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 186456,
       "name": "Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
+        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
+      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "En Vivo En El Opera",
+        "url": "https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Sola En Los Bares",
+      "url": "https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "En Vivo En El Opera",
-        "url": "https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Sola En Los Bares",
-      "url": "https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
-        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 431580,
-      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
-      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 261838,
       "name": "Verano del 92",
       "url": "https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
+        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 200764,
+      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
+      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
-        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 200764,
-      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
-      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
+      "duration_ms": 431580,
+      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
-        "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
-      "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "El Rock De Mi Vida",
         "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Kapangstock",
-        "url": "https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p"
-      },
-      "artists": [
-        {
-          "name": "Kapanga",
-          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Me Mata",
-      "url": "https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 328285,
       "name": "Canci\u00f3n de Cuna",
       "url": "https://open.spotify.com/track/4RcDjycBOjdXrt11dT3lAD"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
+        "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
+      "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Kapangstock",
+        "url": "https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p"
+      },
+      "artists": [
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Cactus (En Vivo en Monterrey)",
+        "url": "https://open.spotify.com/album/1i2P3wRgVKHdHfnDDpxlFX"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Cactus - En Vivo en Monterrey",
+      "url": "https://open.spotify.com/track/7AaxZgnm9gk3yfjVMp1nqe"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Fr\u00e1gil (En Vivo)",
         "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 194160,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Cactus (En Vivo en Monterrey)",
-        "url": "https://open.spotify.com/album/1i2P3wRgVKHdHfnDDpxlFX"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Cactus - En Vivo en Monterrey",
-      "url": "https://open.spotify.com/track/7AaxZgnm9gk3yfjVMp1nqe"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 439800,
-      "name": "Te Dir\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 230528,
       "name": "Se Fue al Cielo - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 439800,
+      "name": "Te Dir\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Huracanes en Luna Plateada (En Vivo)",
-        "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
+        "name": "Hoy Como Ayer (En Vivo)",
+        "url": "https://open.spotify.com/album/1JYKLf6VSzu0c0V9YMKxqz"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
         }
       ],
-      "duration_ms": 258493,
-      "name": "Mar\u00eda y Jos\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/7dRcduV7DKRzYhFkFUJVFF"
+      "duration_ms": 253320,
+      "name": "Sacate la Mierda - En Vivo",
+      "url": "https://open.spotify.com/track/63tUQEbpxDar0yjmtPB6jg"
     }
   ],
   "unique_name": "Vivo de Rock",

@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. Esteban Gabriel en portada.
 
-212 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+213 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A La Orden \(El Menor\)](https://open.spotify.com/track/6KSUBF2lLNzsPGiy8bV95y) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [A La Orden \(El Menor\)](https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL) | 3:04 | 2022-09-02 | 2022-09-24 |
 | [A Puño Limpio](https://open.spotify.com/track/3tJLTDDCh4azEGhktksiLw) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [A Puño Limpio](https://open.spotify.com/album/0kHtPbrj4TjfCNMFwLCHVY) | 3:31 | 2022-09-16 | 2022-10-01 |
 | [Aguas Turbulentas](https://open.spotify.com/track/290Ug0y2nZJ8bamtgu435i) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aguas Turbulentas](https://open.spotify.com/album/69wLMt4yFfuHuueICXyo44) | 2:16 | 2022-07-22 | 2022-09-03 |
+| [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2022-10-14 |  |
 | [Ando en el Caloron](https://open.spotify.com/track/2bu2siQAht5AGdhL2Ey8u2) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Andamos por Todos Lados](https://open.spotify.com/album/1kfxk0qGBxeZcv9qeAx2Rp) | 3:43 | 2022-08-29 | 2022-10-08 |
 | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/track/5ed9exnSCZn7OVxLYcHuRb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Banda La Veintona](https://open.spotify.com/artist/22mUBA7P0AY1inU2zHAicS) | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/album/5wb3Aa6Q3iFieGD9zhSgnd) | 3:26 | 2022-07-15 | 2022-09-03 |
 | [Artista Independiente](https://open.spotify.com/track/61oFEnL56Vvu0shgd7aJPO) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Artista Independiente](https://open.spotify.com/album/5f4Uf0IvK5gHPZzcoyJ4Gm) | 3:23 | 2022-09-02 | 2022-10-08 |

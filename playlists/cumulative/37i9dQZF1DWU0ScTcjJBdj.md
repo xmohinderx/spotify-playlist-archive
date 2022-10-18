@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-238 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/48nHSzZWFJZqa0aL14cfvw)
+239 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/48nHSzZWFJZqa0aL14cfvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Home](https://open.spotify.com/track/3iK2TtvEnhBXHqm0e98dCA) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Home](https://open.spotify.com/album/3NHzZL6vpbP5EQr3XuXVxf) | 3:22 | 2019-05-26\* | 2020-03-07 |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2019-05-26\* |  |
 | [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 | 2019-05-26\* | 2020-07-14 |
-| [Howling Wind](https://open.spotify.com/track/5PTw6BvUEMgZth1POt15io) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Howling Wind](https://open.spotify.com/album/3zGOXOgAt4cXMltlooJtZ7) | 4:11 | 2022-06-24 |  |
+| [Howling Wind](https://open.spotify.com/track/4zrnQfvi5zFqZXivgpcKuP) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Looking Glass](https://open.spotify.com/album/00hzdJCM7mCbwkDRgN7r5n) | 4:11 | 2022-06-24 |  |
+| [Howling Wind](https://open.spotify.com/track/5PTw6BvUEMgZth1POt15io) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Howling Wind](https://open.spotify.com/album/3zGOXOgAt4cXMltlooJtZ7) | 4:11 | 2022-06-24 | 2022-10-18 |
 | [Howling Wind](https://open.spotify.com/track/5tL8Cda5IG3WJfzNxZQh2r) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Howling Wind](https://open.spotify.com/album/3vgz85pCyQBiy9OjTi9OBI) | 4:11 | 2022-06-08 | 2022-07-29 |
 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 | 2021-11-13 |  |
 | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M) | 3:32 | 2020-04-18 | 2021-10-09 |

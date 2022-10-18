@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377641,
+      "name": "Jesus Is Mine - Live",
+      "url": "https://open.spotify.com/track/62aLt6uRP2S9TMPOt5oewE"
+    },
+    {
+      "album": {
         "name": "Where His Light Was",
         "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
       },
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 373355,
       "name": "Move (Out Of The Way) - Live",
       "url": "https://open.spotify.com/track/6VhGMHuL6CCDbiqR2gW5yM"

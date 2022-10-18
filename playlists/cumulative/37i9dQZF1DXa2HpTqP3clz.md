@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-376 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+377 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [God's Gonna Cut You Down](https://open.spotify.com/track/0l36DUMjzz62ol5uL4MyBU) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [God's Gonna Cut You Down](https://open.spotify.com/album/65hW5blAWXIVzWFDZ7cLCL) | 4:20 | 2022-04-15 | 2022-07-19 |
 | [Gold](https://open.spotify.com/track/3D23C3KmddyUFBswvf5c1w) | [Sharell Bryant](https://open.spotify.com/artist/4yAeOCzeSufeXn1Vccgi7P) | [Turn Me into a Diamond](https://open.spotify.com/album/7iQuTXRuydq7MTpT5VY8zQ) | 4:09 | 2022-03-25 | 2022-04-26 |
 | [Gone Gone Gone](https://open.spotify.com/track/6BlreBdQpQrOvpjjqqXcB4) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Gone Gone Gone](https://open.spotify.com/album/4fQG4zoMshyxV2VDwvzs1T) | 4:24 | 2021-12-17 | 2022-07-29 |
+| [Gone Gone Gone](https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:24 | 2022-10-14 |  |
 | [Granny's Got a Garden \- For G'maw Jan](https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:30 | 2022-08-26 |  |
 | [Greener Grass](https://open.spotify.com/track/3BEDazH9lyPSMkH4XKA4gK) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Mount Royal](https://open.spotify.com/album/6FouHmrNdwxJOiSafngC3Y) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Greener Grass](https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Mount Royal](https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0) | 3:02 | 2022-07-22 |  |
@@ -176,7 +177,7 @@
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 |  |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc) | 2:00 | 2022-08-26 | 2022-10-06 |
 | [Jeremiah](https://open.spotify.com/track/6fQJurzJ7mB8VTRppbg8t7) | [Clint Roberts](https://open.spotify.com/artist/5OVHqPoHGsbQnMuLvLP0gd) | [Jeremiah](https://open.spotify.com/album/05AgUadKLcXpXwwNmwhPfC) | 3:24 | 2022-04-29 | 2022-05-08 |
-| [John](https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC) | [Wood & Wire](https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX) | [John](https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV) | 2:55 | 2021-12-17 |  |
+| [John](https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC) | [Wood & Wire](https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX) | [John](https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV) | 2:55 | 2021-12-17 | 2022-10-18 |
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-07-22 |  |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Keys](https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG) | [Clyde and the Milltailers](https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA) | [Gone](https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ) | 3:00 | 2022-06-17 | 2022-06-26 |

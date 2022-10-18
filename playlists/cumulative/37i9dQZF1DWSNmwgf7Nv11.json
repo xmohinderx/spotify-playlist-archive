@@ -4511,6 +4511,32 @@
     {
       "album": {
         "name": "All the Leaves Are Falling",
+        "url": "https://open.spotify.com/album/7cT1OPLUhLX1IS74XLNNSM"
+      },
+      "artists": [
+        {
+          "name": "Nealo",
+          "url": "https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO"
+        },
+        {
+          "name": "Adam Garrett",
+          "url": "https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p"
+        },
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "You Can\u2019t Go Home Again",
+      "url": "https://open.spotify.com/track/0tCECn99kszv4FCzKQTOYH"
+    },
+    {
+      "album": {
+        "name": "All the Leaves Are Falling",
         "url": "https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI"
       },
       "artists": [
@@ -4529,7 +4555,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 224000,
       "name": "You Can\u2019t Go Home Again",
       "url": "https://open.spotify.com/track/7gQiRs2Zd88RnmE1q8XbZm"

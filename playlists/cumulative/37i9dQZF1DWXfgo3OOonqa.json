@@ -8543,10 +8543,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 136710,
       "name": "Paid",
       "url": "https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m"
+    },
+    {
+      "album": {
+        "name": "Suave World",
+        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136710,
+      "name": "Paid",
+      "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
     },
     {
       "album": {

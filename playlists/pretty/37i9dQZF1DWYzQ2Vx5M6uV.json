@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 99184,
+  "num_followers": 99220,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMDhiMDkyY2U2MTY0ZjdjNWIyNjhiOGU2MDIyOGVkZDdh",
+  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMGM5NDVlMDNmNmZmNmNhNmMyOWQwMzMyMjYzMDY4NzRj",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -687,6 +687,30 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "WONDALAND",
         "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -815,30 +815,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Tayari",
-        "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
-      },
-      "artists": [
-        {
-          "name": "Serge Ibaka",
-          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
-        }
-      ],
-      "duration_ms": 158003,
-      "name": "Tayari",
-      "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Tayari",
+        "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        }
+      ],
+      "duration_ms": 158003,
+      "name": "Tayari",
+      "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Dumebi (Becky G Remix)",
         "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
       },
@@ -939,46 +955,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Boom Bam (with Afro B & Mariah Angeliq",
-        "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
-      },
-      "artists": [
-        {
-          "name": "Team Salut",
-          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Boom Bam (with Afro B & Mariah Angeliq",
-      "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Vamos com tudo",
         "url": "https://open.spotify.com/album/7zKyAGw6YQERUqQ0VRWKa2"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 245414,
       "name": "Vamos com tudo",
       "url": "https://open.spotify.com/track/74PgANamgS7BiWb1DoV6nz"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Boom Bam (with Afro B & Mariah Angeliq",
+        "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
+      },
+      "artists": [
+        {
+          "name": "Team Salut",
+          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Boom Bam (with Afro B & Mariah Angeliq",
+      "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Zimenice",
         "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "AFRICAN LOVER",
-        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SOLO CON MI CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 169396,
       "name": "Popor\u00f3",
       "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "AFRICAN LOVER",
+        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "SOLO CON MI CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
     }
   ],
   "unique_name": "Afro Ritmo",

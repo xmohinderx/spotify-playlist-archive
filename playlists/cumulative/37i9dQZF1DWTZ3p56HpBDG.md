@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-159 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+160 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 2:48 | 2021-11-10 | 2022-10-05 |
 | [Hold On To Me](https://open.spotify.com/track/3jDhe6dzhLNV7gbhajjU7A) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Hold On To Me](https://open.spotify.com/album/7Kx9THhDWSes4d8kTHQldM) | 2:59 | 2021-11-10 | 2022-07-19 |
 | [Honey](https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Honey](https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb) | 2:13 | 2021-11-10 | 2022-01-21 |
-| [Honey Bee](https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/2EJPiGw5V1dJciKQaK7jd6) | 3:39 | 2022-10-06 |  |
+| [Honey Bee](https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv) | 3:39 | 2022-10-14 |  |
+| [Honey Bee](https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/2EJPiGw5V1dJciKQaK7jd6) | 3:39 | 2022-10-06 | 2022-10-18 |
 | [Human](https://open.spotify.com/track/1Cvvo5SkAtCj1iiSmLzJ6K) | [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Human](https://open.spotify.com/album/3Mt1ADYTQfXzByAJbd1CYN) | 3:49 | 2022-07-18 | 2022-10-07 |
 | [Hurt](https://open.spotify.com/track/01r2bMKzV1xfmLrOed0yt5) | [Badgirl$](https://open.spotify.com/artist/1tVVNIotf3Fc4iylC56Wae) | [Bethnal](https://open.spotify.com/album/128HVkRyaSsgsXoO4osxZZ) | 3:04 | 2021-11-10 | 2022-07-19 |
 | [Hypnotized](https://open.spotify.com/track/2G3l5uYzMqVAgEjcF8XtRj) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Hypnotized](https://open.spotify.com/album/7FJJ8bEQV3WEUxHSXFgjTN) | 3:29 | 2021-11-10 | 2022-07-19 |

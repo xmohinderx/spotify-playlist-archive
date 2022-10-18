@@ -5611,7 +5611,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3"
@@ -9176,6 +9176,24 @@
     },
     {
       "album": {
+        "name": "Miss You (Sped Up Version)",
+        "url": "https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170983,
+      "name": "Miss You - Sped Up Version",
+      "url": "https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH"
+    },
+    {
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -9981,7 +9999,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 133370,
       "name": "nevyk\u0117l\u0117",
       "url": "https://open.spotify.com/track/0xYkfwPWwitPq5Txt1p1rK"
@@ -13839,7 +13857,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 194754,
       "name": "Stadionai",
       "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
@@ -13879,7 +13897,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -15865,7 +15883,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"

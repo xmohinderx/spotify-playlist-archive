@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 53601,
+  "num_followers": 53835,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMGRkZjQ2MmU2ZTMwZWJlNDY2ZGQxMDNlZDljNWZlZTA2",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMGQ2MDk2NzZlMDYzNWEzNTBjYWJmNmNjMzBmYTEzZTQ1",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
@@ -383,26 +399,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "The Glow of Love (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 373240,
-      "name": "The Glow of Love",
-      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Barbara e altri Carella",
         "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
@@ -419,18 +415,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+        "name": "The Glow of Love (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+      "duration_ms": 373240,
+      "name": "The Glow of Love",
+      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Greatest Hits &amp; Remixes",
         "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 359333,
       "name": "Il veliero",
       "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Bambina c/o Bye Bye Mi Amor",
-        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
-      },
-      "artists": [
-        {
-          "name": "David Lyme",
-          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Bambina (Original 12-Inch Version)",
-      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Discamore",
         "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 224000,
       "name": "Discamore",
       "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Bambina c/o Bye Bye Mi Amor",
+        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
+      },
+      "artists": [
+        {
+          "name": "David Lyme",
+          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Bambina (Original 12-Inch Version)",
+      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Dancing on Townsquare",
         "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 210186,
       "name": "Il Veliero - Single Version",
       "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",

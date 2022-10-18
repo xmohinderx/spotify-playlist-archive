@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: Madison Beer
 
-1,335 songs - 2 day 20 hr 41 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,336 songs - 2 day 20 hr 43 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [If You're Hearing This](https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [If You're Hearing This](https://open.spotify.com/album/2yOjy8vG8Tp7bVByZSLNcJ) | 2:53 | 2019-05-26\* | 2019-06-15 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2019-06-15 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 | 2022-08-17 |
-| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 |  |
+| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-10-18 |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-05-22 | 2022-03-26 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-20 | 2022-06-06 |
 | [Indecision](https://open.spotify.com/track/0lWGZP8adQnEeLFdvYlL2P) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Indecision](https://open.spotify.com/album/0ZyxNEjTLCcE2bk1PpNpP9) | 2:31 | 2020-09-25 | 2021-01-15 |
@@ -753,6 +753,7 @@
 | [mario kart \(feat\. Travis Barker\)](https://open.spotify.com/track/30ymFh1FOJFYrxHNwP1NQU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [drinking under the streetlights](https://open.spotify.com/album/5U4bpnZJBgFxmkhLMDmXEz) | 3:15 | 2021-08-13 | 2021-11-17 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2020-05-01 | 2021-04-17 |
 | [Marry Myself](https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:02 | 2022-03-04 | 2022-03-26 |
+| [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 |  |
 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 | 2022-07-15 |  |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2021-11-12 | 2022-01-08 |
 | [Messing With Fire](https://open.spotify.com/track/2KPwgjIyUySM4vekacUUWE) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Messing With Fire](https://open.spotify.com/album/7jbFtmPmB0cOvIxAnJ8DhU) | 3:06 | 2021-10-13 | 2021-11-12 |

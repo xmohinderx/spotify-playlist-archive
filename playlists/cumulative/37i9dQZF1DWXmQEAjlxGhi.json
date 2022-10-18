@@ -980,6 +980,32 @@
     },
     {
       "album": {
+        "name": "Dale Pa' Ya (feat. Gente De Zona)",
+        "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216730,
+      "name": "Dale Pa' Ya (feat. Gente de Zona)",
+      "url": "https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX"
+    },
+    {
+      "album": {
         "name": "Dame Banda",
         "url": "https://open.spotify.com/album/2Tfx4vmVe84P1orl8NRbY3"
       },
@@ -5519,7 +5545,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 191353,
       "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"

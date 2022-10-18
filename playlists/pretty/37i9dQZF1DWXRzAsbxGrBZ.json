@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ-vZNiOsQ\">beatsbyhand</a>",
-  "num_followers": 1563,
+  "num_followers": 1577,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDZhZTkyOTVkOGViMzU0MTJmNmEwOWVkZjEwY2YzZjQ4",
+  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMGQ0MmMyOGEzMDY4Y2ZkYjY2NGZhMjkzNmFmOWJhZTY0",
   "tracks": [
     {
       "added_at": "2022-09-29 21:59:00",
@@ -167,46 +167,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "All In You",
-        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
-      },
-      "artists": [
-        {
-          "name": "Senior Oat",
-          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
-        },
-        {
-          "name": "Kemy Chienda",
-          "url": "https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK"
-        }
-      ],
-      "duration_ms": 512182,
-      "name": "All In You",
-      "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "We Beg Your Pardon",
-        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        },
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 431984,
-      "name": "We Beg Your Pardon",
-      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Xelela Abazali",
         "url": "https://open.spotify.com/album/3Ud3F9eyj8if4o7TSbtZHA"
       },
@@ -231,22 +191,6 @@
       "duration_ms": 394401,
       "name": "Xelela Abazali",
       "url": "https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN"
-      },
-      "artists": [
-        {
-          "name": "Rishi Love",
-          "url": "https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV"
-        }
-      ],
-      "duration_ms": 334426,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -275,6 +219,62 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "All In You",
+        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Kemy Chienda",
+          "url": "https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK"
+        }
+      ],
+      "duration_ms": 512182,
+      "name": "All In You",
+      "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN"
+      },
+      "artists": [
+        {
+          "name": "Rishi Love",
+          "url": "https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV"
+        }
+      ],
+      "duration_ms": 334426,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "We Beg Your Pardon",
+        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 431984,
+      "name": "We Beg Your Pardon",
+      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "She's On Fire",
-      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Confindent",
         "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
       },
@@ -537,20 +517,44 @@
       "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
+      "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
       "artists": [
         {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+          "name": "The Groove Experience",
+          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
+        },
+        {
+          "name": "Aiyon",
+          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
         }
       ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+      "duration_ms": 417600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "She's On Fire",
+      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -577,48 +581,20 @@
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
       },
       "artists": [
         {
-          "name": "The Groove Experience",
-          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
-        },
-        {
-          "name": "Aiyon",
-          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
         }
       ],
-      "duration_ms": 417600,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -663,38 +639,26 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
       },
       "artists": [
         {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
         },
         {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
-        }
-      ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
         }
       ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -715,6 +679,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ"
       },
@@ -727,6 +707,46 @@
       "duration_ms": 527020,
       "name": "Captured by Mizolution",
       "url": "https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+        }
+      ],
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Ndoyiswe",
+        "url": "https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq"
+      },
+      "artists": [
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        },
+        {
+          "name": "Bamtho Imbongi",
+          "url": "https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX"
+        }
+      ],
+      "duration_ms": 325593,
+      "name": "Ndoyiswe",
+      "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -751,26 +771,6 @@
       "duration_ms": 419453,
       "name": "Different You",
       "url": "https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Ndoyiswe",
-        "url": "https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq"
-      },
-      "artists": [
-        {
-          "name": "Hypaphonik",
-          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
-        },
-        {
-          "name": "Bamtho Imbongi",
-          "url": "https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX"
-        }
-      ],
-      "duration_ms": 325593,
-      "name": "Ndoyiswe",
-      "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "My Heartbeat For You",
-        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
-      },
-      "artists": [
-        {
-          "name": "RoneeDeep",
-          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
-        },
-        {
-          "name": "Zawadi",
-          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "My Heartbeat For You",
-      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Let It Rain",
         "url": "https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X"
       },
@@ -891,18 +871,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+        "name": "My Heartbeat For You",
+        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
       "artists": [
         {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+          "name": "RoneeDeep",
+          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
+        },
+        {
+          "name": "Zawadi",
+          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
         }
       ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
+      "duration_ms": 332000,
+      "name": "My Heartbeat For You",
+      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -939,6 +923,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+      },
+      "artists": [
+        {
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+        }
+      ],
+      "duration_ms": 386525,
+      "name": "Dusty Streets",
+      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "The Inglourious",
         "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+        "name": "Addicted To Sound",
+        "url": "https://open.spotify.com/album/51gsn6IiCCZSXMsX6kpBZR"
       },
       "artists": [
         {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+          "name": "Roque",
+          "url": "https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ"
         }
       ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+      "duration_ms": 493764,
+      "name": "Addicted To Sound",
+      "url": "https://open.spotify.com/track/0n8mAv9qq4ctyOvyZIdoHA"
     }
   ],
   "unique_name": "Deep House Session",

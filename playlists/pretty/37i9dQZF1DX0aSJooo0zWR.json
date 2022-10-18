@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 162459,
+  "num_followers": 162535,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMGFkZjcyNDIwN2E4OTdiZDVhZjdiN2QwMjI2NmRiOTU3",
+  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMGI5YjU3YjU4ODg1OTM2YzdjYmFmMzRhMmRiZjNjZTU0",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "The Aristocrats",
-        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
-      },
-      "artists": [
-        {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Bad Asteroid",
-      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Asian Dreamer",
         "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 278240,
       "name": "Midnight Rendezvous",
       "url": "https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Aristocrats",
+        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
+      },
+      "artists": [
+        {
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+        }
+      ],
+      "duration_ms": 353666,
+      "name": "Bad Asteroid",
+      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/0aVwclUm2FsksllwpJRlaX"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 292314,
+      "name": "Fuel City",
+      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "The Antidote Is in the Poison",
@@ -235,22 +251,6 @@
       "duration_ms": 349520,
       "name": "Night Cruise",
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Empire Central",
-        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 292314,
-      "name": "Fuel City",
-      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Walk Cycle",
-        "url": "https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Walk Cycle",
-      "url": "https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Tore Down House",
@@ -371,6 +355,22 @@
       "duration_ms": 352466,
       "name": "Dolemite",
       "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Walk Cycle",
+        "url": "https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Walk Cycle",
+      "url": "https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Chapter One: Shredemption",
@@ -561,28 +545,20 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2021-05-07 04:01:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "One More !!?!??",
-        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
       },
       "artists": [
         {
-          "name": "Mathieu Fiset",
-          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
-        },
-        {
-          "name": "Larnell Lewis",
-          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
-        },
-        {
-          "name": "Jordan Rudess",
-          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
         }
       ],
-      "duration_ms": 248174,
-      "name": "One More !!?!??",
-      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -607,6 +583,30 @@
       "duration_ms": 276293,
       "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
+    },
+    {
+      "added_at": "2021-05-07 04:01:00",
+      "album": {
+        "name": "One More !!?!??",
+        "url": "https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Fiset",
+          "url": "https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL"
+        },
+        {
+          "name": "Larnell Lewis",
+          "url": "https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U"
+        },
+        {
+          "name": "Jordan Rudess",
+          "url": "https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV"
+        }
+      ],
+      "duration_ms": 248174,
+      "name": "One More !!?!??",
+      "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
-    },
-    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "The New Heritage",
@@ -811,6 +795,22 @@
       "duration_ms": 145643,
       "name": "The New Heritage",
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Vtt2",
-        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
-      },
-      "artists": [
-        {
-          "name": "Vital Techtones",
-          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Jackets XL",
         "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 503213,
       "name": "Even Song",
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Vtt2",
+        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
+      },
+      "artists": [
+        {
+          "name": "Vital Techtones",
+          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "Space-Time",
+        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber Fusion",
+          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
+    },
+    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1049,22 +1065,6 @@
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Space-Time",
-        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber Fusion",
-          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Big Fun (2022 Remaster)",
@@ -1079,6 +1079,22 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+      },
+      "artists": [
+        {
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+        }
+      ],
+      "duration_ms": 297359,
+      "name": "You Gotta Get It While You Can",
+      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
-      },
-      "artists": [
-        {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
-        }
-      ],
-      "duration_ms": 297359,
-      "name": "You Gotta Get It While You Can",
-      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1281,6 +1281,42 @@
       "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Now You See It ... (Now You Don't)",
+        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Escher Sketch (A Tale Of Two Rhythms)",
+      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 356243,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1307,42 +1343,6 @@
       "duration_ms": 378489,
       "name": "Prophecy Extended",
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 356243,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Now You See It ... (Now You Don't)",
-        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Escher Sketch (A Tale Of Two Rhythms)",
-      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
       "added_at": "2021-07-16 04:01:00",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ"
-      },
-      "artists": [
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        }
-      ],
-      "duration_ms": 653190,
-      "name": "Guinnevere",
-      "url": "https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "FLY! FLY! FLY!",
@@ -1411,6 +1395,22 @@
       "duration_ms": 260866,
       "name": "Growing Up!",
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "duration_ms": 653190,
+      "name": "Guinnevere",
+      "url": "https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -1457,24 +1457,20 @@
       "url": "https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/6do2ff8V2y5SJUpbKAlMzD"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
       },
       "artists": [
         {
-          "name": "Nikola Bankov",
-          "url": "https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd"
-        },
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
         }
       ],
-      "duration_ms": 333873,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/0vdB6LzEsOVBbtGZVK6TSM"
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     }
   ],
   "unique_name": "Fusion Fest",

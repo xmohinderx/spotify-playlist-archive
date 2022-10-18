@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91583,
+  "num_followers": 91579,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGRiMzhjMmZjMGMwMWY2MjQ3YjYwMTkzMjRiYWZlYWI3",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGYwNTE2NzFiNzRiNWM1YTZjM2NlZThlNDZhOTliZmJm",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
@@ -523,18 +539,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
         }
       ],
-      "duration_ms": 129600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -559,26 +579,6 @@
       "duration_ms": 191329,
       "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "A Good Friend Is Nice",
         "url": "https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 182920,
       "name": "No One Compares To You",
       "url": "https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -795,6 +795,26 @@
       "duration_ms": 192786,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "You Were Loved (with OneRepublic)",
+        "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 221885,
+      "name": "You Were Loved (with OneRepublic)",
+      "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -863,26 +883,6 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "You Were Loved (with OneRepublic)",
-        "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 221885,
-      "name": "You Were Loved (with OneRepublic)",
-      "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7L7ZklG6lldD8OzsrmNzbn"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 183887,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4S6ytq0m3Wo1kaeRKNw3xy"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1435,6 +1435,30 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Runaway (with Sigala and JP Cooper)",
+        "url": "https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Runaway (with Sigala and JP Cooper)",
+      "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1479,30 +1503,6 @@
       "duration_ms": 221500,
       "name": "Future In Your Hands (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Runaway (with Sigala and JP Cooper)",
-        "url": "https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Runaway (with Sigala and JP Cooper)",
-      "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1627,6 +1627,30 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "2 Hearts (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "2 Hearts (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Tangerine Skies",
         "url": "https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5"
       },
@@ -1663,30 +1687,6 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "2 Hearts (feat. Gia Koka)",
-        "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Gia Koka",
-          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "2 Hearts (feat. Gia Koka)",
-      "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Behind the Moon",
-        "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
-      },
-      "artists": [
-        {
-          "name": "K!llx",
-          "url": "https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ"
-        },
-        {
-          "name": "ConKi",
-          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "Behind the Moon",
-      "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Only For The Better",
         "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
       },
@@ -1835,6 +1815,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Behind the Moon",
+        "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
+      },
+      "artists": [
+        {
+          "name": "K!llx",
+          "url": "https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ"
+        },
+        {
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "Behind the Moon",
+      "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
       },
@@ -1851,8 +1851,8 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Feel My Love (feat. Joe Taylor)",
-        "url": "https://open.spotify.com/album/6AkPuZVT0sJXVCw8XFENnz"
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3"
       },
       "artists": [
         {
@@ -1860,17 +1860,13 @@
           "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Joe Taylor",
-          "url": "https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB"
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
         }
       ],
-      "duration_ms": 172820,
-      "name": "Feel My Love (feat. Joe Taylor)",
-      "url": "https://open.spotify.com/track/3pquutv1kWficJdou7ywag"
+      "duration_ms": 168727,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1939,26 +1935,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Cry Dancing",
-        "url": "https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 179396,
-      "name": "Cry Dancing",
-      "url": "https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1975,22 +1951,46 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Not Ok",
-        "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
+        "name": "Feel My Love (feat. Joe Taylor)",
+        "url": "https://open.spotify.com/album/6AkPuZVT0sJXVCw8XFENnz"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Joe Taylor",
+          "url": "https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB"
         }
       ],
-      "duration_ms": 210943,
-      "name": "Not Ok",
-      "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
+      "duration_ms": 172820,
+      "name": "Feel My Love (feat. Joe Taylor)",
+      "url": "https://open.spotify.com/track/3pquutv1kWficJdou7ywag"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Cry Dancing",
+        "url": "https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 179396,
+      "name": "Cry Dancing",
+      "url": "https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq"
     }
   ],
   "unique_name": "Voglia di Sole",

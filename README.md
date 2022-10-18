@@ -70,6 +70,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 ## Playlists
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
+- [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
 - [\#Hotmess](/playlists/pretty/2Rah43YvyO765e4gACIDef.md)
 - [\#JazzAppreciationMonth](/playlists/pretty/2nb7lCySvvf7PNxHUD5oun.md)
 - [\#MakeitHappen](/playlists/pretty/5sty33UvgJZzeyfocoOaUV.md)
@@ -1635,7 +1636,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [GO\-GO](/playlists/pretty/37i9dQZF1DXcLNIxmtGu8N.md)
 - [GOLDEN KAMUY ゴールデンカムイ](/playlists/pretty/37i9dQZF1DX3raoUbvEnt0.md)
 - [GOOD GAME](/playlists/pretty/37i9dQZF1DWTKktnMCmHx1.md)
-- [GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
 - [GUNDAM SERIES \-ガンダムシリーズ\-](/playlists/pretty/37i9dQZF1DX6aZ9vrXqd1U.md)
 - [Gabry Ponte's DJ Mix](/playlists/pretty/37i9dQZF1DXcpzpfnVhpIz.md)
 - [Gainsville Stockholm 2012](/playlists/pretty/6ClBNzH2PMh2jvkEuSFBFJ.md)

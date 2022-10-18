@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,287 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,386 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 44 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 45 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 46 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 |
-| 47 | [Your Body](https://open.spotify.com/track/697HW34FLNURvRAbSieICv) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Your Body](https://open.spotify.com/album/6mHS5vgGYalErBmxhX3TXx) | 3:27 |
-| 48 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
+| 47 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
+| 48 | [Your Body](https://open.spotify.com/track/697HW34FLNURvRAbSieICv) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Your Body](https://open.spotify.com/album/6mHS5vgGYalErBmxhX3TXx) | 3:27 |
 | 49 | [Release](https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Release](https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC) | 3:13 |
 | 50 | [Deep Inside](https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs) | 3:22 |
 
-Snapshot ID: `MTY2NDI5MDk3OSwwMDAwMDAwMGJiZjE3MGExOGY1ZDg2OWRiZjkyZjU3ZmI1OTljZWZj`
+Snapshot ID: `MTY2NDI5MDk3OSwwMDAwMDAwMDBkMzY5Zjk0N2VmMWJkN2M3Y2EzYzFhN2YwMjk2MTAw`

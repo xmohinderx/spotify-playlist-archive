@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
-  "num_followers": 461165,
+  "num_followers": 461220,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDJhYjNlYzZlYTM4ZmRjOTg1MWVlZDM2Yjk3ZjNkZDRk",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGFiNzllNDU2MTQyZmE1NDA1OTkwYmFhNThiMWZlM2Qx",
   "tracks": [
     {
       "added_at": "2022-08-28 19:10:51",
@@ -41,74 +41,6 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
-      "added_at": "2022-10-17 01:48:58",
-      "album": {
-        "name": "Tour Death Song",
-        "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 297471,
-      "name": "Tour Death Song",
-      "url": "https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "See Where The Night Goes",
-        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 247895,
-      "name": "Step Aside",
-      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "I Don't Live Here Anymore (feat. Lucius)",
-      "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
-    },
-    {
       "added_at": "2022-08-28 19:10:51",
       "album": {
         "name": "Seventeen Going Under (Deluxe)",
@@ -123,22 +55,6 @@
       "duration_ms": 297933,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
-    },
-    {
-      "added_at": "2022-10-17 01:48:58",
-      "album": {
-        "name": "Do I Love You (Indeed I Do)",
-        "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Do I Love You (Indeed I Do)",
-      "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -175,18 +91,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Omnium Gatherum",
-        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 364599,
-      "name": "Magenta Mountain",
-      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+      "duration_ms": 327546,
+      "name": "I Don't Live Here Anymore (feat. Lucius)",
+      "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -221,6 +141,22 @@
       "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
+      "added_at": "2022-10-18 01:40:08",
+      "album": {
+        "name": "Do I Love You (Indeed I Do)",
+        "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
+    },
+    {
       "added_at": "2022-08-28 19:10:51",
       "album": {
         "name": "King",
@@ -239,6 +175,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
+        "name": "Omnium Gatherum",
+        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -251,6 +203,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -319,22 +287,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Blood Runs Red",
-        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Blood Runs Red",
-      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -363,6 +315,38 @@
       "duration_ms": 239146,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Blood Runs Red",
+        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Blood Runs Red",
+      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "See Where The Night Goes",
+        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 247895,
+      "name": "Step Aside",
+      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -397,7 +381,7 @@
       "url": "https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7"
     },
     {
-      "added_at": "2022-10-17 01:48:58",
+      "added_at": "2022-10-18 01:40:08",
       "album": {
         "name": "Human Crime",
         "url": "https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi"
@@ -415,22 +399,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 197737,
-      "name": "Head Right",
-      "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -443,6 +411,22 @@
       "duration_ms": 241800,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 197737,
+      "name": "Head Right",
+      "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ"
     },
     {
-      "added_at": "2022-10-17 01:48:58",
+      "added_at": "2022-10-18 01:40:08",
       "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
@@ -547,6 +531,22 @@
       "duration_ms": 303593,
       "name": "Broken Horses",
       "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "added_at": "2022-10-18 01:40:08",
+      "album": {
+        "name": "Tour Death Song",
+        "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 297471,
+      "name": "Tour Death Song",
+      "url": "https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -757,23 +757,7 @@
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2022-10-17 01:48:58",
+      "added_at": "2022-10-18 01:40:08",
       "album": {
         "name": "Stay Out Of It",
         "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "What's Coming To Me",
-        "url": "https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs"
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 214048,
-      "name": "What's Coming To Me",
-      "url": "https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va"
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -819,6 +803,22 @@
       "duration_ms": 215186,
       "name": "So Happy It Hurts",
       "url": "https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "What's Coming To Me",
+        "url": "https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 214048,
+      "name": "What's Coming To Me",
+      "url": "https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp"
     },
     {
-      "added_at": "2022-10-17 01:48:58",
+      "added_at": "2022-10-18 01:40:08",
       "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/2QBXaoVHGTe1R88O3aO1XI"
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Love & Algorhythms",
-        "url": "https://open.spotify.com/album/4mQO6EHGG1jGPPFJtCVIPs"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 187319,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 273946,
       "name": "High And Lonesome",
       "url": "https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Love & Algorhythms",
+        "url": "https://open.spotify.com/album/4mQO6EHGG1jGPPFJtCVIPs"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 187319,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Bloodrush",
-        "url": "https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 217793,
-      "name": "Bloodrush - Edit",
-      "url": "https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Life and Life Only",
         "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 220961,
       "name": "Miles And Miles - Single Version",
       "url": "https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Bloodrush",
+        "url": "https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 217793,
+      "name": "Bloodrush - Edit",
+      "url": "https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
+        "name": "Red Run Cold",
+        "url": "https://open.spotify.com/album/0gUmdbR0yGRd6M59WGXFYm"
+      },
+      "artists": [
+        {
+          "name": "World's First Cinema",
+          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
+        }
+      ],
+      "duration_ms": 223783,
+      "name": "Red Run Cold",
+      "url": "https://open.spotify.com/track/00j4raDRNX9J6nWkzqpJbB"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
         "name": "Heavy Soul",
         "url": "https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162"
       },
@@ -1617,23 +1633,7 @@
       "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
     },
     {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "Red Run Cold",
-        "url": "https://open.spotify.com/album/0gUmdbR0yGRd6M59WGXFYm"
-      },
-      "artists": [
-        {
-          "name": "World's First Cinema",
-          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
-        }
-      ],
-      "duration_ms": 223783,
-      "name": "Red Run Cold",
-      "url": "https://open.spotify.com/track/00j4raDRNX9J6nWkzqpJbB"
-    },
-    {
-      "added_at": "2022-10-17 01:48:58",
+      "added_at": "2022-10-18 01:40:08",
       "album": {
         "name": "Jersey Girl",
         "url": "https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk"

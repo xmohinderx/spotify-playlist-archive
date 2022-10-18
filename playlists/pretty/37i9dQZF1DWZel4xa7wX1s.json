@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDE2YWM1ZjhlZGZkOTE1MDNjZDY3YmUyYmU3MmVhY2Y0",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGU1MTZiMzUxZTQ2ZmFmMTE4Y2M5NDM2M2QzZDkxYzEx",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -143,6 +143,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -163,18 +179,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+      "duration_ms": 257546,
+      "name": "Champion Of The World",
+      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -211,22 +227,6 @@
       "duration_ms": 234240,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 257546,
-      "name": "Champion Of The World",
-      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -331,6 +331,38 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Orphans / Arabesque",
+        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Orphans",
+      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Western Stars",
+      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -359,38 +391,6 @@
       "duration_ms": 193373,
       "name": "If She Ever Leaves Me",
       "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Western Stars",
-      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Orphans / Arabesque",
-        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Orphans",
-      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "1975",
-        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 197839,
-      "name": "Until The Hurting Is Gone",
-      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Run Away from It All (Acoustic)",
         "url": "https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 224703,
       "name": "Blind Leading the Blind",
       "url": "https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 197839,
+      "name": "Until The Hurting Is Gone",
+      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -543,6 +543,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Still on My Mind",
+        "url": "https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "The Story We Used To Tell",
         "url": "https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Still on My Mind",
-        "url": "https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn"
+        "name": "My Name Is Michael Holbrook",
+        "url": "https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc"
       },
       "artists": [
         {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM"
+      "duration_ms": 204053,
+      "name": "Sanremo",
+      "url": "https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -623,6 +639,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Tucson Train",
+      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
@@ -663,22 +695,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "My Name Is Michael Holbrook",
-        "url": "https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Sanremo",
-      "url": "https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Blood Red Roses (Deluxe Version)",
         "url": "https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa"
       },
@@ -699,38 +715,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Tucson Train",
-      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Shake The Spirit",
-        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "My Love Goes On (feat. Joss Stone)",
         "url": "https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 216800,
       "name": "My Love Goes On (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Shake The Spirit",
+        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -871,6 +871,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Let's Go Sunshine",
+        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203081,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Chip Tooth Smile",
         "url": "https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 213946,
       "name": "Fuck The Rain",
       "url": "https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Let's Go Sunshine",
-        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 203081,
-      "name": "Four Leaf Clover",
-      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
     },
     {
       "added_at": "2019-11-29 09:37:55",

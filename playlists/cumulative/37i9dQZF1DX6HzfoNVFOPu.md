@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-506 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+507 songs - 1 day 8 hr 56 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Dirty Little Thing](https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 3:56 | 2022-01-05 | 2022-07-29 |
 | [Do Me a Favour](https://open.spotify.com/track/13NCxLOlvQ4Tnexgfp03Gs) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:25 | 2022-01-05 |  |
 | [Do Me a Favour](https://open.spotify.com/track/2BqfIlpahcebJPeu1IUTEo) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:29 | 2022-01-05 | 2022-07-29 |
-| [Do You Call My Name](https://open.spotify.com/track/5w0jXRvylCbWxFrJx2H1Fl) | [Ra](https://open.spotify.com/artist/4qrdhnXBOzRt9OSmL29IFO) | [From One](https://open.spotify.com/album/25UI5uaK9P010LARRVhCgE) | 5:17 | 2022-01-05 |  |
+| [Do You Call My Name](https://open.spotify.com/track/5w0jXRvylCbWxFrJx2H1Fl) | [Ra](https://open.spotify.com/artist/4qrdhnXBOzRt9OSmL29IFO) | [From One](https://open.spotify.com/album/25UI5uaK9P010LARRVhCgE) | 5:17 | 2022-01-05 | 2022-10-18 |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-01-05 |  |
 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 | 2022-01-05 |  |
 | [Don't Forget Me](https://open.spotify.com/track/308kjPoIVBzDNExO54sqAi) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:37 | 2022-01-05 |  |
@@ -401,6 +401,7 @@
 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 | 2022-01-05 | 2022-06-04 |
 | [Song to Say Goodbye](https://open.spotify.com/track/2DO7ywgu9cdNqXf7Cukys9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Meds](https://open.spotify.com/album/7cfTTszDP3KgMjtxhE8Re7) | 3:36 | 2022-01-05 | 2022-10-13 |
 | [Songbird](https://open.spotify.com/track/42fydRlFBEEc5hsU661Zgz) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/1c37li8Ag68JJafZzeEvtA) | 2:07 | 2022-01-05 | 2022-07-28 |
+| [Songbird](https://open.spotify.com/track/2tBxJ43XiwEzhf7Xalc5UG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 2:07 | 2022-01-05 |  |
 | [Sorrow](https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:21 | 2022-01-05 | 2022-07-29 |
 | [Sound Of A Gun](https://open.spotify.com/track/3zFG5dyH5rJfkZ25fgR173) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Revelations](https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt) | 4:20 | 2022-01-05 | 2022-07-29 |
 | [Spaceman](https://open.spotify.com/track/1A8SxnqRK3qabmuN2qxIpa) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:44 | 2022-01-05 |  |

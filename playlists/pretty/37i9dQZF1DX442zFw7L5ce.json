@@ -1,12 +1,12 @@
 {
   "description": "Songs that will remind you of the QUEEN you are, while you get ready to slay the world! \nCover : Pooja Hegde",
-  "num_followers": 25695,
-  "original_name": "GRWM Telugu",
+  "num_followers": 25713,
+  "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczOTM5OCwwMDAwMDAwMDY0ZWZlMDEyOTljNzY3OTIwMzllYWE1YjBjZWI1ZWIz",
+  "snapshot_id": "MTY2NTk4NjI3MywwMDAwMDAwMGRlYWQyNzkyZmFmYzQ2YzFiYzEwNWEzYjM0MWNmNjlj",
   "tracks": [
     {
       "added_at": "2022-10-13 05:39:22",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx"
     },
     {
+      "added_at": "2022-10-17 05:57:53",
+      "album": {
+        "name": "Kalusukovalani",
+        "url": "https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu"
+      },
+      "artists": [
+        {
+          "name": "Sumangali, Kid Sathya",
+          "url": "https://open.spotify.com/artist/0msjNpDNwMgjbKmjbcwGHU"
+        }
+      ],
+      "duration_ms": 286354,
+      "name": "Aakasam",
+      "url": "https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW"
+    },
+    {
       "added_at": "2022-10-13 05:39:22",
       "album": {
         "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
@@ -303,6 +319,26 @@
       "duration_ms": 199500,
       "name": "Kaatuka Kallakettinaave",
       "url": "https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc"
+    },
+    {
+      "added_at": "2022-10-17 05:57:53",
+      "album": {
+        "name": "I - Manoharudu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 283306,
+      "name": "Ladiyo",
+      "url": "https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -737,6 +773,6 @@
       "url": "https://open.spotify.com/track/7sQs1t47PqfKa1L7kOtLko"
     }
   ],
-  "unique_name": "GRWM Telugu",
+  "unique_name": "#GRWM Telugu",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce"
 }

@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Sleeping With Sirens
 
-505 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+506 songs - 1 day 6 hr 34 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,8 @@
 | [Talking To Ourselves](https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:24 | 2021-10-22 | 2022-06-18 |
 | [tear gas](https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL) | 4:17 | 2022-07-29 |  |
 | [Tear It Down](https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/7qpwjm2QJOXh4Rfh844z13) | 3:57 | 2022-07-15 | 2022-07-29 |
-| [Tear It Down](https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI) | 3:57 | 2022-07-22 |  |
+| [Tear It Down](https://open.spotify.com/track/64donJ2nJTgqW711j5YoHl) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:57 | 2022-10-14 |  |
+| [Tear It Down](https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI) | 3:57 | 2022-07-22 | 2022-10-18 |
 | [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-10-01 | 2022-05-07 |
 | [Tell Your Soul \(feat\. Chad Gray\)](https://open.spotify.com/track/53XEmY0WLsH02Ra9tM8Xsy) | [A Killer's Confession](https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM), [Chad Gray](https://open.spotify.com/artist/79pepYbgiKWHefU7TmRYbB) | [Tell Your Soul \(feat\. Chad Gray\)](https://open.spotify.com/album/0KmT3dA6XwzMzHBL3jRXI7) | 4:00 | 2021-08-06 | 2022-03-12 |
 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 | 2022-04-22 | 2022-10-01 |

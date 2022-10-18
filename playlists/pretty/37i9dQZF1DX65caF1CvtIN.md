@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,107 likes - 127 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,198 likes - 127 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 49 | [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 |
 | 50 | [A Faint Qualm for the Future](https://open.spotify.com/track/6Rp5W8wwFK4pKpmT06yNsq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 2:41 |
 | 51 | [As i am will you be](https://open.spotify.com/track/58tFQyiBY6BHf7mHerYEfW) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [As i am will you be](https://open.spotify.com/album/3Vg1bpN6C9kBEmZyYot5u7) | 2:31 |
-| 52 | [Candlelight](https://open.spotify.com/track/2LdHJepGKdvmPPbm0pC6QC) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/2vFW1pn1Arj2jgozPMLdy4) | 2:21 |
+| 52 | [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 |
 | 53 | [Brian's Song](https://open.spotify.com/track/5NT2QCIgDzhHeYG1dI1gIA) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Brian's Song](https://open.spotify.com/album/4SgqN5nEzsvsJrpcQbPGGx) | 3:39 |
 | 54 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 |
 | 55 | [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 126 | [Last Waltz](https://open.spotify.com/track/1LJHL7STYRtnth0VHkANFf) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Last Waltz](https://open.spotify.com/album/3NyiAsTrnAgIWmWyw60mgb) | 2:34 |
 | 127 | [Bastille](https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Bastille](https://open.spotify.com/album/3mIBkkGxrGtbHmCgKvDnDa) | 2:15 |
 
-Snapshot ID: `MTY2NTc0Mjc5MCwwMDAwMDAwMGVhZTU3MzFlZjM4ZDIxZTI1YzA0MjkzNzRjODU1N2Yy`
+Snapshot ID: `MTY2NTc0Mjc5MCwwMDAwMDAwMDg2Mzg3ZGMyNGRjMmY1NDRiOGEzNWIxNDU2ZmI0Y2Fm`

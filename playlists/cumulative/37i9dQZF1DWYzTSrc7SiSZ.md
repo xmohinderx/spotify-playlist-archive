@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-178 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+179 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [MIA](https://open.spotify.com/track/06RHp0B3YfXe6I7Cua2kGe) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [MIA](https://open.spotify.com/album/4IcbcR2swl8YjBzWVqtDyN) | 2:36 | 2022-05-20 |  |
 | [Missed Connection](https://open.spotify.com/track/4J46hSepcjAkwAVJZMBbKM) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Missed Connection](https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ) | 3:51 | 2022-05-20 |  |
 | [Mp3](https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Mp3](https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd) | 3:01 | 2022-05-20 |  |
-| [Muy Muy Chico](https://open.spotify.com/track/2UjxHjT2OQEffK5RsN4DSK) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/5WtH2m7dznijnLcQokkdGh) | 2:12 | 2022-07-11 |  |
+| [Muy Muy Chico](https://open.spotify.com/track/2UjxHjT2OQEffK5RsN4DSK) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/5WtH2m7dznijnLcQokkdGh) | 2:12 | 2022-07-11 | 2022-10-18 |
 | [Muy Muy Chico](https://open.spotify.com/track/4gesrDJeUIRwdbI7gZ5L5y) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Muy Muy Chico](https://open.spotify.com/album/70XdZ1wGz5BYZgVQcxb1TQ) | 2:12 | 2022-05-20 | 2022-07-29 |
 | [My Summer Time](https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summer Time](https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr) | 3:07 | 2022-07-11 |  |
 | [My Summertime](https://open.spotify.com/track/2PEBWGIrWhGDkCmW4F5Lmf) | [Stella Santana](https://open.spotify.com/artist/66IsZY4QSzhD3uf4kXYx0S) | [My Summertime](https://open.spotify.com/album/6E8xuq7EGoActOijjeGrdw) | 3:07 | 2022-05-20 | 2022-07-29 |
@@ -138,6 +138,7 @@
 | [Para Qué Sufrir](https://open.spotify.com/track/2t7rS8BHF5TmnBR5PmnnSU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 3:46 | 2022-05-20 |  |
 | [Para Siempre](https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Para Siempre](https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI) | 4:00 | 2022-05-20 |  |
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2022-05-20 | 2022-10-14 |
+| [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2022-09-06 |  |
 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 | 2022-05-20 |  |
 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2022-05-20 |  |
 | [Phone Sex](https://open.spotify.com/track/0SbwmVySMhXR47pGy9F5BA) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Phone Sex](https://open.spotify.com/album/7uPEOCp4fZcA83suKA39b3) | 3:13 | 2022-05-20 | 2022-06-08 |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Jack Moves
 
-115 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+116 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Drive](https://open.spotify.com/track/4zR1K26LJZ2ZqDOGtCyZRs) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Amity Isle](https://open.spotify.com/artist/2IfaZ7p5Q60P7VRW4dfHzl) | [Drive](https://open.spotify.com/album/3xaGSGkGREQw3MYRgOZGrd) | 3:31 | 2022-05-20 |  |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 | 2021-07-02 |  |
 | [Entangle](https://open.spotify.com/track/5EHNdt9S4GdQqvVUlaqiv8) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Entangle](https://open.spotify.com/album/3FOcCZrrlOwVX52hOa5249) | 3:56 | 2022-09-09 |  |
-| [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 | 2022-03-11 |  |
+| [Faces](https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Cut Velvet](https://open.spotify.com/album/6d1QycrvQbPhpsWv4cBuiU) | 2:21 | 2022-03-11 |  |
+| [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 | 2022-03-11 | 2022-10-18 |
 | [Fall For You](https://open.spotify.com/track/3zfBJlugaINCF6UyRiVg2J) | [David Hansen](https://open.spotify.com/artist/2Wm55svxm4cvVLWwHtZN5E), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Fall For You](https://open.spotify.com/album/2HddKmvwQaapR7OiIOqS8Q) | 2:55 | 2022-06-03 |  |
 | [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 |  |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 |  |

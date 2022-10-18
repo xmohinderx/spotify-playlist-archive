@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-132 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+133 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Tingisha Kidole](https://open.spotify.com/track/0dUO3M0hV0kodob3asRrDp) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 1:52 | 2021-10-15 | 2022-04-29 |
 | [Tonelabira](https://open.spotify.com/track/6rQiDI920PgWZ7xei51JZr) | [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Tonelabira](https://open.spotify.com/album/1PrhVocWFG7cL7hjrezxZ6) | 3:19 | 2021-11-04 | 2022-03-26 |
 | [TREADING WATER](https://open.spotify.com/track/59uf6SH8YAoiylleU4nQWT) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [TREADING WATER](https://open.spotify.com/album/0TQkcyZaYiEoOFzJGoTdlu) | 4:12 | 2021-10-15 |  |
-| [Twisted](https://open.spotify.com/track/3yzGebxFtsxeh0iEAgyyUq) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/45dLgbt1hpbGuUDpwexuTv) | 4:10 | 2022-03-17 |  |
+| [Twisted](https://open.spotify.com/track/3yzGebxFtsxeh0iEAgyyUq) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/45dLgbt1hpbGuUDpwexuTv) | 4:10 | 2022-03-17 | 2022-10-18 |
+| [Twisted](https://open.spotify.com/track/7pjYCOtz5ATpc1OQKSWT1H) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/6bXBekfJuGWf9UFpuS2dXt) | 4:10 | 2022-03-17 |  |
 | [Ulimwengu](https://open.spotify.com/track/64zBPVf9WtiHqdfbDxwB6b) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk), [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Vini Ngugi](https://open.spotify.com/artist/2VzrXzhmSSXZ8c7XFbWhVh) | [Ulimwengu](https://open.spotify.com/album/0pHDjBRfb4L627oXuzgB3e) | 4:06 | 2021-10-29 | 2022-02-25 |
 | [Umenikaa](https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Umenikaa](https://open.spotify.com/album/7v45xHHxfssCfbXswZZp8R) | 3:15 | 2021-10-15 | 2022-06-24 |
 | [Utamu](https://open.spotify.com/track/2EjQMKID7FnvokZw4jsrxL) | [Salma Munde](https://open.spotify.com/artist/7lCJm1afLs1UDUnk1GtriQ) | [Utamu](https://open.spotify.com/album/4e4CGnTY9p4BUKUaNMQO3F) | 3:29 | 2021-10-15 | 2022-06-03 |

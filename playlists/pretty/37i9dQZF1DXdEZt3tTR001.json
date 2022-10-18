@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 80972,
+  "num_followers": 81157,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU0MTM2MiwwMDAwMDAwMDE4YWI2Zjc5OTNmMzM3YTIzYWZmYWM1NWMwMjM2OWFm",
+  "snapshot_id": "MTY2NTU0MTM2MiwwMDAwMDAwMDQ1N2VhMmEzYWYzY2ZjNjdhMjYwMGFiZjNlZmY3ODYy",
   "tracks": [
     {
       "added_at": "2022-10-12 02:22:42",
@@ -47,18 +47,18 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -83,18 +83,18 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "Fortunate",
-        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
         }
       ],
-      "duration_ms": 301160,
-      "name": "Fortunate",
-      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
+      "duration_ms": 220960,
+      "name": "Sending My Love",
+      "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
       },
       "artists": [
         {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Sending My Love",
-      "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "This Woman's Work - Remastered 2021",
-      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "This Woman's Work - Remastered 2021",
+      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
         "name": "Subject",
         "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 249573,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -683,6 +703,22 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Whoa",
+      "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -695,26 +731,6 @@
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
-        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 238965,
-      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -735,22 +751,6 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 199179,
-      "name": "Whoa",
-      "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Read My Mind",
-      "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
         "name": "How Could I Forget You",
         "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 214054,
       "name": "How Could I Forget You",
       "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
     },
     {
       "added_at": "2022-10-12 02:22:42",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-12 02:22:42",
       "album": {
-        "name": "SULA (Paperback)",
-        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
-    },
-    {
-      "added_at": "2022-10-12 02:22:42",
-      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 255880,
       "name": "If",
       "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
+    },
+    {
+      "added_at": "2022-10-12 02:22:42",
+      "album": {
+        "name": "SULA (Paperback)",
+        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
     },
     {
       "added_at": "2022-10-12 02:22:42",

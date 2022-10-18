@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-161 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
+162 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Arriba](https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L) | 2:19 | 2021-12-10 |  |
 | [Atomic](https://open.spotify.com/track/4JLOOh4uSHUv7bp14Gte2i) | [The 83rd](https://open.spotify.com/artist/1FtqY5JirHxqGfhTDJxNBC) | [Atomic](https://open.spotify.com/album/1Qbu3AQwfnrDiabbgYQaPh) | 1:26 | 2022-07-22 | 2022-07-29 |
 | [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 | 2021-12-10 | 2022-10-14 |
+| [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 | 2022-09-30 |  |
 | [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 | 2022-07-08 |  |
 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2021-12-10 |  |
 | [BALTIMORE](https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ) | [THE BLVCK BUTTAFLY](https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb) | [INTO THE COCOON](https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw) | 4:00 | 2021-12-10 |  |
@@ -111,7 +112,7 @@
 | [Pepper Dem](https://open.spotify.com/track/7BsRJ0qPuicpaMBWjfAAnM) | [Magugu](https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL) | [Pepper Dem](https://open.spotify.com/album/3hsSHcXdv3J8QZkWe24xoh) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [Pree Me \(Chris Lorenzo Remix\)](https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pree Me \(Chris Lorenzo Remix\)](https://open.spotify.com/album/3kEURw2yWBiWtOfIWvKQYJ) | 4:40 | 2021-12-10 |  |
 | [Progression](https://open.spotify.com/track/4pnDR3Dbsn19PE7VRbI4ed) | [Twinny Twin](https://open.spotify.com/artist/7w2gMJn1yZ8R7aUvNFbPGF), [Caesar Corleone](https://open.spotify.com/artist/5EH9ReV7qP0a0EG1VLEtSb), [Cardi Ice](https://open.spotify.com/artist/0XBwyY2qsWPdNihked3RAD) | [Progression](https://open.spotify.com/album/66GgLiC3TRHQrXKj6suhq2) | 3:43 | 2021-12-10 | 2022-07-29 |
-| [Push](https://open.spotify.com/track/4SQ2tsNTbiAhK1Xvg9M3mQ) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Take](https://open.spotify.com/album/0bDvU6KgZNEI4BpajPzfgS) | 2:40 | 2022-04-01 |  |
+| [Push](https://open.spotify.com/track/4SQ2tsNTbiAhK1Xvg9M3mQ) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Take](https://open.spotify.com/album/0bDvU6KgZNEI4BpajPzfgS) | 2:40 | 2022-04-01 | 2022-10-18 |
 | [Que Tu Quiere](https://open.spotify.com/track/51TZ1XRQSKX4EYlgEWrQ4d) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Que Tu Quiere](https://open.spotify.com/album/6WG0ITJtGEcnyqRMW2XQgb) | 3:00 | 2021-12-10 | 2022-06-11 |
 | [Razzclart](https://open.spotify.com/track/1EyibibCLQgHcGDYbCmCPx) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Razzler Man](https://open.spotify.com/artist/67zKupu2re2sdiPMz5HtOu) | [Razzclart](https://open.spotify.com/album/7pb4GNvMnFSZiop8nebPqo) | 2:54 | 2021-12-10 | 2022-01-15 |
 | [RDT \- Detroit In Effect Remix](https://open.spotify.com/track/5Tel96YhCtK8jdNb3S92hO) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [Detroit In Effect](https://open.spotify.com/artist/4eS7SDEGahGi0jQjrAC7gJ) | [RDT \(Detroit In Effect Remix\)](https://open.spotify.com/album/2vSI18uHpVU7cnep6ioDv4) | 2:53 | 2022-01-28 |  |

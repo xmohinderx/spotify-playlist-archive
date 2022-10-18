@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-624 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+625 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,8 @@
 | [Overseas](https://open.spotify.com/track/4c8w1nIzzbNiWtnlhsiNyS) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Overseas](https://open.spotify.com/album/61vVdu7kFrzSNXSo1swX5W) | 2:21 | 2022-07-21 | 2022-08-19 |
 | [Oy](https://open.spotify.com/track/5mzIExDN53eOEAWMhWkcTv) | [Dennis Doff](https://open.spotify.com/artist/0xz4qcJAttwdoIDkWrzuqm) | [Oy](https://open.spotify.com/album/782uUd9vNisWKnbXIfiIK7) | 2:51 | 2022-06-17 | 2022-07-08 |
 | [Pa](https://open.spotify.com/track/2XwjPhT5TWQopTEhupQjjk) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Ca Va/Pa](https://open.spotify.com/album/0YqOBA39Otp1yUfrTqGRPo) | 2:46 | 2022-06-17 | 2022-08-19 |
-| [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 | 2022-10-13 |  |
+| [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 | 2022-10-13 | 2022-10-18 |
+| [Paid](https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:16 | 2022-10-13 |  |
 | [PAIN BABY](https://open.spotify.com/track/2VneLFgPiLNPVlFZMqiY5Z) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:58 | 2022-05-05 | 2022-05-13 |
 | [PAKET](https://open.spotify.com/track/7LtgVT3e9MfQo5AWnakby2) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:58 | 2022-06-09 | 2022-09-09 |
 | [Paljetter](https://open.spotify.com/track/1mhKQx5uP7LIzJC6kx5AEj) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2), [Nader](https://open.spotify.com/artist/7l1XppnaWcSLWRWPCJosTh) | [Paljetter](https://open.spotify.com/album/1zYzcpxhsnQM7GujflCr7v) | 3:03 | 2022-05-26 | 2022-06-10 |

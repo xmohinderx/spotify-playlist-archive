@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 163322,
+  "num_followers": 163584,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE1MjExNywwMDAwMDAwMDlkYTFhNjdjOTIxNTcxYjE0YzlkMDYzMWY0Y2FhNTBj",
+  "snapshot_id": "MTY1NDE1MjExNywwMDAwMDAwMDBlOGFlNGM3NTk2OWRiNTQ1MTQxYTU5OTcwZTgzNjI5",
   "tracks": [
     {
       "added_at": "2022-05-11 12:45:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Sunshine on Leith",
-        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
-      },
-      "artists": [
-        {
-          "name": "The Proclaimers",
-          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 298120,
       "name": "The Way You Make Me Feel - 2012 Remaster",
       "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
         "name": "The Best Of Bill Medley",
         "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
       "artists": [
         {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -911,38 +927,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Word Up",
         "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Forever Your Girl",
-        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
       },
       "artists": [
         {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
         }
       ],
-      "duration_ms": 251466,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1059,6 +1043,22 @@
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 229200,
       "name": "Tell Her About It",
       "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Close (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "You Came - Single Version",
-      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Popped In Souled Out",
         "url": "https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 224933,
       "name": "Sweet Little Mystery",
       "url": "https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Close (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "You Came - Single Version",
+      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Light Up The Night",
-        "url": "https://open.spotify.com/album/4DN3DenoWmadGEayQw2tDp"
+        "name": "Can't Slow Down (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC"
       },
       "artists": [
         {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 380400,
-      "name": "Stomp!",
-      "url": "https://open.spotify.com/track/6VZdUa8JjaGF2LGsiRG9lC"
+      "duration_ms": 383440,
+      "name": "All Night Long (All Night)",
+      "url": "https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk"
     }
   ],
   "unique_name": "Happy 80s",

@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 229146,
       "name": "Bound 2",
       "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
@@ -2693,6 +2693,24 @@
       "duration_ms": 210372,
       "name": "COZY",
       "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
+    },
+    {
+      "album": {
+        "name": "Cozy Window Rain & Thunder",
+        "url": "https://open.spotify.com/album/5JpbdAIFt4PuCcGAIule1P"
+      },
+      "artists": [
+        {
+          "name": "Sleep Candy Music",
+          "url": "https://open.spotify.com/artist/1kHsvrOyX2P8n8BETScmqc"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31050,
+      "name": "Cozy Rain & Thunder, Pt. 05",
+      "url": "https://open.spotify.com/track/1OtZ14K3gp1SUqZOawm7Nq"
     },
     {
       "album": {
@@ -4003,7 +4021,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 148743,
       "name": "Einn \u00ed Einu (feat. Herra Hnetusmj\u00f6r)",
       "url": "https://open.spotify.com/track/4uG5fKCMgK1IliMHG8pQLl"

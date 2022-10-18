@@ -2,7 +2,7 @@
 
 ### [Crazy In Love](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
-> Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
+> Get ready for Valentine's Day 2023! Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
 
 80 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/6iVBafOtYI08CSsSNlz6Ga)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las mejores canciones de octubre 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,340 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,485 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 9 | [Brother](https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Brother](https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8) | 3:29 |
 | 10 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 |
 | 11 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 |
-| 12 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
-| 13 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
+| 12 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
+| 13 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
 | 14 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 |
 | 15 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 |
 | 16 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 29 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 |
 | 30 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 |
 | 31 | [Bebí Demasiao](https://open.spotify.com/track/64WN6oINxJli6h2jgYZC3W) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bebí Demasiao](https://open.spotify.com/album/3fl6dtfDdk1mbJ2ItlxHAM) | 4:14 |
-| 32 | [Nazareno \- Remix](https://open.spotify.com/track/0RE6QKlznWDuPzG5n0MOMS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nazareno \(Remix\)](https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk) | 4:59 |
-| 33 | [La Pelikula \- Remix](https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Pelikula \(Remix\)](https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX) | 4:13 |
+| 32 | [La Pelikula \- Remix](https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Pelikula \(Remix\)](https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX) | 4:13 |
+| 33 | [Nazareno \- Remix](https://open.spotify.com/track/0RE6QKlznWDuPzG5n0MOMS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nazareno \(Remix\)](https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk) | 4:59 |
 | 34 | [Sigo Feliz](https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sigo Feliz](https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ) | 3:40 |
 | 35 | [Distancia](https://open.spotify.com/track/078SF4DC2Jf6qalzlFIi2J) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Distancia](https://open.spotify.com/album/2gqjUsHgffcCdtkAy44PWE) | 2:43 |
 | 36 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 |
 | 50 | [Real](https://open.spotify.com/track/6o1lbf1Y5zdZfhhdloOgKZ) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Real](https://open.spotify.com/album/3Q7g2iBYVBDOghZcNOuVK0) | 3:58 |
 
-Snapshot ID: `MTY2NTY5NTAxOSwwMDAwMDAwMDZmYTcwZmQ5MzFlZDZjZmFkZWU3OGM1MDIzNDM2NDJh`
+Snapshot ID: `MTY2NTY5NTAxOSwwMDAwMDAwMDgyMzQ4ZmZlZDViYmEzM2VkZWM1M2E1NmFkNDFiOTc1`

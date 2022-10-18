@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-274 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+275 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [The Frog's Ritual](https://open.spotify.com/track/6WHfx1QdlgzjM5vYs4Ty2K) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [The Frog's Ritual](https://open.spotify.com/album/6BWc7WW6Bh6CIqkP46GB1I) | 5:37 | 2022-04-12 |  |
 | [The Ride](https://open.spotify.com/track/7KoGkvRdCQIqrsSIOQh4bW) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Time Like the Past](https://open.spotify.com/album/5T9BbHP1jDElSucgqllAg4) | 4:38 | 2022-04-12 |  |
 | [The Sky and What Is Under It](https://open.spotify.com/track/3NxK9CxOfeBxgr1DIVAzOv) | [Brookii](https://open.spotify.com/artist/52qnChybMeZVRp2wkEkJEx) | [Yellow Canary](https://open.spotify.com/album/4gotqRZ4J2wD9AZDyrGQOr) | 4:05 | 2022-04-12 |  |
-| [Those Days](https://open.spotify.com/track/2CylUcZGI81nhek3kJQkJ3) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Tramuntana](https://open.spotify.com/album/3NeynrdysMtEJoSn0ESyYE) | 5:20 | 2022-04-12 |  |
+| [Those Days](https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Tramuntana](https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg) | 5:20 | 2022-09-09 |  |
+| [Those Days](https://open.spotify.com/track/2CylUcZGI81nhek3kJQkJ3) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Tramuntana](https://open.spotify.com/album/3NeynrdysMtEJoSn0ESyYE) | 5:20 | 2022-04-12 | 2022-10-18 |
 | [Tonic Water](https://open.spotify.com/track/4d0MeoXyKZdR5e7BZFwGiw) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Naboo](https://open.spotify.com/album/28XPag6s9QyvMrL3RQPYrj) | 3:36 | 2022-04-12 |  |
 | [Tonic Water](https://open.spotify.com/track/5Ag5Dg9gWQTBVQGjJyXt2l) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Naboo](https://open.spotify.com/album/0HRC655r9OBrB0lxx6cYRp) | 3:36 | 2022-04-12 | 2022-07-29 |
 | [Travellers](https://open.spotify.com/track/1bJIEtBbAA5RKl6vo6v0es) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:20 | 2022-04-12 |  |

@@ -4,11 +4,12 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-119 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
+120 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/17jqKs9HnwrpFMEyVzns1G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afrotrip](https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1) | [Frikstailers](https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH) | [Afrotrip](https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug) | 4:35 | 2022-05-06 |  |
+| [Afrotrip](https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1) | [Frikstailers](https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH) | [Afrotrip](https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug) | 4:35 | 2022-05-06 | 2022-10-18 |
+| [Alucinao](https://open.spotify.com/track/37cNWcjPG6hXI94CsZOHje) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1), [Estado Unido](https://open.spotify.com/artist/7LQMfqw2JZQhybBOrH1KtS), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Illusions of Shameless Abundance](https://open.spotify.com/album/5P1yIYyaRLTcdo3TPRzT5H) | 9:06 | 2022-08-18 |  |
 | [Alucinao](https://open.spotify.com/track/6bkbxLo2NwGu7jP5quwsMq) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1), [Estado Unido](https://open.spotify.com/artist/7DZfK2JuwyUwWEP95P35Gw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Illusions of Shameless Abundance](https://open.spotify.com/album/7xULtQ7JrUi2t7fD2sn0B0) | 9:06 | 2022-05-06 | 2022-10-14 |
 | [Ananda](https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Ananda](https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb) | 4:12 | 2022-05-06 |  |
 | [Angola](https://open.spotify.com/track/6GADuyHl7UoqEYRfbR10i7) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3) | [Angola EP](https://open.spotify.com/album/3jpEyOvKkXy7EJz7FB0TcE) | 7:40 | 2022-05-06 | 2022-07-27 |

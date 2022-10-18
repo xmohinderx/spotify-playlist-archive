@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-528 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+529 songs - 1 day 2 hr 50 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [NERDESİN](https://open.spotify.com/track/3YHvDD4kOmU0aNyq9QH5tW) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [NERDESİN](https://open.spotify.com/album/0fE1B7BGyBGXQsKUKXmlcV) | 3:45 | 2021-04-26 | 2021-05-10 |
 | [Neyse Ne](https://open.spotify.com/track/1sLJtaMAbXGdvHDiPjg0eq) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Neyse Ne](https://open.spotify.com/album/395nlaZJns6xnreX5HdExs) | 2:56 | 2021-04-04 | 2021-04-11 |
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-06-06 |  |
-| [O \- CHORBA](https://open.spotify.com/track/0vhDm5t8sVsqPh9JOKTvaQ) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:57 | 2022-10-15 |  |
+| [O \- CHORBA](https://open.spotify.com/track/0vhDm5t8sVsqPh9JOKTvaQ) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:57 | 2022-10-15 | 2022-10-18 |
 | [O LA LA](https://open.spotify.com/track/1qi3oAU3QDe3dPdGEY09dr) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [O LA LA](https://open.spotify.com/album/0uBZmFQB35RUrwevBBc9dM) | 3:35 | 2021-10-10 | 2021-10-17 |
 | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/track/6XxDxfDeSl1IPlt1h77ZlY) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [OHA Remix \(feat\. Luciano\)](https://open.spotify.com/album/4Bf4YbkcmXRxMlELeoJVzz) | 3:15 | 2021-09-14 | 2021-10-04 |
 | [OKYANUS](https://open.spotify.com/track/3MVFApkSoJ2v3q86f0FYlQ) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [OKYANUS](https://open.spotify.com/album/42dc5NUDn98uL08HK6ig9E) | 2:58 | 2022-02-19 | 2022-02-25 |
@@ -423,6 +423,7 @@
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-10 |
 | [Sakatat](https://open.spotify.com/track/1r56JjG9mRobTXWfb7UGvO) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Sakatat](https://open.spotify.com/album/775yVS4bLXoaJj1TiaxD66) | 2:36 | 2021-04-04 | 2021-07-05 |
 | [SAKIN OLA](https://open.spotify.com/track/1pDtgy08kaciI0c9z52Udt) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [SAKIN OLA](https://open.spotify.com/album/2CHcRXtH2WK6TcPHpoaP1G) | 2:47 | 2021-10-24 | 2021-11-14 |
+| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 |  |
 | [SALAH](https://open.spotify.com/track/1hoI5KrTn5aEyBZJnVwdr0) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SALAH](https://open.spotify.com/album/69JpxQN95CyG5gX6zdN2PE) | 2:01 | 2021-10-03 | 2021-10-04 |
 | [Salam Alaykum](https://open.spotify.com/track/69YWQXUtlAlir0zRcFrPyr) | [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25), [RECO](https://open.spotify.com/artist/6W9GklXF52RYMTtbPbty7q) | [Salam Alaykum](https://open.spotify.com/album/2cp6COEaiPoaNQzDmQNzLO) | 2:36 | 2021-04-26 | 2021-06-14 |
 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 | 2021-03-27\* | 2021-05-23 |

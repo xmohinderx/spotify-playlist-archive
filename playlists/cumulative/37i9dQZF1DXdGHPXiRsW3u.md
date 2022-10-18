@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2000s\. Cover: Rihanna.
 
-271 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/6WzeCAKfLBdNdOPGxWapt7)
+272 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/6WzeCAKfLBdNdOPGxWapt7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Collide](https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All The World Now](https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn) | 4:09 | 2022-05-30 |  |
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2021-11-18 | 2022-07-29 |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-05-30 |  |
-| [Come Undone](https://open.spotify.com/track/6mZCiuIXcA12syIS23Dyxa) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:38 | 2021-11-18 |  |
+| [Come Undone](https://open.spotify.com/track/6mZCiuIXcA12syIS23Dyxa) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:38 | 2021-11-18 | 2022-10-18 |
 | [Could I Have This Kiss Forever \(with Enrique Iglesias\) \- Metro Mix/Remastered: 2000](https://open.spotify.com/track/3BCqG9GBF7GjJQHwJvlqSv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 3:55 | 2021-11-18 | 2022-07-28 |
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2021-11-18 |  |
 | [Cry Me Out](https://open.spotify.com/track/0ksRBx9UdAOdG7LcMmmxkk) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 4:04 | 2021-11-18 | 2022-07-29 |
@@ -81,6 +81,7 @@
 | [Eternal Flame \- Single Version](https://open.spotify.com/track/3qzcM6SmbzBnGXSJe6hYdy) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:15 | 2021-11-18 |  |
 | [Eternity](https://open.spotify.com/track/7zw9OxtVotLfxlfavSADXQ) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Eternity/The Road To Mandalay](https://open.spotify.com/album/0ZQsKRAgVec6TBwMdOfPOK) | 5:02 | 2021-11-18 | 2022-07-28 |
 | [Evergreen](https://open.spotify.com/track/3Zg1941PbcmsxLmSaVJ3OZ) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/6cX5XwYMwa4AoYC6Eyy25j) | 4:13 | 2021-11-18 | 2022-07-29 |
+| [Everlasting Love](https://open.spotify.com/track/1pLz77YOqjrSmOpNIQcQyO) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 | 2022-05-30 |  |
 | [Everlasting Love](https://open.spotify.com/track/4kj5VvOJiOPoIBWCSzqDzj) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B) | 3:21 | 2021-11-18 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 | 2021-11-18 |  |
 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 | 2021-11-18 |  |

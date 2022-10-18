@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Britney Spears x Elton John",
-  "num_followers": 3332340,
+  "num_followers": 3332580,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDA3NjZkMzhkMGRkMDA1MWYxMGZmMWQzZTQ2ZDQwMTVk",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGY3OWYwNTAyZTdiNjYzMWIyMDAxNGUzMjlhZTZiYTBm",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -519,6 +519,30 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "I'm Good (Blue) [Remixes]",
+        "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
@@ -579,26 +603,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I'm Good (Blue) [Remixes]",
-        "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
+        "name": "My Feelings For You (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 178124,
-      "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
+      "duration_ms": 205714,
+      "name": "My Feelings For You - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -627,30 +651,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "My Feelings For You (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "My Feelings For You - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -667,6 +667,30 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -759,30 +783,6 @@
       "duration_ms": 143000,
       "name": "Sweetest Pie - David Guetta Dance Remix",
       "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Good Ones (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 165141,
+      "name": "Good Ones - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Good Ones (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 165141,
-      "name": "Good Ones - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Out Of Time (Remix Bundle)",
-        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Out of Time - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Drop A Bomb (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 151475,
       "name": "Drop A Bomb - R3HAB Remix",
       "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Out Of Time (Remix Bundle)",
+        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Out of Time - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Nieve (Remixes)",
+        "url": "https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 323080,
+      "name": "Nieve - Good Times Ahead Remix",
+      "url": "https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Attention (with Justin Bieber) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 256644,
       "name": "Attention (with Justin Bieber) - Disclosure Remix",
       "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Nieve (Remixes)",
-        "url": "https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 323080,
-      "name": "Nieve - Good Times Ahead Remix",
-      "url": "https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Grand (TroyBoi Remix)",
+        "url": "https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Grand - TroyBoi Remix",
+      "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "I Got A Feeling (James Hype Remix)",
         "url": "https://open.spotify.com/album/7uegIm3LnOTWk7QGgs9qiC"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 161257,
       "name": "I Got A Feeling - James Hype Remix",
       "url": "https://open.spotify.com/track/4SYbdrmyDpCvWkoC4skk5z"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Grand (TroyBoi Remix)",
-        "url": "https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Grand - TroyBoi Remix",
-      "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "So Good (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 189143,
-      "name": "So Good - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Freaky Deaky (R3HAB Remix)",
         "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 140059,
       "name": "Freaky Deaky - R3HAB Remix",
       "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "So Good (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 189143,
+      "name": "So Good - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Hot In It (Riton Remix)",
         "url": "https://open.spotify.com/album/1UPYb9AJxXfJuPl8cDsPuO"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 153600,
       "name": "Hate Me - The Him Remix",
       "url": "https://open.spotify.com/track/51m8154fLfxtL9Fhlb40ZQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Million Dollar Baby (David Penn Remix)",
+        "url": "https://open.spotify.com/album/2aYoyZcFc7Dqp0btHC7nem"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Million Dollar Baby - David Penn Remix",
+      "url": "https://open.spotify.com/track/6ZZzcoEEfOgN7mFuVSDqjR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Follow Me (Sick Individuals Remix)",
         "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
       },
@@ -2215,26 +2235,6 @@
       "duration_ms": 219653,
       "name": "I Still Believe - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Clarity (Chris Malinchak Mix)",
-        "url": "https://open.spotify.com/album/5heZ44v5LJyE8xBe4BBir9"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        },
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 230395,
-      "name": "Clarity - Chris Malinchak Mix",
-      "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
     }
   ],
   "unique_name": "Pop Remix",

@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Piso 21
 
-2,515 songs - 5 day 13 hr 15 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,516 songs - 5 day 13 hr 18 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 | 2022-09-30 | 2022-10-08 |
 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 | 2022-08-26 | 2022-09-03 |
 | [Ahora No](https://open.spotify.com/track/4uYn23SGFkGw8XVZvqodju) | [COLOR](https://open.spotify.com/artist/0Cgas3vfskrETY9NgmrwHk) | [Club Rosa](https://open.spotify.com/album/5E12QTbwCRnudnJ1LTKLud) | 2:48 | 2021-12-24 | 2022-01-08 |
+| [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2022-10-14 |  |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/4aWuoE57P5KteX0L57OrJs) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Ahora Te Puedes Marchar](https://open.spotify.com/album/6Zyd6ygLsqstLeSZm5HeOW) | 2:30 | 2022-08-26 | 2022-09-03 |
 | [Ain't Loyal](https://open.spotify.com/track/4VEw8rQd6cf21tRR8b8xSO) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Medusa](https://open.spotify.com/album/5uAbArq49FcSJ2MYILUHzE) | 2:34 | 2022-07-15 | 2022-07-23 |
 | [AIRE \(RESPIRA\)](https://open.spotify.com/track/1G3v1LR4jjvkENdtmqUAFF) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [EL SONERO MENOR](https://open.spotify.com/album/4j0K4tqaeHCZGlrH0XYYuC) | 4:05 | 2022-07-01 | 2022-07-09 |

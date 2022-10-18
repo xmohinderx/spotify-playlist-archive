@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jose Manuel en portada. ",
-  "num_followers": 702531,
+  "num_followers": 702600,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDI1NmVjMGFhYWJhZTM5N2E4NmEwYjhlMGVkZTBiYzJj",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGExMTc4OGRiMDZjNWQ3ODNiYjhiMTEwNmMzM2UwYmM5",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -483,38 +499,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Como Jordan",
-      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Perro Abandonado",
-        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 211198,
-      "name": "Perro Abandonado",
-      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Perro Abandonado",
+        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 211198,
+      "name": "Perro Abandonado",
+      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 174262,
       "name": "Si Una Vez - En Vivo",
       "url": "https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1091,6 +1091,38 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "El Plumas (En Vivo)",
+        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 210617,
+      "name": "El Plumas - En Vivo",
+      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Qui\u00e9n Se Apunta",
         "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
       },
@@ -1111,22 +1143,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "A 180",
         "url": "https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 181600,
       "name": "A 180",
       "url": "https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "El Plumas (En Vivo)",
-        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 210617,
-      "name": "El Plumas - En Vivo",
-      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Era El \u00danico",
-        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 130375,
-      "name": "Era El \u00danico",
-      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Era El \u00danico",
+        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 130375,
+      "name": "Era El \u00danico",
+      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "No Falta Mas Tiempo",
-        "url": "https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "No Falta Mas Tiempo",
-      "url": "https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "El JR 01",
         "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 242785,
       "name": "El JR 01",
       "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "No Falta Mas Tiempo",
+        "url": "https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "No Falta Mas Tiempo",
+      "url": "https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Vida Prestada",
         "url": "https://open.spotify.com/album/67XIm7lVT0ZvCxs7YuJYun"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 224906,
       "name": "Lo Que Tengo",
       "url": "https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
       "added_at": "2022-09-23 04:00:00",

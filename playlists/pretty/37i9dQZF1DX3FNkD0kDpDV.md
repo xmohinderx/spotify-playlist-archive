@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,328 likes - 110 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,857 likes - 110 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 104 | [Sudan Sedan](https://open.spotify.com/track/5MlAlOLQUgpRqBNGq2Mr3S) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Covert Operation](https://open.spotify.com/album/69ctA25khzxjNHeKfOjOGX) | 5:28 |
 | 105 | [Body Needs Bass](https://open.spotify.com/track/2xpuJc6B2C1g6MZKecfeRG) | [Sina XX](https://open.spotify.com/artist/60perU8GxsiR4Rup8KT9XU), [Cassie Raptor](https://open.spotify.com/artist/5RhKSsVT9kzargJUXmSErq) | [Body to Body](https://open.spotify.com/album/5Zpx1tAFxeCp9QsOO3v39m) | 5:18 |
 | 106 | [It's You \- San Soda's Panorama Bar Acca Version](https://open.spotify.com/track/4J8SM5PgBnC38kdSbphlfA) | [FCL](https://open.spotify.com/artist/5P1m0YM0AYTKGI5ugWfQwe), [San Soda](https://open.spotify.com/artist/2ZA2y23qlBaOIKOrZa2umN) | [Defected Ibiza 2019](https://open.spotify.com/album/6Y02jJPn93YunFpYUz83gj) | 6:21 |
-| 107 | [Fairytales](https://open.spotify.com/track/03wqCaAfQ5Al8SJ9rXkYCJ) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Steve Allen](https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ) | [From Then On](https://open.spotify.com/album/2DQQv0iTz13XcxArfuRGXy) | 6:15 |
+| 107 | [Hawkins Square \- Album Mix](https://open.spotify.com/track/4NtePyHmlop2oLbkGg3JGb) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW) | [Hawkins Square](https://open.spotify.com/album/3a2Uts1G3676VJ0RGF6ao3) | 4:17 |
 | 108 | [Elevation](https://open.spotify.com/track/7oTWavsNy59uOlo6u5BNXl) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [Elevation](https://open.spotify.com/album/4gRXBGeWwpNKcWx11d1wyS) | 7:07 |
 | 109 | [Kinda Strange](https://open.spotify.com/track/414JWnAfPyxZdg8A9nYf7j) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic) | [No Toning Down](https://open.spotify.com/album/2zksMS4U1ZevTXIQSFbqoC) | 4:12 |
 | 110 | [Ritmo](https://open.spotify.com/track/3pyGKMZ1OZCOTx8KyZnyiE) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [Ritmo](https://open.spotify.com/album/0S7uSiWLCeOVYgAVDFGzvO) | 4:15 |
 
-Snapshot ID: `MTY2NTcwNTYwMCwwMDAwMDAwMDJlNTc1OWQ5MjU4MmUzOGQzOGQ3N2JmMjAwZTk4YzYw`
+Snapshot ID: `MTY2NjAxNjU4OCwwMDAwMDAwMGU2MTQ2MjVjY2E1MmUxZTJhNTRiMjcwYWNmN2ZiMTkx`

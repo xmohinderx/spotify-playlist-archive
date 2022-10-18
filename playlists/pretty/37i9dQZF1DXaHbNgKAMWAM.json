@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7488,
+  "num_followers": 7533,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDUzN2Y3NTJiYjQ4NmY0ZDI1ODMxOTEyMzhiNzNkNzA4",
+  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDQ1MzY5NDYzNGRiNmU5OTRmNzEwZGE2MWM4MTBkMjc0",
   "tracks": [
     {
       "added_at": "2022-10-05 05:53:59",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -361,24 +361,20 @@
       "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
     },
     {
-      "added_at": "2022-10-05 05:53:59",
+      "added_at": "2022-10-18 01:54:23",
       "album": {
-        "name": "Evening",
-        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
       },
       "artists": [
         {
           "name": "YUJU",
           "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Evening (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -493,22 +489,6 @@
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
-      "added_at": "2022-10-17 02:04:01",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
       "added_at": "2022-10-05 05:53:59",
       "album": {
         "name": "For You",
@@ -523,6 +503,26 @@
       "duration_ms": 184066,
       "name": "For You",
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Evening (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
     },
     {
+      "added_at": "2022-10-18 01:54:23",
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
+    },
+    {
       "added_at": "2022-10-05 05:53:59",
       "album": {
         "name": "The 3rd Digital Single `Amazing You'",
@@ -779,22 +795,6 @@
       "duration_ms": 214560,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
-    },
-    {
-      "added_at": "2022-10-17 02:04:01",
-      "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Tell Me You Love Me",
-      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     },
     {
-      "added_at": "2022-10-17 02:04:01",
+      "added_at": "2022-10-18 01:54:23",
       "album": {
         "name": "Some Day in the 21century",
         "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 196576,
-      "name": "Real LOVE",
-      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Real LOVE",
+      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
     },
     {
       "added_at": "2022-10-05 05:53:59",

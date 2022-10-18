@@ -4,7 +4,7 @@
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-97 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
+98 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Scrappy](https://open.spotify.com/track/6BfGVU213AQzBv39g2IzOU) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:35 | 2020-09-01 |  |
 | [See You There](https://open.spotify.com/track/05ZL7014sMgCT8M4D05TDa) | [TiDUS](https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj) | [See You There](https://open.spotify.com/album/2MlBeY3XdDK17lj7mJWfzU) | 4:32 | 2020-09-01 |  |
 | [Shesha](https://open.spotify.com/track/5TFJIUlWmQfJZCWVUcBX00) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Shesha](https://open.spotify.com/album/6nkasAeJIl2VSGNQvoMQf5) | 6:43 | 2020-09-01 |  |
-| [Sirens' Song](https://open.spotify.com/track/3IY27fcK9K2WrYjczdILdb) | [Elizabeth Maconchy](https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn), [The Ionian Singers](https://open.spotify.com/artist/62huOMu7A2I2r7rl5FkMno) | [20th Century British Choral Music](https://open.spotify.com/album/3KUV9MQ30VsocUmMgef85e) | 4:34 | 2020-09-01 |  |
+| [Sirens' Song](https://open.spotify.com/track/2BLaXRuwTwMN4mT4Dn4jDw) | [Elizabeth Maconchy](https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn), [The Ionian Singers](https://open.spotify.com/artist/62huOMu7A2I2r7rl5FkMno) | [20th Century British Choral Music](https://open.spotify.com/album/1lHTzkILsaV2tx7pSuphXv) | 4:34 | 2020-09-01 |  |
+| [Sirens' Song](https://open.spotify.com/track/3IY27fcK9K2WrYjczdILdb) | [Elizabeth Maconchy](https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn), [The Ionian Singers](https://open.spotify.com/artist/62huOMu7A2I2r7rl5FkMno) | [20th Century British Choral Music](https://open.spotify.com/album/3KUV9MQ30VsocUmMgef85e) | 4:34 | 2020-09-01 | 2022-10-18 |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2020-09-01 |  |
 | [Square 1](https://open.spotify.com/track/0ea9086ldqbhDObsvpmUqF) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Square 1](https://open.spotify.com/album/3ktedcz4DO9wfB2Kb4xReb) | 3:33 | 2020-09-01 |  |
 | [Stand on the Word \(1982 Version\)](https://open.spotify.com/track/6TOhXLevQUI4fjrxLL1nJE) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 4:46 | 2020-09-01 |  |

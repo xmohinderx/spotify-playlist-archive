@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-295 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
+296 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Control](https://open.spotify.com/track/1b0eXIKJQmx2G7NOMqrITI) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:50 | 2022-08-19 |  |
 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-07-21 |  |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-07-29 |  |
-| [Cycles](https://open.spotify.com/track/040mp23DaszF0qOITsidKN) | [ANNALIA](https://open.spotify.com/artist/3HqtySTAiAcvSU847Itcdt) | [Cycles](https://open.spotify.com/album/4YcPIXN0EoAToSkGIdNf0r) | 3:16 | 2022-08-26 |  |
+| [Cycles](https://open.spotify.com/track/040mp23DaszF0qOITsidKN) | [ANNALIA](https://open.spotify.com/artist/3HqtySTAiAcvSU847Itcdt) | [Cycles](https://open.spotify.com/album/4YcPIXN0EoAToSkGIdNf0r) | 3:16 | 2022-08-26 | 2022-10-18 |
+| [Cycles](https://open.spotify.com/track/20u73uhB794MKCNzyiU6Z7) | [ANNALIA](https://open.spotify.com/artist/3HqtySTAiAcvSU847Itcdt) | [Cycles](https://open.spotify.com/album/04lOZJwWbxJyyAg6k3h5Jy) | 3:16 | 2022-08-26 |  |
 | [Dancing My Way](https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:04 | 2022-08-12 |  |
 | [Dangerous \(feat\. Joywave\) \- Oliver Remix](https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [1.6 \(feat\. Joywave\)](https://open.spotify.com/album/4Sl5PqIX7DpX39AiCNnYQh) | 4:37 | 2022-07-29 |  |
 | [Dark Horse](https://open.spotify.com/track/1i5PW20LSYwCQMjVQgSXVM) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 2](https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh) | 3:41 | 2022-08-19 |  |

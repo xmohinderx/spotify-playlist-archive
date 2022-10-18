@@ -4,7 +4,7 @@
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-131 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4NfEC9yeEsrC4krXTum2UL)
+132 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/4NfEC9yeEsrC4krXTum2UL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [All I Want](https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 1:54 | 2021-10-05 |  |
 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 | 2021-10-05 |  |
 | [All My Fault](https://open.spotify.com/track/0ddf9avsMIU4KrKDWB9SRv) | [Fenix TX](https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr) | [Fenix TX](https://open.spotify.com/album/1mAITc0ctsvRM76qU90upG) | 2:49 | 2021-10-05 | 2022-07-23 |
-| [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 | 2021-10-05 |  |
+| [All My Fault](https://open.spotify.com/track/1kCPDGC5udhyCpSWbH0ADA) | [Fenix TX](https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr) | [Fenix TX](https://open.spotify.com/album/1glHjh1fij5KIEKFVkJeu2) | 2:49 | 2022-08-31 |  |
+| [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 | 2021-10-05 | 2022-10-18 |
 | [All My Friends Are Dead](https://open.spotify.com/track/6iDnezR8vmo7aF7k2BsMzD) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/7tn2kS6On7umvcGfwSghDu) | 2:38 | 2021-10-05 | 2022-07-28 |
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2021-10-05 |  |
 | [American Jesus](https://open.spotify.com/track/1sBxH9ZMMQ1dYlW3Ol18ae) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/3APHH6N4kDdP2T8bbrE5qo) | 3:17 | 2021-10-05 | 2022-07-29 |

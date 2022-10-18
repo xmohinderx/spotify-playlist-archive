@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 378495,
+  "num_followers": 378862,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMDRkYmU0YjYwYWQyMDgzODZiYzlmY2I3NzU0NThmMjgw",
+  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMDEyZGIxNWFhOTBhZWRkZDk2ODkwNGJkZDhiMDM3YmU3",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 255067,
       "name": "What Once Was",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "we fell in love in october / forget her",
-        "url": "https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu"
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
         }
       ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg"
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "say goodbye",
-        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 86749,
-      "name": "say goodbye",
-      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "say goodbye",
+        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 86749,
+      "name": "say goodbye",
+      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Pink Songs",
-        "url": "https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Dance In Room Song",
-      "url": "https://open.spotify.com/track/52sDdbKEy6OQbv36sU2lSD"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Spiral Stairs",
         "url": "https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 146026,
       "name": "Spiral Stairs",
       "url": "https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Pink Songs",
+        "url": "https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "Dance In Room Song",
+      "url": "https://open.spotify.com/track/52sDdbKEy6OQbv36sU2lSD"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "It's All In Your Head",
         "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 131618,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Blue Suicide",
         "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "I Want To Be With You",
         "url": "https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 132323,
       "name": "OH GOD",
       "url": "https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127085,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127085,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1175,34 +1191,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
       "artists": [
         {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 180295,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1223,34 +1223,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+      "duration_ms": 180295,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1267,6 +1251,22 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Body Jumper",
-        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 118521,
-      "name": "Blue Sheen",
-      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i wish things were different",
-        "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
-      },
-      "artists": [
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
-        }
-      ],
-      "duration_ms": 122925,
-      "name": "upside down",
-      "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Ways To Get Out",
         "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "i wish things were different",
+        "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 122925,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Dreams of Losing Teeth",
         "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 202818,
       "name": "Dreams of Losing Teeth",
       "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Arp-87",
-        "url": "https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa"
-      },
-      "artists": [
-        {
-          "name": "bloody/bath",
-          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
-        }
-      ],
-      "duration_ms": 169728,
-      "name": "Arp-87",
-      "url": "https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1543,6 +1527,22 @@
       "duration_ms": 187988,
       "name": "wish i could see you again",
       "url": "https://open.spotify.com/track/1eFjWN9bIGAtF7bMEU4eUU"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Arp-87",
+        "url": "https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa"
+      },
+      "artists": [
+        {
+          "name": "bloody/bath",
+          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
+        }
+      ],
+      "duration_ms": 169728,
+      "name": "Arp-87",
+      "url": "https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1"
     },
     {
       "added_at": "2022-09-13 23:04:24",

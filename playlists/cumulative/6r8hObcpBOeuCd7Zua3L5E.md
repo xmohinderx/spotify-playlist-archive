@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
 
-114 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
+115 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [I Wish](https://open.spotify.com/track/1EvAHe0K76OnxYCWS5xzYg) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [R&B Classics Collection](https://open.spotify.com/album/2ZZiI4Jg5SYg7suQwGSv4z) | 4:05 | 2020-03-31 | 2022-07-19 |
 | [I'm Legit](https://open.spotify.com/track/11a6GzsfPoLY1bVw3IFeMs) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Pink Friday: Roman Reloaded The Re\-Up](https://open.spotify.com/album/78XjkzI0J1YpzKUPgzWbat) | 3:18 | 2020-03-31 | 2022-07-19 |
 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 | 2022-09-09 |  |
-| [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 | 2022-07-18 |  |
+| [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 | 2022-07-18 | 2022-10-18 |
 | [Ice Ice Baby](https://open.spotify.com/track/11d9oUiwHuYt216EFA2tiz) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [To The Extreme](https://open.spotify.com/album/1LHacvoBTd7o2d7wwQ9EZD) | 4:31 | 2020-03-31 | 2022-07-19 |
 | [Imma Be](https://open.spotify.com/track/5OiLJ8tjUPFiPX2gVM8fxJ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:17 | 2020-03-31 | 2022-07-19 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2020-03-31 | 2022-07-19 |
@@ -93,6 +93,7 @@
 | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV) | 2:00 | 2022-07-18 |  |
 | [Promiscuous](https://open.spotify.com/track/47aQT2aV12TyilaoYi1NiD) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/1E7rOrC4uJb0YHyGJ6YOlC) | 4:02 | 2020-03-31 | 2022-07-19 |
 | [Pump It](https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 3:33 | 2020-03-31 | 2022-07-19 |
+| [Robbie Anderson \- Fast](https://open.spotify.com/track/5uWJEu0CHVscXs3U6HXXLq) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC), [DJ Frisco954](https://open.spotify.com/artist/3ftPeJoVVdIaZxvNILjndk), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Shallowside Baby \(Fast\)](https://open.spotify.com/album/13nN8U7DMTiLEMh23FHAXM) | 2:38 | 2022-10-17 |  |
 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2020-03-31 | 2022-07-19 |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-07-18 |  |
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2020-03-31 | 2022-07-19 |

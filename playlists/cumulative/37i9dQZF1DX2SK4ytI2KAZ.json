@@ -4730,6 +4730,24 @@
     },
     {
       "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279691,
+      "name": "Post Humorous",
+      "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+    },
+    {
+      "album": {
         "name": "Preach",
         "url": "https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe"
       },
@@ -6231,7 +6249,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 217617,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"

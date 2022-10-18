@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,865 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,911 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 27 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 |
 | 28 | [Hold The Line](https://open.spotify.com/track/5oLrRaqC1dgKKFbXZ7H2Dw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Hold The Line](https://open.spotify.com/album/7K5A0lg0PxbYoqa05ss4nj) | 4:23 |
 | 29 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
-| 30 | [Baby Tonight](https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q) | 3:18 |
+| 30 | [Baby Tonight](https://open.spotify.com/track/4Y6EyYdcDG77hdj8uvpdM0) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/5SFfKzez4Lh100nWLmupS0) | 3:18 |
 | 31 | [\*sigh\* Nevermind](https://open.spotify.com/track/3vHMtkPfqTmmciY9g4xz28) | [Asiatica](https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw) | [\*sigh\* Nevermind](https://open.spotify.com/album/0GZcu5Gt3CCy1bzUIXBjsD) | 2:59 |
 | 32 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 33 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 99 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 |
 | 100 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 |
 
-Snapshot ID: `MTY2NDgxMzUwNiwwMDAwMDAwMGFmMjAzNDQ3YzZkMzY4NzYzM2Y0MGRjZWQ2Yzk3N2Y3`
+Snapshot ID: `MTY2NDgxMzUwNiwwMDAwMDAwMDEwNjNmODNhNjhhM2M0OWNiNmYyZDY3N2YwNzk1ZGIx`

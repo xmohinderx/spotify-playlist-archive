@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,588 likes - 97 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,649 likes - 97 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 88 | [Ocean Drive](https://open.spotify.com/track/4RHJyw8JFsjiMV8IegfJLi) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Totally Mobilee \- Rodriguez Jr\. Collection, Vol\. 1](https://open.spotify.com/album/2wdn8bFl8vImQvFfwi4kPD) | 7:25 |
 | 89 | [Doiicie \- A](https://open.spotify.com/track/3a5sbseoseoN4XG0SeS4r9) | [Minilogue](https://open.spotify.com/artist/3q7XOzzlff7iCLz2JNalDV) | [Carry On, Pretend We're Not In The Room](https://open.spotify.com/album/3kWEPAoR8O7A6NUyrXcmOZ) | 8:10 |
 | 90 | [Everless](https://open.spotify.com/track/6ubQKsbaMHgDwe55fUENmR) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Workparty Three](https://open.spotify.com/album/2kUSJNURZgt8mzAlEm1b9s) | 7:27 |
-| 91 | [Trojan](https://open.spotify.com/track/2msoOJb4doUd2uBlFSXiKU) | [Mark Henning](https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW) | [Chicago Sunrise EP](https://open.spotify.com/album/6Ufe2NurrlZTDH5GEq1HHT) | 6:57 |
+| 91 | [Trojan](https://open.spotify.com/track/00m6m26lE6LZlOGLesqg8g) | [Mark Henning](https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW) | [Chicago Sunrise EP](https://open.spotify.com/album/2nfNNNXNAG5nJ0au7QHr6I) | 6:57 |
 | 92 | [Summertime \- Jones & James dub mix](https://open.spotify.com/track/7i2vF1mwFeXPeGanIiSoWO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Robert James](https://open.spotify.com/artist/64RpspUzL6BOUNEs07IuPr) | [Summertime Remixes](https://open.spotify.com/album/7CdryRVvNrvXIltkrrj4Ln) | 6:38 |
 | 93 | [Satellite](https://open.spotify.com/track/7cbXQtNULjrhRteqeM8bbl) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Totally Mobilee \- Rodriguez Jr\. Collection, Vol\. 1](https://open.spotify.com/album/2wdn8bFl8vImQvFfwi4kPD) | 7:33 |
 | 94 | [Hydra](https://open.spotify.com/track/312VCWI9JHNtSF2xJH4zLT) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Hydra](https://open.spotify.com/album/4NgsJCcFODkEBPbdan0GPN) | 7:31 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 96 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 | 97 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 
-Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMDM4YWI5M2Q3MjY1Yzk2YzY3NjYwY2JlYTlkMDIxNjVk`
+Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMGI3ZjIzYjdlZjRmNTNkNmIzYzhmZTkwN2E5Yzc1NDVm`

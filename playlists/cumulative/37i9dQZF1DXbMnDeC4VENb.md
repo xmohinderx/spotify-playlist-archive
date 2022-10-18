@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-77 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/4Ype6nCuECr0BMyLCT7KVD)
+79 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/4Ype6nCuECr0BMyLCT7KVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,9 @@
 | [Olvídate](https://open.spotify.com/track/6Y4EGEbQvkh5s3hqcCknca) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Olvídate](https://open.spotify.com/album/6ClbshPjH9IBGbTQd0TwlO) | 3:13 | 2022-05-25 |  |
 | [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 | 2022-09-05 |  |
 | [Para Toda La Vida](https://open.spotify.com/track/31Rbj4gvq87oBt9EuQFABG) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Para Toda La Vida](https://open.spotify.com/album/56nijUIQ3etVw5dJDxz9dS) | 3:48 | 2022-05-25 |  |
+| [Pensando en Ti](https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Pensando en Ti](https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh) | 3:21 | 2022-10-17 |  |
 | [Por Ti](https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Necesitaba Estar Hecho](https://open.spotify.com/album/18XHxHDHCSzZm9AneUgONr) | 3:06 | 2022-05-25 |  |
+| [Qué Bonita](https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Bonita](https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8) | 3:50 | 2022-10-17 |  |
 | [Quédate](https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Quédate](https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o) | 3:20 | 2022-06-16 |  |
 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 | 2022-05-25 |  |
 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 | 2022-05-25 |  |

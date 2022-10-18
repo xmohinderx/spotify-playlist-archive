@@ -4,7 +4,7 @@
 
 > We hear you.
 
-493 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+494 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [make you mine \- feat\. Snøw, Powfu, Rxseboy](https://open.spotify.com/track/68gRQeI1JL6ELZ6juJh7N4) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [make you mine \(feat\. Snøw, Powfu, Rxseboy\)](https://open.spotify.com/album/6MK1ju9jF4L58XwrTDaCqf) | 2:19 | 2021-04-02 | 2022-04-21 |
 | [Maki](https://open.spotify.com/track/7ydE0OM0iIFCzHSfhVgQKE) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Jiro Dreams](https://open.spotify.com/album/1sP83JA4XZhzLhHiV8CKXQ) | 1:20 | 2021-04-02 | 2022-04-21 |
 | [Malleable](https://open.spotify.com/track/5RpZBENYCjZE7t9M823v0S) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable](https://open.spotify.com/album/6m0ibc9oEx9tiYhbk7D4sA) | 2:48 | 2021-04-02 | 2022-07-29 |
-| [MANGATA](https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [DEVILS PLAYGROUND](https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE) | 1:55 | 2022-10-14 |  |
+| [MANGATA](https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [DEVILS PLAYGROUND](https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE) | 1:55 | 2022-10-14 | 2022-10-18 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-25 | 2022-10-15 |
 | [Maybe i'm alone](https://open.spotify.com/track/1uwl2FmnR4ux7sMkxDJ4xH) | [Yaiko Kaori](https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o) | [Maybe i'm alone](https://open.spotify.com/album/2SrT7vtYvc0m1eYgxfNsg6) | 2:20 | 2021-04-02 | 2022-07-21 |
 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 | 2021-04-02 | 2022-07-28 |
@@ -434,6 +434,7 @@
 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/5O6QAX1oI4iktfXP8HAmgi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm) | 3:02 | 2021-04-02 | 2022-07-23 |
 | [There’s No Insurance For a Broken Heart](https://open.spotify.com/track/24vHN1HCkhlQ0t29PTmagg) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [There’s No Insurance For a Broken Heart](https://open.spotify.com/album/11xaAjghIJoQpxUAV1UuqH) | 3:23 | 2021-04-02 | 2022-07-29 |
 | [Think About U \(feat\. Joji\)](https://open.spotify.com/track/0FColhQrkkPXA3eZQJYurD) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Think About U \(feat\. Joji\)](https://open.spotify.com/album/4RydIl5xqQZjDyOYSmUb7a) | 2:48 | 2021-04-02 | 2022-04-14 |
+| [Think About U \(feat\. Joji\)](https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Elsewhere](https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS) | 2:48 | 2022-10-14 |  |
 | [this body means nothing to me](https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [this body means nothing to me](https://open.spotify.com/album/59KqxBTfo4IpsQrxpPkwwR) | 2:11 | 2021-04-02 |  |
 | [This Is Home](https://open.spotify.com/track/2TI2fw9FWPeah6N4k1b4NU) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/7BCm8PaxMV0AJGRd19RI3Z) | 3:46 | 2021-04-02 | 2022-07-27 |
 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 | 2022-07-15 |  |

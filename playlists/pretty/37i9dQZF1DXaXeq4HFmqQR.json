@@ -1,12 +1,12 @@
 {
   "description": "\u00a1SOULFIA y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9538,
+  "num_followers": 9541,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDZkYmE4MTgwNzhkODMzODM1ZjFjYTgxNzQ3ZGVhY2M5",
+  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDAwZDQxMWE5MTYwMGNkYzM1MTUzNzI2ZWUzYzIzYzU2",
   "tracks": [
     {
       "added_at": "2022-10-05 03:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
+        "name": "Cosas De La Vida",
+        "url": "https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 164143,
+      "name": "Cosas De La Vida",
+      "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -187,6 +203,22 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 204490,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
         "name": "La isla de Lesbos",
         "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
       },
@@ -199,22 +231,6 @@
       "duration_ms": 189400,
       "name": "La isla de Lesbos",
       "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 164143,
-      "name": "Cosas De La Vida",
-      "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -235,18 +251,38 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
+        "name": "Religiosa",
+        "url": "https://open.spotify.com/album/6d6tiuczqJEHoP5jL9Qn15"
       },
       "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 160340,
+      "name": "Religiosa",
+      "url": "https://open.spotify.com/track/2KfTQFFLpZhzlZATYS9job"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "Rika",
+        "url": "https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
         {
           "name": "SOULFIA",
           "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 204490,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
+      "duration_ms": 184516,
+      "name": "Rika",
+      "url": "https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -299,42 +335,6 @@
       "duration_ms": 178727,
       "name": "Besame",
       "url": "https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
-        "name": "Rika",
-        "url": "https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 184516,
-      "name": "Rika",
-      "url": "https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
-        "name": "Religiosa",
-        "url": "https://open.spotify.com/album/6d6tiuczqJEHoP5jL9Qn15"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 160340,
-      "name": "Religiosa",
-      "url": "https://open.spotify.com/track/2KfTQFFLpZhzlZATYS9job"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "C\u00f3digo Bitches",
-        "url": "https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6"
-      },
-      "artists": [
-        {
-          "name": "Fran Mazu",
-          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
-        },
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 167777,
-      "name": "C\u00f3digo Bitches",
-      "url": "https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
         "name": "Ella Fuma",
         "url": "https://open.spotify.com/album/12Dj1ZmEQvvjCaAH5G4NqT"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 200425,
       "name": "Ella Fuma",
       "url": "https://open.spotify.com/track/20wEgAkUOnlAHmE2rk36xY"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "C\u00f3digo Bitches",
+        "url": "https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6"
+      },
+      "artists": [
+        {
+          "name": "Fran Mazu",
+          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 167777,
+      "name": "C\u00f3digo Bitches",
+      "url": "https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb"
     },
     {
       "added_at": "2022-10-05 03:01:00",

@@ -1225,10 +1225,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 226909,
       "name": "Fix It for You",
       "url": "https://open.spotify.com/track/1uBEbkc8FTnbPoaZ30ZGmL"
+    },
+    {
+      "album": {
+        "name": "Fix It for You",
+        "url": "https://open.spotify.com/album/433mlt0ijSxHriQwNB5FgQ"
+      },
+      "artists": [
+        {
+          "name": "Close Kicks",
+          "url": "https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Fix It for You",
+      "url": "https://open.spotify.com/track/6Ann0ot3NWuGn7BLUjjtCP"
     },
     {
       "album": {

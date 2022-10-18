@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-782 songs - 1 day 16 hr 39 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+783 songs - 1 day 16 hr 41 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,7 @@
 | [Mango Negro](https://open.spotify.com/track/09ojDTXnHxPaJKDyRnWxGh) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 3:34 | 2020-10-16 | 2021-05-18 |
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 | 2021-09-10 |  |
 | [Maple Syrup Tears](https://open.spotify.com/track/11mZeNMQTR2It49wtB4gTv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Maple Syrup Tears](https://open.spotify.com/album/2gLuQKqj2zWasAEiDEVV8X) | 3:13 | 2020-01-31 | 2022-07-29 |
-| [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 | 2021-02-27 |  |
+| [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 | 2021-02-27 | 2022-10-18 |
 | [Marie](https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Marie](https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7) | 3:01 | 2022-06-14 | 2022-07-29 |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-19 | 2022-10-17 |
 | [Marketa](https://open.spotify.com/track/5FzxcTskThKSLcSUadwZ90) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Connecting Visitors to Fun](https://open.spotify.com/album/14mNMkX1Us89c1VcXzNlPq) | 3:45 | 2020-03-29 | 2021-04-13 |
@@ -717,6 +717,7 @@
 | [U Open Up a Window](https://open.spotify.com/track/31nZhwmS2hQVGfXEMsh7Km) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [U Open Up a Window](https://open.spotify.com/album/5d5pJzqyNLufNCxPxl1YXr) | 3:11 | 2021-05-01 | 2022-04-19 |
 | [Ugotme](https://open.spotify.com/track/2NCBjlH7FHEG7hXcnvUaWA) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/0sSIXkYfRqXomRPrK4wYYe) | 2:07 | 2021-02-27 | 2022-10-14 |
 | [Ugotme](https://open.spotify.com/track/3yV8tx2QY0t6st5LsLZhkF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ugotme](https://open.spotify.com/album/5ahJU6akdu3WxYEjSS9kU3) | 2:07 | 2019-07-31 | 2022-04-21 |
+| [Ugotme](https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 2:07 | 2022-09-14 |  |
 | [Unbothered](https://open.spotify.com/track/3PoKFnMD0zAVtQrkJ4e8XH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2B3NraIzKiBZXFTUhyxYfe) | 2:04 | 2019-07-31 | 2020-04-24 |
 | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv) | 3:23 | 2021-10-08 | 2022-07-29 |
 | [UNFAIR](https://open.spotify.com/track/35ohdMj17ie2y5I8cTWzbt) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [UNFAIR](https://open.spotify.com/album/1fYjRRgUP0hpl4jgN8avC1) | 3:51 | 2019-10-11 | 2020-04-13 |

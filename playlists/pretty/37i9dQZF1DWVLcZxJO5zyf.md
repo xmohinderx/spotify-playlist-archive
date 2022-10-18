@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça os hits do momento do pop BR! Foto: Pabllo Vittar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,409,898 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,410,109 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OLHADINHA](https://open.spotify.com/track/0pOZWyXIqROnYI24H5AVsk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [OLHADINHA](https://open.spotify.com/album/5pu94Dk34XMqa8sTKft31Z) | 2:17 |
 | 2 | [Descontrolada](https://open.spotify.com/track/1KVg1Mc3zFmZP5QnKuYjG0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/5bqZKSkxw0vPEBTJbLtTHc) | 2:42 |
 | 3 | [Tic Tac](https://open.spotify.com/track/68xg9tAB603bMnsCg7OD3Z) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP) | [Tic Tac](https://open.spotify.com/album/4tv1S6EVGUU9NoOnn9tVXF) | 2:56 |
-| 4 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 |
-| 5 | [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 |
-| 6 | [INÍCIO DO FIM](https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [INÍCIO DO FIM](https://open.spotify.com/album/10hzraymFy8wdeZIBShEJ2) | 3:06 |
-| 7 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 |
-| 8 | [desficava](https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [desficava](https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX) | 2:33 |
-| 9 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 |
+| 4 | [desficava](https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [desficava](https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX) | 2:33 |
+| 5 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 |
+| 6 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 |
+| 7 | [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 |
+| 8 | [INÍCIO DO FIM](https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [INÍCIO DO FIM](https://open.spotify.com/album/10hzraymFy8wdeZIBShEJ2) | 3:06 |
+| 9 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 |
 | 10 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 |
 | 11 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 |
 | 12 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 50 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 
-Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMDdlNDA4YjdkYzBmMWNmOWU4YTg2NTIwMmMzMmI3ZDFl`
+Snapshot ID: `MTY2NjAxODU4NiwwMDAwMDAwMDQxMDI1NTY1MWRjZWU1ZDEzMjJiMWNmNTFhZTNkY2Q2`

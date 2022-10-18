@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 546608,
+  "num_followers": 546871,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDRmNWNmNTBkMzg5ZjI3ZDc2NmU3MWIyMmI2MDVjM2Rk",
+  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDA2NDExMTUwYTRiM2UzZTM5OTQwYmExODMxOTJlNTMz",
   "tracks": [
     {
       "added_at": "2021-12-07 10:22:45",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 310080,
-      "name": "You've Got Another Thing Coming",
-      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+      "duration_ms": 310080,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -651,6 +635,22 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 177048,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -699,22 +715,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "Fuel",
-      "url": "https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+        "name": "The Number of the Beast (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 203293,
-      "name": "Girls Got Rhythm",
-      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Number of the Beast (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 233506,
-      "name": "Run to the Hills - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
+      "duration_ms": 203293,
+      "name": "Girls Got Rhythm",
+      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Rise of Chaos",
-        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 299720,
-      "name": "Koolaid",
-      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 368506,
       "name": "Highway Star",
       "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "The Rise of Chaos",
+        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 299720,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Human Condition",
-        "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
+        "name": "Si Vis Pacem, Para Bellum",
+        "url": "https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO"
       },
       "artists": [
         {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 235672,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
+      "duration_ms": 229640,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V"
     }
   ],
   "unique_name": "Highway to Yell",

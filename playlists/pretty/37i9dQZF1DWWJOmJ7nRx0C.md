@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Sleeping With Sirens
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,795 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,105 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 117 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 |
 | 118 | [Divided](https://open.spotify.com/track/4X5wQ6IHdm37cOR7ZBBozz) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Divided](https://open.spotify.com/album/1BTfhcdGakBLSOOHejwqnT) | 4:12 |
 | 119 | [Behind Your Walls](https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:21 |
-| 120 | [Tear It Down](https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI) | 3:57 |
+| 120 | [Tear It Down](https://open.spotify.com/track/64donJ2nJTgqW711j5YoHl) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:57 |
 | 121 | [Home](https://open.spotify.com/track/4rvipVyFuPr5VaBeYop1bn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Home](https://open.spotify.com/album/6sba2UuexmszIP7Jf1G6ul) | 3:26 |
 | 122 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
 | 123 | [Fever Dream](https://open.spotify.com/track/56nQ0EwaDX0X1TFGrDVC0b) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/69QGJEAqtvEQ9hjwCCaPQk) | 5:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [American Dream](https://open.spotify.com/track/1Fl5pNT0nM667ugiC08mPd) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [American Dream](https://open.spotify.com/album/52EG4cU5zsXOZZrKRl2ixV) | 3:05 |
 | 150 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGRjOTA2YzE3ZDU0MzJlNGU3Y2I1MWVmOTQ4YTM4ZDc0`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGIxMmRkYzUyNTNjMzI0NWZjZWMwMGMzZGI3MDc1YTg1`

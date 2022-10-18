@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > october? here we call it girl in red month 🍂🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,105 likes - 604 songs - 1 day 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,208 likes - 604 songs - 1 day 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Paty B on cover.",
-  "num_followers": 167243,
+  "num_followers": 167240,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMDE1MCwwMDAwMDAwMDZjNDkzZjE5OGJmYmQ0ZTMxOTU0NzFmZDZkYTA4NWM2",
+  "snapshot_id": "MTY2NTAwMDE1MCwwMDAwMDAwMDViNzc5NWI4MTQ5OWUxNWM3MjlmMTE4YWE2Yjg5ODA2",
   "tracks": [
     {
       "added_at": "2022-10-05 20:02:30",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "M\u00fasica bailando",
-        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "M\u00fasica bailando",
-      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "No Me Dejes (Halloween)",
         "url": "https://open.spotify.com/album/2Y0OOk9SPUmrO4iDPo7omM"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 167516,
       "name": "No Me Dejes (Halloween)",
       "url": "https://open.spotify.com/track/4b8H3eaTQm66t3VVFLQL88"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "M\u00fasica bailando",
+        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "M\u00fasica bailando",
+      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Pisoteo",
-      "url": "https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "DUCATI",
         "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 169161,
       "name": "DUCATI",
       "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Pisoteo",
+      "url": "https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -407,26 +407,18 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Paradoja",
-        "url": "https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz"
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
       },
       "artists": [
         {
-          "name": "Melov",
-          "url": "https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22"
-        },
-        {
-          "name": "Una Mar\u00eda",
-          "url": "https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl"
-        },
-        {
-          "name": "Obreg\u00f8n",
-          "url": "https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK"
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
         }
       ],
-      "duration_ms": 220975,
-      "name": "Paradoja",
-      "url": "https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz"
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -451,18 +443,26 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+        "name": "Paradoja",
+        "url": "https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz"
       },
       "artists": [
         {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+          "name": "Melov",
+          "url": "https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22"
+        },
+        {
+          "name": "Una Mar\u00eda",
+          "url": "https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl"
+        },
+        {
+          "name": "Obreg\u00f8n",
+          "url": "https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK"
         }
       ],
-      "duration_ms": 253986,
-      "name": "Renacido",
-      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
+      "duration_ms": 220975,
+      "name": "Paradoja",
+      "url": "https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Un poco m\u00e1s de lo normal",
-        "url": "https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj"
-      },
-      "artists": [
-        {
-          "name": "El Espacio Interior",
-          "url": "https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b"
-        }
-      ],
-      "duration_ms": 178922,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Deli",
         "url": "https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179278,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Un poco m\u00e1s de lo normal",
+        "url": "https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj"
+      },
+      "artists": [
+        {
+          "name": "El Espacio Interior",
+          "url": "https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b"
+        }
+      ],
+      "duration_ms": 178922,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx"
     },
     {
       "added_at": "2022-10-05 20:02:30",

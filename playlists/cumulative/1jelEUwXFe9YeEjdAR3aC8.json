@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Chill indie songs by easy life, Gracie Abrams, and more! Dive in to this mellow and emotive playlist, and discover new favorites! Cover: Rene\u00e9 Rapp",
+  "description": "Chill indie songs by Noah Kahan, The 1975, and more! Listen to this mellow and feels-inducing playlist, and discover new favorites! Cover: Rene\u00e9 Rapp",
   "name": "Indie Chill",
   "published_playlist_ids": [
     "3sjWktyD1KzSMZBUWy3pNl"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 217973,
       "name": "All Roads",
       "url": "https://open.spotify.com/track/2bbkQoF99vgiXdkKQo0mHA"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 206946,
       "name": "BAD FRUIT*",
       "url": "https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 150004,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
@@ -383,10 +383,28 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7lSabaWXX4SJmsfMNialqq"
+      },
+      "artists": [
+        {
+          "name": "SoLonely",
+          "url": "https://open.spotify.com/artist/5wLADFwrz9AGUJotefFzPv"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121333,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4SrL8u7Eh3KGPbDXgJehzd"
     },
     {
       "album": {
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 157302,
       "name": "Cold Life",
       "url": "https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 211847,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/0dJeawMW1P1ksyuNFsDiJI"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 160961,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0SKUpG1nVemQF8M9SqlFvb"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 256133,
       "name": "For Yourself",
       "url": "https://open.spotify.com/track/26UZb4fDjCPsqRhgxxe7pZ"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 183692,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/698xO1FAsZqETbRvdDHz8T"
@@ -1444,6 +1462,24 @@
     },
     {
       "album": {
+        "name": "How We Used To Be",
+        "url": "https://open.spotify.com/album/5maMPYNEI011eYny2uOcsO"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198801,
+      "name": "How We Used To Be",
+      "url": "https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK"
+    },
+    {
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -1477,6 +1513,24 @@
       "duration_ms": 164557,
       "name": "HUES",
       "url": "https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Human Too",
+      "url": "https://open.spotify.com/track/2PUHkK7V8XSoquIV8Skj7h"
     },
     {
       "album": {
@@ -1571,10 +1625,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
+    },
+    {
+      "album": {
+        "name": "GOALIE",
+        "url": "https://open.spotify.com/album/3AwPKvnIRsrkC0pG7l4RNM"
+      },
+      "artists": [
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163392,
+      "name": "IF YOU'RE GONNA LEAVE",
+      "url": "https://open.spotify.com/track/4wGyH7ZrZgYuB3su5GZGOY"
     },
     {
       "album": {
@@ -1751,7 +1823,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 235306,
       "name": "Little Joys",
       "url": "https://open.spotify.com/track/6LzKBCMuZDmcIULxE6ISVv"
@@ -1823,7 +1895,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 194000,
       "name": "Lonely Hallucinations",
       "url": "https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh"
@@ -1895,7 +1967,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -1921,6 +1993,28 @@
       "duration_ms": 175114,
       "name": "lost (feat. Caamp)",
       "url": "https://open.spotify.com/track/3iGK7gwyCTghbhzQU8JIGx"
+    },
+    {
+      "album": {
+        "name": "Love Factory",
+        "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319777,
+      "name": "Love Factory",
+      "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
     },
     {
       "album": {
@@ -1989,7 +2083,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 305761,
       "name": "Marathon Girl",
       "url": "https://open.spotify.com/track/2H2cAI3Ofm5mAYKEfk9foM"
@@ -2213,7 +2307,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
@@ -2812,6 +2906,42 @@
     },
     {
       "album": {
+        "name": "ILYSM",
+        "url": "https://open.spotify.com/album/34tf3KVea0r8Ee5jUE6HH9"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314213,
+      "name": "St. Beater Camry",
+      "url": "https://open.spotify.com/track/3u7s57agRpvdm0JSkG3pny"
+    },
+    {
+      "album": {
+        "name": "Stayed at the Party",
+        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213166,
+      "name": "Stayed at the Party",
+      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
+      "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf"
       },
@@ -2834,6 +2964,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285913,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq"
+    },
+    {
+      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
       },
@@ -2845,7 +2993,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 265427,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/2dBwB667LHQkLhdYlwLUZK"
@@ -2888,6 +3036,24 @@
     },
     {
       "album": {
+        "name": "Sunday In Heaven",
+        "url": "https://open.spotify.com/album/6Xi4qZBRpq328DPysFR6fO"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148693,
+      "name": "Sunday In Heaven",
+      "url": "https://open.spotify.com/track/0ycqjtuVPrwKWJAwwN8qLa"
+    },
+    {
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -2917,7 +3083,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
@@ -3051,6 +3217,24 @@
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "album": {
+        "name": "spacegirl",
+        "url": "https://open.spotify.com/album/3tp1fly9o91qybai6Isg1u"
+      },
+      "artists": [
+        {
+          "name": "Cathy Jain",
+          "url": "https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143856,
+      "name": "the death of cat",
+      "url": "https://open.spotify.com/track/1rB20lcvLZnEhrtwsGs1jw"
     },
     {
       "album": {
@@ -3325,7 +3509,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 256079,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/1ErrkKi89V68HHsyUizbJA"
@@ -3451,7 +3635,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 259208,
       "name": "Which Witch",
       "url": "https://open.spotify.com/track/5yiBLMSH9DCRmBtws6wKY3"
@@ -3469,7 +3653,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 192830,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5ZcOxwQlVwUYhWZHqjjIMR"
@@ -3505,7 +3689,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 274552,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn"

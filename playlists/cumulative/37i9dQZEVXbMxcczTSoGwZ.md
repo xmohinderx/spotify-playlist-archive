@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,057 songs - 2 day 10 hr 27 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+1,058 songs - 2 day 10 hr 32 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/track/1MGGLyAMVQo3T9gSEBJjyH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/album/5yyKH8wCNqJxPKSQLzhkKy) | 3:16 | 2021-04-18 | 2021-04-19 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2022-01-08 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-18 | 2021-05-23 |
-| [Gotta Rock](https://open.spotify.com/track/2lLeVEkM1pE26BbGp5xZF3) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gotta Rock](https://open.spotify.com/album/1KTlhyppJefxvcvBc8Fvbv) | 4:10 | 2022-10-16 |  |
+| [Gotta Rock](https://open.spotify.com/track/2lLeVEkM1pE26BbGp5xZF3) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gotta Rock](https://open.spotify.com/album/1KTlhyppJefxvcvBc8Fvbv) | 4:10 | 2022-10-16 | 2022-10-18 |
+| [Gotta Rock \- Vain elämää kausi 13](https://open.spotify.com/track/2BnHpa3bfvVhY6uBGZKcbP) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b), [Jyrki 69](https://open.spotify.com/artist/0hyO5xFVKIdGUDBDoW3Qlz) | [Gotta Rock \(Vain elämää kausi 13\)](https://open.spotify.com/album/59i7c1QvHFbh5kefgqRZ9p) | 4:10 | 2022-10-17 |  |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-28 |
 | [GRINDR MAYHEM \(feat\. BESS\)](https://open.spotify.com/track/4BdiKWwWtDZ3TA339ZgZnI) | [Antti Tuisku](https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [GRINDR MAYHEM \(feat\. BESS\)](https://open.spotify.com/album/4FrHzKtnbUyn3QlEEgy9I8) | 2:35 | 2022-06-18 | 2022-09-20 |
 | [Gröna Lund](https://open.spotify.com/track/5g9eiltzjUKWr9GR4Ma2VP) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:57 | 2021-09-26 | 2021-10-31 |

@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-224 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+225 songs - 16 hr 31 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Sakoneta](https://open.spotify.com/track/49Dq0m0JDGJJfz8VqxIt81) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Sakoneta](https://open.spotify.com/album/0KKaGCuDZAyrrkH40KBnEI) | 4:45 | 2021-11-26 | 2022-07-28 |
 | [Sala Nabina \- Karmaâ Remix](https://open.spotify.com/track/19NaGWC4RQwfNJmgclF3XX) | [IZADORÄ](https://open.spotify.com/artist/1rPvh2OggGcSpB8iBaTksJ), [Ayoub Rahhal](https://open.spotify.com/artist/6IVY9D4To5r6rpCHwoFkqZ), [Karmaâ](https://open.spotify.com/artist/3yx74xmlyOAsmyqn0r4iOV) | [Sala Nabina \(Karmaâ Remix\)](https://open.spotify.com/album/2HT5Fus8tASVOThQIGznZA) | 7:14 | 2022-04-15 | 2022-07-03 |
 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 | 2021-11-26 | 2022-08-04 |
+| [Salsa Caliente \(Versión Aumentada\)](https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83) | 4:43 | 2022-04-15 |  |
 | [Salsa Caliente \- Versión Aumentada](https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV) | 4:43 | 2021-11-26 | 2022-07-25 |
 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 | 2021-11-26 |  |
 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 | 2022-04-15 |  |
@@ -204,7 +205,7 @@
 | [Sueño Marino](https://open.spotify.com/track/7dSKq6FktDcVoWXwbPIRMw) | [Khromatik](https://open.spotify.com/artist/6eCeb68g0FYtyhBxInbFnm), [Chaska Paucar](https://open.spotify.com/artist/3JqFAeIYsQ87PG5J8mC5bv) | [Sueño Marino](https://open.spotify.com/album/1sznCSkjGCKJI3Flkc4UhX) | 3:01 | 2021-11-26 | 2022-07-26 |
 | [Sutileza](https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Coladera](https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ) | [Sutileza](https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1) | 3:40 | 2022-04-15 |  |
 | [Sutileza](https://open.spotify.com/track/4nM8qYpn5Vea91lfZoEHAo) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Coladera](https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ) | [Sutileza](https://open.spotify.com/album/5hADgfXJmaRjJCRZbc7SXF) | 3:40 | 2021-11-26 | 2022-07-29 |
-| [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 | 2022-04-15 |  |
+| [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 | 2022-04-15 | 2022-10-18 |
 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 | 2021-11-26 | 2022-07-04 |
 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 | 2022-04-15 |  |
 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/7tdpEWykBDTGHraFcc7y5K) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/6TpFELu5FhzUxViIa56okb) | 4:20 | 2021-11-26 | 2022-07-27 |

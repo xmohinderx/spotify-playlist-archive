@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-229 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+230 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Fatal Line](https://open.spotify.com/track/6JAQKyDivpPVulL0K6J6zo) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:01 | 2022-05-13 |  |
 | [Fault Lines](https://open.spotify.com/track/0IWAEtB2BD50eC874I9rHm) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Fault Lines](https://open.spotify.com/album/7odRJxbB9XE3zHt009Errk) | 3:50 | 2022-05-13 | 2022-07-16 |
 | [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-05-13 | 2022-06-04 |
-| [Fix It for You](https://open.spotify.com/track/1uBEbkc8FTnbPoaZ30ZGmL) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Fix It for You](https://open.spotify.com/album/6iGDbmsiSqnsQunzgqaUWC) | 3:46 | 2022-09-16 |  |
+| [Fix It for You](https://open.spotify.com/track/1uBEbkc8FTnbPoaZ30ZGmL) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Fix It for You](https://open.spotify.com/album/6iGDbmsiSqnsQunzgqaUWC) | 3:46 | 2022-09-16 | 2022-10-18 |
+| [Fix It for You](https://open.spotify.com/track/6Ann0ot3NWuGn7BLUjjtCP) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Fix It for You](https://open.spotify.com/album/433mlt0ijSxHriQwNB5FgQ) | 3:46 | 2022-10-14 |  |
 | [flowers in the garden](https://open.spotify.com/track/1HModMENiKhlpB1P16bKMk) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [flowers in the garden](https://open.spotify.com/album/1KQvHodSIwDWG6R2Oevl5L) | 2:54 | 2022-05-13 | 2022-07-09 |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 |  |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 | 2022-10-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Mixtape \#021 is bringing the 🔥 featuring YOVNGCHIMI\.  Find a new mixtape every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797,766 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,798,186 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

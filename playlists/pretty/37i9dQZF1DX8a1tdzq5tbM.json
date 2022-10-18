@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance radio</a> hits from the 90s and 00s!",
-  "num_followers": 1277328,
+  "num_followers": 1277531,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMGE3NTcxZDY3Yjk3YmE0NzIxMmQ3M2Y1NTM3MGIxN2Jm",
+  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMGNkZWM1M2FlYmI0Y2EwN2I1YzYzZDQ4ZGU0ZGY0Njgw",
   "tracks": [
     {
       "added_at": "2022-02-28 22:22:26",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Push The Feeling On",
         "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
       },
@@ -199,22 +183,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -231,8 +199,8 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
       "artists": [
         {
@@ -240,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -279,6 +247,22 @@
       "duration_ms": 233600,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 157432,
+      "name": "Pjanoo - Radio Edit",
+      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "When Love Takes Over (feat. Kelly Rowland)",
-      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Don't Call Me Baby",
         "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 228140,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -651,30 +651,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Cozi",
-          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Baby When the Light (feat. Cozi)",
-      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
       },
@@ -719,18 +695,26 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX"
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Cozi",
+          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
         }
       ],
-      "duration_ms": 326834,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/2gtWTDbAq2i2oqs0ldX7bn"
+      "duration_ms": 208026,
+      "name": "Baby When the Light (feat. Cozi)",
+      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -747,6 +731,22 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326834,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/2gtWTDbAq2i2oqs0ldX7bn"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -827,34 +827,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Chris Willis",
-          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
-        },
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
-      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX"
       },
@@ -895,6 +867,34 @@
       "duration_ms": 193529,
       "name": "Toca Me - twoloud Radio Edit",
       "url": "https://open.spotify.com/track/62JXnYxY7u5JVLtpTbnOKw"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
+      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Underlying Feeling",
         "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
       },
@@ -1075,26 +1091,6 @@
       "duration_ms": 224842,
       "name": "Underlying Feeling - Adam K & Soha Radio Edit",
       "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Empty Streets (Remixes)",
-        "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
-      },
-      "artists": [
-        {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
-        },
-        {
-          "name": "Haji & Emanuel",
-          "url": "https://open.spotify.com/artist/4clskYgdo0Nxm7DSfFwo78"
-        }
-      ],
-      "duration_ms": 501213,
-      "name": "Empty Streets - Haji & Emanuel Remix",
-      "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1119,22 +1115,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+        "name": "Empty Streets (Remixes)",
+        "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Late Night Alumni",
+          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
         },
         {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+          "name": "Haji & Emanuel",
+          "url": "https://open.spotify.com/artist/4clskYgdo0Nxm7DSfFwo78"
         }
       ],
-      "duration_ms": 489373,
-      "name": "Love Comes Again",
-      "url": "https://open.spotify.com/track/23x1l5fneuI3tfw52NftWH"
+      "duration_ms": 501213,
+      "name": "Empty Streets - Haji & Emanuel Remix",
+      "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1171,6 +1167,26 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 489373,
+      "name": "Love Comes Again",
+      "url": "https://open.spotify.com/track/23x1l5fneuI3tfw52NftWH"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Lola's Theme",
         "url": "https://open.spotify.com/album/6E6wUfY8GkYF8thkolEVAP"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 205106,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/2o7V26rsF1ukcRI005S0LL"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Every Word",
-        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
-      },
-      "artists": [
-        {
-          "name": "Ercola",
-          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
-        },
-        {
-          "name": "Daniella",
-          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
-      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 207066,
       "name": "I Am Free - Radio Edit",
       "url": "https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Every Word",
+        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
+      },
+      "artists": [
+        {
+          "name": "Ercola",
+          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
+        },
+        {
+          "name": "Daniella",
+          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
+      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Ultra Weekend 5 (Jason Nevins Presents)",
+        "url": "https://open.spotify.com/album/2tyN9TprqDOBPnLOpuq1Er"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "Infinity - Klaas Vocal Mix",
+      "url": "https://open.spotify.com/track/6ZTdvFWrzZc7CUEaVV0NmO"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Ultra Weekend 5 (Jason Nevins Presents)",
-        "url": "https://open.spotify.com/album/2tyN9TprqDOBPnLOpuq1Er"
-      },
-      "artists": [
-        {
-          "name": "Guru Josh Project",
-          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
-        },
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 226480,
-      "name": "Infinity - Klaas Vocal Mix",
-      "url": "https://open.spotify.com/track/6ZTdvFWrzZc7CUEaVV0NmO"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
+      "url": "https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Awaken (Part 2)",
         "url": "https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 224640,
       "name": "Chemistry - Radio Edit",
       "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
-      "url": "https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER"
     },
     {
       "added_at": "2022-02-28 22:22:26",

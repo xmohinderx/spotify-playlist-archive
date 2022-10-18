@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Agradecido Estoy",
+      "url": "https://open.spotify.com/track/51fRcBcEdBddazx7L0qwpT"
+    },
+    {
+      "album": {
         "name": "En Bachata",
         "url": "https://open.spotify.com/album/0dkfS9yeP95kcYJ9tEUDlF"
       },
@@ -317,7 +335,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 257230,
       "name": "El Mismo De Ayer",
       "url": "https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC"

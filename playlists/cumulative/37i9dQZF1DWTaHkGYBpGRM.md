@@ -4,13 +4,14 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-126 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
+127 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5748 km](https://open.spotify.com/track/0tjl99e6rX2rktF9h3Uz1J) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/66N5skVpk9N9FqK28n4CUX) | 3:15 | 2021-01-25 | 2022-07-29 |
 | [5748 Km](https://open.spotify.com/track/4LXi58nLKicjAC0emPq43l) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:15 | 2021-01-25 | 2022-10-09 |
-| [All I Do Is Dream of You](https://open.spotify.com/track/5eximiWUaKZdE1y1zHbVwL) | [Faultline](https://open.spotify.com/artist/2MDj3VdPVUo2w1A6bRwvAh), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [All I Do Is Dream of You](https://open.spotify.com/album/2Lng1m3dqvpXdcqGITtLF8) | 2:42 | 2022-10-08 |  |
+| [All I Do Is Dream of You](https://open.spotify.com/track/1Cxx2ec6iADMThJFeKSOzl) | [Faultline](https://open.spotify.com/artist/2MDj3VdPVUo2w1A6bRwvAh), [dodie](https://open.spotify.com/artist/3gxp1JkAXtD40LleVZgqOE) | [All I Do Is Dream of You](https://open.spotify.com/album/6qDAXqSFZE5WxqhhG2QPFZ) | 2:42 | 2022-10-08 |  |
+| [All I Do Is Dream of You](https://open.spotify.com/track/5eximiWUaKZdE1y1zHbVwL) | [Faultline](https://open.spotify.com/artist/2MDj3VdPVUo2w1A6bRwvAh), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [All I Do Is Dream of You](https://open.spotify.com/album/2Lng1m3dqvpXdcqGITtLF8) | 2:42 | 2022-10-08 | 2022-10-18 |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2021-01-25 |  |
 | [All I Want](https://open.spotify.com/track/1XczdQt6RKNkEQfPqUsi3q) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [The Kodaline EP](https://open.spotify.com/album/13UF27he6juTSHhQHHjnL1) | 5:06 | 2021-01-25 | 2022-07-29 |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2022-10-08 |  |

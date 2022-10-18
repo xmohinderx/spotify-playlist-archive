@@ -4,7 +4,7 @@
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-172 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
+173 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-05-25 |  |
 | [Bonsaï](https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Pax et Bonum](https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f) | 3:43 | 2022-05-25 | 2022-08-12 |
 | [Broken \- Radio Edit](https://open.spotify.com/track/3f5w7CK8pCKwlijBz0vann) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 2:41 | 2022-05-25 |  |
-| [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-05-25 |  |
+| [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-05-25 | 2022-10-18 |
 | [Brûler les ponts](https://open.spotify.com/track/2bLCDHwZVyyKFEAB8uRRv3) | [Marieme](https://open.spotify.com/artist/2GcthSTguQ2Xbbq03jb1fP), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [MARIO](https://open.spotify.com/album/4JeQA0F4KK1ladlU9R7Ib7) | 3:43 | 2022-05-25 | 2022-07-28 |
 | [Caipirinha](https://open.spotify.com/track/3ntkJVSYJIPDKBJj2uYLRa) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Caipirinha](https://open.spotify.com/album/70tCTmRLlDolCLIxPRrFUp) | 3:53 | 2022-05-25 |  |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2022-05-25 |  |
@@ -110,6 +110,7 @@
 | [Mayo](https://open.spotify.com/track/5TbsQ0az5xY47FTHmVWtHJ) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT), [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [Julie & Dany](https://open.spotify.com/album/6IbkOpwOFXWj4cpHoVJuap) | 3:08 | 2022-05-25 | 2022-07-27 |
 | [MDCI](https://open.spotify.com/track/08ija7PAk2uLACV8B6iizr) | [Gatha](https://open.spotify.com/artist/74RcB2E0EhH2eWyulRmT1j) | [MDCI](https://open.spotify.com/album/0V65F5DDXjTfAGhRVZX2Sd) | 3:15 | 2022-05-25 | 2022-07-28 |
 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-05-25 | 2022-10-14 |
+| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-05-25 |  |
 | [Moi non plus](https://open.spotify.com/track/1XLvZv0wum0j7uO59pzZhB) | [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh) | [Carte mère](https://open.spotify.com/album/2ueD8WvRuRVwRTz18qbhzA) | 3:50 | 2022-05-25 | 2022-07-28 |
 | [Mon coeur pour te garder](https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn) | [Amélie Veille](https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h) | [Mon coeur pour te garder \(version bonus\)](https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY) | 3:26 | 2022-05-25 |  |
 | [Monochrome](https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Monochrome](https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6) | 2:39 | 2022-05-25 | 2022-07-29 |

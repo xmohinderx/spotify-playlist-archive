@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 120692,
+  "num_followers": 120710,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDVlMWVjOTUzMmYxNTgwNjRiZGQwNGM5YjZlN2NhNGZi",
+  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDk0NGRlOGNkMDZlZDk0NDJmOWQwNTA1YWI1N2Q1YWQx",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -115,6 +115,46 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Machiran",
+          "url": "https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Bemb\u00e9",
+      "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -143,42 +183,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
-      },
-      "artists": [
-        {
-          "name": "Syntrovert",
-          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Cuarzo",
-      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Puk",
         "url": "https://open.spotify.com/album/4s2pQPbpvmtDTV2lecbqvi"
       },
@@ -195,22 +199,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
       },
       "artists": [
         {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Machiran",
-          "url": "https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx"
+          "name": "Syntrovert",
+          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Bemb\u00e9",
-      "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
+      "duration_ms": 215280,
+      "name": "Cuarzo",
+      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -543,6 +543,42 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Pleamar",
+        "url": "https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 235032,
+      "name": "El Mago Georges",
+      "url": "https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 226058,
+      "name": "Sin control",
+      "url": "https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Esta Noche",
         "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
       },
@@ -591,42 +627,6 @@
       "duration_ms": 267008,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Pleamar",
-        "url": "https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 235032,
-      "name": "El Mago Georges",
-      "url": "https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 226058,
-      "name": "Sin control",
-      "url": "https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Manila",
-        "url": "https://open.spotify.com/album/7rwOOLEqFtz8cIsmW9UC91"
-      },
-      "artists": [
-        {
-          "name": "Manudigital",
-          "url": "https://open.spotify.com/artist/1EPdzkPNE9fwx1qhN4mUrH"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Manila",
-      "url": "https://open.spotify.com/track/1uo9jMH4Z3DrpPGi6jm9E4"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Ancient Astronauts",
         "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Manila",
+        "url": "https://open.spotify.com/album/7rwOOLEqFtz8cIsmW9UC91"
+      },
+      "artists": [
+        {
+          "name": "Manudigital",
+          "url": "https://open.spotify.com/artist/1EPdzkPNE9fwx1qhN4mUrH"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Manila",
+      "url": "https://open.spotify.com/track/1uo9jMH4Z3DrpPGi6jm9E4"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Tiburon",
         "url": "https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 294625,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Love is Dancing",
+        "url": "https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8"
+      },
+      "artists": [
+        {
+          "name": "Suricata",
+          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
+        }
+      ],
+      "duration_ms": 506612,
+      "name": "Love is Dancing",
+      "url": "https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -879,34 +895,26 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Love is Dancing",
-        "url": "https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8"
+        "name": "Illusions of Shameless Abundance",
+        "url": "https://open.spotify.com/album/5P1yIYyaRLTcdo3TPRzT5H"
       },
       "artists": [
         {
-          "name": "Suricata",
-          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
-        }
-      ],
-      "duration_ms": 506612,
-      "name": "Love is Dancing",
-      "url": "https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Afrotrip",
-        "url": "https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug"
-      },
-      "artists": [
+          "name": "Against All Logic",
+          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
+        },
         {
-          "name": "Frikstailers",
-          "url": "https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH"
+          "name": "Estado Unido",
+          "url": "https://open.spotify.com/artist/7LQMfqw2JZQhybBOrH1KtS"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 275063,
-      "name": "Afrotrip",
-      "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
+      "duration_ms": 546693,
+      "name": "Alucinao",
+      "url": "https://open.spotify.com/track/37cNWcjPG6hXI94CsZOHje"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

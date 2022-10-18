@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Antonia Navarro",
-  "num_followers": 126448,
+  "num_followers": 126452,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGNlNjljOTM5Njk5YTZkZjczN2M0MTBiYWE5MjNjNTFi",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDY1YmVmZjk3M2I2NjQ0YTU5ZTg0ZjM3ZGM5ZjhjYmVk",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154087,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Palabritas y Palabrotas",
         "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
       },
@@ -295,18 +279,34 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sulamita",
-        "url": "https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp"
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
       },
       "artists": [
         {
-          "name": "Ni\u00f1os Del Cerro",
-          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         }
       ],
-      "duration_ms": 266502,
-      "name": "Sulamita",
-      "url": "https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59"
+      "duration_ms": 154087,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 293414,
+      "name": "Paseito",
+      "url": "https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -327,6 +327,38 @@
       "duration_ms": 307414,
       "name": "Vuela Lejos",
       "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Sulamita",
+        "url": "https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Del Cerro",
+          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+        }
+      ],
+      "duration_ms": 266502,
+      "name": "Sulamita",
+      "url": "https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 255217,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -363,38 +395,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 255217,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 293414,
-      "name": "Paseito",
-      "url": "https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Bestia",
         "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tentempi\u00e9",
-        "url": "https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1os Del Cerro",
-          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
-        }
-      ],
-      "duration_ms": 224736,
-      "name": "Tentempi\u00e9",
-      "url": "https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "No Hay Otra Igual",
         "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
       },
@@ -455,26 +439,6 @@
       "duration_ms": 173994,
       "name": "No Hay Otra Igual",
       "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        },
-        {
-          "name": "Frannie Holder",
-          "url": "https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw"
-        }
-      ],
-      "duration_ms": 265005,
-      "name": "Nudo",
-      "url": "https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -495,6 +459,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Tentempi\u00e9",
+        "url": "https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Del Cerro",
+          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+        }
+      ],
+      "duration_ms": 224736,
+      "name": "Tentempi\u00e9",
+      "url": "https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Coraz\u00f3n Astral",
         "url": "https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 191564,
       "name": "Coraz\u00f3n Astral",
       "url": "https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        },
+        {
+          "name": "Frannie Holder",
+          "url": "https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw"
+        }
+      ],
+      "duration_ms": 265005,
+      "name": "Nudo",
+      "url": "https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "El Demonio del Mediod\u00eda",
         "url": "https://open.spotify.com/album/59DDXjGG4zx2MGNIJUsDXz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 195333,
       "name": "Madre M\u00eda",
       "url": "https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/24g6fF66JD00LheckA50yw"
+      },
+      "artists": [
+        {
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+        }
+      ],
+      "duration_ms": 209285,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Tu Momento",
         "url": "https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Pajarito",
-        "url": "https://open.spotify.com/album/24g6fF66JD00LheckA50yw"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Pajarito",
-      "url": "https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "arde lento",
         "url": "https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Retazos de Diciembre",
-        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
+        "name": "Te Traigo Flores",
+        "url": "https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7"
       },
       "artists": [
         {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Retazos de Diciembre",
-      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+      "duration_ms": 231278,
+      "name": "Te Traigo Flores",
+      "url": "https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -747,22 +747,6 @@
       "duration_ms": 246349,
       "name": "Fachada Continua",
       "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Te Traigo Flores",
-        "url": "https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 231278,
-      "name": "Te Traigo Flores",
-      "url": "https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -803,6 +787,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Retazos de Diciembre",
+        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Retazos de Diciembre",
+      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Tus Nombres",
+        "url": "https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS"
+      },
+      "artists": [
+        {
+          "name": "Prehist\u00f6ricos",
+          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+        }
+      ],
+      "duration_ms": 200395,
+      "name": "Tus Nombres",
+      "url": "https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "As\u00ed Te Soy",
         "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
       },
@@ -855,18 +871,34 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tus Nombres",
-        "url": "https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
       },
       "artists": [
         {
-          "name": "Prehist\u00f6ricos",
-          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
         }
       ],
-      "duration_ms": 200395,
-      "name": "Tus Nombres",
-      "url": "https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g"
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Son\u00e1mbulo",
+        "url": "https://open.spotify.com/album/6XGv3w6gzMpsxesukAXsGi"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 189913,
+      "name": "Son\u00e1mbulo",
+      "url": "https://open.spotify.com/track/27yWuiO04OMNr0ikpQj0Oo"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -891,22 +923,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "el humo",
         "url": "https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN"
       },
@@ -923,42 +939,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Son\u00e1mbulo",
-        "url": "https://open.spotify.com/album/6XGv3w6gzMpsxesukAXsGi"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 189913,
-      "name": "Son\u00e1mbulo",
-      "url": "https://open.spotify.com/track/27yWuiO04OMNr0ikpQj0Oo"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Mi querida tempestad (en un vaso de agua)",
-        "url": "https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Mi querida tempestad (en un vaso de agua)",
-      "url": "https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
       },
@@ -971,22 +951,6 @@
       "duration_ms": 229740,
       "name": "Pasos de Gigantes",
       "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Todo No Es Tanto",
-        "url": "https://open.spotify.com/album/09cpYNPmEvToUhWNIiAuuj"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 412604,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/5s5yHN5zgvbp7R28PjuTFu"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1011,6 +975,26 @@
       "duration_ms": 309221,
       "name": "Viento",
       "url": "https://open.spotify.com/track/3EkrzuhAgUW4M9fE6wahzA"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Mi querida tempestad (en un vaso de agua)",
+        "url": "https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Mi querida tempestad (en un vaso de agua)",
+      "url": "https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 193786,
       "name": "tu voz en mis aud\u00edfonos",
       "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Todo No Es Tanto",
+        "url": "https://open.spotify.com/album/09cpYNPmEvToUhWNIiAuuj"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 412604,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/5s5yHN5zgvbp7R28PjuTFu"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1175,54 +1175,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Acorde Digital",
-        "url": "https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO"
-      },
-      "artists": [
-        {
-          "name": "( Me Llamo ) Sebasti\u00e1n",
-          "url": "https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Acorde Digital",
-      "url": "https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Trafun",
-        "url": "https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0"
-      },
-      "artists": [
-        {
-          "name": "Daniela Millaleo",
-          "url": "https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Me Fu\u00ed a Caminar",
-      "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "celebi",
-        "url": "https://open.spotify.com/album/1wxZMEUQty3adE3Rnxxm9Z"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 190167,
-      "name": "celebi",
-      "url": "https://open.spotify.com/track/6c0Y2pH3EN8XfNc1YJALPr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Depresi\u00f3n Estacional (Pittosporum)",
         "url": "https://open.spotify.com/album/6LB7CDWDiFvIB5JoeVp7we"
       },
@@ -1243,6 +1195,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "celebi",
+        "url": "https://open.spotify.com/album/1wxZMEUQty3adE3Rnxxm9Z"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 190167,
+      "name": "celebi",
+      "url": "https://open.spotify.com/track/6c0Y2pH3EN8XfNc1YJALPr"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Trafun",
+        "url": "https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0"
+      },
+      "artists": [
+        {
+          "name": "Daniela Millaleo",
+          "url": "https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Me Fu\u00ed a Caminar",
+      "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Recopilatorio",
         "url": "https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 186013,
       "name": "Cu\u00e1ntas Veces",
       "url": "https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Acorde Digital",
+        "url": "https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO"
+      },
+      "artists": [
+        {
+          "name": "( Me Llamo ) Sebasti\u00e1n",
+          "url": "https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Acorde Digital",
+      "url": "https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Solo Solo",
+        "url": "https://open.spotify.com/album/4fFcQLekE7gINxM2zqd9xo"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 187804,
+      "name": "Solo Solo",
+      "url": "https://open.spotify.com/track/16qBTMdJ1aedTCf078l492"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Pirueta",
         "url": "https://open.spotify.com/album/3Sbf7GZMTahvu2dhHeABe5"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 135325,
       "name": "Amor De Metro",
       "url": "https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Solo Solo",
-        "url": "https://open.spotify.com/album/4fFcQLekE7gINxM2zqd9xo"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Solo Solo",
-      "url": "https://open.spotify.com/track/16qBTMdJ1aedTCf078l492"
     },
     {
       "added_at": "2022-10-14 04:00:00",

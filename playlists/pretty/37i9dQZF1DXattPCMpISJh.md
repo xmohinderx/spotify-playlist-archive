@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Jack Moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,302 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,402 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 58 | [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 |
 | 59 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
 | 60 | [Say You Will](https://open.spotify.com/track/4z0dNvWLgIurGazB5SIQOw) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Be Mine EP](https://open.spotify.com/album/5WuwrJvqloEq5dfRnSj9Ro) | 4:13 |
-| 61 | [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 |
+| 61 | [Faces](https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Cut Velvet](https://open.spotify.com/album/6d1QycrvQbPhpsWv4cBuiU) | 2:21 |
 | 62 | [Cry \(Just A Little\)](https://open.spotify.com/track/4DtxGurCuuY1yZLoAXLxFp) | [Disko Junkie](https://open.spotify.com/artist/0E3yCtI9D8vUfIIWDOO7zP) | [Cry \(Just A Little\)](https://open.spotify.com/album/2p7PtQmmI95HyirutUbrDp) | 3:44 |
 | 63 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\] \- Harvey Sutherland Remix](https://open.spotify.com/track/7m02XUSTZiS3NlLmmNpbCP) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\] \[Harvey Sutherland Remix\]](https://open.spotify.com/album/1F8boVPj0u2N926VIyVZfX) | 4:07 |
 | 64 | [Club Paradise](https://open.spotify.com/track/36shm7XEr7Uzug8gQ02Kpn) | [Cab'Ral](https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj) | [Club Paradise](https://open.spotify.com/album/7bgC1AI5uhgpFGOIcXGwoA) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Crying on the Dance Floor](https://open.spotify.com/track/71j6BFw8ZUvgYolCXfjyRd) | [Jessy Jones](https://open.spotify.com/artist/0iMXHXPmYYWhfvjnNK42Kd) | [Crying on the Dance Floor](https://open.spotify.com/album/7pzEWRSHiJ6SZA8lviN99M) | 3:25 |
 | 100 | [You Should Be Dancing](https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS) | [Dee Gees](https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX) | [Dee Gees / Hail Satin \- Foo Fighters / Live](https://open.spotify.com/album/50QMS2zosvUxhucf6zMRUy) | 3:52 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDg5MjQ3NTlmNGM3OTkxMzA5ZDJiNGFmODc0YTZmOWU5`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDA5NWQ0OTU2MDdkYjdlYjU5NTdhZjhkYmU1YWNjNzZk`

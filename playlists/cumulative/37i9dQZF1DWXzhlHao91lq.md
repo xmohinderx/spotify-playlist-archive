@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-152 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
+154 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,11 +48,13 @@
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-07-25 | 2022-08-09 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-07-25 |  |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-08-08 |  |
+| [Friends](https://open.spotify.com/track/2x1xhwGKm41AUMd4ziuq70) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Friends](https://open.spotify.com/album/01iEjRypuKMgwDVw2jKxAz) | 2:11 | 2022-10-17 |  |
 | [God Only Knows](https://open.spotify.com/track/2I2gBMNuQAbuqcEvdmoZlF) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Dreams](https://open.spotify.com/album/5aP1PNb01SVRJNcaoOuItH) | 2:18 | 2022-06-13 | 2022-06-20 |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2022-07-25 |  |
 | [Good Things](https://open.spotify.com/track/17NLm3j22FlfCmgsaGmxdG) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Good Things](https://open.spotify.com/album/3pl19UkHDuzOMRVXklLsLO) | 2:50 | 2022-05-30 | 2022-07-29 |
 | [Goodbye](https://open.spotify.com/track/50H4Zt0dXHcLy9roe0Azpj) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Goodbye](https://open.spotify.com/album/7b735FgElMT3FOPNrnRDZn) | 3:46 | 2022-05-30 | 2022-07-28 |
 | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 | 2022-07-25 |  |
+| [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2022-10-17 |  |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-07-25 | 2022-08-09 |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2022-07-25 |  |
 | [Here With Me \- Acoustic](https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Here With Me \(Acoustic\)](https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx) | 2:44 | 2022-05-30 |  |
@@ -144,7 +146,7 @@
 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 | 2022-08-08 |  |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2022-06-13 | 2022-06-23 |
 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 | 2022-08-08 |  |
-| [Wasted](https://open.spotify.com/track/0OhpCv3zEWYQzB00TdXEjz) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Wasted](https://open.spotify.com/album/7yVlG0NJ0BStMiM8W9BIYp) | 2:48 | 2022-10-10 |  |
+| [Wasted](https://open.spotify.com/track/0OhpCv3zEWYQzB00TdXEjz) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Wasted](https://open.spotify.com/album/7yVlG0NJ0BStMiM8W9BIYp) | 2:48 | 2022-10-10 | 2022-10-18 |
 | [We All Fall Down](https://open.spotify.com/track/3HP1umFHOSLGbia2YQWUhy) | [Jun Kung](https://open.spotify.com/artist/639mapjt3km7OblpMSFRnq) | [We All Fall Down](https://open.spotify.com/album/2HnTd15dx4oLiBVuN7H9V9) | 3:34 | 2022-05-30 | 2022-07-29 |
 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-09-05 |  |
 | [When You Look At Me](https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [When You Look At Me](https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk) | 2:50 | 2022-08-08 | 2022-08-17 |
@@ -152,7 +154,7 @@
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-07-25 | 2022-08-09 |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-07-25 |  |
 | [Who's She](https://open.spotify.com/track/5wwsojnDfF6vQMxWgO3H2L) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 3:19 | 2022-08-08 | 2022-10-06 |
-| [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 | 2022-08-08 |  |
+| [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 | 2022-08-08 | 2022-10-18 |
 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 | 2022-05-30 | 2022-07-26 |
 | [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2022-07-25 | 2022-08-09 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-05 | 2022-10-08 |

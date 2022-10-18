@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,562 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,609 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 49 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
 | 50 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 | 51 | [I Wanted My Heart to Break](https://open.spotify.com/track/1XzBkGMqeenkz0x0ROXHZK) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Wanted My Heart to Break](https://open.spotify.com/album/4cbuvR3gH9Uc02ao0hzzpG) | 3:47 |
-| 52 | [Hold On](https://open.spotify.com/track/14wHKX7gSF6cgICuakSte9) | [Future Boyfriend](https://open.spotify.com/artist/6WgbfyAIroFv9OUhPbdqr8) | [Hold On](https://open.spotify.com/album/7dMBbDTMgB1H4xIZdQmVWz) | 3:50 |
+| 52 | [Hold On](https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36) | [Hold On](https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv) | 4:14 |
 | 53 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 54 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 |
 | 55 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [EMPATHY](https://open.spotify.com/track/5csiTZbWuNHlU6kkqElpad) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7dwjYiomQezxXA6Gwd0fUE) | 3:15 |
 | 100 | [See Me Now](https://open.spotify.com/track/4DqxKIhAKHwiHk5WwBbXzU) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [See Me Now](https://open.spotify.com/album/60SPKbQofyJ9aqlWe6ugHr) | 3:04 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDczNTlkZDViZTc1OTZkNWUzNGMwNDFiNjVjMTQ4ZmVi`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGJkN2MxNDcxZjFlMmJkZmZiZTEzMGRkY2U5MjBiY2Ez`

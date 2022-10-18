@@ -1373,7 +1373,7 @@
     {
       "album": {
         "name": "20th Century British Choral Music",
-        "url": "https://open.spotify.com/album/3KUV9MQ30VsocUmMgef85e"
+        "url": "https://open.spotify.com/album/1lHTzkILsaV2tx7pSuphXv"
       },
       "artists": [
         {
@@ -1388,6 +1388,28 @@
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274306,
+      "name": "Sirens' Song",
+      "url": "https://open.spotify.com/track/2BLaXRuwTwMN4mT4Dn4jDw"
+    },
+    {
+      "album": {
+        "name": "20th Century British Choral Music",
+        "url": "https://open.spotify.com/album/3KUV9MQ30VsocUmMgef85e"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Maconchy",
+          "url": "https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn"
+        },
+        {
+          "name": "The Ionian Singers",
+          "url": "https://open.spotify.com/artist/62huOMu7A2I2r7rl5FkMno"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 274306,
       "name": "Sirens' Song",
       "url": "https://open.spotify.com/track/3IY27fcK9K2WrYjczdILdb"

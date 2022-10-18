@@ -4,7 +4,7 @@
 
 > indie pop when ur crushing so hard it hurts
 
-246 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
+247 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 | 2021-04-30 |  |
 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 | 2021-07-02 | 2022-07-29 |
 | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz) | 3:12 | 2021-06-11 | 2022-04-14 |
-| [Butterfly](https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Butterfly](https://open.spotify.com/album/4nTs6mHKBGIvSJTL1IXE5i) | 2:40 | 2021-04-30 |  |
+| [Butterfly](https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Butterfly](https://open.spotify.com/album/4nTs6mHKBGIvSJTL1IXE5i) | 2:40 | 2021-04-30 | 2022-10-18 |
 | [BYE](https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [BYE](https://open.spotify.com/album/4TVz7u3xhjsYYI2Ir8ZUbW) | 4:56 | 2021-07-02 | 2022-07-29 |
 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 | 2022-09-09 |  |
 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 | 2021-07-02 | 2022-09-10 |
@@ -98,6 +98,7 @@
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-06-30 |  |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-07-09 |  |
 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 | 2021-04-30 | 2022-09-10 |
+| [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-10-17 |  |
 | [Erase](https://open.spotify.com/track/4luBGXcgpFQPPAtcF4zEdv) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Erase](https://open.spotify.com/album/5CQJNJ3aHoWhegy4Xp7LcC) | 3:56 | 2022-06-30 | 2022-09-10 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
 | [Face Again](https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Hats Off](https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz) | 2:14 | 2021-04-30 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: A Boogie Wit Da Hoodie
 
-385 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
+386 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [July The Fourth](https://open.spotify.com/track/5L2yLS4c0rEAVu2sQouz7t) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [July The Fourth](https://open.spotify.com/album/6Ai7vuVWp2XvQAYBib1TPA) | 2:09 | 2022-07-08 | 2022-09-10 |
 | [Jumping](https://open.spotify.com/track/1eCgZFpNsBY4h1gIsAmTpV) | [Quelly Woo](https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd) | [Top Prospect \-LOTTERY PICK](https://open.spotify.com/album/3NRuJM5j49FzzaWyJpVbeD) | 1:45 | 2022-03-11 | 2022-03-18 |
 | [Just Being Honest](https://open.spotify.com/track/32X1b9f1SDQ5YprMBRTyni) | [Ciggy Blacc](https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ) | [Just Being Honest](https://open.spotify.com/album/7KUOoE3u5b2fQkXHc1463h) | 2:28 | 2022-09-23 |  |
+| [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-10-18 |  |
 | [Kiss Ya Neck \(feat\. Fivio Foreign & Rowdy Rebel\)](https://open.spotify.com/track/34N03j4WSj0rqK4VuL3k58) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 3:38 | 2022-07-15 |  |
 | [KNOCKITOFF](https://open.spotify.com/track/70CJRfEEK94TszqGcqDWbA) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Qu'ality](https://open.spotify.com/artist/61muz1GBom0coVyQLRiu67) | [KNOCKITOFF](https://open.spotify.com/album/2pFr1iqv9DJ6JEgBf7CEuO) | 1:40 | 2022-09-30 |  |
 | [LABOU](https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Balens Cho \(Hot Candles\)](https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs) | 2:48 | 2021-12-26 | 2022-02-19 |
@@ -346,7 +347,7 @@
 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 | 2022-06-10 | 2022-06-18 |
 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 | 2022-01-14 | 2022-04-09 |
 | [The Rock](https://open.spotify.com/track/338rI8tKxvlOuRTs1Qapbo) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [The Rock](https://open.spotify.com/album/4jUfsuirfga7P3pM0eauSg) | 2:14 | 2022-04-08 | 2022-05-07 |
-| [The Wire \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5HyHnZ6aSdORxyY24BWkdo) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [More Than Music, Pt\. 2](https://open.spotify.com/album/1AFfH43xNSiszkqzN3z9xO) | 2:59 | 2022-07-22 |  |
+| [The Wire \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5HyHnZ6aSdORxyY24BWkdo) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [More Than Music, Pt\. 2](https://open.spotify.com/album/1AFfH43xNSiszkqzN3z9xO) | 2:59 | 2022-07-22 | 2022-10-18 |
 | [The Wolf Is In The Peacoat](https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [The Wolf Is In The Peacoat](https://open.spotify.com/album/67p1Bgut3cEHpDJBTG8NQV) | 3:16 | 2022-03-04 | 2022-05-07 |
 | [Therapy Music \(feat\. Russ\)](https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Therapy Music](https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9) | 4:22 | 2022-05-06 | 2022-06-01 |
 | [They Don't Know](https://open.spotify.com/track/2grbjy3hdw9ucfG3zJ4pCm) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [They Don't Know](https://open.spotify.com/album/7m9YSsj7bOyKOqd4Etu5LO) | 2:27 | 2022-04-29 | 2022-06-11 |

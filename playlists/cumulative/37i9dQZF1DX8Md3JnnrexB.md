@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-307 songs - 21 hr 48 min - [published](https://open.spotify.com/playlist/7v77ZxN6OH86CyRzA3yih0)
+308 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/7v77ZxN6OH86CyRzA3yih0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Close the Door](https://open.spotify.com/track/18QoUfcjQavkS6t7QT04aK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing](https://open.spotify.com/album/0x8q0crYQI3FagJi0UG5nY) | 5:25 | 2021-12-13 | 2022-07-29 |
 | [Close to You](https://open.spotify.com/track/2VUsmzlxjarwAVMCI2bm9x) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [Still](https://open.spotify.com/album/6ZAjdkKHnWLdpL1deFXajO) | 3:24 | 2022-02-21 |  |
 | [Close Your Eyes](https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dream Awake](https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ) | 3:23 | 2022-05-11 | 2022-09-09 |
-| [Come Over](https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:42 | 2022-01-03 |  |
+| [Come Over](https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:42 | 2022-01-03 | 2022-10-18 |
 | [Come Share My Love](https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Come Share My Love](https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf) | 4:50 | 2022-01-05 |  |
 | [Come To Me \(with Musiq Soulchild\)](https://open.spotify.com/track/1AlkJA8QIBrlpiZtZirkIB) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb) | 3:08 | 2022-01-03 | 2022-10-13 |
 | [Complicated \(feat\. Anthony Hamilton\) \- The Remix](https://open.spotify.com/track/4OOhy6f0Mo3XleHjTRBWYi) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Complicated \(feat\. Anthony Hamilton\) \[The Remix\]](https://open.spotify.com/album/3xPI0lL6igDc2HSeczqA9a) | 4:03 | 2022-01-20 | 2022-03-31 |
@@ -110,6 +110,7 @@
 | [Groovin'](https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:57 | 2021-12-13 | 2022-07-29 |
 | [Groovin' \- Remastered](https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL) | 2:43 | 2022-05-11 |  |
 | [Groovin' \- Remastered](https://open.spotify.com/track/5tIbsf9661vfjKOJD9IsCb) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/5DNuGx7kB0GRgT8TOeppeC) | 2:43 | 2022-01-03 | 2022-07-29 |
+| [Grow](https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1) | 3:00 | 2022-05-11 |  |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-13 | 2022-10-13 |
 | [Heaven Help](https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 3:20 | 2021-12-13 |  |
 | [Holding On](https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 4:14 | 2022-05-11 |  |

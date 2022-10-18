@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,669 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,706 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 37 | [Lost & Found](https://open.spotify.com/track/5Oqj9NjQh2H1HTl5yibPhd) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:40 |
 | 38 | [Caught In The Fire](https://open.spotify.com/track/6p2aqe1losjYYviUrj5hEF) | [Date Night](https://open.spotify.com/artist/2Yb3Wq5bwK9HNXvrLKsnVC), [Dion Isaiah](https://open.spotify.com/artist/3voFDI6eBJt7uGs6c91sws) | [Caught In The Fire](https://open.spotify.com/album/7EUjWQ1i8jshFgeznSp4fw) | 3:07 |
 | 39 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
-| 40 | [Your Touch](https://open.spotify.com/track/5xRMmHOAQiVJ2QeDv0gTS7) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ) | [Amplified Experiment](https://open.spotify.com/album/4LBXZnLDGPeR45cyr8BxMy) | 2:48 |
+| 40 | [Your Touch](https://open.spotify.com/track/5lMJEmLGzqbdFuOaonB0eO) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4Yg2SUfnqsTc37ip0njWfH) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:48 |
 | 41 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 |
 | 42 | [Somethingood](https://open.spotify.com/track/29T6HQEYLAc8syLr3I4SRK) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 6:30 |
 | 43 | [Colors](https://open.spotify.com/track/4475NmYiujibxkv2O7sWED) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Colors](https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 79 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 |
 | 80 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDc0MmNjYmFiYTRkYjRhOTBkMjY4ZWY3ODZlOTc2Y2U1`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDNmZjNmMDhjNDc4NjJjM2I5MWVlYmJiMjE5ODZlZDVi`

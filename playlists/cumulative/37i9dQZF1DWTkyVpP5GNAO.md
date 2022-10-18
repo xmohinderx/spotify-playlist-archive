@@ -4,7 +4,7 @@
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-121 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/6XERtpxula7zdB3WFxiDds)
+122 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/6XERtpxula7zdB3WFxiDds)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u) | 5:05 | 2021-07-23 |  |
 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4dS4gq496Yf7msTsgXEJSG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/1WfsoWeDqgkOS2KaIfSStH) | 5:05 | 2021-07-23 | 2022-07-29 |
 | [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 | 2021-07-23 |  |
-| [La Bendición](https://open.spotify.com/track/7GXEqXgjSZfk0GbswEnexm) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/2RyJ2oTOxST7i6rEqVUG7V) | 5:57 | 2021-07-23 |  |
+| [La Bendición](https://open.spotify.com/track/7GXEqXgjSZfk0GbswEnexm) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/2RyJ2oTOxST7i6rEqVUG7V) | 5:57 | 2021-07-23 | 2022-10-18 |
+| [La Bendición](https://open.spotify.com/track/7sy4lR1Q1FnOaAdyc8Aapz) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/24aCBIUVgyOIiUTmLQyarN) | 5:57 | 2021-07-23 |  |
 | [La Cruz](https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm) | 5:46 | 2021-07-23 | 2022-07-29 |
 | [La Cruz](https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6) | 5:46 | 2021-07-23 |  |
 | [La Imagen De Dios](https://open.spotify.com/track/4xTj1CezTYAkR4qPsqPH1w) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 5:31 | 2021-07-23 |  |

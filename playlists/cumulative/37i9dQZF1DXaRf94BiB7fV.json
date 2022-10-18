@@ -10377,6 +10377,24 @@
     {
       "album": {
         "name": "Those Colourful Days",
+        "url": "https://open.spotify.com/album/48Y57IkEQdwYukhQ6OcBrY"
+      },
+      "artists": [
+        {
+          "name": "Takar Nabam",
+          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200348,
+      "name": "Those Colourful Days",
+      "url": "https://open.spotify.com/track/2WU79SGwAELqGqdITcPZeg"
+    },
+    {
+      "album": {
+        "name": "Those Colourful Days",
         "url": "https://open.spotify.com/album/4sWJdwvzWHNF6LTm5d6NRs"
       },
       "artists": [
@@ -10387,7 +10405,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 200348,
       "name": "Those Colourful Days",
       "url": "https://open.spotify.com/track/2zQUFVZsR5eyfn1MIgA1Hq"

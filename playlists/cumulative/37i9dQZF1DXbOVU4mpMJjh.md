@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-415 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+416 songs - 1 day 10 hr 32 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [My Little Brown Book](https://open.spotify.com/track/0WPHL9IRv1Nm4xu21qxgnw) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1rZ3fUUggXNiZ0UczEgHEq) | 5:23 | 2022-04-14 | 2022-07-29 |
 | [My One And Only Love](https://open.spotify.com/track/1HEGcv63IZ7TPncpVKdVdN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 4:54 | 2022-04-14 | 2022-06-01 |
 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj) | 4:12 | 2022-04-14 | 2022-07-29 |
-| [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 | 2022-06-30 |  |
+| [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 | 2022-06-30 | 2022-10-18 |
 | [My Simple Thing](https://open.spotify.com/track/4uP9aFwUv5lMNOlh6mKuNM) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:01 | 2022-04-14 | 2022-07-29 |
 | [My Simple Thing](https://open.spotify.com/track/1GxMQS2PB67WbWEyUPo5Ig) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:01 | 2022-06-30 | 2022-10-08 |
 | [Naima](https://open.spotify.com/track/1hVRTl4yhWmGW7ImZoO22e) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 4:18 | 2022-04-14 | 2022-07-29 |
@@ -412,6 +412,7 @@
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-29 | 2022-10-08 |
 | [Windows](https://open.spotify.com/track/0m8tSPLHhjhGToD6LW0RPp) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [The Best Of Chick Corea](https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus) | 3:11 | 2022-04-14 | 2022-04-27 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
+| [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-13 |  |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2022-04-14 | 2022-08-30 |
 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2022-04-14 | 2022-10-15 |
 | [You Go to My Head](https://open.spotify.com/track/0K98aZItWBqCnFiMMiXiD8) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 5:16 | 2022-04-14 | 2022-10-08 |

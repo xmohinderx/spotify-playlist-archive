@@ -4,7 +4,7 @@
 
 > Piano music for your massage session.
 
-164 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/0MT14IFeha7RvTUzzRUcTI)
+165 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/0MT14IFeha7RvTUzzRUcTI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Ex Nihilo Nihil Fit](https://open.spotify.com/track/3iyH2B4dcjufYE0ZjiUZsC) | [Elder Lockhart](https://open.spotify.com/artist/4E0ctBJaB32wQSdYHmIsxU) | [Ex Nihilo Nihil Fit](https://open.spotify.com/album/4UGoF6BHCz2xclaI3J74Zf) | 2:35 | 2022-05-27 |  |
 | [Feels like home](https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Feels like home](https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz) | 2:33 | 2022-05-27 | 2022-07-28 |
 | [First Light](https://open.spotify.com/track/4yuDrAv22L2WhLaNQVBn8t) | [Garreth Brooke](https://open.spotify.com/artist/2zkBE2h0e4LHHWRWHNL1bw), [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [First Light](https://open.spotify.com/album/6GHHSY1QQPCTO5ium5ec2R) | 2:06 | 2022-05-27 |  |
-| [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2022-05-27 |  |
+| [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2022-05-27 | 2022-10-18 |
+| [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2022-09-23 |  |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2022-05-27 | 2022-07-28 |
 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 | 2022-05-27 |  |
 | [Friend](https://open.spotify.com/track/41jpD9d8fOSzOya79B7A7K) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Friend](https://open.spotify.com/album/3gMNDU94vR2HTmQen6gfqT) | 2:45 | 2022-05-27 |  |

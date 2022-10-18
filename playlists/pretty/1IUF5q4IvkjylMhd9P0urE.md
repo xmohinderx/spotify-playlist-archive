@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 13,696 likes - 74 songs - 4 hr 25 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 13,711 likes - 74 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 73 | [忘了一切](https://open.spotify.com/track/7uSH0d3A7LVxcUNLD5jhEy) | [Organ Tapes](https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS), [Munni](https://open.spotify.com/artist/4SAamEL1WY4iz9QxWzxQ31) | [唱着那无人问津的歌谣 / Chang Zhe Na Wu Ren Wen Jin De Ge Yao](https://open.spotify.com/album/46TF8codHZOaBXwrlvoYWx) | 2:48 |
 | 74 | [Gooie](https://open.spotify.com/track/27kMod52JEBT3xyQ3HZ3bs) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Touching Bass presents: Soon Come](https://open.spotify.com/album/4X0zpgV5SkAiOsTinSy0Tq) | 3:35 |
 
-Snapshot ID: `NTY1MSxlMmVhZTk0YThkZWZkZjBkMjU5MWZmM2FhNjU4YTQ4OWQwYzdmYzJj`
+Snapshot ID: `NTY1MiwyM2E4M2FiZjcwN2JkM2I1NDE3YjllNjdmYzY1NmY5N2ZmOWVmZGQ3`

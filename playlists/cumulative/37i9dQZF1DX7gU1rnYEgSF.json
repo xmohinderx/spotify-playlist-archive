@@ -511,7 +511,7 @@
     {
       "album": {
         "name": "Dinosaur Song",
-        "url": "https://open.spotify.com/album/1gHWTkLcyoF0ubYXx6kWKa"
+        "url": "https://open.spotify.com/album/5AXypWo2PE4LHa3UsVGRsY"
       },
       "artists": [
         {
@@ -522,6 +522,24 @@
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 108278,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/0GxRQtlH4J3YbSIw1zshle"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Song",
+        "url": "https://open.spotify.com/album/1gHWTkLcyoF0ubYXx6kWKa"
+      },
+      "artists": [
+        {
+          "name": "ITS MUSIC",
+          "url": "https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 108278,
       "name": "Dinosaur Song",
       "url": "https://open.spotify.com/track/6eGrP5UF9ysYwIprgtBTiT"

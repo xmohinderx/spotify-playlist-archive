@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-164 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
+165 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Heels](https://open.spotify.com/track/308Utw07cMM1h6lErHcyP8) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/6CId8BadkMmRCJ2Cz5aEtf) | 3:15 | 2021-10-05 | 2022-07-29 |
 | [Heels](https://open.spotify.com/track/3KscNimoarA53lRrC5JkWG) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:15 | 2022-07-14 |  |
 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 | 2021-10-05 |  |
-| [Home](https://open.spotify.com/track/5pAIi2xDRVLWy51n6xtOTY) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Home](https://open.spotify.com/album/6b3AmiePqO00ZFHLtAwtN4) | 3:15 | 2021-10-05 |  |
+| [Home](https://open.spotify.com/track/3Ft2TbgNi2oP2E9PnIZYXr) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Home](https://open.spotify.com/album/1SS0P6ycOwvuwLp4A2Tkuy) | 3:15 | 2022-07-14 |  |
+| [Home](https://open.spotify.com/track/5pAIi2xDRVLWy51n6xtOTY) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Home](https://open.spotify.com/album/6b3AmiePqO00ZFHLtAwtN4) | 3:15 | 2021-10-05 | 2022-10-18 |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-10-05 | 2022-10-13 |
 | [HUH?](https://open.spotify.com/track/51YAv7jAdOLFVzKSIry2Sw) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:43 | 2022-07-14 |  |
 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 | 2022-07-14 |  |

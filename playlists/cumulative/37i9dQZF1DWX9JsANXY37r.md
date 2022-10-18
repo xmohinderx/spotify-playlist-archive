@@ -4,7 +4,7 @@
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-212 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
+213 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Down to Love](https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Late Night Boogie](https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA) | 6:33 | 2022-03-25 | 2022-04-21 |
 | [Dream](https://open.spotify.com/track/5GCrBPWKpgH4H3bLLnvWm7) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Dream](https://open.spotify.com/album/024Y1wPNxGBJBkpbNlPUny) | 4:39 | 2022-03-25 | 2022-04-18 |
 | [Drive](https://open.spotify.com/track/6DrnfOtSXRohVHbyVKPyWE) | [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [Dornik](https://open.spotify.com/album/5KhdVsoOssy3Uxnc9wPjpg) | 2:55 | 2022-03-25 | 2022-04-18 |
+| [Easy](https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 3:20 | 2022-09-21 |  |
 | [Easy](https://open.spotify.com/track/6bPk3V91v7xEXcXBGVB2Yr) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 3:20 | 2022-02-18 | 2022-07-29 |
 | [Equals](https://open.spotify.com/track/3n5wEMIL3crQC96d872RYv) | [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [Equals](https://open.spotify.com/album/49zBMJYpQKcA8NnsbYah83) | 3:33 | 2022-02-18 | 2022-07-29 |
 | [Ever Again](https://open.spotify.com/track/2DKhAFWadzNtGTb9ZM98zB) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/7rtmaF7HH7OeBI4iIJpMw3) | 4:24 | 2022-03-25 | 2022-04-15 |
@@ -95,7 +96,7 @@
 | [Hold On](https://open.spotify.com/track/0WbwSOALA9zsh7r18Jwbau) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dance Without Me](https://open.spotify.com/album/0MAg2c8prkPMm0k9ZINhOK) | 3:24 | 2022-02-18 | 2022-07-27 |
 | [Hold On](https://open.spotify.com/track/4dPimg8olUWKxHZXPD3KOO) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:30 | 2022-03-25 | 2022-04-17 |
 | [Honor \(feat\. SAYGRACE & Lil Yachty\)](https://open.spotify.com/track/2LMCyYtrdA3qBX5GkKxDBf) | [DJ Cassidy](https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Honor \(feat\. SAYGRACE & Lil Yachty\)](https://open.spotify.com/album/0cFsoYJsY0QkviunLAXhES) | 4:11 | 2022-03-25 | 2022-04-19 |
-| [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2022-02-18 |  |
+| [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2022-02-18 | 2022-10-18 |
 | [How Much You Want Her](https://open.spotify.com/track/2kGL9Psld2b7ui4H7IDtsa) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [How Much You Want Her](https://open.spotify.com/album/38RwrCtuv4QqOGfm2j5AuB) | 3:39 | 2022-03-25 | 2022-04-20 |
 | [How You Feel](https://open.spotify.com/track/4LvFKRCe3kUv4AURnZx8SI) | [Swsh](https://open.spotify.com/artist/4mNJoaGdBbtAwFTbMC4mdV) | [How You Feel](https://open.spotify.com/album/1GcOZc1EOrAZU8wqnYRub1) | 2:58 | 2022-03-25 | 2022-04-21 |
 | [Hunger](https://open.spotify.com/track/3Ly2KsOZ0OylQh3WmjZ8At) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/3kSUJ193A42dfs82PmOUP0) | 3:29 | 2022-03-25 | 2022-04-21 |

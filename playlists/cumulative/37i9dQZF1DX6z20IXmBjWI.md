@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-329 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+330 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-12-10 | 2022-07-27 |
 | [Before You](https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold Fast](https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF) | 2:47 | 2022-06-08 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-10 |  |
-| [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 |  |
+| [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 | 2022-10-18 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-12-10 |  |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2021-12-10 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-06-08 |  |
@@ -61,6 +61,7 @@
 | [Deep In Love](https://open.spotify.com/track/2ehQ2UuXplkqly0XBBAPud) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 5:09 | 2021-12-10 | 2022-07-29 |
 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 | 2022-06-08 |  |
 | [Desert Wine \(Acoustic\)](https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Wear Bluebells in Your Hat If You're Goin' That Way](https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2) | 3:08 | 2021-12-10 | 2022-01-17 |
+| [Detour](https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG) | 3:33 | 2022-06-08 |  |
 | [Detour](https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT) | 3:33 | 2021-12-10 | 2022-10-13 |
 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 | 2021-12-10 |  |
 | [Down in the Lonesome Draw](https://open.spotify.com/track/4PVkyVnAow2Tg3j1FL1UYW) | [Cahalen Morrison & Eli West](https://open.spotify.com/artist/36q9hgg6HgeYXR4IyC4HNt) | [I'll Swing My Hammer With Both My Hands](https://open.spotify.com/album/6ykVqJ5Cjp2EUxM31dHO4r) | 4:36 | 2022-01-21 | 2022-06-09 |

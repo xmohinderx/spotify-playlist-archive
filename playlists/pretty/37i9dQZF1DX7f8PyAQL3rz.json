@@ -1,12 +1,12 @@
 {
   "description": "poze esquece pitbull chegou como",
-  "num_followers": 952819,
+  "num_followers": 953719,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc0MzQwNywwMDAwMDAwMDIzNWFlMjNjNmY0M2UwMDQxYWM0OWMyOTI4MDQwMmY1",
+  "snapshot_id": "MTY2NTc0MzQwNywwMDAwMDAwMDJlYjI5ZDBmYWZhOGRkMTIzNDk3MWEzNTg0YjIxYzg0",
   "tracks": [
     {
       "added_at": "2022-10-14 10:30:07",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-14 10:30:07",
       "album": {
+        "name": "Fim de Semana no Rio",
+        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Fim de Semana no Rio",
+      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
+    },
+    {
+      "added_at": "2022-10-14 10:30:07",
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2022-10-14 10:30:07",
       "album": {
-        "name": "Fim de Semana no Rio",
-        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Fim de Semana no Rio",
-      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
-    },
-    {
-      "added_at": "2022-10-14 10:30:07",
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -539,38 +539,6 @@
       "duration_ms": 150697,
       "name": "Konteiner",
       "url": "https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit"
-    },
-    {
-      "added_at": "2022-10-14 10:30:07",
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 192194,
-      "name": "ESS\u00caNCIA DE CRIA",
-      "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
     },
     {
       "added_at": "2022-10-14 10:30:07",
@@ -615,6 +583,62 @@
     {
       "added_at": "2022-10-14 10:30:07",
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 192194,
+      "name": "ESS\u00caNCIA DE CRIA",
+      "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
+    },
+    {
+      "added_at": "2022-10-14 10:30:07",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
+    },
+    {
+      "added_at": "2022-10-14 10:30:07",
+      "album": {
         "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
         "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 300689,
       "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
       "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
-    },
-    {
-      "added_at": "2022-10-14 10:30:07",
-      "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2022-10-14 10:30:07",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-10-14 10:30:07",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 169092,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
+    },
+    {
+      "added_at": "2022-10-14 10:30:07",
+      "album": {
         "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
       },
@@ -803,6 +819,30 @@
       "duration_ms": 318666,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
+    },
+    {
+      "added_at": "2022-10-14 10:30:07",
+      "album": {
+        "name": "Eu Fiz o Jogo Virar",
+        "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Eu Fiz o Jogo Virar",
+      "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
     },
     {
       "added_at": "2022-10-14 10:30:07",
@@ -855,42 +895,22 @@
     {
       "added_at": "2022-10-14 10:30:07",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+        "name": "Horas Iguais",
+        "url": "https://open.spotify.com/album/75q0lNTV1DIYkLeBqil9EE"
       },
       "artists": [
         {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 169092,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
-    },
-    {
-      "added_at": "2022-10-14 10:30:07",
-      "album": {
-        "name": "Eu Fiz o Jogo Virar",
-        "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         }
       ],
-      "duration_ms": 145573,
-      "name": "Eu Fiz o Jogo Virar",
-      "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
+      "duration_ms": 246942,
+      "name": "Horas Iguais",
+      "url": "https://open.spotify.com/track/4m8kG46clzxMxyrDuFo1Uq"
     },
     {
       "added_at": "2022-10-14 10:30:07",
@@ -935,26 +955,6 @@
       "duration_ms": 215004,
       "name": "Louis V, Menina Linda",
       "url": "https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ"
-    },
-    {
-      "added_at": "2022-10-14 10:30:07",
-      "album": {
-        "name": "Horas Iguais",
-        "url": "https://open.spotify.com/album/75q0lNTV1DIYkLeBqil9EE"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 246942,
-      "name": "Horas Iguais",
-      "url": "https://open.spotify.com/track/4m8kG46clzxMxyrDuFo1Uq"
     },
     {
       "added_at": "2022-10-14 10:30:07",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2022-10-14 10:30:07",
       "album": {
-        "name": "Dubl\u00ea de Marido",
-        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Dubl\u00ea de Marido",
-      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
-    },
-    {
-      "added_at": "2022-10-14 10:30:07",
-      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
+    },
+    {
+      "added_at": "2022-10-14 10:30:07",
+      "album": {
+        "name": "Dubl\u00ea de Marido",
+        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Dubl\u00ea de Marido",
+      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
     },
     {
       "added_at": "2022-10-14 10:30:07",

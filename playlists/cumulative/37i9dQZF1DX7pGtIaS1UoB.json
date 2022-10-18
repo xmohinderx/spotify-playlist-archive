@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
+        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183002,
+      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
+      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
+    },
+    {
+      "album": {
         "name": "\u4f4e\u982d\u6230",
         "url": "https://open.spotify.com/album/1wCDig0yqUA0eP8tepQUv4"
       },
@@ -2158,6 +2176,28 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u9e7f\u4e82\u8dd1\u4e2d (feat. \u8a79\u91cf\u6df5)",
+        "url": "https://open.spotify.com/album/6q0FtIpzWtP4MozETMIive"
+      },
+      "artists": [
+        {
+          "name": "\u694a\u5b9c\u84c9",
+          "url": "https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a"
+        },
+        {
+          "name": "\u8a79\u91cf\u6df5",
+          "url": "https://open.spotify.com/artist/02ur8u5FBITdCunLs7J0lO"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "\u5c0f\u9e7f\u4e82\u8dd1\u4e2d (feat. \u8a79\u91cf\u6df5)",
+      "url": "https://open.spotify.com/track/0tWzpcQaxrH7U9KAM9q6lS"
+    },
+    {
+      "album": {
         "name": "\u6211\u53ef\u5426\u5c06\u4eba\u751f\u6bd4\u4f5c\u4e00\u573a\u7ade\u6280",
         "url": "https://open.spotify.com/album/4fNoLqoUAfMmo8CBfbUxzN"
       },
@@ -2619,7 +2659,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 210750,
       "name": "\u60f3\u8457\u4f60\u60f3\u8457\u4f60 - \u4e09\u7acb\u96fb\u8996\u300a\u9580\u7576\u4e92\u61df\u611b\u4e0a\u4f60\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/47g1rf0gbKBZqpnTSYrWAW"
@@ -3385,7 +3425,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 283360,
       "name": "\u6eab\u6cc9",
       "url": "https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS"

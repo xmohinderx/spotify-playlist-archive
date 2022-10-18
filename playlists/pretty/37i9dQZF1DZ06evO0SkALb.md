@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,450 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,457 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 35 | [A Lover's Question](https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Phoebe Snow](https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt) | [Portrait Of The Blues](https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE) | 3:04 |
 | 36 | [Sweet Lover](https://open.spotify.com/track/0uLV5fXFiGv9i9UEKDOCGc) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sweet Chariot](https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal) | 3:11 |
 | 37 | [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 |
-| 38 | [Early Morning Love](https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:39 |
+| 38 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
 | 39 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 |
-| 40 | [Stormy Weather \(Keeps Rainin' All The Time\) \- 2006 Remaster](https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Tobacco Road](https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh) | 3:02 |
-| 41 | [You're the One](https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 5:18 |
-| 42 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
+| 40 | ['Tain't Nobody's Biz\-ness If I Do](https://open.spotify.com/track/3YKl0GFke1KhVACpj59XtL) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 2:45 |
+| 41 | [Stormy Weather \(Keeps Rainin' All The Time\) \- 2006 Remaster](https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Tobacco Road](https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh) | 3:02 |
+| 42 | [Early Morning Love](https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:39 |
 | 43 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 |
 | 44 | [Lover's Holiday](https://open.spotify.com/track/6tasaR3rJiSdRbuA9o5xop) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 5:20 |
 | 45 | [From Now On](https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:54 |
 | 46 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 |
 | 47 | [Wind Beneath My Wings \- Single Version](https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \- The Very Best Of](https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN) | 3:52 |
-| 48 | [Chain Gang \(feat\. Lou Rawls\)](https://open.spotify.com/track/5qdqlHz8qxgi86txQbXp3x) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 3:51 |
-| 49 | [Lifetime Monologue \- Remastered](https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 1:51 |
+| 48 | [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 |
+| 49 | [You're the One](https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 5:18 |
 | 50 | [You Can't Go Home](https://open.spotify.com/track/4PtxNIk3QS8ACAO9m9sn4R) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 5:33 |
 
-Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDBiZjE4ODNlY2U3YzkyYjMxM2M2YzY0YmQxNDliNWNkNQ==`
+Snapshot ID: `Mjc3NjY4NzIsMDAwMDAwMDAwMGRmYTJhM2EwZmY0NGNiNjIxMTYzYjg2YzNkMDU4ZQ==`

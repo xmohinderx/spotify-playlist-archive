@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-507 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+508 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Conversations](https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Moria](https://open.spotify.com/album/2cWxHrXLktYn2jh0dptnut) | 3:06 | 2022-01-14 | 2022-09-15 |
 | [Crash](https://open.spotify.com/track/49csxWyhQc92RHjUO8iVGa) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crash](https://open.spotify.com/album/5gUU4HEV4bJrITXZNYgvTE) | 2:13 | 2022-06-03 |  |
 | [Crash & Burn](https://open.spotify.com/track/5bv92Php1ppJc4GL58KBbq) | [Too Martian](https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq), [Fane](https://open.spotify.com/artist/4mVmOuiAaHkNp5A0a8bvBx) | [Crash & Burn](https://open.spotify.com/album/1REvPNymW3eMvdF6zpo8Ft) | 3:12 | 2022-02-14 | 2022-03-19 |
+| [CRAVE](https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H) | [CRAVE](https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu) | 2:30 | 2022-10-17 |  |
 | [Cravin'](https://open.spotify.com/track/41qoLqCcn0X07B6XW9b28v) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i), [Kendyle Paige](https://open.spotify.com/artist/61i5hkPM85ZcIxRsg61Hkl) | [Cravin'](https://open.spotify.com/album/5hpAWKkdnHBbNK3VB9ucJm) | 2:52 | 2022-04-22 | 2022-06-18 |
 | [Cravin' \(Remixed\)](https://open.spotify.com/track/52r9wJvMNhueIKRKDqNLr9) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i), [Kendyle Paige](https://open.spotify.com/artist/61i5hkPM85ZcIxRsg61Hkl) | [Cravin' \(Remixed\)](https://open.spotify.com/album/6738nMdDfyV8pkCqIzByN2) | 3:24 | 2022-09-02 |  |
 | [Creep](https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Creep](https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL) | 3:23 | 2022-06-03 | 2022-07-02 |

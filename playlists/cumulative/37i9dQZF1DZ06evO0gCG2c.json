@@ -507,10 +507,28 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 183206,
       "name": "Enjoy That",
       "url": "https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em"
+    },
+    {
+      "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "Enjoy That",
+      "url": "https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2"
     },
     {
       "album": {

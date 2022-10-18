@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-155 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+156 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Fuckboy](https://open.spotify.com/track/78qLNsfY3uVO1B40fcQMmA) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/5qdP91YC6kTRH0CXGunKxl) | 3:00 | 2019-12-10 |  |
 | [Give Me a Chance](https://open.spotify.com/track/1m6DIPiI6vkoCRoJLLcH7n) | [Hish](https://open.spotify.com/artist/3LnJf5WXTmQY4MbPPReA1F) | [Give Me a Chance](https://open.spotify.com/album/5k60WuJUWFPopkEGoMbLAa) | 3:07 | 2019-12-10 |  |
 | [glitter](https://open.spotify.com/track/5Oc9SrrW1BICBePI1MF4OB) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [glitter](https://open.spotify.com/album/6JAFdHAdf99vu5WGOsPjJM) | 2:45 | 2019-12-10 |  |
-| [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2019-12-10 |  |
+| [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2019-12-10 | 2022-10-18 |
+| [Go Wild](https://open.spotify.com/track/1XlCgSoRWfxw2uL4Ofl7DR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/2hZDO2BCO07r3kh4M3fedd) | 3:17 | 2019-12-10 |  |
 | [Gone](https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [RESET](https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr) | 3:10 | 2019-12-10 |  |
 | [hand crushed by a mallet](https://open.spotify.com/track/0XWTLNFUHKMfUuTlWqHkeO) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [1000 gecs](https://open.spotify.com/album/4CGanXs6KlVuXXdNrf82qE) | 2:06 | 2019-12-10 | 2022-07-29 |
 | [hand crushed by a mallet](https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:06 | 2019-12-10 |  |

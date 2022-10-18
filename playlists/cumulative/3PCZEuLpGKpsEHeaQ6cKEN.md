@@ -4,11 +4,12 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: D.O.D &amp; Raphaella
 
-282 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+283 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-14 |  |
+| [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-17 |  |
 | [All I Want](https://open.spotify.com/track/40ydUI6moZMoOd65wbf6oz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Stonefox](https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu) | [All I Want](https://open.spotify.com/album/09daeFM7AXK0INoZ00lTeD) | 2:39 | 2022-06-09 |  |
 | [All Mine](https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [All Mine](https://open.spotify.com/album/71dkC0kz5fl6b0rtjPPeBe) | 2:31 | 2022-08-17 |  |
 | [Another Way](https://open.spotify.com/track/7hUltQfedtpeRle8F7u6TX) | [Newik](https://open.spotify.com/artist/3pZMKMD0modIdNOqhJjpy5) | [Another Way](https://open.spotify.com/album/4gOynyODgKfJNihfqFpdUv) | 2:51 | 2022-09-15 | 2022-10-07 |

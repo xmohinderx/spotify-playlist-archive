@@ -4,7 +4,7 @@
 
 > The perfect study beats, twenty four seven.
 
-929 songs - 1 day 11 hr 29 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+930 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,7 +737,8 @@
 | [Skyline](https://open.spotify.com/track/6haY8EuNtgu8X7OHahKQnw) | [Chill Seeker](https://open.spotify.com/artist/3ekjTw2hldqoMm0FbaeRS8) | [Skyline](https://open.spotify.com/album/7eNK3a2U22NSF5qoo7TtaA) | 3:07 | 2022-04-15 | 2022-08-12 |
 | [sleep palace](https://open.spotify.com/track/4bDnBDaDdc9k3Hr1TNc7zP) | [Ramen Police](https://open.spotify.com/artist/0knrIAATZf0t428Hx8qmS9) | [sleep palace](https://open.spotify.com/album/1vXsP7xiL2Je9NuPFkn9Wa) | 3:06 | 2022-04-15 | 2022-07-01 |
 | [Sleepy + Hungry](https://open.spotify.com/track/6ZhiAKKnfB9UVCkG5BSG08) | [Hood Banger](https://open.spotify.com/artist/7Gh2ugpqKKRBuyz6TU54e2) | [PEACE](https://open.spotify.com/album/3JBEOeDCFn4VswlfoIAILD) | 2:51 | 2022-09-02 |  |
-| [Slow Down](https://open.spotify.com/track/152uFhDdcN9JZlD8B9S8rq) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/2J2b3QMHkQF5Ysm0fhE6rT) | 2:15 | 2022-09-16 |  |
+| [Slow Down](https://open.spotify.com/track/152uFhDdcN9JZlD8B9S8rq) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/2J2b3QMHkQF5Ysm0fhE6rT) | 2:15 | 2022-09-16 | 2022-10-18 |
+| [Slow Down](https://open.spotify.com/track/4MkSW2NZdEL4AiOlPT1m1V) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/5qjG9PP6cva8U9CQPaeF1i) | 2:15 | 2022-10-14 |  |
 | [Slow Down](https://open.spotify.com/track/0NgpVTzfh7UoDkLBi8Myyt) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Slow Down](https://open.spotify.com/album/55BilGwAn1Htkp5XSp764z) | 2:37 | 2022-09-02 |  |
 | [Slow Gaze](https://open.spotify.com/track/5JNtPcB3X3tAsvV8dgRVC4) | [SASAF](https://open.spotify.com/artist/3mL9nuRLzQ6GNwrrPIxShl) | [Slow Gaze](https://open.spotify.com/album/3gE84IEeTCcjLlCPhBEyD2) | 2:27 | 2022-04-15 |  |
 | [Slow Tree](https://open.spotify.com/track/4fpeG40EUrTkUi4o1nFNG3) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Slow Tree](https://open.spotify.com/album/1dVf0spFmBdP1D6m3Pb959) | 2:28 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-345 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+346 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-11-19 | 2022-02-05 |
 | [DIM](https://open.spotify.com/track/6wTliafSJi7OgSmVugTYwS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [DIM](https://open.spotify.com/album/1OgtOEJaZLO4zm7mq9MnvK) | 4:31 | 2021-11-19 | 2022-07-14 |
 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 | 2022-02-11 | 2022-06-17 |
-| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-11-19 |  |
+| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-11-19 | 2022-10-18 |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-06-17 | 2022-10-14 |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-11-19 | 2022-02-22 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-11-19 | 2022-06-09 |
@@ -94,6 +94,7 @@
 | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/track/0In3u56vbH2at3bViAzzwq) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/album/0HLowVrjApBviPxvLWbRKI) | 3:34 | 2021-11-19 | 2022-03-26 |
 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 | 2022-03-25 | 2022-07-16 |
 | [Evergreen](https://open.spotify.com/track/0kJmIaK9zElQON3tKCw8Pn) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Evergreen](https://open.spotify.com/album/2CGZsbbj70jVgBcSB3bvE9) | 3:01 | 2022-09-09 | 2022-10-13 |
+| [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 | 2022-08-12 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-04-22 | 2022-10-13 |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-19 | 2022-07-16 |
 | [Far from Home](https://open.spotify.com/track/1VUbViOlLsvXeb6Aiv3A63) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Far from Home](https://open.spotify.com/album/4klVYwt72so3CYGFh1sTEe) | 3:12 | 2021-11-19 | 2022-06-29 |

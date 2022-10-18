@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Mafro
 
-629 songs - 1 day 17 hr 11 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+630 songs - 1 day 17 hr 15 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [NY Is Killing Me](https://open.spotify.com/track/3pacfC2tJMJsrKk2baf5Bn) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 5:43 | 2022-09-17 | 2022-10-06 |
 | [Ocean](https://open.spotify.com/track/1qOWl2foJb594pmyCtxOqK) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Ocean](https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8) | 3:40 | 2022-04-08 | 2022-05-19 |
 | [Off You](https://open.spotify.com/track/3b2pfV1sGo8ni5lhF6IQRM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Off You](https://open.spotify.com/album/2ZyTafX0z6gvqgf3nuVgJo) | 3:21 | 2021-08-06 | 2022-04-16 |
-| [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 |  |
+| [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 | 2022-10-18 |
 | [On My Mind \- Short Version](https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [On My Mind / About U](https://open.spotify.com/album/556C4ye37wUq6bKWjR14vg) | 3:57 | 2021-08-06 | 2022-07-27 |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-11 | 2022-07-19 |
 | [Only Love](https://open.spotify.com/track/21QJJMA4SjQ7qXfTVE7wlw) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Only Love](https://open.spotify.com/album/0SJMPs8zuMPWZQfvypjpfE) | 4:45 | 2021-07-16 | 2022-07-26 |
@@ -522,6 +522,7 @@
 | [Sunburn](https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sunburn](https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ) | 3:02 | 2022-05-20 | 2022-08-17 |
 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 | 2021-07-16 | 2022-04-12 |
 | [Super Good Times](https://open.spotify.com/track/1qooiZqttVLM5Z2dHLofHM) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/5a7aGgIO1ZziPyjE6MJZ8T) | 3:41 | 2021-02-26 | 2022-07-27 |
+| [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 | 2022-10-14 |  |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-13 | 2022-02-12 |
 | [Swerve \- Radio Edit](https://open.spotify.com/track/2uvcdhxrXGA7A4kEVbDmWW) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Swerve](https://open.spotify.com/album/3YS53BlC7sLJLh4cRC0GYV) | 3:45 | 2022-07-01 | 2022-07-13 |
 | [Swimming](https://open.spotify.com/track/3SZ0yNnQF2DHLf1dCmMwBV) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Swimming/Memories](https://open.spotify.com/album/5NDErsEOGtbDkCdFbQBFwQ) | 3:20 | 2021-02-19 | 2022-07-29 |

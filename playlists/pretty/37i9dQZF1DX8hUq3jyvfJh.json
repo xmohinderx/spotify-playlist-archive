@@ -1,12 +1,12 @@
 {
   "description": "Pocah e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 129625,
+  "num_followers": 129622,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDA3M2ZmNzE1Mzc2ZmVmMjY4ODFhMTI0ZWJiNDhhYTAw",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGJhOGMxMjlkOTA5MDcwZjAzMjRiOWNhMzZhYWU1NGE4",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Assalto Perigoso",
-        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 155417,
-      "name": "Assalto Perigoso",
-      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Cavalgada",
         "url": "https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 121638,
       "name": "Cavalgada",
       "url": "https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Assalto Perigoso",
+        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 155417,
+      "name": "Assalto Perigoso",
+      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -191,6 +191,34 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Combatchy (feat. MC Rebecca)",
+        "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Combatchy (feat. MC Rebecca)",
+      "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Gueto",
         "url": "https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB"
       },
@@ -203,22 +231,6 @@
       "duration_ms": 168000,
       "name": "Gueto",
       "url": "https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "BRINCA COM A...",
-        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "BRINCA COM A...",
-      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -259,30 +271,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Combatchy (feat. MC Rebecca)",
-        "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
+        "name": "BRINCA COM A...",
+        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Combatchy (feat. MC Rebecca)",
-      "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
+      "duration_ms": 182709,
+      "name": "BRINCA COM A...",
+      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -319,26 +319,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
-        "url": "https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ"
+        "name": "Faking Love (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "DJ Will22",
-          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
-        },
-        {
           "name": "Anitta",
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 120000,
-      "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
-      "url": "https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z"
+      "duration_ms": 148577,
+      "name": "Faking Love (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -363,22 +359,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+        "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
+        "url": "https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
         },
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "DJ Will22",
+          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 174881,
-      "name": "Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
+      "duration_ms": 120000,
+      "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
+      "url": "https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -399,42 +399,6 @@
       "duration_ms": 186155,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/7n4jbgtbZ36s1z9AOCBz2t"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Faking Love (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 148577,
-      "name": "Faking Love (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Ao Som do 150",
-        "url": "https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl"
-      },
-      "artists": [
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        }
-      ],
-      "duration_ms": 119612,
-      "name": "Ao Som do 150",
-      "url": "https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -503,6 +467,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 174881,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Priv\u00ea",
         "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Ao Som do 150",
+        "url": "https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "duration_ms": 119612,
+      "name": "Ao Som do 150",
+      "url": "https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 153614,
       "name": "QUANDO EU TE OLHEI - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "AINDA",
+        "url": "https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 128470,
+      "name": "AINDA",
+      "url": "https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -611,22 +627,6 @@
       "duration_ms": 140016,
       "name": "Liga pro Samu",
       "url": "https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "AINDA",
-        "url": "https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 128470,
-      "name": "AINDA",
-      "url": "https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Queima",
-        "url": "https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Queima",
-      "url": "https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Miga Solteira",
         "url": "https://open.spotify.com/album/55xfR02s40wZ2elK1PukB0"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 154666,
       "name": "Linda Duas Vezes",
       "url": "https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Queima",
+        "url": "https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Queima",
+      "url": "https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ"
     },
     {
       "added_at": "2022-10-14 03:00:00",

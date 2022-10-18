@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-600 songs - 1 day 16 hr 17 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+601 songs - 1 day 16 hr 21 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [BRAVE MAKER](https://open.spotify.com/track/3lAS7UmRdhO1WWQ5JeTf7e) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [BRAVE MAKER](https://open.spotify.com/album/0q6OWDdl3GH2dJKhPfWG20) | 3:38 | 2022-06-07 | 2022-07-29 |
 | [Break](https://open.spotify.com/track/4hWhNL4cLfhLrt4Un3pdMG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Break](https://open.spotify.com/album/7heQ4Bz4LxGNSln7Z7uoPp) | 4:53 | 2022-06-07 | 2022-07-24 |
 | [Break out](https://open.spotify.com/track/7k4JoDf9XakuFA0S2xb10C) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Break out](https://open.spotify.com/album/6VVWb5rO9rST4OR4tvKml1) | 3:56 | 2022-06-07 | 2022-07-20 |
-| [Bring Back](https://open.spotify.com/track/3lodN8CY4ZQIIvlQDEB0Lu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Bring Back / RISE / FAITH](https://open.spotify.com/album/1wJGXZKiWW2wZ9VQ3mkgB1) | 3:29 | 2022-06-07 |  |
+| [Bring Back](https://open.spotify.com/track/3lodN8CY4ZQIIvlQDEB0Lu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Bring Back / RISE / FAITH](https://open.spotify.com/album/1wJGXZKiWW2wZ9VQ3mkgB1) | 3:29 | 2022-06-07 | 2022-10-18 |
 | [Broken Sky \(TVアニメ「無能なナナ」オープニングテーマ\)](https://open.spotify.com/track/4FW8KupupiKGSBRKdXJYgu) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Broken Sky \(TVアニメ「無能なナナ」オープニングテーマ\)](https://open.spotify.com/album/1gpVVTBYOuE4Aw5YXfKKGu) | 3:54 | 2022-06-07 | 2022-07-10 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-06-07 |  |
 | [BUTTER\-FLY](https://open.spotify.com/track/4uWBY1nBDYrdGrOTe6uEWh) | [Anison Evolution](https://open.spotify.com/artist/5nnFjapsqOCRqhUpYhahW5) | [Anison Tribute vol.1](https://open.spotify.com/album/1ZtfFwkhzT9cPvFehFBzQQ) | 4:42 | 2022-06-07 | 2022-07-13 |
@@ -421,6 +421,7 @@
 | [チキチキバンバン \- TV Ver.](https://open.spotify.com/track/5V1bKI60cPKn4K4g0y8EV1) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン \(TV Ver.\)](https://open.spotify.com/album/2oDd7zrnPkjhtXBJjoV8ft) | 1:30 | 2022-06-07 | 2022-08-12 |
 | [チューリングラブ feat.Sou Last Episode ver.](https://open.spotify.com/track/29r4DkklswhO0QIWbo4G7I) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [チューリングラブ feat.Sou Last Episode ver.](https://open.spotify.com/album/7KaYTvXzyXZ6B6AsNaQFZW) | 4:58 | 2022-06-07 | 2022-06-30 |
 | [ディザイア](https://open.spotify.com/track/198elPRu7tlHqwAZrQvqyG) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [ディザイア](https://open.spotify.com/album/6M1iVKSypFnGtVyalcM5GU) | 3:41 | 2022-06-07 | 2022-07-09 |
+| [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 | 2022-10-18 |  |
 | [ドレス](https://open.spotify.com/track/0GtyXOIALhodGAPWAz2r8v) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [ドレス](https://open.spotify.com/album/77xlpcZfxdkDdWoTEHGE3F) | 2:39 | 2022-06-07 | 2022-07-20 |
 | [ハヅキ](https://open.spotify.com/track/1pxUsWOISNeXFbZirtyj4y) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [ハヅキ](https://open.spotify.com/album/3q5CHu3HNlOD3hp4HNbhZW) | 4:39 | 2022-06-07 | 2022-07-29 |
 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 | 2022-06-07 | 2022-10-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Love at its most dramatic. Cover: Moulin Rouge",
-  "num_followers": 6997,
+  "num_followers": 7026,
   "original_name": "Broadway in Love!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMDY4NmNlY2E1OWM3MjhhMjZmMjUxMzFlMTliNjc2ZmQw",
+  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMGFhYWI3MWRlMzViZTdkMjRhYjM4ZjQwMWE3YmJhZDU0",
   "tracks": [
     {
       "added_at": "2022-02-09 21:53:30",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
-        "name": "Waitress (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
-      },
-      "artists": [
-        {
-          "name": "Drew Gehling",
-          "url": "https://open.spotify.com/artist/7ejlBSnnDMNIhEcL7MN868"
-        },
-        {
-          "name": "Jessie Mueller",
-          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "You Matter to Me",
-      "url": "https://open.spotify.com/track/3OIoLMnnWzAUORFQxRAhdF"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
         "name": "Little Shop of Horrors (The New Cast Album)",
         "url": "https://open.spotify.com/album/0v8V3y9zW14NRDTXs0Rt9S"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 225214,
       "name": "Suddenly Seymour",
       "url": "https://open.spotify.com/track/2AODWpK0rauqqL1gHfq2Zy"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
+        "name": "Waitress (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
+      },
+      "artists": [
+        {
+          "name": "Drew Gehling",
+          "url": "https://open.spotify.com/artist/7ejlBSnnDMNIhEcL7MN868"
+        },
+        {
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
+        }
+      ],
+      "duration_ms": 261186,
+      "name": "You Matter to Me",
+      "url": "https://open.spotify.com/track/3OIoLMnnWzAUORFQxRAhdF"
     },
     {
       "added_at": "2022-02-09 21:53:30",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
-        "name": "The Music Man (Original Broadway Cast)",
-        "url": "https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Cook",
-          "url": "https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Goodnight My Someone",
-      "url": "https://open.spotify.com/track/09kRTnc2HceP9PssB7uAEQ"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
         "name": "A Chorus Line - 40th Anniversary Celebration (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0mC8o2B80XRt0nUgTWZ3zu"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 226360,
       "name": "What I Did for Love",
       "url": "https://open.spotify.com/track/4Buem5eQxc1reIeNE4fuIp"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
+        "name": "The Music Man (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook",
+          "url": "https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Goodnight My Someone",
+      "url": "https://open.spotify.com/track/09kRTnc2HceP9PssB7uAEQ"
     },
     {
       "added_at": "2022-02-09 21:53:30",

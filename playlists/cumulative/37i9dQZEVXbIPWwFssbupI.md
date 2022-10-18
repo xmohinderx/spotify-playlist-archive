@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-962 songs - 2 day 3 hr 47 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+963 songs - 2 day 3 hr 50 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |
 | [Lampadaire, Pt\. 2](https://open.spotify.com/track/2cPgZizcWA8NkBTnXv68gL) | [Osirus Jack](https://open.spotify.com/artist/3p6dh3Zn4fVXJatMy3Xqzq), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Nouvelle Ère](https://open.spotify.com/album/3oQyml9risLFydUdMy9Ixf) | 3:26 | 2022-02-23 | 2022-02-25 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-20 | 2021-12-27 |
-| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-07-29 |  |
+| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-07-29 | 2022-10-18 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-26 |
 | [Lauiss](https://open.spotify.com/track/3d3ww7Pv7gGcKSAyPMpHbp) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 3:02 | 2021-11-14 | 2021-11-19 |
 | [Le billet](https://open.spotify.com/track/731JjfIII1qYfeatc3zhtU) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Vérité](https://open.spotify.com/album/6OEcAAYlKxyYOHOK5h96Px) | 2:35 | 2021-07-16 | 2021-07-18 |
@@ -782,6 +782,7 @@
 | [Sacré Bordel](https://open.spotify.com/track/4jp2u0M51xHAVACTTKnGWu) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Sacré Bordel](https://open.spotify.com/album/1THFhj3gfKv5LwLrMqjOtf) | 4:26 | 2022-04-06 | 2022-04-11 |
 | [SADIO RIYAD](https://open.spotify.com/track/7xKzjU5mvfUCv1yLkArOGG) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [RIYAD SADIO](https://open.spotify.com/album/32LCerEiGg48N5jahjJ8bD) | 3:12 | 2022-03-05 | 2022-03-07 |
 | [Sales idées](https://open.spotify.com/track/0FB15FRIstBTnCPpzXyNqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:13 | 2021-10-17 | 2021-10-18 |
+| [Salomé](https://open.spotify.com/track/27zCNEOGRXTWOBnuc9BYDe) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Marcus](https://open.spotify.com/artist/5A6NcqKIwK39RxhGRHu41b) | [Ma Star \(Bande Originale de la série "Christmas Flow"\)](https://open.spotify.com/album/14P1NvHqhksO4OHgmoruRJ) | 2:52 | 2022-10-17 |  |
 | [Sang froid](https://open.spotify.com/track/721NfezXx0u6vU7p3A2Et7) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:24 | 2022-03-05 | 2022-03-07 |
 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 | 2022-05-07 | 2022-05-23 |
 | [Sans limites](https://open.spotify.com/track/2p7V1QEwmNpJS4Cr7KGGWo) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 3:29 | 2021-04-04 | 2021-04-05 |

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-200 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+202 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 | 2021-10-28 |  |
 | [Andromeda](https://open.spotify.com/track/3ILiff34ZwEKw1mrVG4D6D) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Nebuleuses](https://open.spotify.com/album/2pZfWVip25OGJeQAx5CBT2) | 2:37 | 2020-12-08\* | 2021-03-18 |
+| [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 |  |
 | [Another Day \(revised\)](https://open.spotify.com/track/114gL99tniO1ocR4gyukNX) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/0cN366vmPQoH0cepgK7CUZ) | 4:21 | 2020-12-08\* | 2022-07-29 |
 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 | 2022-07-22 |  |
 | [Antiphon](https://open.spotify.com/track/2WNuC3r3wnjDYWOifLfe5a) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Night Walks](https://open.spotify.com/album/0DJF11KZgzQAfhxGxeVE33) | 6:05 | 2020-12-08\* | 2021-03-06 |
@@ -105,9 +106,9 @@
 | [Island Rain](https://open.spotify.com/track/3kyTnVMy1jkuIi72RFSprb) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 2:48 | 2020-12-08\* | 2021-05-27 |
 | [Islands](https://open.spotify.com/track/2EK9P3qERVUABw1VNRrAQn) | [Gravenhurst](https://open.spotify.com/artist/1nqfBsX1oJ0jTDTyA18xH9) | [The Ghost In Daylight](https://open.spotify.com/album/7GY6Xa8AVJwm1QaNQN0kvI) | 8:05 | 2021-01-16 | 2021-03-18 |
 | [It's Called, 'Daisy'](https://open.spotify.com/track/0LXs0oOINrcboPzcn63zIB) | [Her Name Is Calla](https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy) | [Navigator](https://open.spotify.com/album/5IDR0xoCJuVydMlc1TQEjF) | 1:52 | 2021-01-15 | 2022-07-29 |
-| [It's Called, 'Daisy'](https://open.spotify.com/track/2qCtOCuNdXmTpi2o4XHK8N) | [Her Name Is Calla](https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy) | [Navigator \(Bonus Track Version\)](https://open.spotify.com/album/3EBqUA7UyLahCbp7s5Wec1) | 1:52 | 2022-07-22 |  |
+| [It's Called, 'Daisy'](https://open.spotify.com/track/2qCtOCuNdXmTpi2o4XHK8N) | [Her Name Is Calla](https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy) | [Navigator \(Bonus Track Version\)](https://open.spotify.com/album/3EBqUA7UyLahCbp7s5Wec1) | 1:52 | 2022-07-22 | 2022-10-18 |
 | [Kaksi](https://open.spotify.com/track/6htL2c5qW0IhL6QgCawXsK) | [Ukkonen](https://open.spotify.com/artist/7gAih0l51IrX04F2wKSR4L) | [Erriapo](https://open.spotify.com/album/25kRg1Ggrgm1mw5i5C17k8) | 6:59 | 2020-12-08\* | 2022-05-20 |
-| [Kanta's Theme](https://open.spotify.com/track/2im8y2Qrnj0xvt5c9BgNYF) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Tape Loops](https://open.spotify.com/album/78oxfIEDfWlUw8vFSDvoSq) | 6:42 | 2022-07-22 |  |
+| [Kanta's Theme](https://open.spotify.com/track/2im8y2Qrnj0xvt5c9BgNYF) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Tape Loops](https://open.spotify.com/album/78oxfIEDfWlUw8vFSDvoSq) | 6:42 | 2022-07-22 | 2022-10-18 |
 | [Kanta's Theme](https://open.spotify.com/track/4l2yPgS0exxRHRXOaiqksw) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Kanta's Theme \- Single](https://open.spotify.com/album/0c2jq5ML6NCy5HjTMnT46m) | 6:42 | 2020-12-08\* | 2022-07-29 |
 | [Kepesh](https://open.spotify.com/track/0p8gq23UoCaw6mfndx470w) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [The Organ Hearts](https://open.spotify.com/album/4Fb3dmmuXqDzsa1BtaP9JR) | 5:28 | 2021-01-15 | 2021-05-27 |
 | [Kilika](https://open.spotify.com/track/2GvS6SG9VHxRgMbLLPFEVI) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Kilika](https://open.spotify.com/album/665D0qSJx36civibfzbJ3B) | 4:44 | 2020-12-08\* | 2021-03-18 |
@@ -200,6 +201,7 @@
 | [They Disappear Into the Palms](https://open.spotify.com/track/3BCqIl5vYtb8u4QP79JtPo) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/3NbUs1wOPsgXo3gvP8bp1D) | 6:33 | 2020-12-08\* | 2022-05-20 |
 | [Tikslingas](https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Tikslingas](https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm) | 3:31 | 2022-05-19 |  |
 | [Tired Eyes](https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 4:12 | 2020-12-08\* |  |
+| [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |
 | [Utopia](https://open.spotify.com/track/5TCFzGCMYTVONeGJuk8F8G) | [Sudestada X](https://open.spotify.com/artist/6IR56PVqmSSjd0Bv9nuf48) | [Humedal](https://open.spotify.com/album/3WkfEJ2DmvDItp5HdOd8Eu) | 3:04 | 2020-12-08\* | 2021-02-20 |

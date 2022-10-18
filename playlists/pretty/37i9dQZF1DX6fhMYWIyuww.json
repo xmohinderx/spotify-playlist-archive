@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 90176,
+  "num_followers": 90285,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGYyYzg3NmE1YzhhOTMzYWM1MDAwOTVjZjQ3YTI4NDI1",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDBjNDhmZjQ5NjIxMDk1MzYxYWU3ZWVkNjIzNmIyMjM4",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Jackson Browne (Saturate Before Using)",
         "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 199906,
       "name": "Doctor My Eyes",
       "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
     },
     {
-      "added_at": "2022-06-29 18:13:00",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Another Page",
@@ -443,6 +427,22 @@
       "duration_ms": 221386,
       "name": "Time for Me to Fly",
       "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
+    },
+    {
+      "added_at": "2022-06-29 18:13:00",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
       },
       "artists": [
         {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
+      "duration_ms": 235360,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "A-1-A",
-        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
       "artists": [
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
         }
       ],
-      "duration_ms": 235360,
-      "name": "A Pirate Looks At Forty",
-      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2022-03-31 19:29:02",
@@ -895,6 +895,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Son Of A Son Of A Sailor",
+      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Robbie Dupree",
         "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 282040,
       "name": "Get It Right Next Time",
       "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Son Of A Son Of A Sailor",
-        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Son Of A Son Of A Sailor",
-      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Fins",
-      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
-    },
-    {
       "added_at": "2022-01-26 21:27:23",
       "album": {
         "name": "Sleeping Gypsy",
@@ -1067,6 +1051,22 @@
       "duration_ms": 191093,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Fins",
+      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
     },
     {
       "added_at": "2021-04-22 18:12:12",

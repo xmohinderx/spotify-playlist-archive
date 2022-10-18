@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-238 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+239 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 | 2021-12-17 | 2022-10-01 |
 | [So Long Gone](https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:32 | 2021-12-17 | 2022-09-24 |
 | [Somebody Was Watching](https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:07 | 2021-12-17 |  |
-| [Something’s Got a Hold on Me](https://open.spotify.com/track/5oU6hEiZ3l1CG8xMPdI5M0) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/1WK7PVI8kDQX8ogzKMJfn4) | 3:08 | 2022-07-22 |  |
+| [Something’s Got a Hold on Me](https://open.spotify.com/track/5MAbReBs2DiDoJM0egoalR) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/5QKPqc66fu8qqsYLxgfZGj) | 3:08 | 2022-09-30 |  |
+| [Something’s Got a Hold on Me](https://open.spotify.com/track/5oU6hEiZ3l1CG8xMPdI5M0) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/1WK7PVI8kDQX8ogzKMJfn4) | 3:08 | 2022-07-22 | 2022-10-18 |
 | [Something’s Got a Hold on Me](https://open.spotify.com/track/7bR4C483mAqkwidrXp9BYw) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/6zcySeTTqbQOkvgKgxxjAs) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2021-12-17 |  |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-12-17 |  |

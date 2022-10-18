@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/4hQjQa56iChyP2Tec96JWg)
+100 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4hQjQa56iChyP2Tec96JWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Teleported](https://open.spotify.com/track/389hyI9sMvHVruG0dTD4Vi) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/3MMXAjJb1e3xAesfRijKeZ) | 6:17 | 2021-08-12 |  |
 | [Thrillseekers \- Chuck Daniels Remix](https://open.spotify.com/track/0ieIy1W942FYBHHk0QWsLQ) | [Andy Toth](https://open.spotify.com/artist/0xHPs74Vj4dNwYlpc2Xggs), [Billy Love](https://open.spotify.com/artist/0T3MV5gd1oQLkLuGcGL46Y), [Chuck Daniels](https://open.spotify.com/artist/6AQtbBS3kOZrK6whx93lfz) | [Thrillseekers](https://open.spotify.com/album/4El5KzOSIxcnoQ4zVV8PN9) | 3:23 | 2021-08-12 |  |
 | [Toxic Love](https://open.spotify.com/track/7BRNTtEOvXQ9wYrvpMY1Eg) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Summer on Mars EP](https://open.spotify.com/album/17W4wQ4UPpxlCr9VJ379MN) | 6:32 | 2021-08-12 |  |
-| [Trojan](https://open.spotify.com/track/2msoOJb4doUd2uBlFSXiKU) | [Mark Henning](https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW) | [Chicago Sunrise EP](https://open.spotify.com/album/6Ufe2NurrlZTDH5GEq1HHT) | 6:57 | 2021-08-12 |  |
+| [Trojan](https://open.spotify.com/track/00m6m26lE6LZlOGLesqg8g) | [Mark Henning](https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW) | [Chicago Sunrise EP](https://open.spotify.com/album/2nfNNNXNAG5nJ0au7QHr6I) | 6:57 | 2021-08-12 |  |
+| [Trojan](https://open.spotify.com/track/2msoOJb4doUd2uBlFSXiKU) | [Mark Henning](https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW) | [Chicago Sunrise EP](https://open.spotify.com/album/6Ufe2NurrlZTDH5GEq1HHT) | 6:57 | 2021-08-12 | 2022-10-18 |
 | [Up To Love](https://open.spotify.com/track/50rpy4fARZI7PCHjFbkHD3) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Up To Love](https://open.spotify.com/album/5znJ97w508PdQv7YUNidmy) | 7:08 | 2021-08-12 |  |
 | [Upon Burning Skies](https://open.spotify.com/track/0ImWqzGKxRkRD28Zlck86R) | [Sable Sheep](https://open.spotify.com/artist/4XaYCUxd6APqq2eMhOTm5R) | [Upon Burning Skies](https://open.spotify.com/album/5WANTczHKKfzfKSKTh28i3) | 8:24 | 2021-08-12 |  |
 | [Visions of You \- Mixed \- Carl Cox Remix](https://open.spotify.com/track/6uUAP9p0upzUnLduaTrd8h) | [Trevor Rockcliffe](https://open.spotify.com/artist/6I403EVfXQvbFhyo5JMAXe), [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [fabric Presents The Martinez Brothers](https://open.spotify.com/album/0yt41p7h3EZQEaWEphF5r1) | 2:31 | 2021-08-12 |  |

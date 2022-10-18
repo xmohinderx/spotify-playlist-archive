@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 423047,
+  "num_followers": 423153,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc0MDgzMSwwMDAwMDAwMDQzNGRmOWViODMxYzFiMjJjNzUzNWUwZjVkZjlmODJm",
+  "snapshot_id": "MTY2NTc0MDgzMSwwMDAwMDAwMGQ5MDAyZWRjMzY1NGJjZjkzMWY3N2VmMzZkYTk0NTU5",
   "tracks": [
     {
       "added_at": "2022-10-14 09:47:11",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "5 Minutes",
         "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 195000,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 223633,
-      "name": "Take Time (feat. Tobe Nwigwe)",
-      "url": "https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 223633,
+      "name": "Take Time (feat. Tobe Nwigwe)",
+      "url": "https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
         "name": "Bloodline Maintenance",
         "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "No Tears In My Champagne",
         "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 136644,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -727,6 +711,22 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -843,6 +843,42 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
+        "name": "Watch The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Lisa Knowles-Smith",
+          "url": "https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        },
+        {
+          "name": "KeKe Wyatt",
+          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 271807,
+      "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
         "name": "Loving You Is Easy",
         "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
       },
@@ -895,6 +931,38 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
         "name": "Blessed / Black Star",
         "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
       },
@@ -927,18 +995,18 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
         }
       ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+      "duration_ms": 205625,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -959,18 +1027,18 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+        "name": "L.A.B V",
+        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
       },
       "artists": [
         {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
+      "duration_ms": 310960,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -987,22 +1055,6 @@
       "duration_ms": 244560,
       "name": "I Miss You Baby, Pt. 1",
       "url": "https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1039,22 +1091,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "L.A.B V",
-        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 310960,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "Honesty (Deluxe Version)",
         "url": "https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU"
       },
@@ -1067,22 +1103,6 @@
       "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1123,18 +1143,18 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
         }
       ],
-      "duration_ms": 204909,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1155,22 +1175,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/7hnrKp9gJfTwMyu87ORT7I"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/3imW9xm9mC6koegNba6pL9"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "I Don't Deserve It",
         "url": "https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8"
       },
@@ -1183,6 +1187,38 @@
       "duration_ms": 226198,
       "name": "I Don't Deserve It",
       "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 204909,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/7hnrKp9gJfTwMyu87ORT7I"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/3imW9xm9mC6koegNba6pL9"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1203,38 +1239,18 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Watch The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
+        "name": "Admit It",
+        "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
       },
       "artists": [
         {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Lisa Knowles-Smith",
-          "url": "https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        },
-        {
-          "name": "KeKe Wyatt",
-          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
         }
       ],
-      "duration_ms": 271807,
-      "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+      "duration_ms": 187109,
+      "name": "Admit It",
+      "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1255,22 +1271,6 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
-        "name": "Admit It",
-        "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        }
-      ],
-      "duration_ms": 187109,
-      "name": "Admit It",
-      "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "A Little Greener",
-        "url": "https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "A Little Greener",
-      "url": "https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "Unify",
         "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
@@ -1419,18 +1399,22 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "no sleep in LA",
-        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
+        "name": "A Little Greener",
+        "url": "https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk"
       },
       "artists": [
         {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
         }
       ],
-      "duration_ms": 224903,
-      "name": "i miss",
-      "url": "https://open.spotify.com/track/7lCesgt0Bnuu229PE0prHY"
+      "duration_ms": 222876,
+      "name": "A Little Greener",
+      "url": "https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1447,6 +1431,22 @@
       "duration_ms": 254653,
       "name": "You're My Girl",
       "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "no sleep in LA",
+        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        }
+      ],
+      "duration_ms": 224903,
+      "name": "i miss",
+      "url": "https://open.spotify.com/track/7lCesgt0Bnuu229PE0prHY"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/27zVikKFB0moOYXJanIOct"
-      },
-      "artists": [
-        {
-          "name": "August Charles",
-          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
-        }
-      ],
-      "duration_ms": 229751,
-      "name": "River",
-      "url": "https://open.spotify.com/track/7kQsiMaQD3hveS6ejQNOw8"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
-        "name": "Rolling Back",
-        "url": "https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK"
-      },
-      "artists": [
-        {
-          "name": "Young Gun Silver Fox",
-          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
-        }
-      ],
-      "duration_ms": 223720,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "Leave It All Behind",
         "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
       },
@@ -1587,6 +1555,38 @@
       "duration_ms": 316626,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "Rolling Back",
+        "url": "https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/27zVikKFB0moOYXJanIOct"
+      },
+      "artists": [
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "duration_ms": 229751,
+      "name": "River",
+      "url": "https://open.spotify.com/track/7kQsiMaQD3hveS6ejQNOw8"
     },
     {
       "added_at": "2022-10-14 09:47:11",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-10-14 09:47:11",
       "album": {
-        "name": "Art (2022 Remastered Deluxe)",
-        "url": "https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "How Can I Move On",
-      "url": "https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq"
-    },
-    {
-      "added_at": "2022-10-14 09:47:11",
-      "album": {
         "name": "Lovestreet 55",
         "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 238013,
       "name": "Lovestreet 55",
       "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
+    },
+    {
+      "added_at": "2022-10-14 09:47:11",
+      "album": {
+        "name": "Art (2022 Remastered Deluxe)",
+        "url": "https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "How Can I Move On",
+      "url": "https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq"
     },
     {
       "added_at": "2022-10-14 09:47:11",

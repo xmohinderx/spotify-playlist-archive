@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,526 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,564 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 24 | [Santa Maria](https://open.spotify.com/track/5MiD1d6C7EXxadJwekOudc) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Approved](https://open.spotify.com/album/1bV0yl7ESEK6bnIUS0vIuu) | 2:48 |
 | 25 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 |
 | 26 | [WORKING](https://open.spotify.com/track/5e49oiBAVNGKsBdPPJmRe0) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6gPZR4HMlqsGRErOrM8dxw) | [WORKING](https://open.spotify.com/album/2QiFmcNRCeA4gVpEeCHlJE) | 2:37 |
-| 27 | [Honey Bee](https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/2EJPiGw5V1dJciKQaK7jd6) | 3:39 |
+| 27 | [Honey Bee](https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv) | 3:39 |
 | 28 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 |
 | 29 | [You Can Go](https://open.spotify.com/track/6f9wRfuZL9HrFuILn1Hn2S) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Last Flight Out](https://open.spotify.com/album/5nZHw2JJImX1LNcaivVEBR) | 2:22 |
 | 30 | [Fingertips](https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5AuoX8sA4NWGHO20Y47Fr3) | 4:15 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 32 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 |
 | 33 | [Don't Let Go](https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/62zbZ4GgUDL4rqKdbQEjrA) | 2:38 |
 
-Snapshot ID: `MTY2NTcyNzk4MCwwMDAwMDAwMDAwNjVlY2I0YWVhMmU5MDY3MjlkNWMyZDc3YzVlMDVk`
+Snapshot ID: `MTY2NTcyNzk4MCwwMDAwMDAwMGFlNjI0ZWUwOGJhYWIyZGU1MTk1NTk3OTYyZGU3ZjRj`

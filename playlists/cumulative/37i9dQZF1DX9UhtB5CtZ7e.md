@@ -4,7 +4,7 @@
 
 > Cozy and sweet songs guaranteed to shield you from the blues.
 
-146 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/3npCGQrlAXuSoCDKULIPAK)
+147 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/3npCGQrlAXuSoCDKULIPAK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2020-08-18 |  |
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2020-08-18 |  |
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/6iWwfN1euztxZi1OK38HbU) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/6r3zqNcZez592ryTIWUWce) | 4:02 | 2020-08-18 | 2022-07-29 |
+| [Fool For You](https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:14 | 2020-08-18 |  |
 | [Fool For You](https://open.spotify.com/track/2TRnVXGSK4aBtfEOaB460m) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/4FKCroUOb0VCWrU7ClYtWR) | 3:14 | 2020-08-18 | 2022-07-29 |
 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2020-08-18 | 2022-10-13 |
 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 | 2020-08-18 |  |
@@ -133,7 +134,7 @@
 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 | 2020-08-18 |  |
 | [Sweet Baby James \- 2019 Remaster](https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 2:53 | 2020-08-18 |  |
 | [Sweetest Thing on This Side of Heaven](https://open.spotify.com/track/6O69NGPST8QReoHAplv9OL) | [Papa Bear & His Cubs](https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv) | [You're so Fine](https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5) | 3:41 | 2022-07-21 | 2022-07-29 |
-| [Tell It Like It Is](https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is \- The Par Lo Years](https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g) | 2:45 | 2020-08-18 |  |
+| [Tell It Like It Is](https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is \- The Par Lo Years](https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g) | 2:45 | 2020-08-18 | 2022-10-18 |
 | [That's Life](https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [That's Life](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) | 3:07 | 2020-08-18 |  |
 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 | 2020-08-18 |  |
 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:58 | 2020-08-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Step Up for this Top Hit Telugu songs",
-  "num_followers": 32324,
+  "num_followers": 32350,
   "original_name": "Dance Duets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTkzMjA5NywwMDAwMDAwMDI0OTI3NTE3MTE5OGJjOWM1YjU4YzUyZjUwNDNmNGVj",
+  "snapshot_id": "MTY1MTkzMjA5NywwMDAwMDAwMGRjYzYwZmE4ZjA5ZjMzNmMyNDUwYTViYzBlNjNiNThk",
   "tracks": [
     {
       "added_at": "2022-05-07 14:00:59",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Most Eligible Bachelor",
-        "url": "https://open.spotify.com/album/10WgwwI8tcErXXUWzQhOOJ"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        }
-      ],
-      "duration_ms": 282476,
-      "name": "Guche Gulabi",
-      "url": "https://open.spotify.com/track/7t2bn7EHAvTPKn7wNKLCoK"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Bruce Lee",
         "url": "https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 266523,
       "name": "Kung Fu Kumaari",
       "url": "https://open.spotify.com/track/3RasaEUueHNTzBM2JB3qxK"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Most Eligible Bachelor",
+        "url": "https://open.spotify.com/album/10WgwwI8tcErXXUWzQhOOJ"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "duration_ms": 282476,
+      "name": "Guche Gulabi",
+      "url": "https://open.spotify.com/track/7t2bn7EHAvTPKn7wNKLCoK"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -303,30 +303,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Krishnarjuna Yudham",
-        "url": "https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8"
-      },
-      "artists": [
-        {
-          "name": "L. V. Revanth",
-          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        }
-      ],
-      "duration_ms": 238538,
-      "name": "I Wanna Fly",
-      "url": "https://open.spotify.com/track/78PoXHAbXHvOx0HMaa1a8z"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Mass Biriyani (From \"Krack\")",
         "url": "https://open.spotify.com/album/2j4BXFHljGo2IWurG8eUOY"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 238230,
       "name": "Mass Biriyani (From \"Krack\")",
       "url": "https://open.spotify.com/track/1z3tN40wH9dixW1aSaRDd5"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Krishnarjuna Yudham",
+        "url": "https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8"
+      },
+      "artists": [
+        {
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "duration_ms": 238538,
+      "name": "I Wanna Fly",
+      "url": "https://open.spotify.com/track/78PoXHAbXHvOx0HMaa1a8z"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -415,30 +415,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Dinchak (From \"Red\")",
-        "url": "https://open.spotify.com/album/1935AnvPstXORnGqOf8rgW"
-      },
-      "artists": [
-        {
-          "name": "Keerthana Sharma",
-          "url": "https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7"
-        },
-        {
-          "name": "Saketh",
-          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
-        },
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        }
-      ],
-      "duration_ms": 319088,
-      "name": "Dinchak (From \"Red\")",
-      "url": "https://open.spotify.com/track/0iT2FnhutL3yJh7DXy1SOG"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Bheeshma",
         "url": "https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 234782,
       "name": "Whattey Beauty - Telugu",
       "url": "https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Dinchak (From \"Red\")",
+        "url": "https://open.spotify.com/album/1935AnvPstXORnGqOf8rgW"
+      },
+      "artists": [
+        {
+          "name": "Keerthana Sharma",
+          "url": "https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7"
+        },
+        {
+          "name": "Saketh",
+          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
+        },
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        }
+      ],
+      "duration_ms": 319088,
+      "name": "Dinchak (From \"Red\")",
+      "url": "https://open.spotify.com/track/0iT2FnhutL3yJh7DXy1SOG"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -487,26 +487,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Balega Tagilavey Bangaram (From \"Krack\")",
-        "url": "https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 223693,
-      "name": "Balega Tagilavey Bangaram (From \"Krack\")",
-      "url": "https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Seetimaarr",
         "url": "https://open.spotify.com/album/5QkCmd6LakXYNkzKhDDBsV"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 245735,
       "name": "Jwala Reddy",
       "url": "https://open.spotify.com/track/3sJsBrmu3pVEbxSW5vMQoi"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Balega Tagilavey Bangaram (From \"Krack\")",
+        "url": "https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 223693,
+      "name": "Balega Tagilavey Bangaram (From \"Krack\")",
+      "url": "https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -567,30 +567,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
-        "url": "https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Lavita Lobo",
-          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 254618,
-      "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
-      "url": "https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Sarrainodu",
         "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 295032,
       "name": "Sarrainodu",
       "url": "https://open.spotify.com/track/5FybVtlnyWXL6ntfToOkm3"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
+        "url": "https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "duration_ms": 254618,
+      "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
+      "url": "https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Devadas",
-        "url": "https://open.spotify.com/album/0xcDSSJZtVGNIOFch0L99D"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni, Anjana Sowmya",
-          "url": "https://open.spotify.com/artist/3TZcSiEaHTHSMUbSd76J8J"
-        }
-      ],
-      "duration_ms": 266479,
-      "name": "Vaaru Veeru",
-      "url": "https://open.spotify.com/track/2os5ZEWZ2lwGRh4aBYOAE4"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Saaho",
         "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
       },
@@ -707,6 +691,42 @@
       "duration_ms": 166293,
       "name": "Psycho Saiyaan",
       "url": "https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Devadas",
+        "url": "https://open.spotify.com/album/0xcDSSJZtVGNIOFch0L99D"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni, Anjana Sowmya",
+          "url": "https://open.spotify.com/artist/3TZcSiEaHTHSMUbSd76J8J"
+        }
+      ],
+      "duration_ms": 266479,
+      "name": "Vaaru Veeru",
+      "url": "https://open.spotify.com/track/2os5ZEWZ2lwGRh4aBYOAE4"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Jai Lava Kusa",
+        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 260588,
+      "name": "Tring Tring",
+      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -735,22 +755,18 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Jai Lava Kusa",
-        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
+        "name": "Chalo",
+        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
       },
       "artists": [
         {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
         }
       ],
-      "duration_ms": 260588,
-      "name": "Tring Tring",
-      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
+      "duration_ms": 252195,
+      "name": "Drunk and Drive",
+      "url": "https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -799,30 +815,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Alludu Adhurs",
-        "url": "https://open.spotify.com/album/3kus7s3pIDVtyckV59gkKs"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Vaishnavi",
-          "url": "https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e"
-        }
-      ],
-      "duration_ms": 241300,
-      "name": "Alludu Adhurs",
-      "url": "https://open.spotify.com/track/5nP5Y7qkiiWi70QueS3qF8"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Check",
         "url": "https://open.spotify.com/album/0MdbUcs1RFozb1oEXgh0kA"
       },
@@ -847,6 +839,30 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
+        "name": "Alludu Adhurs",
+        "url": "https://open.spotify.com/album/3kus7s3pIDVtyckV59gkKs"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Vaishnavi",
+          "url": "https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e"
+        }
+      ],
+      "duration_ms": 241300,
+      "name": "Alludu Adhurs",
+      "url": "https://open.spotify.com/track/5nP5Y7qkiiWi70QueS3qF8"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
         "name": "F2",
         "url": "https://open.spotify.com/album/0CkMSLqE73UxkDdF2zGMeO"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 295680,
       "name": "Girra Girra",
       "url": "https://open.spotify.com/track/5GQ5gYGmIXeACMJk5E1RQR"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
-        "name": "Chalo",
-        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        }
-      ],
-      "duration_ms": 252195,
-      "name": "Drunk and Drive",
-      "url": "https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -915,30 +915,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Alludu Adhurs",
-        "url": "https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "Hola Chica (Hi Girl)",
-      "url": "https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Sreekaram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 222201,
       "name": "Hey Abbayi",
       "url": "https://open.spotify.com/track/0IDhvvZHORFGPDh0fWqPbk"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Alludu Adhurs",
+        "url": "https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "Hola Chica (Hi Girl)",
+      "url": "https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE"
     },
     {
       "added_at": "2021-09-24 09:12:55",

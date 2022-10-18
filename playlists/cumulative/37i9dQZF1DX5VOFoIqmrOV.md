@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-146 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/715jXIfJUzT2AiTQl5FY7n)
+147 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/715jXIfJUzT2AiTQl5FY7n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Naa Kanulu Yepudu](https://open.spotify.com/track/3g6RB0ryX4qO3zNLNdpDPJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Rang De](https://open.spotify.com/album/1zGqBFcxyqojJJxzRYSDOe) | 4:09 | 2021-12-16 | 2022-07-25 |
 | [Naa Kanulu Yepudu](https://open.spotify.com/track/1JkSiGGPZzSJ6MlTNn1zsb) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Rang De](https://open.spotify.com/album/2mQKfLYzAxTypsiAbDTakV) | 4:09 | 2022-07-24 |  |
 | [Naa Kosam](https://open.spotify.com/track/0m2AYzqHVPSHew67YzYb36) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Bangarraju \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zxtsxkWYDXPo1Sm1rXFBX) | 4:17 | 2022-02-09 | 2022-07-25 |
+| [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Srinivasa Mouli](https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/album/0ceS6UwDJIFvogBfDdv7V3) | 2:54 | 2022-10-17 |  |
 | [Naatu Naatu](https://open.spotify.com/track/4BHYJiAqyqGtN267ypm1ke) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [RRR](https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9) | 3:34 | 2022-07-24 |  |
 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2021-12-16 | 2022-07-25 |
 | [Nee Chitram Choosi](https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Love Story](https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F) | 4:23 | 2021-12-16 |  |

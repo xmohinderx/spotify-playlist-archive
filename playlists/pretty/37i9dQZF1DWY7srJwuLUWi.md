@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 
 ### [The Golden Spoon \(금수저\)](https://open.spotify.com/playlist/37i9dQZF1DWY7srJwuLUWi)
 
-> Listen to the soundtracks of JTBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! \(JTBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\)
+> Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL \(MBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\) 음원제작사: SLL
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 | 23 | [K\-LAND](https://open.spotify.com/track/0NSVyvsN7Wwtu7YZ4sLVdn) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [K\-LAND](https://open.spotify.com/album/2O6DCzRdIxCr5oEu8DwAnE) | 3:19 |
 | 24 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 |
 
-Snapshot ID: `MTY2NTQ2NzQ0NSwwMDAwMDAwMGY2NjU2Yzg2ZDE4Y2Q5NjE4ODVjZTM3NmJkZjQ1MGI4`
+Snapshot ID: `MTY2NTk5NzkyMCwwMDAwMDAwMDEyMTFmNmFlNTRhN2YyYmUyMDMyYTMyMjUxMTBkYjhk`

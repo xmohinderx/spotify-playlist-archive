@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,935 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,047 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 31 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 |
 | 32 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 |
 | 33 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
-| 34 | [Ike](https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ike](https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU) | 3:49 |
-| 35 | [On God](https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [On God](https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0) | 3:44 |
-| 36 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 |
-| 37 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 |
+| 34 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 |
+| 35 | [Ike](https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ike](https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU) | 3:49 |
+| 36 | [On God](https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [On God](https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0) | 3:44 |
+| 37 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 |
 | 38 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 |
 | 39 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 |
 | 40 | [Valentine](https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Valentine](https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo) | 3:15 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 54 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 |
 | 55 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
 
-Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMGM5YjBhNzJmODk3NTcwNWRkZDRjNzVjOTAxNWQyMzll`
+Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMGE4ZmM1OThmNTQ1MTk5OGViY2MzMzMxODNlYzY2ZGU0`

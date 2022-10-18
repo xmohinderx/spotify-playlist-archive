@@ -1,12 +1,12 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 490696,
+  "num_followers": 490728,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDNhYTNkYTI2MDZlZGJkNGIyYjUxNjk3MDM4MDc5ZGE3",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDRiNzEzZWUwMmQ4YjEwZDg1ZDYwNWJiMTJkMDdmNGYz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Hearts Don't Break Around Here",
-      "url": "https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Hearts Don't Break Around Here",
+      "url": "https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "emotionally unavailable",
@@ -391,6 +375,22 @@
       "duration_ms": 182958,
       "name": "we're not kids anymore",
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "matthew",
-        "url": "https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "matthew",
-      "url": "https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "That Was Yesterday",
@@ -647,6 +631,22 @@
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "matthew",
+        "url": "https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "matthew",
+      "url": "https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 305607,
-      "name": "Meet The Moonlight",
-      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Songs of Sonder",
@@ -731,6 +715,22 @@
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 305607,
+      "name": "Meet The Moonlight",
+      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "end credits",
-        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "end credits",
-      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Blue",
@@ -1003,6 +987,22 @@
       "duration_ms": 252135,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "once in a moon",
+        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 245175,
+      "name": "once in a moon",
+      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
+    },
+    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Growth",
@@ -1137,22 +1153,6 @@
       "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "once in a moon",
-        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 245175,
-      "name": "once in a moon",
-      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Lies About The War",
@@ -1167,22 +1167,6 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Box of Regrets",
-        "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 196731,
-      "name": "Box of Regrets",
-      "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
     },
     {
       "added_at": "2021-11-19 15:05:45",
@@ -1205,20 +1189,36 @@
       "url": "https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "Why Don't You Touch Me",
-        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
+        "name": "Box of Regrets",
+        "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
         }
       ],
-      "duration_ms": 197746,
-      "name": "Why Don't You Touch Me",
-      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
+      "duration_ms": 196731,
+      "name": "Box of Regrets",
+      "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     }
   ],
   "unique_name": "Mellow Morning",

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-211 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+212 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 | 2022-07-20 | 2022-09-01 |
 | [High & Tired](https://open.spotify.com/track/3ZWVMyPoiwSGk5yaeiY6f7) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [High & Tired](https://open.spotify.com/album/0SnRennD8T02I92I0d8ANT) | 5:21 | 2022-10-12 |  |
 | [Hips \- Loraine James Remix](https://open.spotify.com/track/26VIhDNSWMxf2FBaTLQEeI) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Highgrade](https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z) | 3:17 | 2022-06-17 | 2022-08-11 |
+| [Hold Out For Love](https://open.spotify.com/track/3IY93jU8blpXFloxgWSj5s) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [Hold Out For Love](https://open.spotify.com/album/6Q0WIu35um29zR11UKxBIc) | 3:09 | 2022-10-17 |  |
 | [Hysteria](https://open.spotify.com/track/0tCgJnSBX2A6vB8KMP7p1A) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 4:03 | 2022-10-12 |  |
 | [Höstens Färger](https://open.spotify.com/track/3OGOiGoPT72xrse02X6Btw) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Är För Mycket Och Tusen Aldrig Nog](https://open.spotify.com/album/7DmBpVv1p9SemMSn7bqGyj) | 3:30 | 2022-10-12 |  |
 | [I Am Not Your Cushion](https://open.spotify.com/track/4tNe1lD0tyU07rqUA6bXdk) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Honeyglaze](https://open.spotify.com/album/2EKzD1PtSyL1hvPlrOv4Hz) | 3:05 | 2022-06-08 | 2022-06-17 |

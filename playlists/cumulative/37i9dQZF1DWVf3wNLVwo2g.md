@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-258 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+259 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Landslide](https://open.spotify.com/track/0ZxSPvOEDHlwUvjfKxLdZr) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 3:53 | 2021-09-14 | 2022-07-29 |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2022-03-08 |  |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2021-09-14 |  |
-| [Let Go \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6e3Zuo8WsFpb4PAxVRfL9N) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:23 | 2021-09-14 |  |
+| [Let Go \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6e3Zuo8WsFpb4PAxVRfL9N) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:23 | 2021-09-14 | 2022-10-18 |
 | [LET YOU BE RIGHT \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:01 | 2021-09-14 |  |
 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 | 2021-09-14 |  |
 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 | 2021-09-14 |  |
@@ -253,6 +253,7 @@
 | [White Noise \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Spotify Singles](https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli) | 2:48 | 2021-09-14 |  |
 | [Why Her Not Me \- Recorded At RAK Studios, London](https://open.spotify.com/track/7whdwj322sXuwBjVykxW1w) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:44 | 2021-09-14 |  |
 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 | 2021-09-14 |  |
+| [Wild Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3SeqvlLbg9x3LuXvUD0Q0i) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO) | 4:27 | 2022-03-08 |  |
 | [Wild Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4aWsyx9WR3xQOQtoHXOX3t) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 4:27 | 2021-09-14 | 2022-10-14 |
 | [Wildflowers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4L0rxWhjyX0VhNbK4U9oK6) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles](https://open.spotify.com/album/0N8hvQJMoZeMDEurU9afgD) | 3:05 | 2021-09-14 |  |
 | [Wish I Didn't Miss You \- Recorded At RAK Studios, London](https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:24 | 2021-09-14 |  |

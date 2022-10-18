@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 155181,
+  "num_followers": 155193,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5MjI3MCwwMDAwMDAwMDk4OTAyNGU3N2RkODUxOGIyZTc3NzliMmVjNWEzYzk0",
+  "snapshot_id": "MTY2NTQ5MjI3MCwwMDAwMDAwMDZlZWY1ZGI0NDI1OWRhOTEyYjI4MjhjYTk5YjYwMTdl",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "hate to be lame",
         "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "The Moldy Peaches",
         "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
       },
@@ -335,38 +335,6 @@
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 218659,
-      "name": "Secrets from a Girl (Who's Seen it All)",
-      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -395,6 +363,38 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 218659,
+      "name": "Secrets from a Girl (Who's Seen it All)",
+      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 210880,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Slow (feat. Henjila)",
+        "url": "https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        },
+        {
+          "name": "Henjila",
+          "url": "https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Slow (feat. Henjila)",
+      "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Slow (feat. Henjila)",
-        "url": "https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        },
-        {
-          "name": "Henjila",
-          "url": "https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Slow (feat. Henjila)",
-      "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "My Maudlin Career",
         "url": "https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 271106,
       "name": "Heart Is A Drum",
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

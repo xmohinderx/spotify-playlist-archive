@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0o0fFC1WUDCEKbBM9ARRZc)
+71 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/0o0fFC1WUDCEKbBM9ARRZc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 | 2021-12-28 |  |
 | [Don't Matter](https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:53 | 2022-03-14 |  |
 | [Don't Matter](https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:53 | 2021-12-28 | 2022-03-15 |
-| [Enjoy That](https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3pk4icDs1qwl90Q2ZYPMqT) | 3:03 | 2022-08-27 |  |
+| [Enjoy That](https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3pk4icDs1qwl90Q2ZYPMqT) | 3:03 | 2022-08-27 | 2022-10-18 |
+| [Enjoy That](https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK) | 3:03 | 2022-10-17 |  |
 | [Fair To You](https://open.spotify.com/track/4asiXFMoANXo6RWb8elStT) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 3:19 | 2022-03-09 | 2022-04-29 |
 | [Gangsta Bop](https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:06 | 2022-03-18 |  |
 | [Gangsta Bop](https://open.spotify.com/track/4iGgy19GEnx8ztNomBTbHt) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:06 | 2021-12-28 | 2022-03-14 |

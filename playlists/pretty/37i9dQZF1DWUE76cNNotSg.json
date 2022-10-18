@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 394224,
+  "num_followers": 394406,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGUyODYxMzgwOTJlYzI4Zjg2ZTVlY2FkMzQwN2M0ZjM5",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDFmNDU1OThiODY0YWViZmU0MGRiYjFiMzZlMGExZGUw",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -219,6 +219,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219604,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 218200,
       "name": "CHANCES",
       "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Overnight",
-        "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219604,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -583,22 +583,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Where Angels Fear To Tread",
-      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Heights",
         "url": "https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 174607,
       "name": "Heights",
       "url": "https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Where Angels Fear To Tread",
+      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Luv Is Not Enough (Remixes)",
         "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
       },
@@ -795,6 +775,26 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -883,6 +867,22 @@
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "cool water",
-        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
-      },
-      "artists": [
-        {
-          "name": "dayaway",
-          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "cool water",
-      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Shine A Light",
@@ -1105,42 +1089,6 @@
       "url": "https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "I Do (Vandelux Remix)",
-        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 196558,
-      "name": "I Do - Vandelux Remix",
-      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "UH",
-      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Feel It Still (The Remixes)",
@@ -1159,6 +1107,58 @@
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "UH",
+      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "cool water",
+        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
+      },
+      "artists": [
+        {
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "cool water",
+      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "I Do (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 196558,
+      "name": "I Do - Vandelux Remix",
+      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1341,26 +1341,6 @@
       "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
-    },
-    {
       "added_at": "2021-03-08 18:24:23",
       "album": {
         "name": "Blue Ceiling",
@@ -1391,6 +1371,26 @@
       "duration_ms": 255851,
       "name": "Time to Walk Away",
       "url": "https://open.spotify.com/track/01AbB47Hm60LTIStyzMb2g"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     }
   ],
   "unique_name": "golden hour",

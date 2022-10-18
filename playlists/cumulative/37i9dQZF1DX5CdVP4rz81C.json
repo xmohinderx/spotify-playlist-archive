@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Discover your favorite new chill pop songs. Cover: Noah Cyrus",
+  "description": "Discover your favorite new chill pop songs. Cover: Sadie Jean",
   "name": "Fresh & Chill",
   "published_playlist_ids": [
     "0bYTEzgb7cQ54Fa4kGbaPS"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 210000,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/79Brj2zZ0x84BxnJZ2q5Wd"
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 124987,
       "name": "Burning Up Slow",
       "url": "https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw"
@@ -7085,7 +7085,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 219373,
       "name": "Her",
       "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
@@ -7947,7 +7947,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 239706,
       "name": "I Should Be a Bird",
       "url": "https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz"
@@ -8293,7 +8293,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 219306,
       "name": "If It's Not God",
       "url": "https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG"
@@ -8369,6 +8369,28 @@
       "duration_ms": 252135,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
+    },
+    {
+      "album": {
+        "name": "ill (feat. Kenny Beats)",
+        "url": "https://open.spotify.com/album/6sCqAWl3ssVzB1mtWXBZAg"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201673,
+      "name": "ill (feat. Kenny Beats)",
+      "url": "https://open.spotify.com/track/1VWY0mwYmKxNaf5EhAGSBA"
     },
     {
       "album": {
@@ -9221,6 +9243,28 @@
       "duration_ms": 213397,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/23YJ9ngmLThhOWwL3ZYYuj"
+    },
+    {
+      "album": {
+        "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153735,
+      "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
     },
     {
       "album": {
@@ -10173,7 +10217,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 154865,
       "name": "Love Is Letting Go (feat. Diane Keaton)",
       "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
@@ -12040,6 +12084,24 @@
     },
     {
       "album": {
+        "name": "omw",
+        "url": "https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171161,
+      "name": "omw",
+      "url": "https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/7cxeHwDuhQxZeiE5Oxew7d"
       },
@@ -13439,6 +13501,24 @@
       "duration_ms": 213942,
       "name": "Runaway Blue",
       "url": "https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe"
+    },
+    {
+      "album": {
+        "name": "Runner Up",
+        "url": "https://open.spotify.com/album/6ycZdnitEnid8oks4J56am"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176121,
+      "name": "Runner Up",
+      "url": "https://open.spotify.com/track/2sfBZKDSWwQsvU5kWDEFoc"
     },
     {
       "album": {
@@ -15006,6 +15086,24 @@
     },
     {
       "album": {
+        "name": "Stayed at the Party",
+        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213166,
+      "name": "Stayed at the Party",
+      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
@@ -15992,6 +16090,24 @@
     },
     {
       "album": {
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152703,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
+    },
+    {
+      "album": {
         "name": "the way that you see me (feat. Ayleen Valentine)",
         "url": "https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm"
       },
@@ -16243,7 +16359,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 232506,
       "name": "Threads",
       "url": "https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd"
@@ -16851,7 +16967,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 147370,
       "name": "ur not delilah",
       "url": "https://open.spotify.com/track/2npGF2T4MHbn2YEDlOaPQg"
@@ -17984,6 +18100,24 @@
     },
     {
       "album": {
+        "name": "wish I didn't know you",
+        "url": "https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173203,
+      "name": "wish I didn't know you",
+      "url": "https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh"
+    },
+    {
+      "album": {
         "name": "TOO YOUNG TO BE SAD",
         "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
@@ -18031,7 +18165,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 168827,
       "name": "Wish We Were Strangers",
       "url": "https://open.spotify.com/track/7JmxTYEbTKlKMqtWhlw8DT"

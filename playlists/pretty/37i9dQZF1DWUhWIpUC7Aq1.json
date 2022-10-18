@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 58731,
+  "num_followers": 58978,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDIwZWY5OTRiYWVjMWY0NDk3MzY5MzE5ZjU3ZGY3ZmVj",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDQzZWM0NGUwOGY3YmFhN2VkZDExNzRmMGVmNDdiZTAw",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Blood Bank",
         "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 285160,
       "name": "Blood Bank",
       "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -431,22 +447,6 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The First Days Of Spring",
-        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 353946,
       "name": "Casimir Pulaski Day",
       "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The First Days Of Spring",
+        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
       "artists": [
         {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 283746,
-      "name": "The District Sleeps Alone Tonight - Remastered",
-      "url": "https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3"
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
         }
       ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+      "duration_ms": 283746,
+      "name": "The District Sleeps Alone Tonight - Remastered",
+      "url": "https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 194853,
       "name": "Heart It Races",
       "url": "https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2022-08-26 20:04:38",

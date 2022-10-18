@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 121336,
+  "num_followers": 121361,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDJhNWU1NmFiZDk3OTA0ZTY5ZTAxYWVkNGNkYzk3MDc0",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMGZlZWY1ODRkZTFjMWEwOWI5NmM4NGNiZWU1YWVlY2Y3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -167,6 +167,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Se Te Nota (with Guaynaa)",
         "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
       },
@@ -183,22 +203,6 @@
       "duration_ms": 155825,
       "name": "Se Te Nota (with Guaynaa)",
       "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -307,26 +311,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Ay, DiOs M\u00edo!",
         "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 189653,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -359,6 +359,22 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -395,22 +411,6 @@
       "duration_ms": 193699,
       "name": "ADMV",
       "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "AYAYAY!",
-        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 130759,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 186946,
       "name": "Sodio",
       "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "AYAYAY!",
+        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Los Consejos",
+        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Una Foto en Blanco y Negro",
         "url": "https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Los Consejos",
-        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Flamenkito",
         "url": "https://open.spotify.com/album/1gXu9jczbkEdYN6FNekRqH"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 187200,
       "name": "High",
       "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Ella Dice",
-        "url": "https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 161060,
-      "name": "Ella Dice",
-      "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Ella Dice",
+        "url": "https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 161060,
+      "name": "Ella Dice",
+      "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "La Mexicana",
-        "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Conocerte",
-      "url": "https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Me Equivocar\u00e9",
         "url": "https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 152722,
       "name": "Me Equivocar\u00e9",
       "url": "https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "La Mexicana",
+        "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Conocerte",
+      "url": "https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9"
     }
   ],
   "unique_name": "Lo Mejor de Pop Latino 2020",

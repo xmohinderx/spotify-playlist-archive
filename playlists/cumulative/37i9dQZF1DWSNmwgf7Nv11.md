@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-249 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+250 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Wonder](https://open.spotify.com/track/5CFTXIziYkuV7V9zf0GRLx) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Wonder](https://open.spotify.com/album/2a8lQTZXJhE4P2Jhh6Sqvk) | 2:07 | 2021-07-30 | 2022-07-29 |
 | [Wonder](https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3) | 2:08 | 2022-02-25 |  |
 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 | 2021-07-30 |  |
-| [You Can’t Go Home Again](https://open.spotify.com/track/7gQiRs2Zd88RnmE1q8XbZm) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Adam Garrett](https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p), [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 3:44 | 2021-07-30 |  |
+| [You Can’t Go Home Again](https://open.spotify.com/track/0tCECn99kszv4FCzKQTOYH) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Adam Garrett](https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p), [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [All the Leaves Are Falling](https://open.spotify.com/album/7cT1OPLUhLX1IS74XLNNSM) | 3:44 | 2022-02-25 |  |
+| [You Can’t Go Home Again](https://open.spotify.com/track/7gQiRs2Zd88RnmE1q8XbZm) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Adam Garrett](https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p), [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 3:44 | 2021-07-30 | 2022-10-18 |
 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/5qZVuornKKdSdsHPnsJjWT) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/3XnbZU5JpcMK6D5wo6f3Qg) | 3:33 | 2021-07-30 | 2022-07-29 |
 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 | 2022-02-25 |  |
 | [You're the Best](https://open.spotify.com/track/6dHrWj35HXTGvlCasE5VAA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Don't You](https://open.spotify.com/album/4vTrbwGUedO7SN3DqNOiYU) | 2:57 | 2022-02-25 |  |

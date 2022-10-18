@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 60671,
+  "num_followers": 60946,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMGY4MTRlNDg1YjMwNDg4MzI0ZGYzNWVmYTk0MmI1OWYx",
+  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMGVkODRjMThhYzgxMTI2YTk2NzUwYzNmMGQ5OGM3NTIx",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -81,20 +81,20 @@
       "url": "https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ"
     },
     {
-      "added_at": "2022-10-17 02:03:04",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Y tu te vas",
-        "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
+        "name": "O Seguinte \u00e9 Esse",
+        "url": "https://open.spotify.com/album/5dEA3Zh45vQKgrmJJuFV9p"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Y tu te vas",
-      "url": "https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v"
+      "duration_ms": 279680,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD"
     },
     {
       "added_at": "2022-09-02 05:17:08",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "O Seguinte \u00e9 Esse",
-        "url": "https://open.spotify.com/album/5dEA3Zh45vQKgrmJJuFV9p"
-      },
-      "artists": [
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Amanecer (Remixed)",
         "url": "https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA"
       },
@@ -223,6 +207,26 @@
       "duration_ms": 251773,
       "name": "To My Love - Tainy Remix",
       "url": "https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Dancy Party",
+        "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Alicia te quiero",
+          "url": "https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Siesta Freestyle",
+      "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
     },
     {
       "added_at": "2022-09-19 13:45:43",
@@ -245,24 +249,20 @@
       "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-10-18 01:53:03",
       "album": {
-        "name": "Dancy Party",
-        "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
+        "name": "Y tu te vas",
+        "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
       },
       "artists": [
         {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        },
-        {
-          "name": "Alicia te quiero",
-          "url": "https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Siesta Freestyle",
-      "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+      "duration_ms": 194346,
+      "name": "Y tu te vas",
+      "url": "https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v"
     },
     {
       "added_at": "2022-09-03 03:55:19",
@@ -317,54 +317,6 @@
       "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 269346,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
-    },
-    {
-      "added_at": "2022-10-17 02:03:04",
-      "album": {
-        "name": "Sono Come Sono",
-        "url": "https://open.spotify.com/album/63VoYQPDzymodlgLyn3SWq"
-      },
-      "artists": [
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 226623,
-      "name": "Sono Come Sono",
-      "url": "https://open.spotify.com/track/1F3tfdSF72hS1X3PSrwC5X"
-    },
-    {
-      "added_at": "2022-07-01 02:43:42",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
       "added_at": "2022-08-03 03:35:17",
       "album": {
         "name": "Savanne",
@@ -387,6 +339,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Isaac Chambers & Dub Princess",
         "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
       },
@@ -403,22 +371,6 @@
       "duration_ms": 336000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
-    },
-    {
-      "added_at": "2022-10-17 02:03:04",
-      "album": {
-        "name": "Il volo / Suonno",
-        "url": "https://open.spotify.com/album/0xUqQAygc6UIpXcSXvKyRT"
-      },
-      "artists": [
-        {
-          "name": "Capinera",
-          "url": "https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Suonno",
-      "url": "https://open.spotify.com/track/2MwvBhrK7pL4qP3KMnp5uL"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -447,26 +399,6 @@
       "duration_ms": 263688,
       "name": "Folha de Jurema",
       "url": "https://open.spotify.com/track/2RcrkBWCOWaX67jVDLgJr6"
-    },
-    {
-      "added_at": "2022-10-17 02:03:04",
-      "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        },
-        {
-          "name": "Real Stylo",
-          "url": "https://open.spotify.com/artist/0ZHdDT59jztrFM0P25fGES"
-        }
-      ],
-      "duration_ms": 195901,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -507,6 +439,22 @@
       "duration_ms": 260320,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
+    },
+    {
+      "added_at": "2022-07-01 02:43:42",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -551,26 +499,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Camino de Flores",
         "url": "https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo"
       },
@@ -591,6 +519,26 @@
       "duration_ms": 341500,
       "name": "Mirando El Fuego",
       "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -911,6 +859,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Turn Around",
         "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
       },
@@ -943,22 +907,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Claremont 56: 10 Years, Pt. 1",
         "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
       },
@@ -979,22 +927,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
@@ -1007,6 +939,22 @@
       "duration_ms": 273946,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1093,6 +1041,22 @@
       "url": "https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
+    },
+    {
       "added_at": "2022-08-13 00:58:04",
       "album": {
         "name": "P\u00e1jaros en Verano",
@@ -1111,22 +1075,6 @@
       "duration_ms": 196000,
       "name": "P\u00e1jaros en Verano",
       "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1171,6 +1119,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "El Origen",
         "url": "https://open.spotify.com/album/0wOHl1sUUJ5fw2YLCClpyr"
       },
@@ -1187,22 +1151,6 @@
       "duration_ms": 293990,
       "name": "Agua de La Tierra (Nicola Cruz Remix)",
       "url": "https://open.spotify.com/track/3z55fMIOftbrZrZ0Z7WbbW"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2022-08-08 21:58:41",
@@ -1295,6 +1243,54 @@
       "duration_ms": 415500,
       "name": "Muy Bien",
       "url": "https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
+    },
+    {
+      "added_at": "2022-08-19 01:51:18",
+      "album": {
+        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
+        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Archer",
+          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
+        }
+      ],
+      "duration_ms": 266401,
+      "name": "Ain't Nobody - 12\" Mix",
+      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 350588,
+      "name": "Tzantza",
+      "url": "https://open.spotify.com/track/2xixdZ2dxE00bX6A6jV17m"
     }
   ],
   "unique_name": "Tulum Vibes",

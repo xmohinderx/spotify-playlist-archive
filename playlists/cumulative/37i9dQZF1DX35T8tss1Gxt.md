@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-333 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/3eK48lf8axZCOz8TG1pXO8)
+334 songs - 20 hr 32 min - [published](https://open.spotify.com/playlist/3eK48lf8axZCOz8TG1pXO8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Promise Keeper](https://open.spotify.com/track/1bMjLziHSeLBZ4wuAsCfcx) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Promise Keeper](https://open.spotify.com/album/0GRtoCgh0GL3kUgxHxuVtv) | 4:17 | 2022-02-19 | 2022-06-26 |
 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 | 2022-02-19 | 2022-06-26 |
 | [Psalm 91](https://open.spotify.com/track/0DG9MlPHBIaiki54DnsF6E) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Calibleubird](https://open.spotify.com/artist/2lQaoKj7zkAINiqf56vduT) | [In Full Bloom](https://open.spotify.com/album/2jX9LJoAkzvLlqRLoHXgH5) | 5:26 | 2022-02-19 | 2022-06-26 |
+| [Raise Me up](https://open.spotify.com/track/0lJqOsIkXILwog3TlKe4fN) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Amen](https://open.spotify.com/album/0StVTQHd3IOeTswapad1i7) | 2:46 | 2022-07-17 |  |
 | [Raise Me up](https://open.spotify.com/track/3lhwLzBFmGqt0gQ4iIExNy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Raise Me up](https://open.spotify.com/album/0ejViiyqE6EPBVDoCzd1G4) | 2:46 | 2022-06-25 | 2022-10-14 |
 | [real kind of love](https://open.spotify.com/track/6Nu8k5K4fdWoHMxqSB29oE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:49 | 2022-02-27 | 2022-04-05 |
 | [Real Love](https://open.spotify.com/track/2xXPUPVEKoTOdBnSutUqaP) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Real Love](https://open.spotify.com/album/4eMEIG4bEeCfufYVmXPXCp) | 3:36 | 2022-02-19 | 2022-06-26 |
@@ -329,7 +330,7 @@
 | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ryan Avery](https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS) | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu) | 3:03 | 2022-06-25 |  |
 | [wouldn't have made it](https://open.spotify.com/track/1KVTWAepHXRngE6Xzlos0s) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC), [Mackó Miki](https://open.spotify.com/artist/19zHJn4Rz00nsLzdNDtQRS) | [wouldn't have made it](https://open.spotify.com/album/1bt403yT9Xj6khguaf2iQP) | 2:56 | 2022-03-05 | 2022-05-10 |
 | [Yesu Bambi \- Acoustic](https://open.spotify.com/track/2DfjhHcH0ZPxP2l6WKcSFu) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Yesu Bambi \(Acoustic\)](https://open.spotify.com/album/1rvEvZJWpif6hAjpUHst8n) | 2:43 | 2022-04-01 | 2022-04-09 |
-| [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 | 2022-02-19 |  |
+| [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 | 2022-02-19 | 2022-10-18 |
 | [You](https://open.spotify.com/track/1SJdqZMc1xRxAO0J87ClGG) | [Sada K.](https://open.spotify.com/artist/6jFgqyc7ZSTSwIQFotdGHd) | [You](https://open.spotify.com/album/6fDuq5o4GieAr3h4UaeaLv) | 2:58 | 2022-02-19 | 2022-06-20 |
 | [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 | 2022-06-25 |  |
 | [You & Me](https://open.spotify.com/track/0K1nuUsU4PtFd9YhfxJy9T) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 2:33 | 2022-02-19 | 2022-06-08 |

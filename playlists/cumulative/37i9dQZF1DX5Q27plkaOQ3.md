@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: GHENGAR
 
-249 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+250 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Don't Look Down \- Slippy Remix](https://open.spotify.com/track/0rg4wm7N51dWAFZ6gPbtjy) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU), [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 3:40 | 2022-07-01 | 2022-09-03 |
 | [Don’t Look Down \(feat\. Linney\)](https://open.spotify.com/track/6Rzv2CVwDi7hYnVU5wKcXe) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Don’t Look Down \(feat\. Linney\)](https://open.spotify.com/album/2cPDBEbEqCBsm9I2cxL9jj) | 4:03 | 2022-09-16 |  |
 | [Double Dipping](https://open.spotify.com/track/4alPbFkCasI3admYNY3JvO) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Double Dipping](https://open.spotify.com/album/0AB67qjQrNHtV6Uv035OgN) | 2:52 | 2021-12-17 |  |
-| [Drifter](https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Drifter](https://open.spotify.com/album/3fbDmqCGBsQK3Y2hRxpLft) | 3:21 | 2022-09-30 |  |
+| [Drifter](https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Drifter](https://open.spotify.com/album/3fbDmqCGBsQK3Y2hRxpLft) | 3:21 | 2022-09-30 | 2022-10-18 |
 | [DUMP TRUCC](https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [DUMP TRUCC](https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ) | 2:30 | 2022-03-11 |  |
 | [ELIMINATE](https://open.spotify.com/track/6RJmlflJpfMENnS4R7DR7N) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [ELIMINATE](https://open.spotify.com/album/4HFka5kVY811vfUJGlVmTo) | 2:12 | 2021-12-17 | 2022-07-25 |
 | [Encrypted](https://open.spotify.com/track/0AP5MX9obbI3ExcNqK13t8) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Encrypted](https://open.spotify.com/album/5kRnZ2iYR9hMmDrhrXpx4j) | 3:58 | 2022-07-01 | 2022-09-02 |
@@ -158,6 +158,7 @@
 | [Never Let Go](https://open.spotify.com/track/5fRv7CHYesjbCTrqmwyAGw) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Never Let Go](https://open.spotify.com/album/2tt3E5srfER0YtpRfIAK7M) | 3:01 | 2022-08-26 |  |
 | [No Cap](https://open.spotify.com/track/4T8OzVj1mcE5LNC3deHs4l) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Cap](https://open.spotify.com/album/1ZyE0svTRVJRACo7uDRnjK) | 2:40 | 2021-12-17 | 2022-03-12 |
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-12-17 |  |
+| [No Rules](https://open.spotify.com/track/6HYx52WlKFIQxiOJg1eY2n) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [No Rules](https://open.spotify.com/album/5LSfpXKFTSWKBMLWmgWN25) | 2:10 | 2022-10-14 |  |
 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 | 2021-12-17 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-03 |  |
 | [Obsidian Vortex](https://open.spotify.com/track/5zJkRl2lsuP1bD1djEodCZ) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [Obsidian Vortex](https://open.spotify.com/album/0gx6FvmRuJF7ZGlYayQqBx) | 2:42 | 2022-09-16 |  |

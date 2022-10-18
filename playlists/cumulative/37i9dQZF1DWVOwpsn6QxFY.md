@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-218 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+219 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [If I Don’t Hear From You Tonight](https://open.spotify.com/track/661gsg4lHFXpeOGA6SUHNu) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [If I Don't Hear From You Tonight](https://open.spotify.com/album/2hgcgaZZ4dEZfIdq6X02pa) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [Isabella](https://open.spotify.com/track/6IKuSOJhP26cbh9Ke1G22l) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY) | [The Loves of Your Life](https://open.spotify.com/album/4kBc87iwT7HAqZx8A0aC1f) | 4:09 | 2021-11-12 | 2022-07-25 |
 | [It Ain't Me, It's You](https://open.spotify.com/track/4bp0LGj4ahCGni2UG2j7rD) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Slow Motion](https://open.spotify.com/album/57QFaTFPSvhVGvWvMUJhGl) | 3:41 | 2022-03-31 | 2022-04-21 |
-| [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-08-12 |  |
+| [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-08-12 | 2022-10-18 |
 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 | 2021-11-12 |  |
 | [January Summers](https://open.spotify.com/track/3yO22faLpP5kU10HO5eBLQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [January Summers](https://open.spotify.com/album/4IUUW4hq9g4FaoMKlaJJ2M) | 3:23 | 2021-11-12 | 2022-07-07 |
 | [Jenny](https://open.spotify.com/track/3qGXA1STZ4yUVIJjxAT6we) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Jenny](https://open.spotify.com/album/1zmGAssIf3oI1RptERx5p9) | 3:06 | 2021-11-12 | 2022-07-29 |
@@ -157,7 +157,7 @@
 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2022-03-31 |  |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 | 2022-06-23 |  |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/album/3hzBgKpVyownETEhtDeuMS) | 4:15 | 2021-11-12 | 2022-07-29 |
-| [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-12 | 2022-10-17 |
+| [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-12 |  |
 | [Pink Pools](https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Can't Stop The Dawn](https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL) | 3:18 | 2021-11-12 | 2022-07-26 |
 | [Pink Pools](https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Pink Pools](https://open.spotify.com/album/3hwL7txBctOFSiWmIaOofH) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 | 2022-08-12 | 2022-09-21 |
@@ -197,7 +197,7 @@
 | [Stacking Chairs](https://open.spotify.com/track/7355r4wB8D6crALDxPZ8KR) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/70VPEuD4jUU7uPjBmP0D2o) | 3:08 | 2021-11-12 | 2022-07-29 |
 | [Sugar](https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sugar](https://open.spotify.com/album/69KXYbtGSjqKjQ7aBBZbGw) | 2:56 | 2022-03-31 | 2022-04-17 |
 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 | 2022-06-23 |  |
-| [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2022-03-31 |  |
+| [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2022-03-31 | 2022-10-18 |
 | [Summertime](https://open.spotify.com/track/4NKJj0xn6XT06bsPq9mua1) | [The Dunwells](https://open.spotify.com/artist/7D0V1JYNXvhpxHDoP3zu0x) | [Summertime](https://open.spotify.com/album/1gmucHGTkROZ1QEoPmoIsP) | 3:34 | 2022-03-31 | 2022-04-20 |
 | [Sunday Funday](https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Sunday Funday](https://open.spotify.com/album/0zWuOEFvg95QOrh7qEeSMH) | 4:16 | 2021-11-12 | 2022-07-29 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-06-23 |  |
@@ -226,5 +226,6 @@
 | [Wild Side](https://open.spotify.com/track/5pSJMVYX93VnOgOtnvAO6V) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Wild Side](https://open.spotify.com/album/2C4CTmdg1LxR9cqJmfEdKT) | 3:55 | 2022-04-08 | 2022-07-24 |
 | [Woah Man](https://open.spotify.com/track/0PGnwDPPMoJ1s49hQQXHFR) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:28 | 2022-06-23 | 2022-10-13 |
 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 | 2021-11-12 | 2022-07-29 |
+| [Woah Man](https://open.spotify.com/track/2BGLJ2TvnOQwZ1pT81TIBl) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:28 | 2022-08-12 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

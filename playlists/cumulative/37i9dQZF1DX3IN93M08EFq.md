@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-113 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
+114 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Electric](https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:58 | 2021-06-15 | 2022-07-29 |
 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 | 2021-06-15 | 2022-07-29 |
 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 | 2021-06-15 |  |
-| [Geraldine](https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/5TeMUnQg051IlhtwhkfqF7) | 3:45 | 2021-06-15 |  |
+| [Geraldine](https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/5TeMUnQg051IlhtwhkfqF7) | 3:45 | 2021-06-15 | 2022-10-18 |
 | [Geraldine](https://open.spotify.com/track/75UqWU4Y0YdCB9MrnKZZnC) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/2MLOTcKvTfrJHhEeRb164i) | 3:45 | 2021-06-15 | 2022-07-29 |
 | [Girls With Bangs](https://open.spotify.com/track/6NO5nH1z1PktzfYoEifpPd) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Music & Sports](https://open.spotify.com/album/2NbsAu4U7B3ztrAzf5IDqH) | 3:53 | 2021-06-15 | 2022-03-14 |
 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 | 2021-06-15 |  |
@@ -88,6 +88,7 @@
 | [Punkdrömmar](https://open.spotify.com/track/615tgqlxXuRLXvuUx3Qbfg) | [\[ingenting\]](https://open.spotify.com/artist/6nceGL5HhapgE9AJvlZK1l) | [Mycket Väsen För Ingenting](https://open.spotify.com/album/5NztLuA8iBEwvQaolmXPO3) | 3:10 | 2021-06-15 | 2022-07-27 |
 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 | 2021-06-15 | 2022-09-13 |
 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 | 2021-06-15 | 2022-10-13 |
+| [Ruby](https://open.spotify.com/track/7f7PmeN76Cr3qpQTpqUPcG) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/05jUwmVUkmYzj3AeYqNr8B) | 3:22 | 2021-06-15 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-06-15 |  |
 | [She](https://open.spotify.com/track/2fGFMTIYDUuSme8BRC9nY4) | [Sugarplum Fairy](https://open.spotify.com/artist/4F8TuY4EW1EtXMpRRl8r6o) | [First Round First Minute](https://open.spotify.com/album/31PlmsFSYXOYy1x6DdNgzY) | 2:42 | 2021-06-15 | 2022-07-26 |
 | [She's So Lovely](https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Scouting For Girls \(Expanded Edition\)](https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV) | 3:43 | 2021-06-15 |  |

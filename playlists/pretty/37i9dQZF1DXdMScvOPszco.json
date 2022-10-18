@@ -1,12 +1,12 @@
 {
   "description": "Ponle actitud a tu comida.",
-  "num_followers": 37483,
+  "num_followers": 37512,
   "original_name": "Cocina con Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDE2OTIxNCwwMDAwMDAwMDg1MmY0ZjcwNTE2MDQ1ZjY1MTllMTI3ODBjMzYyNTZj",
+  "snapshot_id": "MTU5MDE2OTIxNCwwMDAwMDAwMGNlZjNhNTRmMzQyNDYxNWJiZTUyNGVjMTc2OGM2OGFh",
   "tracks": [
     {
       "added_at": "2020-05-22 17:40:14",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 145706,
       "name": "Blister In The Sun",
       "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -203,22 +187,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
@@ -231,6 +199,38 @@
       "duration_ms": 149786,
       "name": "I Wanna Be Sedated",
       "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 223227,
-      "name": "Fall Back Down",
-      "url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 207040,
-      "name": "California Uber Alles",
-      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+      "duration_ms": 223227,
+      "name": "Fall Back Down",
+      "url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -459,18 +443,34 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
       "artists": [
         {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 205640,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
+      "duration_ms": 207040,
+      "name": "California Uber Alles",
+      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "21st Century (Digital Boy)",
+      "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -491,18 +491,18 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 169013,
-      "name": "21st Century (Digital Boy)",
-      "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
+      "duration_ms": 205640,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -555,18 +555,18 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+        "name": "They Came From The Shadows",
+        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
         }
       ],
-      "duration_ms": 224866,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
+      "duration_ms": 110800,
+      "name": "Skate or Die",
+      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -587,18 +587,18 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "They Came From The Shadows",
-        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
       "artists": [
         {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 110800,
-      "name": "Skate or Die",
-      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
+      "duration_ms": 224866,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -699,6 +699,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "God Save the Queen",
+      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+        "name": "Let's Talk About Feelings",
+        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
       },
       "artists": [
         {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
         }
       ],
-      "duration_ms": 200080,
-      "name": "God Save the Queen",
-      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
+      "duration_ms": 176960,
+      "name": "May 16",
+      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -763,22 +779,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Let's Talk About Feelings",
-        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
-      },
-      "artists": [
-        {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "May 16",
-      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Something's Gotta Give",
-        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
+        "name": "Hurricane Bar",
+        "url": "https://open.spotify.com/album/1StsgV2Djw49X5zMj5jztP"
       },
       "artists": [
         {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
+      "duration_ms": 238493,
+      "name": "Down in the Past",
+      "url": "https://open.spotify.com/track/2vx5Dc3Zxtd5yGDlh2pAAz"
     }
   ],
   "unique_name": "Cocina con Punk",

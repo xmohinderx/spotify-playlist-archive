@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Peppertones(\ud398\ud37c\ud1a4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 188520,
+  "num_followers": 188653,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY0MDE0OSwwMDAwMDAwMGFmNTc1YTllNTY5NmIyNGFlYTFiNWYwNTdiOTEyYTUx",
+  "snapshot_id": "MTY2NTY0MDE0OSwwMDAwMDAwMDk4YjNmOWQyZWU3NjI0YTE5Y2RkMjU0YTFmYjUwZWY5",
   "tracks": [
     {
       "added_at": "2022-10-13 05:49:08",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE"
-    },
-    {
-      "added_at": "2022-10-13 05:49:08",
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 202440,
       "name": "\uc2dc\uc791",
       "url": "https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP"
+    },
+    {
+      "added_at": "2022-10-13 05:49:08",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE"
     },
     {
       "added_at": "2022-10-13 05:49:08",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
+    },
+    {
+      "added_at": "2022-10-13 05:49:08",
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 5",
         "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
       },
@@ -451,38 +467,6 @@
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
-    },
-    {
-      "added_at": "2022-10-13 05:49:08",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
-    },
-    {
-      "added_at": "2022-10-13 05:49:08",
-      "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
     },
     {
       "added_at": "2022-10-13 05:49:08",
@@ -519,6 +503,38 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
+    },
+    {
+      "added_at": "2022-10-13 05:49:08",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+    },
+    {
+      "added_at": "2022-10-13 05:49:08",
+      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
-    },
-    {
-      "added_at": "2022-10-13 05:49:08",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "added_at": "2022-10-13 05:49:08",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
-    },
-    {
-      "added_at": "2022-10-13 05:49:08",
-      "album": {
         "name": "1st Album [Dystopia : The Tree of Language]",
         "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
     },
     {
       "added_at": "2022-10-13 05:49:08",
@@ -695,18 +679,34 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 213217,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+      "duration_ms": 224760,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
+    },
+    {
+      "added_at": "2022-10-13 05:49:08",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
     },
     {
       "added_at": "2022-10-13 05:49:08",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
-    },
-    {
-      "added_at": "2022-10-13 05:49:08",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
-        "name": "Grey Suit - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
       },
       "artists": [
         {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Grey Suit",
-      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
+      "duration_ms": 213217,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
     },
     {
       "added_at": "2022-10-13 05:49:08",
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-10-13 05:49:08",
       "album": {
-        "name": "The Book of Us : Entropy",
-        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
+        "name": "Grey Suit - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
         }
       ],
-      "duration_ms": 227240,
-      "name": "Sweet Chaos",
-      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
+      "duration_ms": 222893,
+      "name": "Grey Suit",
+      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     },
     {
       "added_at": "2022-10-13 05:49:08",
@@ -819,6 +803,22 @@
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
+    },
+    {
+      "added_at": "2022-10-13 05:49:08",
+      "album": {
+        "name": "The Book of Us : Entropy",
+        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Sweet Chaos",
+      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

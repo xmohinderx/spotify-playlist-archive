@@ -4,7 +4,7 @@
 
 > An introduction to some of alt\-rock’s most seminal tracks.
 
-248 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+250 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Brilliantly Cute](https://open.spotify.com/track/0vHF5SWamP0JDFcKKdOOX1) | [Six by Seven](https://open.spotify.com/artist/4TXdHyuAOl3rAOFmZ6MeKz) | [The Things We Make](https://open.spotify.com/album/3IGpXeAKgX6KDLNWOv046d) | 3:58 | 2021-12-15 | 2022-07-27 |
 | [Catalyst \- Remastered](https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M) | [Oceansize](https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm) | [Effloresce](https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu) | 6:40 | 2022-06-23 |  |
 | [Catalyst \- Remastered](https://open.spotify.com/track/6XXVfbTesfnkhnX3MO80cX) | [Oceansize](https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm) | [Effloresce](https://open.spotify.com/album/5HeMzB3lNUuYJGjfHYYlml) | 6:40 | 2021-12-15 | 2022-07-29 |
+| [Change](https://open.spotify.com/track/2DyhBbEIaPX1neN47yLJkk) | [Curtiss](https://open.spotify.com/artist/1JaFPRzVdBkoUq5K16U8ly) | [Simplicity](https://open.spotify.com/album/4cgXduilLVjNuIMBIbUUIN) | 4:00 | 2022-10-11 |  |
 | [Cheap Magic](https://open.spotify.com/track/7kamSwUo2vWKVjTnK21Xtm) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH) | [The Free Life](https://open.spotify.com/album/2AZizPumqjqVyEapFaNnQH) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 | 2021-12-15 |  |
 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 | 2021-12-15 | 2022-09-22 |
@@ -116,7 +117,7 @@
 | [Just a Boy](https://open.spotify.com/track/7jM7jBGWI7IRJeDe8gAYlr) | [JAWS](https://open.spotify.com/artist/3E3NOIlw2s1ZPU9GRB9jaq) | [Simplicity](https://open.spotify.com/album/3CxgMllHyGqXRyS7o6y5VZ) | 4:11 | 2021-12-15 | 2022-07-27 |
 | [Just The Way I'm Feeling](https://open.spotify.com/track/1zg4NCQ3vHLn3MeaDBPm3s) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Comfort in Sound](https://open.spotify.com/album/2h5yQlbqKmvblc712KDmc5) | 4:23 | 2022-09-21 |  |
 | [Kalifornia](https://open.spotify.com/track/6MPXgYIVqYQk8dCFvkZccw) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [All or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/1Shxzz6xwTGCUH2YqPuUlR) | 2:54 | 2021-12-15 | 2022-07-25 |
-| [Kangaroo Pocket](https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas) | [Rozwell Kid](https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0) | [Too Shabby](https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897) | 4:30 | 2021-12-15 |  |
+| [Kangaroo Pocket](https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas) | [Rozwell Kid](https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0) | [Too Shabby](https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897) | 4:30 | 2021-12-15 | 2022-10-18 |
 | [Keep The Lights On Me](https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Keep The Lights On Me](https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ) | 3:47 | 2021-12-15 | 2022-07-28 |
 | [Kettling](https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ) | 3:41 | 2021-12-15 | 2022-09-22 |
 | [Kick](https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Brave Faces Everyone](https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv) | 4:02 | 2021-12-15 |  |
@@ -133,6 +134,7 @@
 | [Losing My Touch](https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Forever Whatever](https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS) | 3:58 | 2021-12-15 |  |
 | [Low](https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ) | [Gates](https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6) | [Bloom and Breathe](https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f) | 4:07 | 2021-12-15 |  |
 | [McFearless](https://open.spotify.com/track/0obzF8a4DaF3XrlOB16xlx) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:09 | 2021-12-15 | 2022-01-04 |
+| [Medicine](https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY) | 4:07 | 2022-10-11 |  |
 | [Medicine](https://open.spotify.com/track/704NoIIW2Jo98WFUViSqk1) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Medicine](https://open.spotify.com/album/6ueu2LGKB7iuUZ6Gyz44CX) | 4:07 | 2021-12-15 | 2022-10-14 |
 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 | 2021-12-15 |  |
 | [Milligram](https://open.spotify.com/track/5OAJwxs3RroGoI0xTomXJS) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [Pure Forever](https://open.spotify.com/album/5XKrvtQce8Ou9DqFambYO4) | 3:20 | 2021-12-15 | 2022-07-28 |
@@ -225,7 +227,7 @@
 | [Too Rich to Die](https://open.spotify.com/track/0jVg9DxcZ8Mfi7sdfKlk08) | [Somerset Thrower](https://open.spotify.com/artist/5Ifk35ildPnmMtcnOWLITu) | [Paint My Memory](https://open.spotify.com/album/5b1TPbHGcXbruFrwnfgF9b) | 4:14 | 2022-04-15 | 2022-07-29 |
 | [Tough Girl](https://open.spotify.com/track/12JsAoOHdBqGZgVES0OOoL) | [Open Hand](https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9) | [You and Me](https://open.spotify.com/album/6FJ9moP5iouB28Z2JKtmbI) | 2:54 | 2021-12-15 | 2022-09-12 |
 | [Trans Am Sunday](https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF) | [Hobosexual](https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK) | [Monolith](https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS) | 5:53 | 2021-12-15 |  |
-| [Transatlantic Foe](https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:37 | 2021-12-15 |  |
+| [Transatlantic Foe](https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:37 | 2021-12-15 | 2022-10-18 |
 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 | 2022-09-21 |  |
 | [Treats](https://open.spotify.com/track/0DRtZSDTSfhWVp7dMqzPSw) | [INHEAVEN](https://open.spotify.com/artist/2SgWbTR6U3CI3BBecWaUcy) | [Inheaven](https://open.spotify.com/album/2GpKuAulsb6KIMHZ24YkYP) | 3:34 | 2021-12-15 | 2022-07-27 |
 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 | 2021-12-15 | 2022-10-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,114 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,127 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 28 | [Echo Park](https://open.spotify.com/track/0oKMYyW7lQE1KQWCDyNobd) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Echo Park](https://open.spotify.com/album/3tlE6Sz6txgBWAy32hzc8N) | 3:30 |
 | 29 | [Love Wouldn't Take Me Back](https://open.spotify.com/track/5a4XN7YQHhgFN2Dbcu28od) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I](https://open.spotify.com/album/4c4wjCUhgmyR2nOGmd9gGl) | 3:59 |
 | 30 | [Better](https://open.spotify.com/track/0JHKOlL6X1BG2nigAlfI45) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Better](https://open.spotify.com/album/0lEAuFnxxO1j2umUmgrz5h) | 2:35 |
-| 31 | [Fix It for You](https://open.spotify.com/track/1uBEbkc8FTnbPoaZ30ZGmL) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Fix It for You](https://open.spotify.com/album/6iGDbmsiSqnsQunzgqaUWC) | 3:46 |
+| 31 | [Fix It for You](https://open.spotify.com/track/6Ann0ot3NWuGn7BLUjjtCP) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Fix It for You](https://open.spotify.com/album/433mlt0ijSxHriQwNB5FgQ) | 3:46 |
 | 32 | [Currents](https://open.spotify.com/track/4wZlPWevkIrsHo4Wr5oIRt) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Currents](https://open.spotify.com/album/3VHNsnpYi781v0AVA1716L) | 4:43 |
 | 33 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 34 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 98 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 99 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDBlYzk5MTFiNmU3OWIyYTY5Y2JjNmJkNWQzYWI4OTJj`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDNlYTVmYTU1ZDgxMzYwZDZhMzE0YWJmZjE3MDBiNThk`

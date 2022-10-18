@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,540 songs - 2 day 21 hr 44 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,541 songs - 2 day 21 hr 49 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Dreamscape](https://open.spotify.com/track/5Sa0YRWbOJ0BInNLifLwBh) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Dreamscape](https://open.spotify.com/album/0UKWFT4kloCnwfMnRfUYT7) | 2:13 | 2021-03-20 | 2022-04-19 |
 | [Dreamscapes](https://open.spotify.com/track/0STfg37q4PvbZlqtjsHy6P) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Versus](https://open.spotify.com/album/6ehOCDefU91mg0nczNOteq) | 3:02 | 2021-03-19 | 2022-04-17 |
 | [Dressed in white](https://open.spotify.com/track/2uAmuYEfy41SA6tuveUC5O) | [Callum Shaw](https://open.spotify.com/artist/2pFORBvkv1vMl6zreAyoFM) | [Dressed in white](https://open.spotify.com/album/5t51mvWNNc24SOgGwBmxHa) | 2:47 | 2021-07-09 | 2022-07-17 |
-| [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2021-07-10 |  |
+| [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2021-07-10 | 2022-10-18 |
 | [Drifting Along](https://open.spotify.com/track/4SIUDl2ip5jEFAQeeIXC9B) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Drifting Along](https://open.spotify.com/album/3Fo02LwzmosC2HVPEFFMPu) | 2:29 | 2022-04-12 | 2022-06-01 |
 | [Drops](https://open.spotify.com/track/6tAVuHk9SgULudReDLhcgj) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Stories](https://open.spotify.com/album/10i8H3JBp0J5sRVaONz6qe) | 2:36 | 2021-03-16 | 2022-04-06 |
 | [Drops of Memories](https://open.spotify.com/track/26jHMGZQjeLWaKTOHZXfZD) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Gotas de Infinito](https://open.spotify.com/album/5RxHQKZaH6uAgOVHLfBfSx) | 1:56 | 2021-12-13 | 2021-12-21 |
@@ -724,6 +724,7 @@
 | [Le crépuscule](https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd) | [Pascale Perrot](https://open.spotify.com/artist/11nSedLZI37ACQ8UjQEzx1) | [Le crépuscule](https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK) | 2:10 | 2022-01-06 | 2022-03-27 |
 | [Le notti rosse](https://open.spotify.com/track/5axUCaGmmqMGXyAg8BF1FF) | [Marinella Necchi](https://open.spotify.com/artist/4mnHDSsBjWQAaMr7zYXKnh) | [Le notti rosse](https://open.spotify.com/album/0iugzmYeYMj76R1NztVDHr) | 2:14 | 2022-04-14 | 2022-09-30 |
 | [Le onde](https://open.spotify.com/track/6sEz1Cd0HVXRXuvIw9zAmK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Ludovico Einaudi: Le onde](https://open.spotify.com/album/16DNdOQumrQqrwETEfI5y7) | 5:23 | 2021-04-22 | 2021-12-21 |
+| [Le Onde](https://open.spotify.com/track/1ULzttQgU3Q9EaIpdoxF1T) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Le Onde](https://open.spotify.com/album/3noVhEOyuTVo9ajhELUq8V) | 5:24 | 2022-09-29 |  |
 | [Le rêve de toi](https://open.spotify.com/track/70130UTPY4KvhNbYZwkeGL) | [Nicole Pelletier](https://open.spotify.com/artist/42s2bRUZDcAxHkGW5GXjpG) | [Le rêve de toi](https://open.spotify.com/album/5lwC8W3Zo1CG7U3OfJyGtI) | 3:38 | 2021-04-24 | 2022-07-28 |
 | [Le soleil brille](https://open.spotify.com/track/33JTqE9e7gORkp63S7FZF2) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Le soleil brille](https://open.spotify.com/album/3TPBg1dhAwxW3m63reCbhY) | 2:39 | 2021-05-23 | 2022-04-28 |
 | [Leander](https://open.spotify.com/track/02tMk9BDH5vxPUNdkPVppT) | [Bert Hearns](https://open.spotify.com/artist/1aGVRfsCFUIKGa775i4QJs) | [Leander](https://open.spotify.com/album/0gMTM9hYtvddgsT57Fmo9u) | 2:04 | 2021-03-15 | 2021-05-16 |

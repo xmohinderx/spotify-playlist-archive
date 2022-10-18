@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 311837,
+  "num_followers": 311888,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMGQzZTVjZjhiYzEwNTY4MzQ5MDVjMzgwMDA1NmJmMjUx",
+  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMGQ0OTAzYjg1NWIyYjdjYTk4Nzk0ODY0ZDE2NzQzNDc4",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Punk Goes Acoustic, Vol. 2",
+        "url": "https://open.spotify.com/album/56LIpZLM5kSMhdKdMTJ4RU"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 290786,
+      "name": "Three Cheers For Five Years",
+      "url": "https://open.spotify.com/track/3hJoAM3O7q1i70lJRf8Cky"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Rain In July",
         "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
       },
@@ -203,18 +219,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Punk Goes Acoustic, Vol. 2",
-        "url": "https://open.spotify.com/album/56LIpZLM5kSMhdKdMTJ4RU"
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 290786,
-      "name": "Three Cheers For Five Years",
-      "url": "https://open.spotify.com/track/3hJoAM3O7q1i70lJRf8Cky"
+      "duration_ms": 222869,
+      "name": "Take Me as You Please",
+      "url": "https://open.spotify.com/track/5JCD9hxovnHVF72WXt7App"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -251,22 +267,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 222869,
-      "name": "Take Me as You Please",
-      "url": "https://open.spotify.com/track/5JCD9hxovnHVF72WXt7App"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Lips Like Oxygen Reimagined",
         "url": "https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 176383,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/20K2hZ4xjfoSKoQ8adBkk8"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "In Bloom: Versions",
+        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 212534,
+      "name": "In Bloom (Acoustic)",
+      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -347,22 +363,6 @@
       "duration_ms": 195760,
       "name": "P\u00e2querette (Without Me)",
       "url": "https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "In Bloom: Versions",
-        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 212534,
-      "name": "In Bloom (Acoustic)",
-      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -427,6 +427,22 @@
       "duration_ms": 220941,
       "name": "Into The Dark (Acoustic)",
       "url": "https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 184490,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -511,22 +527,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 184490,
-      "name": "Little Dove",
-      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "The Bird and the Bee Sides",
         "url": "https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Voldemort",
-        "url": "https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Voldemort (Acoustic)",
-      "url": "https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Sunnyland",
         "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 234912,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Voldemort",
+        "url": "https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Voldemort (Acoustic)",
+      "url": "https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dear Rose, I'm Haunted",
-        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
-      },
-      "artists": [
-        {
-          "name": "Drawn To The Sky",
-          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
-        }
-      ],
-      "duration_ms": 237631,
-      "name": "Dear Rose, I'm Haunted",
-      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 196307,
       "name": "Drink To Drown",
       "url": "https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Dear Rose, I'm Haunted",
+        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
+      },
+      "artists": [
+        {
+          "name": "Drawn To The Sky",
+          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
+        }
+      ],
+      "duration_ms": 237631,
+      "name": "Dear Rose, I'm Haunted",
+      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Blue in the Dark",
-        "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 159553,
-      "name": "Tide",
-      "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Fashion Forward (Acoustic)",
         "url": "https://open.spotify.com/album/65XUrEOJLHzQBQtUp2aybr"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 222840,
       "name": "Fashion Forward (Acoustic)",
       "url": "https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Blue in the Dark",
+        "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 159553,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Right Here (Acoustic)",
-        "url": "https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr"
-      },
-      "artists": [
-        {
-          "name": "Chase Your Words",
-          "url": "https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Right Here (Acoustic)",
-      "url": "https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 209801,
       "name": "Wax Poetic (Acoustic)",
       "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Right Here (Acoustic)",
+        "url": "https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr"
+      },
+      "artists": [
+        {
+          "name": "Chase Your Words",
+          "url": "https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Right Here (Acoustic)",
+      "url": "https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Back Together",
-        "url": "https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 264305,
-      "name": "Back Together",
-      "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Redux: The First 10 Years",
         "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 256600,
       "name": "Still Dreaming (Acoustic)",
       "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Back Together",
+        "url": "https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 264305,
+      "name": "Back Together",
+      "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 156010,
-      "name": "Smokestack",
-      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Disarm",
         "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 245361,
       "name": "A Wasted Hymn - Acoustic",
       "url": "https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 156010,
+      "name": "Smokestack",
+      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
     }
   ],
   "unique_name": "Punk Unplugged",

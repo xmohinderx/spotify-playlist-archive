@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,197 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,214 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 17 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 |
 | 18 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 |
 | 19 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
-| 20 | [Cash](https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 3:07 |
+| 20 | [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 |
 | 21 | [Have Fun](https://open.spotify.com/track/0lfDJO9YpO6LdPAmeZSy50) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Have Fun](https://open.spotify.com/album/3oGGPxoSSnThtJaFp210lv) | 2:16 |
 | 22 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 |
 | 23 | [Just Because](https://open.spotify.com/track/0YL65Oqm2oVKSC2GIdZf69) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Just Because](https://open.spotify.com/album/1nNcCg5KTRsySgCji6NvcS) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 59 | [Kpo K3K3](https://open.spotify.com/track/3GZ25pRVcc3JagPw86buqd) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Kpo K3k3](https://open.spotify.com/album/6bhUfbzNRqZj6R00rNaBup) | 4:20 |
 | 60 | [Chop Life \- Remix](https://open.spotify.com/track/2Xy2VaKdByJ1zMyGTy0T0L) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN) | [Chop Life \(Remix\)](https://open.spotify.com/album/5EldLnHAzHgBxsqv6S6XDd) | 3:02 |
 
-Snapshot ID: `MTY2NTc0NTIwMCwwMDAwMDAwMDYyMzA5ZDVmMzZhYjdiYTFhM2NlYzY2OGUyOWEyMjlk`
+Snapshot ID: `MTY2NTc0NTIwMCwwMDAwMDAwMDMyODAzYzdhZmFhYTZmOTFiNjZlZjBiMGVkNmVmMjk3`

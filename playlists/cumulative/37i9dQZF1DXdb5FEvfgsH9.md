@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-88 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
+89 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-07-26 | 2022-10-15 |
 | [Why Do I Do \(La Felix Remix\) \[feat\. Jason Gaffner\]](https://open.spotify.com/track/2sUKbuWG7ueFa93Sti3Svr) | [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF), [Jason Gaffner](https://open.spotify.com/artist/6neAZyHgBG8SyAaIdLpRBe) | [Why Do I Do \(The Remixes\)](https://open.spotify.com/album/0JASYasDsRGpNVcKfKNop5) | 3:52 | 2021-07-26 |  |
 | [your only](https://open.spotify.com/track/2urUyLEw87dTDkTi2nd1O4) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [I Don't Love You, and Other Lies](https://open.spotify.com/album/7C4MqDBPoCkuyiFtKJNaYr) | 3:04 | 2022-09-23 |  |
-| [Your Touch](https://open.spotify.com/track/5xRMmHOAQiVJ2QeDv0gTS7) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ) | [Amplified Experiment](https://open.spotify.com/album/4LBXZnLDGPeR45cyr8BxMy) | 2:48 | 2021-07-26 |  |
+| [Your Touch](https://open.spotify.com/track/5lMJEmLGzqbdFuOaonB0eO) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4Yg2SUfnqsTc37ip0njWfH) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:48 | 2021-07-26 |  |
+| [Your Touch](https://open.spotify.com/track/5xRMmHOAQiVJ2QeDv0gTS7) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ) | [Amplified Experiment](https://open.spotify.com/album/4LBXZnLDGPeR45cyr8BxMy) | 2:48 | 2021-07-26 | 2022-10-18 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

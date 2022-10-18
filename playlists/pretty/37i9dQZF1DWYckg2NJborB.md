@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,217 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,212 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 24 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
 | 25 | [Shakespeare](https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 6:18 |
 | 26 | [Haunted](https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS) | [Poe](https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD) | [Haunted](https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA) | 5:20 |
-| 27 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 |
-| 28 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
+| 27 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
+| 28 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 |
 | 29 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 |
 | 30 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:57 |
 | 31 | [Richard Cory](https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:55 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 37 | [A Picture Of Dorian Gray](https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [And Don't The Kids Just Love It](https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT) | 2:11 |
 | 38 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 |
 | 39 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
-| 40 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 |
-| 41 | [Books Written For Girls](https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 5:13 |
+| 40 | [Books Written For Girls](https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 5:13 |
+| 41 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 |
 | 42 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 |
 | 43 | [Shalott](https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY) | [Emilie Autumn](https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC) | [Opheliac \(The Deluxe Edition\)](https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR) | 4:04 |
 | 44 | [Black Blade](https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Cultosaurus Erectus](https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4) | 6:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [The Tea Song](https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [First Songs](https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ) | 7:28 |
 | 50 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDFkNDZlOTkwZGFjM2I1YmFiZTc5YmViZjI5OWI4ZWZm`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGRmMjMzMGZhMzQzMDljMGQ5ZWI5MjczZWNlNTQwNDVl`

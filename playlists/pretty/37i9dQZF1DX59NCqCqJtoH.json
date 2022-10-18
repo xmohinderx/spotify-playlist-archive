@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 958668,
+  "num_followers": 960359,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3Mjc0NSwwMDAwMDAwMDIwMGMzYmNlODhjYzhlYzVhZDBiZTcwNTRjNWY4Zjg2",
+  "snapshot_id": "MTY2NjAxMzA4OSwwMDAwMDAwMDFmYzgxZDVlN2Y1NjNiNTJjYmY2YTI5MjY3YTU2MzI0",
   "tracks": [
     {
       "added_at": "2022-10-14 18:03:18",
@@ -23,22 +23,6 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2022-10-14 18:39:05",
-      "album": {
-        "name": "DEVILS PLAYGROUND",
-        "url": "https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE"
-      },
-      "artists": [
-        {
-          "name": "KIETH MONTANA",
-          "url": "https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7"
-        }
-      ],
-      "duration_ms": 115657,
-      "name": "MANGATA",
-      "url": "https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -75,6 +59,22 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "The Gold (Phoebe Bridgers Version)",
         "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
       },
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -127,18 +111,34 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+      "duration_ms": 216448,
+      "name": "The 30th",
+      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 174357,
+      "name": "YEAH RIGHT",
+      "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 174357,
-      "name": "YEAH RIGHT",
-      "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "The 30th",
-      "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -287,22 +271,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "We Never Met",
-        "url": "https://open.spotify.com/album/4wcwyEXZvPj8SN7o8cdAft"
-      },
-      "artists": [
-        {
-          "name": "2ND CHOICE",
-          "url": "https://open.spotify.com/artist/6Icgjcj6DaFqznzYZG2nIj"
-        }
-      ],
-      "duration_ms": 107415,
-      "name": "We Never Met",
-      "url": "https://open.spotify.com/track/3obYzeG6ycjGPGVZyRmjTH"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -315,6 +283,22 @@
       "duration_ms": 193080,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "We Never Met",
+        "url": "https://open.spotify.com/album/4wcwyEXZvPj8SN7o8cdAft"
+      },
+      "artists": [
+        {
+          "name": "2ND CHOICE",
+          "url": "https://open.spotify.com/artist/6Icgjcj6DaFqznzYZG2nIj"
+        }
+      ],
+      "duration_ms": 107415,
+      "name": "We Never Met",
+      "url": "https://open.spotify.com/track/3obYzeG6ycjGPGVZyRmjTH"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "Star Shopping",
+        "url": "https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Star Shopping",
+      "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "i walk this earth all by myself",
         "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Welcome to Wonderland",
-        "url": "https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 199131,
-      "name": "Welcome to Wonderland",
-      "url": "https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -459,54 +443,6 @@
       "duration_ms": 227031,
       "name": "drunk",
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 386200,
-      "name": "It's Not The Same Anymore",
-      "url": "https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "Coffee Breath",
-        "url": "https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE"
-      },
-      "artists": [
-        {
-          "name": "Sofia Mills",
-          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Coffee Breath",
-      "url": "https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "Oso Different",
-        "url": "https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI"
-      },
-      "artists": [
-        {
-          "name": "MarMar Oso",
-          "url": "https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6"
-        }
-      ],
-      "duration_ms": 233023,
-      "name": "Ruthless (Nice Guys Always Finish Last)",
-      "url": "https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -527,6 +463,70 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "Welcome to Wonderland",
+        "url": "https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 199131,
+      "name": "Welcome to Wonderland",
+      "url": "https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Coffee Breath",
+        "url": "https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE"
+      },
+      "artists": [
+        {
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Coffee Breath",
+      "url": "https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 386200,
+      "name": "It's Not The Same Anymore",
+      "url": "https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Oso Different",
+        "url": "https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI"
+      },
+      "artists": [
+        {
+          "name": "MarMar Oso",
+          "url": "https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6"
+        }
+      ],
+      "duration_ms": 233023,
+      "name": "Ruthless (Nice Guys Always Finish Last)",
+      "url": "https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "Do You Love Me, or Are You Just Lonely?",
         "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 316556,
       "name": "A Soulmate Who Wasn\u2019t Meant to Be",
       "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "Star Shopping",
-        "url": "https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Star Shopping",
-      "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -823,6 +807,22 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 187500,
       "name": "snowflake (feat. Jaden & Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
+      },
+      "artists": [
+        {
+          "name": "Laica",
+          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "I Can't Hate You",
         "url": "https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc"
       },
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Laica",
-          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1187,6 +1187,26 @@
       "duration_ms": 119089,
       "name": "I Know You so Well",
       "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        },
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1275,18 +1295,18 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+      "duration_ms": 168960,
+      "name": "Idea of Her",
+      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1303,22 +1323,6 @@
       "duration_ms": 214455,
       "name": "I'm So Happy",
       "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Idea of Her",
-      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1351,26 +1355,6 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "Meant To Be",
-        "url": "https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        },
-        {
-          "name": "Charlie Oriain",
-          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1691,6 +1675,26 @@
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 168974,
+      "name": "Think About U (feat. Joji)",
+      "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
     },
     {
       "added_at": "2022-10-14 18:03:18",

@@ -1,12 +1,12 @@
 {
   "description": "Will you be my anti-valentine?",
-  "num_followers": 78013,
+  "num_followers": 78016,
   "original_name": "Anti-Valentine's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMGZhMDAwZWU3ZTE0ZDc1OWUzMTVmMTAwMmE5ODdjNDUz",
+  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMDM4ZmUwOGI4ZWMwODU1MGE2YjRlMTk2NzVhOGJhOTFk",
   "tracks": [
     {
       "added_at": "2022-01-25 16:27:07",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 233626,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -271,22 +271,6 @@
       "duration_ms": 207626,
       "name": "Gold Digger",
       "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -371,6 +355,22 @@
       "duration_ms": 210746,
       "name": "Nice For What",
       "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 205473,
       "name": "You should be sad",
       "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Inner Monologue Part 1",
-        "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 210146,
-      "name": "Anxiety (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/1XJ93XskwJf7PCyIVLbNBt"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -1323,18 +1303,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Good In Goodbye",
-        "url": "https://open.spotify.com/album/1VJJaEzHs2SHX4ZobSFAVh"
+        "name": "Inner Monologue Part 1",
+        "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 141949,
-      "name": "Good In Goodbye",
-      "url": "https://open.spotify.com/track/1GVF9369j7InydwGztCDIZ"
+      "duration_ms": 210146,
+      "name": "Anxiety (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/1XJ93XskwJf7PCyIVLbNBt"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Good In Goodbye",
+        "url": "https://open.spotify.com/album/1VJJaEzHs2SHX4ZobSFAVh"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 141949,
+      "name": "Good In Goodbye",
+      "url": "https://open.spotify.com/track/1GVF9369j7InydwGztCDIZ"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Body Talk Pt. 1",
         "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 285973,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "B'Day",
+        "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1419,38 +1435,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "B'Day",
-        "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "BOYSHIT",
-        "url": "https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 160397,
-      "name": "BOYSHIT",
-      "url": "https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Dedicated",
         "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "BOYSHIT",
+        "url": "https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 160397,
+      "name": "BOYSHIT",
+      "url": "https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Strangers Forever EP",
-        "url": "https://open.spotify.com/album/6TnIod1gUSYfl8EMCgc93H"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Strangers Forever",
-      "url": "https://open.spotify.com/track/0mIvRrpvEg5NDJIEoXee1E"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Potential Breakup Song",
         "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 218333,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Strangers Forever EP",
+        "url": "https://open.spotify.com/album/6TnIod1gUSYfl8EMCgc93H"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Strangers Forever",
+      "url": "https://open.spotify.com/track/0mIvRrpvEg5NDJIEoXee1E"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Tonight I\u2019m Getting Over You",
+      "url": "https://open.spotify.com/track/471JtpRQ0oox9OoZcbB8OO"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 187761,
       "name": "My Girlfriends Are My Boyfriend (feat. Saweetie)",
       "url": "https://open.spotify.com/track/32RYWfI39DxH8S1KtMS2wt"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Tonight I\u2019m Getting Over You",
-      "url": "https://open.spotify.com/track/471JtpRQ0oox9OoZcbB8OO"
     },
     {
       "added_at": "2022-01-25 16:27:07",

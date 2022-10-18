@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,521 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,647 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 26 | [Osaka Osaka](https://open.spotify.com/track/7xV3MCJ6YI3K4I6Jt1a9H7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Pragathi](https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 6:08 |
 | 27 | [Un Vizhigalil](https://open.spotify.com/track/5fqsWynhQRpoIVeRfRu4yQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [Maan Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2Ou2Z54QskBuOcQfNxOV) | 4:03 |
 | 28 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 |
-| 29 | [Kadhal Kan Kattudhe](https://open.spotify.com/track/5W5vPvu6DkmqdvJXfjvSvO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 4:16 |
-| 30 | [Un Paarvayil](https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 1:41 |
+| 29 | [Un Paarvayil](https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 1:41 |
+| 30 | [Kadhal Kan Kattudhe](https://open.spotify.com/track/5W5vPvu6DkmqdvJXfjvSvO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 4:16 |
 | 31 | [Kalyana Vayasu](https://open.spotify.com/track/09BF3kcZeMEG4Wzu0C4M9X) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kolamavu Kokila](https://open.spotify.com/album/5F982BYjAKiPnliKexrHBi) | 3:59 |
 | 32 | [Gaandakannazhagi](https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD) | 4:03 |
 | 33 | [Im So Cool](https://open.spotify.com/track/5HuK3MFhBiXrjA02XtkgmT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 3:49 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 51 | [Marandhadhae](https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Simba \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY) | 3:09 |
 | 52 | [Naana Thaana \(From "Thaanaa Serndha Koottam"\)](https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Best of Love : Anirudh Ravichander](https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5) | 4:19 |
 
-Snapshot ID: `MTY2NTkxNjI3NCwwMDAwMDAwMDQ5YzQ4NzZjY2M2NTZlNGRlYjk5NzU4N2RkMTJkMjU4`
+Snapshot ID: `MTY2NTkxNjI3NCwwMDAwMDAwMDUxOWFlMTU5OWVhYmYzZmUwMGNhNTJkZDFkMWM3NGI4`

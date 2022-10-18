@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 44699,
+  "num_followers": 44715,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDRiYmY3ZTBkYmUwODFjYzZlOTE4NWMwNWNhYThiYTZi",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGQ4ZjFiYzk5NTgyYTgxYTk2YjIzYmU3Y2M5NDJhOWJh",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -357,6 +357,46 @@
       "url": "https://open.spotify.com/track/61oFEnL56Vvu0shgd7aJPO"
     },
     {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Fuimos Un Fracaso",
+        "url": "https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 198661,
+      "name": "Fuimos Un Fracaso",
+      "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Se Me Quedan Viendo Raro",
+        "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Se Me Quedan Viendo Raro",
+      "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Sorry For The Wait 2",
@@ -391,46 +431,6 @@
       "duration_ms": 198669,
       "name": "Cuando Te Acuerdes De M\u00ed",
       "url": "https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Se Me Quedan Viendo Raro",
-        "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Se Me Quedan Viendo Raro",
-      "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Fuimos Un Fracaso",
-        "url": "https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 198661,
-      "name": "Fuimos Un Fracaso",
-      "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -509,20 +509,20 @@
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
+      "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "Carritos de palo",
-        "url": "https://open.spotify.com/album/2w7jyhClchHj6hE6Wgve4E"
+        "name": "Gordo Pesado",
+        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
       },
       "artists": [
         {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 167626,
-      "name": "Carritos de palo",
-      "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
+      "duration_ms": 214186,
+      "name": "Gordo Pesado",
+      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
+      "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Gordo Pesado",
-        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
+        "name": "Carritos de palo",
+        "url": "https://open.spotify.com/album/2w7jyhClchHj6hE6Wgve4E"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Gordo Pesado",
-      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
+      "duration_ms": 167626,
+      "name": "Carritos de palo",
+      "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
     },
     {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "A Ti S\u00ed Te Quer\u00eda",
+        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 179875,
+      "name": "A Ti S\u00ed Te Quer\u00eda",
+      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Con Un Porte Diferente (Vol 2)",
@@ -607,6 +623,22 @@
       "duration_ms": 216851,
       "name": "Dices Que Me Quieres",
       "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -629,22 +661,6 @@
       "url": "https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "A Ti S\u00ed Te Quer\u00eda",
-        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 179875,
-      "name": "A Ti S\u00ed Te Quer\u00eda",
-      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Una Linda Canci\u00f3n",
@@ -661,20 +677,36 @@
       "url": "https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
+      "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+        "name": "Soy Infante",
+        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
         }
       ],
-      "duration_ms": 193373,
-      "name": "Tres Veces Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
+      "duration_ms": 154750,
+      "name": "Soy Infante",
+      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Pa Que Ordene y Mande",
+        "url": "https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Pa Que Ordene y Manden",
+      "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -695,22 +727,6 @@
       "duration_ms": 132631,
       "name": "la del rencoroso",
       "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Soy Infante",
-        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
-        }
-      ],
-      "duration_ms": 154750,
-      "name": "Soy Infante",
-      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -781,22 +797,6 @@
       "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Pa Que Ordene y Mande",
-        "url": "https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Pa Que Ordene y Manden",
-      "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
-    },
-    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "No S\u00e9 Que Tengas",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Era Mia",
-        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 226887,
-      "name": "Era Mia",
-      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
         "name": "Viaje Verde",
         "url": "https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 194025,
       "name": "Viaje Verde",
       "url": "https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Era Mia",
+        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 226887,
+      "name": "Era Mia",
+      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW"
     },
     {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Me Muero Por Tenerte",
@@ -997,20 +1013,20 @@
       "url": "https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Casa en Llamas",
-        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+        "name": "nuestro amor sacrificado",
+        "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
         }
       ],
-      "duration_ms": 194403,
-      "name": "Casa en Llamas",
-      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
+      "duration_ms": 82500,
+      "name": "nuestro amor",
+      "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1027,22 +1043,6 @@
       "duration_ms": 164000,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/7EPYXn0AsffG3qcjCohHit"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "nuestro amor sacrificado",
-        "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        }
-      ],
-      "duration_ms": 82500,
-      "name": "nuestro amor",
-      "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/5cwNVUuCDliHKLXfD12i7z"
     },
     {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Empoderada",
+        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Empoderada",
+      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Cosmos",
@@ -1229,6 +1245,26 @@
       "url": "https://open.spotify.com/track/31u0xddM70KxFebPyLawpR"
     },
     {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Bajo la Lluv\u00eda",
+        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        },
+        {
+          "name": "Cuadra FL",
+          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
+        }
+      ],
+      "duration_ms": 154017,
+      "name": "Bajo la Lluv\u00eda",
+      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
+    },
+    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Desventura",
@@ -1259,42 +1295,6 @@
       "duration_ms": 146692,
       "name": "Bella Mujer",
       "url": "https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Empoderada",
-        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Empoderada",
-      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Bajo la Lluv\u00eda",
-        "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
-      },
-      "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        },
-        {
-          "name": "Cuadra FL",
-          "url": "https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt"
-        }
-      ],
-      "duration_ms": 154017,
-      "name": "Bajo la Lluv\u00eda",
-      "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
     },
     {
       "added_at": "2022-10-14 05:00:00",

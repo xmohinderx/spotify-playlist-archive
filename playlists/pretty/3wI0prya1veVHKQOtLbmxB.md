@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 ### [Crazy In Love](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
-> Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
+> Get ready for Valentine's Day 2023! Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,695 likes - 80 songs - 5 hr 15 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,692 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 | 79 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:36 |
 | 80 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
 
-Snapshot ID: `MjIxNyw2NjQ3ZDczNzI1NzA4NWQ2ZTQ5ODRiNTcxYjYxYTc5MWNhNWFkYTA1`
+Snapshot ID: `MjIxOCwwNGQ0ZjkxYjVjZjI5NTFhYjc4MjQyNDkyODMwMGU0NDZmZDRlOTFi`

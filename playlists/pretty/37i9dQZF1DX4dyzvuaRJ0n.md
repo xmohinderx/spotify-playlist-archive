@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,933,412 likes - 98 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,933,541 likes - 98 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

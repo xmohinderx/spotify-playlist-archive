@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140612,
+  "num_followers": 140615,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGI5Mjc5MzFlYmUwYzYxODczNDJjNzk1OWVmMWRlMjhj",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGQzYmI1OTg4MjYwMTdmYjQxYTFiNjQ4ODA0ODVjMmRi",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -139,26 +139,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/6mqGvKuHLqYoAoCSMLkHj2"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        },
-        {
-          "name": "Roxane Perez",
-          "url": "https://open.spotify.com/artist/35fvVqewj6umjnkCVNzV6V"
-        }
-      ],
-      "duration_ms": 238549,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 240734,
       "name": "Cuatro Caminos",
       "url": "https://open.spotify.com/track/5e6sA4oUXLg7RDAgzMrpxr"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/6mqGvKuHLqYoAoCSMLkHj2"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        },
+        {
+          "name": "Roxane Perez",
+          "url": "https://open.spotify.com/artist/35fvVqewj6umjnkCVNzV6V"
+        }
+      ],
+      "duration_ms": 238549,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+      },
+      "artists": [
+        {
+          "name": "Rene Ramirez Y Maduro",
+          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+        }
+      ],
+      "duration_ms": 200159,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Acu\u00e9rdate (Radio Edit)",
         "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 193967,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
-      },
-      "artists": [
-        {
-          "name": "Rene Ramirez Y Maduro",
-          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
-        }
-      ],
-      "duration_ms": 200159,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "N\u00famero Dos",
         "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 192000,
       "name": "No Quiero Nada",
       "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
+      },
+      "artists": [
+        {
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Baby Luna",
         "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 177748,
       "name": "Baby Luna",
       "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
-      },
-      "artists": [
-        {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -843,18 +843,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Trampa De Amor",
-        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
+        "name": "A Mi Lado",
+        "url": "https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf"
       },
       "artists": [
         {
-          "name": "VIRGINIA Y VALOR",
-          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
+          "name": "Emanuel J",
+          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
+        },
+        {
+          "name": "Monica Saldivar",
+          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
         }
       ],
-      "duration_ms": 161610,
-      "name": "Trampa De Amor",
-      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
+      "duration_ms": 230000,
+      "name": "A Mi Lado",
+      "url": "https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ"
     }
   ],
   "unique_name": "New Tejano",

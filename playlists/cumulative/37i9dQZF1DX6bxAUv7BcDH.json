@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/1qcLcWUFHHFWe54IP7PN7j"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Change The World",
+      "url": "https://open.spotify.com/track/463G7EJ5QLNSXzLIXRiY2g"
+    },
+    {
+      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 892203,
       "name": "Theme of Exodus - From \"Exodus\" Soundtrack",
       "url": "https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi"

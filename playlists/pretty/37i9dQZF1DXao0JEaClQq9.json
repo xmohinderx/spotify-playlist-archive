@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Hyd ",
-  "num_followers": 316456,
+  "num_followers": 316664,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2OTA3NSwwMDAwMDAwMGEyNmQ1MjZkODAyOTAwZjcxNWM2NTBiODM3MmE4ZDE1",
+  "snapshot_id": "MTY2NTc2OTA3NSwwMDAwMDAwMDFmOWYyNmU2ZTA1NjMyZDY4MDVhYTI4YWQyNmEwMmU1",
   "tracks": [
     {
       "added_at": "2022-10-14 17:37:55",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-14 17:37:55",
       "album": {
-        "name": "Kill For Your Love",
-        "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 192170,
-      "name": "Kill For Your Love",
-      "url": "https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU"
-    },
-    {
-      "added_at": "2022-10-14 17:37:55",
-      "album": {
         "name": "WILLOW",
         "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 143640,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
+    },
+    {
+      "added_at": "2022-10-14 17:37:55",
+      "album": {
+        "name": "Kill For Your Love",
+        "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 192170,
+      "name": "Kill For Your Love",
+      "url": "https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU"
     },
     {
       "added_at": "2022-10-14 17:37:55",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-10-14 17:37:55",
       "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
+    },
+    {
+      "added_at": "2022-10-14 17:37:55",
+      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-10-14 17:37:55",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
-    },
-    {
-      "added_at": "2022-10-14 17:37:55",
-      "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
@@ -551,6 +551,38 @@
       "duration_ms": 203464,
       "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
+    },
+    {
+      "added_at": "2022-10-14 17:37:55",
+      "album": {
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+    },
+    {
+      "added_at": "2022-10-14 17:37:55",
+      "album": {
+        "name": "Fall With The Lights Down (Louise)",
+        "url": "https://open.spotify.com/album/0IxA1tE42h1Zf5Yx94oUbN"
+      },
+      "artists": [
+        {
+          "name": "Bathe Alone",
+          "url": "https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY"
     },
     {
       "added_at": "2022-10-14 17:37:55",
@@ -579,22 +611,6 @@
     {
       "added_at": "2022-10-14 17:37:55",
       "album": {
-        "name": "Fall With The Lights Down (Louise)",
-        "url": "https://open.spotify.com/album/0IxA1tE42h1Zf5Yx94oUbN"
-      },
-      "artists": [
-        {
-          "name": "Bathe Alone",
-          "url": "https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY"
-    },
-    {
-      "added_at": "2022-10-14 17:37:55",
-      "album": {
         "name": "Modus Vivendi",
         "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 213333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
-    },
-    {
-      "added_at": "2022-10-14 17:37:55",
-      "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
       "added_at": "2022-10-14 17:37:55",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-10-14 17:37:55",
       "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 268979,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
+    },
+    {
+      "added_at": "2022-10-14 17:37:55",
+      "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2022-10-14 17:37:55",
-      "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 268979,
-      "name": "Hide and Seek",
-      "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
     },
     {
       "added_at": "2022-10-14 17:37:55",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-14 17:37:55",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
-    },
-    {
-      "added_at": "2022-10-14 17:37:55",
-      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 159400,
       "name": "i want war (BUT I NEED PEACE)",
       "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2022-10-14 17:37:55",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
     },
     {
       "added_at": "2022-10-14 17:37:55",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-14 17:37:55",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 353732,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
-    },
-    {
-      "added_at": "2022-10-14 17:37:55",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 435080,
       "name": "yellow is the color of her eyes",
       "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
+    },
+    {
+      "added_at": "2022-10-14 17:37:55",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 353732,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
     },
     {
       "added_at": "2022-10-14 17:37:55",

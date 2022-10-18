@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New Life and Death remixes of Diplo, plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-226 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
+227 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Angel On My Shoulder](https://open.spotify.com/track/3M3bHley5OpJLTqGSf7v22) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Angel On My Shoulder](https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL) | 4:02 | 2022-06-03 | 2022-08-06 |
 | [Anything \- Body Ocean Remix](https://open.spotify.com/track/4piGD6lbuj57rxausi0brN) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Anything \(Body Ocean Remix\)](https://open.spotify.com/album/3DYyloWn8eb2qdye4gjVEG) | 4:23 | 2022-06-03 | 2022-08-06 |
 | [Armour Freestyle](https://open.spotify.com/track/6HxZME4jCGofgEiTN254p2) | [Blackhaine](https://open.spotify.com/artist/5YUsQAApp3PLKOyhdyKPw5), [Moseley](https://open.spotify.com/artist/4XgbRAjIVlMFQUL7Sv7Ou6) | [Armour II](https://open.spotify.com/album/4GiYJzqGmtpJrnu2WfuL0F) | 2:01 | 2022-08-05 |  |
+| [Atti Dude](https://open.spotify.com/track/1PHgzVWfBVKaOnBf0n5iay) | [Akira Akira](https://open.spotify.com/artist/4LdGTb93DvRRpPwwVfPkR2) | [Atti Dude](https://open.spotify.com/album/26pzorAxKcmBbiAhiHCUrb) | 3:43 | 2022-10-17 |  |
 | [Babylon \- Bree Runway & Jimmy Edgar Remix](https://open.spotify.com/track/2xw4gYnfIZkH4GO9zPMNVR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:48 | 2022-06-03 | 2022-08-06 |
 | [Back Seat \- Chris Lorenzo Remix](https://open.spotify.com/track/6ZbJz7FWWa3m5QbTudts8K) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Back Seat \(Chris Lorenzo Remix\)](https://open.spotify.com/album/1YGMmHM1bVkTfEt761AwRT) | 4:46 | 2022-06-03 | 2022-08-06 |
 | [Bad Gyal](https://open.spotify.com/track/37tB5fsOM2AxFnHmrSHrYp) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR), [Dyer MC](https://open.spotify.com/artist/0cixgL4lBK61iUJ7imWoUZ) | [Bad Gyal / EZ 4 Me](https://open.spotify.com/album/66EHrbtKApddaw41QPB8ds) | 2:17 | 2022-08-05 |  |

@@ -1894,6 +1894,24 @@
     },
     {
       "album": {
+        "name": "CRAVE",
+        "url": "https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu"
+      },
+      "artists": [
+        {
+          "name": "CR\u00c8ME",
+          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "CRAVE",
+      "url": "https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm"
+    },
+    {
+      "album": {
         "name": "Cravin'",
         "url": "https://open.spotify.com/album/5hpAWKkdnHBbNK3VB9ucJm"
       },

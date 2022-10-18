@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-198 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+199 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Hold out My Hand](https://open.spotify.com/track/0yC4GvGRje7rzACvkcoDkE) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Patterns](https://open.spotify.com/album/5JxuEc5o2UdWAJTZWPfG4q) | 4:49 | 2022-07-22 |  |
 | [Home to You](https://open.spotify.com/track/1Xc92bNvk3V2BM0B2592pj) | [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc) | [The Old Pinole Sessions](https://open.spotify.com/album/6g8PQl8NdCJy3sMgDFppLX) | 3:30 | 2022-07-22 |  |
 | [Horses and Hearts \(feat\. Abbey Cone\)](https://open.spotify.com/track/44vI5BreUHR4FQxROk6g9V) | [Ray Johnston Band](https://open.spotify.com/artist/06TYiYKq7bzEi1H1vznlzo), [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [\#GoesGoodWith](https://open.spotify.com/album/6SPK9nNIuLxoHaPgqj49oY) | 2:56 | 2022-07-22 |  |
-| [Howl](https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA) | 3:38 | 2022-07-22 |  |
+| [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 | 2022-07-22 |  |
+| [Howl](https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA) | 3:38 | 2022-07-22 | 2022-10-18 |
 | [Hugging You \- Acoustic](https://open.spotify.com/track/7io1erAh1tMxG5VMBC8rVw) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:53 | 2022-07-22 |  |
 | [Human](https://open.spotify.com/track/0h69cnBUjM51StfH6ak3UR) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:57 | 2022-07-22 |  |
 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 | 2022-07-22 |  |

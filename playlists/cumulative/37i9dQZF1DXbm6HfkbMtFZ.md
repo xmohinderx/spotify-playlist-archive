@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-444 songs - 1 day 2 hr 57 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+445 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Easier Said Than Done](https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-09-08 |  |
 | [Easy](https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 3:20 | 2022-07-26 |  |
 | [Easy](https://open.spotify.com/track/6bPk3V91v7xEXcXBGVB2Yr) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 3:20 | 2022-03-30 | 2022-04-20 |
-| [Easy](https://open.spotify.com/track/1DmhHTgmnbKC5JyXxdPpD9) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/4wdC83EYfjaM8pKm2dANIi) | 3:08 | 2022-09-26 |  |
+| [Easy](https://open.spotify.com/track/1DmhHTgmnbKC5JyXxdPpD9) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/4wdC83EYfjaM8pKm2dANIi) | 3:08 | 2022-09-26 | 2022-10-18 |
 | [Easy](https://open.spotify.com/track/1pfYIi1N0t9g7WWZNLsde3) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/3etfw3EWe274S5SyajP8eW) | 3:08 | 2021-12-16 | 2022-07-21 |
 | [Elasto](https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ), [Artemis](https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:42 | 2021-12-16 | 2022-06-19 |
 | [Evan Finds the Third Room](https://open.spotify.com/track/07wztBYwMThbAVW4ahWMuD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/5u103bJ7EsNUAyL9eMACo5) | 4:00 | 2022-03-30 | 2022-04-15 |
@@ -289,6 +289,7 @@
 | [One Step Ahead \- Mono Mix](https://open.spotify.com/track/4lH451AAXQD0s8r4mIOsRw) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:26 | 2022-03-30 | 2022-04-04 |
 | [Only A Fool Would Say That](https://open.spotify.com/track/6eT2fNwiVD04D3R4uP5qOv) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 2:56 | 2022-03-30 |  |
 | [Only the Wild Ones](https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV) | 4:13 | 2021-12-30 | 2022-10-13 |
+| [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2022-10-14 |  |
 | [Our Day Will Come](https://open.spotify.com/track/2Arl7cRrFiuDiHQjdMEXOU) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/73PlXoFghNyfp59MSTFq9G) | 2:49 | 2022-03-30 | 2022-04-21 |
 | [Our Day Will Come](https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:49 | 2022-07-26 | 2022-10-04 |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2022-10-14 |  |

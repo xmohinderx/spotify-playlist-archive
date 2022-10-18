@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-284 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
+285 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 | 2022-05-27 |  |
 | [Coming Down the Mountain](https://open.spotify.com/track/1aFwSu8VwCuOKQoJuZIzEN) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/3mOA2HAKbLdbPMypDGYDkO) | 4:33 | 2021-10-22 | 2022-07-29 |
 | [Cover Me Up](https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Southeastern](https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4) | 4:53 | 2021-10-22 |  |
-| [Desert Song](https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp) | [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) | [Desert Song](https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2) | 3:55 | 2021-10-22 |  |
+| [Desert Song](https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp) | [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) | [Desert Song](https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2) | 3:55 | 2021-10-22 | 2022-10-18 |
 | [Desert Wine \(Acoustic\)](https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Wear Bluebells in Your Hat If You're Goin' That Way](https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2) | 3:08 | 2021-10-22 | 2022-07-11 |
 | [Dirty Rain](https://open.spotify.com/track/6hNZ5O5riDfxd2wWNgkjVn) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Dirty Rain](https://open.spotify.com/album/03OHMyiBTEOe4TPtpa0ISr) | 3:12 | 2021-10-22 | 2022-07-29 |
 | [Drivin'](https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Robert Ellis](https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt) | 2:46 | 2022-05-27 |  |
@@ -74,6 +74,7 @@
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2021-10-22 | 2022-07-29 |
 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 | 2022-05-27 |  |
 | [Georgia](https://open.spotify.com/track/1xVXufz1LQINOvqxFoEWmS) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/4sRSCsGsXFMeOTmQ2G6sPV) | 3:35 | 2021-10-22 | 2022-05-18 |
+| [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 | 2022-09-16 |  |
 | [Go Easy, Kid](https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/59e93fZMly2pvsqUQc1y1H) | 4:08 | 2021-10-22 | 2022-10-13 |
 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 | 2021-10-22 | 2022-07-29 |
 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 | 2021-10-22 |  |

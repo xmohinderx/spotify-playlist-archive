@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-4,677 songs - 10 day 4 hr 27 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+4,678 songs - 10 day 4 hr 29 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3103,7 +3103,8 @@
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-14 | 2022-04-22 |
 | [Pages](https://open.spotify.com/track/0yFQ0sp4QuQ0u3uE15Ghtq) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Pages](https://open.spotify.com/album/6ERcUV7NRyknoTWlJRm0sw) | 3:15 | 2022-09-08 | 2022-09-10 |
 | [Pages](https://open.spotify.com/track/4GZgln2CDUEQ0JVuPFaQK2) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Pages](https://open.spotify.com/album/602QhTBheuUjYdvY4IQOTY) | 3:15 | 2022-09-08 | 2022-09-16 |
-| [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 | 2022-10-13 |  |
+| [Paid](https://open.spotify.com/track/34XVB9D18VEseJbDan1H5m) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:16 | 2022-10-13 | 2022-10-18 |
+| [Paid](https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:16 | 2022-10-14 |  |
 | [Pain & Strife \(feat\. Offset\)](https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:37 | 2022-09-30 | 2022-10-07 |
 | [Painkiller](https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Painkiller](https://open.spotify.com/album/2Ycb3yb7yRlTLuzZsf32AU) | 2:53 | 2022-04-28 | 2022-05-06 |
 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 | 2022-02-11 | 2022-02-18 |

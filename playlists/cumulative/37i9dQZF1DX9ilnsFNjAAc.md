@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-90 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
+91 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Familiars](https://open.spotify.com/track/5ckxGXw6Awq0Qrzj2IjmVd) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State of Ruin](https://open.spotify.com/album/1vx9B58AqRjAlvzH0pOWgu) | 2:54 | 2021-02-19 |  |
 | [Familiars](https://open.spotify.com/track/71Rqoaw0XNXGUJ3cNiQmmV) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State Of Ruin](https://open.spotify.com/album/6jqSLWomRrdEf3bcMelZlE) | 2:54 | 2021-02-19 | 2022-07-29 |
 | [Flood](https://open.spotify.com/track/2r9eNtlbaV8yXiNlz05Zp7) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Marathon](https://open.spotify.com/album/70viF1RwTpvFJeLreXzMb8) | 3:34 | 2021-02-19 |  |
-| [Foh](https://open.spotify.com/track/4FczDsZj8slwpppLz33rwA) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7Mh14BVjlgZJI7dGETrIdJ) | 4:06 | 2021-02-19 |  |
+| [Foh](https://open.spotify.com/track/4FczDsZj8slwpppLz33rwA) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7Mh14BVjlgZJI7dGETrIdJ) | 4:06 | 2021-02-19 | 2022-10-18 |
+| [Foh](https://open.spotify.com/track/5KOzLFWT6o3ACbNmCC6gGU) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7n1cf3SUccyhmdDgCXRoog) | 4:06 | 2021-02-19 |  |
 | [Going Modd](https://open.spotify.com/track/7yzSIvMahNSLwvgwqV3p21) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Epic B](https://open.spotify.com/artist/6xY8OHC6hKe0hCheJvIUNz) | [Going Modd](https://open.spotify.com/album/2KYHSDryMLYVclmNthRcl6) | 3:05 | 2021-02-19 |  |
 | [Golf](https://open.spotify.com/track/2Bu6nGjaWlW0q6MiCDNWMJ) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [The Library Album](https://open.spotify.com/album/5oUlk9BedZHnMYDVaHtaXk) | 2:31 | 2021-02-19 |  |
 | [Groan](https://open.spotify.com/track/3DoCZ2f1fP4AU40pAjPonj) | [Zaliva\-D](https://open.spotify.com/artist/28wvoKGy5TxdUPxZVNzygo) | [Calling](https://open.spotify.com/album/4bGFKMAoLAdxxTaLFOM1Y4) | 4:38 | 2021-02-19 |  |

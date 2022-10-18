@@ -268,6 +268,32 @@
     },
     {
       "album": {
+        "name": "Ahora Piden Paros",
+        "url": "https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139625,
+      "name": "Ahora Piden Paros",
+      "url": "https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx"
+    },
+    {
+      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },

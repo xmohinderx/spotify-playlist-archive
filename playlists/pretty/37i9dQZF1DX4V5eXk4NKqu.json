@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Kevin Kaarl",
-  "num_followers": 137981,
+  "num_followers": 138004,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMGIyNDE3ZmI4YzcxYjE1ZWYzNzBjNTBmZjRiYTRiYzYw",
+  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMGM1YjU3NWU5ODFjMjgxYTRkZDU2YjY0YWNiNTg5NDVm",
   "tracks": [
     {
       "added_at": "2022-09-06 16:38:11",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Go Away",
+        "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 223786,
       "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Go Away",
-        "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "PSILOCIBINA",
-      "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -423,22 +407,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 194640,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -715,38 +715,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Ya no estoy aqu\u00ed",
-        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Ya no estoy aqu\u00ed",
-      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 224000,
       "name": "Eva",
       "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Ya no estoy aqu\u00ed",
+        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Ya no estoy aqu\u00ed",
+      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "MIMO",
         "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Estereomance",
-        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
       },
       "artists": [
         {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 255597,
-      "name": "Dung Ding Dang",
-      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -875,6 +859,22 @@
       "duration_ms": 189000,
       "name": "Flor",
       "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -975,22 +975,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
       "artists": [
         {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
       "artists": [
         {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
         }
       ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1107,38 +1107,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Limbo Habitual, Vol. I",
-        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Musa introvertida",
-      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "IN MY ROOM!",
-      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ"
       },
@@ -1155,6 +1123,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Limbo Habitual, Vol. I",
+        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Musa introvertida",
+      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 187173,
       "name": "a lifetime with you",
       "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "IN MY ROOM!",
+      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "PARIS",
-        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "PARIS",
-      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0KuyusuKSGW5LkTfiTznNG"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 196125,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/2iAXpWs8ZoP3VOS94pb5lH"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "PARIS",
+        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Te Espero Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3mreuRI6pOkAXMm0vaBSzx"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Hate My Face",
         "url": "https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Te Espero Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3mreuRI6pOkAXMm0vaBSzx"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Better Than This",
-        "url": "https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP"
-      },
-      "artists": [
-        {
-          "name": "Calista Del Toro",
-          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
-        }
-      ],
-      "duration_ms": 164535,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP"
       },
       "artists": [
         {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+          "name": "Calista Del Toro",
+          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
         }
       ],
-      "duration_ms": 231973,
-      "name": "Missed Connection",
-      "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
+      "duration_ms": 164535,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1491,6 +1475,22 @@
       "duration_ms": 150461,
       "name": "No Te Vayas with Jane",
       "url": "https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Missed Connection",
+      "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Oscuridad",
+        "url": "https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Oscuridad",
+      "url": "https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Lo Que Te He Prometido",
         "url": "https://open.spotify.com/album/2zE7kyRzgv7eGhPDLSMRod"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Si T\u00fa Supieras",
-        "url": "https://open.spotify.com/album/6CRpj51c1A3Pbx05JsKGPt"
-      },
-      "artists": [
-        {
-          "name": "Maddy Beyton",
-          "url": "https://open.spotify.com/artist/2dOP9NOlS6h7YtuAn2EzVA"
-        }
-      ],
-      "duration_ms": 190926,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/5UbZkag2EpEKQugkdrUluj"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v"
       },
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Oscuridad",
-        "url": "https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll"
+        "name": "Si T\u00fa Supieras",
+        "url": "https://open.spotify.com/album/6CRpj51c1A3Pbx05JsKGPt"
       },
       "artists": [
         {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm"
+          "name": "Maddy Beyton",
+          "url": "https://open.spotify.com/artist/2dOP9NOlS6h7YtuAn2EzVA"
         }
       ],
-      "duration_ms": 210285,
-      "name": "Oscuridad",
-      "url": "https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6"
+      "duration_ms": 190926,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/5UbZkag2EpEKQugkdrUluj"
     },
     {
       "added_at": "2022-09-06 16:38:11",

@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 322873,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM"
@@ -1443,6 +1443,28 @@
       "duration_ms": 187826,
       "name": "Lokoto Riddim",
       "url": "https://open.spotify.com/track/7eJFM6oO1wWj3K3XsTtBV9"
+    },
+    {
+      "album": {
+        "name": "Love (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Love (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
     },
     {
       "album": {

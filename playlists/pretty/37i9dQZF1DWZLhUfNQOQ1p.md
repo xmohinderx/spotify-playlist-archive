@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,828 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,835 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 8 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 |
 | 9 | [Dreams Away](https://open.spotify.com/track/0R9WmKhiwdJjRBOkGK1XQ4) | [Albin Nordh](https://open.spotify.com/artist/487I47oTYPGiqAwO6yuved) | [Dreams Away](https://open.spotify.com/album/04iUPOlqZk4toyXcRKaite) | 3:57 |
 | 10 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 |
-| 11 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
+| 11 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
 | 12 | [Anyone](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Summer Crush](https://open.spotify.com/album/7u3rOTDTne8OfLdo79a0Go) | 3:06 |
-| 13 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
+| 13 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
 | 14 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 |
 | 15 | [Wicked Hearts](https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [Wicked Hearts](https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk) | 3:09 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 29 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 |
 | 30 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 |
 | 31 | [Movement](https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [Movement](https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk) | 2:52 |
-| 32 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
+| 32 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 |
 | 33 | [White Heart Sand](https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [White Heart Sand](https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd) | 3:48 |
-| 34 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 |
-| 35 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 |
+| 34 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 |
+| 35 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
 | 36 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 |
-| 37 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 |
+| 37 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 |
 | 38 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
 | 39 | [Summer Vibe](https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7) | 2:59 |
 | 40 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 59 | [Crying Wolf](https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Leda](https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O) | [Crying Wolf](https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L) | 3:38 |
 | 60 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMGNhODJmZjdiYTIwMmFmY2UyZDhlNjNhOTNlYTg2YjAw`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDQzNTk5Njc5NDI3MmQyZTM2ZjRhY2ZjZjY5NTQ5NmFh`

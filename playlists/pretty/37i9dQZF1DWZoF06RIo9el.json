@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de octubre 2022.",
-  "num_followers": 1497340,
+  "num_followers": 1497485,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NTAxOSwwMDAwMDAwMDZmYTcwZmQ5MzFlZDZjZmFkZWU3OGM1MDIzNDM2NDJh",
+  "snapshot_id": "MTY2NTY5NTAxOSwwMDAwMDAwMDgyMzQ4ZmZlZDViYmEzM2VkZWM1M2E1NmFkNDFiOTc1",
   "tracks": [
     {
       "added_at": "2022-10-13 20:36:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
-      "added_at": "2022-10-17 01:42:35",
+      "added_at": "2022-10-18 01:34:27",
       "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-10-13 20:36:00",
       "album": {
-        "name": "algo as\u00ed (remix)",
-        "url": "https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 223084,
-      "name": "algo as\u00ed (remix)",
-      "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
-    },
-    {
-      "added_at": "2022-10-13 20:36:00",
-      "album": {
         "name": "LOKITA",
         "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 193294,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
+    },
+    {
+      "added_at": "2022-10-13 20:36:00",
+      "album": {
+        "name": "algo as\u00ed (remix)",
+        "url": "https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 223084,
+      "name": "algo as\u00ed (remix)",
+      "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
     },
     {
       "added_at": "2022-10-13 20:36:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-10-13 20:36:00",
       "album": {
-        "name": "Nazareno (Remix)",
-        "url": "https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Nazareno - Remix",
-      "url": "https://open.spotify.com/track/0RE6QKlznWDuPzG5n0MOMS"
-    },
-    {
-      "added_at": "2022-10-13 20:36:00",
-      "album": {
         "name": "La Pelikula (Remix)",
         "url": "https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 253333,
       "name": "La Pelikula - Remix",
       "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
+    },
+    {
+      "added_at": "2022-10-13 20:36:00",
+      "album": {
+        "name": "Nazareno (Remix)",
+        "url": "https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 299893,
+      "name": "Nazareno - Remix",
+      "url": "https://open.spotify.com/track/0RE6QKlznWDuPzG5n0MOMS"
     },
     {
       "added_at": "2022-10-13 20:36:00",

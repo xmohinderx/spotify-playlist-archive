@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,499 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,507 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 41 | [Keys to the City \(Ogede\)](https://open.spotify.com/track/6J7sw67vUDQxoGnlaB1thc) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
 | 42 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
 | 43 | [I No Go Give Up On You](https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [I No Go Give Up On You](https://open.spotify.com/album/4UZuNQHxYYKSr3c336LsvY) | 2:40 |
-| 44 | [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 |
-| 45 | [Abracadabra](https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Abracadabra](https://open.spotify.com/album/5XasIPDB4ageL0kjrEukzE) | 3:15 |
+| 44 | [Abracadabra](https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Abracadabra](https://open.spotify.com/album/5XasIPDB4ageL0kjrEukzE) | 3:15 |
+| 45 | [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 |
 | 46 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 |
-| 47 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 |
-| 48 | [Short Skirt](https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:48 |
-| 49 | [Perfect \(feat\. Mr Eazi\)](https://open.spotify.com/track/49qrjYuXyYH6YFnq9hjjSO) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 3:35 |
-| 50 | [Open & Close](https://open.spotify.com/track/69BDyJybd7jXW0Tvl5QHt6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:44 |
+| 47 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 |
+| 48 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 |
+| 49 | [Short Skirt](https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:48 |
+| 50 | [Perfect \(feat\. Mr Eazi\)](https://open.spotify.com/track/49qrjYuXyYH6YFnq9hjjSO) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 3:35 |
 
-Snapshot ID: `Mjc3NjU0MzgsMDAwMDAwMDBjODI3MWE2YTUyZDliZjMxOGU2ZDhkZjRlMmZmMzM2MQ==`
+Snapshot ID: `Mjc3NjY4NzIsMDAwMDAwMDBmYjBkYmNhNzhmODM4MzNhNWViYzhkMDMzNzlmNjY1YQ==`

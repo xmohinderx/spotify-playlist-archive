@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-337 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
+338 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Take You Home](https://open.spotify.com/track/6V7dNVUExZ1z1TCHYxLrHg) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Take You Home](https://open.spotify.com/album/235t3rItvh7FSrtI2SuEUG) | 3:13 | 2020-10-20 | 2022-07-29 |
 | [Tell Me in the Morning](https://open.spotify.com/track/5OdtwysZszMXcujVwscqeo) | [FOURS](https://open.spotify.com/artist/2O96kas7AXED9RLiOWvrpY) | [Tell Me in the Morning](https://open.spotify.com/album/7l2LeqaDZcQr4A8EvkXSQm) | 3:37 | 2021-05-23 | 2022-07-18 |
 | [The Best You Had \- Acoustic Version](https://open.spotify.com/track/1JyMinaImPlBCH0bnJ1v4S) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Best You Had \(Acoustic Version\)](https://open.spotify.com/album/6yFL3sjNVHjub7EmAFcq8R) | 3:18 | 2020-10-20 | 2022-07-29 |
-| [The Best You Had \- Acoustic Version](https://open.spotify.com/track/3DUuf2LE8BBuWZUFuwFGkf) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall](https://open.spotify.com/album/4Wi489dcX4owpM21EcKKz7) | 3:19 | 2022-09-09 |  |
+| [The Best You Had \- Acoustic Version](https://open.spotify.com/track/3DUuf2LE8BBuWZUFuwFGkf) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall](https://open.spotify.com/album/4Wi489dcX4owpM21EcKKz7) | 3:19 | 2022-09-09 | 2022-10-18 |
 | [The Few Things](https://open.spotify.com/track/7GajeLvMksa794ZEQXwRSy) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things](https://open.spotify.com/album/2G54TgvdPgeLZ8uRFYZNTk) | 3:31 | 2020-10-20 | 2022-07-15 |
 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 | 2022-05-09 |  |
 | [The First To Know](https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [The First To Know](https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw) | 3:03 | 2020-10-06\* | 2022-07-29 |
@@ -323,6 +323,7 @@
 | [When We Were Young](https://open.spotify.com/track/7ilS0BPWS8ek2P2GaxH3cP) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [When We Were Young](https://open.spotify.com/album/5oWQ2uILvj5bAjeIjSYYc8) | 4:50 | 2021-01-18 | 2022-07-29 |
 | [When Will I See Your Face Again](https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ) | [Jamie Scott & The Town](https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1) | [Park Bench Theories](https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq) | 4:22 | 2020-10-06\* | 2022-07-29 |
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 | 2020-10-20 |  |
+| [Where the Heart Is](https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:53 | 2022-09-09 |  |
 | [Where the Heart Is](https://open.spotify.com/track/1O1C3GPadNrywLJXXhmPMk) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/0PWzCh1PM0jmSxbwwRjmY5) | 3:57 | 2020-10-06\* | 2022-07-29 |
 | [Wild \- Acoustic](https://open.spotify.com/track/5cScV3ewqQU2Zxic1Wcgz2) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [Wild \(Acoustic\)](https://open.spotify.com/album/4vGjWtI8v7qUSLF3QeVBM3) | 4:09 | 2021-01-30 | 2022-07-28 |
 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 | 2020-10-20 |  |

@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-191 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
+192 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Defeated](https://open.spotify.com/track/75Y2syEzwawmsPHJ0AgJur) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Defeated](https://open.spotify.com/album/3fjzcW8rUHomLk7Kx2a34F) | 3:03 | 2021-11-25 | 2022-01-22 |
 | [Distraction](https://open.spotify.com/track/7u2kKqLEszpUyIPbErP2aP) | [Lydia Ford](https://open.spotify.com/artist/2pC5evGCBphU1KuCK8MoS5) | [All or Nothing](https://open.spotify.com/album/23rfVUiMkwD26CpQdDVl8P) | 3:01 | 2021-11-25 | 2022-06-08 |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2021-11-25 |  |
+| [East End Coast](https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU) | 3:46 | 2022-09-23 |  |
 | [East End Coast](https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy) | 3:46 | 2022-09-23 | 2022-10-13 |
 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 | 2021-11-25 |  |
 | [Echo](https://open.spotify.com/track/06jqRie1u71Czn4BXQ6h7Y) | [Eva Campbell](https://open.spotify.com/artist/0JfXRez9odpHlpntvtt5qS) | [Echo](https://open.spotify.com/album/3cRSdGUirmdloX4kjmBrJY) | 3:07 | 2022-01-21 | 2022-07-29 |
@@ -112,7 +113,7 @@
 | [My 100](https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [My 100](https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm) | 2:53 | 2021-11-25 |  |
 | [Never Get It Right](https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Never Get It Right](https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe) | 3:20 | 2021-11-25 |  |
 | [New Wave](https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [New Wave EP](https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte) | 3:10 | 2021-11-25 |  |
-| [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 | 2021-11-25 |  |
+| [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 | 2021-11-25 | 2022-10-18 |
 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 | 2021-11-25 |  |
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-11-25 | 2022-09-24 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-23 |  |

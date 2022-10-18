@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Julian Taylor
 
-192 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+193 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Post Breakup Bender](https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Post Breakup Bender](https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6) | 3:44 | 2022-05-13 |  |
 | [Prairie](https://open.spotify.com/track/0LGUqza1L9nPakX9UXi5B4) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Prairie](https://open.spotify.com/album/41NAidTgQgMILE22jFjsu7) | 4:59 | 2022-05-13 | 2022-06-04 |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
-| [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 |  |
+| [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 | 2022-10-18 |
+| [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 | 2022-10-14 |  |
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-05-13 |  |
 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 | 2022-08-20 |  |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 |  |

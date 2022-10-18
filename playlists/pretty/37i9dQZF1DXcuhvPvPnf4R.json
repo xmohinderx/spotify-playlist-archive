@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 335,
+  "num_followers": 358,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGJmZjMyNzUxYzdlZDVjYzkyMmYxZTFhODMxZThiMmVi",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDgzMTIzZmFiZjViYjcxODMxMDliZmQ3MjRkYTM5MmNk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -231,6 +231,26 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Guilty (feat. Barry Gibb)",
+      "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 319386,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Guilty (feat. Barry Gibb)",
-      "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
-        }
-      ],
-      "duration_ms": 274440,
-      "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "I Am...",
         "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 284000,
       "name": "Hate Me Now (feat. Diddy)",
       "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274440,
+      "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 206465,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Rum & Redbull",
         "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 340040,
       "name": "Open My Heart",
       "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 206465,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
     },
     {
       "added_at": "2022-10-01 16:43:03",

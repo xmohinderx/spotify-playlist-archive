@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Brothers
 
-265 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+266 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [BIG BALLER BARS 3](https://open.spotify.com/track/25eWgXkoj3mDpVdqBJ40u5) | [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ), [Wombat](https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H) | [Revenge SZN 2](https://open.spotify.com/album/6KqexBaC7d9wX9DsqKJJ3A) | 3:40 | 2022-06-30 |  |
 | [BIG BOP](https://open.spotify.com/track/47BDGmZwPcI77hvIq0YquL) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [BIG BOP](https://open.spotify.com/album/7zD5a8hZ03r6cRSN3bVymJ) | 2:16 | 2022-03-21 | 2022-08-26 |
 | [Birkin \(feat\. Lil Jaye\)](https://open.spotify.com/track/2oZUbZg6hHjf1wGiBIZhdw) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [Birkin \(feat\. Lil Jaye\)](https://open.spotify.com/album/7fbg8u1jK0XKtbFMoGeOCN) | 2:17 | 2022-06-23 |  |
-| [BL!P](https://open.spotify.com/track/1fRejLP4jAjKWD9jjRxXN0) | [Menarku'](https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR) | [BL!P](https://open.spotify.com/album/3jQrRpgeCfb9lJhA8RvELG) | 2:03 | 2022-08-11 |  |
+| [Bl!p](https://open.spotify.com/track/0tGvVY1beqjzoQqYV6zszU) | [Menarku'](https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR) | [Magic Carpet](https://open.spotify.com/album/60EeMUDmDt8aq1LFuthq9v) | 2:03 | 2022-10-13 |  |
+| [BL!P](https://open.spotify.com/track/1fRejLP4jAjKWD9jjRxXN0) | [Menarku'](https://open.spotify.com/artist/32oHm5EdLmXdut63QhEZZR) | [BL!P](https://open.spotify.com/album/3jQrRpgeCfb9lJhA8RvELG) | 2:03 | 2022-08-11 | 2022-10-18 |
 | [Blessings](https://open.spotify.com/track/0G8UevdEVp26a2DGfhmaIp) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [Bitner Brown](https://open.spotify.com/artist/7hFXMhSb2iI4bJcxfcwQmM) | [Blessings](https://open.spotify.com/album/1m37BOYIflgwLuB3ekRfA5) | 3:00 | 2022-09-29 |  |
 | [Bold Man](https://open.spotify.com/track/71XmiyHa1Ix2OYKlSDFLeu) | [F.T.G](https://open.spotify.com/artist/01E7J3OcxFmYiWYEkWVKul), [Matt O'shae](https://open.spotify.com/artist/1erhhWH52S61nub1NB8SHE), [Bigg Pete](https://open.spotify.com/artist/7p7QzkHJQgOG1kXUAATDhu) | [Bold Man](https://open.spotify.com/album/0E3DfMrhpbxUfatIiE4bDA) | 4:00 | 2022-03-31 | 2022-06-14 |
 | [Bonnie & Clyde](https://open.spotify.com/track/5nFTc0k6AdZ4gEJvlNq8Dc) | [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [Bonnie & Clyde](https://open.spotify.com/album/0kqpdDv0IVgOhlBGIcmocb) | 2:21 | 2022-03-21 | 2022-05-13 |

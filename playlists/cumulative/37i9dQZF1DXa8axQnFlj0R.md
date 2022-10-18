@@ -4,7 +4,7 @@
 
 > let me hold both your hands in the holes of my sweater
 
-165 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/4z56XoIfvsTeY0YpsD2N6g)
+166 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/4z56XoIfvsTeY0YpsD2N6g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 | 2021-12-10 |  |
 | [Bones](https://open.spotify.com/track/0Em2XljAKp5THmpNvS83cp) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle) | 5:45 | 2022-01-07 | 2022-10-15 |
 | [Both All The Time](https://open.spotify.com/track/1NhwcAlWb4lY68d2bHBdGx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:12 | 2022-01-07 | 2022-09-17 |
-| [Breathe](https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt) | 2:17 | 2022-09-16 |  |
+| [Breathe](https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt) | 2:17 | 2022-09-16 | 2022-10-18 |
 | [Breathe](https://open.spotify.com/track/16SKS0Na572RmGeajx7ker) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz) | 2:17 | 2021-12-10 | 2022-07-28 |
 | [Burn](https://open.spotify.com/track/7ryiGamxHR1s4onRPsEzND) | [Asy Saavedra](https://open.spotify.com/artist/4Kf8xCePEbDe2ivKca5IsR) | [Burn](https://open.spotify.com/album/2Jpprueg5c7TKfD6h0Mb0m) | 2:40 | 2022-01-07 | 2022-07-29 |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2021-12-10 |  |
@@ -148,6 +148,7 @@
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-12-10 |  |
 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 | 2022-01-07 |  |
 | [Timshel](https://open.spotify.com/track/4c3zZWPPYkvjSV07Cv95oJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 2:53 | 2022-01-07 | 2022-10-13 |
+| [Timshel](https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 2:53 | 2022-10-14 |  |
 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2021-12-10 | 2022-10-13 |
 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 | 2022-09-16 |  |
 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 | 2021-12-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
-  "num_followers": 112863,
+  "num_followers": 112942,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGFjNzgwMTUxNTA5ZTVkNWUxZDJhODMzYzA0ZmMwNTY1",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDUyOWEyNjE1Zjk5NWNmZWEwOGFhNWRjZGI0NTlhYjk3",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "On the Highway",
-        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "On the Highway",
-      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Long Violent History",
         "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 248453,
       "name": "Midnight on the Water",
       "url": "https://open.spotify.com/track/2wvkWO6Pys01AT32nOc5RB"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "On the Highway",
+        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "On the Highway",
+      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Turmoil & Tinfoil",
-        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 276004,
-      "name": "While I'm Waiting Here",
-      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+        "name": "Turmoil & Tinfoil",
+        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Granny's Got a Garden - For G'maw Jan",
-      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
+      "duration_ms": 276004,
+      "name": "While I'm Waiting Here",
+      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Midnight on the Stormy Deep",
-        "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Del McCoury",
-          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
-        }
-      ],
-      "duration_ms": 242593,
-      "name": "Midnight on the Stormy Deep",
-      "url": "https://open.spotify.com/track/4gVjsCMBPLqKj0ygvDY9a5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
         "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 258217,
       "name": "Brace for Impact (Live a Little)",
       "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "\u201cThe Long-Awaited Album\u201d",
+        "url": "https://open.spotify.com/album/18a2XSMBz1cgZyqVnsG684"
+      },
+      "artists": [
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        },
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "On The Water",
+      "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -767,22 +767,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "\u201cThe Long-Awaited Album\u201d",
-        "url": "https://open.spotify.com/album/18a2XSMBz1cgZyqVnsG684"
+        "name": "Midnight on the Stormy Deep",
+        "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
       },
       "artists": [
         {
-          "name": "Steve Martin",
-          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         },
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Del McCoury",
+          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
         }
       ],
-      "duration_ms": 153106,
-      "name": "On The Water",
-      "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
+      "duration_ms": 242593,
+      "name": "Midnight on the Stormy Deep",
+      "url": "https://open.spotify.com/track/4gVjsCMBPLqKj0ygvDY9a5"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "In The Morning Light",
-        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "In The Morning Light",
-      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Lyin' Low",
         "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
       },
@@ -919,6 +903,42 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "In The Morning Light",
+        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "In The Morning Light",
+      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Echo In The Valley",
+        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "If I Could Talk To A Younger Me",
+      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "All Ashore",
         "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
       },
@@ -951,42 +971,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Seasons Don't Change",
-        "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
-      },
-      "artists": [
-        {
-          "name": "Town Mountain",
-          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Seasons Don't Change",
-      "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Echo In The Valley",
-        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "If I Could Talk To A Younger Me",
-      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "A Dotted Line",
         "url": "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Seasons Don't Change",
+        "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Seasons Don't Change",
+      "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -1015,6 +1015,30 @@
       "duration_ms": 194786,
       "name": "Edges Run",
       "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Charm School (feat. Billy Strings & Chris Thile)",
+        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 483442,
+      "name": "Charm School (feat. Billy Strings & Chris Thile)",
+      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1079,30 +1103,6 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Charm School (feat. Billy Strings & Chris Thile)",
-        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 483442,
-      "name": "Charm School (feat. Billy Strings & Chris Thile)",
-      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 120609,
+      "name": "Jenny Put the Kettle On",
+      "url": "https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 120609,
-      "name": "Jenny Put the Kettle On",
-      "url": "https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Narrow Line",
-      "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Honey on My Tongue",
         "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
       },
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Sidetrack My Engine",
         "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
       },
@@ -1379,6 +1347,38 @@
       "duration_ms": 165213,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Narrow Line",
+      "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
         }
       ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
       },
       "artists": [
         {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+        "name": "Hymns-Some Of Old, Some Of New",
+        "url": "https://open.spotify.com/album/7f5asZCvsayLsxzQtr8aJs"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Julie and Dan",
+          "url": "https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+      "duration_ms": 229120,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1683,26 +1687,6 @@
       "duration_ms": 248712,
       "name": "Squirrel Hunters",
       "url": "https://open.spotify.com/track/5Tu8iwoMgiz3MQJui9OFt9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Hymns-Some Of Old, Some Of New",
-        "url": "https://open.spotify.com/album/7f5asZCvsayLsxzQtr8aJs"
-      },
-      "artists": [
-        {
-          "name": "Julie and Dan",
-          "url": "https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/1wHctKgZzTJc7FKAv71Xfg"
       },
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "John",
-        "url": "https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV"
+        "name": "Turning Up The Ground",
+        "url": "https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5"
       },
       "artists": [
         {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 175466,
-      "name": "John",
-      "url": "https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC"
+      "duration_ms": 264842,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC"
     }
   ],
   "unique_name": "Grass Roots",

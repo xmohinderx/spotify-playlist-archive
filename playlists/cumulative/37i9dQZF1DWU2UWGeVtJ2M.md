@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-255 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+256 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [It's Not This](https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2) | 3:10 | 2022-07-25 |  |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-12 |  |
 | [Just a Phone Call Away](https://open.spotify.com/track/7gqq9KB1fvORR9dEWJ1y2F) | [Lui Peng](https://open.spotify.com/artist/44ntLEmQVlftYGxgHgwxBJ) | [Just a Phone Call Away](https://open.spotify.com/album/4Jz3byNMhYOY7eanWoj4aH) | 2:35 | 2022-06-06 | 2022-07-28 |
-| [Keep Me Up](https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Keep Me Up](https://open.spotify.com/album/27CHocZopHED9uvae877j3) | 3:18 | 2022-07-25 |  |
+| [Keep Me Up](https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Keep Me Up](https://open.spotify.com/album/27CHocZopHED9uvae877j3) | 3:18 | 2022-07-25 | 2022-10-18 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-25 |  |
 | [Late \(Again\)](https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/5sXWRGyWQL7kMXbqYl2ltR) | 1:55 | 2022-06-06 | 2022-07-27 |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2022-07-25 |  |
@@ -221,6 +221,7 @@
 | [Temporary](https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Temporary](https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF) | 2:04 | 2022-07-25 | 2022-07-27 |
 | [The Angels](https://open.spotify.com/track/6XwDVNiqXI6WrhlVJYdPLu) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [The Angels](https://open.spotify.com/album/1ZdaNHouyJBXKES1AxjFAV) | 3:33 | 2022-06-06 | 2022-07-25 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-07-25 |  |
+| [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-18 |  |
 | [The Space Between Us](https://open.spotify.com/track/6OLWjfBXWoGS5ft8IFzcjq) | [Saint Fiction](https://open.spotify.com/artist/6MD05zpi26c0tir83S7Rpd) | [The Space Between Us](https://open.spotify.com/album/4ahRpyPIbiyUpd55Ry3HnJ) | 3:17 | 2022-06-06 | 2022-07-28 |
 | [Thinkin Bout You](https://open.spotify.com/track/5kx5NtuqynfuDqUppK4qa4) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/7HtutouCfFdDPs3xO9EIeU) | 4:23 | 2022-06-06 | 2022-07-28 |
 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 | 2022-07-25 |  |

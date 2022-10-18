@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,025 songs - 2 day 6 hr 1 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+1,026 songs - 2 day 6 hr 5 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-12-03 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-05-30 | 2021-05-31 |
 | [Caravaggio](https://open.spotify.com/track/5Bv6jNkvB82p6NCeaFsVuA) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Caravaggio](https://open.spotify.com/album/06bvnTPXXc3ozKuXnimVZj) | 2:12 | 2021-09-24 | 2021-10-17 |
-| [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-09-08 |  |
+| [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-09-08 | 2022-10-18 |
 | [CCTV](https://open.spotify.com/track/3zx5ne2XxVwFcPg4t6OxRC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CCTV](https://open.spotify.com/album/2g8aREJdHnVxe5cedBfLbQ) | 2:24 | 2021-09-08 | 2021-10-17 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-05 | 2022-10-16 |
@@ -408,7 +408,7 @@
 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-20 |  |
 | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/track/2YjWAJEES4VMcwoOWvqk08) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Bara hälften kvar](https://open.spotify.com/album/2XOBT3JlFI2ouu3I3yVnVT) | 3:10 | 2021-03-27\* | 2021-07-16 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-02-28 | 2022-07-31 |
-| [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 | 2022-09-03 |  |
+| [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 | 2022-09-03 | 2022-10-18 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-27 | 2022-09-04 |
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-07 | 2022-05-08 |
 | [Hold On](https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:06 | 2021-11-21 | 2021-11-25 |
@@ -513,7 +513,7 @@
 | [KOMMER & GÅR](https://open.spotify.com/track/5yLzXhTq6wZV0btxdtFxyu) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [KOMMER & GÅR](https://open.spotify.com/album/5UzQqu5ridQ89gWlemfEpv) | 2:13 | 2022-01-29 | 2022-01-31 |
 | [Komplicerad](https://open.spotify.com/track/29nwG4y9NFmN76yfUfc01d) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Komplicerad](https://open.spotify.com/album/0we1oHYcvvjwVq5LHiKQTe) | 2:40 | 2021-06-27 | 2021-06-28 |
 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 | 2022-05-22 | 2022-09-04 |
-| [Komplicerat](https://open.spotify.com/track/7ofOfhBu0FCuVemv4zL8Ry) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:19 | 2022-09-03 | 2022-10-01 |
+| [Komplicerat](https://open.spotify.com/track/7ofOfhBu0FCuVemv4zL8Ry) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:19 | 2022-09-03 |  |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-07 | 2022-09-11 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-05 | 2022-10-16 |
 | [Kulor \(Intro\)](https://open.spotify.com/track/5hrDLjhhAHCYOONnAUAAkD) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:38 | 2022-04-30 | 2022-05-08 |
@@ -619,6 +619,7 @@
 | [MISSFÖRSTÅTT](https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [MISSFÖRSTÅTT](https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY) | 1:41 | 2022-06-18 | 2022-08-31 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-28 | 2021-12-27 |
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2021-05-16 | 2021-08-15 |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-17 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2021-09-26 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-31 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-08-22 |

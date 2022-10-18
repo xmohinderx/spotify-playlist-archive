@@ -4,7 +4,7 @@
 
 > 'Frizzell D'souza' is on the cover of IndiEnglish\. Stream now!
 
-122 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+123 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Built to Fall Apart](https://open.spotify.com/track/1JnbUSdKSEuVSrQtpVHbW0) | [Sera Sanyal](https://open.spotify.com/artist/0ortRu9VeGzI3W1hrhFRM3) | [Built to Fall Apart](https://open.spotify.com/album/2VxmF9cxdv2gp1xS01lbk0) | 3:59 | 2022-07-08 |  |
 | [Butterflies](https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Butterflies](https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N) | 2:33 | 2022-03-25 | 2022-06-30 |
 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 | 2022-03-25 |  |
+| [Chills](https://open.spotify.com/track/0u5RyQsiu3ImN5uUAatTuz) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Chills](https://open.spotify.com/album/1oTz9EXkj804GhKZNhmzhk) | 3:08 | 2022-10-17 |  |
 | [Cold Cold Night](https://open.spotify.com/track/4pR2qfbLapOQ5fNeVWfGnH) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X) | 3:21 | 2022-09-26 |  |
 | [Cold Cold Night](https://open.spotify.com/track/7yHpjfYiFCKs0pFSUndEuI) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/1WuSRJC0L115CkTTMOCTuy) | 3:21 | 2022-03-25 | 2022-10-13 |
 | [Confessions of a Bipolar Mind](https://open.spotify.com/track/3rA6c03IoVVDvkIds5LtZZ) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Confessions of a Bipolar Mind](https://open.spotify.com/album/6JuxjsRiQFHQWIW4vT9tWP) | 4:38 | 2022-03-25 | 2022-05-26 |
@@ -81,7 +82,7 @@
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2022-03-25 |  |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-09-26 |  |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 | 2022-10-15 |
-| [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 | 2022-10-15 |  |
+| [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 | 2022-10-14 |  |
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 | 2022-10-15 |
 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 | 2022-09-26 |  |
 | [Medieval Minds](https://open.spotify.com/track/5rhCzgfI1KYJJeCRvb10Kw) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [Medieval Minds](https://open.spotify.com/album/4Wu97w4VsQIhIZ1br2Modf) | 3:49 | 2022-04-12 | 2022-09-10 |

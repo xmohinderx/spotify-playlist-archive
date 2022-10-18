@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: FKA Twigs
 
-301 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+302 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2022-02-21 | 2022-09-30 |
 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 | 2022-02-21 | 2022-03-09 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 | 2022-02-21 | 2022-10-13 |
+| [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-09-29 |  |
 | [I Want You](https://open.spotify.com/track/52E1427pP2darugrmmbW6k) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [I Want You](https://open.spotify.com/album/0q0fzVVWBgRN99wRrDXGDI) | 4:13 | 2021-11-15 | 2022-07-21 |
 | [I Was A Fool](https://open.spotify.com/track/4vRf8lasPrZOytGizPT06B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Twentytwo in Blue](https://open.spotify.com/album/5dHOr4rG0cJbeAX2hcJ4G6) | 3:33 | 2021-11-15 | 2022-07-29 |
 | [III](https://open.spotify.com/track/3qTQUr3tSe20r0Jn56n3O4) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [EP](https://open.spotify.com/album/4bk2ZawHTub5nUpJgug3IS) | 3:31 | 2022-02-21 | 2022-06-10 |
@@ -260,7 +261,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/4g3Ax56IslQkI6XVfYKVc5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/0rxKf57PZvWEoU8v3m5W2q) | 3:36 | 2021-11-15 | 2022-07-15 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-02-21 |  |
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2021-11-15 |  |
-| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 |  |
+| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 | 2022-10-18 |
 | [The Mother We Share](https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD) | 3:11 | 2022-02-21 | 2022-07-26 |
 | [The Night Josh Tillman Came To Our Apt.](https://open.spotify.com/track/3Xg2iQGIZuqV0vjzisyzq0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 3:36 | 2022-02-21 | 2022-07-14 |
 | [The Others](https://open.spotify.com/track/7B03rbWrOQtbjzpxMPAzoi) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Reasons To Dream](https://open.spotify.com/album/1CZX30Fm8HRRlSKm30qyu2) | 3:57 | 2022-02-21 | 2022-06-21 |

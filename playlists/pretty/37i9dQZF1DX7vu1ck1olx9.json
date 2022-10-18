@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 48114,
+  "num_followers": 48168,
   "original_name": "Lo-Fi Cool Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGYwZmYxYzZlZWRkOTUyY2E5YTU5Y2M0NzkyMWE2YWIz",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGVjMTNjM2ZjYzZkYjg3YzlkN2RmZDQ4ZWJlMTFmNjhl",
   "tracks": [
     {
       "added_at": "2020-11-12 22:28:34",
@@ -179,26 +179,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        },
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
         }
       ],
-      "duration_ms": 133346,
-      "name": "BUS RIDE",
-      "url": "https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7"
+      "duration_ms": 95921,
+      "name": "Smoking at Midnight",
+      "url": "https://open.spotify.com/track/5t9xjVR1jxhgIiutBVARQb"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -219,18 +211,26 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Harbor",
-        "url": "https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
-          "name": "Tomppabeats",
-          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
         }
       ],
-      "duration_ms": 95921,
-      "name": "Smoking at Midnight",
-      "url": "https://open.spotify.com/track/5t9xjVR1jxhgIiutBVARQb"
+      "duration_ms": 133346,
+      "name": "BUS RIDE",
+      "url": "https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/5PwVDKa5tAPIYRiRF21pnC"
     },
     {
-      "added_at": "2021-02-12 05:01:00",
-      "album": {
-        "name": "Train Ride",
-        "url": "https://open.spotify.com/album/3EFv9EzA7O7G2YbCx5vnKb"
-      },
-      "artists": [
-        {
-          "name": "halfpastseven",
-          "url": "https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Train Ride",
-      "url": "https://open.spotify.com/track/3pNijZFoqxfIUVzzN9pDtA"
-    },
-    {
       "added_at": "2020-11-12 22:28:34",
       "album": {
         "name": "gay story",
@@ -375,6 +359,22 @@
       "duration_ms": 62000,
       "name": "something easy",
       "url": "https://open.spotify.com/track/3ERiZbndVXtCGXIREDHKgD"
+    },
+    {
+      "added_at": "2021-02-12 05:01:00",
+      "album": {
+        "name": "Train Ride",
+        "url": "https://open.spotify.com/album/3EFv9EzA7O7G2YbCx5vnKb"
+      },
+      "artists": [
+        {
+          "name": "halfpastseven",
+          "url": "https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/3pNijZFoqxfIUVzzN9pDtA"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -503,6 +503,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "late night bumps, Vol. 4",
+        "url": "https://open.spotify.com/album/6F4qw9nq5wORLwe729uJkG"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "duration_ms": 116119,
+      "name": "blueberry",
+      "url": "https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Bopatron",
         "url": "https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "late night bumps, Vol. 4",
-        "url": "https://open.spotify.com/album/6F4qw9nq5wORLwe729uJkG"
+        "name": "belonging",
+        "url": "https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL"
       },
       "artists": [
         {
-          "name": "[bsd.u]",
-          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+          "name": "Sw\u00f8rn",
+          "url": "https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc"
         }
       ],
-      "duration_ms": 116119,
-      "name": "blueberry",
-      "url": "https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259"
+      "duration_ms": 121925,
+      "name": "belonging",
+      "url": "https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -555,22 +571,6 @@
       "duration_ms": 184346,
       "name": "Tangerine Hues",
       "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "belonging",
-        "url": "https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL"
-      },
-      "artists": [
-        {
-          "name": "Sw\u00f8rn",
-          "url": "https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc"
-        }
-      ],
-      "duration_ms": 121925,
-      "name": "belonging",
-      "url": "https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -703,6 +703,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "Chillhop Essentials Fall 2018",
+        "url": "https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl"
+      },
+      "artists": [
+        {
+          "name": "Plusma",
+          "url": "https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH"
+        }
+      ],
+      "duration_ms": 132058,
+      "name": "mochus",
+      "url": "https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Chillhop Essentials Winter 2017",
         "url": "https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl"
       },
@@ -723,18 +739,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Chillhop Essentials Fall 2018",
-        "url": "https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl"
+        "name": "sidewalk safari",
+        "url": "https://open.spotify.com/album/7ycvSoIBz8FRbnbcVlTJFM"
       },
       "artists": [
         {
-          "name": "Plusma",
-          "url": "https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH"
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        },
+        {
+          "name": "tenp\u014d",
+          "url": "https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS"
         }
       ],
-      "duration_ms": 132058,
-      "name": "mochus",
-      "url": "https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO"
+      "duration_ms": 93333,
+      "name": "cat's meow",
+      "url": "https://open.spotify.com/track/7bfwBbrYKFEreVQnFwbWPs"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -755,26 +775,6 @@
       "duration_ms": 153253,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "sidewalk safari",
-        "url": "https://open.spotify.com/album/7ycvSoIBz8FRbnbcVlTJFM"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        },
-        {
-          "name": "tenp\u014d",
-          "url": "https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS"
-        }
-      ],
-      "duration_ms": 93333,
-      "name": "cat's meow",
-      "url": "https://open.spotify.com/track/7bfwBbrYKFEreVQnFwbWPs"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Heart Ache",
-        "url": "https://open.spotify.com/album/1oeoiDkblHaCEdZi6GA7AS"
-      },
-      "artists": [
-        {
-          "name": "GurtyBeats",
-          "url": "https://open.spotify.com/artist/5uho8NPQ2MAnDKEVhBdsJ8"
-        }
-      ],
-      "duration_ms": 127080,
-      "name": "Heart Ache",
-      "url": "https://open.spotify.com/track/1fUtnylny4kCekSRCTYqnl"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Motor City",
         "url": "https://open.spotify.com/album/7L7QkmT3PIgU37NKAO6xnQ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 136254,
       "name": "Motor City 17",
       "url": "https://open.spotify.com/track/1AtiYbyttcLHmI9wJS51QG"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Heart Ache",
+        "url": "https://open.spotify.com/album/1oeoiDkblHaCEdZi6GA7AS"
+      },
+      "artists": [
+        {
+          "name": "GurtyBeats",
+          "url": "https://open.spotify.com/artist/5uho8NPQ2MAnDKEVhBdsJ8"
+        }
+      ],
+      "duration_ms": 127080,
+      "name": "Heart Ache",
+      "url": "https://open.spotify.com/track/1fUtnylny4kCekSRCTYqnl"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "Homewards",
+        "url": "https://open.spotify.com/album/1saLXXiujQG2zc5piB9mjk"
+      },
+      "artists": [
+        {
+          "name": "Coubo",
+          "url": "https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Springman",
+      "url": "https://open.spotify.com/track/1QxvBUifBAyr47CPjVYh6v"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/0ULUBycp5jD1x6PyAMqEG2"
       },
@@ -1367,34 +1383,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Homewards",
-        "url": "https://open.spotify.com/album/1saLXXiujQG2zc5piB9mjk"
+        "name": "keep on",
+        "url": "https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa"
       },
       "artists": [
         {
-          "name": "Coubo",
-          "url": "https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq"
+          "name": "L'Ind\u00e9cis",
+          "url": "https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Springman",
-      "url": "https://open.spotify.com/track/1QxvBUifBAyr47CPjVYh6v"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "NightSky",
-        "url": "https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "NightSky",
-      "url": "https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV"
+      "duration_ms": 140000,
+      "name": "keep on",
+      "url": "https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -1415,22 +1415,6 @@
       "duration_ms": 215000,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/44js4MOnD3UwxXchgek0C9"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "keep on",
-        "url": "https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa"
-      },
-      "artists": [
-        {
-          "name": "L'Ind\u00e9cis",
-          "url": "https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "keep on",
-      "url": "https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 141773,
       "name": "Solst\u00e5nd",
       "url": "https://open.spotify.com/track/28zf41FR9YbGLN2sXnl0S9"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "NightSky",
+        "url": "https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "NightSky",
+      "url": "https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV"
     }
   ],
   "unique_name": "Lo-Fi Cool Down",

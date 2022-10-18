@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Kim Scott",
-  "num_followers": 37435,
+  "num_followers": 37506,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGE0NTcwMTdkYjNhNzI1YmJiODJlMjMyMjE4NTc5ODhh",
+  "snapshot_id": "MTY2NjAyMTUxNCwwMDAwMDAwMDBiZDA4NDAyMzczZjQ1ZThkZDU4ZjRlNjcwNGQzYjFk",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
-      "added_at": "2022-10-17 01:29:39",
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+    },
+    {
+      "added_at": "2022-10-17 15:45:13",
+      "album": {
+        "name": "Unspeakable",
+        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
+      },
+      "artists": [
+        {
+          "name": "Sam Rucker",
+          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
+        }
+      ],
+      "duration_ms": 226438,
+      "name": "Unspeakable",
+      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
@@ -45,42 +77,6 @@
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "H.A.D.",
-        "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        },
-        {
-          "name": "Chieli Minucci",
-          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "H.A.D. (featuring Chieli Minucci)",
-      "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Workin'",
@@ -97,36 +93,20 @@
       "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
       },
       "artists": [
         {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
-    },
-    {
-      "added_at": "2022-10-17 01:29:39",
-      "album": {
-        "name": "Look Both Ways",
-        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Look Both Ways",
-      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -143,54 +123,6 @@
       "duration_ms": 248573,
       "name": "Detour",
       "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
-      },
-      "artists": [
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        }
-      ],
-      "duration_ms": 230187,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        }
-      ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -213,6 +145,26 @@
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "H.A.D.",
+        "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        },
+        {
+          "name": "Chieli Minucci",
+          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "H.A.D. (featuring Chieli Minucci)",
+      "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lavish",
@@ -231,6 +183,22 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -253,20 +221,20 @@
       "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Jazz Party",
-        "url": "https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
       },
       "artists": [
         {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Jazz Party",
-      "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
+      "duration_ms": 230187,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -287,6 +255,22 @@
       "duration_ms": 273515,
       "name": "A Song for Peace",
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Jazz Party",
+        "url": "https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Jazz Party",
+      "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -353,6 +337,38 @@
       "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
+      },
+      "artists": [
+        {
+          "name": "Marco Giubileo",
+          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
+        },
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        },
+        {
+          "name": "Kim Stone",
+          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
+        },
+        {
+          "name": "Roberto Soggetti",
+          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
+        },
+        {
+          "name": "Simone Boffa",
+          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
+        }
+      ],
+      "duration_ms": 231267,
+      "name": "III",
+      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Sweet Talk",
@@ -385,38 +401,6 @@
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
     },
     {
-      "added_at": "2022-10-17 01:29:39",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
-      },
-      "artists": [
-        {
-          "name": "Marco Giubileo",
-          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
-        },
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        },
-        {
-          "name": "Kim Stone",
-          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
-        },
-        {
-          "name": "Roberto Soggetti",
-          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
-        },
-        {
-          "name": "Simone Boffa",
-          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "III",
-      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Movin' N Groovin",
@@ -437,6 +421,22 @@
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Make Up Your Mind (Radio Edit)",
@@ -467,6 +483,22 @@
       "duration_ms": 240280,
       "name": "Make Up Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -501,22 +533,6 @@
       "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "G-Stream 2-Turn It Up",
@@ -533,22 +549,6 @@
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Savoir Faire",
@@ -563,6 +563,22 @@
       "duration_ms": 318733,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -717,22 +733,6 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "One More Night - Single Edit",
-      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
-    },
-    {
       "added_at": "2022-02-14 15:14:54",
       "album": {
         "name": "A Midnight Rendezvous",
@@ -749,24 +749,20 @@
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
       },
       "artists": [
         {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
         }
       ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
+      "duration_ms": 227369,
+      "name": "One More Night - Single Edit",
+      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -789,6 +785,26 @@
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Honest",
@@ -803,22 +819,6 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -857,28 +857,20 @@
       "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Ticket to Pittsburgh",
-        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
       },
       "artists": [
         {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
         }
       ],
-      "duration_ms": 323500,
-      "name": "Ticket to Pittsburgh",
-      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     }
   ],
   "unique_name": "New Smooth Jazz",

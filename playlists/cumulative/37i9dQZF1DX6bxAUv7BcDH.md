@@ -4,7 +4,7 @@
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-72 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/5sviYI5JD7rztpjP8iZrzW)
+73 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5sviYI5JD7rztpjP8iZrzW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 | 2022-02-16 |  |
 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 | 2022-02-16 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 | 2022-02-16 |  |
+| [Change The World](https://open.spotify.com/track/463G7EJ5QLNSXzLIXRiY2g) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/1qcLcWUFHHFWe54IP7PN7j) | 3:54 | 2022-02-16 |  |
 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 | 2022-02-16 | 2022-10-17 |
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2022-02-16 |  |
 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 | 2022-02-16 |  |
@@ -65,7 +66,7 @@
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2022-02-16 |  |
 | [The Shadow of Your Smile \(Love Theme from "The Sandpiper"\)](https://open.spotify.com/track/66YI4JFp7BcMcepibGprsN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Movie Song Album](https://open.spotify.com/album/0viEs6bCf3nP560AFtCDcn) | 3:37 | 2022-02-16 |  |
 | [The Way We Were](https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:31 | 2022-02-16 |  |
-| [Theme of Exodus \- From "Exodus" Soundtrack](https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi) | [Ernest Gold](https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE) | [Theme of Exodus \(From "Exodus" Soundtrack\)](https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0) | 14:52 | 2022-02-16 |  |
+| [Theme of Exodus \- From "Exodus" Soundtrack](https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi) | [Ernest Gold](https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE) | [Theme of Exodus \(From "Exodus" Soundtrack\)](https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0) | 14:52 | 2022-02-16 | 2022-10-18 |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2022-02-16 |  |
 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 | 2022-02-16 |  |
 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 | 2022-02-16 |  |

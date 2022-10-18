@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 19083,
+  "num_followers": 19167,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDU5Y2NlMTBlZjk0NmIwMDc4MDI2YTZmYzJkMmJjYjBh",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDk0OWUzMDUwM2QxOTMyOWM0NzZlOTgxMTIxZjQ0Njky",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong - Single Version",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -439,42 +439,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Teu Eternamente",
-      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "That's Me",
-        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
-      },
-      "artists": [
-        {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 203351,
-      "name": "That's Me",
-      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Scroll",
         "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
       },
@@ -487,6 +451,22 @@
       "duration_ms": 157177,
       "name": "Scroll",
       "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong - Single Version",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -511,6 +491,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
+      },
+      "artists": [
+        {
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 203351,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -559,6 +543,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 306733,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Desde a Origem",
-        "url": "https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 196021,
-      "name": "Lembra-te",
-      "url": "https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -623,6 +607,38 @@
       "duration_ms": 256144,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Desde a Origem",
+        "url": "https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 196021,
+      "name": "Lembra-te",
+      "url": "https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -683,22 +699,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Come quarantine w me",
         "url": "https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 267019,
       "name": "Bad Like You",
       "url": "https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 279423,
       "name": "Depois da Chuva",
       "url": "https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Toque",
+        "url": "https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        },
+        {
+          "name": "Cunha Beats",
+          "url": "https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Toque",
+      "url": "https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/7bSGqZgFrAhPYWeZsVUjVk"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 268851,
       "name": "Cashh",
       "url": "https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Toque",
-        "url": "https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC"
-      },
-      "artists": [
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
-        },
-        {
-          "name": "Cunha Beats",
-          "url": "https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Toque",
-      "url": "https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -991,18 +991,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Losing",
-        "url": "https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI"
+        "name": "Novo Demais",
+        "url": "https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH"
       },
       "artists": [
         {
-          "name": "SLR",
-          "url": "https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD"
+          "name": "TRIQ",
+          "url": "https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd"
+        },
+        {
+          "name": "eaux",
+          "url": "https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Losing",
-      "url": "https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ"
+      "duration_ms": 188400,
+      "name": "Novo Demais",
+      "url": "https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1019,6 +1023,22 @@
       "duration_ms": 186000,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Losing",
+        "url": "https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI"
+      },
+      "artists": [
+        {
+          "name": "SLR",
+          "url": "https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Losing",
+      "url": "https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1043,26 +1063,6 @@
       "duration_ms": 223000,
       "name": "J\u00e1 N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Novo Demais",
-        "url": "https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH"
-      },
-      "artists": [
-        {
-          "name": "TRIQ",
-          "url": "https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd"
-        },
-        {
-          "name": "eaux",
-          "url": "https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Novo Demais",
-      "url": "https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32"
     },
     {
       "added_at": "2022-10-13 23:00:00",

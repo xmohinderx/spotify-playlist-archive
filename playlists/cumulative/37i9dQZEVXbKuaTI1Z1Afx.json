@@ -1826,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "FREAKY",
+        "url": "https://open.spotify.com/album/035gwa3Veg378UiY2p6ZwN"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182124,
+      "name": "BOW",
+      "url": "https://open.spotify.com/track/01V6K40AZcyCVdCiEOYk9V"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -4799,7 +4817,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 145057,
       "name": "Face no Book",
       "url": "https://open.spotify.com/track/61F7oyUltrI5dMVw3IvbQT"
@@ -8075,7 +8093,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 83887,
       "name": "La Maldita Bulla",
       "url": "https://open.spotify.com/track/6Z0USdAMfe3eDQRaye0yF1"
@@ -10535,7 +10553,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 165333,
       "name": "No Wind Resistance SPED UP!",
       "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"

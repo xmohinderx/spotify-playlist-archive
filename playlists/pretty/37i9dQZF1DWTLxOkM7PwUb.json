@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 196937,
+  "num_followers": 197003,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMDZlNmRkOTczZmU5NzUwMzRmNTlhNjkxZTc5ZTQyZWQ5",
+  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMDQ2NzJiMmJlNzc5MjAxNzk4MmQ1ZjliODRmM2E4YWNh",
   "tracks": [
     {
       "added_at": "2022-09-19 14:59:26",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -343,6 +343,46 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "C\u00f3mo Le Digo",
+        "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/4rbj52UIyw3wd42EMaS0Tp"
+        }
+      ],
+      "duration_ms": 226100,
+      "name": "C\u00f3mo Le Digo",
+      "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
         "name": "YaMeFui",
         "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
       },
@@ -387,46 +427,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "C\u00f3mo Le Digo",
-        "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        },
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/4rbj52UIyw3wd42EMaS0Tp"
-        }
-      ],
-      "duration_ms": 226100,
-      "name": "C\u00f3mo Le Digo",
-      "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -503,6 +487,22 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
         "name": "Como Estrellas",
         "url": "https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud"
       },
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
         "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
         "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
       },
@@ -571,42 +591,6 @@
       "duration_ms": 174642,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "Pero Ya No",
-      "url": "https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -683,22 +667,18 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+      "duration_ms": 160638,
+      "name": "Pero Ya No",
+      "url": "https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -727,22 +707,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 213959,
       "name": "Dime Cuantas Veces",
       "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "GPS (feat. French Montana)",
-        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "GPS (feat. French Montana)",
-      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "S.A.D",
-        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
+        "name": "GPS (feat. French Montana)",
+        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 128375,
-      "name": "S.A.D",
-      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
+      "duration_ms": 216306,
+      "name": "GPS (feat. French Montana)",
+      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -919,6 +903,22 @@
       "duration_ms": 240441,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "S.A.D",
+        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 128375,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1067,42 +1067,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 245141,
-      "name": "Dejar Atr\u00e1s / Rompe Corazones",
-      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "Desde el Fin del Mundo",
-        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 218288,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "MAWZ",
         "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
       },
@@ -1119,6 +1083,26 @@
       "duration_ms": 211964,
       "name": "A tus Pies",
       "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 245141,
+      "name": "Dejar Atr\u00e1s / Rompe Corazones",
+      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1143,6 +1127,22 @@
       "duration_ms": 290666,
       "name": "Illuminati - Remix",
       "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Desde el Fin del Mundo",
+        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1179,6 +1179,22 @@
       "duration_ms": 196363,
       "name": "C14TORCE II",
       "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1223,22 +1239,6 @@
       "duration_ms": 247174,
       "name": "DESPUES QUE TE PERDI",
       "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "KUN",
-        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Me Atrapa",
-      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
       },
@@ -1339,6 +1323,38 @@
       "duration_ms": 208788,
       "name": "Roto",
       "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "CAPRICHOSO",
+        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "KUN",
+        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Me Atrapa",
+      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1387,18 +1403,22 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "CAPRICHOSO",
-        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 167619,
-      "name": "CAPRICHOSO",
-      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
+      "duration_ms": 200000,
+      "name": "C\u00f3mo D\u00edmelo",
+      "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1439,26 +1459,6 @@
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "C\u00f3mo D\u00edmelo",
-      "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "Me Prefiere A Mi",
+      "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
       },
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "Me Prefiere A Mi",
-      "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Wake Me",
         "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
       },
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
         "name": "GRACIAS POR NADA",
         "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Por Si Ma\u00f1ana",
         "url": "https://open.spotify.com/album/0YPuDIug1i3522246t1BVO"
       },
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Pa Mi",
-        "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Pa Mi",
-      "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Calle 2 (Remix)",
         "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 222080,
       "name": "Calle 2 - Remix",
       "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Pa Mi",
+        "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Pa Mi",
+      "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Debo Cambiar (feat. KHEA)",
-        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
-      },
-      "artists": [
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 172803,
-      "name": "Debo Cambiar (feat. KHEA)",
-      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Ke Sientes",
         "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 207146,
       "name": "Ke Sientes",
       "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Debo Cambiar (feat. KHEA)",
+        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 172803,
+      "name": "Debo Cambiar (feat. KHEA)",
+      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
     },
     {
       "added_at": "2022-09-19 14:59:26",

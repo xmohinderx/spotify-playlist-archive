@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/3tvCSsZA2AfdQ1aE2xGF5U"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL"
+    },
+    {
+      "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 334800,
       "name": "Somehow, Somewhere, Someway",
       "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"

@@ -171,7 +171,7 @@
     {
       "album": {
         "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv"
+        "url": "https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS"
       },
       "artists": [
         {
@@ -190,6 +190,32 @@
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170208,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/0A0igEVrmwHhDocCu2NFHs"
+    },
+    {
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 170208,
       "name": "Corner",
       "url": "https://open.spotify.com/track/5liextsoaZH0M6eLohY9Qf"
@@ -277,7 +303,7 @@
     {
       "album": {
         "name": "Fatherless",
-        "url": "https://open.spotify.com/album/37lKlkS7VUd7F7A958ZIeU"
+        "url": "https://open.spotify.com/album/4FhBOsnkUXVVSnRkG7ikcr"
       },
       "artists": [
         {
@@ -288,6 +314,24 @@
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 380213,
+      "name": "Fatherless",
+      "url": "https://open.spotify.com/track/5Bs93ZX1NAjAT5tPyPLJRA"
+    },
+    {
+      "album": {
+        "name": "Fatherless",
+        "url": "https://open.spotify.com/album/37lKlkS7VUd7F7A958ZIeU"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 380213,
       "name": "Fatherless",
       "url": "https://open.spotify.com/track/6njoiANKTAdL1QQcFnPmUu"

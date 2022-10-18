@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 136405,
+  "num_followers": 136444,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM4NTk0MiwwMDAwMDAwMGZiZWMwYjJmNTI1NzIyZjBmYmFkZGY3MDYyMzg3ZTFl",
+  "snapshot_id": "MTY2NjAxNjcyNywwMDAwMDAwMDZiNWU4OTk5MmI2NDM4Zjc0MzRlYTZlNjRjMGE0ODE1",
   "tracks": [
     {
       "added_at": "2022-10-10 07:12:22",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 221543,
       "name": "wish you were gay",
       "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247150,
+      "name": "Mariners Apartment Complex",
+      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 212496,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
+      "duration_ms": 245840,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -323,6 +307,38 @@
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 212496,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -383,22 +399,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
         "name": "While We Wait",
         "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 181140,
       "name": "Feels",
       "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Where Were You In The Morning?",
-      "url": "https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Where Were You In The Morning?",
+      "url": "https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
         "name": "I Wouldn't Know Any Better Than You",
         "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 151041,
       "name": "I Wouldn't Know Any Better Than You",
       "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -643,22 +659,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 155845,
       "name": "daydreams",
       "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -835,22 +851,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 212787,
-      "name": "I Want You Around",
-      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
@@ -927,22 +927,18 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Sosamann",
-          "url": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
         }
       ],
-      "duration_ms": 216961,
-      "name": "What About Me (feat. Sosamann)",
-      "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+      "duration_ms": 212000,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -963,6 +959,26 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Sosamann",
+          "url": "https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "What About Me (feat. Sosamann)",
+      "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
-        "name": "Blinded",
-        "url": "https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
-      },
-      "artists": [
-        {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
+      "added_at": "2022-10-18 01:24:38",
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
       "added_at": "2022-10-10 07:12:22",
       "album": {
         "name": "Sixteen",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2022-10-10 07:12:22",
       "album": {
-        "name": "Gone 2 Long",
-        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
-      },
-      "artists": [
-        {
-          "name": "PRETTYMUCH",
-          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Gone 2 Long",
-      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+    },
+    {
+      "added_at": "2022-10-10 07:12:22",
+      "album": {
+        "name": "Gone 2 Long",
+        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
+      },
+      "artists": [
+        {
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Gone 2 Long",
+      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
     },
     {
       "added_at": "2022-10-10 07:12:22",
@@ -1715,22 +1731,6 @@
       "duration_ms": 173686,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
-    },
-    {
-      "added_at": "2022-10-10 07:12:22",
-      "album": {
-        "name": "Keep Me Up",
-        "url": "https://open.spotify.com/album/27CHocZopHED9uvae877j3"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 198359,
-      "name": "Keep Me Up",
-      "url": "https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

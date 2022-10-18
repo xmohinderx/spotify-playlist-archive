@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,743 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,824 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 64 | [Utican](https://open.spotify.com/track/2nlqFOnSp8TAqzi7KYnrRC) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 2:55 |
 | 65 | [Rock Holy](https://open.spotify.com/track/7ii6y3PzOTPLmbqWOJl1Vp) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Virgo Fool](https://open.spotify.com/album/1X34TSQvQtFYZTMXLUDTuN) | 3:41 |
 | 66 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
-| 67 | [You Can’t Go Home Again](https://open.spotify.com/track/7gQiRs2Zd88RnmE1q8XbZm) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Adam Garrett](https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p), [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 3:44 |
+| 67 | [You Can’t Go Home Again](https://open.spotify.com/track/0tCECn99kszv4FCzKQTOYH) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Adam Garrett](https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p), [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [All the Leaves Are Falling](https://open.spotify.com/album/7cT1OPLUhLX1IS74XLNNSM) | 3:44 |
 | 68 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
 | 69 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 70 | [New Birth in New England](https://open.spotify.com/track/1SmzAbt4g7a1FfAIwovtwq) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [C’est La Vie](https://open.spotify.com/album/2oqDbd9Hmbp6RinQQmZNWd) | 4:59 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDUwMjJmNzI3ZjhlZDQ1OTEzOGEyNTAzN2ZiODY0ODFh`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDU4MzM5M2VhMzNmNjcyYTMzN2VhYWJiZDNkMjZlMDg4`

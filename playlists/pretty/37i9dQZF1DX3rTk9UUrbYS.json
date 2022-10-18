@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 35707,
+  "num_followers": 35727,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGYwN2QyYTU3YzE2YTEwNTg2OWE4Nzc0ODE0Yzg0NjI0",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDY4NTFjNzE0YjY0MTUzNzIzOGJjNjg1YzIyNmUwMThk",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -95,22 +95,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Thembi",
-        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Kasumi",
         "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
       },
@@ -143,6 +127,38 @@
       "duration_ms": 736600,
       "name": "Refuge - Rudy Van Gelder Edition/1999 Remaster",
       "url": "https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Thembi",
+        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -199,22 +215,6 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
     },
     {
       "added_at": "2020-11-14 05:01:00",
@@ -409,20 +409,20 @@
       "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2021-10-01 04:02:00",
       "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+        "name": "Winns Win",
+        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
       },
       "artists": [
         {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Maps - Instrumental",
-      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+      "duration_ms": 200570,
+      "name": "WW1",
+      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -441,20 +441,20 @@
       "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Winns Win",
-        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
       },
       "artists": [
         {
-          "name": "Evan Parker",
-          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
         }
       ],
-      "duration_ms": 200570,
-      "name": "WW1",
-      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Translinear Light",
-        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
-      },
-      "artists": [
-        {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
-        }
-      ],
-      "duration_ms": 382693,
-      "name": "Crescent",
-      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
-    },
-    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Ars Transmutatoria Bleu",
@@ -667,18 +651,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Four For Trane",
-        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
+        "name": "Translinear Light",
+        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
       },
       "artists": [
         {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
         }
       ],
-      "duration_ms": 461626,
-      "name": "Mr. Syms",
-      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
+      "duration_ms": 382693,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -701,20 +685,20 @@
       "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "In The Moment (The Music of Charlie Haden)",
-        "url": "https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs"
+        "name": "Four For Trane",
+        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
       },
       "artists": [
         {
-          "name": "Rope",
-          "url": "https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO"
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
         }
       ],
-      "duration_ms": 214201,
-      "name": "Fiasco : In the Moment",
-      "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
+      "duration_ms": 461626,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -735,6 +719,22 @@
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
+    },
+    {
+      "added_at": "2021-12-03 05:02:00",
+      "album": {
+        "name": "In The Moment (The Music of Charlie Haden)",
+        "url": "https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs"
+      },
+      "artists": [
+        {
+          "name": "Rope",
+          "url": "https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO"
+        }
+      ],
+      "duration_ms": 214201,
+      "name": "Fiasco : In the Moment",
+      "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -805,6 +805,42 @@
       "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "After Fallen Leaves",
+        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
+      },
+      "artists": [
+        {
+          "name": "Roscoe Mitchell",
+          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
+        },
+        {
+          "name": "Brus Trio",
+          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
+        }
+      ],
+      "duration_ms": 291066,
+      "name": "And Then There Was Peace",
+      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Alexander Hawkins Trio",
+        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
+      },
+      "artists": [
+        {
+          "name": "Alexander Hawkins",
+          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
+        }
+      ],
+      "duration_ms": 329760,
+      "name": "One Tree Found",
+      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Lift Up My Eyes",
@@ -835,42 +871,6 @@
       "duration_ms": 417880,
       "name": "Lift Up My Eyes",
       "url": "https://open.spotify.com/track/6InYwlWA5QCUv71aYTMyZE"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Alexander Hawkins Trio",
-        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
-      },
-      "artists": [
-        {
-          "name": "Alexander Hawkins",
-          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
-        }
-      ],
-      "duration_ms": 329760,
-      "name": "One Tree Found",
-      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "After Fallen Leaves",
-        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
-      },
-      "artists": [
-        {
-          "name": "Roscoe Mitchell",
-          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
-        },
-        {
-          "name": "Brus Trio",
-          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
-        }
-      ],
-      "duration_ms": 291066,
-      "name": "And Then There Was Peace",
-      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -977,24 +977,20 @@
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2021-09-10 04:02:00",
       "album": {
-        "name": "Ljubljana",
-        "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
+        "name": "WW5",
+        "url": "https://open.spotify.com/album/0qVI7QwNJP1IyuOd3UplfI"
       },
       "artists": [
         {
-          "name": "Mats Gustafson",
-          "url": "https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u"
-        },
-        {
-          "name": "Craig Taborn",
-          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
         }
       ],
-      "duration_ms": 1224332,
-      "name": "The Eyes Moving. Slowly.",
-      "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
+      "duration_ms": 105358,
+      "name": "WW5",
+      "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
     }
   ],
   "unique_name": "Avant-Jazz",

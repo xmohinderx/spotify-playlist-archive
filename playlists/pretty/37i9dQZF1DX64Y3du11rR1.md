@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,294 likes - 110 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,537 likes - 110 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 8 | [Time After Time](https://open.spotify.com/track/1gcciAKMxnfM5wpiGmWMWe) | [Theresa Sokyrka](https://open.spotify.com/artist/2zAv7AJFf3oFv3OSYijDZV), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Time After Time](https://open.spotify.com/album/5nK2Jv9zFovAu7eu3SeeB2) | 3:48 |
 | 9 | [Chasing Cars](https://open.spotify.com/track/3JKLrIrHpbHtDU1oeYtbYD) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 4:06 |
 | 10 | [Say something \- Acoustic](https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:26 |
-| 11 | [To Build a Home](https://open.spotify.com/track/1mrvBZuZYxmYySuY1JY4Fa) | [Circumnavigate](https://open.spotify.com/artist/5K2y9FGdE8Kfwwa5wXB3o7) | [To Build a Home](https://open.spotify.com/album/0A0pfZMux8E6MQuqYhPZff) | 5:55 |
+| 11 | [To Build a Home](https://open.spotify.com/track/5JH1Rg7hoAdUIYNlx304hc) | [Circumnavigate](https://open.spotify.com/artist/5K2y9FGdE8Kfwwa5wXB3o7) | [To Build a Home](https://open.spotify.com/album/2XL7Qjr9XqC4ljSdFObUYT) | 5:55 |
 | 12 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
 | 13 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 14 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/5LuSu8fS8PGCH88EDPLYcy) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/7Hl0Vq5KSaX8o0yNYZCGm9) | 2:57 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 109 | [Believe](https://open.spotify.com/track/2xdQMKQ0ZO1O6WtAImKmYK) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Believe](https://open.spotify.com/album/69nguqg69B4l4CnSHlQpzJ) | 3:02 |
 | 110 | [Hold On](https://open.spotify.com/track/5oThkXHCsfOCd0nctEYL8c) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Hold On](https://open.spotify.com/album/4tzJY3rsAnBKkdsYwGg1eG) | 2:50 |
 
-Snapshot ID: `MTY2NTY1ODk2MiwwMDAwMDAwMGQ4YmVhYWYwMTcyNDIwODM4ZDdjNDVhMmQ3YmUzMmI1`
+Snapshot ID: `MTY2NTY1ODk2MiwwMDAwMDAwMGNmZjg3NzNkNWEwZmFmNzJlNDEwODMyZjVmYzI4NzM0`
