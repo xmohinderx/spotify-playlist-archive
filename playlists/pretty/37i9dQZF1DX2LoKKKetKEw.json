@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 12047,
+  "num_followers": 12148,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMGE4ZmM1OThmNTQ1MTk5OGViY2MzMzMxODNlYzY2ZGU0",
+  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMDBhYzBhMWZjN2FkOGZiOTc2ZDQ0YTdkMGQyMjBiZmYz",
   "tracks": [
     {
       "added_at": "2022-10-01 05:16:54",
@@ -703,6 +703,26 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
+        "name": "Oluwa",
+        "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "duration_ms": 160528,
+      "name": "Oluwa",
+      "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 224000,
       "name": "On God",
       "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
-        "name": "Oluwa",
-        "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        },
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        }
-      ],
-      "duration_ms": 160528,
-      "name": "Oluwa",
-      "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
-      },
-      "artists": [
-        {
-          "name": "Renzo BA",
-          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
-        },
-        {
-          "name": "Elikem Kofi",
-          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Keep You",
         "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 171333,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
+      },
+      "artists": [
+        {
+          "name": "Renzo BA",
+          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
+        },
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
     },
     {
       "added_at": "2022-10-01 05:16:54",

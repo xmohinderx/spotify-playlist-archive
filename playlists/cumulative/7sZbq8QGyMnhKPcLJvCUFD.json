@@ -928,6 +928,32 @@
     },
     {
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "ThatBehavior",
+          "url": "https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s"
+    },
+    {
+      "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc"
       },

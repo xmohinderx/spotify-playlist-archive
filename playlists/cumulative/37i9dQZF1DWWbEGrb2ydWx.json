@@ -575,7 +575,7 @@
     {
       "album": {
         "name": "In Pursuit",
-        "url": "https://open.spotify.com/album/60PGaCcO98DArFT0ElFnGc"
+        "url": "https://open.spotify.com/album/7uuM6lBa2sX6AoXECbIXTR"
       },
       "artists": [
         {
@@ -590,6 +590,28 @@
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 321234,
+      "name": "In Pursuit - Cop Envy Remix",
+      "url": "https://open.spotify.com/track/6TOfCBjiM08TRMHeOWS03V"
+    },
+    {
+      "album": {
+        "name": "In Pursuit",
+        "url": "https://open.spotify.com/album/60PGaCcO98DArFT0ElFnGc"
+      },
+      "artists": [
+        {
+          "name": "Dormir",
+          "url": "https://open.spotify.com/artist/6NeUtAR8dDb4RFlJgFhvHY"
+        },
+        {
+          "name": "Cop Envy",
+          "url": "https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 321234,
       "name": "In Pursuit - Cop Envy Remix",
       "url": "https://open.spotify.com/track/7eKjcdrG4huRp03nwhn3J0"
@@ -995,10 +1017,32 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 382015,
       "name": "The Click",
       "url": "https://open.spotify.com/track/32b1rOvVkump0ewcBsJgFu"
+    },
+    {
+      "album": {
+        "name": "The Click / Fallout",
+        "url": "https://open.spotify.com/album/6ifRXj7GTmeghO5Bdf7mZ2"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        },
+        {
+          "name": "Dark Sky",
+          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382015,
+      "name": "The Click",
+      "url": "https://open.spotify.com/track/5exQy7sHiO0vdOXBUthIMr"
     },
     {
       "album": {

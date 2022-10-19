@@ -609,7 +609,7 @@
     {
       "album": {
         "name": "On the Ropes",
-        "url": "https://open.spotify.com/album/33daQkvkB92gQPxu4O4ukC"
+        "url": "https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu"
       },
       "artists": [
         {
@@ -620,6 +620,24 @@
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 306909,
+      "name": "From Rusholme with Love",
+      "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
+    },
+    {
+      "album": {
+        "name": "On the Ropes",
+        "url": "https://open.spotify.com/album/33daQkvkB92gQPxu4O4ukC"
+      },
+      "artists": [
+        {
+          "name": "Mint Royale",
+          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 306909,
       "name": "From Rusholme with Love",
       "url": "https://open.spotify.com/track/4HWeiKfHdwn2hEgUQVfu2q"

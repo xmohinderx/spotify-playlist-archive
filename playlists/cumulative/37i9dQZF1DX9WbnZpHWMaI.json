@@ -741,10 +741,28 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 415289,
       "name": "Hundred Flowers Groove",
       "url": "https://open.spotify.com/track/4t28S5qmj4RwzEJFEz0HOL"
+    },
+    {
+      "album": {
+        "name": "Hundred Flowers",
+        "url": "https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q"
+      },
+      "artists": [
+        {
+          "name": "Ciel",
+          "url": "https://open.spotify.com/artist/55ik6uFrWcJCJWieLVkksl"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415289,
+      "name": "Hundred Flowers Groove",
+      "url": "https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J"
     },
     {
       "album": {

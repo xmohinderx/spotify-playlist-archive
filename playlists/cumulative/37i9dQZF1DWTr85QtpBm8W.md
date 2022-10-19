@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-103 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
+104 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 | 2022-08-17 |  |
 | [The Orchardist](https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:07 | 2022-08-17 |  |
 | [The Six Million Dollar Sandwich](https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 3:02 | 2022-08-09 |  |
-| [The Sun Is Scheduled to Come Out Tomorrow](https://open.spotify.com/track/08OiY4KLXsohk1HOVzJH5D) | [Chris Zabriskie](https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka) | [I Am a Man Who Will Fight for Your Honor](https://open.spotify.com/album/5FhTurkBSxWbfg1Y3LJPXx) | 7:04 | 2022-08-09 |  |
+| [The Sun Is Scheduled to Come Out Tomorrow](https://open.spotify.com/track/08OiY4KLXsohk1HOVzJH5D) | [Chris Zabriskie](https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka) | [I Am a Man Who Will Fight for Your Honor](https://open.spotify.com/album/5FhTurkBSxWbfg1Y3LJPXx) | 7:04 | 2022-08-09 | 2022-10-19 |
+| [The Sun Is Scheduled to Come Out Tomorrow](https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot) | [Chris Zabriskie](https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka) | [I Am a Man Who Will Fight for Your Honor](https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85) | 7:04 | 2022-10-04 |  |
 | [The Unfinished](https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 4:38 | 2022-08-09 |  |
 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 | 2022-08-09 |  |
 | [Thunderbird Road](https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 6:27 | 2022-08-09 |  |

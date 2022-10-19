@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-520 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+521 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Dream](https://open.spotify.com/track/0bZFa5DZcx9HWx25m2Nd19) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:34 | 2022-03-24 | 2022-04-21 |
 | [Dress](https://open.spotify.com/track/1JA0tPLWaGL7wuHcPcgT9T) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Dress](https://open.spotify.com/album/5qFDSMfDk1Uv9q7Meft0mQ) | 2:23 | 2022-03-17 | 2022-07-29 |
 | [Dress](https://open.spotify.com/track/26ORKiTdampbfuv4Zno5su) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:23 | 2022-07-07 | 2022-09-05 |
-| [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 | 2022-10-14 |  |
+| [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 | 2022-10-14 | 2022-10-19 |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2022-03-17 | 2022-07-26 |
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-24 | 2022-08-13 |
@@ -184,6 +184,7 @@
 | [Freedom \- Strings & Keys](https://open.spotify.com/track/7vrGA0eO9lmhNaEO0wgNxH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Strings & Keys](https://open.spotify.com/album/60ilpYIPOAmkm1QZ2KjnMO) | 5:39 | 2022-03-24 | 2022-04-20 |
 | [FRIDAY \(feat\. Trippie Redd\)](https://open.spotify.com/track/6IRtUdofXMANdsFYnJZ9WT) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [FRIDAY \(feat\. Trippie Redd\)](https://open.spotify.com/album/5uJnlGCJ1sXmB5vyEBKGn8) | 2:19 | 2022-03-17 | 2022-07-11 |
 | [From The Back of a Cab](https://open.spotify.com/track/240azm4eUSWi4hXU2MLCFM) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [From The Back of a Cab](https://open.spotify.com/album/1VOGrBNajNlZyctv9c9jk8) | 2:47 | 2022-03-24 | 2022-04-16 |
+| [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 |  |
 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 | 2022-03-17 | 2022-07-29 |
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2022-03-24 | 2022-05-15 |
 | [Gentle](https://open.spotify.com/track/5aDUmwN5qyztGEkY9al4FS) | [Havelin](https://open.spotify.com/artist/42kxHIYLflWcEAGkeKNHSp) | [Gentle](https://open.spotify.com/album/2HbK1N4gW6IuSj3x9eQXPt) | 3:03 | 2022-03-24 | 2022-04-14 |

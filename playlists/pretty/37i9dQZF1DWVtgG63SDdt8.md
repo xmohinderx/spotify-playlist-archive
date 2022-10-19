@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Allie Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,306 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,432 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 45 | [Harmonies & Worship](https://open.spotify.com/track/7oy5qv42ULwKdO6IUqbq1L) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Harmonies & Worship](https://open.spotify.com/album/0yHuq7mU0nQFlpiQtGCYJI) | 2:34 |
 | 46 | [No Drama](https://open.spotify.com/track/4eWFQwykaMszzxk39C2wps) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [No Drama](https://open.spotify.com/album/1gC208yDdOAwYclbZFxqLP) | 3:26 |
 | 47 | [I Did It](https://open.spotify.com/track/46WvgmhHE4OE3g4oDAVrex) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [F'rael](https://open.spotify.com/artist/1bjGUP5zjge68RaUaBSPvW), [Nino Salas](https://open.spotify.com/artist/1VEG5CVdjFpXLzDAs3sEhP) | [I Did It](https://open.spotify.com/album/0UO9j7kRuJF2I4MiEniHTb) | 3:12 |
-| 48 | [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/2J70i9c3qreFdguC8h90VH) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 |
+| 48 | [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 |
 | 49 | [Closer](https://open.spotify.com/track/0u1DrbKJTZjFatqh9qs47C) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Closer](https://open.spotify.com/album/32hA1fDTD9gVo70i02JIQa) | 2:44 |
 | 50 | [Off the Backboard](https://open.spotify.com/track/1g6tuWP8l6QyqvefovKRTE) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Off the Backboard](https://open.spotify.com/album/6bjrtax6VVPlyrHiBpfWFJ) | 2:02 |
 | 51 | [Free from Me](https://open.spotify.com/track/4Z7myyKEY9lUTi4b29Wqxb) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa), [Becca Wilson](https://open.spotify.com/artist/1QsLz7bHnX7T98D5QzaECR) | [Free from Me](https://open.spotify.com/album/3MRX77lsgIsa53XSy78Swu) | 3:42 |

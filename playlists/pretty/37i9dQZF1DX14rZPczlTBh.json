@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 26033,
+  "num_followers": 26044,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGZkYzExYTEyODBlOGU0ZTM0OWM3MTlkNGQ3MTQzMjAy",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDIwMzZiNzY3YzczZjhjZTBmNGUwN2RmODIyNzU1OWQx",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Yuva",
-        "url": "https://open.spotify.com/album/5U5RVTmAcY6BK39u5TWTa5"
-      },
-      "artists": [
-        {
-          "name": "A.R.Rehman, Sunitha Saradhi, Tanvi",
-          "url": "https://open.spotify.com/artist/2TEjETezkVzu9xdDM3A81l"
-        }
-      ],
-      "duration_ms": 274080,
-      "name": "Deham Thiri",
-      "url": "https://open.spotify.com/track/0870CqL7MYh5JsMEbCbWQy"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Businessman",
         "url": "https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 253700,
       "name": "Pilla Chao",
       "url": "https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Yuva",
+        "url": "https://open.spotify.com/album/5U5RVTmAcY6BK39u5TWTa5"
+      },
+      "artists": [
+        {
+          "name": "A.R.Rehman, Sunitha Saradhi, Tanvi",
+          "url": "https://open.spotify.com/artist/2TEjETezkVzu9xdDM3A81l"
+        }
+      ],
+      "duration_ms": 274080,
+      "name": "Deham Thiri",
+      "url": "https://open.spotify.com/track/0870CqL7MYh5JsMEbCbWQy"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Lovers Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4gUIECPXhyYSekLbAexlHK"
-      },
-      "artists": [
-        {
-          "name": "Dinakar",
-          "url": "https://open.spotify.com/artist/2g6YRAePxQ1H27zigqdtZH"
-        },
-        {
-          "name": "Neethu Naduvathettu",
-          "url": "https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs"
-        }
-      ],
-      "duration_ms": 198379,
-      "name": "Listen to Story - Freak Pilla",
-      "url": "https://open.spotify.com/track/3FslWKeri9zykXECz92NlL"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Jawaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 212822,
       "name": "Bomma Adirindhi",
       "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Lovers Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4gUIECPXhyYSekLbAexlHK"
+      },
+      "artists": [
+        {
+          "name": "Dinakar",
+          "url": "https://open.spotify.com/artist/2g6YRAePxQ1H27zigqdtZH"
+        },
+        {
+          "name": "Neethu Naduvathettu",
+          "url": "https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Listen to Story - Freak Pilla",
+      "url": "https://open.spotify.com/track/3FslWKeri9zykXECz92NlL"
     },
     {
       "added_at": "2021-06-24 14:44:57",

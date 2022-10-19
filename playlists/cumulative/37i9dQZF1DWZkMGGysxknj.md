@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-234 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+235 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-07-16 |  |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/4gQm0leB5zXLbAfqXWMhCp) | 3:31 | 2021-07-16 | 2022-09-09 |
 | [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 | 2021-07-16 |  |
+| [I'll Sleep When I'm Older](https://open.spotify.com/track/1NPW2NXMFicYNlIEoQRrht) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:40 | 2021-07-16 |  |
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1siqwUNydX8aQjUIVvJ6Pz) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:40 | 2021-07-16 | 2022-10-14 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2021-07-16 |  |
 | [If I Can't Have You](https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [If I Can't Have You](https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB) | 4:02 | 2021-07-16 |  |
@@ -215,7 +216,7 @@
 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 | 2021-07-16 |  |
 | [Tuyo](https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Tuyo](https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV) | 3:01 | 2021-07-16 |  |
 | [Un día lo encontré](https://open.spotify.com/track/3oUpoOrGSqMWXtDnZMBRtZ) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Un día lo encontré](https://open.spotify.com/album/4yw8y4WyyfYFYNeOa7ngog) | 3:00 | 2021-07-16 | 2022-07-29 |
-| [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 | 2021-07-16 |  |
+| [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 | 2021-07-16 | 2022-10-19 |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/0PjcBblfgbaeMrWNQ80SCb) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Un Día Planté una Rosa](https://open.spotify.com/album/1ZCvBLVlfrfhpPXWVHspQk) | 2:41 | 2021-07-16 | 2022-07-29 |
 | [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Una Forma de Energía Que Ilumina las Cosas](https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O) | 3:20 | 2021-07-16 | 2022-07-29 |
 | [Underground](https://open.spotify.com/track/7o6k7QXBptuHj0XWsatlQs) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Underground](https://open.spotify.com/album/1U1lAdEOPh4Zs5SKL8XvKS) | 2:58 | 2021-07-16 | 2022-07-29 |

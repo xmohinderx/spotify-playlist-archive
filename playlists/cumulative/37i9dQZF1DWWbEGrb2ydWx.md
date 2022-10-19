@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-61 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
+63 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Hit Control](https://open.spotify.com/track/7enFhLwS2vHQiGpohe3aHK) | [Sector Y](https://open.spotify.com/artist/51KJgr2RYMHiQq7UvKxErG) | [Sector Y](https://open.spotify.com/album/4HZVJ5paRux7rF3LxRKnDA) | 9:09 | 2022-03-01 |  |
 | [I Won't Forget](https://open.spotify.com/track/37lk3qgO3DYCoSpeJpp3KR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:33 | 2022-03-01 |  |
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2022-03-01 |  |
-| [In Pursuit \- Cop Envy Remix](https://open.spotify.com/track/7eKjcdrG4huRp03nwhn3J0) | [Dormir](https://open.spotify.com/artist/6NeUtAR8dDb4RFlJgFhvHY), [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [In Pursuit](https://open.spotify.com/album/60PGaCcO98DArFT0ElFnGc) | 5:21 | 2022-03-01 |  |
+| [In Pursuit \- Cop Envy Remix](https://open.spotify.com/track/6TOfCBjiM08TRMHeOWS03V) | [Dormir](https://open.spotify.com/artist/6NeUtAR8dDb4RFlJgFhvHY), [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [In Pursuit](https://open.spotify.com/album/7uuM6lBa2sX6AoXECbIXTR) | 5:21 | 2022-03-01 |  |
+| [In Pursuit \- Cop Envy Remix](https://open.spotify.com/track/7eKjcdrG4huRp03nwhn3J0) | [Dormir](https://open.spotify.com/artist/6NeUtAR8dDb4RFlJgFhvHY), [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [In Pursuit](https://open.spotify.com/album/60PGaCcO98DArFT0ElFnGc) | 5:21 | 2022-03-01 | 2022-10-19 |
 | [It's So Different Here](https://open.spotify.com/track/3sn7rUTrSl6kbxYyBGopWr) | [Rachel Sweet](https://open.spotify.com/artist/3E8iIu6yKztcuEHrKFBNMS) | [Fool Around](https://open.spotify.com/album/0sKjovgkj2IdErxyM3gsjI) | 2:50 | 2022-03-01 |  |
 | [J&W Beat](https://open.spotify.com/track/3ulYmElxqeXxo8TaezKciy) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [J&W Beat](https://open.spotify.com/album/2DFU3nz0jrhjY0Vj2aJA37) | 6:03 | 2022-03-01 |  |
 | [J.W\. on a Good Night](https://open.spotify.com/track/5ftI5jeqgxBMAFVVpK0ApJ) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw) | [DAT Music 2](https://open.spotify.com/album/6QoY08xZUGGVzI95yI6l7i) | 5:43 | 2022-03-01 |  |
@@ -56,7 +57,8 @@
 | [Shake The Room \(feat\. Quavo\)](https://open.spotify.com/track/5Ar2IdS42hvVwV7EhflI8b) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 2:45 | 2022-03-01 |  |
 | [sparko](https://open.spotify.com/track/6SqxjFzb0cvtWyEE3elRj3) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Herron](https://open.spotify.com/artist/1bpUoSimXPBJ4ynN4mDOeh) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:15 | 2022-03-01 |  |
 | [Starlight \- Original Mix](https://open.spotify.com/track/7pwA0lkUxRVUmwp8BzZsAZ) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 6:19 | 2022-03-01 |  |
-| [The Click](https://open.spotify.com/track/32b1rOvVkump0ewcBsJgFu) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/7d03UClkrbbMOsKAWpDkjh) | 6:22 | 2022-03-01 |  |
+| [The Click](https://open.spotify.com/track/32b1rOvVkump0ewcBsJgFu) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/7d03UClkrbbMOsKAWpDkjh) | 6:22 | 2022-03-01 | 2022-10-19 |
+| [The Click](https://open.spotify.com/track/5exQy7sHiO0vdOXBUthIMr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/6ifRXj7GTmeghO5Bdf7mZ2) | 6:22 | 2022-03-01 |  |
 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2022-03-01 |  |
 | [The Way](https://open.spotify.com/track/319WGqfBViMHQZx8IS5bmv) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [The Way](https://open.spotify.com/album/2ZKbkTT2jeH8zvMapy8sTT) | 4:19 | 2022-03-01 |  |
 | [This Is For You](https://open.spotify.com/track/2OevY7Yt9Lsb1V3WCbAgD7) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz), [Maurissa Rose](https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1) | [Wuddaji](https://open.spotify.com/album/3U3U9BOpEcgFHxcMuoR52Q) | 10:26 | 2022-03-01 |  |

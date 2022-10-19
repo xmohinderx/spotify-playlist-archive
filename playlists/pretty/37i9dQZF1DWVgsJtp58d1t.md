@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Stormy, Willow, YoungBoy Never Broke Again, Joeboy, Phabo, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,593 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,647 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 28 | [Not My N\*gga](https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga](https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z) | 2:07 |
 | 29 | [FLINT WATER](https://open.spotify.com/track/25hXRDHi4j6JDGEV5ljwBS) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [FLINT WATER](https://open.spotify.com/album/7zEod4kPiwhHHjHwnl0JGF) | 3:21 |
 | 30 | [Don't Talk Back](https://open.spotify.com/track/5EJIO6tILUWmqfegqsbm9U) | [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Don't Talk Back](https://open.spotify.com/album/3Av2J3FAPUbWrRyLz0Rhx5) | 2:12 |
-| 31 | [Only Love](https://open.spotify.com/track/6RfIR5hQTyHWrQYbDzhtfs) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/0E0ZVILGRfM9yU2aJwnk6E) | 2:47 |
+| 31 | [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 |
 | 32 | [Recognize](https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Recognize](https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx) | 3:13 |
 | 33 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 |
 | 34 | [TURKEY](https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc) | [Tate Kobang](https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI) | [TURKEY](https://open.spotify.com/album/2zhIdoLAGJazYWy2vhkDaI) | 1:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Kater To Me](https://open.spotify.com/track/68rPaGR2BdRzIiCM1ipzgP) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Kater To Me](https://open.spotify.com/album/7KLGjJFMjyGK2eFOcymZ6j) | 3:04 |
 | 100 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDgyN2ZlNjc4ZmQ1NGJkYTQ0YzUwZDVkZjhmOGE5NTA4`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDEzMGFkMzk4ZDMxMDhiZjQ3NmEzNTRkNjQ3Njk5NDU1`

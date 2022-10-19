@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,310 likes - 112 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,401 likes - 112 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 20 | [Homesick](https://open.spotify.com/track/1KAjfOhwtBDkhhGhDH27Z0) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Homesick](https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1) | 2:16 |
 | 21 | [Free](https://open.spotify.com/track/4Gy64kPK6SVwKdb4rs1emJ) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4) | [Anxiety Relief](https://open.spotify.com/album/5XF1VUAdmwVLiFHLh2892C) | 2:23 |
 | 22 | [Dependent](https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Dependent](https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny) | 3:12 |
-| 23 | [this world is sick](https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt) | 2:19 |
+| 23 | [this world is sick](https://open.spotify.com/track/7c4ut2xl3z0x0WKC4PpTow) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2rvipmrgDLEirqK0gaZJAO) | 2:19 |
 | 24 | [Name Of The Call](https://open.spotify.com/track/1uAvCdU0SqENVeE7YychPF) | [Severard](https://open.spotify.com/artist/6vjU9QfC9H7ZvCrve6fC0E) | [Name Of The Call](https://open.spotify.com/album/4n0A10P0pDw8bIHED77Xfn) | 4:03 |
 | 25 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 |
 | 26 | [ky…](https://open.spotify.com/track/4TeLhuy4azWCIPukGxcIMH) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ) | [ky...](https://open.spotify.com/album/05ecT5mO3afjHkDb48tu1N) | 2:25 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 111 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 |
 | 112 | [Iridescent Path](https://open.spotify.com/track/4tHjZx4Z77XSC64Zhai6MG) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Somnolent](https://open.spotify.com/album/7mtYE21I5eKozv4spdgauR) | 5:51 |
 
-Snapshot ID: `MTY2NTc2Mjc5MiwwMDAwMDAwMGE5NTE1YTU2ZTA4OGZjNzhlYTYwNzM0MjMwNjc3M2Nm`
+Snapshot ID: `MTY2NTc2Mjc5MiwwMDAwMDAwMGFkMWFhM2ZlZmI2ZTIzMTExMTU0MmJjMDM0ZjZhZjNl`

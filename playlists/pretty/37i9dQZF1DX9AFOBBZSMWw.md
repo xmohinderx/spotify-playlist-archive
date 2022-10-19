@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,728 likes - 68 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,907 likes - 68 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 39 | [Standard](https://open.spotify.com/track/0DlxjLdl9yjCIzww4vfZ6z) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Standard](https://open.spotify.com/album/667t938rEhwHaUHZkEE557) | 3:29 |
 | 40 | [Lay Me Bare](https://open.spotify.com/track/74VYXs1E4G8IN8upYqG4Ek) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 5:04 |
 | 41 | [And Dat \(Ft\. Stormzy\)](https://open.spotify.com/track/46QcroVZAqUfqLmGs70OYt) | [Bonkaz](https://open.spotify.com/artist/7JxnnwPLTjVyHHruCMpcJQ), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mixtape of the Year](https://open.spotify.com/album/7rZy4FrRwRwzoAzePdjZdx) | 3:15 |
-| 42 | [Been the Man](https://open.spotify.com/track/36I3sETuZvd4dhQzBVIcnw) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Junk Food](https://open.spotify.com/album/1vPy7x9tSLmmBxvG1E1wsu) | 3:56 |
+| 42 | [Been the Man](https://open.spotify.com/track/7r7g5NZ0kMHJ4zaIOXwYNq) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Junk Food](https://open.spotify.com/album/4xQ3ZqHl9KGnfekxGGN1q5) | 3:56 |
 | 43 | [BrOTHERHOOD](https://open.spotify.com/track/5QhvfTokhgCYqGsqqXQGXs) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BrOTHERHOOD \(Original Soundtrack\)](https://open.spotify.com/album/0mToRFAGZMuEgx7Tg0M5Dh) | 2:21 |
 | 44 | [Dude](https://open.spotify.com/track/4DLEvfk4CixDarTMn1Cn2B) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Dude](https://open.spotify.com/album/5C3o0lN9q3SL5aR4b6Wf3M) | 3:43 |
 | 45 | [Lex Luther](https://open.spotify.com/track/5EcZqAqBW6gsL7QvHjAFwK) | [Mez](https://open.spotify.com/artist/5s55TVffEjZbMXd6pwqo8V), [DaVinChe](https://open.spotify.com/artist/3ioAxZ3934Ju4KYyxPvIa1), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Grime 2016](https://open.spotify.com/album/5PABUQID3hpBnJPF6FJGPH) | 3:15 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 67 | [Look Like \(feat\. JMC, Jadakiss & Stormzy\)](https://open.spotify.com/track/57CtjJsx9jwTQDiO4ShMAe) | [Charlie Sloth](https://open.spotify.com/artist/3ICo3DF8pXFJEdzph2b6gh), [JMC](https://open.spotify.com/artist/33R5xZXaJcXP5TXA3tydgO), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [The Plug](https://open.spotify.com/album/2QzCZabgxczZat17TC4x52) | 3:50 |
 | 68 | [Chains \- Stormzy Remix](https://open.spotify.com/track/3IgShuJaI7JUFK3A0ncjJf) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Chains](https://open.spotify.com/album/1gs9NA48hWHDS35qVOonZi) | 3:49 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDlkNzM3YzlhMjBjZjYyMjg2MGE0Njc1MGUwNjMyMGQ0`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDBkODM1MTExMGI2OWQyZDQzMmJkNWQ3ODNiNTYzYmM2`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1SOULFIA y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9541,
+  "num_followers": 9584,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDAwZDQxMWE5MTYwMGNkYzM1MTUzNzI2ZWUzYzIzYzU2",
+  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDNlYzc3ZDRiZTRiNTZhOGI4MTEyYWY1YWIzMTBhZDEy",
   "tracks": [
     {
       "added_at": "2022-10-05 03:01:00",
@@ -515,30 +515,26 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Las Mafiosas - Four Elements",
-        "url": "https://open.spotify.com/album/0a1GLnrZ2NmnUbdxZjYNkw"
+        "name": "Chao",
+        "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
       "artists": [
         {
-          "name": "VaniaJoplin",
-          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         },
         {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
         },
         {
-          "name": "Dainesitta",
-          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
-        },
-        {
-          "name": "anto",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
         }
       ],
-      "duration_ms": 210645,
-      "name": "Las Mafiosas - Four Elements",
-      "url": "https://open.spotify.com/track/5n0sH7dWuPsUEDi4VsBVKe"
+      "duration_ms": 250208,
+      "name": "Me Atrapo",
+      "url": "https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -563,26 +559,30 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Chao",
-        "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
+        "name": "Las Mafiosas - Four Elements",
+        "url": "https://open.spotify.com/album/0a1GLnrZ2NmnUbdxZjYNkw"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
         },
         {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
         },
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+        },
+        {
+          "name": "anto",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
         }
       ],
-      "duration_ms": 250208,
-      "name": "Me Atrapo",
-      "url": "https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy"
+      "duration_ms": 210645,
+      "name": "Las Mafiosas - Four Elements",
+      "url": "https://open.spotify.com/track/5n0sH7dWuPsUEDi4VsBVKe"
     },
     {
       "added_at": "2022-10-05 03:01:00",

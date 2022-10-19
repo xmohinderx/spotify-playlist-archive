@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-1,027 songs - 2 day 7 hr 12 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
+1,028 songs - 2 day 7 hr 15 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,8 @@
 | [Miss You](https://open.spotify.com/track/4VgSGm7CroAlCCt9GKQ75Z) | [Jérémie Makiese](https://open.spotify.com/artist/6VCBinAerlvZxvXSHAFVuq) | [Miss You](https://open.spotify.com/album/65zDaQ8wTT3GptmsF98fXs) | 2:53 | 2022-05-16 | 2022-05-20 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-09-27 |  |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-09-14 |  |
-| [Miss You \- Sped Up Version](https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ) | 2:50 | 2022-10-16 |  |
+| [Miss You \- Sped Up Version](https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT) | 2:50 | 2022-10-18 |  |
+| [Miss You \- Sped Up Version](https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ) | 2:50 | 2022-10-16 | 2022-10-19 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-30 | 2021-12-27 |
 | [Mne Malo Malo Malo Tebya](https://open.spotify.com/track/3ZeDDM3zFJKys5ggFeZsIV) | [dlx](https://open.spotify.com/artist/3vBfm8ucCybSsPvWUiQzDV) | [Mne Malo Malo Malo Tebya](https://open.spotify.com/album/2DD90QZlB2XTRG32hk81AK) | 2:44 | 2022-03-18 | 2022-03-22 |
 | [Mne Malo Malo Malo Tebya](https://open.spotify.com/track/7Eus5RKz9GrXUH6Del6wKC) | [ilkekw](https://open.spotify.com/artist/6fNfb8PmYtYq6zKsU5ahyF), [Dupzi](https://open.spotify.com/artist/3vG6XgS9wQ3J0CyO8nKION) | [Mne Malo Malo Malo Tebya](https://open.spotify.com/album/08nHEEFvfuvb2JBQvxEeMM) | 2:44 | 2022-02-24 | 2022-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,419 likes - 78 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,639 likes - 78 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

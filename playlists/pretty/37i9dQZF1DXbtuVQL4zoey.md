@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,514 likes - 288 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,546 likes - 288 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 76 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 |
 | 77 | [Journey](https://open.spotify.com/track/0EFgBCfmXaGqYEtEKKlUR5) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Journey](https://open.spotify.com/album/0DRxb6GXinHFR02rYbR9D8) | 2:20 |
 | 78 | [Sailing](https://open.spotify.com/track/158kdVojsERlt5hDZrHbKX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Sailing](https://open.spotify.com/album/3wdZ8ic22gGUwMzAk3ilke) | 2:27 |
-| 79 | [Fruit Salad](https://open.spotify.com/track/6IfPYRbW6tJyCf2qtPBciO) | [Homieunculus](https://open.spotify.com/artist/1GatEEXyG5qwbpXsvhdrd0), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [Fruit Salad](https://open.spotify.com/album/6k2MizJJrsgrr3SJT8M85z) | 2:42 |
+| 79 | [Fruit Salad](https://open.spotify.com/track/6IfPYRbW6tJyCf2qtPBciO) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [Fruit Salad](https://open.spotify.com/album/6k2MizJJrsgrr3SJT8M85z) | 2:42 |
 | 80 | [Da Roberta](https://open.spotify.com/track/5PSCnbrMwcLmal3eAIW0GB) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Da Roberta](https://open.spotify.com/album/2ORUYbFLMK8jLF9EBJgfNP) | 2:24 |
 | 81 | [feeling tropical](https://open.spotify.com/track/7Gob0f79Tu0ZmguwVXhMHP) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [feeling tropical](https://open.spotify.com/album/1jsJNt80DVzl4dKWcz5HqL) | 2:09 |
 | 82 | [Bossin](https://open.spotify.com/track/75vajuZ3iErkeKUG8uXjlt) | [ombinate](https://open.spotify.com/artist/6KuoBtG1drbXBIdkbloqEP) | [Bossin](https://open.spotify.com/album/4RgcrXdEsWl9c6jbgor8F4) | 2:25 |

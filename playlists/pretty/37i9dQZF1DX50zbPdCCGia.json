@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 155437,
+  "num_followers": 155574,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMDk1OWZmYTA1ZmU1NjA2ZTlkZTdiYzI5MTg0ZDQ3OGVm",
+  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMDUwYWQzMDc0YzdkMTE3MjhiZjMxY2I4ZDRlNjgzZjE0",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu"
     },
     {
-      "added_at": "2022-01-05 10:28:59",
-      "album": {
-        "name": "Jack Rabbit Slim",
-        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
-      },
-      "artists": [
-        {
-          "name": "Steve Forbert",
-          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
-        }
-      ],
-      "duration_ms": 212471,
-      "name": "Romeo's Tune",
-      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
-    },
-    {
       "added_at": "2021-11-23 12:34:50",
       "album": {
         "name": "Loaded: Re-Loaded 45th Anniversary Edition",
@@ -1067,6 +1051,22 @@
       "duration_ms": 445186,
       "name": "Oh! Sweet Nuthin' - 2015 Remaster",
       "url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
+    },
+    {
+      "added_at": "2022-01-05 10:28:59",
+      "album": {
+        "name": "Jack Rabbit Slim",
+        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
+      },
+      "artists": [
+        {
+          "name": "Steve Forbert",
+          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
+        }
+      ],
+      "duration_ms": 212471,
+      "name": "Romeo's Tune",
+      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
     },
     {
       "added_at": "2021-11-23 12:54:05",

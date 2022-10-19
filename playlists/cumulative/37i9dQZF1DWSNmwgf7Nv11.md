@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-250 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+251 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Ballad Of A Thin Place](https://open.spotify.com/track/0VkMYMMccsX2fE4BRLiSiD) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/7Fdr6rpnrWE6GsMzIyPh0g) | 4:16 | 2022-02-25 |  |
 | [Ballad Of A Thin Place](https://open.spotify.com/track/3Cc71VdFO7dJUXxxmx2OCl) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/4zZ8LQ2Pin7He38D53XvzQ) | 4:16 | 2021-07-30 | 2022-07-29 |
 | [Bare](https://open.spotify.com/track/0Lg7CTyeg8Zviv6HYFg2kM) | [Amber Maya](https://open.spotify.com/artist/3jPSmQEwdBu8xw5WoiFmEU) | [Bare](https://open.spotify.com/album/4pVpKIqbJrPgWrb2gagfR0) | 3:53 | 2021-07-30 | 2022-02-26 |
-| [Beautiful Life](https://open.spotify.com/track/4nNc2bR3D0wKjQTOPVkWLs) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/10lYRcf8EiT52FUjPcHtXP) | 3:25 | 2021-07-30 |  |
+| [Beautiful Life](https://open.spotify.com/track/4nNc2bR3D0wKjQTOPVkWLs) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/10lYRcf8EiT52FUjPcHtXP) | 3:25 | 2021-07-30 | 2022-10-19 |
+| [Beautiful Life](https://open.spotify.com/track/666DrrZIVtsiU4s6rJTWJv) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/1jitYySWCcbp56AMJTkosi) | 3:25 | 2022-02-25 |  |
 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 | 2021-07-30 | 2022-07-29 |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2022-02-25 |  |
 | [Believe](https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Freedom](https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW) | 5:46 | 2022-02-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,189 likes - 140 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,439 likes - 140 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 84 | [Bumps in the Night](https://open.spotify.com/track/5JzhuMnBiO3GEG7dZ5RVIK) | [KB Whirly](https://open.spotify.com/artist/7B2JoMPGHMLWXKfuhLa892) | [Bumps in the Night](https://open.spotify.com/album/22T70YwMgTaTl9saldJGDO) | 2:36 |
 | 85 | [The Munsters Theme](https://open.spotify.com/track/1HAzaGNVyyMYVtmykjfNX9) | [The Great TV Crew](https://open.spotify.com/artist/5rqKH0wSGQc4DAZXjXCIvY) | [The Greatest Tv Show Themes](https://open.spotify.com/album/4c2EFeXdKNzRuQmdRC9Cax) | 1:17 |
 | 86 | [Trick or Treat Song](https://open.spotify.com/track/6adE2NIEXvLmIntPc4Rnce) | [The Singing Walrus](https://open.spotify.com/artist/3L5oCwlVHuB94ltjdUbQMi) | [Halloween Song Collection, Vol\. 1](https://open.spotify.com/album/7frT4iiTOzaILQjsJRIJGw) | 2:36 |
-| 87 | [Halloween Night](https://open.spotify.com/track/10HzJHG4qFRAcxxQWOAlTg) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/6wRmojz3wzGxq6nbbntwZS) | 2:18 |
+| 87 | [Halloween Night](https://open.spotify.com/track/7FRaszW7wMNkVwZztGansN) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/1nLJKyLcltqRpexKUN43tz) | 2:17 |
 | 88 | [Costume Party](https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 4:25 |
 | 89 | [Scooby Doo, Where Are You?](https://open.spotify.com/track/025WXPwOkWZWuEztMQonuu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 2:09 |
 | 90 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 139 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 | 140 | [Scooby Doo, Where Are You?](https://open.spotify.com/track/4tHL2ARKN75Romnwr6nWiH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 1:40 |
 
-Snapshot ID: `MTY2NTQ5MDk1NCwwMDAwMDAwMDQ3MzFmZTg0MmZiYzVlZjRlMmI2NzQ1NGMyZjAyZTM2`
+Snapshot ID: `MTY2NTQ5MDk1NCwwMDAwMDAwMGE0NTJjMjllYjRmMDE0MGIwOThlOGM5NzIwMTkyZTRj`

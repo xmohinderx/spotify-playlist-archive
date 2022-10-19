@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 51984,
+  "num_followers": 52029,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMDA1MmI0ZmVmOWI4MWVhZWE2MjNkMWY5NzAxZmE0Nzhl",
+  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMGI3NDZkNmZhMGExNDk4Mzk0MDk3YmJlNzg5NDMxZDlj",
   "tracks": [
     {
       "added_at": "2022-09-23 20:11:17",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh"
-      },
-      "artists": [
-        {
-          "name": "Karen Polinesia",
-          "url": "https://open.spotify.com/artist/1sl6PdP9LqFUWmrt7bV23E"
-        },
-        {
-          "name": "Los Polinesios",
-          "url": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl"
-    },
-    {
-      "added_at": "2022-09-23 20:11:17",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 222200,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg"
+    },
+    {
+      "added_at": "2022-09-23 20:11:17",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh"
+      },
+      "artists": [
+        {
+          "name": "Karen Polinesia",
+          "url": "https://open.spotify.com/artist/1sl6PdP9LqFUWmrt7bV23E"
+        },
+        {
+          "name": "Los Polinesios",
+          "url": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl"
     },
     {
       "added_at": "2022-09-23 20:11:17",

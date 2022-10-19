@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-200 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+201 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 |  |
 | [Freefalling](https://open.spotify.com/track/3rO1nOn3RTpDTkop8lCeY0) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Freefalling](https://open.spotify.com/album/0nBHpS95DU0znkctgMQ4Ty) | 2:33 | 2022-02-03 | 2022-09-15 |
 | [Game Over](https://open.spotify.com/track/1I7JfiqLXlKJN3FRBBdcSz) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [Game Over](https://open.spotify.com/album/07EtgZaV0yshfe6Q3P6vKL) | 4:08 | 2022-02-03 |  |
+| [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-18 |  |
 | [Give Up On You](https://open.spotify.com/track/1Ju1JMsx9zmVxAHYnt7Iv9) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Give Up On You](https://open.spotify.com/album/3fWEMGfQhcEp7rm0A2V5Ni) | 2:35 | 2022-02-03 | 2022-09-15 |
 | [Gravity](https://open.spotify.com/track/5rz7AN785YRvMctnkqaawn) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Gravity](https://open.spotify.com/album/6BBRX0hnu6rjmrR3brUPhi) | 3:27 | 2022-02-03 | 2022-09-15 |
 | [Hardwired](https://open.spotify.com/track/3VajuLxTdiugx8bbSJfW3s) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Hardwired](https://open.spotify.com/album/6i4voLsQw51FbdxdjAbA7n) | 5:02 | 2022-02-03 | 2022-09-15 |

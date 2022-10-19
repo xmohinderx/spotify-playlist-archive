@@ -4,12 +4,12 @@
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-106 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5ufXqYS0T25L5OxhQmfhoU)
+107 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/5ufXqYS0T25L5OxhQmfhoU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1979 It's Dancing Time \(Full Length Album Mix\)](https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P) | [Revanche](https://open.spotify.com/artist/2JhFT8njG4DcTuLQAo0Bi9) | [Music Man](https://open.spotify.com/album/2uo8Z48H5MLZEok6e01JQ8) | 8:39 | 2022-05-17 | 2022-07-27 |
-| [24 Hours a Day](https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN) | [Barbara Pennington](https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:12 | 2022-05-17 |  |
+| [24 Hours a Day](https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN) | [Barbara Pennington](https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:12 | 2022-05-17 | 2022-10-19 |
 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 | 2022-05-17 |  |
 | [Ai No Corrida](https://open.spotify.com/track/40ajOocKCulUQ4EsqGgU57) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/7IDq3nYy4yEhd2ob3ydXOu) | 6:26 | 2022-05-17 | 2022-07-29 |
 | [Ai No Corrida](https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Charles May](https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 6:26 | 2022-07-15 |  |
@@ -53,6 +53,7 @@
 | [If You Could Read My Mind](https://open.spotify.com/track/009bHl93A8kHlbDJLjkqHV) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [Disco Town](https://open.spotify.com/album/5V85BzpisFxZyK5bhlUZei) | 3:24 | 2022-05-17 | 2022-07-28 |
 | [If You Could Read My Mind](https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z) | 5:35 | 2022-05-17 | 2022-09-13 |
 | [If You Could Read My Mind \- Studio 54](https://open.spotify.com/track/6MVRSthLVJ9KHffbIngIUf) | [The Oscar Hollywood Films](https://open.spotify.com/artist/3eJjmSyANG0ZoJzVvKQO60) | [Estrenos De Cine Vol.2](https://open.spotify.com/album/3INlqEP71qu66PAZjA6U3O) | 3:29 | 2022-07-15 | 2022-09-13 |
+| [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 | 2022-09-12 |  |
 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 | 2022-05-17 |  |
 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 | 2022-05-17 |  |
 | [It's a Better Than Good Time](https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 5:46 | 2022-05-17 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,824 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,916 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 146 | [On the Radio](https://open.spotify.com/track/33uOm4KiN69SEZ4k2sKMu0) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Mutual Horse](https://open.spotify.com/album/77NBjLz7WofTazhriPT3X2) | 4:07 |
 | 147 | [Thorn in Your Side](https://open.spotify.com/track/7hp6kYxCzhKWFWJAVcjW0c) | [Mark Harding](https://open.spotify.com/artist/5MP9icTG77f2pjI8ZXlcPI) | [Thorn in Your Side](https://open.spotify.com/album/6NpoLHz7tx6MSqArSedTSP) | 3:37 |
 | 148 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
-| 149 | [Beautiful Life](https://open.spotify.com/track/4nNc2bR3D0wKjQTOPVkWLs) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/10lYRcf8EiT52FUjPcHtXP) | 3:25 |
+| 149 | [Beautiful Life](https://open.spotify.com/track/666DrrZIVtsiU4s6rJTWJv) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/1jitYySWCcbp56AMJTkosi) | 3:25 |
 | 150 | [Belong](https://open.spotify.com/track/0Dv5ygyhMWCuHZBl7d8fdV) | [Samuel R\. Saffery](https://open.spotify.com/artist/48CwlHHMcLLsgGRKoLbQc3) | [Belong](https://open.spotify.com/album/4jIP2IEDx0erZE5A04ZUjj) | 3:52 |
 | 151 | [Almost Mine](https://open.spotify.com/track/7BbtwLVN2ZRGXnMWnQN4LF) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Almost Mine](https://open.spotify.com/album/7GSm6Uh9Ke3OsHuvHy1ij5) | 4:00 |
 | 152 | [Inside](https://open.spotify.com/track/1ZRivsfAsOZHnQsYvu8YS2) | [The Jepettos](https://open.spotify.com/artist/35o58Gfmj3W9t641sufYep) | [They Don't Make Them Better Than You](https://open.spotify.com/album/0nMkjKI2aesmdU4l5EBdRN) | 3:44 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDU4MzM5M2VhMzNmNjcyYTMzN2VhYWJiZDNkMjZlMDg4`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDJkOWMyMmVmYTU1MTMxN2I0YTdjZDYwYjRiZTljOTgw`

@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-295 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+296 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [escape](https://open.spotify.com/track/5RIQAscyytbIzWpkB1G7mt) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [escape](https://open.spotify.com/album/6Socr2o1jPF3u5sDkoSdsY) | 3:44 | 2022-01-07 | 2022-09-13 |
 | [escape](https://open.spotify.com/track/7BN0NHDHYkfACPK4OTwqv6) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [escape](https://open.spotify.com/album/2l4Obrxe2uaLuCXb5WzHbg) | 3:44 | 2022-09-02 |  |
 | [Eternal](https://open.spotify.com/track/5IPNnqPAvdVEcYanVKihca) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Eternal](https://open.spotify.com/album/5LB31xPvUGvNI4EqqjXvtA) | 3:33 | 2022-01-07 |  |
-| [Euphoria Engine](https://open.spotify.com/track/2Ptn9lZlYbWXfpiJllzleH) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Euphoria Engine](https://open.spotify.com/album/29a1h5zxbINlqQuDIwl6rU) | 3:51 | 2022-08-26 |  |
+| [Euphoria Engine](https://open.spotify.com/track/2Ptn9lZlYbWXfpiJllzleH) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Euphoria Engine](https://open.spotify.com/album/29a1h5zxbINlqQuDIwl6rU) | 3:51 | 2022-08-26 | 2022-10-19 |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-07-14 |  |
 | [Étoiles \(feat\. Metaroom\)](https://open.spotify.com/track/6qXTdes7Qnh62CsxVCZNIV) | [Daisy Mortem](https://open.spotify.com/artist/2MFEVmsXyYaQg04mQLgZEA), [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Étoiles \(feat\. Metaroom\)](https://open.spotify.com/album/1hHMsitIWzDzPwX3K1lfcV) | 3:25 | 2022-01-07 | 2022-07-27 |
 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 | 2022-03-11 |  |
@@ -300,6 +300,7 @@
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-07-29 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2022-01-07 | 2022-10-15 |
 | [☆](https://open.spotify.com/track/062TR63pH6hFer4xsx0935) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rwP6eKGSsdQ0Zr69phC99) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 2:59 | 2022-01-07 | 2022-10-13 |
+| [☆](https://open.spotify.com/track/6MGnaGtsUmux3guQvPBYnW) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rUBhGA0FoixfR570fAzKt) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 2:59 | 2022-10-07 |  |
 | [にんじゃりばんばん \- Steve Aoki Remix](https://open.spotify.com/track/63zI1T8oiM3bUsXHPvqCrM) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [にんじゃりばんばん \(Steve Aoki Remix\)](https://open.spotify.com/album/4T21ATsOd8A4wYDnCIZ9LR) | 3:36 | 2022-03-11 | 2022-04-21 |
 | [キャンディーレーサー](https://open.spotify.com/track/5cuUSmIc2HBNFKgzlJ2QBX) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [キャンディーレーサー](https://open.spotify.com/album/1OxcfvSkYw5pD8Lv6zq5rf) | 5:06 | 2022-03-11 | 2022-07-06 |
 | [グラニュー](https://open.spotify.com/track/489ulqGuQZjEWV11AbxEcB) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [泳ぐ真似](https://open.spotify.com/album/1yHZMetH0ASfmHgMJi3bLs) | 2:02 | 2022-07-14 | 2022-07-29 |

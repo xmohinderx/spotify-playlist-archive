@@ -1,15 +1,47 @@
 {
   "description": "H\u00e5ll det 100.",
-  "num_followers": 265006,
+  "num_followers": 265039,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDVlYzM1ZDhjMjk0NmFhMTE1NGFmY2EwZmY1MmZhMDM4",
+  "snapshot_id": "MTY2NjEzNjU1NCwwMDAwMDAwMDUzMmM4MjBlZDNkODMwNjg2ZDFjNDkwMGZiZGYwOTkw",
   "tracks": [
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/73Rhi1qW9fhKgYi7Tnf3AE"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/1lfZHJvOACgkH2ErrMjc9G"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "The Only Wan (Deluxe)",
+        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "UNDER TIDEN 3",
         "url": "https://open.spotify.com/album/2EF6zvkYnHdJF2pEet0vuw"
@@ -25,59 +57,7 @@
       "url": "https://open.spotify.com/track/6rDawF724WdHlVa52BGANS"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "The Only Wan (Deluxe)",
-        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 206243,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Tappat - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 150543,
-      "name": "Tappat - Spotify Singles",
-      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ"
-      },
-      "artists": [
-        {
-          "name": "Denz",
-          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
-        },
-        {
-          "name": "Youzie",
-          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
-        }
-      ],
-      "duration_ms": 172455,
-      "name": "Chit Chat",
-      "url": "https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Vem",
         "url": "https://open.spotify.com/album/6Kb2vhdaj624ZEC18vJCIG"
@@ -101,7 +81,27 @@
       "url": "https://open.spotify.com/track/37I1hXdQVga3MAR9dOn0c3"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ"
+      },
+      "artists": [
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        },
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
+        }
+      ],
+      "duration_ms": 172455,
+      "name": "Chit Chat",
+      "url": "https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Aktiverad (Klick Klack)",
         "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "ZUTTLUKTEN",
         "url": "https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "Tappat - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 150543,
+      "name": "Tappat - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "P\u00e5 En L\u00f6rdag",
         "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
@@ -153,7 +169,43 @@
       "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "The Only Wan (Deluxe)",
+        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 206243,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "DUBBELT",
+        "url": "https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 158636,
+      "name": "DUBBELT",
+      "url": "https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "S\u00d6DERMALM (Remix)",
         "url": "https://open.spotify.com/album/3UwYbsJK4kFYtSGENGqK7S"
@@ -181,7 +233,7 @@
       "url": "https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "SEVILLA",
         "url": "https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN"
@@ -197,79 +249,7 @@
       "url": "https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "The Only Wan (Deluxe)",
-        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Dum",
-      "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Politik",
-        "url": "https://open.spotify.com/album/35JqPfpEGCGQhyMBRZFLvQ"
-      },
-      "artists": [
-        {
-          "name": "2M",
-          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
-        }
-      ],
-      "duration_ms": 160225,
-      "name": "Politik",
-      "url": "https://open.spotify.com/track/1zWFof0FbjUCkY4rJ9s3fN"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "UNDER TIDEN 3",
-        "url": "https://open.spotify.com/album/2EF6zvkYnHdJF2pEet0vuw"
-      },
-      "artists": [
-        {
-          "name": "GULEED",
-          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
-        },
-        {
-          "name": "Varohl",
-          "url": "https://open.spotify.com/artist/6G9T14kPHFXzL8Viegb6dy"
-        }
-      ],
-      "duration_ms": 117482,
-      "name": "Next",
-      "url": "https://open.spotify.com/track/6SPKgVl0S6t8lEqOGThiuF"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "DUBBELT",
-        "url": "https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        },
-        {
-          "name": "01an",
-          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
-        }
-      ],
-      "duration_ms": 158636,
-      "name": "DUBBELT",
-      "url": "https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "En Chans",
         "url": "https://open.spotify.com/album/2iWpYrj5Crkov7rTVn7TCU"
@@ -289,7 +269,7 @@
       "url": "https://open.spotify.com/track/2JDsYmNrm68Om1TK0D4VeA"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Tar hand om dig",
         "url": "https://open.spotify.com/album/2efLOVdyxvkHRcPjLXOHEv"
@@ -305,7 +285,7 @@
       "url": "https://open.spotify.com/track/2GcKDi81Fn68QAnwWV0E6j"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -321,7 +301,7 @@
       "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
         "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
@@ -337,7 +317,7 @@
       "url": "https://open.spotify.com/track/2YKJ2m1l8GxKjzcCVVy7v2"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
         "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
@@ -353,7 +333,43 @@
       "url": "https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "UNDER TIDEN 3",
+        "url": "https://open.spotify.com/album/2EF6zvkYnHdJF2pEet0vuw"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        },
+        {
+          "name": "Varohl",
+          "url": "https://open.spotify.com/artist/6G9T14kPHFXzL8Viegb6dy"
+        }
+      ],
+      "duration_ms": 117482,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/6SPKgVl0S6t8lEqOGThiuF"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "Politik",
+        "url": "https://open.spotify.com/album/35JqPfpEGCGQhyMBRZFLvQ"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "duration_ms": 160225,
+      "name": "Politik",
+      "url": "https://open.spotify.com/track/1zWFof0FbjUCkY4rJ9s3fN"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Vikt",
         "url": "https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Devilish",
         "url": "https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "TICK TACK",
         "url": "https://open.spotify.com/album/5gRppL8hyAuI6XW7w4L8Nd"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/5XRZL49gUcxJGepV6G2t4b"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "The Only Wan",
         "url": "https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/23klDTxN5Qe2wuZ9ad1y37"
@@ -441,27 +457,7 @@
       "url": "https://open.spotify.com/track/3B903DhOIENm4wNq356KJj"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "NERVOUS",
-        "url": "https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q"
-      },
-      "artists": [
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        },
-        {
-          "name": "Mackan",
-          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "NERVOUS",
-      "url": "https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "DIRTY",
         "url": "https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0"
@@ -481,7 +477,27 @@
       "url": "https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
+      "album": {
+        "name": "NERVOUS",
+        "url": "https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "NERVOUS",
+      "url": "https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8"
+    },
+    {
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "MILLY",
         "url": "https://open.spotify.com/album/5RYmLEiBxdw2VP8s9Ebd3L"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/06HHolCxacIrz0nsK4APTv"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "BANGAH",
         "url": "https://open.spotify.com/album/6H0WmkYBIVUNzaUa6zP4ck"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/4H1TKklVlmtpGC7Zh6QlCm"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Slim Thick",
         "url": "https://open.spotify.com/album/48y9ck9AA5inMgK6wBfR9U"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/74DJLJwUxPvPwOOPQDSdvF"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "KOMPLETTERAD",
         "url": "https://open.spotify.com/album/4zOwZh6nvk9NPjIYH5cVY3"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/7Jcb7lAXvOvgDdCj49Awsf"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "MAGAZINE",
         "url": "https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "R\u00f6d Laser",
         "url": "https://open.spotify.com/album/4XQSMJeqCRczYBbhW7pE3P"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/3hVHWx8UILDq3tSEg5trOZ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Gangsta Party",
         "url": "https://open.spotify.com/album/6mVQenUS7FinIK57XJAcSb"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/69NCYTsKEPTzOIcPuTd9y2"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "GITT",
         "url": "https://open.spotify.com/album/6HIedHgGtmRQSJBiqIn7yg"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/7jjBieRzHT48hUUA1ZAwHC"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Hela V\u00e4gen Upp",
         "url": "https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP"
@@ -641,9 +657,9 @@
       "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
-        "name": "(Kom Ikv\u00e4ll) 6AM",
+        "name": "6AM (Kom Ikv\u00e4ll)",
         "url": "https://open.spotify.com/album/6n0rdVkA27jUjVPrqgcnlu"
       },
       "artists": [
@@ -653,11 +669,11 @@
         }
       ],
       "duration_ms": 181224,
-      "name": "(Kom Ikv\u00e4ll) 6AM",
+      "name": "6AM (Kom Ikv\u00e4ll)",
       "url": "https://open.spotify.com/track/3ongDpO7dFXdeCFlFxMZnI"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Sluter upp",
         "url": "https://open.spotify.com/album/5Sj7q7gQ9jRfICCOzFoSgR"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/4UPNMRfvCsAG9yhzXQnnmz"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "BL\u00d6DER FR\u00c5N SJ\u00c4LEN",
         "url": "https://open.spotify.com/album/6GqB6rQR4LCVKcEZQFvOXv"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/1khruC7lTyH8MPLx1VYxYE"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "4 grabbar",
         "url": "https://open.spotify.com/album/482jRh8WulwsYwi4iiUwVa"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/5BtXbZ4dArIaZka8pNzSp0"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Trap",
         "url": "https://open.spotify.com/album/2BrSwCJGDVzRqnPV6T3ZR6"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/52Rfxgs43UCT1Y0zeLXtcS"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "BLICKA TILLBAKA",
         "url": "https://open.spotify.com/album/5Wnka168rFcyVOWpXYhcw9"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/0GFwhFEGQ5fLKGMSjAD01u"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Pengamotiv",
         "url": "https://open.spotify.com/album/2gbG0QZ4qYOTXF3aImSTPb"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/2HQnQODxqlfaWDVTwlRZZb"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "5 av 5",
         "url": "https://open.spotify.com/album/5o2NuQTb4f8jHkrQU9ckkt"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/2kRPB6FKB8TEw4kHtEgtSP"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "G\u00e4hda (Extended Version)",
         "url": "https://open.spotify.com/album/6cRdaHz7CjbBMHrY7P0bvc"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/0PSpdRjJBjj3rRUTBoNICi"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Afronine",
         "url": "https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/6N3q7NSmlxB7TNJkyzfYcb"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Broke Dayz",
         "url": "https://open.spotify.com/album/4oXPkDePVLSJgGLhzYqF7X"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/1EoILXyGdwJkL4hZBSPfL0"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Action (Remix)",
         "url": "https://open.spotify.com/album/55RMbIBVL09mpNzzUZ6LSC"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/4GOuEeZG1WUIwohxLwx1I2"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "I\u2019m Running",
         "url": "https://open.spotify.com/album/1IFL7FdW9Q9KN6uHGPJ071"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/5676thUlxnSegZelsR5x0E"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "MONACO",
         "url": "https://open.spotify.com/album/0EepVQhwDeJqt4EPR7VHZ1"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/5JvQGmoHTGGuXTlbyZq0U0"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Down Low",
         "url": "https://open.spotify.com/album/4KipLKeLLkCCkUKX2QYhWQ"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/5CpndZioSSuixyHXUSR3Vk"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "\u00c4rligt",
         "url": "https://open.spotify.com/album/2ml4G4oci9RVhR9fPozNma"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/6fsAqTbnVFFsVsp5EJuV44"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Ingen hook",
         "url": "https://open.spotify.com/album/6XNAJ5NdwMuHzwRZGNJkRb"
@@ -937,7 +953,7 @@
       "url": "https://open.spotify.com/track/55ZJOO09x37tfayFaGyDqq"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Selfmade (Deluxe)",
         "url": "https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "SLUMMEN",
         "url": "https://open.spotify.com/album/6IhbKwMaN6ZLFpxDXjIa4T"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/37h7JPA7laEIPViEJNRyDE"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/5BiqZqNoE5PtNpxDpIyIEf"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5ukf2b3SjLBDpSLlddBegy"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Selfmade (Deluxe)",
         "url": "https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "AMO",
         "url": "https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn"
@@ -1029,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0O0DuN2YEF96wZvsQIly2V"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Eva & Adam",
         "url": "https://open.spotify.com/album/1K7MP6bTb7lD9wZ39KoRS3"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/1WTJlu34pP9mPg3qh691Gy"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Tiden",
         "url": "https://open.spotify.com/album/4lPxy4bk1ICSpIumNwYtK0"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/45aZ1JEtwwPynubJbLD5lj"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Midnatt",
         "url": "https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Gammal man",
         "url": "https://open.spotify.com/album/0UZO4OdxH4H7gBM8SY78BN"
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4RqiVzMHBBpbzaVTuNTeJW"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Himlen kan v\u00e4nta",
         "url": "https://open.spotify.com/album/4FQRdYnV0WCalOqkjyRR1c"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0gj3x4ogcfykMjHW90qUmZ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/0be58KzbHTjSKRFq2uTUpw"
@@ -1129,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0uhBPPQzwOMXz49eTE2ZhX"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Monster Under S\u00e4ngen",
         "url": "https://open.spotify.com/album/1LWPXEEHx8ILVqnIPzNSIc"
@@ -1149,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5P5BS16fZQlzTAa9BV3DzF"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Lenad",
         "url": "https://open.spotify.com/album/6j5SHilqlDuI4CY4Jftpyd"
@@ -1169,7 +1185,7 @@
       "url": "https://open.spotify.com/track/31T9RWkdgq9RGZgjC0JIpC"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Fendi",
         "url": "https://open.spotify.com/album/7wU4PQLb9WE6javqXaFTMt"
@@ -1185,7 +1201,7 @@
       "url": "https://open.spotify.com/track/08AN9OsR8KGiMmztL3AlaJ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Wlak",
         "url": "https://open.spotify.com/album/4AZYDRYX7q4VMSRRBAHgpS"
@@ -1201,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4OgHnCxOsksOOAdAinc5An"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "V\u00c4GEN",
         "url": "https://open.spotify.com/album/6WheLbREa8AOWe0XVlZznz"
@@ -1217,23 +1233,7 @@
       "url": "https://open.spotify.com/track/6r0bKoiWkBga0Yxa88fSpl"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Utfixaren",
-        "url": "https://open.spotify.com/album/2UsHx6TASGmf0AJ5zj96uc"
-      },
-      "artists": [
-        {
-          "name": "Nisch",
-          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
-        }
-      ],
-      "duration_ms": 117675,
-      "name": "Utfixaren",
-      "url": "https://open.spotify.com/track/2aCBagDBEXAVniQytt59BV"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Internet (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/4U1ARXYplRDpLRth2YBocA"
@@ -1253,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1gnCpBKizZd2w23fb0eOS2"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Woman \u2013 Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy"
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Ded\u00e4r \u2013 Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl"
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Going Lit - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Guitar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "fuego (feat. GABIFUEGO) [Spotify Studio 100 Recording]",
         "url": "https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5"
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "En Stund (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9"
@@ -1369,7 +1369,7 @@
       "url": "https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "OuOu (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/44EsiFbw1i2wSvYMvC76pJ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544"
@@ -1405,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-18 23:42:34",
       "album": {
         "name": "Studio 100 (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
         "url": "https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C"

@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Air Max",
       "url": "https://open.spotify.com/track/3OGv5aAfxKGmkstUtsfFUC"
@@ -12303,7 +12303,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 141686,
       "name": "Nisi",
       "url": "https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34"
@@ -16004,6 +16004,24 @@
     },
     {
       "album": {
+        "name": "Strap",
+        "url": "https://open.spotify.com/album/1pwDoI07tSz7ieCHt1CL8s"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165298,
+      "name": "Strap",
+      "url": "https://open.spotify.com/track/1Pje5geLZZZjmEJY4ZiXLq"
+    },
+    {
+      "album": {
         "name": "BOSSIDONAS",
         "url": "https://open.spotify.com/album/7xpeeJKLPPbfvrKPjSYkHz"
       },
@@ -18591,7 +18609,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 155000,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/1ABRIGG2YqY5uLDLLfIBgx"

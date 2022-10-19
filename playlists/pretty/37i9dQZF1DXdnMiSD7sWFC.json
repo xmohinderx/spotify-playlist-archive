@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 39701,
+  "num_followers": 39774,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMDc4ZGUxZDE5MWU1ZWJjZDM2ODM2M2MwNDk2MTlhY2Qz",
+  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMDM0MDMzMDRjMGNlNzlkYmQ4ZjBmNzA0NzVhMGVlZGFh",
   "tracks": [
     {
       "added_at": "2022-01-12 17:58:24",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Wild Youth",
+        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 258972,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Colour Green",
-        "url": "https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB"
-      },
-      "artists": [
-        {
-          "name": "Sibylle Baier",
-          "url": "https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Forget About",
-      "url": "https://open.spotify.com/track/00epdG9ONPL8KkErbmKW8o"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Colour Green",
+        "url": "https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB"
+      },
+      "artists": [
+        {
+          "name": "Sibylle Baier",
+          "url": "https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Forget About",
+      "url": "https://open.spotify.com/track/00epdG9ONPL8KkErbmKW8o"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Santa Barbara",
         "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Wild Youth",
-        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
         }
       ],
-      "duration_ms": 258972,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Home Video",
         "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Give Me A Minute",
-      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Opaline",
-        "url": "https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Opaline",
-      "url": "https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 199906,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Opaline",
+        "url": "https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Opaline",
+      "url": "https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Farm b/w Lift",
-        "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 283096,
-      "name": "Farm",
-      "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 204346,
       "name": "New Auburn (feat. Ana\u00efs Mitchell)",
       "url": "https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Farm b/w Lift",
+        "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 283096,
+      "name": "Farm",
+      "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "I Can Go With You",
-        "url": "https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj"
-      },
-      "artists": [
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "I Can Go With You",
-      "url": "https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 185533,
       "name": "Different Kinds of Light",
       "url": "https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "I Can Go With You",
+        "url": "https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "I Can Go With You",
+      "url": "https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX"
     },
     {
       "added_at": "2022-01-12 17:58:24",

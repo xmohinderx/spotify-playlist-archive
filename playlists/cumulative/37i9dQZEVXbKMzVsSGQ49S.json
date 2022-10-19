@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 177789,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
@@ -2707,7 +2707,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 31050,
       "name": "Cozy Rain & Thunder, Pt. 05",
       "url": "https://open.spotify.com/track/1OtZ14K3gp1SUqZOawm7Nq"
@@ -6561,7 +6561,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -13822,6 +13822,40 @@
     },
     {
       "album": {
+        "name": "Sama",
+        "url": "https://open.spotify.com/album/2SxQnSHBsai4rmnkP3nnNp"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3nhylur",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        },
+        {
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+        },
+        {
+          "name": "Kristjan Saenz",
+          "url": "https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR"
+        },
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Teddi G",
+          "url": "https://open.spotify.com/artist/5YrK7YhaPG3tEqUxdE4CmB"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144385,
+      "name": "Sama",
+      "url": "https://open.spotify.com/track/5ofoMtQs9488yo5lIcZlsH"
+    },
+    {
+      "album": {
         "name": "D3POSIT2",
         "url": "https://open.spotify.com/album/1Xi69ErAr0nZgj0zjWEogL"
       },
@@ -18803,7 +18837,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 205728,
       "name": "\u00cd lar\u00ed lei",
       "url": "https://open.spotify.com/track/1jCSG0fDPtaMCkFLo1KJnb"
@@ -18821,7 +18855,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 203880,
       "name": "\u00cd lar\u00ed lei",
       "url": "https://open.spotify.com/track/5nhnK0sf8D4DCUPGeLFDvx"

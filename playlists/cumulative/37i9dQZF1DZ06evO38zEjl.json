@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117266,
+      "name": "Adios Saturn",
+      "url": "https://open.spotify.com/track/3qT7EXtReLltWcnlpsYaur"
+    },
+    {
+      "album": {
         "name": "Power Spot",
         "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
       },
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 317093,
       "name": "Jadwa",
       "url": "https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 242080,
       "name": "the nothing of roselight - edit",
       "url": "https://open.spotify.com/track/0qFmsIBGZnhS0qMFkof3YZ"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 296960,
       "name": "Zahori",
       "url": "https://open.spotify.com/track/5HYLKZoFm2V3RLCNGP4lDl"

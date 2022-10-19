@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 51918,
+  "num_followers": 51942,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDU5MmZjMmMwMmYwOTUwMWE0OGU2M2ExOWJkN2Q5MDNi",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDUxNmZjNDFlYzhmMWE4MTYwZjkxNWI5YzAyZWRiZDlm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -279,6 +279,30 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Deleter Remixed",
+        "url": "https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        },
+        {
+          "name": "Angus Andrew",
+          "url": "https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu"
+        },
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        }
+      ],
+      "duration_ms": 255858,
+      "name": "Deleters - Palms Trax Remix",
+      "url": "https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Enter Castillo",
         "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
       },
@@ -363,30 +387,6 @@
       "duration_ms": 219046,
       "name": "The Rollercoaster",
       "url": "https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Deleter Remixed",
-        "url": "https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT"
-      },
-      "artists": [
-        {
-          "name": "Holy Fuck",
-          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
-        },
-        {
-          "name": "Angus Andrew",
-          "url": "https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu"
-        },
-        {
-          "name": "Palms Trax",
-          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
-        }
-      ],
-      "duration_ms": 255858,
-      "name": "Deleters - Palms Trax Remix",
-      "url": "https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
-      },
-      "artists": [
-        {
-          "name": "Monki",
-          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Dixon Presents Transmoderna Part 2/4",
         "url": "https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g"
       },
@@ -515,34 +499,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
       },
       "artists": [
         {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
         }
       ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Hymnotic",
-        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
-      },
-      "artists": [
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 262677,
-      "name": "Hymnotic",
-      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
+      "duration_ms": 236000,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -563,6 +531,38 @@
       "duration_ms": 212903,
       "name": "Ardore",
       "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Hymnotic",
+        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
+      },
+      "artists": [
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 262677,
+      "name": "Hymnotic",
+      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",

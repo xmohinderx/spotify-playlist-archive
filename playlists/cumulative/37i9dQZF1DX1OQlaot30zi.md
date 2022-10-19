@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Vale Pain, Fabri Fibra, Neffa, Side Baby e tanti altri.
 
-771 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+772 songs - 1 day 11 hr 34 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,7 +654,8 @@
 | [Solito posto, Soliti guai](https://open.spotify.com/track/0LSrShoKn7HNAfPRQDLUAk) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Solito posto, Soliti guai](https://open.spotify.com/album/62vlebjF60YzjJoKlqdvKP) | 2:33 | 2022-05-10 | 2022-05-20 |
 | [SOMEBODY](https://open.spotify.com/track/1z4ijeGJocaJ7Uw0LC8VHw) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [SOMEBODY](https://open.spotify.com/album/08H4mUl6AWTV51W1bRkPmp) | 3:15 | 2022-09-22 | 2022-10-07 |
 | [sono cringe](https://open.spotify.com/track/15aLlUEWiVrIKIh0OzjYrt) | [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0) | [Il Produttore Oscuro \(parte I\)](https://open.spotify.com/album/1vkboou3U7vglGIpKDnlvC) | 2:46 | 2022-10-13 |  |
-| [Sono tristi anche le star](https://open.spotify.com/track/197sltAUVMru0iJmJwPcho) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj) | 2:50 | 2022-09-29 |  |
+| [Sono tristi anche le star](https://open.spotify.com/track/197sltAUVMru0iJmJwPcho) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj) | 2:50 | 2022-09-29 | 2022-10-19 |
+| [Sono tristi anche le star](https://open.spotify.com/track/5AhoYuhVuAl3fqpIhe46qE) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/41Tkn4XnbcB7bwFf5lSBR3) | 2:50 | 2022-10-13 |  |
 | [Sorgente](https://open.spotify.com/track/4Vge9IzuGENJGutCRRhnYU) | [Bollenti Spiriti](https://open.spotify.com/artist/0z0WIcFmz8Ongg6uNrHB5L), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [INFIORE](https://open.spotify.com/album/3zdBCaNEAnoR9fQ5gt0Adv) | 2:47 | 2022-07-21 | 2022-07-29 |
 | [SORPASSO](https://open.spotify.com/track/0pfhyFstQRfCQRunf1CRak) | [AF6914](https://open.spotify.com/artist/2nSxU1GDMM5V87yXKVnGsz) | [SORPASSO](https://open.spotify.com/album/7oR0yvWkF0TKt9ebBwlozT) | 2:19 | 2022-09-15 | 2022-10-07 |
 | [SOS BOYZ FREESTYLE](https://open.spotify.com/track/4GgqhM3m8vGOmqABkn2uBk) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [SOS BOYZ FREESTYLE](https://open.spotify.com/album/6L26tJBcDsUct1wqUxDbsH) | 2:13 | 2022-09-29 | 2022-10-14 |

@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 130285,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
@@ -3863,7 +3863,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -5657,7 +5657,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -6467,7 +6467,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 160500,
       "name": "Kalenji",
       "url": "https://open.spotify.com/track/3pqWaXU4oIxujvsnCly7J2"
@@ -7613,6 +7613,28 @@
       "duration_ms": 168000,
       "name": "LVCRIMOSA",
       "url": "https://open.spotify.com/track/3eVM5u5uqLWBORoRfHclo4"
+    },
+    {
+      "album": {
+        "name": "L\u00e1ska & Bolest",
+        "url": "https://open.spotify.com/album/3aIRMHKasSiZZ0dywkwCpx"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "L\u00e1ska & Bolest",
+      "url": "https://open.spotify.com/track/0RuoJ6uDFyPreixaFI2n93"
     },
     {
       "album": {
@@ -11254,6 +11276,24 @@
     },
     {
       "album": {
+        "name": "EL PRESIDENTO",
+        "url": "https://open.spotify.com/album/2fz4P4mxu63oE9Pmd5Wpdx"
+      },
+      "artists": [
+        {
+          "name": "Kab\u00e1t",
+          "url": "https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "RUMCAJS MILOVAL MANKU",
+      "url": "https://open.spotify.com/track/5zvHNxwHeLzp1bYV2srOj4"
+    },
+    {
+      "album": {
         "name": "RUMCAJS MILOVAL MANKU",
         "url": "https://open.spotify.com/album/4OsLPS6jNf11f1Mq1kYkZt"
       },
@@ -11265,7 +11305,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 179160,
       "name": "RUMCAJS MILOVAL MANKU",
       "url": "https://open.spotify.com/track/7yy1E4CAVun8vq75NMQ6FD"
@@ -12361,10 +12401,36 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 198726,
       "name": "Starkids",
       "url": "https://open.spotify.com/track/16tcKXXuGEFaCkDAXgjQKo"
+    },
+    {
+      "album": {
+        "name": "Amonit",
+        "url": "https://open.spotify.com/album/1MUzF8MxbbDOR7uiSrWpc6"
+      },
+      "artists": [
+        {
+          "name": "Paulie Garand",
+          "url": "https://open.spotify.com/artist/1E1taJPk3Mh3tRs9uLAu3n"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Majk Spirit",
+          "url": "https://open.spotify.com/artist/4gvBx2BxCJcy3Ysiih8AAG"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198726,
+      "name": "Starkids",
+      "url": "https://open.spotify.com/track/3r6ENcy7OePuyCMsiXZCVC"
     },
     {
       "album": {
@@ -15563,7 +15629,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 270466,
       "name": "\u010cesk\u00e1 Floriiida",
       "url": "https://open.spotify.com/track/3h3CiDX7NyqRLxLUg5pFbu"

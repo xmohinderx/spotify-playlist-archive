@@ -395,10 +395,32 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 223672,
       "name": "Get On Uppa",
       "url": "https://open.spotify.com/track/5aotZwwhBYBDUe5sXFRXoN"
+    },
+    {
+      "album": {
+        "name": "Gran Paradiso",
+        "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
+      },
+      "artists": [
+        {
+          "name": "Waldeck",
+          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
+        },
+        {
+          "name": "la Heidi",
+          "url": "https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223689,
+      "name": "Get On Uppa",
+      "url": "https://open.spotify.com/track/3K60QrITzr3A7VfO9gj65y"
     },
     {
       "album": {

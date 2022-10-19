@@ -8,24 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "(Kom Ikv\u00e4ll) 6AM",
-        "url": "https://open.spotify.com/album/6n0rdVkA27jUjVPrqgcnlu"
-      },
-      "artists": [
-        {
-          "name": "Seedy",
-          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
-        }
-      ],
-      "date_added": "2022-10-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181224,
-      "name": "(Kom Ikv\u00e4ll) 6AM",
-      "url": "https://open.spotify.com/track/3ongDpO7dFXdeCFlFxMZnI"
-    },
-    {
-      "album": {
         "name": "08 ZOO",
         "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
       },
@@ -367,6 +349,24 @@
       "duration_ms": 228837,
       "name": "5AM",
       "url": "https://open.spotify.com/track/69eo1z40ivxcT5oMkX5peC"
+    },
+    {
+      "album": {
+        "name": "6AM (Kom Ikv\u00e4ll)",
+        "url": "https://open.spotify.com/album/6n0rdVkA27jUjVPrqgcnlu"
+      },
+      "artists": [
+        {
+          "name": "Seedy",
+          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "6AM (Kom Ikv\u00e4ll)",
+      "url": "https://open.spotify.com/track/3ongDpO7dFXdeCFlFxMZnI"
     },
     {
       "album": {
@@ -7558,6 +7558,24 @@
     },
     {
       "album": {
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/73Rhi1qW9fhKgYi7Tnf3AE"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/1lfZHJvOACgkH2ErrMjc9G"
+    },
+    {
+      "album": {
         "name": "Midnatt",
         "url": "https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM"
       },
@@ -11547,7 +11565,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 117675,
       "name": "Utfixaren",
       "url": "https://open.spotify.com/track/2aCBagDBEXAVniQytt59BV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Hey! We're HEL from  <a href="https://twitter.com/g2esports?s=21&t=1P2wGvaSfky1fK0aJfM\_Gg">G2</a>  and this is what we listen to while collecting trophies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,757 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,819 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 10 | [Merry\-Go\-Round of Life \- from 'Howl's Moving Castle'](https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 5:11 |
 | 11 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 |
 | 12 | [Kidding](https://open.spotify.com/track/3GfIQyLYrrgF4MhmQmFcnX) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:45 |
-| 13 | [Battas](https://open.spotify.com/track/5vg6lgIJMt0y1Ty0GwIRhb) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mazde X LissA](https://open.spotify.com/album/0AlG3dTDaUdYlxR1Cr5RRd) | 5:01 |
+| 13 | [Battas](https://open.spotify.com/track/6uMVc1y4OcfZPh6PngXag4) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mazde X LissA](https://open.spotify.com/album/52zrkrpDjQDSFMVXoXx8C6) | 5:01 |
 | 14 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 |
 | 15 | [Tomorrow](https://open.spotify.com/track/5zhhYqdRDfarnJ8QocHBz8) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Tomorrow](https://open.spotify.com/album/5HdfAzqo5usWleSzUB6DOs) | 3:20 |
 | 16 | [At All](https://open.spotify.com/track/0nkxh7Zpyu3JRWmOjvitEW) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Primo](https://open.spotify.com/album/1Is6ARltAFR4RdqxSDLTnR) | 5:54 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 68 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 |
 | 69 | [New Face](https://open.spotify.com/track/25YgkxnU4UzEG4ORni69Rw) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 8th 4X2=8](https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi) | 3:10 |
 
-Snapshot ID: `MTY2MTk4MzIwMCwwMDAwMDAwMGEzYTNkNmZlOTZlY2UxNGZkNWQwNzVlOTlhZWE1ZWVl`
+Snapshot ID: `MTY2MTk4MzIwMCwwMDAwMDAwMGU5NzFiMDZlNzBlZjgyYmJlZWYxYjU3NWNjMjNhM2Vm`

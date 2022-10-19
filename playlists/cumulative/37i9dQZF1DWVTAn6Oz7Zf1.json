@@ -1550,6 +1550,28 @@
     },
     {
       "album": {
+        "name": "Hey (I Miss You)",
+        "url": "https://open.spotify.com/album/0YrZnNms5Psu0n3ttkkC3K"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199522,
+      "name": "Hey (I Miss You)",
+      "url": "https://open.spotify.com/track/5VIZnHRkpfZB9f4KoKomBx"
+    },
+    {
+      "album": {
         "name": "Hold U (feat. James Tone)",
         "url": "https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB"
       },
@@ -2969,7 +2991,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 185015,
       "name": "Running",
       "url": "https://open.spotify.com/track/4hsRzEQg0t9qgtB4iXEGB5"

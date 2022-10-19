@@ -234,6 +234,28 @@
     },
     {
       "album": {
+        "name": "G.E.N.U.F.L.E.X.I.O.N",
+        "url": "https://open.spotify.com/album/7l9FWrlJl4ANd95P9MC7RD"
+      },
+      "artists": [
+        {
+          "name": "Nini Maluks",
+          "url": "https://open.spotify.com/artist/4wt6OI7hl305rb96PueedT"
+        },
+        {
+          "name": "Pascale Yav",
+          "url": "https://open.spotify.com/artist/73wxsmF4LKKCMsHJVIMH75"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497534,
+      "name": "E.O.L (Extraordinary Life) (Original LP Mix)",
+      "url": "https://open.spotify.com/track/7o0UkICXQlYARbMU6C4TTc"
+    },
+    {
+      "album": {
         "name": "New Beginning EP",
         "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
       },
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 399986,
       "name": "The Inglourious",
       "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"

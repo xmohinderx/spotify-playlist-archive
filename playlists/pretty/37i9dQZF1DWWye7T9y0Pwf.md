@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWye7T9y0Pwf.md) - [plain]
 
 > <a href="spotify:artist:5Uy8Skuxzxf38jMDTndKIU">Populous</a>'s favorite tracks\. Updated regularly\. Curated by Populous\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,343 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,362 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWye7T9y0Pwf.md) - [plain]
 | 6 | [Mutant Exotic](https://open.spotify.com/track/73bJ5zBhjkY6alC6mpupgr) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Dedicated 2 Disrespect](https://open.spotify.com/album/5RoqnNPtlVOM1blmKaLlv8) | 3:51 |
 | 7 | [sophia \- Alex Chapman Remix](https://open.spotify.com/track/6h7shXygvjO76S8K4w7CSR) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh) | [Sunshine Factory \(Remixes\)](https://open.spotify.com/album/3itJjuakoKh9vUynd8N0Iv) | 2:50 |
 | 8 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
-| 9 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Emmanuelle](https://open.spotify.com/artist/0Nk7sMy6t6Kk9u6zkzF0ri) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 4:23 |
+| 9 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 4:23 |
 | 10 | [Ça Va? Je T'aime! \(feat\. EMMANUELLE\) \- Planet Opal Remix](https://open.spotify.com/track/7hhUG219EUUCt9xVROiwU3) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Planet Opal](https://open.spotify.com/artist/79u3gvhlSLQxzZNqn0voXp), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 6:59 |
 | 11 | [Get your Fking Laws off my Body](https://open.spotify.com/track/0AT9fER20LfUfkrCvdQVlq) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Get your Fking Laws off my Body](https://open.spotify.com/album/5ETlH9EZsNWZuRsuGrqKX3) | 3:30 |
 | 12 | [Right 2 Left \- Red Axes Remix](https://open.spotify.com/track/2p9NgWrrc5iLvlczjLjoA9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Diplo \(Life and Death Remixes\)](https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv) | 3:36 |

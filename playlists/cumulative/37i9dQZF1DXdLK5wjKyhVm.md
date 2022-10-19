@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-161 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
+162 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Descending](https://open.spotify.com/track/4VpJr6eFiAksnM7ROyWfgc) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Under the same sky](https://open.spotify.com/album/1oAHBD8Y6R2ruq73pnofRk) | 2:31 | 2022-09-09 |  |
 | [Distraction](https://open.spotify.com/track/3p37thzAWbCzBHLynh43Qv) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc) | [Distraction](https://open.spotify.com/album/2zDAcoRIgMhlSEYgUf6OoH) | 2:25 | 2022-09-09 |  |
 | [Don't Mind The Night](https://open.spotify.com/track/4hzBvlIQsTi5ZuD6WF3Chl) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Don't Mind The Night](https://open.spotify.com/album/5EP22HSNHSHYWce0HYzRl4) | 2:27 | 2022-09-09 |  |
-| [Don't Rush](https://open.spotify.com/track/001h9Xhd52qbrOuCZfdvQW) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [Don't Rush](https://open.spotify.com/album/0Sda0TFRlICfQEvp4wOxfZ) | 2:40 | 2022-09-09 |  |
+| [Don't Rush](https://open.spotify.com/track/001h9Xhd52qbrOuCZfdvQW) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [Don't Rush](https://open.spotify.com/album/0Sda0TFRlICfQEvp4wOxfZ) | 2:40 | 2022-09-09 | 2022-10-19 |
+| [Don't Rush](https://open.spotify.com/track/0tBWqDzAH3hzljUPWSSAxX) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [Don't Rush](https://open.spotify.com/album/5Xbdx8d0FoaogQTR2RKo4o) | 2:40 | 2022-10-14 |  |
 | [Don't Walk Away](https://open.spotify.com/track/2w9yMXiQhYTCE3QAsLdwyl) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Don't Walk Away](https://open.spotify.com/album/1Khay9R7ysS60xtBZnWO5j) | 2:28 | 2022-09-09 |  |
 | [Downhill](https://open.spotify.com/track/4YC5W9CCrGwppDSFVOBlEz) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Downhill](https://open.spotify.com/album/3nKLiPBOoiVHUa7ayttZ3A) | 2:09 | 2022-09-16 |  |
 | [Drifting](https://open.spotify.com/track/7Co3NtdJY6Gx0XRnt1MoSr) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Drifting](https://open.spotify.com/album/5o9k672HaDkt1QQvUAAcBh) | 2:04 | 2022-09-23 |  |

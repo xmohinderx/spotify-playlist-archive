@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-102 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+103 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-26 |  |
 | [Got Me](https://open.spotify.com/track/3mghKdqAomZMZKShUppmae) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Got Me](https://open.spotify.com/album/7s073AT8XNarGOBLruWghZ) | 3:26 | 2021-10-26 | 2022-03-17 |
 | [Green Lights](https://open.spotify.com/track/6uMKj7sKjHkq6XorfAe3f1) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There EP](https://open.spotify.com/album/1ujdCeZ7tE7MP3xnQX3ZuP) | 3:49 | 2021-10-26 | 2022-03-17 |
-| [Haunted](https://open.spotify.com/track/7k9fKtMD2CW2C6MW9nNFGz) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Haunted](https://open.spotify.com/album/6uhLsknKMOchHqHCafBavV) | 3:35 | 2022-03-17 |  |
+| [Haunted](https://open.spotify.com/track/3Srd38wfxJNDIt0Tdf99IB) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Haunted](https://open.spotify.com/album/2ES6I1Sdy9a71eKqipZogB) | 3:35 | 2022-03-17 |  |
+| [Haunted](https://open.spotify.com/track/7k9fKtMD2CW2C6MW9nNFGz) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Haunted](https://open.spotify.com/album/6uhLsknKMOchHqHCafBavV) | 3:35 | 2022-03-17 | 2022-10-19 |
 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 | 2021-10-26 | 2022-03-17 |
 | [Herside Story](https://open.spotify.com/track/564oa00vY05d1uYnTEAAmE) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Hare Squead](https://open.spotify.com/artist/3OqgnoaUHWX4ih4oAL0zzQ) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 3:03 | 2022-03-17 |  |
 | [Highschool](https://open.spotify.com/track/7GD0WThoNJ5idqzPnbGpre) | [7th Obi](https://open.spotify.com/artist/7f9KVZ7zHnzxe9whnC1EgY) | [Highschool](https://open.spotify.com/album/78BooOPCfHuVAApLnVTYWE) | 2:35 | 2022-03-17 |  |

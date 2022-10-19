@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,260 likes - 106 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,263 likes - 106 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 67 | [Sorry Mom](https://open.spotify.com/track/61WTJ7xfIaZi9WL6XqwSD9) | [BLENDA](https://open.spotify.com/artist/0mdmebp0N7udUXXqtoZU5D) | [Sorry Mom](https://open.spotify.com/album/6uEEsqjSIIQtZR5T5Z2LdG) | 2:13 |
 | 68 | [Paid](https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:16 |
 | 69 | [Stay Inside](https://open.spotify.com/track/0FGrsEkYbMixF240cAUCFX) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Stay Inside](https://open.spotify.com/album/7EypcYYCFnB7Bwj7wUtyaa) | 1:52 |
-| 70 | [\(Kom Ikväll\) 6AM](https://open.spotify.com/track/3ongDpO7dFXdeCFlFxMZnI) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [\(Kom Ikväll\) 6AM](https://open.spotify.com/album/6n0rdVkA27jUjVPrqgcnlu) | 3:01 |
+| 70 | [6AM \(Kom Ikväll\)](https://open.spotify.com/track/3ongDpO7dFXdeCFlFxMZnI) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [6AM \(Kom Ikväll\)](https://open.spotify.com/album/6n0rdVkA27jUjVPrqgcnlu) | 3:01 |
 | 71 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 |
 | 72 | [Wingwoman](https://open.spotify.com/track/0Hhx4yhcOFlRwl8ezjgvdW) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Wingwoman](https://open.spotify.com/album/5EB076dHjDLSI27bJw6PMi) | 2:56 |
 | 73 | [OVER \- Single Version](https://open.spotify.com/track/3leVSmwGhwAlLvRj3yKZUb) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [OVER](https://open.spotify.com/album/6mdhcLokeve0HdWXhkqKhO) | 3:25 |

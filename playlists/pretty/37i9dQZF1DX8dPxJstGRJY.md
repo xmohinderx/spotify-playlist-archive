@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,858 likes - 54 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,108 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 23 | [Barcarolle \(from The Tales of Hoffman\)](https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat) | [All Angels](https://open.spotify.com/artist/1nlqYzoK1LAlS8MmnUhfEs) | [All Angels](https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT) | 3:25 |
 | 24 | [Bring Him Home \- From "Les Misérables"](https://open.spotify.com/track/6vb1E9HQ9V0vqxUaiGmgej) | [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [Danish National Chamber Orchestra](https://open.spotify.com/artist/5tqGSxgUWgnJf09eOwCvEz), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Bring Him Home](https://open.spotify.com/album/50c1kQsjZ7RWsIHvq1wxPl) | 3:40 |
 | 25 | [Send in the Clowns \(From "A Little Night Music"\)](https://open.spotify.com/track/60rwCozHI55tnHCZHI8bJ2) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Natalie Dessay](https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud), [Paris Mozart Orchestra](https://open.spotify.com/artist/4yaVj1SnoAFuqdRNGMCcFW), [Claire Gibault](https://open.spotify.com/artist/2k5WmbnjSX7XKocTLkzupP) | [Pictures of America](https://open.spotify.com/album/03kaAMCPTOpXnDIMTIY85l) | 4:32 |
-| 26 | [Mononoke Hime](https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1) | [Anúna](https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC), [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD) | [Revelation](https://open.spotify.com/album/6IqEExqxT85wd6Tzybi1mb) | 3:49 |
+| 26 | [Mononoke Hime](https://open.spotify.com/track/3UdYeHpaN6LSl1Gf1dhlbs) | [Anúna](https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC), [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD) | [Revelation](https://open.spotify.com/album/5ThZz5lPHg9KOvChXU2U6q) | 3:49 |
 | 27 | [Carrickfergus](https://open.spotify.com/track/41UC0IpPTszBkTiy5GcFvq) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Charlotte Church](https://open.spotify.com/artist/3P9jdZehQvmAoTrWU1p5zt), [Sian Edwards](https://open.spotify.com/artist/1AEBcVvK0365RWUgw1YfNr), [Ronn Huff](https://open.spotify.com/artist/6K11od2ftoHDnZ2nbyEati) | [Enchantment](https://open.spotify.com/album/1JiT6gr6lHx4Tdsi232CeT) | 4:26 |
 | 28 | [I Rest My Eyes](https://open.spotify.com/track/1Sic4S5VMmHmFi8hWJsF2x) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [I Rest My Eyes](https://open.spotify.com/album/3D857PXK7oDv8GAHdRXx9h) | 4:49 |
 | 29 | [Amore e Musica](https://open.spotify.com/track/7CLOYF0QFHyQQRENkJDbR8) | [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 3:59 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 53 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 54 | [Never Say Goodbye \(Adapted from "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 |
 
-Snapshot ID: `MTY2NDUyMjc5NCwwMDAwMDAwMGNjYzZkZTQyYjM5NzhjMmRlNzdhMzcxNTAzNTM3NTk1`
+Snapshot ID: `MTY2NDUyMjc5NCwwMDAwMDAwMGY1YjYxNmQyOWJhN2MxMzdmOGNmODhlYTkyZjdiY2M4`

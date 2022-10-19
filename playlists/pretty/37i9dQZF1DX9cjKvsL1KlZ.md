@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,696 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,785 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 9 | [D & D](https://open.spotify.com/track/7hJDmcLOeNLLBifn5AXLbf) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Blockwork](https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE) | [Face of the What](https://open.spotify.com/album/09YvQML69ulDtr75oZodJa) | 2:37 |
 | 10 | [No Adlibs](https://open.spotify.com/track/03xmi6J5kE6lnr4BfokGBu) | [Wan Billz](https://open.spotify.com/artist/4ptT7PqXaXDwMBZdiOq3ge) | [No Adlibs](https://open.spotify.com/album/1AATPemo63RsvrpQMg24b0) | 2:14 |
 | 11 | [Big Drip](https://open.spotify.com/track/3hbZsQXQNbPMBmgI7O0CTv) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [800 BC](https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0) | 2:48 |
-| 12 | [Talk Facts](https://open.spotify.com/track/7nCuL6OjPaQERu3unCv5Xc) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p), [Bando Gz](https://open.spotify.com/artist/7yFeIyZWWftVpx9huDIxvh) | [Talk Facts](https://open.spotify.com/album/52K5mC4r0jHV6H8D2HXFLy) | 3:26 |
+| 12 | [Talk Facts](https://open.spotify.com/track/7nCuL6OjPaQERu3unCv5Xc) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [Bando Gz](https://open.spotify.com/artist/7yFeIyZWWftVpx9huDIxvh), [T Dot](https://open.spotify.com/artist/4Lt8by3K29vseH2bTZNx0p) | [Talk Facts](https://open.spotify.com/album/52K5mC4r0jHV6H8D2HXFLy) | 3:26 |
 | 13 | [Pretendo](https://open.spotify.com/track/1ZRlDcwda9ipvwlYLxdZ3G) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Wick The Wizard](https://open.spotify.com/album/24lIwmoIuDulxSR9u5crmP) | 1:23 |
 | 14 | [Pusha Man](https://open.spotify.com/track/5qNqTVBAbtPRKH3KHiUAu8) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [No Forgetting This \(N.F.T.\)](https://open.spotify.com/album/4SsPpuTKIGKbZPJWkjLkIe) | 3:47 |
 | 15 | [SHIRT](https://open.spotify.com/track/3umJNfPLBiNmIsDg0Ebcuy) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [SHIRT](https://open.spotify.com/album/42t9iuzETD7RIhLQazqAIv) | 2:56 |

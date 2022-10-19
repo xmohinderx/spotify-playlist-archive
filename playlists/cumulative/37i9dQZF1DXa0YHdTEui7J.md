@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-100 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4hQjQa56iChyP2Tec96JWg)
+101 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/4hQjQa56iChyP2Tec96JWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Whisper](https://open.spotify.com/track/2HUMN0kyvKMVWBiI1jIlvV) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7) | [ENDZ040](https://open.spotify.com/album/7J9lRJ6MV9qi4OY9dKxW8f) | 7:04 | 2021-08-12 |  |
 | [workandworkagain](https://open.spotify.com/track/5sjAnX1yESZ0lWvOcgUpe3) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [workandworkagain](https://open.spotify.com/album/7f027pkOeUBpQbIZ4vOitR) | 7:30 | 2021-08-12 |  |
 | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/track/6j7Fdvi61J0qwjqh1OPeFM) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb) | 8:13 | 2021-08-12 |  |
-| [Yoyo](https://open.spotify.com/track/4XZh0TiPxsHO1x1cbRM7ue) | [App](https://open.spotify.com/artist/1uko3MaOVMtOKrRR5LVcUs) | [YOYO EP](https://open.spotify.com/album/3LB1B0pzX0x2OcT3wXB5NK) | 9:19 | 2021-08-12 |  |
+| [Yoyo](https://open.spotify.com/track/4XZh0TiPxsHO1x1cbRM7ue) | [App](https://open.spotify.com/artist/1uko3MaOVMtOKrRR5LVcUs) | [YOYO EP](https://open.spotify.com/album/3LB1B0pzX0x2OcT3wXB5NK) | 9:19 | 2021-08-12 | 2022-10-19 |
+| [Yoyo](https://open.spotify.com/track/4bYttstgD6j3kw7EsBe5MF) | [App](https://open.spotify.com/artist/1uko3MaOVMtOKrRR5LVcUs) | [YOYO EP](https://open.spotify.com/album/7lTEJVnqgVgQ4sDtWq9Bvx) | 9:19 | 2021-08-12 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: sofi frozza
 
-281 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+282 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Paisagem](https://open.spotify.com/track/0rGvp4ODxl78g6BYnU54sq) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Dedê Silva](https://open.spotify.com/artist/5UpZtcbGmLEhU8fFayr4Iq), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Paisagem](https://open.spotify.com/album/4knGeJAqB8IMwNKQc6JHNF) | 3:57 | 2022-08-12 |  |
 | [Papel de Trouxa](https://open.spotify.com/track/3eIopS2sNEht311iFdvOZf) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [Papel de Trouxa](https://open.spotify.com/album/2OJJzGSCChmfibUiV7oWz0) | 3:16 | 2022-04-29 | 2022-06-11 |
 | [Pare](https://open.spotify.com/track/12aSXMAvxEOGocRJWKhOXP) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Pare](https://open.spotify.com/album/21P7sYIcWF89cfjJYDcxo3) | 2:32 | 2022-06-24 | 2022-07-23 |
-| [Pensar](https://open.spotify.com/track/6rDhAFyPjQUqtbwpd6BvnQ) | [Hate Moss](https://open.spotify.com/artist/70OdNVoUb2Pn8kG7gDDHGe), [Isis Broken](https://open.spotify.com/artist/5OSfbUnn2yTVhUR40msm1V) | [Pensar](https://open.spotify.com/album/1Dd9yZOGwhF0XN4xYzr2Hr) | 4:07 | 2022-05-20 |  |
+| [Pensar](https://open.spotify.com/track/6TWjpy8RzfZilYV0dCR5rO) | [Hate Moss](https://open.spotify.com/artist/70OdNVoUb2Pn8kG7gDDHGe), [Isis Broken](https://open.spotify.com/artist/5OSfbUnn2yTVhUR40msm1V) | [Nan](https://open.spotify.com/album/54VdaXTE0n0fGCKYQJHHNj) | 4:07 | 2022-10-14 |  |
+| [Pensar](https://open.spotify.com/track/6rDhAFyPjQUqtbwpd6BvnQ) | [Hate Moss](https://open.spotify.com/artist/70OdNVoUb2Pn8kG7gDDHGe), [Isis Broken](https://open.spotify.com/artist/5OSfbUnn2yTVhUR40msm1V) | [Pensar](https://open.spotify.com/album/1Dd9yZOGwhF0XN4xYzr2Hr) | 4:07 | 2022-05-20 | 2022-10-19 |
 | [Pequeninim](https://open.spotify.com/track/4gpV8VQLAUHZYc5sF5XvqO) | [Tai Veroto](https://open.spotify.com/artist/3A5GNgtCDoeQQwumrEI1be), [Luiza Caspary](https://open.spotify.com/artist/32HwSrV3Tkw09CmxRhSWk8) | [Pequeninim](https://open.spotify.com/album/5SLWgHjyzk2xrSz1OdJt0M) | 3:24 | 2022-01-14 | 2022-02-12 |
 | [Peraí Seu Moço](https://open.spotify.com/track/1YIwJ4Gy15mVKkygMXvC4e) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Peraí Seu Moço](https://open.spotify.com/album/0tBkigcdD7rA849O2MEiRK) | 2:41 | 2022-03-04 | 2022-04-02 |
 | [PERFUME](https://open.spotify.com/track/0x4cfJP9Y1f8AQOxaowqZa) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [PERFUME](https://open.spotify.com/album/7nC6xkot95ZospgGL97fqn) | 3:54 | 2022-08-19 |  |

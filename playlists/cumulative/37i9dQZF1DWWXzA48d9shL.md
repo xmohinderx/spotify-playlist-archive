@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: CORPSE
 
-318 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+319 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [2nd Hand](https://open.spotify.com/track/4yORBk6ZyYsJpnJchyZevc) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/76f9HU4YP42WHFoyo9JWPa) | 2:03 | 2021-09-17 | 2022-05-17 |
 | [4SEASONS](https://open.spotify.com/track/6kahpDP8SCtBZtuFi6dKm2) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [4SEASONS](https://open.spotify.com/album/2wS2BbSlgP4bd7uSrjiQjv) | 3:17 | 2022-10-14 |  |
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2021-09-17 | 2022-06-04 |
-| [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-23 |  |
+| [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-23 | 2022-10-19 |
+| [8 O 8](https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/5r65jaORaCdaf7WouDpilt) | 3:22 | 2022-09-23 |  |
 | [A Lot](https://open.spotify.com/track/461qq5XnmwjXTt1sBgI4lX) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7), [FTG Reggie](https://open.spotify.com/artist/10ga9ZMdxwRb1zML85jUiM) | [A Lot](https://open.spotify.com/album/2AdoLUPHICCss37Ip7OUOl) | 2:21 | 2021-09-17 |  |
 | [a mosh pit love story](https://open.spotify.com/track/5Q7JUXXghzKqPPS2IrJK8O) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [a mosh pit love story](https://open.spotify.com/album/68KzN6H88EMJK6wxChPYaN) | 1:57 | 2021-10-01 | 2022-05-28 |
 | [AI](https://open.spotify.com/track/4OcxBd349UIgErVz81V2TY) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [AI](https://open.spotify.com/album/2bqMK2GcB02ezyvBJhW7Uy) | 2:54 | 2021-09-17 | 2022-06-11 |

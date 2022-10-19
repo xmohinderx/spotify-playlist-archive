@@ -4,7 +4,7 @@
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
-970 songs - 2 day 11 hr 24 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+972 songs - 2 day 11 hr 33 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,8 @@
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 |  |
 | [It's A Man's World/Sleeping With The One I Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1qX2eMwJzsQdhPg2CrmC1r) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Spotify Singles](https://open.spotify.com/album/56P9jRbQcFQ8KOBW17xI00) | 6:02 | 2022-01-19 |  |
 | [It’s A Beautiful World \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/7H9fZYFWWhmMiJbklrHYV8) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Spotify Singles](https://open.spotify.com/album/1zNkENtarEag1002VNNhT7) | 5:36 | 2022-01-19 |  |
-| [Ivy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2vkGGrvr58ODOWEv3Yhwow) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:22 | 2022-01-19 |  |
+| [Ivy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2vkGGrvr58ODOWEv3Yhwow) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:22 | 2022-01-19 | 2022-10-19 |
+| [Ivy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Db88sMdYMNETPXIZyJdwk) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf) | 4:22 | 2022-10-12 |  |
 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0aSAkZFJXRPx4DmzanThFQ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/4Xw3godmGRmZfTB8DeCVHh) | 3:50 | 2022-10-12 |  |
 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/20fBriFnVXdyjj7IiESVUf) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/6fyZpMCv7ynKO7qn9ZsGuS) | 3:50 | 2022-01-19 | 2022-07-29 |
 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7efFyu52WlaafFmfek6DUw) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/33STARxd0GjXdsIQ60novb) | 3:50 | 2022-07-05 | 2022-10-13 |
@@ -654,7 +655,8 @@
 | [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:30 | 2022-07-05 | 2022-10-14 |
 | [Out of Focus \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5hNR2TXslThoEgqqdDlt8F) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:30 | 2022-01-19 | 2022-07-29 |
 | [Out Of Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:52 | 2022-01-19 |  |
-| [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qc95VxpLLPEfAD4YIZYn5) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:35 | 2022-01-19 |  |
+| [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1U0deAPhGBIywMOiaufLEk) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf) | 4:35 | 2022-10-12 |  |
+| [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qc95VxpLLPEfAD4YIZYn5) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:35 | 2022-01-19 | 2022-10-19 |
 | [Over And Over \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/05QUNkTFq3kK0Q062LDVxA) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/08XmZEKHQzIPvf5Tfeo4HS) | 3:19 | 2022-01-19 |  |
 | [Over and Over and Over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0xifWW42VYaKL2kTJ7b07X) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Spotify Singles](https://open.spotify.com/album/5QBJSK8CPp0MQZBst4cdni) | 3:51 | 2022-01-19 |  |
 | [Own Light \(What Hearts Are For\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2LIVAGWrIwOoY0LMhI7vwu) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/319mxXyK6WMtGjiRrZV8J1) | 4:10 | 2022-07-05 |  |

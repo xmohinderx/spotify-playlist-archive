@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Charlotte de Witte.",
-  "num_followers": 404465,
+  "num_followers": 404634,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGE3ZDZkMTM1OTBlZDYzMmQwMzI2N2FkMjFlMTI1ODRl",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDViMTA2MjFiZjQ0M2M2NTBiMmRiNThmM2M5ZWEwMmYy",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 176804,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/15UAaGEBSQVyujtrEmjfQr"
       },
@@ -631,22 +611,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/1xvxKcfieI9U1aEzOV8HCJ"
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "Apollo Jane",
-          "url": "https://open.spotify.com/artist/1vqfuBk5JF1LynFQZ19p3r"
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
         }
       ],
-      "duration_ms": 204055,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/39QZxoXH9jfjmY8iwFyrNB"
+      "duration_ms": 176804,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -667,6 +647,26 @@
       "duration_ms": 135656,
       "name": "Dip It Low",
       "url": "https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/1xvxKcfieI9U1aEzOV8HCJ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Apollo Jane",
+          "url": "https://open.spotify.com/artist/1vqfuBk5JF1LynFQZ19p3r"
+        }
+      ],
+      "duration_ms": 204055,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/39QZxoXH9jfjmY8iwFyrNB"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Party Girl",
-        "url": "https://open.spotify.com/album/5s1TJf6zpI073x4X6mLdLR"
-      },
-      "artists": [
-        {
-          "name": "Afrojack presents NLW",
-          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
-        },
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 175452,
-      "name": "Party Girl",
-      "url": "https://open.spotify.com/track/3ixvutjcI6IsGQ6Qehe1Po"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Forever In My Mind",
         "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Party Girl",
+        "url": "https://open.spotify.com/album/5s1TJf6zpI073x4X6mLdLR"
+      },
+      "artists": [
+        {
+          "name": "Afrojack presents NLW",
+          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 175452,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/3ixvutjcI6IsGQ6Qehe1Po"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
       },
@@ -759,46 +759,6 @@
       "duration_ms": 175714,
       "name": "Rage",
       "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Talkin",
-        "url": "https://open.spotify.com/album/4lVS9OPZ5WVCR4FVNmBKus"
-      },
-      "artists": [
-        {
-          "name": "DJ Hanzel",
-          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 211831,
-      "name": "Talkin",
-      "url": "https://open.spotify.com/track/7LPgv7LJ4AgBLsamOzsBh0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Stitch You Up",
-        "url": "https://open.spotify.com/album/6tLiQKpaLjBcOuL4rFrUnK"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Stitch You Up",
-      "url": "https://open.spotify.com/track/0BEubg7BHSDR9fOzzsmHOx"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -843,6 +803,46 @@
       "duration_ms": 210000,
       "name": "The Last Dinosaur",
       "url": "https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Talkin",
+        "url": "https://open.spotify.com/album/4lVS9OPZ5WVCR4FVNmBKus"
+      },
+      "artists": [
+        {
+          "name": "DJ Hanzel",
+          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 211831,
+      "name": "Talkin",
+      "url": "https://open.spotify.com/track/7LPgv7LJ4AgBLsamOzsBh0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Stitch You Up",
+        "url": "https://open.spotify.com/album/6tLiQKpaLjBcOuL4rFrUnK"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Stitch You Up",
+      "url": "https://open.spotify.com/track/0BEubg7BHSDR9fOzzsmHOx"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Restless Bones",
+        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Restless Bones",
+      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Restless Bones",
-        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Restless Bones",
-      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Look Back",
-        "url": "https://open.spotify.com/album/4WptQuxLSAczoyQXrwZWFW"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 222295,
-      "name": "Look Back",
-      "url": "https://open.spotify.com/track/56arOopqj8V928baND3phD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/2ap51cMDdkW0IlqDhxx7Tb"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 168750,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/5W6JPtcMVsiHvFg9f9Oy5S"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Look Back",
+        "url": "https://open.spotify.com/album/4WptQuxLSAczoyQXrwZWFW"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 222295,
+      "name": "Look Back",
+      "url": "https://open.spotify.com/track/56arOopqj8V928baND3phD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/2NUBWk4THrisiVBegau8M8"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        },
-        {
-          "name": "Willone",
-          "url": "https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf"
-        }
-      ],
-      "duration_ms": 176874,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/1Ro0iWE2IjxZqwM6i0CgTL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Supersized",
         "url": "https://open.spotify.com/album/1pOONF2wxB8MYRN6g5PEQe"
       },
@@ -1195,26 +1175,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sleepless (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/7dYiwBC4Q0d5RcT6otipKY"
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/2NUBWk4THrisiVBegau8M8"
       },
       "artists": [
         {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Willone",
+          "url": "https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf"
         }
       ],
-      "duration_ms": 208973,
-      "name": "Sleepless - The Knocks Remix",
-      "url": "https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y"
+      "duration_ms": 176874,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/1Ro0iWE2IjxZqwM6i0CgTL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1239,22 +1215,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Conundrum",
-        "url": "https://open.spotify.com/album/53LSWUnOo7bskTO0acMR2C"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 196572,
-      "name": "Conundrum",
-      "url": "https://open.spotify.com/track/7EmY6KCl1EF5FbieZznTrL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Move My Feet",
         "url": "https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6"
       },
@@ -1271,6 +1231,46 @@
       "duration_ms": 198095,
       "name": "Move My Feet",
       "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Conundrum",
+        "url": "https://open.spotify.com/album/53LSWUnOo7bskTO0acMR2C"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 196572,
+      "name": "Conundrum",
+      "url": "https://open.spotify.com/track/7EmY6KCl1EF5FbieZznTrL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Sleepless (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/7dYiwBC4Q0d5RcT6otipKY"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "Sleepless - The Knocks Remix",
+      "url": "https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Colours (Tsu Nami Remix)",
-        "url": "https://open.spotify.com/album/0tmBZ08VFmrskKtmAusk18"
-      },
-      "artists": [
-        {
-          "name": "Mat Zo",
-          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
-        },
-        {
-          "name": "OLAN",
-          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
-        },
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Colours - Tsu Nami Remix",
-      "url": "https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Se Va",
         "url": "https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S"
       },
@@ -1343,38 +1319,6 @@
       "duration_ms": 196750,
       "name": "Se Va",
       "url": "https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "So Right",
-        "url": "https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dream - Edit",
-      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1399,6 +1343,62 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "So Right",
+        "url": "https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Colours (Tsu Nami Remix)",
+        "url": "https://open.spotify.com/album/0tmBZ08VFmrskKtmAusk18"
+      },
+      "artists": [
+        {
+          "name": "Mat Zo",
+          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
+        },
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        },
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Colours - Tsu Nami Remix",
+      "url": "https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dream - Edit",
+      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Never Wanna Let Go",
         "url": "https://open.spotify.com/album/3ygnuPmnNn8v5JyKm6EG7w"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 163809,
       "name": "Never Wanna Let Go",
       "url": "https://open.spotify.com/track/6Bddn8Iyy56psY24T7sUOf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4j5869Gvx7MsgWmtCzmKt7"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 214761,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/1laVJxoALXrvIeVesYSkzW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4j5869Gvx7MsgWmtCzmKt7"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/6wJcqyhMEgOiOl1A5jXhjB"
       },
       "artists": [
         {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         }
       ],
-      "duration_ms": 214761,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/1laVJxoALXrvIeVesYSkzW"
+      "duration_ms": 156480,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1j8Z3M9wJTi9iqEsxfqs95"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 228565,
       "name": "Yabaal to London",
       "url": "https://open.spotify.com/track/3uX7klLzTUPEfVyOVHabOQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/6wJcqyhMEgOiOl1A5jXhjB"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1j8Z3M9wJTi9iqEsxfqs95"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Coraz\u00f2n",
-        "url": "https://open.spotify.com/album/25pWWXztqiKMQTFUqJ1k2z"
-      },
-      "artists": [
-        {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Coraz\u00f2n",
-      "url": "https://open.spotify.com/track/0OVLIqMm6PVeWoYwUBZbp3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "TASTE",
         "url": "https://open.spotify.com/album/285vkmSFMb9BTcDNFlhRQT"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Coraz\u00f2n",
+        "url": "https://open.spotify.com/album/25pWWXztqiKMQTFUqJ1k2z"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Coraz\u00f2n",
+      "url": "https://open.spotify.com/track/0OVLIqMm6PVeWoYwUBZbp3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Deep Space",
         "url": "https://open.spotify.com/album/0eYxRzlzOOoG8c0RWI15LD"
       },
@@ -1667,6 +1667,38 @@
       "duration_ms": 233142,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/3cawIjrVTGtkC5LOZpzriJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Noodle King",
+        "url": "https://open.spotify.com/album/5tb8kPpioXHHLCUIpvc9QO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bru",
+          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
+        }
+      ],
+      "duration_ms": 353134,
+      "name": "Noodle King",
+      "url": "https://open.spotify.com/track/6SiPSZYFJYnYWD3o0NRMTZ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Keeping Strong",
+        "url": "https://open.spotify.com/album/78KzSdWVdX7uleTgTgsUTI"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 227356,
+      "name": "Keeping Strong - Radio Edit",
+      "url": "https://open.spotify.com/track/779ilPXl7ty7nVg6TLs4fC"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1691,38 +1723,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Keeping Strong",
-        "url": "https://open.spotify.com/album/78KzSdWVdX7uleTgTgsUTI"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 227356,
-      "name": "Keeping Strong - Radio Edit",
-      "url": "https://open.spotify.com/track/779ilPXl7ty7nVg6TLs4fC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Noodle King",
-        "url": "https://open.spotify.com/album/5tb8kPpioXHHLCUIpvc9QO"
-      },
-      "artists": [
-        {
-          "name": "Jesse Bru",
-          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
-        }
-      ],
-      "duration_ms": 353134,
-      "name": "Noodle King",
-      "url": "https://open.spotify.com/track/6SiPSZYFJYnYWD3o0NRMTZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "JUST A GIRL",
         "url": "https://open.spotify.com/album/0c5rNOiudvnMeCK0hbvzni"
       },
@@ -1735,6 +1735,42 @@
       "duration_ms": 205714,
       "name": "JUST A GIRL",
       "url": "https://open.spotify.com/track/2CXto8yeqRjDc1b02UoTDZ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Sunday Night",
+        "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 150131,
+      "name": "Sunday Night",
+      "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "101010101 (3D)",
+        "url": "https://open.spotify.com/album/2IFMYjtdNgjkZCZD625Wo0"
+      },
+      "artists": [
+        {
+          "name": "Black Girl / White Girl",
+          "url": "https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz"
+        }
+      ],
+      "duration_ms": 161001,
+      "name": "101010101 (3D)",
+      "url": "https://open.spotify.com/track/1yhijEkkmMwl147cwwvKQa"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1771,54 +1807,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "101010101 (3D)",
-        "url": "https://open.spotify.com/album/2IFMYjtdNgjkZCZD625Wo0"
+        "name": "Cross Me",
+        "url": "https://open.spotify.com/album/6zVp3A8lkZjrDOAxExLdMi"
       },
       "artists": [
         {
-          "name": "Black Girl / White Girl",
-          "url": "https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz"
+          "name": "HWLS",
+          "url": "https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO"
         }
       ],
-      "duration_ms": 161001,
-      "name": "101010101 (3D)",
-      "url": "https://open.spotify.com/track/1yhijEkkmMwl147cwwvKQa"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Sunday Night",
-        "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 150131,
-      "name": "Sunday Night",
-      "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "LFOs Are Real",
-        "url": "https://open.spotify.com/album/3muIOm0OVXnJXLFwd4mVjC"
-      },
-      "artists": [
-        {
-          "name": "Sant\u00e9",
-          "url": "https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE"
-        }
-      ],
-      "duration_ms": 398095,
-      "name": "LFOs",
-      "url": "https://open.spotify.com/track/5ocXtNZXqXTWVFT0oVX7VW"
+      "duration_ms": 256118,
+      "name": "Cross Me",
+      "url": "https://open.spotify.com/track/6OXTbzpfIyd3e8wDB1QQnD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cross Me",
-        "url": "https://open.spotify.com/album/6zVp3A8lkZjrDOAxExLdMi"
+        "name": "LFOs Are Real",
+        "url": "https://open.spotify.com/album/3muIOm0OVXnJXLFwd4mVjC"
       },
       "artists": [
         {
-          "name": "HWLS",
-          "url": "https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO"
+          "name": "Sant\u00e9",
+          "url": "https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE"
         }
       ],
-      "duration_ms": 256118,
-      "name": "Cross Me",
-      "url": "https://open.spotify.com/track/6OXTbzpfIyd3e8wDB1QQnD"
+      "duration_ms": 398095,
+      "name": "LFOs",
+      "url": "https://open.spotify.com/track/5ocXtNZXqXTWVFT0oVX7VW"
     },
     {
       "added_at": "2022-10-14 04:00:00",

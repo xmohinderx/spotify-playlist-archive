@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Triple Riding
 
-387 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+388 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Udho Udho Huligemma](https://open.spotify.com/track/7LLozkw4hGagbFqwl0RKYl) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Raana](https://open.spotify.com/album/39QsdjzMVGQyXqPCnowrYj) | 4:14 | 2022-02-15 | 2022-03-14 |
 | [Udupi Hotelu](https://open.spotify.com/track/5qHavAlDuoHxydQvcoYyHZ) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Badava Rascal](https://open.spotify.com/album/5ipfmQApCuvhI3tYuv3eLy) | 3:15 | 2021-12-06 | 2022-06-15 |
 | [Usiradagide](https://open.spotify.com/track/50NtnG97a2M2BKOpu9d0HZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp) | [Cobra \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qSwn3PO718zhJ7UhYBO0K) | 5:13 | 2022-09-05 |  |
+| [Usire Usire \( From "Mehbooba"\)](https://open.spotify.com/track/1l5nMZQDCMzKRRMmgX4UG9) | [Nadeera Banu](https://open.spotify.com/artist/4rxjmsGK65NwiIXANsVGYS), [Mathews Manu](https://open.spotify.com/artist/2qlqqGIFF4jY4sGn29J4Ir), [V\. Raghu Shastry](https://open.spotify.com/artist/54RaRFcpqUUJIisuXILbUL) | [Usire Usire \(From "Mehbooba"\)](https://open.spotify.com/album/1qcxbOCzcFmvBS2hHpco6X) | 3:43 | 2022-10-18 |  |
 | [Usire Usire \- From "Girinad Premi"](https://open.spotify.com/track/14l2oxJ2SnKr3XPf5ERzpc) | [Darshan G K](https://open.spotify.com/artist/0ePb4tCnAL9wm1aBzMs55e), [Vinay Kumar](https://open.spotify.com/artist/25K5LRzKHyrkkTvz7YJtsw), [Samrat](https://open.spotify.com/artist/3fWf8hqMxRZW1M3ghLcKQV), [Suraj Purnik](https://open.spotify.com/artist/2PLzdSmcLsppxw5siB03JJ) | [Usire Usire \(From "Girinad Premi"\)](https://open.spotify.com/album/0DQyqlaNq3NJFTRCt69ceN) | 2:43 | 2022-09-01 |  |
 | [Vaikuntake Savaari \(From "Nodi Swamy Ivanu Irode Heege"\)](https://open.spotify.com/track/40ofFwEAvzwx9jaMtPnVD4) | [Prasanna Sivaraman](https://open.spotify.com/artist/3VsrVjGesZwWFS9bFO44I9), [Mahesh Raghunandan](https://open.spotify.com/artist/1xWSLDgDFjuwInm5nMIdba) | [Vaikuntake Savaari \(From "Nodi Swamy Ivanu Irode Heege"\)](https://open.spotify.com/album/375XWgTjTvp9K7KW9xHBqZ) | 3:25 | 2022-08-19 |  |
 | [Vasudhaiva Kutumbakam](https://open.spotify.com/track/3H7X1sQxtdQBJ6P8bX7Z7r) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Vasudhaiva Kutumbakam \(From "Avatara Purusha"\)](https://open.spotify.com/album/5uqclAytF94p6beqdKHLs6) | 5:06 | 2022-05-19 |  |

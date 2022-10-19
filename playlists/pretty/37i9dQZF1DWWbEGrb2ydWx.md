@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,756 likes - 59 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,770 likes - 59 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 7 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
 | 8 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 |
 | 9 | [jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
-| 10 | [The Click](https://open.spotify.com/track/32b1rOvVkump0ewcBsJgFu) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/7d03UClkrbbMOsKAWpDkjh) | 6:22 |
+| 10 | [The Click](https://open.spotify.com/track/5exQy7sHiO0vdOXBUthIMr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/6ifRXj7GTmeghO5Bdf7mZ2) | 6:22 |
 | 11 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 |
 | 12 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 13 | [Otto](https://open.spotify.com/track/0w5frpmwoOzNokavFK59TX) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Otto](https://open.spotify.com/album/3ucYiqS68iOWRqRg9Ec3X7) | 5:49 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 29 | [Fatherless](https://open.spotify.com/track/5Bs93ZX1NAjAT5tPyPLJRA) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Fatherless](https://open.spotify.com/album/4FhBOsnkUXVVSnRkG7ikcr) | 6:20 |
 | 30 | [Medium](https://open.spotify.com/track/6cZOCKcURyJNou1nudfb5X) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:14 |
 | 31 | [J.W\. on a Good Night](https://open.spotify.com/track/5ftI5jeqgxBMAFVVpK0ApJ) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw) | [DAT Music 2](https://open.spotify.com/album/6QoY08xZUGGVzI95yI6l7i) | 5:43 |
-| 32 | [In Pursuit \- Cop Envy Remix](https://open.spotify.com/track/7eKjcdrG4huRp03nwhn3J0) | [Dormir](https://open.spotify.com/artist/6NeUtAR8dDb4RFlJgFhvHY), [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [In Pursuit](https://open.spotify.com/album/60PGaCcO98DArFT0ElFnGc) | 5:21 |
+| 32 | [In Pursuit \- Cop Envy Remix](https://open.spotify.com/track/6TOfCBjiM08TRMHeOWS03V) | [Dormir](https://open.spotify.com/artist/6NeUtAR8dDb4RFlJgFhvHY), [Cop Envy](https://open.spotify.com/artist/2Kw0Sr0n8G0uuzyeFdANyF) | [In Pursuit](https://open.spotify.com/album/7uuM6lBa2sX6AoXECbIXTR) | 5:21 |
 | 33 | [Shake The Room \(feat\. Quavo\)](https://open.spotify.com/track/5Ar2IdS42hvVwV7EhflI8b) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 2:45 |
 | 34 | [Starlight \- Original Mix](https://open.spotify.com/track/7pwA0lkUxRVUmwp8BzZsAZ) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 6:19 |
 | 35 | [Friendly Pressure \- Into The Sunshine Mix](https://open.spotify.com/track/0RZmpy15J6VSzx3IPuNEmR) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:34 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 58 | [J&W Beat](https://open.spotify.com/track/3ulYmElxqeXxo8TaezKciy) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [J&W Beat](https://open.spotify.com/album/2DFU3nz0jrhjY0Vj2aJA37) | 6:03 |
 | 59 | [Unravel in the Designated Zone](https://open.spotify.com/track/10IxtRq6xz3ABo8E9aDROE) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [OTMI001](https://open.spotify.com/album/12w3hePulByvTE7fOF0r6W) | 4:48 |
 
-Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMDMzZWI2N2Q0NTAzYjBhZjk1ZjVhZTYwODI4NDI5MzRl`
+Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMGYzM2M2YmNkMmNmMjhlMTcxN2ZiYmE2YjUzMWQxNDJm`

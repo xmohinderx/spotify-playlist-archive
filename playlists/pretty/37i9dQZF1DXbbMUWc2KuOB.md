@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,046 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,219 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 39 | [Take My Hand \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Romance is a Bonus Book OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
 | 40 | [Is You \- Instrumental](https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43) | 4:23 |
 | 41 | [Farewell In Tears \- Instrumental](https://open.spotify.com/track/3naRPYN8jxHrUppJ8qgE6v) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt\. 5 \(Original Television SoundTrack\)](https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB) | 4:16 |
-| 42 | [Stay with me](https://open.spotify.com/track/6o3LRRdo47fH25HmN8LysW) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Monthly magazine home, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/2uf8JLjwYLXRvEhOinsw8z) | 3:56 |
-| 43 | [Someday, The Boy Instrumental](https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\)](https://open.spotify.com/album/2PsmLUt0LAcT2c9xzDmxI0) | 4:47 |
-| 44 | [Be a Flame](https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Mr\. Sunshine \(Original Television Soundtrack\)](https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ) | 3:22 |
-| 45 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
+| 42 | [Someday, The Boy Instrumental](https://open.spotify.com/track/1cVvH5rZ4IYYhJfKed7K2R) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\)](https://open.spotify.com/album/2PsmLUt0LAcT2c9xzDmxI0) | 4:47 |
+| 43 | [Be a Flame](https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Mr\. Sunshine \(Original Television Soundtrack\)](https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ) | 3:22 |
+| 44 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
+| 45 | [Stay with me](https://open.spotify.com/track/6o3LRRdo47fH25HmN8LysW) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Monthly magazine home, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/2uf8JLjwYLXRvEhOinsw8z) | 3:56 |
 | 46 | [Please Don't Cry \- Instrumental](https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47) | 3:55 |
 | 47 | [More Than Words \- Instrumental](https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [DINNER MATE \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF) | 3:15 |
 | 48 | [Another Day \- Instrumental](https://open.spotify.com/track/1VkaIjfAKJargRlbnJZIg2) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/51VPAPWzszkMcyqVz5VvKc) | 3:37 |
 | 49 | [So Tender \- Instrumental](https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 | 50 | [Confession \(Inst.\)](https://open.spotify.com/track/7A63UiHZvFru4yuzcZ9OW9) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Do You Like Brahms? OST Part.2](https://open.spotify.com/album/1KvZT5kQowPVKSZVWMrd3Y) | 4:14 |
 
-Snapshot ID: `MTY0OTc1NDk3OSwwMDAwMDAwMDMzNTczOTMwZTM0ZjRkMTU0NWE2ZDI5ZDNmOWZhODM1`
+Snapshot ID: `MTY0OTc1NDk3OSwwMDAwMDAwMDJlMzE3NGYxMGFjMDQ3YzEyNGQzYjU4Mjk5NmZmNmY4`

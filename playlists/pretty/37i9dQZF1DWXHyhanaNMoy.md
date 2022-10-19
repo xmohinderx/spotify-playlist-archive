@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en good vibes! Cover: Antoon & Dopebwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,727 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,765 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 25 | [Wakker](https://open.spotify.com/track/2qmPzRSLEOdlj2QSYosF3R) | [Lil MG](https://open.spotify.com/artist/2XYHHHKyZLvw1KUrDF1yfI), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Wakker](https://open.spotify.com/album/6f5KtYbGYaoCUwlUoOwTt6) | 2:26 |
 | 26 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 27 | [BALANCE](https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [BALANCE](https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub) | 3:20 |
-| 28 | [Solito](https://open.spotify.com/track/7qXlJZETSJSlbdd9Y5vuo8) | [SIM\-OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Nicole Manzo](https://open.spotify.com/artist/2xMWVkr64dpJLZY8LRGUdb), [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [Apocalyps \- EP](https://open.spotify.com/album/7x4mXs3PQ05wG0BP4pLx9f) | 2:42 |
+| 28 | [Solito](https://open.spotify.com/track/7qXlJZETSJSlbdd9Y5vuo8) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Nicole Manzo](https://open.spotify.com/artist/2xMWVkr64dpJLZY8LRGUdb), [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [Apocalyps \- EP](https://open.spotify.com/album/7x4mXs3PQ05wG0BP4pLx9f) | 2:42 |
 | 29 | [Believe](https://open.spotify.com/track/3x8vHQ7puLfFcifPHlnf5I) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Believe](https://open.spotify.com/album/7r7JMmXSL78LgTwpCb0RA9) | 2:13 |
 | 30 | [Was! \(feat\. Kinoh & TAVV\)](https://open.spotify.com/track/3W12ULRIjyFqdInBnguvwN) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Kinoh](https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Was! \(feat\. Kinoh & TAVV\)](https://open.spotify.com/album/0drX2CklhseObE1gTLsGi4) | 2:54 |
 | 31 | [So Me Stay](https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Outta Body Experience Riddim](https://open.spotify.com/album/7mbglZnNuCUrYTzfLKgMDW) | 3:25 |

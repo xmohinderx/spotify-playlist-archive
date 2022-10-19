@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,037 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,103 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 10 | [The Rocky Road to Dublin / The American Polka](https://open.spotify.com/track/4akhlPKimkDKwOyJbKnugt) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Gather the Good](https://open.spotify.com/album/52GcASolw4fAfosClZlqOK) | 3:57 |
 | 11 | [Goodbye Girls I'm Going to Boston](https://open.spotify.com/track/2bgqrasCfNCP9B2MY8J4iz) | [Laura Feddersen](https://open.spotify.com/artist/5C0s1exsc0UT1MytdU7kKZ), [Joel Wennerstrom](https://open.spotify.com/artist/0CS4kanxTgf7zAq0dxBBhl), [Owen Marshall](https://open.spotify.com/artist/1fhC0AGIoLHS9qd0GszMDI) | [Wooden Nickels](https://open.spotify.com/album/3gQy6X7TuRab6r0VdzW6ra) | 3:28 |
 | 12 | [The Lobster](https://open.spotify.com/track/2HuM4u9jZHiHi0GuJpTTjc) | [The Gloaming](https://open.spotify.com/artist/4fQbIxjM2vH6YF4OsWlaGT) | [The Gloaming 3](https://open.spotify.com/album/0i0MY1PC7Zp6d2R2w9XpuV) | 6:53 |
-| 13 | [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/17XDKfATaLDVs28Wh9Ry5J) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s) | 4:29 |
+| 13 | [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/2RwshonNEkw7d1GyTpMMAU) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:29 |
 | 14 | [Runs in the Family / Angry Birds](https://open.spotify.com/track/71YL7LsmiRb8EErKnKWluE) | [Adam Agee](https://open.spotify.com/artist/3LVrnF56s6BbtdKj1GMqEg), [Jon Sousa](https://open.spotify.com/artist/1vCSweNAIl03TMHHTE3Hn9) | [Suantraí](https://open.spotify.com/album/2htRFnWrSnCFlcDhqtWRk8) | 2:22 |
 | 15 | [The Killavil Jig / Billy O'rourke Is the Buachaill Jigs](https://open.spotify.com/track/1nh3bUbH8smaGxFTJdCCmn) | [P.J\. Hayes](https://open.spotify.com/artist/5qZm0evJAaQ0546qkSNHk2), [Martin Hayes](https://open.spotify.com/artist/46PiSMoqr45oKsBesjqlKv) | [The Shores of Lough Graney](https://open.spotify.com/album/0kA4OpiO0iYJ0wH5kiejM4) | 2:19 |
 | 16 | [The Meelick Team / Whelan's Jig / Rolling Waves](https://open.spotify.com/track/2RbzVelNdSFosRBWc03Je7) | [Dermot Byrne](https://open.spotify.com/artist/7zYOs83aBa0MGKTXjcqeIc), [Kevin Crawford](https://open.spotify.com/artist/1PZVs9CIUJezVIKNaQ6BzF), [Éilís Crean](https://open.spotify.com/artist/1G3RmMchcUMHeWlQcXBSTh), [John Doyle](https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC), [Kenny Malone](https://open.spotify.com/artist/6NcMdkaqsWM6Y1e529IPQ6) | [The Lonesome Fiddler](https://open.spotify.com/album/5wK2zSsu8uCfmEwaRwdQkD) | 4:45 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDYzM2I3ZWY4MmFjZGI2Y2EzOWQ2MTM2MDhjMzJmNzRl`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDkxNTZiYjY1MGY2MjYzYzQ5NGU0NWQwODFjZWUwZmEz`

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-375 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+376 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Pizza](https://open.spotify.com/track/25ozvB4exLomeSMNCKHxM6) | [Las Piñas](https://open.spotify.com/artist/7zKaxLmOXQAoSqtu2Ck93e) | [Espanto Caribe](https://open.spotify.com/album/5oWKNvRZJ9616naxtq9OgZ) | 1:28 | 2022-06-03 | 2022-07-27 |
 | [Plantas Negras](https://open.spotify.com/track/1e3MJffTvLGxQSPBRj9Zs9) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW) | 3:24 | 2022-07-01 | 2022-07-29 |
 | [Plantas Negras](https://open.spotify.com/track/4WfgAerrEu6fFl8g1LBX3f) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 3:24 | 2022-07-15 | 2022-09-10 |
-| [Poca Cosa](https://open.spotify.com/track/7uQeAEzbhsTvOSxsgFuAaO) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Nos Vamos a Morir de Hacer Estrategias de Amor](https://open.spotify.com/album/3SWp2qtW6x37FWzfpeZzVO) | 2:10 | 2022-07-01 |  |
+| [Poca Cosa](https://open.spotify.com/track/7uQeAEzbhsTvOSxsgFuAaO) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Nos Vamos a Morir de Hacer Estrategias de Amor](https://open.spotify.com/album/3SWp2qtW6x37FWzfpeZzVO) | 2:10 | 2022-07-01 | 2022-10-19 |
 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 | 2022-07-01 |  |
 | [Polvo de Estrellas](https://open.spotify.com/track/4LDHQIpRkjQkmmmgMd1lsy) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Polvo de Estrellas](https://open.spotify.com/album/29wM86WH6LmH3F7AtQN3Eh) | 2:15 | 2022-06-03 | 2022-07-29 |
 | [Posiblemente](https://open.spotify.com/track/0unDoM0K23Us89jR1BITXT) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Piruetas y Viñetas](https://open.spotify.com/album/5M5RJ8XtpMKDhyqDKVaSIB) | 3:17 | 2022-06-03 | 2022-07-25 |
@@ -319,6 +319,7 @@
 | [Sabés Dónde Encontrarme](https://open.spotify.com/track/7fMVcLdtD9RGlUfMxnO08T) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Declaración de Principios](https://open.spotify.com/album/6KgAL7uTSPiZ6EvX043GVq) | 3:23 | 2022-07-15 |  |
 | [Safari](https://open.spotify.com/track/14pgA3KZnuxmHixdWkxRLF) | [Machingo](https://open.spotify.com/artist/2EZXJLmEXia9ccRvTl6C6R) | [Safari](https://open.spotify.com/album/4KFc9asML3zShZKOuqEvUN) | 3:28 | 2022-07-15 | 2022-07-18 |
 | [Semillas de Luz](https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 4:11 | 2022-06-03 |  |
+| [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-12 |  |
 | [Sigo Dando Amor](https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Sigo Dando Amor](https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu) | 4:41 | 2022-06-03 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-06-03 |  |
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-06-03 | 2022-07-24 |

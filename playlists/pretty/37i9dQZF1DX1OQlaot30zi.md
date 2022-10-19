@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Vale Pain, Fabri Fibra, Neffa, Side Baby e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,336 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,354 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 54 | [Giorni Contati \(con Paky, Noyz Narcos, Geolier & Shiva\)](https://open.spotify.com/track/6QjpEvmiZIM9qgTQhg5dzi) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:52 |
 | 55 | [YO](https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [YO](https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT) | 2:25 |
 | 56 | [SOCIAL](https://open.spotify.com/track/2Q7XAHQ0bk3GooyDG8Nlb6) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [SOCIAL](https://open.spotify.com/album/3G79iLNwARWJRjGSED29fP) | 2:08 |
-| 57 | [Sono tristi anche le star](https://open.spotify.com/track/197sltAUVMru0iJmJwPcho) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj) | 2:50 |
+| 57 | [Sono tristi anche le star](https://open.spotify.com/track/5AhoYuhVuAl3fqpIhe46qE) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/41Tkn4XnbcB7bwFf5lSBR3) | 2:50 |
 | 58 | [Cosa Mi Fai](https://open.spotify.com/track/2Qhmfigrjp1of4AD6zUImD) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Cosa Mi Fai](https://open.spotify.com/album/57UqdbgyoNisrVqHE17qwj) | 2:41 |
 | 59 | [EURODOLLARI](https://open.spotify.com/track/3CguVdcW4WpN7Hd5SatVAD) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [LOWKEY](https://open.spotify.com/album/1dFObdpYkiKeHjD6OTIHyu) | 2:25 |
 | 60 | [Round \#1](https://open.spotify.com/track/6YhvuW3UM7wyGoZegel8hB) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [Round \#1](https://open.spotify.com/album/6VxMRWN2d4rA5msVX5SIPN) | 2:27 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 73 | [Giro La Nuit](https://open.spotify.com/track/1bBuTSK4KzCBveyk8999Qa) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Giro La Nuit](https://open.spotify.com/album/5OdTbldVWMzYUmJKy6zw0M) | 2:49 |
 | 74 | [Dejavu](https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Dejavu](https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm) | 2:47 |
 
-Snapshot ID: `MTY2NTc0MDEzMCwwMDAwMDAwMGZiYjg2ZWNmY2VlZmE0YjM2MzQ1Njc4Yzc4MzQzOTgw`
+Snapshot ID: `MTY2NTc0MDEzMCwwMDAwMDAwMDAzNGIxM2IyOGVlZjIyN2UyNTFjNDJmMDkyOGY4NzEw`

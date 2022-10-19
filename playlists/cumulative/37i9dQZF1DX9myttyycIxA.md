@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Runnner
 
-663 songs - 1 day 13 hr 57 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+664 songs - 1 day 14 hr 0 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-04-29 | 2022-05-18 |
 | [Alive on the Outside](https://open.spotify.com/track/01MxXqlzKMpHy734AGKGxj) | [Lean](https://open.spotify.com/artist/167WV6cgZZKO6Mog8MomA0) | [Alive on the Outside](https://open.spotify.com/album/2li1Q7N8NnJ4X9Ju4bKYbq) | 3:36 | 2022-05-13 | 2022-07-09 |
 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 | 2022-03-26 | 2022-07-16 |
-| [All I Need](https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq) | [khai dreams](https://open.spotify.com/artist/7ieMNoNgTOt4EoE1VQOlrB), [Atwood](https://open.spotify.com/artist/3OR277QANTI19APHnC1XrK) | [Nice Colors](https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF) | 2:27 | 2022-10-07 |  |
+| [All I Need](https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Atwood](https://open.spotify.com/artist/3OR277QANTI19APHnC1XrK) | [Nice Colors](https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF) | 2:27 | 2022-10-07 |  |
 | [All That's Left Behind](https://open.spotify.com/track/5GoJ9CKRilxFi46jj70wjU) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [All That's Left Behind / Lullaby For You](https://open.spotify.com/album/50kARgynRJmltjkg5qSP7O) | 4:00 | 2021-03-05 | 2022-04-26 |
 | [Alone But Not Lonely](https://open.spotify.com/track/45b6AZg2JJFKqOgYL1Rne4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Alone But Not Lonely](https://open.spotify.com/album/2IORnkfSCkRnHGIKsN0r4w) | 1:46 | 2021-06-02 | 2022-03-23 |
 | [Always](https://open.spotify.com/track/1GPwRKJ5g2tfJ2kLbwB5kM) | [skirts](https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl) | [Always](https://open.spotify.com/album/0RMknPzSaFRDBxhScoISSm) | 4:02 | 2021-07-16 | 2022-04-29 |
@@ -232,7 +232,7 @@
 | [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [lil rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 | 2022-07-15 | 2022-10-08 |
 | [Freeway](https://open.spotify.com/track/3WT2eFkXiP6chQOaIhSik0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freeway](https://open.spotify.com/album/5aD4x75wLsri0QKKBKHrKe) | 4:11 | 2021-03-05 | 2022-04-28 |
 | [Freight Yard](https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Freight Yard](https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP) | 2:27 | 2022-05-27 | 2022-10-15 |
-| [French Blonde](https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 4:26 | 2022-10-07 |  |
+| [French Blonde](https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 4:26 | 2022-10-07 |  |
 | [Friend](https://open.spotify.com/track/7HXwmIISEI1CXfOxOQxNoT) | [Valley Palace](https://open.spotify.com/artist/3jF2ypAAgPGDrMya2J4sHM) | [Friend](https://open.spotify.com/album/0pyWpmLw8VokeiFWGRKdXW) | 3:17 | 2021-07-16 | 2022-03-22 |
 | [Frog 2](https://open.spotify.com/track/69MeyO4Ezuqggns3I4w5Dx) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/6UY5t9DTGGXtaGzEKlB59A) | 2:40 | 2022-09-30 |  |
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-28 | 2022-07-23 |
@@ -664,7 +664,8 @@
 | [Year of Love](https://open.spotify.com/track/2xMf6kbsGhfmrzLxC5HRLw) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 4:13 | 2022-03-26 | 2022-04-15 |
 | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/5MUBfoCUmCLpGgqvvi3ool) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 3:22 | 2021-08-13 | 2022-04-27 |
 | [You are my House](https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:08 | 2022-10-14 |  |
-| [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 | 2022-08-05 |  |
+| [You Follow Me Around](https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/0rHEklUS6vtFMvCIdblQaI) | 3:30 | 2022-08-05 |  |
+| [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 | 2022-08-05 | 2022-10-19 |
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-20 | 2022-10-01 |
 | [You Said](https://open.spotify.com/track/1CGqxRs1rF8iwNj8H7CIUP) | [Sad Park](https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf) | [You Said / Chest Pains](https://open.spotify.com/album/4zoT2MdaZDT3IWOOQPckIE) | 2:44 | 2022-04-29 | 2022-05-10 |
 | [you were right](https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY), [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [you were right](https://open.spotify.com/album/5caVRn6usqYh4h54eDSONn) | 2:49 | 2022-04-29 | 2022-07-09 |

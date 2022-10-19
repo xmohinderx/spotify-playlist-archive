@@ -4,7 +4,7 @@
 
 > Relax with this Peaceful Indie Ambient mix.
 
-212 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
+213 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Neverending Fountain \- Alt\. Version](https://open.spotify.com/track/77qe3JNMJjOr3HFGR3JJP0) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Neverending Fountain \(Alt\. Version\)](https://open.spotify.com/album/5am9AY6vfhvXyZ4QNqYmtX) | 4:34 | 2018-11-26 | 2022-07-27 |
 | [new forever](https://open.spotify.com/track/1nBrPEFJ72RxsFqDo5kh0C) | [trayer tryon](https://open.spotify.com/artist/2gD51qPCP8XNnk0D2ugS4R) | [new forever](https://open.spotify.com/album/3mM2ficqgN8yway90ENDCC) | 2:55 | 2020-10-15 |  |
 | [Noise](https://open.spotify.com/track/1nWhdD40KXZgvoh8KpnjSJ) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4kOLBB19jvRtoVfnMEN5Cg) | 4:00 | 2019-09-16 | 2022-10-13 |
+| [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 | 2019-09-16 |  |
 | [Obrecht](https://open.spotify.com/track/2fgEVpafPGM0IDRRf3Q32K) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/7aahYegJjCZ1QLnIBxsTwb) | 3:36 | 2018-11-26 |  |
 | [Obrecht](https://open.spotify.com/track/3PwmnXo3vQi326NDlf0iQj) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves](https://open.spotify.com/album/0n636PGAlBwMN0dn03ZmC3) | 3:36 | 2018-11-26 | 2022-07-29 |
 | [One Half](https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:41 | 2018-11-26 |  |
@@ -150,7 +151,7 @@
 | [Our Love's Funeral](https://open.spotify.com/track/4AXklvY4icjXZQf3vFAZug) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Our Love's Funeral](https://open.spotify.com/album/1jG0JzLRYJR4odNdlfHOmm) | 2:45 | 2018-11-26 |  |
 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 | 2018-11-26 |  |
 | [Pillars](https://open.spotify.com/track/2cX0OJh1FENek9cfukulSQ) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [Nashville Indie Spotlight 2014](https://open.spotify.com/album/1qX4JRGUJPyoR9eRInwkKq) | 4:22 | 2018-11-26 | 2022-07-29 |
-| [Please](https://open.spotify.com/track/09C592kGYvxDfJSBnzufCU) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 3:33 | 2018-11-26 |  |
+| [Please](https://open.spotify.com/track/09C592kGYvxDfJSBnzufCU) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 3:33 | 2018-11-26 | 2022-10-19 |
 | [Regenerative Being](https://open.spotify.com/track/1Rz3x1bF09JeEj2cTWH2mg) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Regenerative Being](https://open.spotify.com/album/6XEnKjyRl2J16ViEVwLent) | 7:21 | 2018-11-26 | 2022-07-29 |
 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 | 2018-11-26 |  |
 | [Sapsorrow](https://open.spotify.com/track/2JMQgYjMgCM2I8RTC4BU9b) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Lungs Quicken](https://open.spotify.com/album/2HK44OdvH7XiGLDo0BGlvN) | 2:53 | 2018-11-26 | 2022-07-28 |

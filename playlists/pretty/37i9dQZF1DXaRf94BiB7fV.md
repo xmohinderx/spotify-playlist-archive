@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Unnati Shah, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,941 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,969 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 32 | [Courtyards](https://open.spotify.com/track/5LGs8mMpSyzQqgaWWEOJMV) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [Rini Rajput](https://open.spotify.com/artist/6ULk3EPG61JmA3JN7s5468) | [Courtyards](https://open.spotify.com/album/3UKC4HBpcljGjGFxkkumCx) | 4:10 |
 | 33 | [I Need You](https://open.spotify.com/track/4QdmXIpWW2ybxrzVOkFuto) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Arjit Singh](https://open.spotify.com/artist/0KkW3YBJhwXPBLMGRIDn2V) | [I Need You](https://open.spotify.com/album/0RdUmJRNVcwqUAU0Mryazb) | 2:34 |
 | 34 | [Raahguzar](https://open.spotify.com/track/7KCgRtQkqxmcKUPpJOm4O0) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Raahguzar](https://open.spotify.com/album/5YWlf0QjACtCxpFKxNvDAb) | 3:47 |
-| 35 | [Options](https://open.spotify.com/track/192OQEOCXdZXxFQATFARWd) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [Options](https://open.spotify.com/album/6pUc3QsAiEOy3PmzfX4BAp) | 3:13 |
+| 35 | [Options](https://open.spotify.com/track/04CutF5UQAa5kX2rrAtnKn) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [Options](https://open.spotify.com/album/5PQdMjzV7cY9l7jwl6ctya) | 3:13 |
 | 36 | [Jaan Baaki](https://open.spotify.com/track/1bbnPoIFuIg18LLuSZyPK1) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Jaan Baaki](https://open.spotify.com/album/7zEMEhRTwE4xQkwbQ65YAs) | 3:22 |
 | 37 | [Samaa](https://open.spotify.com/track/25SeLnCtAaIB3Vjwg4jc0F) | [Xubaan](https://open.spotify.com/artist/0c8yvHOj92kzm4suLMGgbZ) | [Samaa](https://open.spotify.com/album/4mzDdCx5htVmHHo01ca0Uz) | 4:52 |
 | 38 | [Chanchal Mann](https://open.spotify.com/track/5kbwi7gcfkTtP78OIKS4fu) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Chanchal Mann](https://open.spotify.com/album/1IMwoJfW0B35HYFUnLdKYh) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Hide](https://open.spotify.com/track/0W10TL64os9A2FihL8QV3A) | [Anushka](https://open.spotify.com/artist/2Nnn3hP90YnEYzfMZhSOl6), [Bønehead](https://open.spotify.com/artist/6f96mKa3JM5EDYrYU3rC2N) | [Hide](https://open.spotify.com/album/3s3m2FxVwBQyahIOB0BUsP) | 4:14 |
 | 100 | [Lavinia](https://open.spotify.com/track/1GIGwGjBw5CT3QKK7Ibw6b) | [Prabhtoj Singh](https://open.spotify.com/artist/78XtO5iHFCF6gSqWV18AWA) | [Lavinia](https://open.spotify.com/album/58ukWZd5zrrWi2clQ4PqSI) | 3:46 |
 
-Snapshot ID: `MTY2NTU2NDU3NiwwMDAwMDAwMGMxYTNkZTA1MGNlNDRhMmQ5YTk2MTYwMzFhMDhjOTNh`
+Snapshot ID: `MTY2NTU2NDU3NiwwMDAwMDAwMDQ2ZGExODE0ZWViNTlmNGU4MmNlMGYzODE4ZGQzNGRk`

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-295 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
+296 songs - 1 day 3 hr 46 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Average](https://open.spotify.com/track/229ZWFvNqnE1dEgVbBLCVB) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Rainbow Sign](https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5) | 11:12 | 2022-03-10 | 2022-10-12 |
 | [Azalea](https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7) | [Playing The Room](https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US) | 3:41 | 2020-05-02\* | 2022-10-08 |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Faithful](https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2) | 5:29 | 2021-02-17 |  |
+| [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
 | [Before I Go](https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 6:05 | 2022-09-08 | 2022-10-12 |
 | [Beirut](https://open.spotify.com/track/5BqRh0lU4ZD6L62fMmgtRP) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Beirut](https://open.spotify.com/album/6KttOwAyq3c6Ex9vrVsEBW) | 4:24 | 2022-09-08 | 2022-10-08 |
 | [Beirut \- Duo Version](https://open.spotify.com/track/41KHQLCpNOnPV0GWqnEhG5) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Beirut \(Duo Version\)](https://open.spotify.com/album/6iyj6Ts2MQpsx9CwJZQ4lF) | 4:37 | 2020-10-27 | 2021-09-01 |
@@ -64,7 +65,7 @@
 | [Canopy & Stars](https://open.spotify.com/track/79n6J2l0s1IcktamBUEjAd) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Salute to the Sun](https://open.spotify.com/album/7KL9LRIsBoto6VAfcQjM0D) | 7:51 | 2022-07-21 | 2022-10-05 |
 | [Canopy & Stars](https://open.spotify.com/track/7umqx02CQsnSjzmoGlwv1l) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Canopy & Stars](https://open.spotify.com/album/0zCJbbeQAiBakodQ7rNwT6) | 7:51 | 2020-12-04 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-05-22 | 2022-07-29 |
-| [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-21 |  |
+| [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-21 | 2022-10-19 |
 | [Children](https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 5:42 | 2020-05-03 | 2022-04-19 |
 | [Clara](https://open.spotify.com/track/2PEAh0Yz9I72m1Lz2Z7uFj) | [Frank Woeste](https://open.spotify.com/artist/4fW1CbHzNerTxAeUj4SXnQ) | [Pocket Rhapsody II](https://open.spotify.com/album/7o7WzQ3safNurKu8xWrcji) | 3:54 | 2020-12-04 |  |
 | [Climbing](https://open.spotify.com/track/3kz6NAOACWLOUKYTQVvFkN) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Safe Journey](https://open.spotify.com/album/65ezf6FRwXlqnKPiBjk3dU) | 3:57 | 2020-05-02\* | 2022-05-03 |

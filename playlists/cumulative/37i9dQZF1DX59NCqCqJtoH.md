@@ -4,7 +4,7 @@
 
 > We hear you.
 
-494 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+495 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 | 2022-10-14 |  |
 | [Emerald Eyes](https://open.spotify.com/track/2zRLogAqKnlcMRyOExw3LF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Emerald Eyes](https://open.spotify.com/album/096BfAFZuA5gBkimUSm09A) | 3:59 | 2021-04-02 | 2022-07-21 |
 | [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 | 2022-05-31 |
-| [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 |  |
+| [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 | 2022-10-19 |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
 | [everything i couldn't be](https://open.spotify.com/track/0Fzt24jmCa6G0ED7pW3IM1) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [everything i couldn't be](https://open.spotify.com/album/0OO54Y1nTh8WeZBNuD4AMV) | 2:10 | 2021-04-02 | 2022-07-22 |
@@ -332,6 +332,7 @@
 | [outside](https://open.spotify.com/track/0653Mr19pKTqIehqHP9KKh) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [outside/inside](https://open.spotify.com/album/70YpZJ4yn8c3SF74SiOvxF) | 2:39 | 2021-04-02 | 2022-04-20 |
 | [Outside](https://open.spotify.com/track/0YCCXfwkqezFE8sjRoaKmi) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Outside](https://open.spotify.com/album/7bNmKoKLrqqhAg3e021cVG) | 2:18 | 2021-04-02 | 2022-07-19 |
 | [paint](https://open.spotify.com/track/0NOH9lB24CM0QhW8twOLVd) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [paint](https://open.spotify.com/album/4NvBU0GMRRr17J4LMsk06z) | 4:06 | 2021-10-08 | 2022-05-19 |
+| [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-14 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-07-15 | 2022-10-13 |
 | [Pancakes for Dinner](https://open.spotify.com/track/6xKmHTA27EgOhWXIRppr32) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pancakes for Dinner](https://open.spotify.com/album/6inEQ77ZDYRXwSGzRUKnWt) | 3:55 | 2021-04-02 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/2v6ea8WZ0VzWXEbA3f4vrU) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Paradise](https://open.spotify.com/album/7Jahki7bPBwHTwlzReXHcU) | 2:46 | 2021-04-02 | 2022-05-20 |

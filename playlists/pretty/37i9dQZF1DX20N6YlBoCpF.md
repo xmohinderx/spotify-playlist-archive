@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=Y6nyRHD\_R\-CqSzTJ5G7YRA">Wikus Botma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

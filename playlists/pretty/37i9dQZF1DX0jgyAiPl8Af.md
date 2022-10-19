@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929,619 likes - 237 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,929,887 likes - 237 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 112 | [Cherished](https://open.spotify.com/track/1rLMnQfT6ueI1yCOvZS9hN) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Cherished](https://open.spotify.com/album/61BmBejQR7R1whomReaRJc) | 1:58 |
 | 113 | [Gates](https://open.spotify.com/track/6dRhKRFp6pyX1dG2RMdQyj) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Gates](https://open.spotify.com/album/0IxFjyr59dtqD1MDZYIdGr) | 3:22 |
 | 114 | [Amai Hi](https://open.spotify.com/track/39kKNitwwvn7Y0oH0NGN82) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Amai Hi](https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY) | 2:02 |
-| 115 | [Coming Home](https://open.spotify.com/track/1C10dgyOH6ncDOVuRL6F7Y) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [Coming Home](https://open.spotify.com/album/5BfiGHQQ3hHhwFhAOfERDi) | 3:10 |
+| 115 | [Coming Home](https://open.spotify.com/track/1kkmwiOPQhmqpJZblOk9F5) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [Coming Home](https://open.spotify.com/album/6oRenHQmo5VcWhM1rKkyTg) | 3:10 |
 | 116 | [Wonderland Is Real](https://open.spotify.com/track/7jhgZmvTTPMj20FGQocws1) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Wonderland Is Real](https://open.spotify.com/album/2I1OftcagAk67igxS6Przx) | 3:57 |
 | 117 | [Julieta](https://open.spotify.com/track/2INWzibx7vOzJzI7117HXq) | [Almudena Senza](https://open.spotify.com/artist/6tVnjpRX2xCJzaLr7XID1v) | [Julieta](https://open.spotify.com/album/5QZhzlKhVTJ1rIsjRSaWKb) | 2:23 |
 | 118 | [Estrella clara](https://open.spotify.com/track/7IJ4FPYqUabB1cbWrMYn0q) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Estrella clara](https://open.spotify.com/album/761mDMnpM2KsejP3TuTtUn) | 1:37 |
@@ -246,4 +246,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 236 | [In vino veritas](https://open.spotify.com/track/6BjN3um3X3aF0xI0i29NY1) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [New Amsterdam](https://open.spotify.com/album/10FZBKArCxME3V2PB8C818) | 3:07 |
 | 237 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
 
-Snapshot ID: `MTY2NTEwMDg2MCwwMDAwMDAwMDEzZTFhYjE0NTViNjI0ZTdhNjY2MTA5MGYwY2ZhOGVm`
+Snapshot ID: `MTY2NTEwMDg2MCwwMDAwMDAwMGI5YmJmN2IzZjE2MDEwMzk1MTlmZWM1OTViMWM2NDE0`

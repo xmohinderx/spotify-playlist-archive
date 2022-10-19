@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Kirby
 
-463 songs - 1 day 2 hr 43 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+464 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [One More Kiss](https://open.spotify.com/track/5Tfhu1RyUKxxkrurEBGPuj) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/3OfRIGjI51gWg7oA9wMsHB) | 3:46 | 2021-03-14 | 2021-07-31 |
 | [Only Fan \(feat\. RILEY\) \- Remix](https://open.spotify.com/track/0o2yKdD8NUWo6GLSPDlfUl) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [RILEY](https://open.spotify.com/artist/5AKj7LRRQHfYPsCKfsptga) | [Only Fan \(Remix\) \[feat\. RILEY\]](https://open.spotify.com/album/7lzFVUDXLulftl22rqlCOX) | 2:38 | 2022-03-11 | 2022-07-09 |
 | [Only Gold](https://open.spotify.com/track/0hB6frMZMoJEUJIfcMYa5Y) | [Nakeyo](https://open.spotify.com/artist/4LV0wxYWrzqjNntWbTIqv2), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Patchwork](https://open.spotify.com/artist/6jMR1IBDbQrnDgyodlBj9B) | [Only Gold](https://open.spotify.com/album/5wwnwOqtsULKtkFkUZwVvH) | 4:00 | 2022-08-26 |  |
-| [Only Love](https://open.spotify.com/track/6RfIR5hQTyHWrQYbDzhtfs) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/0E0ZVILGRfM9yU2aJwnk6E) | 2:47 | 2022-10-14 |  |
+| [Only Love](https://open.spotify.com/track/6RfIR5hQTyHWrQYbDzhtfs) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/0E0ZVILGRfM9yU2aJwnk6E) | 2:47 | 2022-10-14 | 2022-10-19 |
+| [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 | 2022-10-14 |  |
 | [Only With Time \- A COLORS SHOW](https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Only With Time \- A COLORS SHOW](https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78) | 5:04 | 2022-02-11 | 2022-07-09 |
 | [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 | 2022-09-16 |  |
 | [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 | 2022-09-30 |  |

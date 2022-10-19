@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Japa
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,041 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,056 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 64 | [Oceanus](https://open.spotify.com/track/32ypjzrT9WfnhSxlNodKg9) | [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA), [Raphael Debu](https://open.spotify.com/artist/3SFVjX6fehw8ZmM9qUaGCT) | [Oceanus](https://open.spotify.com/album/7tw6PVjK16c59IsgytFOhx) | 2:36 |
 | 65 | [crazy](https://open.spotify.com/track/52dY05m7cPZN8T5ScOLOFy) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [crazy](https://open.spotify.com/album/64F5xEtg6S83eBCStQWHZ7) | 2:40 |
 | 66 | [Diz Que É Hoje](https://open.spotify.com/track/2YPwu0slihNBAQYo5gSgVO) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Diz Que É Hoje](https://open.spotify.com/album/3wgROhviX3TOIL26EgEW8b) | 2:40 |
-| 67 | [Prefiro Você](https://open.spotify.com/track/0VvnJAiWr7jeaZoTB5AdyE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Fútil](https://open.spotify.com/album/1AhTSU8nfVwEI0OSHTIxjp) | 3:48 |
+| 67 | [Prefiro Você](https://open.spotify.com/track/0VvnJAiWr7jeaZoTB5AdyE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Fútil](https://open.spotify.com/album/1AhTSU8nfVwEI0OSHTIxjp) | 3:48 |
 | 68 | [Chave de Cadeia](https://open.spotify.com/track/6XRged6KRZkNbIpA2AOgpm) | [PLK7](https://open.spotify.com/artist/4v0wQZyK4WxpNhCjznfei0), [pendrivor](https://open.spotify.com/artist/3zyXj4o6FSswzuBxmTbIKs) | [Chave de Cadeia](https://open.spotify.com/album/4KpvRhz2VZaqtCACmRmJ5g) | 2:50 |
 | 69 | [Copacabana](https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [NaBuscaDoOuro](https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S) | [Copacabana](https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5) | 2:49 |
 | 70 | [Portugal](https://open.spotify.com/track/1tLBXifMqnSqLZrk1Rsl8n) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Portugal](https://open.spotify.com/album/5Acna8vDUeXMHpPTjf3J3h) | 3:36 |

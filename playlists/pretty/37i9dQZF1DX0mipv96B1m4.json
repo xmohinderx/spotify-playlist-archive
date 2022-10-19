@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 167,
+  "num_followers": 169,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MDAwMCwwMDAwMDAwMGNiNjM4NmRjMmUzZTQxZmFjNWY1OTE5ZGY5MTIwNzVm",
+  "snapshot_id": "MTY2NTA5MDAwMCwwMDAwMDAwMDIyMTNlZmM5YjM0ZTU5NDU2N2Y0OWQ0MzhiZTliYTlk",
   "tracks": [
     {
       "added_at": "2022-03-31 17:42:20",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/7BbgvMTsbkGZZZatPzMGxK"
     },
     {
-      "added_at": "2022-06-28 08:35:51",
-      "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Tupaate",
@@ -91,6 +75,22 @@
       "duration_ms": 167741,
       "name": "Wakikuba",
       "url": "https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw"
+    },
+    {
+      "added_at": "2022-06-28 08:35:51",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
       "added_at": "2022-07-01 04:18:21",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
     },
     {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+    },
+    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "King Kong",
@@ -215,22 +231,6 @@
       "duration_ms": 217704,
       "name": "Izulu",
       "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
       "added_at": "2022-07-29 06:06:22",
@@ -375,6 +375,30 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Sikyegomba",
+        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+        },
+        {
+          "name": "DVJ Pofia",
+          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
+        }
+      ],
+      "duration_ms": 210364,
+      "name": "Sikyegomba",
+      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
       },
@@ -399,30 +423,6 @@
       "duration_ms": 207229,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Sikyegomba",
-        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "DVJ Pofia",
-          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
-        }
-      ],
-      "duration_ms": 210364,
-      "name": "Sikyegomba",
-      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
     },
     {
       "added_at": "2022-05-27 05:51:29",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
     },
     {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Kokonya",
@@ -671,22 +687,6 @@
       "duration_ms": 222599,
       "name": "Kiziniro",
       "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -789,30 +789,6 @@
       "url": "https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Nothing to Something",
-        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
-      },
-      "artists": [
-        {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "Sumi Crazy",
-          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
-      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
-    },
-    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "Nsudiya",
@@ -847,6 +823,30 @@
       "duration_ms": 162500,
       "name": "Kiriza - Remix",
       "url": "https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Nothing to Something",
+        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "Sumi Crazy",
+          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
+      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -933,6 +933,38 @@
       "url": "https://open.spotify.com/track/2u2djNR80H5uTWHjYeOMhh"
     },
     {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Camera (Extended Version)",
+        "url": "https://open.spotify.com/album/7jT7agWLlk3tnMGaGCPBzm"
+      },
+      "artists": [
+        {
+          "name": "Killa Weedz",
+          "url": "https://open.spotify.com/artist/6SzcOIg2G7QXUFouXQogTN"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Camera - Extended Version",
+      "url": "https://open.spotify.com/track/0YrviJ3tE9cwlsiFsO8KNd"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Randomly",
+        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Randomly",
+      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "We Can",
@@ -959,38 +991,6 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Randomly",
-        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Randomly",
-      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Camera (Extended Version)",
-        "url": "https://open.spotify.com/album/7jT7agWLlk3tnMGaGCPBzm"
-      },
-      "artists": [
-        {
-          "name": "Killa Weedz",
-          "url": "https://open.spotify.com/artist/6SzcOIg2G7QXUFouXQogTN"
-        }
-      ],
-      "duration_ms": 169480,
-      "name": "Camera - Extended Version",
-      "url": "https://open.spotify.com/track/0YrviJ3tE9cwlsiFsO8KNd"
     }
   ],
   "unique_name": "Kidandali Parte",

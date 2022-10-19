@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=nOiYYMd5SSuw6cmc_LG3Dw\"> Black Sherif </a> ",
-  "num_followers": 101795,
+  "num_followers": 101866,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyMTk2NSwwMDAwMDAwMDUyZTQ3ZDM5ZDkzZmFhMTQxZWU3YWU4ZjIwZGNmYWUx",
+  "snapshot_id": "MTY2NTEyMTk2NSwwMDAwMDAwMDBkODM5NDQ0YzMzODVkYWJiMmE3YTJkODVjMWY3NjM1",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
     },
     {
-      "added_at": "2022-10-18 02:00:08",
+      "added_at": "2022-10-19 02:05:30",
       "album": {
         "name": "Back In Uni",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
-      "added_at": "2022-10-18 02:00:08",
+      "added_at": "2022-10-19 02:05:30",
       "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
     },
     {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
+    },
+    {
       "added_at": "2022-05-26 23:00:00",
       "album": {
         "name": "Khuphuka",
@@ -787,22 +803,6 @@
       "duration_ms": 149852,
       "name": "AMAPIANO",
       "url": "https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2022-04-21 23:00:00",
@@ -869,26 +869,6 @@
       "url": "https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Ye x4",
-        "url": "https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 165451,
-      "name": "Ye x4",
-      "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
-    },
-    {
       "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Dynastie",
@@ -903,6 +883,26 @@
       "duration_ms": 181857,
       "name": "Royaume Kunga (Kingdom)",
       "url": "https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2022-09-30 06:04:35",
@@ -957,24 +957,24 @@
       "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2021-10-14 23:00:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "Ye x4",
+        "url": "https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         },
         {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 165451,
+      "name": "Ye x4",
+      "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -1021,26 +1021,6 @@
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Put Your Hands Up",
-        "url": "https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
-        }
-      ],
-      "duration_ms": 209543,
-      "name": "Put Your Hands Up",
-      "url": "https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6"
-    },
-    {
       "added_at": "2021-12-21 12:27:53",
       "album": {
         "name": "Sex Over Love (Deluxe Edition)",
@@ -1059,6 +1039,26 @@
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Put Your Hands Up",
+        "url": "https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "duration_ms": 209543,
+      "name": "Put Your Hands Up",
+      "url": "https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2021-10-14 23:00:00",
       "album": {
+        "name": "Yp & Azanti, Vol. 1",
+        "url": "https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Long Way from Home",
+      "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
         "name": "Quarantunes",
         "url": "https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV"
       },
@@ -1343,22 +1363,6 @@
       "duration_ms": 220434,
       "name": "Midf (Money I Dey Find)",
       "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
-    },
-    {
-      "added_at": "2021-11-11 23:00:00",
-      "album": {
-        "name": "Something to Live For",
-        "url": "https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 192153,
-      "name": "All the smoke",
-      "url": "https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2021-10-14 23:00:00",
       "album": {
-        "name": "Yp & Azanti, Vol. 1",
-        "url": "https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK"
+        "name": "ASTRONAUTE",
+        "url": "https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Long Way from Home",
-      "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
+      "duration_ms": 207065,
+      "name": "ASTRONAUTE",
+      "url": "https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a"
     }
   ],
   "unique_name": "No Wahala",

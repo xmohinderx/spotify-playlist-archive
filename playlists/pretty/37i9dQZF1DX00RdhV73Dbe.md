@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,823 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,844 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 33 | [Death \- Crystal Castles Remix](https://open.spotify.com/track/1UbcuHH23bXMoPmv6xCjXo) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [To Lose My Life ..\. \(10th Anniversary Edition\)](https://open.spotify.com/album/2o8f42XEJoZqoPTCrgzSXS) | 4:58 |
 | 34 | [Tree Song](https://open.spotify.com/track/2lYCfrY6K50MyzBDruQsWE) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Cherry Drops II](https://open.spotify.com/album/0Mkzv9nvRSfEXd8IrlzzGQ) | 9:43 |
 | 35 | [Unknown At Night](https://open.spotify.com/track/6SqqiAyIewLLvoQiZaLMs6) | [dj pgz](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX) | [Unknown At Night](https://open.spotify.com/album/0n9IBgZECMy8Bq2c6kwqgG) | 4:27 |
-| 36 | [Singin' in the Rain](https://open.spotify.com/track/73GhZu2dr1h6RdpiWFJx1j) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/09xoxcs7kOCDCRkoFeFVNa) | 3:28 |
+| 36 | [Singin' in the Rain](https://open.spotify.com/track/0lju7TCZwpvslleR7OgY9h) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/5NlNNBvhqaqdXRFflrNkx1) | 3:28 |
 | 37 | [Reach](https://open.spotify.com/track/5gDNXpsEXyq7P95jU3xUwM) | [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [FWM003](https://open.spotify.com/album/75Rv1yZhnL1PRuP13yOd86) | 5:21 |
 | 38 | [$iTTIN](https://open.spotify.com/track/3wZLmGJV2hpACYcOsdU5M4) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [$iTTIN](https://open.spotify.com/album/46N9zgTpTMOJzhett7MWKv) | 5:28 |
 | 39 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 69 | [Rayna \- Shanti Celeste Remix](https://open.spotify.com/track/4hmKziZXTpDbqBqW7hZW7V) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Rayna \(Shanti Celeste Remix\)](https://open.spotify.com/album/5aC4FfAUuHAIqtYmuu1Ki4) | 6:52 |
 | 70 | [Gasoline, Pt\. 2](https://open.spotify.com/track/76rWWUIdZ3QonRhUOzLjvS) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P) | [Days After Breaking](https://open.spotify.com/album/30UnTsr4oe3T2QzpKYt7OB) | 6:30 |
 
-Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDU5OGQ1NTM0NDNhMmY5MDU5ZWQyNDIxNjc0NmZjMWRl`
+Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDU4NzFjMTM3YmQzODA5MDg2ZGM4ODg2MWIwNDJhNDQw`

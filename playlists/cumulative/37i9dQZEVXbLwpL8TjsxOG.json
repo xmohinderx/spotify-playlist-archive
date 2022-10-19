@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 175230,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/23tnYfiqkTWhhb0q89SAqm"
@@ -3383,6 +3401,24 @@
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
       "album": {
@@ -4295,7 +4331,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -5541,7 +5577,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 145911,
       "name": "\u4f60\u628a\u6211\u7684",
       "url": "https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY"
@@ -5801,7 +5837,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 199547,
       "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
       "url": "https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q"
@@ -6313,6 +6349,42 @@
       "duration_ms": 246000,
       "name": "\u5e7c\u7a1a\u672a\u5b8c",
       "url": "https://open.spotify.com/track/1TcsJ21R8PMmpLcj34A02E"
+    },
+    {
+      "album": {
+        "name": "\u8ddf\u4f60\u958b\u73a9\u7b11",
+        "url": "https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145643,
+      "name": "\u5faa\u74b0\u7684\u591c",
+      "url": "https://open.spotify.com/track/47jGYuKiZdYnRvnHTI1vYH"
+    },
+    {
+      "album": {
+        "name": "\u8ddf\u4f60\u958b\u73a9\u7b11",
+        "url": "https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163754,
+      "name": "\u5fb7\u5dde\u4e4b\u6200",
+      "url": "https://open.spotify.com/track/166JRCRhVhctXfAj3IRwtc"
     },
     {
       "album": {
@@ -7393,7 +7465,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 244735,
       "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
       "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
@@ -7577,7 +7649,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 181628,
       "name": "\u795e\u968a\u53cb",
       "url": "https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc"
@@ -7624,6 +7696,24 @@
     },
     {
       "album": {
+        "name": "\u8ddf\u4f60\u958b\u73a9\u7b11",
+        "url": "https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "\u7d30\u80de",
+      "url": "https://open.spotify.com/track/7LFX60BiB9VlEC6SWaV1ar"
+    },
+    {
+      "album": {
         "name": "\u7d66\u7f3a\u5e2d\u7684\u4eba\u5531\u9996\u6b4c",
         "url": "https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik"
       },
@@ -7635,7 +7725,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 237985,
       "name": "\u7d66\u7f3a\u5e2d\u7684\u4eba\u5531\u9996\u6b4c",
       "url": "https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT"
@@ -8193,7 +8283,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 286401,
       "name": "\u908a\u4e00\u500b\u767c\u660e\u4e86ENCORE",
       "url": "https://open.spotify.com/track/2MBaZXaQ7VKmDTr7cPPHP4"

@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-444 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+445 songs - 1 day 1 hr 46 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Cariñito](https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW) | [Cariñito](https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW) | 3:13 | 2022-05-06 | 2022-07-21 |
 | [Cariño](https://open.spotify.com/track/7HA3fBwy9HrbcQiz8maa2p) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [BREVE II](https://open.spotify.com/album/1TU0KMcLmv18RV2PrI9jNh) | 3:12 | 2022-01-14 | 2022-07-29 |
 | [Carta](https://open.spotify.com/track/2TiTcWEs1CldfTx7fOGfS4) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Carta](https://open.spotify.com/album/1ebHnnX7boUGSAD0YSAJyX) | 3:23 | 2022-01-14 | 2022-07-29 |
-| [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 | 2022-10-14 |  |
+| [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 | 2022-10-14 | 2022-10-19 |
 | [Carta](https://open.spotify.com/track/4miJQ6X8wzlO4SZJ5winyb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:24 | 2022-07-15 | 2022-09-15 |
 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 | 2022-06-03 | 2022-07-21 |
 | [Casa](https://open.spotify.com/track/3v1wgEVzX2SUrHrdzBCO7P) | [Ninja](https://open.spotify.com/artist/1aEDZ5whyuDHTQxdrPiJYE), [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [RUSIA](https://open.spotify.com/album/1Oq780XyJNTi9BAGySxECi) | 3:19 | 2022-01-21 | 2022-07-24 |
@@ -87,6 +87,7 @@
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-18 | 2022-07-29 |
 | [Como Yo Quiero](https://open.spotify.com/track/6QcbtHMt6gDQ79Muv0AZoH) | [Fernanda Aleman](https://open.spotify.com/artist/7j59f8sBApT07ZgGuKgoDK) | [Nogoya](https://open.spotify.com/album/4fhYwvAoULyvveXGG9Kgu7) | 2:54 | 2022-04-01 | 2022-04-17 |
 | [Con el Frío](https://open.spotify.com/track/7dGaRZLn6uA5rfkGvYslkp) | [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Con el Frío](https://open.spotify.com/album/3sSlDs0fAjhBXTBFSpNzRD) | 3:43 | 2022-01-21 | 2022-06-02 |
+| [Contenida](https://open.spotify.com/track/0SFFoFz2bvkTQmLkw2Z58G) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:31 | 2022-10-14 |  |
 | [Copy Paste](https://open.spotify.com/track/39UXEKOYb2YXx3GgzQf7hs) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Copy Paste](https://open.spotify.com/album/0BMYDRsP7t1nBcDM2Lmatn) | 3:01 | 2022-01-14 | 2022-07-29 |
 | [Corazón](https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp) | 3:19 | 2022-01-21 | 2022-07-29 |
 | [Corazón Astral](https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Corazón Astral](https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T) | 3:11 | 2022-01-14 | 2022-07-29 |

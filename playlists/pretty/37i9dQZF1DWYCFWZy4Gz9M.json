@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 39120,
+  "num_followers": 39155,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMDlmMTJmZTk4MzhkYmNmNTMwMTVjZjc3ZmQ5YTU0ZGJi",
+  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMDY5NzU0MGU1NTkzM2U2NDQ1MGE1ODRiYmJhZWJlOGU4",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Safi",
-        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
-      },
-      "artists": [
-        {
-          "name": "Ray Lema",
-          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
-        },
-        {
-          "name": "Tyour Gnaoua",
-          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Mister X",
-      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Morocco: Traditional Songs & Music",
         "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
       },
@@ -331,18 +311,38 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Colours of the Night",
-        "url": "https://open.spotify.com/album/4pCHBjS3nULoQ3NEy3WI0g"
+        "name": "Safi",
+        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
       },
       "artists": [
         {
-          "name": "Mahmoud Guinia",
-          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
+          "name": "Ray Lema",
+          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
+        },
+        {
+          "name": "Tyour Gnaoua",
+          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
         }
       ],
-      "duration_ms": 530803,
-      "name": "Shaba Kouria",
-      "url": "https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i"
+      "duration_ms": 309000,
+      "name": "Mister X",
+      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Songs for Sidi Mimoun",
+        "url": "https://open.spotify.com/album/2BZk9yFHsF61mPIHxE3EyX"
+      },
+      "artists": [
+        {
+          "name": "Gnawa from Marrakech",
+          "url": "https://open.spotify.com/artist/4q1sQE08zDqPaBapzhweMv"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "La ilaha ila Allah Jilala",
+      "url": "https://open.spotify.com/track/2sre9xkQzX2glQZnFYrqk3"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Songs for Sidi Mimoun",
-        "url": "https://open.spotify.com/album/2BZk9yFHsF61mPIHxE3EyX"
+        "name": "Colours of the Night",
+        "url": "https://open.spotify.com/album/4pCHBjS3nULoQ3NEy3WI0g"
       },
       "artists": [
         {
-          "name": "Gnawa from Marrakech",
-          "url": "https://open.spotify.com/artist/4q1sQE08zDqPaBapzhweMv"
+          "name": "Mahmoud Guinia",
+          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
         }
       ],
-      "duration_ms": 106000,
-      "name": "La ilaha ila Allah Jilala",
-      "url": "https://open.spotify.com/track/2sre9xkQzX2glQZnFYrqk3"
+      "duration_ms": 530803,
+      "name": "Shaba Kouria",
+      "url": "https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -543,38 +543,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/6oHdyaxTfpSbA4791lwqkF"
-      },
-      "artists": [
-        {
-          "name": "Nuru Kane",
-          "url": "https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "Bambala",
-      "url": "https://open.spotify.com/track/1qTqSAyzkJwo1rIGOowx9x"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Allah ya so",
-        "url": "https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud Guinia",
-          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
-        }
-      ],
-      "duration_ms": 372558,
-      "name": "Soltani",
-      "url": "https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Assala",
         "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
@@ -599,22 +567,34 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "The Gnawa Caravan: Salt",
-        "url": "https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA"
+        "name": "Allah ya so",
+        "url": "https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0"
       },
       "artists": [
         {
-          "name": "Simo Lagnawi",
-          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
-        },
-        {
-          "name": "Griselda Sanderson",
-          "url": "https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa"
+          "name": "Mahmoud Guinia",
+          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
         }
       ],
-      "duration_ms": 444786,
-      "name": "Bambraka",
-      "url": "https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr"
+      "duration_ms": 372558,
+      "name": "Soltani",
+      "url": "https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/6oHdyaxTfpSbA4791lwqkF"
+      },
+      "artists": [
+        {
+          "name": "Nuru Kane",
+          "url": "https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "Bambala",
+      "url": "https://open.spotify.com/track/1qTqSAyzkJwo1rIGOowx9x"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -631,6 +611,26 @@
       "duration_ms": 291306,
       "name": "Marhaba - Les Mlouks",
       "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "The Gnawa Caravan: Salt",
+        "url": "https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA"
+      },
+      "artists": [
+        {
+          "name": "Simo Lagnawi",
+          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
+        },
+        {
+          "name": "Griselda Sanderson",
+          "url": "https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa"
+        }
+      ],
+      "duration_ms": 444786,
+      "name": "Bambraka",
+      "url": "https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr"
     },
     {
       "added_at": "2022-03-10 07:10:03",

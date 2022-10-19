@@ -2836,6 +2836,24 @@
     },
     {
       "album": {
+        "name": "Nine Tenths of the Law",
+        "url": "https://open.spotify.com/album/2ehRDCZKKkHRsZ76faCl3N"
+      },
+      "artists": [
+        {
+          "name": "The Odd 910",
+          "url": "https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259311,
+      "name": "Quebrada",
+      "url": "https://open.spotify.com/track/4Ika1bBabb94jkejNQ0NxI"
+    },
+    {
+      "album": {
         "name": "Quebrada",
         "url": "https://open.spotify.com/album/74bKDqkidiTcglyRZcdusL"
       },
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 259311,
       "name": "Quebrada",
       "url": "https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H"

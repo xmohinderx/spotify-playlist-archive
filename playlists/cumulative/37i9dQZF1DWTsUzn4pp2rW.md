@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-220 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+221 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Love You Anymore](https://open.spotify.com/track/2GjxDcfAZjYhrxjz2t4qat) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Love You Anymore](https://open.spotify.com/album/6o6GPBv47sJZl1q0picVbJ) | 3:02 | 2021-11-19 | 2022-07-29 |
 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 | 2022-07-14 | 2022-08-12 |
 | [Made Me Cry](https://open.spotify.com/track/2ZifG4X8MVN5qUcO2xK0Wb) | [Aden Ray](https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc) | [Made Me Cry](https://open.spotify.com/album/5ibFiNmmuufLrJFwVPZtuo) | 4:02 | 2021-11-19 | 2022-07-29 |
-| [Made Me Cry](https://open.spotify.com/track/6yzwqS4gK9tYfkHeZy9IBS) | [Aden Ray](https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc) | [The Revolution of Me](https://open.spotify.com/album/7lrFoIBeZqBBguaeZBxqHn) | 4:02 | 2022-07-14 |  |
+| [Made Me Cry](https://open.spotify.com/track/51xSOVzWcd1A8sCxZUYEel) | [Aden Ray](https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc) | [The Revolution of Me](https://open.spotify.com/album/4NAP8F0xgasd8y44YScUmv) | 4:02 | 2022-10-13 |  |
+| [Made Me Cry](https://open.spotify.com/track/6yzwqS4gK9tYfkHeZy9IBS) | [Aden Ray](https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc) | [The Revolution of Me](https://open.spotify.com/album/7lrFoIBeZqBBguaeZBxqHn) | 4:02 | 2022-07-14 | 2022-10-19 |
 | [Make Someone Happy](https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Make Someone Happy](https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz) | 4:42 | 2021-11-19 | 2022-10-12 |
 | [Mary's Prayer](https://open.spotify.com/track/0uCdUcTpmaHHnoapSi4B7e) | [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [Mary's Prayer](https://open.spotify.com/album/6vOp6eBQeJnEeG88NNEmR6) | 3:14 | 2021-11-19 |  |
 | [Maybe I'm Amazed](https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope) | [4 Wheel Drive](https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2) | 3:46 | 2021-11-19 |  |

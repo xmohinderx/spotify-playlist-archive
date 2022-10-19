@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-152 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
+153 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 | 2022-07-04 |  |
 | [ORE ORE](https://open.spotify.com/track/5W847howdIqnnPGlD1Q6kb) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [ORE ORE](https://open.spotify.com/album/1MN3vA9yujfECSR8fPpncA) | 2:32 | 2022-07-04 |  |
 | [ORE ORE](https://open.spotify.com/track/7CJKuLpoIsrJi7YJTRgRqM) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [ORE ORE](https://open.spotify.com/album/0PydWA1rnQIUyZic8w59yi) | 2:32 | 2021-12-07 | 2022-07-29 |
+| [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 | 2022-10-18 |  |
 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 | 2022-08-09 |  |
 | [Play the Summer](https://open.spotify.com/track/3DbJBVdTQb4fFcVnSgirer) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh), [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo) | [Play the Summer](https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e) | 3:24 | 2021-12-07 |  |
 | [Poison](https://open.spotify.com/track/3tk79feBLaxOv7FsBMnGM8) | [DaHye](https://open.spotify.com/artist/6MHofs3y2bwFn1s79DfaXw) | [Poison](https://open.spotify.com/album/1Pj8NZ5isgpWtUx3ukXDaN) | 3:32 | 2021-12-07 | 2022-07-29 |

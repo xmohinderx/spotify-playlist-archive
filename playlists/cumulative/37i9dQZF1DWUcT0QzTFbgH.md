@@ -4,7 +4,7 @@
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-98 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
+99 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Flowers \- Sunship Radio Edit](https://open.spotify.com/track/1IqANTbvKLojRoomq685LA) | [Sweet Female Attitude](https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Flowers](https://open.spotify.com/album/4EBj7OhtgpRZspPD3RHczW) | 3:50 | 2020-09-01 | 2022-07-29 |
 | [For Me](https://open.spotify.com/track/4O2I4UYYjPnsBE1EWmDUFO) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Soulection Black Label: Devin Tracy](https://open.spotify.com/album/61LtXSZFP4kSB776PrPcoP) | 3:25 | 2020-09-01 |  |
 | [For You You You](https://open.spotify.com/track/4z2g6uOZfujue1LoEPazpG) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Magnom](https://open.spotify.com/artist/66biqyq71uND4uIC1gXDeI) | [For You You You](https://open.spotify.com/album/4eJ0EqX6TSW1f2hZeeEJK3) | 2:46 | 2020-09-01 |  |
-| [Get On Uppa](https://open.spotify.com/track/5aotZwwhBYBDUe5sXFRXoN) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/6oAxhF4HUEXlL8KByAXrkJ) | 3:43 | 2020-09-01 |  |
+| [Get On Uppa](https://open.spotify.com/track/5aotZwwhBYBDUe5sXFRXoN) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/6oAxhF4HUEXlL8KByAXrkJ) | 3:43 | 2020-09-01 | 2022-10-19 |
+| [Get On Uppa](https://open.spotify.com/track/3K60QrITzr3A7VfO9gj65y) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:43 | 2020-09-01 |  |
 | [Girls Like Us](https://open.spotify.com/track/2kORFfHwy7w4a24WHrOb7b) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa) | [Girls Like Us](https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg) | 3:07 | 2020-09-01 |  |
 | [Give Me Your Love](https://open.spotify.com/track/7BZ7UeQl9Lces7CZRgcrpp) | [The Bricks](https://open.spotify.com/artist/1qwbhsGKeXLBBFaBIK4v8w) | [Change Gonna Come](https://open.spotify.com/album/1LMhfIi6KaluK1I2XpuT4M) | 3:23 | 2020-09-01 |  |
 | [Gloria](https://open.spotify.com/track/4I5uWfaZIrkKCHrbO7eLMV) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Gloria](https://open.spotify.com/album/0LikXFh8YeWcqgOXCgvA9R) | 2:36 | 2020-09-01 |  |

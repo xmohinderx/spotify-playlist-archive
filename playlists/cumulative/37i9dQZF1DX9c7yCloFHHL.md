@@ -4,7 +4,7 @@
 
 > To celebrate the release of his new album 'FOREVERANDEVERNOMORE', visionary musician and artist Brian Eno curates a selection of tracks from the album, his back catalogue and his wide\-ranging musical influences.
 
-704 songs - 2 day 11 hr 17 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
+706 songs - 2 day 11 hr 25 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,8 @@
 | [Then](https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Then](https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc) | 3:27 | 2022-10-11 | 2022-10-14 |
 | [There Is](https://open.spotify.com/track/674nhfhMJ0EDxaG3J2Pq3J) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [There Is](https://open.spotify.com/album/638sBZCKFHXn4bgPtsIPSz) | 2:50 | 2021-12-24 | 2022-07-29 |
 | [there is always a girl with a secret](https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [there is always a girl with a secret](https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s) | 5:16 | 2022-03-29 | 2022-08-12 |
-| [There Were Bells](https://open.spotify.com/track/0VhnR0c86utK10IZBahEo1) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 4:52 | 2022-08-19 |  |
+| [There Were Bells](https://open.spotify.com/track/0VhnR0c86utK10IZBahEo1) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 4:52 | 2022-08-19 | 2022-10-19 |
+| [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 | 2022-10-14 |  |
 | [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 | 2022-08-03 | 2022-09-15 |
 | [this feeling \(Slowed + Reverb\)](https://open.spotify.com/track/1PEKGePNN1XrdKG2QQDUCv) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling \(Slowed + Reverb\)](https://open.spotify.com/album/6yGOt8ZXsdPcKNybC7aOX7) | 1:54 | 2022-05-06 | 2022-05-19 |
 | [this world is sick](https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt) | 2:19 | 2022-10-11 | 2022-10-14 |
@@ -680,7 +681,8 @@
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-21 | 2022-02-19 |
 | [Wawa by the Ocean](https://open.spotify.com/track/2S7slBXVQLbQUVW1ICWlvK) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 10:28 | 2022-02-04 | 2022-08-30 |
 | [We Lay Down in a Field of Orange Flowers and We Listened to the Birds](https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Flues of Forgotten Sands](https://open.spotify.com/album/7mXP8hv5XTR0PkY7J4gbOp) | 19:33 | 2022-07-15 | 2022-09-17 |
-| [We Let It In](https://open.spotify.com/track/4GM08ICJRy8IoCN92CzvAj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 3:28 | 2022-09-09 |  |
+| [We Let It In](https://open.spotify.com/track/4GM08ICJRy8IoCN92CzvAj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 3:28 | 2022-09-09 | 2022-10-19 |
+| [We Let It In](https://open.spotify.com/track/4yWd80KUbRs8nuv8MocOa5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:28 | 2022-10-14 |  |
 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 | 2021-12-24 | 2022-10-14 |
 | [Wealth](https://open.spotify.com/track/6DEVAhgo6OLAK8pdTFKBFo) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [perhaps](https://open.spotify.com/album/1Sh24GpqhOxOD87EnXnNz8) | 9:47 | 2021-12-24 | 2022-01-17 |
 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 | 2021-12-24 |  |

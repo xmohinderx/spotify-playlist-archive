@@ -4,7 +4,7 @@
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Unnati Shah, Artwork: Isu Kim
 
-599 songs - 1 day 11 hr 46 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+600 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [One More Night](https://open.spotify.com/track/04VqbdxsWY4lgPwX8Tphqu) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Subharaj Ghosh](https://open.spotify.com/artist/5znY5jCX8yWmrCVPtt41yt), [Arka Chakraborty](https://open.spotify.com/artist/5fPPNRzVGJXXfut3gx9nsj), [Aniruddha Saha](https://open.spotify.com/artist/4rOuh8GWmsN2rjVKXDav6t), [William Walters](https://open.spotify.com/artist/3HGKHS6Ph0HPMYcUMEEguC), [Rajshekhar Banerjee](https://open.spotify.com/artist/6rRsXP9vVaSJoyVkvPnObA) | [One More Night](https://open.spotify.com/album/2JeTqQwH8UZJxiNNdUs4Zc) | 3:46 | 2022-08-03 |  |
 | [One Time Paradise](https://open.spotify.com/track/5qE3rPpPIn27F8E6zadEHr) | [Wasim R](https://open.spotify.com/artist/3VpaMk7vUcWlbF9GhqNoT2), [Prithivee](https://open.spotify.com/artist/2C4HzkDtpEuDwxiqsy5nj7) | [One Time Paradise](https://open.spotify.com/album/3NosF7tVnaT75YPxbxFrYJ) | 4:05 | 2022-01-12 | 2022-02-24 |
 | [Oooo](https://open.spotify.com/track/7hzc2mlb4ueqONnjJ80Lia) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Oooo](https://open.spotify.com/album/7lXWxNBDEWAn8r3ziaMUc0) | 2:41 | 2022-03-09 | 2022-07-07 |
-| [Options](https://open.spotify.com/track/192OQEOCXdZXxFQATFARWd) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [Options](https://open.spotify.com/album/6pUc3QsAiEOy3PmzfX4BAp) | 3:13 | 2022-09-14 |  |
+| [Options](https://open.spotify.com/track/04CutF5UQAa5kX2rrAtnKn) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [Options](https://open.spotify.com/album/5PQdMjzV7cY9l7jwl6ctya) | 3:13 | 2022-10-12 |  |
+| [Options](https://open.spotify.com/track/192OQEOCXdZXxFQATFARWd) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [Options](https://open.spotify.com/album/6pUc3QsAiEOy3PmzfX4BAp) | 3:13 | 2022-09-14 | 2022-10-19 |
 | [Our Own Universe](https://open.spotify.com/track/6bWsufSDJQBDlGathtdDIc) | [Mihir Chandan](https://open.spotify.com/artist/1Re6PBa7Yd7nDfiRJGEaid), [Gowri Bhat](https://open.spotify.com/artist/6o7tpIX0B2Wlhs64yHaEmc), [C\-Deep](https://open.spotify.com/artist/1FV4WTegDiySN8P0E73kM4) | [Our Own Universe](https://open.spotify.com/album/1omZSeQN1d3LHeyIQKCAGm) | 3:41 | 2022-04-13 | 2022-05-12 |
 | [Our Souls At Night](https://open.spotify.com/track/5gFQp3Oi2YLlFqwj1NAjGa) | [Dipan Basak](https://open.spotify.com/artist/02UPbnzR33FpUAWmPLI3xR), [Josh Dasgupta](https://open.spotify.com/artist/1TaYvUQFT1WAfYYdolAiRB), [Stuart Munro](https://open.spotify.com/artist/67k83N42RRF8nnqwVRaXge) | [Our Souls At Night](https://open.spotify.com/album/4oEtIMnuM3IfqOMwkb9KfG) | 5:11 | 2022-04-13 | 2022-05-19 |
 | [Over & Over](https://open.spotify.com/track/4rmNgY48hFQKS08YLUk7sc) | [Nina & Malika](https://open.spotify.com/artist/4PJCaRYDmLzu4kxHUeUAbq), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Over & Over](https://open.spotify.com/album/5ClJWsPzUAbj6A1SWGTPoe) | 2:38 | 2022-06-15 | 2022-09-09 |

@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-63 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
+64 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [I Rest My Eyes](https://open.spotify.com/track/1Sic4S5VMmHmFi8hWJsF2x) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [I Rest My Eyes](https://open.spotify.com/album/3D857PXK7oDv8GAHdRXx9h) | 4:49 | 2022-02-11 |  |
 | [Love of My Life](https://open.spotify.com/track/6U43jM0olCZ8tvbRbClWwR) | [Mark Vincent](https://open.spotify.com/artist/0pSg4jDXGzhiXGQaodiA90) | [Love of My Life](https://open.spotify.com/album/5aa7wQB7hyWhjy4RtOvZkC) | 3:35 | 2022-03-18 | 2022-05-07 |
 | [Make Me a Channel of Your Peace \- Arr\. by Simon Lole](https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV) | [Sebastian Temple](https://open.spotify.com/artist/46w8xOElBo4gXRJ1BnLmNx), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [Back in Harmony](https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj) | 3:41 | 2021-09-24 |  |
-| [Mononoke Hime](https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1) | [Anúna](https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC), [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD) | [Revelation](https://open.spotify.com/album/6IqEExqxT85wd6Tzybi1mb) | 3:49 | 2021-09-24 |  |
+| [Mononoke Hime](https://open.spotify.com/track/3UdYeHpaN6LSl1Gf1dhlbs) | [Anúna](https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC), [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD) | [Revelation](https://open.spotify.com/album/5ThZz5lPHg9KOvChXU2U6q) | 3:49 | 2022-09-21 |  |
+| [Mononoke Hime](https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1) | [Anúna](https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC), [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD) | [Revelation](https://open.spotify.com/album/6IqEExqxT85wd6Tzybi1mb) | 3:49 | 2021-09-24 | 2022-10-19 |
 | [Nella Fantasia](https://open.spotify.com/track/41SH0UAo3nbzN4l0U38Wq3) | [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl), [Choir of The King's Consort](https://open.spotify.com/artist/1bubEqwBcIyhEsO8ExpnXE), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Nicholas Dodd](https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO) | [Katherine Jenkins / From The Heart](https://open.spotify.com/album/3Zu1qssJCsIlgXtJQskbE5) | 5:11 | 2021-09-24 |  |
 | [Never Say Goodbye \(Adapted from "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 | 2022-06-17 |  |
 | [Never Say Goodbye \(Adapted from "Pavane, M\. 19"\)](https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [Pure \(Includes Bonus Tracks and Exclusive Track\)](https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5) | 3:13 | 2021-09-24 | 2022-07-29 |

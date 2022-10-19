@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,185 likes - 47 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,202 likes - 47 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 |
-| 2 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6rBDrbfQOtnJNp0vNq9LuW) | [Rex Miller](https://open.spotify.com/artist/3lOVSaqppoE1qOke2ru0b7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4xXA2kyLlGXNEzCcyUHscD) | 2:01 |
+| 2 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6rBDrbfQOtnJNp0vNq9LuW) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4xXA2kyLlGXNEzCcyUHscD) | 2:01 |
 | 3 | [We Wish You a Merry Christmas \- Piano](https://open.spotify.com/track/3szNR5TwMJxBC4PAc4SIYl) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:31 |
 | 4 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 |
 | 5 | [Deck The Halls](https://open.spotify.com/track/4E4q1ISp6Q416ozStCAZoK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 1:50 |

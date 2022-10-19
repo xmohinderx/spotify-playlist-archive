@@ -4,7 +4,7 @@
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-81 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
+82 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [And Dat \(Ft\. Stormzy\)](https://open.spotify.com/track/78chq26Bmte8cDBp2FCF74) | [Bonkaz](https://open.spotify.com/artist/7JxnnwPLTjVyHHruCMpcJQ), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mixtape of the Year](https://open.spotify.com/album/3Jt0oBSkfXOZdzyIzv5tt4) | 3:15 | 2021-07-08 | 2022-07-29 |
 | [Audacity \(feat\. Headie One\)](https://open.spotify.com/track/6Oq4fiDzKaFMU89dTvM24u) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 4:05 | 2021-07-08 |  |
 | [Bad Boys \(feat\. Ghetts and J Hus\)](https://open.spotify.com/track/48jPP29QyeTorwlkflGast) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 4:06 | 2021-07-08 |  |
-| [Been the Man](https://open.spotify.com/track/36I3sETuZvd4dhQzBVIcnw) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Junk Food](https://open.spotify.com/album/1vPy7x9tSLmmBxvG1E1wsu) | 3:56 | 2021-07-08 |  |
+| [Been the Man](https://open.spotify.com/track/36I3sETuZvd4dhQzBVIcnw) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Junk Food](https://open.spotify.com/album/1vPy7x9tSLmmBxvG1E1wsu) | 3:56 | 2021-07-08 | 2022-10-19 |
+| [Been the Man](https://open.spotify.com/track/7r7g5NZ0kMHJ4zaIOXwYNq) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Junk Food](https://open.spotify.com/album/4xQ3ZqHl9KGnfekxGGN1q5) | 3:56 | 2022-10-13 |  |
 | [Big For Your Boots](https://open.spotify.com/track/3uMB82o0qa7erhiZBW9KQC) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:58 | 2021-07-08 |  |
 | [Big Man / All You Gotta Do](https://open.spotify.com/track/5g7PCqiSmTwXS5xAgnZfJT) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Project Black & Red \(Deluxe\)](https://open.spotify.com/album/447HOYdbu6WTJcrwK3vghn) | 4:34 | 2021-07-08 |  |
 | [Big Michael](https://open.spotify.com/track/4zrQ9UIhPD6lL6VBISJ5aE) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:26 | 2021-07-08 |  |

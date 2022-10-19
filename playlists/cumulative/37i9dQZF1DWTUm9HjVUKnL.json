@@ -8181,10 +8181,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 262987,
       "name": "Ivy - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2vkGGrvr58ODOWEv3Yhwow"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf"
+      },
+      "artists": [
+        {
+          "name": "Janelle Kroll",
+          "url": "https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262987,
+      "name": "Ivy - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Db88sMdYMNETPXIZyJdwk"
     },
     {
       "album": {
@@ -12017,6 +12035,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf"
+      },
+      "artists": [
+        {
+          "name": "Janelle Kroll",
+          "url": "https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275342,
+      "name": "Outsider - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1U0deAPhGBIywMOiaufLEk"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx"
       },
       "artists": [
@@ -12027,7 +12063,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 275342,
       "name": "Outsider - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4qc95VxpLLPEfAD4YIZYn5"

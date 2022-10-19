@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-113 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+114 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Terra della straniera](https://open.spotify.com/track/6EGfGeXcbqVib95Q7JTv1E) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Terra della straniera](https://open.spotify.com/album/7hxO8Wb6TL4Nuov5xOToJc) | 2:49 | 2022-08-05 |  |
 | [Thaw](https://open.spotify.com/track/40EO9s8GbO9CfUoVnq7jAo) | [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [The Depths Between Us \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/6VPuTWQ8alHnKhUjqBvIdP) | 3:24 | 2022-08-05 |  |
 | [The Contrarian](https://open.spotify.com/track/0QG72LD6gpxefMVt1aDV5X) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Godspeed](https://open.spotify.com/album/0su6VB6JvmK0X5NwuyT8Jf) | 4:04 | 2022-08-05 |  |
-| [this world is sick](https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt) | 2:19 | 2022-10-10 |  |
+| [this world is sick](https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt) | 2:19 | 2022-10-10 | 2022-10-19 |
+| [this world is sick](https://open.spotify.com/track/7c4ut2xl3z0x0WKC4PpTow) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2rvipmrgDLEirqK0gaZJAO) | 2:19 | 2022-10-14 |  |
 | [Timelapses](https://open.spotify.com/track/3M0p85lGZSAirN47876OKc) | [Evelyn Ferrera](https://open.spotify.com/artist/3lWlO9shOnzBgTxgHj3ani) | [Timelapses](https://open.spotify.com/album/6uP3uuCmDm2dd7ZQHNh0uW) | 2:35 | 2022-09-08 |  |
 | [Transience](https://open.spotify.com/track/1FI8eE3rHivYy7fAL6KCAq) | [Arylith](https://open.spotify.com/artist/56XjeqEoAGHJDpHhGGnhwK) | [Aberration](https://open.spotify.com/album/2ZqOMsFOfI61ipnRimMmnb) | 2:23 | 2022-08-05 |  |
 | [Trying to Feel Everything](https://open.spotify.com/track/5MOWnM1AWOcDwC7wha1Lss) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ) | [Trying to Feel Everything](https://open.spotify.com/album/7A7gggXbZBfXN8Ft1CZqbI) | 3:32 | 2022-10-10 |  |

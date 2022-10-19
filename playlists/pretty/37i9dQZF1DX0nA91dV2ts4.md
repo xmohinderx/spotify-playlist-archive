@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : KRK
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,605 likes - 81 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,695 likes - 81 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 | 7 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 |
 | 8 | [Otha Sollaala](https://open.spotify.com/track/7lnRiEP7BHXuILXNY9MH8f) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Aadukalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0czPRsN8uZZ5o3J8usUHbR) | 3:58 |
 | 9 | [Jai Sulthan \- From "Sulthan"](https://open.spotify.com/track/7crGzxRqI5pMZAjZgF9uu2) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Jai Sulthan \(From "Sulthan"\)](https://open.spotify.com/album/3t8eTRRkTRs9mxxYWZK9Xz) | 4:06 |
-| 10 | [Saami Saami](https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV) | [Rajalakshmi Senthiganesh](https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v) | [Pushpa \- The Rise](https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM) | 3:44 |
-| 11 | [Takkunu Takkunu \- From "Mr\. Local"](https://open.spotify.com/track/4FL8i7miD18FuMN08XGKcM) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Takkunu Takkunu \(From "Mr\. Local"\)](https://open.spotify.com/album/6X9im2EjoC80L7GXPV2tdj) | 3:32 |
+| 10 | [Takkunu Takkunu \- From "Mr\. Local"](https://open.spotify.com/track/4FL8i7miD18FuMN08XGKcM) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Takkunu Takkunu \(From "Mr\. Local"\)](https://open.spotify.com/album/6X9im2EjoC80L7GXPV2tdj) | 3:32 |
+| 11 | [Saami Saami](https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV) | [Rajalakshmi Senthiganesh](https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v) | [Pushpa \- The Rise](https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM) | 3:44 |
 | 12 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
 | 13 | [Kalasala Kalasala](https://open.spotify.com/track/2PcgMmmhIZA83kwIYEjR8f) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [L\. R\. Eswari](https://open.spotify.com/artist/4tGWdSKKqKmaVQogfAFnlx), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Solar Sai](https://open.spotify.com/artist/36IO5ItRvRUxC7RcJAv0Zh) | [Osthe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yfStC7OGYcfFJzGmsyLpy) | 4:11 |
 | 14 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 | 80 | [Thappa Dhaan Theriyum \- Maari's Karuthu](https://open.spotify.com/track/4RXjmJrLbH9DNROHHaMbNc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Magizhini Manimaaran](https://open.spotify.com/artist/3jE5B5EvNgZmEw9bnpZMam) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:19 |
 | 81 | [Breakup Song](https://open.spotify.com/track/1hnG8nDABfdb8qeQ7g4aKh) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Naan Sirithal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EDWe5j1Ytb2h0og0RvxOg) | 2:49 |
 
-Snapshot ID: `MTY2NTkxNTkzNSwwMDAwMDAwMGZlNjM2ZGMzY2Y1OTg1Yjk0NTNhZDcyZDRlMmQ1NTAx`
+Snapshot ID: `MTY2NTkxNTkzNSwwMDAwMDAwMDgxMWQ4NzRmNGUzOGY2ZjljNDNkNzQ4ZjE0ZTEyMTM0`

@@ -463,10 +463,32 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 301905,
       "name": "Battas",
       "url": "https://open.spotify.com/track/5vg6lgIJMt0y1Ty0GwIRhb"
+    },
+    {
+      "album": {
+        "name": "Mazde X LissA",
+        "url": "https://open.spotify.com/album/52zrkrpDjQDSFMVXoXx8C6"
+      },
+      "artists": [
+        {
+          "name": "Mazde",
+          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301905,
+      "name": "Battas",
+      "url": "https://open.spotify.com/track/6uMVc1y4OcfZPh6PngXag4"
     },
     {
       "album": {

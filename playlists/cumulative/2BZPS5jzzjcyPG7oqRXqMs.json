@@ -1840,6 +1840,32 @@
     },
     {
       "album": {
+        "name": "Never Found A Love",
+        "url": "https://open.spotify.com/album/714Uq6GBID0a8xnQaZuugc"
+      },
+      "artists": [
+        {
+          "name": "City Students Worship",
+          "url": "https://open.spotify.com/artist/6mGZBhDHH1Ypnwg3VoSD4G"
+        },
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        },
+        {
+          "name": "Brantley Pollock",
+          "url": "https://open.spotify.com/artist/5m0P6dlB9jrsCinSWm09Fk"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Never Found A Love",
+      "url": "https://open.spotify.com/track/4WwB2Q0MBXldoo2xIBqeOU"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/64fVuTbjAULFsImYYYXByp"
       },

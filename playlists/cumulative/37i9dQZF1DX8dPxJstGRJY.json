@@ -647,6 +647,28 @@
     {
       "album": {
         "name": "Revelation",
+        "url": "https://open.spotify.com/album/5ThZz5lPHg9KOvChXU2U6q"
+      },
+      "artists": [
+        {
+          "name": "An\u00fana",
+          "url": "https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC"
+        },
+        {
+          "name": "Michael McGlynn",
+          "url": "https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229219,
+      "name": "Mononoke Hime",
+      "url": "https://open.spotify.com/track/3UdYeHpaN6LSl1Gf1dhlbs"
+    },
+    {
+      "album": {
+        "name": "Revelation",
         "url": "https://open.spotify.com/album/6IqEExqxT85wd6Tzybi1mb"
       },
       "artists": [
@@ -661,7 +683,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 229219,
       "name": "Mononoke Hime",
       "url": "https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1"

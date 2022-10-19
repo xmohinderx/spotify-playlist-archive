@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+        "url": "https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+      "url": "https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w"
+    },
+    {
+      "album": {
         "name": "\u77ac\u304f\u4e16\u754c\u306bi\u3092\u63fa\u3089\u305b",
         "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
       },

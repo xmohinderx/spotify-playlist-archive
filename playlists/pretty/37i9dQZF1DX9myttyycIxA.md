@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Runnner
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,819 likes - 121 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,860 likes - 121 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 26 | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 4:21 |
 | 27 | [numb or something](https://open.spotify.com/track/0pFlhJEMOoC4HUgRZTFJg2) | [MAYA LUCIA](https://open.spotify.com/artist/5Ttuy2He3faVKwepReA6U3) | [numb or something](https://open.spotify.com/album/1yxvBUFNaSSRJwTjqQMkVz) | 4:07 |
 | 28 | [Shark Eyes](https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Shark Eyes](https://open.spotify.com/album/3yBF9PnTuSweeaRRCXa85h) | 4:30 |
-| 29 | [French Blonde](https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 4:26 |
+| 29 | [French Blonde](https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 4:26 |
 | 30 | [No Way](https://open.spotify.com/track/6JXDI67CRvdNnxBya3UXkB) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [No Way](https://open.spotify.com/album/1pIWJMmWJUwCrpK23LkN2v) | 4:45 |
 | 31 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 |
 | 32 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 73 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 |
 | 74 | [Feelings Meeting](https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 3:59 |
 | 75 | [Knocking on Wood](https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Knocking on Wood](https://open.spotify.com/album/2TR4wew45TemGUpSbMZOuz) | 4:11 |
-| 76 | [All I Need](https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq) | [khai dreams](https://open.spotify.com/artist/7ieMNoNgTOt4EoE1VQOlrB), [Atwood](https://open.spotify.com/artist/3OR277QANTI19APHnC1XrK) | [Nice Colors](https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF) | 2:27 |
+| 76 | [All I Need](https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Atwood](https://open.spotify.com/artist/3OR277QANTI19APHnC1XrK) | [Nice Colors](https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF) | 2:27 |
 | 77 | [Flake](https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Flake](https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933) | 3:07 |
 | 78 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 |
 | 79 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 |
 | 80 | [Anna Calls From The Arctic](https://open.spotify.com/track/6WNfKDsa7egDmGn1xAGD4M) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 4:57 |
 | 81 | [Ocean](https://open.spotify.com/track/1HcgUrKSisYAtSOosxNVFE) | [Young Jesus](https://open.spotify.com/artist/7pq7EnlN1IHSyffRTklSqP), [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Ocean](https://open.spotify.com/album/1dBMg19trPIuXYKt70snYC) | 4:41 |
-| 82 | [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 |
+| 82 | [You Follow Me Around](https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/0rHEklUS6vtFMvCIdblQaI) | 3:30 |
 | 83 | [Burnt](https://open.spotify.com/track/5PY4JyJ5oQIxLx9iqrXXEG) | [Slater](https://open.spotify.com/artist/0axqUvPmS7PqZp0xJTdzdG) | [Burnt](https://open.spotify.com/album/0Q1qEXD9LLptZnO4CBvz0K) | 2:53 |
 | 84 | [Nightdrive](https://open.spotify.com/track/5ASia9B7HUtC6s4ekpsGzQ) | [Deathsport](https://open.spotify.com/artist/0WpxSPJ1brZnF598ASh8i1) | [Nightdrive](https://open.spotify.com/album/2GEgyBxEoXmxH0e80tzEoL) | 3:27 |
 | 85 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 120 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 |
 | 121 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 |
 
-Snapshot ID: `MTY2NTcyNjAwMCwwMDAwMDAwMDRlZTBkZGMwYjRlMjU2OTQ2Mzc4MTViODM5OGYzOTE3`
+Snapshot ID: `MTY2NTcyNjAwMCwwMDAwMDAwMDc5N2Y3YzZlZDgzNjNkZGYzZjI5MTMzNjVmYjU4NjEw`

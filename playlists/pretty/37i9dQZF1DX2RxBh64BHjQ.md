@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,687,857 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,688,178 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 65 | [COINCIDENCE](https://open.spotify.com/track/6MFk8Dw2VnvweH2E46cjEv) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [COINCIDENCE](https://open.spotify.com/album/6yhxvEpEU3smpzc3RrWJa6) | 2:03 |
 | 66 | [Good On Love \(with Future\)](https://open.spotify.com/track/4aPjhAeHtS0eturdD1dk78) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Good On Love \(with Future\)](https://open.spotify.com/album/2yuC60EDQbXHoLEU6KwKoB) | 3:20 |
 | 67 | [Repeat \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0l3ED5kPEnls7T2nrTbI7H) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Repeat \(feat\. Fivio Foreign\)](https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj) | 2:37 |
-| 68 | [Money Call](https://open.spotify.com/track/2EgaM86lGI7BxsnYiUCpwX) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Money Call](https://open.spotify.com/album/4mMfqJexgOYPu6xPYlk3W4) | 2:54 |
+| 68 | [MONEY CALL](https://open.spotify.com/track/2EgaM86lGI7BxsnYiUCpwX) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [MONEY CALL](https://open.spotify.com/album/4mMfqJexgOYPu6xPYlk3W4) | 2:54 |
 | 69 | [Doves](https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Doves](https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW) | 2:35 |
 | 70 | [Demon Time](https://open.spotify.com/track/2zWkxKrUj8GfsUMi0MczgE) | [FN DaDealer](https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Demon Time](https://open.spotify.com/album/5kKKmFlOzZCYVEXyVQDV9e) | 3:08 |
 | 71 | [Jeeezy WYA](https://open.spotify.com/track/2stq5NpGRf75lIYqwgchHB) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Jeeezy WYA](https://open.spotify.com/album/5M73hOaCr71mvgIDlw7vq4) | 2:06 |

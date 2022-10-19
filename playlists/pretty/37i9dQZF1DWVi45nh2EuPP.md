@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > The official playlist for all things League of Legends featuring the Worlds Anthem: "STAR WALKIN'" by Lil Nas X.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,591 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,639 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 13 | [LOST IN THE CITADEL](https://open.spotify.com/track/6th8IdY4lYeM0QlSQJhhkp) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:50 |
 | 14 | [Runner \(feat\. CHANGMO\)](https://open.spotify.com/track/5QwLHJDelqEuMEEOT4oLy9) | [T1](https://open.spotify.com/artist/4EilAKej00Ih2NLMbYqQyI), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Runner \(feat\. CHANGMO\)](https://open.spotify.com/album/5R1Tccp8xtfsvohFWvEPqi) | 2:51 |
 | 15 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
-| 16 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 |
+| 16 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 |
 | 17 | [Inquebrantable \(Seiya\)](https://open.spotify.com/track/3bRnBON6HvX42xiPssnAY6) | [Jxp](https://open.spotify.com/artist/769JuDzaR9ExzdM53NohUF) | [Inquebrantable \(Seiya\)](https://open.spotify.com/album/6CNONDD8KmmzICMMfZtU2P) | 3:08 |
 | 18 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 |
 | 19 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 53 | [Ready for War](https://open.spotify.com/track/05f1rPg0cUUbShsL4FYcPt) | [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [Ready for War](https://open.spotify.com/album/4LYXm7zyAzv655XH9cVq7A) | 3:20 |
 | 54 | [Punjabi](https://open.spotify.com/track/2Byxr0ooaeLayBBaVLup67) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Punjabi](https://open.spotify.com/album/2qcWpdZ2yIHXA1J7AJnm3R) | 3:30 |
 
-Snapshot ID: `MTY2NDIyNTU0NSwwMDAwMDAwMDUxNGI3N2JjZGViZDM0MDdhMTk3MmM5ZjFiNzE0ZWQ1`
+Snapshot ID: `MTY2NDIyNTU0NSwwMDAwMDAwMDcxNTRlNWE3NjY3MjdiMzEzYzYyNGQ0NjZmYThmOWRh`

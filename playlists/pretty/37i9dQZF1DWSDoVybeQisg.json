@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1009874,
+  "num_followers": 1010073,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMGE3NjUyZTA3ZTZkNDU3M2RmOGU2ZmU0NTIxZDVhMGFh",
+  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMDEyMDRkYjRmMzJhOWEwOGRmYjlmZjU1ZjJmZDQ5NGNm",
   "tracks": [
     {
       "added_at": "2021-11-10 18:08:33",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Buffalo Springfield Again",
-        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 163293,
       "name": "Friday On My Mind",
       "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Buffalo Springfield Again",
+        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Hellbound Train",
-        "url": "https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 550506,
-      "name": "Hellbound Train",
-      "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Happy Trails",
         "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 212733,
       "name": "Who Do You Love - Pt. 1",
       "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Hellbound Train",
+        "url": "https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 550506,
+      "name": "Hellbound Train",
+      "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
     },
     {
       "added_at": "2021-11-10 18:08:33",

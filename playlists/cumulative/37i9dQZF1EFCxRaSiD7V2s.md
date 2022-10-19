@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-261 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+263 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [I Got Half A Mind](https://open.spotify.com/track/4oq2Xssy7NvWcsAMNM0QKZ) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:39 | 2022-09-05 |  |
 | [I Only Have Eyes for You](https://open.spotify.com/track/10MOyYRJCh4zCFIwpyZmNU) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:44 | 2021-12-27 |  |
 | [I Was Made to Love You](https://open.spotify.com/track/5tWXDLctAQg9Id1Rj5OBJj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:45 | 2021-12-27 |  |
-| [I Wish I Wanted To](https://open.spotify.com/track/2RG1Ww2zbDZmi8o2UIVPCS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/0K5Pw9fLTw4yXsRShWPfGj) | 3:35 | 2021-12-27 |  |
+| [I Wish I Wanted To](https://open.spotify.com/track/2RG1Ww2zbDZmi8o2UIVPCS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/0K5Pw9fLTw4yXsRShWPfGj) | 3:35 | 2021-12-27 | 2022-10-19 |
+| [I Wish I Wanted To](https://open.spotify.com/track/4Q8ycVIJQ48jNX5wzLKmho) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/1cwovZdlVDJarqdYdRxeIh) | 3:35 | 2022-10-18 |  |
 | [I, Robot..\. You, Jane](https://open.spotify.com/track/3Zej8ZyMYZJAQDsMiZoeJV) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 1:59 | 2021-12-27 |  |
 | [If I Didn't Know](https://open.spotify.com/track/1Z4oulm2H19GRohq4y4oW1) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:09 | 2022-08-18 |  |
 | [If I Didn't Know](https://open.spotify.com/track/2tEaPaHlQcI7AkVsL4UBUZ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 4:09 | 2021-12-27 | 2022-08-19 |
@@ -213,6 +214,7 @@
 | [Surprise](https://open.spotify.com/track/7JwaNCnrKB06BDHEzNHdCt) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:25 | 2021-12-27 |  |
 | [Tabula Rasa](https://open.spotify.com/track/0dk33s3DEqqACBc4irEQ5f) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:38 | 2021-12-27 |  |
 | [Tail Lights](https://open.spotify.com/track/2kd4ZriypOQLtGsbek2Xmf) | [rüün](https://open.spotify.com/artist/0JC0YtWmlbdFr4BYmmhy1n), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Jon Green](https://open.spotify.com/artist/6zFRLMTS6x3uxRQNVO0LUc) | [Tail Lights](https://open.spotify.com/album/4XmPok1yxi5k5JNYeLBNMd) | 3:10 | 2021-12-27 |  |
+| [TE TE TE](https://open.spotify.com/track/3X7EnBcbQhAjzZdTmVvGiO) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [TE TE TE](https://open.spotify.com/album/1o5jiQoMJZdY2kUDqGYBIg) | 2:56 | 2022-10-18 |  |
 | [Teacher's Pet](https://open.spotify.com/track/73YCQKaIOvi0sdToTDiW5F) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:39 | 2021-12-27 |  |
 | [Ted](https://open.spotify.com/track/2Mfb1R9ghnzo4Kp2U1tV4V) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:00 | 2021-12-27 |  |
 | [Tell Me](https://open.spotify.com/track/4idB0v45onZipVsuVPmNYF) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Taheran](https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6) | [Tell Me](https://open.spotify.com/album/28DeHdZUufPBbd7v6hpOG3) | 3:24 | 2021-12-27 | 2022-05-27 |

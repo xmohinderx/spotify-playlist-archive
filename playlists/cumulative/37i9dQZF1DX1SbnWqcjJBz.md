@@ -4,7 +4,7 @@
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-317 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
+318 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [On The Metro](https://open.spotify.com/track/2NZFQ5xAY6obCPiJjtMD6L) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten](https://open.spotify.com/album/664RHc5JaWz4ELLzzybn2T) | 3:13 | 2022-01-27 |  |
 | [On Your Side](https://open.spotify.com/track/7mTgsbq7n8jgnwLswpgugB) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [On Your Side](https://open.spotify.com/album/0yQlLL2AKwGelZkortyujO) | 2:51 | 2022-01-27 | 2022-07-29 |
 | [One Night Only \- Disco Version](https://open.spotify.com/track/5PiMzitNSsfRUn2BEmb98H) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Sharon Leal](https://open.spotify.com/artist/4PiUI5tfxk1ECzVLQCksAA), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Dreamgirls \(Music from the Motion Picture\) \[Deluxe Edition\]](https://open.spotify.com/album/7x0K2KoVdoFy192loas5Sp) | 3:09 | 2022-01-27 | 2022-07-10 |
-| [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 | 2022-01-27 |  |
+| [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 | 2022-01-27 | 2022-10-19 |
 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 | 2022-01-27 |  |
 | [Out of Your Mind \(feat\. Victoria Beckham\) \- Radio Edit](https://open.spotify.com/track/06nOKhJsiMBsN5F6HCOzLC) | [True Steppers](https://open.spotify.com/artist/3p9WryxYXLd0We8X84VC0U), [Dane Bowers](https://open.spotify.com/artist/4yYht262DZEzFPdagA6kIw), [Victoria Beckham](https://open.spotify.com/artist/54w1dJI7MTjkRGNfGuu2fc) | [Out of Your Mind \(feat\. Victoria Beckham\) \[Radio Edit\]](https://open.spotify.com/album/0MXtHFQIGDtW7AjLKbPh5C) | 3:24 | 2022-03-24 | 2022-06-28 |
 | [Paradise](https://open.spotify.com/track/5KdOSPHsnzx6kT08AJCMVn) | [Kaci Battaglia](https://open.spotify.com/artist/7HCPm8AkZIqGjQdAJR2ltC) | [I'm Not Anybody's Girl](https://open.spotify.com/album/6h2HaediR9Uqw3YAmdEl0P) | 4:02 | 2022-03-24 | 2022-04-21 |
@@ -243,6 +243,7 @@
 | [Radar](https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:48 | 2022-01-27 | 2022-07-29 |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2022-01-27 |  |
 | [React](https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) | 3:24 | 2022-01-27 | 2022-10-13 |
+| [React](https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz) | 3:24 | 2022-04-16 |  |
 | [Release Me](https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Release Me](https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b) | 4:14 | 2022-03-24 | 2022-04-21 |
 | [Release Me](https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Dance Love Pop \(The Love Love Love Edition\)](https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA) | 4:16 | 2022-04-16 |  |
 | [Remedy](https://open.spotify.com/track/1I0k04eIuAYfd4ObZ1POli) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:19 | 2022-01-27 | 2022-06-10 |

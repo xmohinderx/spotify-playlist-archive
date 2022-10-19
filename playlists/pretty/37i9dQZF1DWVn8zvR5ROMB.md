@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring HARDY, Zach Bryan, Tenille Arts and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,070 likes - 54 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,337 likes - 54 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 40 | [Devil's Pool](https://open.spotify.com/track/6adZPjL6T1Rfl1lqZDM32n) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Devil's Pool](https://open.spotify.com/album/42gXchUTdvtvfdQKGkaIJL) | 3:24 |
 | 41 | [Catfishin'](https://open.spotify.com/track/4ODabghE6x2gw3VaYyABOy) | [Caleb Mills](https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP) | [Catfishin'](https://open.spotify.com/album/4ILiAvrodkYRmEYfidIEjf) | 2:50 |
 | 42 | [Baby Don't](https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Baby Don't](https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36) | 3:03 |
-| 43 | [Card Game](https://open.spotify.com/track/1OcPhIgxeyh9F2fXqHPbdQ) | [Colten Jesse](https://open.spotify.com/artist/2gHdBtOeXXYDzgHyanABbb) | [Card Game](https://open.spotify.com/album/1hLCVNCl5mTAzdBhEVRNOm) | 3:54 |
+| 43 | [Card Game](https://open.spotify.com/track/1OcPhIgxeyh9F2fXqHPbdQ) | [Colten Jesse](https://open.spotify.com/artist/2a54v7t8zdzGJxDKHhEGrT) | [Card Game](https://open.spotify.com/album/1hLCVNCl5mTAzdBhEVRNOm) | 3:54 |
 | 44 | [You Won't](https://open.spotify.com/track/43sfqd7qTm8927O5UoVSCV) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [You Won't](https://open.spotify.com/album/5YkJttTRsDiHuYYmmlcSxn) | 3:00 |
 | 45 | [Heartbreak Goes](https://open.spotify.com/track/1upHGditPjil0NmUo9nyqN) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Heartbreak Goes](https://open.spotify.com/album/2oGDl0Y70rDitARBr0OrC9) | 3:11 |
 | 46 | [That's What I'm Looking For](https://open.spotify.com/track/16XkrrnnQXvDveo4mdjCzn) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [That's What I'm Looking For](https://open.spotify.com/album/6ZwJ7fNbmwiyPQDoi84AgN) | 3:07 |

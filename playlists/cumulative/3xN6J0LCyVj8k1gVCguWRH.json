@@ -17298,6 +17298,28 @@
     },
     {
       "album": {
+        "name": "Living For",
+        "url": "https://open.spotify.com/album/4AkYY2aJTl2PzydT86Nmmo"
+      },
+      "artists": [
+        {
+          "name": "Ethan Mark",
+          "url": "https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl"
+        },
+        {
+          "name": "Chara Kai-Le",
+          "url": "https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Living For",
+      "url": "https://open.spotify.com/track/03LB8fHbPRvl4MygY4bHcZ"
+    },
+    {
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5"
       },

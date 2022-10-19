@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  JAY-Z & Linkin Park",
-  "num_followers": 143329,
+  "num_followers": 143547,
   "original_name": "I Love Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE5MzQ4NiwwMDAwMDAwMDZlODJjMWM5MmE0ZjZlYjRlZjZmNWVkZGVjZDRmMDEw",
+  "snapshot_id": "MTY2NDE5MzQ4NiwwMDAwMDAwMDJmMDE3ZjU2OGM1MGI3YmI3MmNjZDU5ZTM5ZDk2YjM4",
   "tracks": [
     {
       "added_at": "2022-04-29 20:15:10",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Nobody's Listening",
+      "url": "https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
         "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
         "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 227360,
       "name": "Bring Tha Noize",
       "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Nobody's Listening",
-      "url": "https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -963,34 +963,18 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Methods Of Mayhem",
-        "url": "https://open.spotify.com/album/3xwu0sGFVTgeiExI6XIf1E"
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
       "artists": [
         {
-          "name": "Methods of Mayhem",
-          "url": "https://open.spotify.com/artist/0AnjaOjAt53Ej9223SQv2p"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Mix Master Mike",
-          "url": "https://open.spotify.com/artist/4BeDVC50BVhB0bjQqjbhmt"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Get Naked",
-      "url": "https://open.spotify.com/track/0CqQvJTH40jIehyC3ND6Er"
+      "duration_ms": 227749,
+      "name": "Sunrise Trailer Park (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/19glo6zeI6mUdELLmCIYq8"
     }
   ],
   "unique_name": "I Love Rap 'n' Roll",

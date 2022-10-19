@@ -4,7 +4,7 @@
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-66 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
+67 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Abba Father](https://open.spotify.com/track/5Mm710yfQEfatdtaivoXYE) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:44 | 2018-11-27 |  |
 | [Again and Again](https://open.spotify.com/track/2VtvyiPReTN9c7l7co6a0X) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Again and Again](https://open.spotify.com/album/2uH0NJYjekprSAWHx4IvQR) | 3:15 | 2018-11-27 |  |
 | [Alive \(Breathe On Me\) \- Live](https://open.spotify.com/track/73BDlgL6zIz7zUaMmSV4C7) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Only Jesus \(Live\)](https://open.spotify.com/album/2dUvm3MOU8vX1pg4Y7SotK) | 3:29 | 2018-11-27 |  |
-| [Alive with Worship](https://open.spotify.com/track/4AGEum8L2SEclpv676IU4C) | [Simon Brading](https://open.spotify.com/artist/5lXrZdj3SEDih1rxPeuSIZ) | [Alive with Worship](https://open.spotify.com/album/1juE8NS5CgqshKNeJ6Bac7) | 3:24 | 2018-11-27 |  |
+| [Alive with Worship](https://open.spotify.com/track/4AGEum8L2SEclpv676IU4C) | [Simon Brading](https://open.spotify.com/artist/5lXrZdj3SEDih1rxPeuSIZ) | [Alive with Worship](https://open.spotify.com/album/1juE8NS5CgqshKNeJ6Bac7) | 3:24 | 2018-11-27 | 2022-10-19 |
+| [Alive with Worship](https://open.spotify.com/track/5Es0mFnWgZS5vryNnjoa7q) | [Simon Brading](https://open.spotify.com/artist/5lXrZdj3SEDih1rxPeuSIZ) | [Alive with Worship](https://open.spotify.com/album/3lhSoLwQInYzWR9QVOZi6U) | 3:24 | 2018-11-27 |  |
 | [All About You](https://open.spotify.com/track/0qLqLMBQS5y3ZAbkc3MIGy) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Esther McLaren](https://open.spotify.com/artist/60J1UuxiGazhPIzIgwKULA) | [The Journey: A Collection](https://open.spotify.com/album/5E2ontsrR45lgUeC7cqen3) | 4:26 | 2018-11-27 |  |
 | [All For Love \(Gethsemane\) \- Live](https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I), [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [All For Love \(Gethsemane\) \[Live\]](https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn) | 5:14 | 2018-11-27 |  |
 | [All Things New \(Live\)](https://open.spotify.com/track/7tCQhqtldkBnag6wvOnKil) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO) | [All Things New \(Live\)](https://open.spotify.com/album/6YxQ6G7ltjqaRliili7o8Q) | 5:31 | 2018-11-27 |  |

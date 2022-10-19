@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 20748,
+  "num_followers": 20770,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAxMDA3NSwwMDAwMDAwMGU2YTAyZWM2ZWM1YzE3NWVlZTM3ZjAxOTg4MGQ5Mjdm",
+  "snapshot_id": "MTY2NTAxMDA3NSwwMDAwMDAwMDQ5ZGZmMDU0ZTEzYmIwMDRmODU5Yzc1MTMxZDllMTll",
   "tracks": [
     {
       "added_at": "2022-09-29 00:07:21",
@@ -657,20 +657,20 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
-      "added_at": "2022-01-07 19:52:45",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
       },
       "artists": [
         {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
         }
       ],
-      "duration_ms": 209708,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
+      "duration_ms": 200441,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -687,6 +687,22 @@
       "duration_ms": 236746,
       "name": "Blankenship",
       "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+    },
+    {
+      "added_at": "2022-01-07 19:52:45",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -723,34 +739,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
       "artists": [
         {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 200441,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
       "artists": [
         {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2021-12-08 15:59:07",
@@ -929,20 +929,20 @@
       "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-05-03 02:08:01",
       "album": {
-        "name": "Deafcult",
-        "url": "https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy"
+        "name": "Destiny XL",
+        "url": "https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU"
       },
       "artists": [
         {
-          "name": "Deafcult",
-          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
         }
       ],
-      "duration_ms": 189531,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc"
+      "duration_ms": 189673,
+      "name": "eightball",
+      "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -961,20 +961,20 @@
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
     },
     {
-      "added_at": "2022-05-03 02:08:01",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Destiny XL",
-        "url": "https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU"
+        "name": "Deafcult",
+        "url": "https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy"
       },
       "artists": [
         {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+          "name": "Deafcult",
+          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
         }
       ],
-      "duration_ms": 189673,
-      "name": "eightball",
-      "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
+      "duration_ms": 189531,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc"
     },
     {
       "added_at": "2022-04-22 18:11:35",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+        "name": "Wait to Pleasure",
+        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
       },
       "artists": [
         {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
         }
       ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+      "duration_ms": 206023,
+      "name": "Hare Tarot Lies",
+      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Wait to Pleasure",
-        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
       "artists": [
         {
-          "name": "No Joy",
-          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
         }
       ],
-      "duration_ms": 206023,
-      "name": "Hare Tarot Lies",
-      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Our Goal to Realise",
-        "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
-      },
-      "artists": [
-        {
-          "name": "Amusement Parks On Fire",
-          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
-        }
-      ],
-      "duration_ms": 197563,
-      "name": "Our Goal to Realise",
-      "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
-    },
-    {
       "added_at": "2022-04-22 18:16:47",
       "album": {
         "name": "Giving The World Away",
@@ -1331,6 +1315,22 @@
       "duration_ms": 254900,
       "name": "The Key",
       "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Our Goal to Realise",
+        "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
+      },
+      "artists": [
+        {
+          "name": "Amusement Parks On Fire",
+          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+        }
+      ],
+      "duration_ms": 197563,
+      "name": "Our Goal to Realise",
+      "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Always, Sometimes, Seldom, Never",
-        "url": "https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV"
-      },
-      "artists": [
-        {
-          "name": "Tears Run Rings",
-          "url": "https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "Mind the Wires",
-      "url": "https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Miserable Miracles",
         "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 272498,
       "name": "Dance AM",
       "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Always, Sometimes, Seldom, Never",
+        "url": "https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV"
+      },
+      "artists": [
+        {
+          "name": "Tears Run Rings",
+          "url": "https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "Mind the Wires",
+      "url": "https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 405324,
+      "name": "S.W.I.M.",
+      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
+    },
+    {
       "added_at": "2022-01-21 14:06:58",
       "album": {
         "name": "Famously Alive",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
+        "name": "Pica",
+        "url": "https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr"
       },
       "artists": [
         {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+          "name": "Bloodslide",
+          "url": "https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz"
         }
       ],
-      "duration_ms": 405324,
-      "name": "S.W.I.M.",
-      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
+      "duration_ms": 311912,
+      "name": "Pica",
+      "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1495,22 +1511,6 @@
       "duration_ms": 326694,
       "name": "End of the Night",
       "url": "https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Pica",
-        "url": "https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr"
-      },
-      "artists": [
-        {
-          "name": "Bloodslide",
-          "url": "https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz"
-        }
-      ],
-      "duration_ms": 311912,
-      "name": "Pica",
-      "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Showers",
-        "url": "https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0"
+        "name": "Lesser Matters",
+        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
       },
       "artists": [
         {
-          "name": "Bored at My Grandmas House",
-          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
         }
       ],
-      "duration_ms": 220403,
-      "name": "Showers",
-      "url": "https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz"
+      "duration_ms": 293160,
+      "name": "Keen on Boys",
+      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Lesser Matters",
-        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
+        "name": "Showers",
+        "url": "https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0"
       },
       "artists": [
         {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+          "name": "Bored at My Grandmas House",
+          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
         }
       ],
-      "duration_ms": 293160,
-      "name": "Keen on Boys",
-      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+      "duration_ms": 220403,
+      "name": "Showers",
+      "url": "https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1671,6 +1671,22 @@
       "duration_ms": 255573,
       "name": "Spring and by Summer Fall",
       "url": "https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy"
+    },
+    {
+      "added_at": "2022-08-25 17:19:45",
+      "album": {
+        "name": "Nomofobia",
+        "url": "https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR"
+      },
+      "artists": [
+        {
+          "name": "Uniforms",
+          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
+        }
+      ],
+      "duration_ms": 209046,
+      "name": "Nomofobia",
+      "url": "https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1719,22 +1735,6 @@
       "duration_ms": 194720,
       "name": "bottlerocket",
       "url": "https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8"
-    },
-    {
-      "added_at": "2022-08-25 17:19:45",
-      "album": {
-        "name": "Nomofobia",
-        "url": "https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR"
-      },
-      "artists": [
-        {
-          "name": "Uniforms",
-          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
-        }
-      ],
-      "duration_ms": 209046,
-      "name": "Nomofobia",
-      "url": "https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA"
     },
     {
       "added_at": "2022-08-03 04:18:25",

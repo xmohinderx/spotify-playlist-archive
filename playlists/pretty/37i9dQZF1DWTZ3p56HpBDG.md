@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,564 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,604 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 27 | [Honey Bee](https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv) | 3:39 |
 | 28 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 |
 | 29 | [You Can Go](https://open.spotify.com/track/6f9wRfuZL9HrFuILn1Hn2S) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Last Flight Out](https://open.spotify.com/album/5nZHw2JJImX1LNcaivVEBR) | 2:22 |
-| 30 | [Fingertips](https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5AuoX8sA4NWGHO20Y47Fr3) | 4:15 |
+| 30 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 |
 | 31 | [Lavender](https://open.spotify.com/track/4b5XMjALLKtcTgruHMctTY) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Lavender](https://open.spotify.com/album/5RvpleoNOyvit0U1G2XDM7) | 3:08 |
 | 32 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 |
 | 33 | [Don't Let Go](https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/62zbZ4GgUDL4rqKdbQEjrA) | 2:38 |
 
-Snapshot ID: `MTY2NTcyNzk4MCwwMDAwMDAwMGFlNjI0ZWUwOGJhYWIyZGU1MTk1NTk3OTYyZGU3ZjRj`
+Snapshot ID: `MTY2NTcyNzk4MCwwMDAwMDAwMDViYWI4NmM0NTY0Y2Q0Y2IzZWNlZDYzMDZlZmJkODQx`

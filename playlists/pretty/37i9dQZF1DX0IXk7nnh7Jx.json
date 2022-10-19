@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42697,
+  "num_followers": 42710,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGY4NTViZjI3ZTRjN2VjOTVhNzI2ZTliYjcxN2RjMGUy",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDg0NmFkMmM2YWQ3NGVlZDM0NTlkNjcxZGEyMGU0MWJh",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -311,26 +311,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "When the Well Runs Dry",
-        "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
-      },
-      "artists": [
-        {
-          "name": "Liv Douglas",
-          "url": "https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73"
-        },
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "When the Well Runs Dry",
-      "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "When the Well Runs Dry",
+        "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
+      },
+      "artists": [
+        {
+          "name": "Liv Douglas",
+          "url": "https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73"
+        },
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "When the Well Runs Dry",
+      "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
     },
     {
       "added_at": "2020-12-18 06:02:14",

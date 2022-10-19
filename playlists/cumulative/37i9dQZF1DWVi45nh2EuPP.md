@@ -4,7 +4,7 @@
 
 > The official playlist for all things League of Legends featuring the Worlds Anthem: "STAR WALKIN'" by Lil Nas X.
 
-188 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/2PgZSYFWMxW0qdwLuhrNOZ)
+189 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/2PgZSYFWMxW0qdwLuhrNOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Warriors](https://open.spotify.com/track/1lgN0A2Vki2FTON5PYq42m) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 2:50 | 2022-05-02 |  |
 | [Warriors](https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Warriors](https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn) | 3:24 | 2022-09-22 |  |
 | [weapon](https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 3:17 | 2022-05-02 | 2022-06-04 |
-| [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 | 2022-09-22 |  |
+| [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 | 2022-09-22 |  |
+| [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 | 2022-09-22 | 2022-10-19 |
 | [Where Angels Fear to Fly](https://open.spotify.com/track/5Tf94JESeYX1FyP7iBdvde) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus of Doom](https://open.spotify.com/album/6PpnrMZJP7HyoXEIzl0CET) | 3:56 | 2022-05-02 | 2022-06-04 |
 | [Wonderland](https://open.spotify.com/track/7mUmIhrlfX8Zt3QJ7ZzWIM) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Wonderland](https://open.spotify.com/album/54FRO0p7V00CyAXSsFegeb) | 3:17 | 2022-05-02 | 2022-06-04 |
 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 | 2022-09-22 |  |

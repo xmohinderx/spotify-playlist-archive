@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-127 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+128 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [9999999](https://open.spotify.com/track/4vdsb4vl6VtGmUwFteOeWA) | [Aperture Science Psychoacoustic Laboratories](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) | [Portal 2: Songs to Test By \(Collectors Edition\)](https://open.spotify.com/album/21MOM5nRM9SjIsonoOGY4Q) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [9999999](https://open.spotify.com/track/7t0AFyyVYgwXuPRjbhQGph) | [Aperture Science Psychoacoustic Laboratories](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) | [Portal 2: Songs to Test By \(Collectors Edition\)](https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr) | 3:12 | 2022-07-27 |  |
 | [A New Dawn \(feat\. Julie Seechuk\)](https://open.spotify.com/track/0gs2sDUTqsDaxY5BLxhpik) | [Ian Livingstone](https://open.spotify.com/artist/71wbvQyh0QbofdrRXCagLU), [Ethan Livingstone](https://open.spotify.com/artist/5SWVyhFS5ykl0LpJQNNL6H), [Julie Seechuk](https://open.spotify.com/artist/1R62hlOb9mHKh9sWyPvBGa) | [F1 22 \(Original Game Soundtrack\)](https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT) | 4:15 | 2022-07-08 |  |
-| [A Plague Tale Requiem](https://open.spotify.com/track/6QTIrIYGPNDpbcV961TJS1) | [Olivier Deriviere](https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR), [Eric Maria Couturier](https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a) | [A Plague Tale: Requiem \(Original Soundtrack\)](https://open.spotify.com/album/7h4CSV1MgXOf5XKntD3Ivj) | 3:59 | 2022-06-17 |  |
+| [A Plague Tale Requiem](https://open.spotify.com/track/6QTIrIYGPNDpbcV961TJS1) | [Olivier Deriviere](https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR), [Eric Maria Couturier](https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a) | [A Plague Tale: Requiem \(Original Soundtrack\)](https://open.spotify.com/album/7h4CSV1MgXOf5XKntD3Ivj) | 3:59 | 2022-06-17 | 2022-10-19 |
+| [A Plague Tale Requiem](https://open.spotify.com/track/7gsabNOGAMEaJyusi5pUt3) | [Olivier Deriviere](https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR), [Eric Maria Couturier](https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a) | [A Plague Tale: Requiem \(Original Soundtrack\)](https://open.spotify.com/album/5Yzbew7AnCrYDAD0fPkT3T) | 4:00 | 2022-09-09 |  |
 | [Adventure Found Me](https://open.spotify.com/track/4JFqLr1cF9jWwVOCdQ69wd) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ) | [Tomb Raider \(Original Soundtrack\)](https://open.spotify.com/album/4wySbyHsEqSWvkMQlmR7lr) | 1:02 | 2021-12-15 | 2022-07-29 |
 | [Adventure Found Me](https://open.spotify.com/track/6DGUzh0i57qQRHIjWL2W4m) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ) | [Tomb Raider \(Original Soundtrack\)](https://open.spotify.com/album/44UET2RaWhgHXIwiZAF0EN) | 1:02 | 2022-07-27 |  |
 | [All Gone \(No Escape\)](https://open.spotify.com/track/6zezOLouSWKEfMizbzcsad) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:54 | 2021-12-15 |  |

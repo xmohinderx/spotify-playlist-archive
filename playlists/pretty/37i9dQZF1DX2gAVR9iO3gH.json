@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Natti Natasha & Wisin.",
-  "num_followers": 39000,
+  "num_followers": 39054,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2Mzk1NCwwMDAwMDAwMGYxNzMyMGY5MTFiZDcxMjk3NjZjOTA5ZWUwYjFlNjBm",
+  "snapshot_id": "MTY2Mzk2Mzk1NCwwMDAwMDAwMGQxOWU2OWM5NzUxMzhjYzMwZGM4OTU2NDc0MTQwMjBj",
   "tracks": [
     {
       "added_at": "2022-09-23 20:12:34",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
+        "name": "Que Cojones",
+        "url": "https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Que Cojones",
+      "url": "https://open.spotify.com/track/22TyikLrwsaXhsL31mewls"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
-        "name": "Que Cojones",
-        "url": "https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Que Cojones",
-      "url": "https://open.spotify.com/track/22TyikLrwsaXhsL31mewls"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
-      },
-      "artists": [
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
-        }
-      ],
-      "duration_ms": 200895,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 186674,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
+      },
+      "artists": [
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 200895,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
     },
     {
       "added_at": "2022-09-23 20:12:34",

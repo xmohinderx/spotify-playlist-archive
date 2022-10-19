@@ -4,7 +4,7 @@
 
 > Hey! We're HEL from  <a href="https://twitter.com/g2esports?s=21&t=1P2wGvaSfky1fK0aJfM\_Gg">G2</a>  and this is what we listen to while collecting trophies.
 
-239 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
+240 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Backseat Of The Rolls Truck](https://open.spotify.com/track/02klhHnYULKbtshTiSePOB) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Backseat Of The Rolls Truck](https://open.spotify.com/album/7v2uZkYs9mxYuAiHg7UZw8) | 2:35 | 2022-06-03 | 2022-07-29 |
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2022-08-31 |  |
 | [Bank Account](https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:40 | 2022-08-31 |  |
-| [Battas](https://open.spotify.com/track/5vg6lgIJMt0y1Ty0GwIRhb) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mazde X LissA](https://open.spotify.com/album/0AlG3dTDaUdYlxR1Cr5RRd) | 5:01 | 2022-08-31 |  |
+| [Battas](https://open.spotify.com/track/5vg6lgIJMt0y1Ty0GwIRhb) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mazde X LissA](https://open.spotify.com/album/0AlG3dTDaUdYlxR1Cr5RRd) | 5:01 | 2022-08-31 | 2022-10-19 |
+| [Battas](https://open.spotify.com/track/6uMVc1y4OcfZPh6PngXag4) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mazde X LissA](https://open.spotify.com/album/52zrkrpDjQDSFMVXoXx8C6) | 5:01 | 2022-08-31 |  |
 | [Be Free \(feat\. Gallie Fisher\)](https://open.spotify.com/track/39LNfQZt8US6WBi87S4ZaT) | [Digital Skies](https://open.spotify.com/artist/6EFE76AqKXcTjs1f4ppNdX), [Gallie Fisher](https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3) | [Be Free \(feat\. Gallie Fisher\)](https://open.spotify.com/album/6B8yPJe83J9BaWLzYvobKw) | 3:28 | 2022-02-18 | 2022-06-04 |
 | [Believe In Me](https://open.spotify.com/track/6ZAbsMxZlLuTVr3lBsHYyf) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Donkong](https://open.spotify.com/artist/2iSzx6yX8XC77IGgRlRZgX) | [Believe In Me](https://open.spotify.com/album/1xzm0cUFtmU7WFsZrVx6vJ) | 3:11 | 2022-02-18 | 2022-06-04 |
 | [Blastoff \(feat\. Juice Wrld & Trippie Redd\)](https://open.spotify.com/track/79vHcg0q40NY8PZ6Oyf0pA) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Blastoff \(feat\. Juice Wrld & Trippie Redd\)](https://open.spotify.com/album/0YPVtDqEwrdXCD8TQgkEUd) | 2:54 | 2021-11-03 | 2022-02-19 |

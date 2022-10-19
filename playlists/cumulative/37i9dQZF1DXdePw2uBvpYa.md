@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-67 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
+69 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Feel Me?](https://open.spotify.com/track/1tK0yRqjlCvEJ46vouBg87) | [Beefywink](https://open.spotify.com/artist/1wpwwyRDliuWyKf7IEohjC) | [Dance in the Deluge](https://open.spotify.com/album/0nOkXiotfFqGlESwEofd2w) | 3:29 | 2021-06-02 |  |
 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 | 2021-06-02 |  |
 | [Ghost Box](https://open.spotify.com/track/1jFBqKJWI9qT1EqGUwJ6ay) | [Oh, The Guilt](https://open.spotify.com/artist/1tOdjzrPSoE5mnzyPbreon) | [Ghost Box](https://open.spotify.com/album/7waMJqJpxh6Qri4HtNJvvL) | 4:12 | 2021-06-02 |  |
-| [Goth Girl](https://open.spotify.com/track/0wY6lSoaPdeM2c9a9fMHrk) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD) | 2:34 | 2021-06-02 |  |
+| [Goth Girl](https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH) | 2:34 | 2021-06-02 |  |
+| [Goth Girl](https://open.spotify.com/track/0wY6lSoaPdeM2c9a9fMHrk) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD) | 2:34 | 2021-06-02 | 2022-10-19 |
 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2021-06-02 | 2022-07-29 |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2021-06-02 |  |
 | [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/64KpCQaeG2yGMkT3OFjfdY) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Red Dress](https://open.spotify.com/album/3fu794gu0wGWPeU1Ls3Niq) | 2:47 | 2021-06-02 |  |
@@ -74,6 +75,7 @@
 | [Work](https://open.spotify.com/track/7bNmkqAW6TbyVaWhOB01ws) | [Emily Breeze](https://open.spotify.com/artist/581WwGSO6sWHN0RLc9EBqr) | [Rituals](https://open.spotify.com/album/160kR6odSYYxQJdrg8D7xD) | 5:36 | 2021-06-02 |  |
 | [You Don't Own Me](https://open.spotify.com/track/4WQQca1mSDCLsBKdxV3sjh) | [Jack Killed Jill...](https://open.spotify.com/artist/0xJn4cHxwGEdg0bVjeb0Gj) | [Hello Neighbor](https://open.spotify.com/album/0Ycvf8skLYb73LQdZph9jb) | 2:32 | 2021-06-02 |  |
 | [You Don't Own Me](https://open.spotify.com/track/5JoHoQsQjkTqEw8tk1qxuc) | [Jack Killed Jill...](https://open.spotify.com/artist/0xJn4cHxwGEdg0bVjeb0Gj) | [Hello Neighbor](https://open.spotify.com/album/5R8yUKjYU0lymaThF7DUAg) | 2:32 | 2021-06-02 | 2022-07-29 |
-| [You're Tame](https://open.spotify.com/track/23mfThCasI4ReUUX4CMVpe) | [The Empty Page](https://open.spotify.com/artist/1qWwVAQahrqNPgG8pEkcwM) | [You're Tame](https://open.spotify.com/album/3eAIgHRIvs5xPjevNSlCq6) | 3:21 | 2021-06-02 |  |
+| [You're Tame](https://open.spotify.com/track/0O7Risj0eRgPnAeodE0NWn) | [The Empty Page](https://open.spotify.com/artist/1qWwVAQahrqNPgG8pEkcwM) | [You're Tame](https://open.spotify.com/album/6RE1Rllry4El28JiHNjj7o) | 3:21 | 2021-06-02 |  |
+| [You're Tame](https://open.spotify.com/track/23mfThCasI4ReUUX4CMVpe) | [The Empty Page](https://open.spotify.com/artist/1qWwVAQahrqNPgG8pEkcwM) | [You're Tame](https://open.spotify.com/album/3eAIgHRIvs5xPjevNSlCq6) | 3:21 | 2021-06-02 | 2022-10-19 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

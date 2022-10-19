@@ -1772,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "\u304a\u524d\u304c\u77e5\u3063\u3066\u308b (\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4A)",
+        "url": "https://open.spotify.com/album/3LFG8fBwxWAPwHiie2iZmh"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f\u6c34\u6563\u82b1\u96ea",
+          "url": "https://open.spotify.com/artist/4D6QBJCOCzdYjg0cQP72q0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "\u304a\u524d\u304c\u77e5\u3063\u3066\u308b",
+      "url": "https://open.spotify.com/track/11VzxgwfMSAegCjrR5xFt5"
+    },
+    {
+      "album": {
         "name": "\u5200\u5263\u4e71\u821e(\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4E)",
         "url": "https://open.spotify.com/album/1ZhgZNjMNR7q0Z3UvDqOW2"
       },

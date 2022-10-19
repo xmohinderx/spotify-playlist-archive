@@ -973,6 +973,24 @@
     {
       "album": {
         "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh"
+      },
+      "artists": [
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6D0GK3nbND87zH81x0Unqr"
       },
       "artists": [
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 177750,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/7eAwdGGl9sihvZtvomgz9l"
@@ -1359,10 +1377,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 220657,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/25kTc4hobHWuF7dZM2Yobf"
+    },
+    {
+      "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/0QyjzJf0UMjXFuk9tnq2TS"
+      },
+      "artists": [
+        {
+          "name": "Anna Pancaldi",
+          "url": "https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220657,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rWoMBT1apWvmR9oB7rDps"
     },
     {
       "album": {

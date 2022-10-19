@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Silvana Estrada",
-  "num_followers": 846987,
+  "num_followers": 846962,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxNTI3NSwwMDAwMDAwMDQ0NWVhMWQ3NTc2NjY0MGFmZjRhYWNkYWM1NTAzOTVl",
+  "snapshot_id": "MTY2NjAxNTI3NSwwMDAwMDAwMGNjMDFjYTM1YjczNzE4ZWJhODAzMjhjMjg4OGQ1MmVi",
   "tracks": [
     {
       "added_at": "2022-10-11 12:56:15",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB"
     },
     {
-      "added_at": "2022-10-18 01:24:21",
+      "added_at": "2022-10-19 01:25:37",
       "album": {
         "name": "Baraye",
         "url": "https://open.spotify.com/album/0o0ScZ26kHmTubAB6nHezL"
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "ONLY ONE",
-        "url": "https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
         "name": "Rari",
         "url": "https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 168190,
       "name": "Rari",
       "url": "https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
+      },
+      "artists": [
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "duration_ms": 284970,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
         "name": "AMAN",
         "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
       },
@@ -603,38 +619,6 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
-      },
-      "artists": [
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 284970,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
-        "name": "passo a passo",
-        "url": "https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
-        }
-      ],
-      "duration_ms": 219166,
-      "name": "passo a passo",
-      "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
         "name": "c\u0103n g\u00e1c m\u00f9a h\u00e8 (sweet summer)",
         "url": "https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "IL FUMO UCCIDE",
-        "url": "https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU"
+        "name": "passo a passo",
+        "url": "https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj"
       },
       "artists": [
         {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
         }
       ],
-      "duration_ms": 185100,
-      "name": "IL FUMO UCCIDE",
-      "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
+      "duration_ms": 219166,
+      "name": "passo a passo",
+      "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -687,18 +671,18 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "In My Mind EP",
-        "url": "https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp"
+        "name": "IL FUMO UCCIDE",
+        "url": "https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
         }
       ],
-      "duration_ms": 388551,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/5UAtcDuXrfjU2jUtnEtYMZ"
+      "duration_ms": 185100,
+      "name": "IL FUMO UCCIDE",
+      "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -715,6 +699,22 @@
       "duration_ms": 194773,
       "name": "Mood Hoover",
       "url": "https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
+        "name": "In My Mind EP",
+        "url": "https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 388551,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/5UAtcDuXrfjU2jUtnEtYMZ"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "De X Vida",
-        "url": "https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc"
-      },
-      "artists": [
-        {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
-        }
-      ],
-      "duration_ms": 184134,
-      "name": "De X Vida",
-      "url": "https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 181914,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
+        "name": "De X Vida",
+        "url": "https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "duration_ms": 184134,
+      "name": "De X Vida",
+      "url": "https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM"
     },
     {
       "added_at": "2022-10-11 12:56:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Il Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,548 likes - 56 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,581 likes - 56 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 27 | [La Pupa](https://open.spotify.com/track/6BvtGYmwbSqoOH9tMKZVMS) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [La Pupa](https://open.spotify.com/album/1aIr6Km3m6DekxNaLdHqbA) | 2:08 |
 | 28 | [La Famiglia \(feat\. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, Néza & Nabi\)](https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 5:09 |
 | 29 | [GESCAL](https://open.spotify.com/track/3i9FbuHPNwzERPtut6ZdgW) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GESCAL](https://open.spotify.com/album/722mXX4yzovAHZo9K6gag9) | 2:16 |
-| 30 | [Sono tristi anche le star](https://open.spotify.com/track/197sltAUVMru0iJmJwPcho) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj) | 2:50 |
+| 30 | [Sono tristi anche le star](https://open.spotify.com/track/5AhoYuhVuAl3fqpIhe46qE) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/41Tkn4XnbcB7bwFf5lSBR3) | 2:50 |
 | 31 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 |
 | 32 | [Mexico](https://open.spotify.com/track/1aOZK97dwvvi3oaSBdGAXh) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Mexico](https://open.spotify.com/album/7pVf3kW6pBORKlEjnAzTek) | 2:16 |
 | 33 | [Dal Dolore](https://open.spotify.com/track/1ZjXB8zCroH0K2D3HS3KYr) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw) | [Dal Dolore](https://open.spotify.com/album/1LQz5dOHJWA00wtDeuL2hp) | 2:48 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 55 | [BANDOLERO \(feat\. Kerim Levrai, Madprince, Marsiglia, Orfedi\)](https://open.spotify.com/track/5qlWyJHbr7X31fhnfwaley) | [GROUP5](https://open.spotify.com/artist/2hx4C3GnYXZh96qs9jgZFu), [Asset](https://open.spotify.com/artist/4u2havXAV9R9KFjQ81LTLU), [Kerim Levrai](https://open.spotify.com/artist/2snabMyKqMDWa5rbHSP1ta), [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [Marsiglia](https://open.spotify.com/artist/360DKtml0W70xlAGX7bEwD), [Orfedi](https://open.spotify.com/artist/6tWqhYyCcRdweFdayEdUue) | [BANDOLERO \(feat\. Kerim Levrai, Madprince, Marsiglia, Orfedi\)](https://open.spotify.com/album/2xU8gbWf3TmX1cWQ1jwmen) | 2:17 |
 | 56 | [ESTATE ZANZA](https://open.spotify.com/track/2Zcm4bfzIeOyR2FPp2DMmt) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ) | [ESTATE ZANZA](https://open.spotify.com/album/5fvmpFRfoI3V4hJJw7WZTi) | 2:53 |
 
-Snapshot ID: `MTY2NjAxNDYzMCwwMDAwMDAwMDNiMmE4OTJkNTg3ODliZDQ5OGMwNmYzODEzODBkMjEw`
+Snapshot ID: `MTY2NjAxNDYzMCwwMDAwMDAwMDA1OTgzYTM3MDc4MDdmNDljYTYyMzBhODRkNjMxYzcw`

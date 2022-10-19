@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 167669,
+  "num_followers": 167734,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGM3YTRmYjM4MTQ5MmFlNWExM2U4ZmVhOTUxYWY2ZWM0",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDgwNWQxNzFkNDFkZDU5NjQ3NGY3MTI5MWRhOTBmYzQw",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -187,6 +187,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Forever True (1991-2001)",
+        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Voice of Rebellion",
-        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
-      },
-      "artists": [
-        {
-          "name": "Pro-Pain",
-          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
-        }
-      ],
-      "duration_ms": 241343,
-      "name": "Voice of Rebellion",
-      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Start Today",
         "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Forever True (1991-2001)",
-        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
+        "name": "Voice of Rebellion",
+        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
       },
       "artists": [
         {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+          "name": "Pro-Pain",
+          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Firestorm",
-      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
+      "duration_ms": 241343,
+      "name": "Voice of Rebellion",
+      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Cognicide",
-        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
-      },
-      "artists": [
-        {
-          "name": "Western Addiction",
-          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
-        }
-      ],
-      "duration_ms": 97266,
-      "name": "Mailer, Meet Jim",
-      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "This Is Just the Beginning",
         "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
+      },
+      "artists": [
+        {
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+        }
+      ],
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Give Blood",
-        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
-      },
-      "artists": [
-        {
-          "name": "Bane",
-          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Some Came Running",
-      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Before The Quarrel",
         "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 135471,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Give Blood",
+        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
+      },
+      "artists": [
+        {
+          "name": "Bane",
+          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "Some Came Running",
+      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -667,66 +651,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Neutralize the Threat",
-        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
       },
       "artists": [
         {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Total War",
-      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Unorthodox",
-        "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
-      },
-      "artists": [
-        {
-          "name": "Indecision",
-          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
-        }
-      ],
-      "duration_ms": 108279,
-      "name": "Blindfold",
-      "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "The Wounds That Never Heal",
-        "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
-      },
-      "artists": [
-        {
-          "name": "Stigmata",
-          "url": "https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz"
-        }
-      ],
-      "duration_ms": 263013,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -747,6 +683,38 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Neutralize the Threat",
+        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Total War",
+      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "The Wounds That Never Heal",
+        "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
+      },
+      "artists": [
+        {
+          "name": "Stigmata",
+          "url": "https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz"
+        }
+      ],
+      "duration_ms": 263013,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 100800,
       "name": "Take a Stand",
       "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Unorthodox",
+        "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
+      },
+      "artists": [
+        {
+          "name": "Indecision",
+          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
+        }
+      ],
+      "duration_ms": 108279,
+      "name": "Blindfold",
+      "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
     },
     {
       "added_at": "2020-12-08 15:12:11",

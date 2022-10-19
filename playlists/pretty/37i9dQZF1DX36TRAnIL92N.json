@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 45301,
+  "num_followers": 45766,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMGM4NmQ0NTc1Zjg4NDdhMjNiOWJhZWYxMmVkN2M0Y2Nk",
+  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMGE2MmFjMjg2NTQ2MmE0OTVkNTUxM2UwOGNjMjdjNDBj",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
+      "added_at": "2022-10-19 01:44:13",
+      "album": {
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+    },
+    {
       "added_at": "2022-09-09 16:00:00",
       "album": {
         "name": "String Theory",
@@ -403,22 +419,6 @@
       "duration_ms": 261230,
       "name": "String Theory",
       "url": "https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN"
-    },
-    {
-      "added_at": "2022-10-18 01:40:54",
-      "album": {
-        "name": "Lonely Traveller",
-        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
-      },
-      "artists": [
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 366038,
-      "name": "Lonely Traveller",
-      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Sentinel",
-        "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Julien Riess",
-          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
-        }
-      ],
-      "duration_ms": 388500,
-      "name": "Sentinel - Original Mix",
-      "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Hypnos",
         "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
+        "name": "Sentinel",
+        "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
       },
       "artists": [
         {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
+      "duration_ms": 388500,
+      "name": "Sentinel - Original Mix",
+      "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 412498,
       "name": "Aura",
       "url": "https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
       },
       "artists": [
         {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+          "name": "Warp Brothers",
+          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
         }
       ],
-      "duration_ms": 392008,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
+      "duration_ms": 357227,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
       },
       "artists": [
         {
-          "name": "Warp Brothers",
-          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
         }
       ],
-      "duration_ms": 357227,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
+      "duration_ms": 392008,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
     },
     {
       "added_at": "2022-09-09 16:00:00",

@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-317 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+318 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Apocalypse](https://open.spotify.com/track/0fot2fNSEn8R8HOwIPUMIR) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Apocalypse](https://open.spotify.com/album/4QMZonIRFFJmhi2Ya0r3E5) | 3:25 | 2022-03-18 | 2022-04-17 |
 | [Artichoke](https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Eitan Bernstein](https://open.spotify.com/artist/57c1G1JfgEHIWPSu8wED14) | [Artichoke](https://open.spotify.com/album/1DdT8ZkXpypodT0jxvIzSg) | 3:34 | 2022-03-18 | 2022-07-29 |
 | [Ashamed](https://open.spotify.com/track/1bZmbsNqOkfvGGAikytuW2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:24 | 2021-09-21 | 2022-10-13 |
+| [Ashamed](https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 3:24 | 2021-09-21 |  |
 | [Attention](https://open.spotify.com/track/6uChhWADrxd7q0hsEiqETC) | [Senpu](https://open.spotify.com/artist/2utKMTsyw0yoHczz98ORLU), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [Attention](https://open.spotify.com/album/7Jb7g6FxH2xlwsDsuxJkBb) | 3:21 | 2021-04-30 | 2022-04-17 |
 | [Attitude](https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Attitude](https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC) | 2:55 | 2022-01-21 | 2022-09-03 |
 | [Audrey Tell Me](https://open.spotify.com/track/2rzLMSlgENndN9bZ3QKnJv) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/69G3oxGRFtROcqCTygtKy4) | 4:14 | 2020-11-13 | 2022-03-26 |
@@ -221,7 +222,7 @@
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 | 2022-07-28 |
 | [Preach](https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Preach](https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW) | 3:28 | 2022-04-29 |  |
 | [Princess Pouty](https://open.spotify.com/track/6lwFOodKFZd0ro8bcIxlWg) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [Princess Pouty](https://open.spotify.com/album/30OuMUBR1zRI4cdHDhNo1z) | 3:42 | 2021-04-30 | 2022-04-21 |
-| [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 | 2022-04-08 |  |
+| [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 | 2022-04-08 | 2022-10-19 |
 | [Raincheck](https://open.spotify.com/track/4uLayl2QxBKcnNE9A34rev) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Loops of Life](https://open.spotify.com/album/2HXeiE0ito0084fqhsWNqG) | 3:06 | 2020-11-13 | 2022-03-26 |
 | [Remind Me](https://open.spotify.com/track/2KxPwaQYggkfkx4bOpjXLU) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Scenery](https://open.spotify.com/album/6oKN6JGDdO1ujKKlaNJdVG) | 4:03 | 2020-11-13 | 2022-03-15 |
 | [Rhythm in Your Mind](https://open.spotify.com/track/4wBTN0gGIPG5k3N3LfMhu2) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Rhythm in Your Mind](https://open.spotify.com/album/5ucT5KRFJGXRuW8vVu7Zmk) | 3:45 | 2021-05-14 | 2022-04-21 |

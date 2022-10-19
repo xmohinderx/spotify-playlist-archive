@@ -423,7 +423,7 @@
     {
       "album": {
         "name": "Goth Girl",
-        "url": "https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD"
+        "url": "https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH"
       },
       "artists": [
         {
@@ -434,6 +434,24 @@
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154124,
+      "name": "Goth Girl",
+      "url": "https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv"
+    },
+    {
+      "album": {
+        "name": "Goth Girl",
+        "url": "https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD"
+      },
+      "artists": [
+        {
+          "name": "VENUS GRRRLS",
+          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 154125,
       "name": "Goth Girl",
       "url": "https://open.spotify.com/track/0wY6lSoaPdeM2c9a9fMHrk"
@@ -1205,7 +1223,7 @@
     {
       "album": {
         "name": "You're Tame",
-        "url": "https://open.spotify.com/album/3eAIgHRIvs5xPjevNSlCq6"
+        "url": "https://open.spotify.com/album/6RE1Rllry4El28JiHNjj7o"
       },
       "artists": [
         {
@@ -1216,6 +1234,24 @@
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201186,
+      "name": "You're Tame",
+      "url": "https://open.spotify.com/track/0O7Risj0eRgPnAeodE0NWn"
+    },
+    {
+      "album": {
+        "name": "You're Tame",
+        "url": "https://open.spotify.com/album/3eAIgHRIvs5xPjevNSlCq6"
+      },
+      "artists": [
+        {
+          "name": "The Empty Page",
+          "url": "https://open.spotify.com/artist/1qWwVAQahrqNPgG8pEkcwM"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 201186,
       "name": "You're Tame",
       "url": "https://open.spotify.com/track/23mfThCasI4ReUUX4CMVpe"

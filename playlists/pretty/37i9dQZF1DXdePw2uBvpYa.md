@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,040 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,044 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 33 | [Entertainment 4 Sale](https://open.spotify.com/track/2KRd7MYrm6tU6B28YVr5uv) | [MARTYRIALS](https://open.spotify.com/artist/14SQF38mdDQ80AaAKMQqFz) | [Electric Delegates](https://open.spotify.com/album/2zZ0lqvJPTE0K5gSJAhomN) | 4:59 |
 | 34 | [We Are Girls](https://open.spotify.com/track/4OVxXWDWbk0gZGOV4lzD0O) | [IDestroy](https://open.spotify.com/artist/5m2DSPGIv5M0WZmeeVskFF) | [We Are Girls](https://open.spotify.com/album/1K9yAJIOcVuLdmq7wcBjvE) | 2:53 |
 | 35 | [Ghost Box](https://open.spotify.com/track/1jFBqKJWI9qT1EqGUwJ6ay) | [Oh, The Guilt](https://open.spotify.com/artist/1tOdjzrPSoE5mnzyPbreon) | [Ghost Box](https://open.spotify.com/album/7waMJqJpxh6Qri4HtNJvvL) | 4:12 |
-| 36 | [You're Tame](https://open.spotify.com/track/23mfThCasI4ReUUX4CMVpe) | [The Empty Page](https://open.spotify.com/artist/1qWwVAQahrqNPgG8pEkcwM) | [You're Tame](https://open.spotify.com/album/3eAIgHRIvs5xPjevNSlCq6) | 3:21 |
+| 36 | [You're Tame](https://open.spotify.com/track/0O7Risj0eRgPnAeodE0NWn) | [The Empty Page](https://open.spotify.com/artist/1qWwVAQahrqNPgG8pEkcwM) | [You're Tame](https://open.spotify.com/album/6RE1Rllry4El28JiHNjj7o) | 3:21 |
 | 37 | [Tut Tut Tut](https://open.spotify.com/track/2lk8vM2rXb8eDGinOyW15p) | [The Tuts](https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq) | [Update Your Brain](https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD) | 2:32 |
 | 38 | [Restless](https://open.spotify.com/track/42nZ7x8gIGOk8sPyDLTcdP) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 2:56 |
 | 39 | [Camelot](https://open.spotify.com/track/20c0ddoDmkoYwglFFKDJgh) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 3:28 |
 | 40 | [Bad Bitch](https://open.spotify.com/track/0GvgMLQN98WOVkkN6iuSQF) | [Peach Club](https://open.spotify.com/artist/0iqaZVmBEEmjk5FcoEOPVv) | [Cherry Baby EP](https://open.spotify.com/album/38IosoVjY7oVRh7AYtlPpA) | 4:00 |
 | 41 | [Who Are You?](https://open.spotify.com/track/5w5XQZVRCgSAQqhy4TK4FH) | [CATBEAR](https://open.spotify.com/artist/2VcMAUD65hHSitLhcbyjIS) | [Who Are You?](https://open.spotify.com/album/5dGJuwklJhKw8tua4pah3O) | 3:07 |
 | 42 | [Work](https://open.spotify.com/track/7bNmkqAW6TbyVaWhOB01ws) | [Emily Breeze](https://open.spotify.com/artist/581WwGSO6sWHN0RLc9EBqr) | [Rituals](https://open.spotify.com/album/160kR6odSYYxQJdrg8D7xD) | 5:36 |
-| 43 | [Goth Girl](https://open.spotify.com/track/0wY6lSoaPdeM2c9a9fMHrk) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD) | 2:34 |
+| 43 | [Goth Girl](https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH) | 2:34 |
 | 44 | [I'm Glad That We Broke Up](https://open.spotify.com/track/65L4dy4ggpB1z9jmr1zJQr) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw), [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Homecoming](https://open.spotify.com/album/2go7Gd1Hg25m1qDqmgtOf8) | 2:04 |
 | 45 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
 | 46 | [Feel Me?](https://open.spotify.com/track/1tK0yRqjlCvEJ46vouBg87) | [Beefywink](https://open.spotify.com/artist/1wpwwyRDliuWyKf7IEohjC) | [Dance in the Deluge](https://open.spotify.com/album/0nOkXiotfFqGlESwEofd2w) | 3:29 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 51 | [The Best](https://open.spotify.com/track/6fekGHLJPWZQZQhPJgcJfl) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 3:50 |
 | 52 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 
-Snapshot ID: `MTYyMjYzNjkwMSwwMDAwMDAwMDY0MmI2ZmE1NjAxMzc2ZDAwNDdlMzlhODBhODJiZTZm`
+Snapshot ID: `MTYyMjYzNjkwMSwwMDAwMDAwMGMxYjAwZmZkNzJjYzZmMmIxMmI3NzBhNjRhZGQyYjY0`

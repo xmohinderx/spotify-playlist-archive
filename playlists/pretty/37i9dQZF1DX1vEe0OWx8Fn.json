@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 56332,
+  "num_followers": 56422,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMDc4Y2QyM2Q3ZGJiMmQ5ZDE3MDg2MGQ5OTEzMDE4YjI5",
+  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMGRiZGM3NjZlYzA3ODY4ZTE2Zjc5ZDAzNDc1YTYzZmU4",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "abcdefu (feat. Royal & the Serpent)",
         "url": "https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 169323,
       "name": "abcdefu (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2022-08-16 22:06:35",

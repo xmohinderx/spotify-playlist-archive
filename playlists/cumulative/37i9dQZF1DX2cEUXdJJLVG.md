@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-191 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
+192 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Pleasure & Pain](https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0) | [K\. Roosevelt](https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu) | [Solstice](https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL) | 2:58 | 2022-09-09 |  |
 | [POOLSIDE](https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SPRING: POOLSIDE x LAGOON](https://open.spotify.com/album/5bJYoNzkHpbXYWl694WGmI) | 2:41 | 2022-09-09 |  |
 | [PROVIDER](https://open.spotify.com/track/4airbHwBaIJOg3BLA5pz30) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [PROVIDER](https://open.spotify.com/album/5PRKaphKkSTgUTX3tMbkAt) | 3:06 | 2022-09-09 |  |
-| [Quebrada](https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Quebrada](https://open.spotify.com/album/74bKDqkidiTcglyRZcdusL) | 4:19 | 2022-09-09 |  |
+| [Quebrada](https://open.spotify.com/track/4Ika1bBabb94jkejNQ0NxI) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Nine Tenths of the Law](https://open.spotify.com/album/2ehRDCZKKkHRsZ76faCl3N) | 4:19 | 2022-10-14 |  |
+| [Quebrada](https://open.spotify.com/track/7BTQ4RediD8FmXcNGge72H) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Quebrada](https://open.spotify.com/album/74bKDqkidiTcglyRZcdusL) | 4:19 | 2022-09-09 | 2022-10-19 |
 | [Quick \- KMB Remix](https://open.spotify.com/track/6vJbcwhdOcmg5QmE03MV8m) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq), [KMB](https://open.spotify.com/artist/0ihliQqviJjnWKiG0XSRqN) | [Quick \(KMB Remix\)](https://open.spotify.com/album/2HtN4tqKu45q1cey2qEZVs) | 3:05 | 2022-09-09 | 2022-09-16 |
 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 | 2022-10-14 |  |
 | [Right Here](https://open.spotify.com/track/5nmyyyNkAE472yWNFICqaC) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [Passionate Persistence](https://open.spotify.com/album/4xcLKcCidXCPqIaOnvJWcu) | 3:09 | 2022-09-09 |  |

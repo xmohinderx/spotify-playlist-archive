@@ -1436,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "The Playlist EP",
+        "url": "https://open.spotify.com/album/1SLD6PKCGxlUfbPRKJbTkX"
+      },
+      "artists": [
+        {
+          "name": "Janice",
+          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229706,
+      "name": "My Kind Of Woman",
+      "url": "https://open.spotify.com/track/3zWsbgCgYZyPowDUrb922t"
+    },
+    {
+      "album": {
         "name": "Poster Girl",
         "url": "https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8"
       },

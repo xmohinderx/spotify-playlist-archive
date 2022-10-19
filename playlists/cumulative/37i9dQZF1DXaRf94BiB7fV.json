@@ -7451,6 +7451,24 @@
     {
       "album": {
         "name": "Options",
+        "url": "https://open.spotify.com/album/5PQdMjzV7cY9l7jwl6ctya"
+      },
+      "artists": [
+        {
+          "name": "Krameri",
+          "url": "https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/04CutF5UQAa5kX2rrAtnKn"
+    },
+    {
+      "album": {
+        "name": "Options",
         "url": "https://open.spotify.com/album/6pUc3QsAiEOy3PmzfX4BAp"
       },
       "artists": [
@@ -7461,7 +7479,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 193846,
       "name": "Options",
       "url": "https://open.spotify.com/track/192OQEOCXdZXxFQATFARWd"

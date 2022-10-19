@@ -4,7 +4,7 @@
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-109 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
+110 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [夜の虹を越えて](https://open.spotify.com/track/4Gyu7D4V0Al26XfJ0fLOLx) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 4:41 | 2022-04-01 |  |
 | [夜の虹を越えて](https://open.spotify.com/track/5v7DCJnzLzlEJHa6bfp68o) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/6heFX0ix9ceeoOYOszU7ha) | 4:41 | 2022-04-01 | 2022-07-29 |
 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 | 2022-04-01 |  |
+| [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 | 2022-10-18 |  |
 | [戸松遥 コメント](https://open.spotify.com/track/2j3zuOLNWbx9TNDIClHEmL) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 ボイスコメント](https://open.spotify.com/album/2aqsYmjvXDKKqe0JnAEMao) | 0:15 | 2022-04-01 |  |
 | [流星](https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 | 2022-04-01 |  |
 | [流星](https://open.spotify.com/track/5C5mWaMRhYWMbGsLgX0Iyb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/5oa2b9jrfLzPENzgBP7NJ5) | 4:13 | 2022-04-01 | 2022-07-29 |

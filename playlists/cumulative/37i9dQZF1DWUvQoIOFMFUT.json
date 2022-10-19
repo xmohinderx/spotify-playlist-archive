@@ -279,7 +279,7 @@
     {
       "album": {
         "name": "A World Without Snooze, Vol. 2",
-        "url": "https://open.spotify.com/album/2sbhc8e9kxPt4Lk7tmemeH"
+        "url": "https://open.spotify.com/album/3Xr78pqMlMMeLMn3kQDYr2"
       },
       "artists": [
         {
@@ -294,6 +294,28 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 128973,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/6C3RGG9kc1ojBoMsatHdfH"
+    },
+    {
+      "album": {
+        "name": "A World Without Snooze, Vol. 2",
+        "url": "https://open.spotify.com/album/2sbhc8e9kxPt4Lk7tmemeH"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "Kxrn",
+          "url": "https://open.spotify.com/artist/7x5msB6JYdzIFNvmkMPXFs"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 128973,
       "name": "Casio",
       "url": "https://open.spotify.com/track/7jxWcSWwgWEP9SNJ8ahuSc"

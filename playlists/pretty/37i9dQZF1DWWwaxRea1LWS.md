@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Name a more iconic duo, \#SpotifyTBT will wait\. Cover: Macklemore & Ryan Lewis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,112,775 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,112,771 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

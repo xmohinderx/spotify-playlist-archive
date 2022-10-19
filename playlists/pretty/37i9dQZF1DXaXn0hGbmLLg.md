@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Women at full volume! Luister naar muziek van vrouwen uit Nederland\. Cover: Candy Dulfer
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,820 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,819 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 38 | [Als Jij Straks Hier Bent](https://open.spotify.com/track/0Al8eyEiF13fi8yUzDITTV) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Als Jij Straks Hier Bent](https://open.spotify.com/album/5x4BcEokwNcPtj9TxgCtbC) | 2:52 |
 | 39 | [Misty Days](https://open.spotify.com/track/2X6RqPn5BhxGWpxRvbdTK5) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Misty Days](https://open.spotify.com/album/1UxPDdlyA7v7V29jPF8EIj) | 3:30 |
 | 40 | [Packing Light](https://open.spotify.com/track/259f8QYEUG7Fy48E9lOAxL) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Packing Light](https://open.spotify.com/album/42zhscHgnThnABqslOTkFS) | 3:18 |
-| 41 | [The Parthenon](https://open.spotify.com/track/71QAB1MAIamJJQ8sbhuWQs) | [Démira](https://open.spotify.com/artist/4B1ssiFP51RpaddeGx25Z2) | [The Parthenon](https://open.spotify.com/album/1gqV97RIfZxSZEv0RzzHrC) | 2:46 |
+| 41 | [The Parthenon](https://open.spotify.com/track/72JFDTNlr71cXHJGhw4HeE) | [Démira](https://open.spotify.com/artist/4B1ssiFP51RpaddeGx25Z2) | [The Parthenon](https://open.spotify.com/album/1BVfEtWVfHBWBpu7vAGgDr) | 2:46 |
 | 42 | [IDEA$](https://open.spotify.com/track/5UWc0ICgwANJ1AEfysiWIV) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [IDEA$](https://open.spotify.com/album/10xnv6nX45SeQBrFfu7oKW) | 3:25 |
 | 43 | [Birds Aren't Real](https://open.spotify.com/track/6B5SsvTMIGVSVGmLuVQOJW) | [Eerie Wanda](https://open.spotify.com/artist/0CkWsjqKOX2aFrcmFvcQr9) | [Internal Radio](https://open.spotify.com/album/6h8UgxxsgWyEG3tGUGEkHD) | 3:06 |
 | 44 | [Metro van de laatste rit](https://open.spotify.com/track/1wB2fVocctswVV1xiAugvy) | [Noor](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Metro van de laatste rit](https://open.spotify.com/album/6IxJOCq9BhNdCIGnBsLKlz) | 3:57 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 73 | [State of War](https://open.spotify.com/track/04JDJdD6ilH6qhJf03vFVY) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [State of War](https://open.spotify.com/album/1Pk4BeOGEMa9V6vodA5gmn) | 3:38 |
 | 74 | [Free](https://open.spotify.com/track/0hUMwSx81Gyh5U2D8cgVoy) | [Nadie Reyhani](https://open.spotify.com/artist/1zlxpftP7EKWTDOdP56xbj) | [Free](https://open.spotify.com/album/43XI7Nh9a18f3rNG0QaFnj) | 4:00 |
 
-Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMGQxMjYxZDRhOWE5MDJhYWQ0NjhmNmM3YmQ3N2ZjOGYz`
+Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMGMwYjBkNDQwYTEwNjAyMmM4ODI4MzAwNDEzMGY4MjFm`

@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-70 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
+72 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Blue is the Eye](https://open.spotify.com/track/1SWTeoXgybbpFgga4YmQWq) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Blue is the Eye](https://open.spotify.com/album/3nZLEOJJLGtCuXkQYGPxX8) | 6:02 | 2022-03-07 |  |
 | [Carrickfergus](https://open.spotify.com/track/7qZ8IkWfZJ7tWUP8CC2VLc) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Irish Heartbeat](https://open.spotify.com/album/0qTjwpf7Oqh8MGtK3aflgO) | 4:25 | 2021-10-12 |  |
 | [City of Chicago](https://open.spotify.com/track/4j0MVUXk20bPg1Gx17CwYm) | [Luka Bloom](https://open.spotify.com/artist/39E69agNUFWOZEzO24bjpo) | [Innocence](https://open.spotify.com/album/7pVv6YctpB7JwwRNlfLQCb) | 3:28 | 2021-10-12 |  |
-| [Come My Little Son](https://open.spotify.com/track/005ZFkcOg4PpztdwllWzF3) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s) | 4:07 | 2021-10-12 |  |
+| [Come My Little Son](https://open.spotify.com/track/005ZFkcOg4PpztdwllWzF3) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s) | 4:07 | 2021-10-12 | 2022-10-19 |
+| [Come My Little Son](https://open.spotify.com/track/4ENxksrHox2FMpaVzvvk1F) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:07 | 2022-03-11 |  |
 | [Cyprus Avenue \- 1999 Remaster](https://open.spotify.com/track/7msn6OoGXrNOaBGvIH1eqT) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 6:59 | 2021-10-12 |  |
 | [Danny Boy](https://open.spotify.com/track/5o4SqGekEfvdkNuOVx5d3S) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:18 | 2021-10-12 |  |
 | [Down by the Sally Gardens](https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW) | [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE) | [Transatlantic Sessions \- Series 2, Vol\. Three](https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq) | 3:45 | 2021-10-12 |  |
@@ -27,7 +28,8 @@
 | [He Moved Through the Fair](https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 4:22 | 2022-03-11 |  |
 | [He Moved Through the Fair](https://open.spotify.com/track/0W7j85pNUDFELwo0X1LYuT) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/6atSPS93SeVrBd9zHHpvR2) | 4:22 | 2021-10-12 | 2022-07-29 |
 | [Hungover at Mass](https://open.spotify.com/track/31Yu3GZPzEP0W5VQbgYpAn) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Fuck Off I Love You](https://open.spotify.com/album/3pgfgpBBeC180QtwWT1uIB) | 2:49 | 2022-03-07 |  |
-| [Liscannor Bay](https://open.spotify.com/track/32hl16DWU7E2QRVEDbOmTx) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/0gurWRwbN6vQoZe7kJJAwf) | 5:02 | 2021-10-12 |  |
+| [Liscannor Bay](https://open.spotify.com/track/32hl16DWU7E2QRVEDbOmTx) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/0gurWRwbN6vQoZe7kJJAwf) | 5:02 | 2021-10-12 | 2022-10-19 |
+| [Liscannor Bay](https://open.spotify.com/track/560IhdGKuEZyrgK9a7wJCG) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/46m6GZTJWRMqQzjJQK5f27) | 5:02 | 2022-03-11 |  |
 | [Lisdoonvarna](https://open.spotify.com/track/05KvSXpXEWd3YCwTPG0xu9) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [On the Road](https://open.spotify.com/album/0pGk5GqEidvPcTratzBAyJ) | 5:06 | 2021-10-12 |  |
 | [Medley: The Recruiting Sergeant / The Rocky Road to Dublin / Galway Races](https://open.spotify.com/track/1boQR0hrVk6rJ7r2JbpvLh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:04 | 2021-10-12 |  |
 | [Molly Malone](https://open.spotify.com/track/1GazB5THk261IzsgVMqBb8) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [Josh White Vol\. 6 \(1944\-1945\)](https://open.spotify.com/album/4c9MAxVq5yNSRsnERU2FpD) | 3:08 | 2021-10-12 | 2022-03-08 |

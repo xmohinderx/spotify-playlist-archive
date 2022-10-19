@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Il Ghost
 
-262 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+263 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [SINCERO](https://open.spotify.com/track/5yONnAl8O86eSD8mFrt95Q) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [SINCERO](https://open.spotify.com/album/3jrXY9OJYVcugfHw69vYgQ) | 2:33 | 2022-08-11 | 2022-09-02 |
 | [SKI](https://open.spotify.com/track/2gAJM0gtcA24UXzKmJJDrn) | [G.Issa](https://open.spotify.com/artist/7gU8RwGw5k4wbutDIrIimI) | [SKI](https://open.spotify.com/album/4fCiOCAlxIZnw8s01FAEul) | 2:17 | 2022-08-04 | 2022-08-20 |
 | [SOCIAL](https://open.spotify.com/track/2Q7XAHQ0bk3GooyDG8Nlb6) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [SOCIAL](https://open.spotify.com/album/3G79iLNwARWJRjGSED29fP) | 2:08 | 2022-09-29 |  |
-| [Sono tristi anche le star](https://open.spotify.com/track/197sltAUVMru0iJmJwPcho) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj) | 2:50 | 2022-09-29 |  |
+| [Sono tristi anche le star](https://open.spotify.com/track/197sltAUVMru0iJmJwPcho) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj) | 2:50 | 2022-09-29 | 2022-10-19 |
+| [Sono tristi anche le star](https://open.spotify.com/track/5AhoYuhVuAl3fqpIhe46qE) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/41Tkn4XnbcB7bwFf5lSBR3) | 2:50 | 2022-10-17 |  |
 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 | 2022-07-14 | 2022-10-07 |
 | [Strade Unite \(feat\. Helmi sa7bi, emanuelino\)](https://open.spotify.com/track/6PYMcSZlBqCgFOojTLMJgD) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Strade Unite \(feat\. Helmi sa7bi, emanuelino\)](https://open.spotify.com/album/4pqW2BaSQ7qOdg8KMSxId3) | 3:30 | 2022-09-29 |  |
 | [Street Fama](https://open.spotify.com/track/6CTYj58wisw6s6AJTbGdrE) | [Korbe](https://open.spotify.com/artist/4UpISNZSBbdGOIXWBwhfL7) | [Street Fama](https://open.spotify.com/album/7nRdzbjeBrcvh1PgxcikXA) | 1:31 | 2022-08-04 | 2022-09-02 |

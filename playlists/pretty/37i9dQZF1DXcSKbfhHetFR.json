@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7369,
+  "num_followers": 7372,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGM2ODNhYzk4NDY3M2Q3YjUxMzgzNjI1MDAxMjc1MzRh",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDk4OGYwNjZmNWQyNmJjNWM3ODRmNzM4NGJkMDI3ZjU5",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "M\u00e9li-molo",
-        "url": "https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I"
-      },
-      "artists": [
-        {
-          "name": "Yelo Molo",
-          "url": "https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs"
-        }
-      ],
-      "duration_ms": 278291,
-      "name": "Le petit castor",
-      "url": "https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le d\u00e9lire du savant fou",
         "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 199066,
       "name": "Le savant fou",
       "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "M\u00e9li-molo",
+        "url": "https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I"
+      },
+      "artists": [
+        {
+          "name": "Yelo Molo",
+          "url": "https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs"
+        }
+      ],
+      "duration_ms": 278291,
+      "name": "Le petit castor",
+      "url": "https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -383,18 +383,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Manifestif",
-        "url": "https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4"
+        "name": "Lili Fatale",
+        "url": "https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv"
       },
       "artists": [
         {
-          "name": "Loco Locass",
-          "url": "https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD"
+          "name": "Lili Fatale",
+          "url": "https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW"
         }
       ],
-      "duration_ms": 273000,
-      "name": "Sheila, ch'us l\u00e0",
-      "url": "https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB"
+      "duration_ms": 244626,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -415,18 +415,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Lili Fatale",
-        "url": "https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv"
+        "name": "Manifestif",
+        "url": "https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4"
       },
       "artists": [
         {
-          "name": "Lili Fatale",
-          "url": "https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW"
+          "name": "Loco Locass",
+          "url": "https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD"
         }
       ],
-      "duration_ms": 244626,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE"
+      "duration_ms": 273000,
+      "name": "Sheila, ch'us l\u00e0",
+      "url": "https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
-      },
-      "artists": [
-        {
-          "name": "coma",
-          "url": "https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Une araign\u00e9e au plafond",
-      "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "l'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 188800,
       "name": "Gwen et les rats",
       "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
+      },
+      "artists": [
+        {
+          "name": "coma",
+          "url": "https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Une araign\u00e9e au plafond",
+      "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Fuck'n'shit baby love!",
-        "url": "https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i"
-      },
-      "artists": [
-        {
-          "name": "Le Karlof Orchestra",
-          "url": "https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Fuck'n'shit baby love!",
-      "url": "https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le silence des roses",
         "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 263640,
       "name": "Si j'ai tort",
       "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Fuck'n'shit baby love!",
+        "url": "https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i"
+      },
+      "artists": [
+        {
+          "name": "Le Karlof Orchestra",
+          "url": "https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Fuck'n'shit baby love!",
+      "url": "https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx"
     },
     {
       "added_at": "2020-06-23 14:47:30",

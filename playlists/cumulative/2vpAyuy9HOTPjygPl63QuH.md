@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-502 songs - 1 day 5 hr 4 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+503 songs - 1 day 5 hr 8 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Deep Love](https://open.spotify.com/track/6aLE0RDyXTq1DAzOawWkrT) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Deep Love EP](https://open.spotify.com/album/63HUJPWRZ8UwgeMZZtujlM) | 5:40 | 2022-09-23 | 2022-10-01 |
 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 | 2022-04-29 | 2022-05-14 |
 | [Deeper Love](https://open.spotify.com/track/7lCWOmZukYQmIPDB40BLyC) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb), [Elijah & Grundy](https://open.spotify.com/artist/57ZguCkaG6uymquyEMVyTl), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Deeper Love](https://open.spotify.com/album/5JLBlimO9JzoWpur7NqX9S) | 3:32 | 2022-08-05 | 2022-09-03 |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-18 |  |
 | [Demons](https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [My Demons](https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd) | 3:36 | 2022-08-21 | 2022-09-03 |
 | [Desire](https://open.spotify.com/track/05ybJ7tCxR7VkxPZXcyST6) | [TYPE3](https://open.spotify.com/artist/4KdMZjTfXrkQ5v2IlGuj6S), [Redraft Memories](https://open.spotify.com/artist/7GLVeELhVwtSmorIEutDAB) | [Desire](https://open.spotify.com/album/1v6eJKMzXxkowg9QQAlc1g) | 5:23 | 2022-09-23 | 2022-10-01 |
 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 | 2022-09-09 | 2022-09-18 |

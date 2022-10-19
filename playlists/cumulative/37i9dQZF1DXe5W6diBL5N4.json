@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover:\bLEE CHAE YEON(\uc774\ucc44\uc5f0)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover:\bLEE CHANHYUK(\uc774\ucc2c\ud601)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "published_playlist_ids": [
     "69AzhPM798n6fuDC8uUxaB"
@@ -578,6 +578,24 @@
     },
     {
       "album": {
+        "name": "2022 \uc601\ub4f1\ud3ec",
+        "url": "https://open.spotify.com/album/72H3VJ137uGZVZ5xFKggXj"
+      },
+      "artists": [
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "2022 \uc601\ub4f1\ud3ec",
+      "url": "https://open.spotify.com/track/5jd8Wfz0TDW1gbYqBXmZIR"
+    },
+    {
+      "album": {
         "name": "2022 \uc6d4\uac04 \uc724\uc885\uc2e0 7\uc6d4\ud638 - Summer Drink",
         "url": "https://open.spotify.com/album/3ACyyaJl4xUFNaEahEZVbB"
       },
@@ -847,6 +865,28 @@
       "duration_ms": 191146,
       "name": "500000km NF SONATA",
       "url": "https://open.spotify.com/track/6te2w854p7KJnwWifSvZdb"
+    },
+    {
+      "album": {
+        "name": "500\uc5b5 (50 Milli) (feat. Don Mills)",
+        "url": "https://open.spotify.com/album/2zhV1CVKTKbYWrMOsoSEdg"
+      },
+      "artists": [
+        {
+          "name": "44MAGNUMB",
+          "url": "https://open.spotify.com/artist/66u2mp8mtMEOUH2TWWr98O"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152205,
+      "name": "500\uc5b5 (50 Milli) (feat. Don Mills)",
+      "url": "https://open.spotify.com/track/5Z2uo65TBhhrzAFP1Fn9cz"
     },
     {
       "album": {
@@ -7543,7 +7583,7 @@
       },
       "artists": [
         {
-          "name": "Reddy",
+          "name": "REDDY",
           "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
@@ -8737,6 +8777,24 @@
       "duration_ms": 279160,
       "name": "Confession",
       "url": "https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg"
+    },
+    {
+      "album": {
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
+      },
+      "artists": [
+        {
+          "name": "Chuu (LOONA)",
+          "url": "https://open.spotify.com/artist/5cFdpa8OCO9JGIOB7O8ygU"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
     },
     {
       "album": {
@@ -10908,6 +10966,24 @@
     },
     {
       "album": {
+        "name": "DOMESTIC",
+        "url": "https://open.spotify.com/album/0GN8beuxhVdJy35RZ2Y1F2"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150026,
+      "name": "DOMESTIC",
+      "url": "https://open.spotify.com/track/3TXcWRCU3TMLAAYRTnFCN4"
+    },
+    {
+      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP"
       },
@@ -13040,6 +13116,24 @@
     },
     {
       "album": {
+        "name": "Flower Shop2",
+        "url": "https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone \u25cf",
+      "url": "https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr"
+    },
+    {
+      "album": {
         "name": "Even the fallen cherry blossoms used to be",
         "url": "https://open.spotify.com/album/5GuhVIejhfNOlgSMU7ti80"
       },
@@ -13716,7 +13810,7 @@
       "artists": [
         {
           "name": "NIKA",
-          "url": "https://open.spotify.com/artist/2SfZPPdODiPoDxdMLFWphW"
+          "url": "https://open.spotify.com/artist/6pnKekRHJdpKCadKeW4JOT"
         }
       ],
       "date_added": "2022-10-13",
@@ -15768,6 +15862,24 @@
     },
     {
       "album": {
+        "name": "Get Ready To Leave",
+        "url": "https://open.spotify.com/album/0UY2l5txL7IjXCB9LnBZ6R"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Get Ready To Leave",
+      "url": "https://open.spotify.com/track/2HD4JdEYMkpgeu22IcOSAg"
+    },
+    {
+      "album": {
         "name": "JIGGY BOY",
         "url": "https://open.spotify.com/album/1Ivhj2SHKyltS1zZ4SxXSm"
       },
@@ -16924,6 +17036,24 @@
     },
     {
       "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/5x8yJ9AIXEBTSxhCuRNgJV"
+      },
+      "artists": [
+        {
+          "name": "406 Project",
+          "url": "https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/0WF7XndT9qCxBPMfZZfXOK"
+    },
+    {
+      "album": {
         "name": "Bad Girlfriend (Original Television Soundtrack) Pt.1",
         "url": "https://open.spotify.com/album/3XkngC33ucHUrYmzczTiLD"
       },
@@ -17995,6 +18125,24 @@
       "duration_ms": 216893,
       "name": "Hiding Words",
       "url": "https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50"
+    },
+    {
+      "album": {
+        "name": "HIGH FIVE",
+        "url": "https://open.spotify.com/album/49xXhS6udfuKKbpsY7EahD"
+      },
+      "artists": [
+        {
+          "name": "DanJerous",
+          "url": "https://open.spotify.com/artist/3EJKyukc1SHQBvdZEVb1dx"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "HIGH FIVE",
+      "url": "https://open.spotify.com/track/0Wgt6BQyPHOz9uqXFUKzj4"
     },
     {
       "album": {
@@ -20886,6 +21034,24 @@
     },
     {
       "album": {
+        "name": "I will bear my grief. Thank you.",
+        "url": "https://open.spotify.com/album/3d5sQWZYfybvm2AF0ejVL2"
+      },
+      "artists": [
+        {
+          "name": "40",
+          "url": "https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270131,
+      "name": "I will bear my grief. Thank you.",
+      "url": "https://open.spotify.com/track/5QAynerkLzjgFNPFT0RTts"
+    },
+    {
+      "album": {
         "name": "I Will Fly",
         "url": "https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV"
       },
@@ -22531,6 +22697,24 @@
       "duration_ms": 231840,
       "name": "It Won't be goodbye",
       "url": "https://open.spotify.com/track/138P0nS4uTTe7m2eHPp9YE"
+    },
+    {
+      "album": {
+        "name": "It' dosen't matter",
+        "url": "https://open.spotify.com/album/4o94RbJ8joa7ki3OXM4xPh"
+      },
+      "artists": [
+        {
+          "name": "OYEON",
+          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "It' doesn't matter",
+      "url": "https://open.spotify.com/track/0lPGLVyhcZYEKWepFyFMkg"
     },
     {
       "album": {
@@ -24943,7 +25127,7 @@
       },
       "artists": [
         {
-          "name": "\u6587\u4fca\u8f89",
+          "name": "JUN",
           "url": "https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV"
         }
       ],
@@ -26101,6 +26285,24 @@
       "duration_ms": 332500,
       "name": "Love Scene",
       "url": "https://open.spotify.com/track/4msc0gNZXxZYWdRUlQgDsj"
+    },
+    {
+      "album": {
+        "name": "OH MY KISS, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6KFNXaAltSnXaCf8KPPWep"
+      },
+      "artists": [
+        {
+          "name": "yewon",
+          "url": "https://open.spotify.com/artist/3cw1kWnPM3pDH7OZnMhlTp"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195071,
+      "name": "LOVE SIGN",
+      "url": "https://open.spotify.com/track/1WsgP7GRZjm6jvzZn2AS5i"
     },
     {
       "album": {
@@ -30248,6 +30450,24 @@
     },
     {
       "album": {
+        "name": "1 (remake)",
+        "url": "https://open.spotify.com/album/50XoY4Y7yVE931Z5I6GPjB"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "No One Told Me Why - remake",
+      "url": "https://open.spotify.com/track/4pR5M0EvzQXEze0VdBoGx2"
+    },
+    {
+      "album": {
         "name": "No Plan",
         "url": "https://open.spotify.com/album/2V7TT09DNOKE7e9vnejKtD"
       },
@@ -32305,6 +32525,24 @@
       "duration_ms": 146549,
       "name": "pairing",
       "url": "https://open.spotify.com/track/2XHoK0scxzTMYEG7W0Bogc"
+    },
+    {
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/3lHfVs7dsuxQRF51fu7w6f"
+      },
+      "artists": [
+        {
+          "name": "JENNA SUHL",
+          "url": "https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Pandilla",
+      "url": "https://open.spotify.com/track/4Pj1dst4iDwGCYsYxm5X4r"
     },
     {
       "album": {
@@ -36832,6 +37070,24 @@
     },
     {
       "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/5u6RHBvmb2ODFVFNt1TNU4"
+      },
+      "artists": [
+        {
+          "name": "HWAJA",
+          "url": "https://open.spotify.com/artist/40T75cQkB1HzvOpRhmcZa5"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/1ctd2EC8BDtHfQ6g690ipg"
+    },
+    {
+      "album": {
         "name": "Self Isolation",
         "url": "https://open.spotify.com/album/190NSlHxe7iDHTe1V9Pb5c"
       },
@@ -37705,6 +37961,24 @@
       "duration_ms": 231501,
       "name": "SHYDAD (feat.Rosmile)",
       "url": "https://open.spotify.com/track/16CgE8LF5FTQTyhJMXzU6R"
+    },
+    {
+      "album": {
+        "name": "Sickening Love (Made in 4MEN)",
+        "url": "https://open.spotify.com/album/56hj02oGMOU9iP9elR5x3v"
+      },
+      "artists": [
+        {
+          "name": "4MEN",
+          "url": "https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270026,
+      "name": "Sickening Love",
+      "url": "https://open.spotify.com/track/11wz9ReAAXR5faTz4q1qNh"
     },
     {
       "album": {
@@ -45088,6 +45362,24 @@
     },
     {
       "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E"
+      },
+      "artists": [
+        {
+          "name": "DOHU",
+          "url": "https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD"
+    },
+    {
+      "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
       },
@@ -45239,7 +45531,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191423,
-      "name": "V4 (Prod. 0130)",
+      "name": "V4",
       "url": "https://open.spotify.com/track/145tWivXzEg8ANhTmicczs"
     },
     {
@@ -46830,6 +47122,36 @@
     },
     {
       "album": {
+        "name": "I feel like I'm still there",
+        "url": "https://open.spotify.com/album/3Q8aHSd1mgweqkss5ebvwU"
+      },
+      "artists": [
+        {
+          "name": "merrymerryseoul",
+          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        },
+        {
+          "name": "DAON",
+          "url": "https://open.spotify.com/artist/66hfIwVdXfgV6bVDQDkYOy"
+        },
+        {
+          "name": "H!",
+          "url": "https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "What's the love (feat. amin, DAON & H!)",
+      "url": "https://open.spotify.com/track/74DjRio830iZSYUBLWQgP0"
+    },
+    {
+      "album": {
         "name": "Whatever it's love",
         "url": "https://open.spotify.com/album/3RT5vmy8KvoECa7lPw3Kck"
       },
@@ -47892,6 +48214,24 @@
     },
     {
       "album": {
+        "name": "Mental Coach Jegal, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5fcdcwpZpn3LBTNHXQcMgh"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN"
+    },
+    {
+      "album": {
         "name": "Woori The Virgin, Pt. 6 (Original Television Soundtrack) (Special Track)",
         "url": "https://open.spotify.com/album/0bDZDb3zs3Ow0Qhj1Ryodw"
       },
@@ -48089,6 +48429,24 @@
       "duration_ms": 212783,
       "name": "woOh (Feat. Ellui)",
       "url": "https://open.spotify.com/track/65MUMQil3M8kgKMRbtD7YL"
+    },
+    {
+      "album": {
+        "name": "EGG",
+        "url": "https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ"
+      },
+      "artists": [
+        {
+          "name": "moim",
+          "url": "https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167550,
+      "name": "Woo~",
+      "url": "https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899"
     },
     {
       "album": {
@@ -50437,6 +50795,24 @@
       "duration_ms": 175560,
       "name": "\uc090\uc5d0\ub85c \ubbf8\uc18c\uc758 \uc758\ubbf8",
       "url": "https://open.spotify.com/track/40cflQM5dMeqM3t5V4qbKf"
+    },
+    {
+      "album": {
+        "name": "RAINBOW STATION Episode.4",
+        "url": "https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm"
+      },
+      "artists": [
+        {
+          "name": "Sangmin Chu",
+          "url": "https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213986,
+      "name": "\uc0ac\uacc4\uc808\uc774 \uc9c0\ub098 \ub2e4\uc2dc \uac00\uc744\uc774 \uc640\ub3c4",
+      "url": "https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND"
     },
     {
       "album": {

@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 198377,
       "name": "Ap\u017eavai",
       "url": "https://open.spotify.com/track/43M7mBUccCPGFD39ivJJPR"
@@ -5611,7 +5611,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3"
@@ -6411,7 +6411,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 169729,
       "name": "Iki Au\u0161ros",
       "url": "https://open.spotify.com/track/4iClTrpYr3WSwOJCITKXGN"
@@ -9176,6 +9176,24 @@
     },
     {
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170983,
+      "name": "Miss You - Sped Up Version",
+      "url": "https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW"
+    },
+    {
+      "album": {
         "name": "Miss You (Sped Up Version)",
         "url": "https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ"
       },
@@ -9187,7 +9205,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 170983,
       "name": "Miss You - Sped Up Version",
       "url": "https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH"
@@ -9999,7 +10017,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 133370,
       "name": "nevyk\u0117l\u0117",
       "url": "https://open.spotify.com/track/0xYkfwPWwitPq5Txt1p1rK"
@@ -15883,7 +15901,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -16439,7 +16457,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"

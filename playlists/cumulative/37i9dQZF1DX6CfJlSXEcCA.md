@@ -4,7 +4,7 @@
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-144 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/7ij89g35L5wid2aPGmGS4I)
+145 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/7ij89g35L5wid2aPGmGS4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Saudade](https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 4:18 | 2021-06-30 |  |
 | [Saudade](https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [バイオハザード RE:2 オリジナル・サウンドトラック](https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I) | 4:18 | 2021-06-30 | 2022-07-29 |
 | [Save Theme](https://open.spotify.com/track/6sUas8j0HCdY3w3an18ijh) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 1:19 | 2021-06-30 | 2022-07-29 |
+| [Save Theme](https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:19 | 2021-06-30 |  |
 | [Secure Place](https://open.spotify.com/track/5QThTYJveDHE40f4zODdyo) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [バイオハザード 2 オリジナル・サウンドトラック](https://open.spotify.com/album/2CvZvoryzjulwuE8QFBNkC) | 0:56 | 2021-06-30 | 2022-07-21 |
 | [SENGOKU BASARA](https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [SENGOKU BASARA 15th Anniversary BEST](https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB) | 1:57 | 2021-06-30 |  |
 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 | 2021-06-30 | 2022-07-29 |
@@ -108,7 +109,7 @@
 | [Theme of Ryu \-SFIV Arrange\-](https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターIVシリーズ サウンドBOX](https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu) | 3:19 | 2021-06-30 |  |
 | [Third Strike](https://open.spotify.com/track/2RAVf4xg3WfqGJZlpIJ14h) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ストリートファイターIII サードストライク オリジナル・サウンドトラック](https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH) | 4:36 | 2021-06-30 | 2022-07-17 |
 | [TITLE](https://open.spotify.com/track/34ZT2ocZtH6OBTyoU7DsWF) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマン3 サウンドコレクション](https://open.spotify.com/album/5sUQxCgq7PCUOGcxLnoGIE) | 1:30 | 2021-06-30 | 2022-07-22 |
-| [Total Result](https://open.spotify.com/track/4o62B2S9hKbrNPM1Q8mlMJ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 1:19 | 2021-06-30 |  |
+| [Total Result](https://open.spotify.com/track/4o62B2S9hKbrNPM1Q8mlMJ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 1:19 | 2021-06-30 | 2022-10-19 |
 | [Total Result \(トータルリザルト\)](https://open.spotify.com/track/6kJBsw2xn3g1uRlPKGcbob) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ 4 オリジナル・サウンドトラック](https://open.spotify.com/album/0b7BchpS8RT54kTgZVe9Xo) | 1:19 | 2021-06-30 | 2022-07-29 |
 | [ULTRA VIOLET\(ネロ アンジェロ戦\)](https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ オリジナル・サウンドトラック](https://open.spotify.com/album/6viXrqcpzXyrrRx3LjZpIf) | 3:21 | 2021-06-30 | 2022-07-28 |
 | [VS 8Boss](https://open.spotify.com/track/3kaWVbWp2nZlBgyqF3b0hs) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL), [Value Wave](https://open.spotify.com/artist/4jt2AZqUeSdf3rRYt6Opm0) | [ロックマンX8 サウンド コレクション](https://open.spotify.com/album/6xLS6m4VKzxuXkU2DR6pb0) | 2:55 | 2021-06-30 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 0am
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,367 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,398 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 4 | [Hyper 5th Dimention](https://open.spotify.com/track/42Fqdcrd5axKxYUWo1Obei) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Hyper 5th Dimension](https://open.spotify.com/album/66pCXMDxtnOpTeMuxoHvnE) | 2:54 |
 | 5 | [微熱](https://open.spotify.com/track/06F66UM6aqpTS3mhaljNTA) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [微熱](https://open.spotify.com/album/7F04y9w1tuZBA2l8DDBc6s) | 4:52 |
 | 6 | [MO★SO Sommelier](https://open.spotify.com/track/5UE3ZUSqlid9MbMRlORqzT) | [湧](https://open.spotify.com/artist/2WLQEvRcGXbXKqoEgYV3sK) | [ソーリョベルク](https://open.spotify.com/album/5pB2y8aT8gAfNa82NCcenr) | 1:46 |
-| 7 | [Isshindoutai](https://open.spotify.com/track/2VNm0wXdJlrOFhkeloDKbv) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Isshindoutai](https://open.spotify.com/album/3mLdDjsxAv8NJI0u4UBVWw) | 3:18 |
+| 7 | [Isshin Doutai](https://open.spotify.com/track/2VNm0wXdJlrOFhkeloDKbv) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Isshin Doutai](https://open.spotify.com/album/3mLdDjsxAv8NJI0u4UBVWw) | 3:18 |
 | 8 | [普変](https://open.spotify.com/track/0erVkcKozQbnisCelEiC7S) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [普変](https://open.spotify.com/album/4edTZ8Sm6FWnrokVuxP8WS) | 3:38 |
 | 9 | [超天獄](https://open.spotify.com/track/0rT5dClklXHjNPKFy970ZV) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 |
 | 10 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-172 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+173 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 | 2021-09-10 |  |
 | [Halloween Jack In The Box](https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Halloween Jack In The Box](https://open.spotify.com/album/4Tx7dRyswwgC8LWCwclP0D) | 1:59 | 2021-10-12 | 2022-09-26 |
 | [Halloween Night](https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg) | [Like Father Like Son](https://open.spotify.com/artist/2mYeBf4vKnhNLLiGciwz3O) | [Halloween Night](https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5) | 3:26 | 2021-09-10 |  |
-| [Halloween Night](https://open.spotify.com/track/10HzJHG4qFRAcxxQWOAlTg) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/6wRmojz3wzGxq6nbbntwZS) | 2:18 | 2021-09-10 |  |
+| [Halloween Night](https://open.spotify.com/track/7FRaszW7wMNkVwZztGansN) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/1nLJKyLcltqRpexKUN43tz) | 2:17 | 2022-10-11 |  |
+| [Halloween Night](https://open.spotify.com/track/10HzJHG4qFRAcxxQWOAlTg) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/6wRmojz3wzGxq6nbbntwZS) | 2:18 | 2021-09-10 | 2022-10-19 |
 | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN) | 3:11 | 2021-09-10 |  |
 | [Halloween Party](https://open.spotify.com/track/3slFq8eyDLgZa415zxHPrV) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Halloween Party](https://open.spotify.com/album/4LQzv1AK9H01DWlrgq1oOv) | 2:14 | 2021-10-04 |  |
 | [Halloween Party](https://open.spotify.com/track/7iqijTBAtZidxC3teIrGK9) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Halloween Party](https://open.spotify.com/album/4TNubeWlW4FPG1hXRRzVxo) | 2:14 | 2021-10-04 | 2022-07-29 |

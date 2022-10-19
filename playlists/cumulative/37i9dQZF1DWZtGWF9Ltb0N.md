@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-397 songs - 1 day 6 hr 23 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+398 songs - 1 day 6 hr 28 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Food For Ya Soul](https://open.spotify.com/track/4d5cbRCN19Yi3sAfKYwCH9) | [Re5a](https://open.spotify.com/artist/1j9XR40ZKAiwPPEchyyvNl) | [Infidel](https://open.spotify.com/album/6tmH5VTDaBkCzhYN6GAEz9) | 6:00 | 2022-02-17 |  |
 | [Fools Gold](https://open.spotify.com/track/1H8U2t2JrjbGld8YPmjX0w) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Fools Gold](https://open.spotify.com/album/1m98Qvc7u0GokYDawomNgN) | 4:00 | 2022-02-17 |  |
 | [Foreign Flowers \- Dengue Dengue Dengue & Prisma Remix](https://open.spotify.com/track/3ipEDZ30eJhJhmrEXnZD1s) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd) | [Foreign Flowers \(Dengue Dengue Dengue & Prisma Remix\)](https://open.spotify.com/album/1qvopyrc7IiA4DFAR6iJf8) | 4:33 | 2022-02-17 | 2022-06-08 |
-| [Forest Creature](https://open.spotify.com/track/0fSYoxjDM5kVUY8Gb6rEKp) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Forest Creature](https://open.spotify.com/album/1iTJY4YpGDnJpu3rIKrXBn) | 4:20 | 2022-02-17 |  |
+| [Forest Creature](https://open.spotify.com/track/0fSYoxjDM5kVUY8Gb6rEKp) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Forest Creature](https://open.spotify.com/album/1iTJY4YpGDnJpu3rIKrXBn) | 4:20 | 2022-02-17 | 2022-10-19 |
+| [Forest Creature](https://open.spotify.com/track/1av7ANQCAb4mizrrUko4Pc) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 4:20 | 2022-07-08 |  |
 | [Fryst \- Original Mix](https://open.spotify.com/track/4koiKX3qu8B1ENF1mICkak) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Positive Energy](https://open.spotify.com/album/0Syi76rGMdgXiHzzYUfkcO) | 6:53 | 2022-02-17 |  |
 | [Fuck 'em](https://open.spotify.com/track/46y1L481OwLpWAg222Dzvi) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wrath of God](https://open.spotify.com/album/2SYwkpBdH7qfUde6PCA0EU) | 4:21 | 2022-02-17 | 2022-07-30 |
 | [G Shit](https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/44zt80xY9vVrpdBIS4cc9I) | 4:15 | 2022-07-08 |  |

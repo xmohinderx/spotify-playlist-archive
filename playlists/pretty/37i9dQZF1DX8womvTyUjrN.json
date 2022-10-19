@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Justin Quiles & Carin Leon.",
-  "num_followers": 262245,
+  "num_followers": 262326,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMDY2OTAxZDA3Mzc1MzZhMjY2ODJiMTJhNjBiZTE0NTA4",
+  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMDJhMDQwN2JkZWUwZjUzOWI2OThmMWEzNTE1MTU1YThk",
   "tracks": [
     {
       "added_at": "2022-10-07 15:58:02",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Buscando un Amor",
-      "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Chimbo",
         "url": "https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 182089,
       "name": "Chimbo",
       "url": "https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Buscando un Amor",
+      "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Agua Salada",
+        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 213434,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "Medio Crazy Remix",
         "url": "https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 332608,
       "name": "Medio Crazy Remix",
       "url": "https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Agua Salada",
-        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 213434,
-      "name": "Agua Salada",
-      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Trepado",
         "url": "https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170264,
       "name": "Trepado",
       "url": "https://open.spotify.com/track/711ngcynIQHVRmTn5R7QVs"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "ITA :)",
-        "url": "https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 160451,
-      "name": "ITA :)",
-      "url": "https://open.spotify.com/track/47i903DULtuCdNST7sprvg"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Freno",
         "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 214173,
       "name": "Freno",
       "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "ITA :)",
+        "url": "https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 160451,
+      "name": "ITA :)",
+      "url": "https://open.spotify.com/track/47i903DULtuCdNST7sprvg"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Amor Y Sal",
-        "url": "https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 152249,
-      "name": "Amor Y Sal",
-      "url": "https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "estereotipo",
         "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 174825,
       "name": "estereotipo",
       "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Amor Y Sal",
+        "url": "https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 152249,
+      "name": "Amor Y Sal",
+      "url": "https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Pa Que Te Digo Que No",
+        "url": "https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Pa Que Te Digo Que No",
+      "url": "https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "NOSE",
         "url": "https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Pa Que Te Digo Que No",
-        "url": "https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Pa Que Te Digo Que No",
-      "url": "https://open.spotify.com/track/3WFJyF05yGekUuBmvEFDT0"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "ENVIDIOSA",
-        "url": "https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "ENVIDIOSA",
-      "url": "https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Celular",
         "url": "https://open.spotify.com/album/596veIoeFm89apz1MbGoNE"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 166000,
       "name": "Celular",
       "url": "https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "ENVIDIOSA",
+        "url": "https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "ENVIDIOSA",
+      "url": "https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8"
     },
     {
       "added_at": "2022-10-07 15:58:02",

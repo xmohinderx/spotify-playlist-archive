@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-101 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+102 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [على وضعنا](https://open.spotify.com/track/5sb9l21Adj5wafYN0U2eo7) | [Ahmed Faransa](https://open.spotify.com/artist/4edzZOS8Fd330sVuzn8D6q) | [على وضعنا](https://open.spotify.com/album/1etJ2v9Joi2EyIjZqQDNJo) | 2:02 | 2021-12-16 | 2022-09-28 |
 | [عمري انا ما بجلي كفاءه تملي](https://open.spotify.com/track/18edBOhWy8oHrKYSpxzrgV) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمري انا ما بجلي كفاءه تملي](https://open.spotify.com/album/3ykZCZ4P3JUHOIGT5WdKD2) | 4:21 | 2022-02-16 | 2022-07-31 |
 | [عيد ميلاد](https://open.spotify.com/track/5jXrmO3gbEVhRTCQn3TGUs) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [عيد ميلاد](https://open.spotify.com/album/323DKyNQY9frSlejl10pdl) | 3:30 | 2022-07-30 |  |
-| [غاب الاسد طلعو القرود](https://open.spotify.com/track/08kEEeT3SvUnc3qocmY173) | [Bodyykhaledd](https://open.spotify.com/artist/5iIuR1hkhyNJNzB9aVPbGj), [Hamo El Tekha](https://open.spotify.com/artist/7gXuIjsi4LJpF4NqaKQVby) | [غاب الاسد طلعو القرود](https://open.spotify.com/album/2KLIfl7WG4IDYJ3NnCJKA4) | 4:00 | 2022-10-16 |  |
+| [غاب الاسد طلعو القرود](https://open.spotify.com/track/08kEEeT3SvUnc3qocmY173) | [Bodyykhaledd](https://open.spotify.com/artist/5iIuR1hkhyNJNzB9aVPbGj), [Hamo El Tekha](https://open.spotify.com/artist/7gXuIjsi4LJpF4NqaKQVby) | [غاب الاسد طلعو القرود](https://open.spotify.com/album/2KLIfl7WG4IDYJ3NnCJKA4) | 4:00 | 2022-10-16 | 2022-10-19 |
 | [فتش فتش](https://open.spotify.com/track/6TuMXB9iHua2rzUmRtuwiY) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/3CMjbLQe3GRt0SMh8r0Ycm) | 3:58 | 2022-07-19 |  |
 | [فتش فتش](https://open.spotify.com/track/6xT8RMc5S88Rfs82YZwmXm) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/78b0ANL8qcCLnUr39MK2bt) | 3:58 | 2021-12-16 | 2022-07-29 |
 | [في يوم فراقك](https://open.spotify.com/track/4zEqPTikQAUACfHrDRa41K) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [في يوم فراقك](https://open.spotify.com/album/4BmrULEvTzmhuoYQgMPDPW) | 6:22 | 2022-01-10 | 2022-10-17 |
@@ -92,6 +92,7 @@
 | [مهرجان اخرس عمك جالك \( مالك يا صاحبي احكيلي \- خلوني ابقي شيطان \)](https://open.spotify.com/track/7HwAJD7l8JhAJtlKDYBY0F) | [حلقولو](https://open.spotify.com/artist/7b9HTYLzKkHgp3qaC6mr4V), [الدوجرى](https://open.spotify.com/artist/5qxlcrQWyPwEwdZ3PDFe2X) | [مهرجان اخرس عمك جالك \( مالك يا صاحبي احكيلي \- خلوني ابقي شيطان \)](https://open.spotify.com/album/2wvuf3nTDEhD2kZivp7LjS) | 5:44 | 2022-07-19 |  |
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-16 | 2022-01-11 |
 | [مهرجان اسكت يا قلبي](https://open.spotify.com/track/3bpMAr3KaaAm7YrAp8K9XD) | [Eslam Nabawy](https://open.spotify.com/artist/4msLeWosAtlqUnbOu7K0bk) | [مهرجان اسكت يا قلبي](https://open.spotify.com/album/3oyReWYuMccCmyqaJMIpGF) | 3:36 | 2021-12-16 | 2022-01-11 |
+| [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/track/0g8KH2qkC7lwfYt1cEqddg) | [i Media](https://open.spotify.com/artist/1PKVWSj5RnhEsVuyJ1AFCo) | [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/album/1jT4cNu2gl2tV7LVUNKvlZ) | 4:00 | 2022-10-16 |  |
 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 | 2021-12-16 |  |
 | [موديل باريس](https://open.spotify.com/track/1ezuOtgC76D3bRaDhrqu3S) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [موديل باريس](https://open.spotify.com/album/28rAKLhpEsCkz1A5nK02NG) | 3:17 | 2021-12-16 |  |
 | [ميت انا مش عارفني](https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ميت انا مش عارفني](https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT) | 2:43 | 2022-10-16 |  |

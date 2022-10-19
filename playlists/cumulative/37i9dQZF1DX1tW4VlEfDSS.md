@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-169 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
+170 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Burn the Guez! \- Edit](https://open.spotify.com/track/466NOCpKev907jPlqaXdPe) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [Burn The Guez!](https://open.spotify.com/album/6PxvGptAPOvzLBKuHOYEKn) | 4:35 | 2021-12-07 | 2022-07-20 |
 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 | 2021-12-07 |  |
 | [Chilli Heatwave](https://open.spotify.com/track/0I5CXOrOHwCg13oTgG3TAr) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [25 Minutes of Relaxing ASMR](https://open.spotify.com/album/6jbwFqmwVH89xXyNKaRcgG) | 4:35 | 2021-12-07 | 2022-07-29 |
+| [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 | 2022-03-11 |  |
 | [Choom](https://open.spotify.com/track/3K1if03hKhYVnArWaoHAxi) | [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw) | [Square Peg, Round Hole](https://open.spotify.com/album/2g0xz5c4IF1CDqVs03dSKE) | 5:55 | 2021-12-07 | 2022-07-12 |
 | [Clam Factory](https://open.spotify.com/track/1ytBSZM9XcPxcxIaHMk4qA) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Clam Factory](https://open.spotify.com/album/4FtjKjfY2EixthfAcX2yRM) | 6:37 | 2021-12-07 | 2022-06-23 |
 | [Closer](https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE) | 4:10 | 2021-12-07 | 2022-10-14 |
@@ -84,7 +85,7 @@
 | [Jimi](https://open.spotify.com/track/2tb9TnN6gL5YsaoPJHu7PC) | [Boots & Kats](https://open.spotify.com/artist/5XcmGnCM5FdJsvIFVZhSIo) | [Jimi](https://open.spotify.com/album/6ZWv70U4U9IubnlM6nehIm) | 5:25 | 2022-03-11 | 2022-07-07 |
 | [Jon Lord](https://open.spotify.com/track/1GnatFtam5HF1kOzcSBA7Q) | [Madbello](https://open.spotify.com/artist/4pBlZlDJk17NC0ATiEuiOR) | [Jon Lord](https://open.spotify.com/album/3Q8aAihO9uye5Vo5QsQLlD) | 9:39 | 2021-12-07 | 2022-07-17 |
 | [Just a Feeling \- Brackles Remix](https://open.spotify.com/track/43I0aadVyfpfNA77tSqcqF) | [Swing Ting](https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX), [HMD](https://open.spotify.com/artist/2b0TwNC474SPalxcIPdrEE), [Brackles](https://open.spotify.com/artist/6YBdtCRht0zATq9CWQ1gDQ) | [Just a Feeling \(Brackles Remix\)](https://open.spotify.com/album/3u2sB1MGwW70Gi4wHvmIh2) | 3:01 | 2021-12-07 | 2022-07-29 |
-| [Keep Me In The Dark \(feat\. Jim Junior\)](https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Keep Me In The Dark \(feat\. Jim Junior\)](https://open.spotify.com/album/0c7XA5RkZVU6Cbl4tfyP8M) | 3:07 | 2021-12-07 |  |
+| [Keep Me In The Dark \(feat\. Jim Junior\)](https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Keep Me In The Dark \(feat\. Jim Junior\)](https://open.spotify.com/album/0c7XA5RkZVU6Cbl4tfyP8M) | 3:07 | 2021-12-07 | 2022-10-19 |
 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 | 2021-12-07 | 2022-07-29 |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-03-11 |  |
 | [Knock Knock](https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Knock Knock](https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP) | 4:01 | 2021-12-07 | 2022-07-18 |

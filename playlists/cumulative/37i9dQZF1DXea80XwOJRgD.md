@@ -4,7 +4,7 @@
 
 > Some heart and soul for those up late.
 
-83 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+84 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Gracefully](https://open.spotify.com/track/5mkpRcKJW7E9vlDoRJGxr9) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3AcNiMMqbJ9WxtLtUeTNB0) | 3:38 | 2017-11-04 | 2022-07-29 |
 | [Gracefully](https://open.spotify.com/track/6o48EgHLxA0g0NLcDXukz7) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 3:38 | 2017-11-04 |  |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2022-08-04 |  |
-| [Hanging Tree](https://open.spotify.com/track/0UWt8PbXRSS69MsdzyEekU) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Hanging Tree](https://open.spotify.com/album/1qABaNWpFHTVAOZRtZlHQI) | 3:10 | 2017-11-04 |  |
+| [Hanging Tree](https://open.spotify.com/track/0UWt8PbXRSS69MsdzyEekU) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Hanging Tree](https://open.spotify.com/album/1qABaNWpFHTVAOZRtZlHQI) | 3:10 | 2017-11-04 | 2022-10-19 |
+| [Hanging Tree](https://open.spotify.com/track/42USfeQzbKwVuVXNYT2y9d) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Hanging Tree](https://open.spotify.com/album/41mqbGnQlvmMSUz8Obf8s6) | 3:10 | 2017-11-04 |  |
 | [Have You Heard Anything from the Lord Today](https://open.spotify.com/track/0SZKxs3mvzmK0kTWbCgvWB) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [My Love Devine Degree](https://open.spotify.com/album/0GfwalBiyhcjAAaMgTWXxc) | 3:21 | 2017-11-04 | 2022-07-29 |
 | [Have You Heard Anything from the Lord Today](https://open.spotify.com/track/5OCwYvNcTGvP4XpaNNr9LN) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [My Love Divine Degree](https://open.spotify.com/album/1IsiXen1EXcsHlF5LVhUP0) | 3:21 | 2017-11-04 |  |
 | [I Can Never Be](https://open.spotify.com/track/7ELxoLDLEc4iQgGTWoaDVT) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are The Brave](https://open.spotify.com/album/0GwWmKEUgzykmMXPYX93ba) | 4:59 | 2017-11-04 |  |

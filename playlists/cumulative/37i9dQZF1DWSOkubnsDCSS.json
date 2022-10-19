@@ -1591,7 +1591,7 @@
     {
       "album": {
         "name": "Sickers the Great",
-        "url": "https://open.spotify.com/album/3KJ0X6kMxWFavb2uF4XsTx"
+        "url": "https://open.spotify.com/album/7ILloSyObmo574A8NkFygy"
       },
       "artists": [
         {
@@ -1606,6 +1606,28 @@
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155492,
+      "name": "My Genna",
+      "url": "https://open.spotify.com/track/3Kcbg43tlcNt8N0vIDayve"
+    },
+    {
+      "album": {
+        "name": "Sickers the Great",
+        "url": "https://open.spotify.com/album/3KJ0X6kMxWFavb2uF4XsTx"
+      },
+      "artists": [
+        {
+          "name": "Grim Sickers",
+          "url": "https://open.spotify.com/artist/1pNDEbhb6K2TLS3vftZ3Y2"
+        },
+        {
+          "name": "Mayhem NODB",
+          "url": "https://open.spotify.com/artist/4OvtTdyyTQJhVPiagIiSah"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 155492,
       "name": "My Genna",
       "url": "https://open.spotify.com/track/4KcDLpQ05SZbbCsCYNlk5Z"

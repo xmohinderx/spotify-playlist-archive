@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,769 likes - 797 songs - 2 day 0 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,787 likes - 797 songs - 2 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -567,8 +567,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 557 | [Add To Me \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 3:40 |
 | 558 | [Bike Dream \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles](https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY) | 3:57 |
 | 559 | [Pink Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0EpLNXulQF0CcUZtV1jm8l) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles](https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY) | 2:27 |
-| 560 | [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qc95VxpLLPEfAD4YIZYn5) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:35 |
-| 561 | [Ivy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2vkGGrvr58ODOWEv3Yhwow) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:22 |
+| 560 | [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1U0deAPhGBIywMOiaufLEk) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf) | 4:35 |
+| 561 | [Ivy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Db88sMdYMNETPXIZyJdwk) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf) | 4:22 |
 | 562 | [Bonzai / Terry \- From Spotify Studios NYC](https://open.spotify.com/track/7jWuKy1nYuQWy9Mkw0e5Si) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Spotify Singles](https://open.spotify.com/album/1Ky94F6giScymXgk83nhzl) | 5:19 |
 | 563 | [I'm Going Down \- From Spotify Studios NYC](https://open.spotify.com/track/2YXvW4m3TS8c9lWDRpn0z4) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Spotify Singles](https://open.spotify.com/album/1Ky94F6giScymXgk83nhzl) | 3:08 |
 | 564 | [Doubt \- Recorded at Spotify Studios, NYC](https://open.spotify.com/track/26FJlblgwo02o91UmoH2AF) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Spotify Singles](https://open.spotify.com/album/7ihbSJN6guoQVhFHhV02H2) | 3:38 |
@@ -806,4 +806,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 796 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 797 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY2NTYwNjM1NSwwMDAwMDAwMGU2ZTJlMDNlMWViN2Y0M2Y3ODNhMGM1MDg5ODAzOTQ4`
+Snapshot ID: `MTY2NTYwNjM1NSwwMDAwMDAwMDEzNzE0YTdiMzIwYzE0N2FiZjlmOWExZjYyMDcwZDZj`

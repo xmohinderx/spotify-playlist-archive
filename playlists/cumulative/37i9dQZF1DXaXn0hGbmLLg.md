@@ -4,7 +4,7 @@
 
 > Women at full volume! Luister naar muziek van vrouwen uit Nederland\. Cover: Candy Dulfer
 
-574 songs - 1 day 6 hr 20 min - [published](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
+575 songs - 1 day 6 hr 23 min - [published](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,8 @@
 | [The Freedom](https://open.spotify.com/track/6CSEQC4vPhq527MSTBtfyu) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [The Freedom](https://open.spotify.com/album/4JaIIWp96F9Np3iyYdwPVV) | 3:20 | 2022-07-05 | 2022-08-03 |
 | [The Great Hope Design](https://open.spotify.com/track/6D2whKQXHFzQtqPa5BXwPP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Great Hope Design](https://open.spotify.com/album/02KjMI6Z4XAJALVX9XjcEM) | 5:20 | 2021-12-07 | 2022-02-02 |
 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 | 2022-10-04 |  |
-| [The Parthenon](https://open.spotify.com/track/71QAB1MAIamJJQ8sbhuWQs) | [Démira](https://open.spotify.com/artist/4B1ssiFP51RpaddeGx25Z2) | [The Parthenon](https://open.spotify.com/album/1gqV97RIfZxSZEv0RzzHrC) | 2:46 | 2022-10-04 |  |
+| [The Parthenon](https://open.spotify.com/track/71QAB1MAIamJJQ8sbhuWQs) | [Démira](https://open.spotify.com/artist/4B1ssiFP51RpaddeGx25Z2) | [The Parthenon](https://open.spotify.com/album/1gqV97RIfZxSZEv0RzzHrC) | 2:46 | 2022-10-04 | 2022-10-19 |
+| [The Parthenon](https://open.spotify.com/track/72JFDTNlr71cXHJGhw4HeE) | [Démira](https://open.spotify.com/artist/4B1ssiFP51RpaddeGx25Z2) | [The Parthenon](https://open.spotify.com/album/1BVfEtWVfHBWBpu7vAGgDr) | 2:46 | 2022-10-04 |  |
 | [The Puppet](https://open.spotify.com/track/7naZ7ZEhzqvBjvte3J15aw) | [CHELS](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [The Puppet](https://open.spotify.com/album/5iTusNNEq8cTdJeWktMfdO) | 2:42 | 2022-06-01 | 2022-07-06 |
 | [The Room](https://open.spotify.com/track/07U0FinW8EoiM4IU8SfdNS) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [The Room](https://open.spotify.com/album/7Lc8y1N0fhcYHWQbBimu3Z) | 4:04 | 2022-09-06 | 2022-10-05 |
 | [The Train Goes On](https://open.spotify.com/track/4hUztRKSRauz77me4N3ITG) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [The Train Goes On](https://open.spotify.com/album/6TAdNxsM1wfuIv3ZhYluB2) | 3:15 | 2022-05-03 | 2022-06-01 |

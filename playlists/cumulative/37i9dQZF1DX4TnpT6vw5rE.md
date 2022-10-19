@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-202 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+203 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Blank Pages](https://open.spotify.com/track/47D774OTQbbGPU6fTMTgya) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [A Chorus of Storytellers](https://open.spotify.com/album/6WmTiX3fSgwC6QO1QScVD4) | 4:28 | 2020-12-08\* | 2022-07-29 |
 | [Blank Pages](https://open.spotify.com/track/5zLE545sY8nt7FCJ0LGyaB) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [A Chorus of Storytellers](https://open.spotify.com/album/6Za8Vrxs3hH4ZJyIRuRDmP) | 4:28 | 2022-07-22 |  |
 | [Blue Filter](https://open.spotify.com/track/7nL0EvBm9jMo1CqMRuSTth) | [Delia Derbyshire Appreciation Society](https://open.spotify.com/artist/7tftZY77A5wi6W5wngbBxu) | [Blue Filter](https://open.spotify.com/album/4LYOHA2LHBYfYxIvxpM65U) | 4:52 | 2021-01-15 | 2021-03-06 |
-| [Bordeaux Moon](https://open.spotify.com/track/09JbJj21UNrdtkj9G3j625) | [Julie G.](https://open.spotify.com/artist/1VG91IxmTFXz0RCvxb0K4t) | [Bordeaux Moon](https://open.spotify.com/album/2UYphakqsLg8j9EBBpLSNd) | 2:56 | 2022-05-19 |  |
+| [Bordeaux Moon](https://open.spotify.com/track/09JbJj21UNrdtkj9G3j625) | [Julie G.](https://open.spotify.com/artist/1VG91IxmTFXz0RCvxb0K4t) | [Bordeaux Moon](https://open.spotify.com/album/2UYphakqsLg8j9EBBpLSNd) | 2:56 | 2022-05-19 | 2022-10-19 |
 | [Breathing Space](https://open.spotify.com/track/1jSZD1nuMd0N1UBDwXzj1r) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/4vNAJb2kHQGi8hpYHhAvmG) | 2:33 | 2022-09-30 |  |
 | [Bridges](https://open.spotify.com/track/5GiEgcvmqbD1WgHzICDvOb) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Bridges](https://open.spotify.com/album/1iMu7CCrDIfXnQggRXNLq9) | 3:41 | 2021-01-15 | 2021-03-18 |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2020-12-08\* |  |
@@ -201,6 +201,7 @@
 | [They Disappear Into the Palms](https://open.spotify.com/track/3BCqIl5vYtb8u4QP79JtPo) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/3NbUs1wOPsgXo3gvP8bp1D) | 6:33 | 2020-12-08\* | 2022-05-20 |
 | [Tikslingas](https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Tikslingas](https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm) | 3:31 | 2022-05-19 |  |
 | [Tired Eyes](https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 4:12 | 2020-12-08\* |  |
+| [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 |  |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |

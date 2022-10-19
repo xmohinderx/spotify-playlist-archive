@@ -759,10 +759,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 255482,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc"
+    },
+    {
+      "album": {
+        "name": "Fingertips",
+        "url": "https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ"
+      },
+      "artists": [
+        {
+          "name": "Leo Kalyan",
+          "url": "https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255482,
+      "name": "Fingertips",
+      "url": "https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG"
     },
     {
       "album": {

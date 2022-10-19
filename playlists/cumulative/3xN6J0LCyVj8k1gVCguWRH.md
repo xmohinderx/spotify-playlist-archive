@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,753 songs - 4 day 5 hr 34 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,754 songs - 4 day 5 hr 36 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,6 +911,7 @@
 | [lisbon](https://open.spotify.com/track/11k6KI3GkFqnKNb28FtMK5) | [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [lisbon](https://open.spotify.com/album/40zvOaFgK6LjgeRZ5BUyxD) | 2:45 | 2021-05-14 | 2021-05-30 |
 | [Little Ol' Me](https://open.spotify.com/track/7HlrkOKdmC5QbY5SW6STm6) | [Qwiet Type](https://open.spotify.com/artist/32ikcN3vYKoOPBK3pJi69D) | [Little Ol' Me](https://open.spotify.com/album/2645Kw19YklOgfyU9k26d8) | 4:19 | 2020-05-02 | 2020-05-24 |
 | [Little Parthenon](https://open.spotify.com/track/7e2tuiHar8cPv2gCjpTvhK) | [tiny.blips](https://open.spotify.com/artist/0QBE7DMBwjlMoEjnF1OhEI) | [Humans\-Housecats\-History](https://open.spotify.com/album/1br8ZCHefztezqIKns3rXd) | 3:15 | 2020-04-16 | 2020-04-25 |
+| [Living For](https://open.spotify.com/track/03LB8fHbPRvl4MygY4bHcZ) | [Ethan Mark](https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Living For](https://open.spotify.com/album/4AkYY2aJTl2PzydT86Nmmo) | 2:26 | 2022-10-18 |  |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2020-07-13 |  |
 | [LoFi Signs](https://open.spotify.com/track/1441fYBb0HUmE1LFOhhLep) | [Intergalactic C](https://open.spotify.com/artist/2qqvQRHFMPXZas3dFoMOm1) | [LoFi Signs](https://open.spotify.com/album/6PsHVBShnYyG1vHuWugquE) | 2:21 | 2021-11-05 | 2021-11-21 |
 | [Lola](https://open.spotify.com/track/5TOYmS7wtW9O3aV0yhYXMG) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Lola](https://open.spotify.com/album/3tqBxgBhFDmWVFTmzw3k2z) | 3:36 | 2021-09-10 | 2021-09-26 |

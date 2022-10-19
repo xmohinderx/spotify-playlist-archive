@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,136 likes - 106 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,435 likes - 106 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 29 | [Flame of Hope](https://open.spotify.com/track/2LRj7dos9qXcoMSJZ7E9xy) | [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98), [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Soundtrack\)](https://open.spotify.com/album/74coE6457t07plLwF26Bmo) | 3:51 |
 | 30 | [Super Mario Bros: Theme](https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 4:12 |
 | 31 | [Start a Cult](https://open.spotify.com/track/1ISexq6FLytZxcEqvn7LOk) | [River Boy](https://open.spotify.com/artist/0jyJkJaH4nFWPopjeIYRlA) | [Cult of the Lamb \(Original Soundtrack\)](https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE) | 4:59 |
-| 32 | [A Plague Tale Requiem](https://open.spotify.com/track/6QTIrIYGPNDpbcV961TJS1) | [Olivier Deriviere](https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR), [Eric Maria Couturier](https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a) | [A Plague Tale: Requiem \(Original Soundtrack\)](https://open.spotify.com/album/7h4CSV1MgXOf5XKntD3Ivj) | 3:59 |
+| 32 | [A Plague Tale Requiem](https://open.spotify.com/track/7gsabNOGAMEaJyusi5pUt3) | [Olivier Deriviere](https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR), [Eric Maria Couturier](https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a) | [A Plague Tale: Requiem \(Original Soundtrack\)](https://open.spotify.com/album/5Yzbew7AnCrYDAD0fPkT3T) | 4:00 |
 | 33 | [Have a Short Rest](https://open.spotify.com/track/6ebNn9bRWksrrrWotc6xcV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:11 |
 | 34 | [Promise of the West \(feat\. Julie Elven\)](https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP) | [Joris de Man](https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\)](https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC) | 2:55 |
 | 35 | [Super Mario Galaxy: Gusty Garden Galaxy](https://open.spotify.com/track/05XPxcgHp4I4CFlOhMnskS) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Mahito Yokota](https://open.spotify.com/artist/3s9zTij1nIF3KY1G6BG1WZ), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 3:49 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 105 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 106 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MTY2MjcxOTQ1NywwMDAwMDAwMGQzMzRmNGZkZmRjNjQ2ZTdiNjY3NTNmNzhmYmFlOTM2`
+Snapshot ID: `MTY2MjcxOTQ1NywwMDAwMDAwMGQ3YzkyYzY3YjA2ODg2ZDg0OWQyNDYyMWFlMWE2ODg4`

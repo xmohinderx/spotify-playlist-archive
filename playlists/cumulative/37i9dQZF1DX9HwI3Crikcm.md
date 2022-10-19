@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-120 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+121 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Hardiman The Fiddler](https://open.spotify.com/track/0JJZfZebDAcmBT7Y1kcBtx) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [John McSherry](https://open.spotify.com/artist/5nEfrmSzTJTnPKfiWTzqF8), [Dónal O'Connor](https://open.spotify.com/artist/5fjdwdGpdnXaAYGO6QT2Us) | [Six Days In Down](https://open.spotify.com/album/5LYPfErCKg391pigcjdI5P) | 3:53 | 2020-11-11 | 2022-07-29 |
 | [Hardiman The Fiddler](https://open.spotify.com/track/2OAVXyAahuRTwTs1zzHh9p) | [Bob Brozman, John McSherry & Dónal O’Connor](https://open.spotify.com/artist/5wVFg1a2Ijgy6BZH3DnjQE) | [Six Days In Down](https://open.spotify.com/album/3rUkCKi7QubHYkrdhSzCjF) | 3:53 | 2020-11-11 |  |
 | [Humors of Tullycrine](https://open.spotify.com/track/1ft8QzgCSuOfMOIP6FwMtK) | [Andrew Finn Magill](https://open.spotify.com/artist/4HaU3dFoJU4SRH01OClXep) | [Drive & Lift](https://open.spotify.com/album/6nOhv6JrGW9IQDTgXjGAtX) | 4:12 | 2020-11-11 |  |
-| [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/17XDKfATaLDVs28Wh9Ry5J) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s) | 4:29 | 2020-11-11 |  |
+| [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/17XDKfATaLDVs28Wh9Ry5J) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s) | 4:29 | 2020-11-11 | 2022-10-19 |
+| [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/2RwshonNEkw7d1GyTpMMAU) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:29 | 2020-11-11 |  |
 | [Keepin’ It Reel](https://open.spotify.com/track/4saoSRB0NHOx75TIlVh5zM) | [Boxing Banjo](https://open.spotify.com/artist/0UclL9i5HhARJ2LEPQegjv) | [Round \#1](https://open.spotify.com/album/5DvLneZVpsTdkA6ZrVxQ1g) | 3:39 | 2020-11-11 |  |
 | [Kilfenora Reels: Connemara Stocking \- The Westmeath Hunt \- A Fair Wind](https://open.spotify.com/track/7BCAaDDuesyBhgQwKpJmnN) | [Kilfenora Fiddle Ceili Band](https://open.spotify.com/artist/008wJbpZnkHRPcykr2hUye) | [Irish Traditional Fiddle Music \- Reels and Jigs](https://open.spotify.com/album/6uI2reVtNsqZitFIiQ8r4e) | 2:51 | 2020-11-11 |  |
 | [Kilfenora Reels: Connemara Stocking \- The Westmeath Hunt \- A Fair Wind](https://open.spotify.com/track/0760mgHmuy6RoYgEYgEaki) | [Kilfenora Fiddle Ceili Band](https://open.spotify.com/artist/008wJbpZnkHRPcykr2hUye) | [Irish Traditional Fiddle Music \(Digitally Remastered\)](https://open.spotify.com/album/7rQX0gyAWCCgLxW98U1C2p) | 2:51 | 2020-11-11 | 2022-09-15 |

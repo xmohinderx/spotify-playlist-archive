@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-342 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+344 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Oye](https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Juan and Nelson Records \- 20 Exitos](https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw) | 4:23 | 2021-02-02 |  |
 | [Oye Abre Tus Ojos](https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z) | [July Mateo Rasputin](https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi) | [Exitos](https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa) | 4:25 | 2021-02-02 |  |
 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 | 2021-02-02 |  |
-| [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 | 2021-02-02 |  |
+| [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 | 2021-02-02 | 2022-10-19 |
 | [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 | 2021-02-02 | 2022-07-24 |
 | [Penelope](https://open.spotify.com/track/1rQKgkbKDR7boRA0aPXQGI) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Merengue Salvaje](https://open.spotify.com/album/1BeAOinmiOj7uvjEZp7oCA) | 4:26 | 2021-02-02 | 2022-07-29 |
 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 | 2021-02-02 |  |
@@ -328,6 +328,7 @@
 | [Tus Besos Son](https://open.spotify.com/track/77efkShul1aVJMJWGgtB5l) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengon](https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka) | 4:55 | 2021-02-02 | 2022-10-16 |
 | [Un Beso y una Flor](https://open.spotify.com/track/3SnAxVKTCE6oLiXIDqEpUd) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/5pybY0Fv6TnJCi7Ds6roxv) | 4:34 | 2021-02-02 | 2022-08-19 |
 | [Un Beso y una Flor](https://open.spotify.com/track/4J37M8rQDcdlX0AZiouwsH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/5YJwnCFLA9JcfyBDIuZo78) | 4:34 | 2021-02-02 | 2022-07-29 |
+| [Un Beso y una Flor](https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh) | 4:34 | 2021-02-02 |  |
 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 | 2021-02-02 |  |
 | [Un Sobrinito de Champagne](https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [Caricias](https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig) | 3:34 | 2021-02-02 |  |
 | [Una Fotografia](https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:07 | 2021-02-02 |  |
@@ -345,7 +346,8 @@
 | [Ya Viene el Lunes](https://open.spotify.com/track/6BUuusRTBZcjTR3mGIo3jX) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb) | 4:50 | 2021-02-02 | 2022-10-16 |
 | [Yo Me Muero Por Ti](https://open.spotify.com/track/1soZPkNYncKsVnSk18OGTP) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 6:32 | 2021-02-02 |  |
 | [Yo Me Muero Por Ti](https://open.spotify.com/track/6XHfqd0Vlqi4Bq99mvRLj0) | [Antony Santos](https://open.spotify.com/artist/7pn6a27dluoURxDkdvxqqJ) | [Lo Nuevo Y Lo Mejor](https://open.spotify.com/album/1rLceOEfHHr0t1NMPim27r) | 6:32 | 2021-02-02 | 2022-07-29 |
-| [Yo me siento enamorao](https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [Merengues Clasicos Vol 2](https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh) | 6:15 | 2021-02-02 |  |
+| [Yo me siento enamorao](https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [Merengues Clasicos Vol 2](https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh) | 6:15 | 2021-02-02 | 2022-10-19 |
+| [Yo me siento enamorao](https://open.spotify.com/track/59nZA82434bNwjeDcqO7UE) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [30 Merengues Clasicos Pal' Pueblo](https://open.spotify.com/album/6NPXa6NKhHQRw4bMbBaqwQ) | 6:15 | 2021-02-02 |  |
 | [Yo Que Te Amé / Cuánta Vida / Todo Aquello / Tú Vacilándome](https://open.spotify.com/track/1LduVfHrZmcdf8e1jdptGN) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:05 | 2021-02-02 | 2022-07-29 |
 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 | 2021-02-02 |  |
 | [¡Ay Doctor!](https://open.spotify.com/track/0WiXmhgxvudybPq4htELpo) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Arrasando Con Todo ¡Ay Doctor!](https://open.spotify.com/album/5938ac4vSf3QB2rJpWTAbi) | 5:04 | 2021-02-02 |  |

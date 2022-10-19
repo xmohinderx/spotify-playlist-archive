@@ -307,10 +307,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 205911,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/4nNc2bR3D0wKjQTOPVkWLs"
+    },
+    {
+      "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/1jitYySWCcbp56AMJTkosi"
+      },
+      "artists": [
+        {
+          "name": "Harry Pane",
+          "url": "https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205911,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/666DrrZIVtsiU4s6rJTWJv"
     },
     {
       "album": {

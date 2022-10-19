@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-414 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+415 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Coma Pedrosa](https://open.spotify.com/track/51cywj6ZBciJT6xKDm9wyV) | [Victor Alvida](https://open.spotify.com/artist/6Fw6K0ReXC3BS6IrmJU96R) | [Coma Pedrosa](https://open.spotify.com/album/0Eo35G5FqMSC4T1hKVnLw4) | 2:18 | 2021-12-08 |  |
 | [Come Fly With Me Honey](https://open.spotify.com/track/7HN2vETJEPbxhw30y995xC) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Come Fly With Me Honey](https://open.spotify.com/album/6XnJ5XN93ZvJa9JVBWScQo) | 1:50 | 2021-12-08 | 2022-05-11 |
 | [Come Join Me For A Coffee](https://open.spotify.com/track/6VnnTqt2OpuS0UtAJnBPcU) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Come Join Me For A Coffee](https://open.spotify.com/album/4nGG1PsFoQrDM1qR5x0md4) | 3:04 | 2021-12-08 |  |
-| [Coming Home](https://open.spotify.com/track/1C10dgyOH6ncDOVuRL6F7Y) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [Coming Home](https://open.spotify.com/album/5BfiGHQQ3hHhwFhAOfERDi) | 3:10 | 2022-10-07 |  |
+| [Coming Home](https://open.spotify.com/track/1C10dgyOH6ncDOVuRL6F7Y) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [Coming Home](https://open.spotify.com/album/5BfiGHQQ3hHhwFhAOfERDi) | 3:10 | 2022-10-07 | 2022-10-19 |
+| [Coming Home](https://open.spotify.com/track/1kkmwiOPQhmqpJZblOk9F5) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [Coming Home](https://open.spotify.com/album/6oRenHQmo5VcWhM1rKkyTg) | 3:10 | 2022-10-07 |  |
 | [Confessions](https://open.spotify.com/track/2UhHY0tfFfAgwbI866sgP0) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Confessions](https://open.spotify.com/album/1velmJwil1Ej3htk0jGYFY) | 2:30 | 2021-12-08 |  |
 | [Consuelo](https://open.spotify.com/track/7sLspn56JPVQPEaEcXEK7l) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Whitestone](https://open.spotify.com/album/27s31ruaJOf6k92c8OrVhJ) | 2:41 | 2021-12-08 | 2022-07-01 |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-08 | 2022-07-08 |

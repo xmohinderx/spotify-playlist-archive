@@ -545,7 +545,7 @@
     {
       "album": {
         "name": "Haunted",
-        "url": "https://open.spotify.com/album/6uhLsknKMOchHqHCafBavV"
+        "url": "https://open.spotify.com/album/2ES6I1Sdy9a71eKqipZogB"
       },
       "artists": [
         {
@@ -556,6 +556,24 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215654,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/3Srd38wfxJNDIt0Tdf99IB"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/6uhLsknKMOchHqHCafBavV"
+      },
+      "artists": [
+        {
+          "name": "Jafaris",
+          "url": "https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 215654,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/7k9fKtMD2CW2C6MW9nNFGz"
