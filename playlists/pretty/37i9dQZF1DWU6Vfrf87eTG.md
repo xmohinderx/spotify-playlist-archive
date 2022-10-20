@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,962 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,942 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 23 | [The Beekeeper](https://open.spotify.com/track/1yel3umsN1EwEH1w5Qvugb) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/7vDrf98OtFN8yvlHy7wZPU) | 2:09 |
 | 24 | [Cedarsmoke](https://open.spotify.com/track/6xBv2Rlq9DiYeTBFno0uR5) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:34 |
 | 25 | [I Can't Tell My Secret Weapon](https://open.spotify.com/track/6NiCAvbTwwW305zhHBfS6d) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b) | [Apollo EP](https://open.spotify.com/album/2MyL8boDt6oLbNwko8poPQ) | 2:33 |
-| 26 | [Fletcher Bay \- Instrumental](https://open.spotify.com/track/2JBCRQHglccEoLT1xvwLoM) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Fletcher Bay \(Instrumental\)](https://open.spotify.com/album/3iZ5ZgRmXpzGjwF7yFYuxT) | 3:10 |
+| 26 | [Fletcher Bay \- Instrumental](https://open.spotify.com/track/3kUOsO1qheGfcB89fcJg5H) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Fletcher Bay \(Instrumental\)](https://open.spotify.com/album/3uiVaDMttn1gROtd3Ecdjc) | 3:10 |
 | 27 | [Chime](https://open.spotify.com/track/3Zb3SXZdtyNA0Cdq0DWLeC) | [Alan Gogoll](https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3) | [Blossom](https://open.spotify.com/album/4W5l6rj26ZDwvyzdKTVq6T) | 1:46 |
 | 28 | [Instrumental](https://open.spotify.com/track/1ljkJS3Fl6VgHcUgJ5i4B3) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy) | 2:57 |
 | 29 | [Intro](https://open.spotify.com/track/2tJ5nxeNIFTNGSqyFvG8Ov) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 2:20 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 114 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 115 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMGUzYzE4YTU4MmEyMDliYzgzNjhjZDRhOWM2MzdiYzgz`
+Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMDFmYWVhM2MyNmFjYWE3NmNmZjAwNjY4MmRhZThmMDM0`

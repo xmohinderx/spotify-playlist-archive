@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-760 songs - 2 day 6 hr 31 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+761 songs - 2 day 6 hr 37 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Claudi](https://open.spotify.com/track/0UP6iahCqN841jwU87Ag3Z) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5P6H4kEva65eEr6pMJEqoJ) | 2:54 | 2019-06-19\* | 2022-04-16 |
 | [Claudi](https://open.spotify.com/track/5oVbaTDGaCgaaVYk2jHUdy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 2:54 | 2022-07-01 |  |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 |  |
-| [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 | 2021-01-11 |  |
+| [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 | 2021-01-11 | 2022-10-20 |
 | [Cloudy](https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cloudy](https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW) | 6:51 | 2022-07-01 |  |
 | [Club der Ewigkeiten](https://open.spotify.com/track/2ywFTaCXKedBFlYA0XcHJM) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:09 | 2019-06-19\* | 2022-04-13 |
 | [Common Ground](https://open.spotify.com/track/2QsMIusYv7LSVnFVPbe7Bd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:52 | 2019-07-25 | 2020-10-21 |
@@ -762,6 +762,7 @@
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-04-24 |  |
 | [With Every Intention Of](https://open.spotify.com/track/5v8U5p1tozSYYVCWuiKTVU) | [Matt Lange](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9) | [Ephemera](https://open.spotify.com/album/5RO33soLTH62sQM38L3RxV) | 1:53 | 2019-06-21 | 2022-04-09 |
 | [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-09 | 2022-10-16 |
+| [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 | 2022-09-09 |  |
 | [XX Intro \- Original Mix](https://open.spotify.com/track/6PBjqYBDA09CG7WJm4sXKF) | [Kate Simko](https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb), [London Electronic Orchestra](https://open.spotify.com/artist/7K8x3XADxtiWL6hTiR2inf) | [Kate Simko & London Electronic Orchestra](https://open.spotify.com/album/4BIN17Mw2Bh1fbvQ5Egsii) | 3:07 | 2019-05-26\* |  |
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 | 2022-04-21 |

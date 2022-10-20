@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-89 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
+90 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-07-14 |  |
 | [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-05-13 |  |
 | [Meditations Third Eye Chakra](https://open.spotify.com/track/1TUifxkD9ZLVQupgC941Qm) | [Galena](https://open.spotify.com/artist/4GAMegno5DQ6gPus0t890O) | [Meditation Calming Moments](https://open.spotify.com/album/4osfgjir0tiXmUy3kFLwHT) | 2:00 | 2022-05-13 |  |
-| [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/track/6h2qQOW2ea12UCbU7IXxOK) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G) | [Música para Meditação](https://open.spotify.com/album/2Fw27HBf4XBVIah908hWKn) | 6:33 | 2022-05-13 |  |
+| [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/track/6h2qQOW2ea12UCbU7IXxOK) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G) | [Música para Meditação](https://open.spotify.com/album/2Fw27HBf4XBVIah908hWKn) | 6:33 | 2022-05-13 | 2022-10-20 |
+| [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/track/38PJrKQkMqv3I8pTvU3wcX) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/album/38KqNWCEiCcw6xdzuXhZXZ) | 6:33 | 2022-09-30 |  |
 | [Memory Ocean](https://open.spotify.com/track/4BGxF3vzN2eQ3EMz4ApThm) | [William Joe Ware](https://open.spotify.com/artist/4sdgGI2VBvg1l0APfrbhHm) | [Memory Ocean](https://open.spotify.com/album/19F44nYOaQGepqwD9QsJXa) | 4:32 | 2022-05-13 |  |
 | [midnight dreams](https://open.spotify.com/track/3mMpTuuVK1oHRLNubuRE74) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L) | [midnight dreams](https://open.spotify.com/album/5XPj4Ksx8v4EmP1P54JOMU) | 2:19 | 2022-05-13 |  |
 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-06 |  |

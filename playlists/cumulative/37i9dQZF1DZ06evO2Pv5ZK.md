@@ -4,7 +4,7 @@
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-72 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/1N71Cx7P9MRuN9QmoKGuDH)
+73 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/1N71Cx7P9MRuN9QmoKGuDH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Rachel's Song](https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:48 | 2022-05-29 |  |
 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 | 2022-05-29 |  |
 | [Rêve \- Remastered](https://open.spotify.com/track/6a9zPEoKGFMjRQeQIJ8h83) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 12:31 | 2022-05-29 |  |
+| [Shine for Me](https://open.spotify.com/track/7Cx1u0F7b34tA8AIReKTLc) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 4:10 | 2022-10-19 |  |
 | [Siren's Whispering](https://open.spotify.com/track/24auEWHk5IjqjrWdxGKbTi) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:59 | 2022-07-11 | 2022-10-11 |
 | [So Long Ago, So Clear](https://open.spotify.com/track/7ggqsWse5ByOm5ps5kAP2j) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The Best Of...](https://open.spotify.com/album/7y45PMMVyz4EGcfck4gyY7) | 5:04 | 2022-07-18 | 2022-09-12 |
 | [Songs of the Seas](https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:12 | 2022-05-29 |  |
@@ -70,7 +71,7 @@
 | [The Tao Of Love](https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 2:44 | 2022-05-29 |  |
 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 | 2022-05-29 |  |
 | [Theme from Bitter Moon](https://open.spotify.com/track/7q8F4jINepenPiTCbGW63P) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The Collection](https://open.spotify.com/album/5UjF6DcW7W8Y7QKvImS5Bn) | 3:37 | 2022-05-29 |  |
-| [Theme from the TV Series "Cosmos" \(Heaven and Hell, 3rd Movement\)](https://open.spotify.com/track/4CZv4bLziFAXyyMZzQmv2s) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 4:02 | 2022-05-29 |  |
+| [Theme from the TV Series "Cosmos" \(Heaven and Hell, 3rd Movement\)](https://open.spotify.com/track/4CZv4bLziFAXyyMZzQmv2s) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 4:02 | 2022-05-29 | 2022-10-20 |
 | [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 | 2022-05-29 |  |
 | [Titans](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 | 2022-05-29 |  |
 | [Titles](https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:33 | 2022-05-29 |  |

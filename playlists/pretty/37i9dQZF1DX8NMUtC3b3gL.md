@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,131 likes - 167 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,158 likes - 167 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 64 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Hale Ztrike](https://open.spotify.com/artist/4D0c2cETxMrps8sKgzKQVH) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 |
 | 65 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [CLOCC](https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |
 | 66 | [Mirage](https://open.spotify.com/track/6WhmXYh77rfG5KieYfx5ad) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Mirage](https://open.spotify.com/album/1YxkNRrF5w5WQJyMURd69z) | 2:34 |
-| 67 | [A Life of Joy](https://open.spotify.com/track/7J7t21e5SpLxm1yYJZeeZF) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/3ub5GRV9cYvsOhsSC3c3dS) | 3:15 |
+| 67 | [A Life of Joy](https://open.spotify.com/track/1dYGpcPwL6p2wrkq3mxDPm) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/5DnA5FG3EQKFuVIcqqxtO9) | 3:15 |
 | 68 | [Rainforest](https://open.spotify.com/track/0wViERMhIIaHnCmUhjF19E) | [Yowshi](https://open.spotify.com/artist/1XcacEm8FbUXnZUPObrmtC) | [Rainforest](https://open.spotify.com/album/3ZkEztfd8qSKrqFt4SfiqW) | 1:35 |
 | 69 | [Starlust](https://open.spotify.com/track/5XijzlJUxXVwKmMo2BoGDm) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [Starlust](https://open.spotify.com/album/3yO7pZzyGo8vuanWHaYCp4) | 2:45 |
 | 70 | [Paradise Landing](https://open.spotify.com/track/4PY8Na1UYtnMhZun7MEGxa) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 3:17 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 166 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 167 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMDg3YTk5MWFjZjQ1NjkyY2E0YjU0YzVjMjlkMWY0MDg4`
+Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGI5YmFhYjA2YmY3YWI2YTE1MjhmNTRlNDljODdkMzVm`

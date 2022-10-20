@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,755 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,984 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 | 50 | [Hey](https://open.spotify.com/track/566Bj9QEqM6BNniao5yxBY) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Just Breathe](https://open.spotify.com/album/3cGOpNJyVX3PqfsITZ6oop) | 3:01 |
 | 51 | [Mykonos](https://open.spotify.com/track/3gr7VZfyZfqSYpzL9Hh9A8) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr), [Daniel Rondon](https://open.spotify.com/artist/2baItk3bvmwJY76tgZXFJn) | [Mykonos](https://open.spotify.com/album/3h9aPhiGcr8sy7oPvRiCBE) | 2:38 |
 | 52 | [Someday](https://open.spotify.com/track/0I2um2eFFbCc1QJyq8Vw66) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Someday](https://open.spotify.com/album/4uv7vweE8jQ1Lp65ydx4S8) | 3:45 |
-| 53 | [Bye Bye](https://open.spotify.com/track/7cyCAzwZMoYT9UXmqXD9fX) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [Adamé](https://open.spotify.com/artist/485SMLeR1zuGG2UYkmKfbv) | [Bye Bye](https://open.spotify.com/album/4Y77YfyEzIi9TgVMN62xQP) | 2:41 |
+| 53 | [Bye Bye](https://open.spotify.com/track/7cyCAzwZMoYT9UXmqXD9fX) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Bye Bye](https://open.spotify.com/album/4Y77YfyEzIi9TgVMN62xQP) | 2:41 |
 | 54 | [Ghost](https://open.spotify.com/track/21XjJd4lFO8p4a4te8WZ5n) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Just Breathe](https://open.spotify.com/album/3cGOpNJyVX3PqfsITZ6oop) | 2:45 |
 | 55 | [Closer](https://open.spotify.com/track/3g5RS4IaP3zkOJxHdY7QeB) | [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c) | [Closer](https://open.spotify.com/album/3QAkCXs79dburK8tkivQ42) | 2:30 |
 | 56 | [Trouble Maker](https://open.spotify.com/track/0HkwR89jBwgrwrzg6TbfCw) | [Marien](https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk) | [Trouble Maker](https://open.spotify.com/album/69Hs869oAKVsJyGn5TUwFI) | 2:31 |

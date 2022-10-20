@@ -1,13 +1,185 @@
 {
-  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Unnati Shah, Artwork: Isu Kim",
-  "num_followers": 35969,
+  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Madmast, Artwork: Isu Kim",
+  "num_followers": 35993,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU2NDU3NiwwMDAwMDAwMDQ2ZGExODE0ZWViNTlmNGU4MmNlMGYzODE4ZGQzNGRk",
+  "snapshot_id": "MTY2NjE3ODEyMywwMDAwMDAwMGRjOTVmMTA0ZGE3OTFkYTQ3MmMyNGY3NjVhNmYzMDEw",
   "tracks": [
+    {
+      "added_at": "2022-10-19 07:12:39",
+      "album": {
+        "name": "Gumshuda Ki Talaash",
+        "url": "https://open.spotify.com/album/3W6OaxRNKgmqkpb9rSoayR"
+      },
+      "artists": [
+        {
+          "name": "Madmast",
+          "url": "https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY"
+        },
+        {
+          "name": "Vaibhav Sharma",
+          "url": "https://open.spotify.com/artist/0NodMMnhAa0idBBJjEahzT"
+        },
+        {
+          "name": "Keshav Parthasarathy",
+          "url": "https://open.spotify.com/artist/5GSfTNyns154BhSLwWluNY"
+        },
+        {
+          "name": "Anish Nair",
+          "url": "https://open.spotify.com/artist/1Zh9u9ekjX2taEn6CHdESW"
+        },
+        {
+          "name": "Nishant Nair",
+          "url": "https://open.spotify.com/artist/406kfqBWAtFHKGfKGlKaVl"
+        },
+        {
+          "name": "Saurav Dutta",
+          "url": "https://open.spotify.com/artist/6TXLdm0Yx24l6r7ImLT4jL"
+        }
+      ],
+      "duration_ms": 286535,
+      "name": "Gumshuda ki Talaash",
+      "url": "https://open.spotify.com/track/2sqinCkMH0s95saWmrvQo0"
+    },
+    {
+      "added_at": "2022-10-19 11:15:23",
+      "album": {
+        "name": "Dil Bawra",
+        "url": "https://open.spotify.com/album/7Lpb7YtL2bHU6q6oEacS6f"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Deshmukh",
+          "url": "https://open.spotify.com/artist/3HiO5a3yy7KtslxTJrBLNL"
+        }
+      ],
+      "duration_ms": 290232,
+      "name": "Dil Bawra",
+      "url": "https://open.spotify.com/track/7wqmHuIP2SF5hdPtWrAwso"
+    },
+    {
+      "added_at": "2022-10-19 10:52:06",
+      "album": {
+        "name": "Dil Khuda Tu",
+        "url": "https://open.spotify.com/album/0CClNhVaYM415ArYUq2Y9t"
+      },
+      "artists": [
+        {
+          "name": "Aditya Kalway",
+          "url": "https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Dil Khuda Tu",
+      "url": "https://open.spotify.com/track/39wfLOxVKYy5n8SnScagR9"
+    },
+    {
+      "added_at": "2022-10-19 11:15:23",
+      "album": {
+        "name": "Ho Tum Yahan",
+        "url": "https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu"
+      },
+      "artists": [
+        {
+          "name": "Piyush Bhisekar",
+          "url": "https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "Ho Tum Yahan",
+      "url": "https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH"
+    },
+    {
+      "added_at": "2022-10-19 10:52:06",
+      "album": {
+        "name": "Ek Sham Ho",
+        "url": "https://open.spotify.com/album/15tFBYIsmBJqrbUrHuc5VQ"
+      },
+      "artists": [
+        {
+          "name": "Rituraj Dutta",
+          "url": "https://open.spotify.com/artist/7mV7QXk1nSEW3HBslpiUtS"
+        },
+        {
+          "name": "Kalyani Bora",
+          "url": "https://open.spotify.com/artist/20IPIOTO6CJzLqWzEpP3Rl"
+        },
+        {
+          "name": "Sudarsan Bordoloi",
+          "url": "https://open.spotify.com/artist/3pn9WkjcRjC7MZiHl0eLFZ"
+        }
+      ],
+      "duration_ms": 213919,
+      "name": "Ek Sham Ho",
+      "url": "https://open.spotify.com/track/2DzoRZA13Mg7qTn6uAIQU9"
+    },
+    {
+      "added_at": "2022-10-19 10:52:06",
+      "album": {
+        "name": "Khoobi",
+        "url": "https://open.spotify.com/album/1ICJkkMQwTMKeGDwUV2ext"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "duration_ms": 174838,
+      "name": "Khoobi",
+      "url": "https://open.spotify.com/track/2qA6DtqFCyeIEAdSI2hGWu"
+    },
+    {
+      "added_at": "2022-10-19 10:52:06",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/1QNOrOkm65FWtqBXlLhnF2"
+      },
+      "artists": [
+        {
+          "name": "Arham Fulfagar",
+          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+        }
+      ],
+      "duration_ms": 173755,
+      "name": "September",
+      "url": "https://open.spotify.com/track/21s2lKn0n7iFDGtawSMlKR"
+    },
+    {
+      "added_at": "2022-10-19 07:12:39",
+      "album": {
+        "name": "I Just Wish That",
+        "url": "https://open.spotify.com/album/4knc7szD7YKinOCTiFn4uM"
+      },
+      "artists": [
+        {
+          "name": "Aary",
+          "url": "https://open.spotify.com/artist/2wo8VCzhPjs1ofWeIQ7fkM"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "I Just Wish That",
+      "url": "https://open.spotify.com/track/5IJG4G9UTdHxkiY1GyM0KS"
+    },
+    {
+      "added_at": "2022-10-19 11:15:23",
+      "album": {
+        "name": "Same, Familiar",
+        "url": "https://open.spotify.com/album/2yvuoIAE3pzQMFxUulTUbe"
+      },
+      "artists": [
+        {
+          "name": "Krameri",
+          "url": "https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Same, Familiar",
+      "url": "https://open.spotify.com/track/3cspFnyhbCVmwcCNoRVqBb"
+    },
     {
       "added_at": "2022-10-12 08:49:36",
       "album": {
@@ -55,6 +227,30 @@
       "duration_ms": 236800,
       "name": "Tujhse Kyun",
       "url": "https://open.spotify.com/track/1Zr3VZ3LE1vpiVn1qeb1vv"
+    },
+    {
+      "added_at": "2022-10-19 10:52:06",
+      "album": {
+        "name": "Tuhi Meri Bhalobasa",
+        "url": "https://open.spotify.com/album/7mza7vU0awmeeLUoA3IH8U"
+      },
+      "artists": [
+        {
+          "name": "Sayak Ghosal",
+          "url": "https://open.spotify.com/artist/5eOcyjra7QZ3EjVq0fQbK2"
+        },
+        {
+          "name": "Meghna Biswas",
+          "url": "https://open.spotify.com/artist/7lNFK2ggVoq8jpMwHBES2B"
+        },
+        {
+          "name": "Jhonti Chakraborty",
+          "url": "https://open.spotify.com/artist/07aQgurm052E1ftFaNOzRe"
+        }
+      ],
+      "duration_ms": 313450,
+      "name": "Tuhi Meri Bhalobasa",
+      "url": "https://open.spotify.com/track/5ZebnfCMXP7mQsY2khgTwK"
     },
     {
       "added_at": "2022-10-12 08:49:36",
@@ -119,6 +315,22 @@
       "duration_ms": 227666,
       "name": "Jo Tum Ho",
       "url": "https://open.spotify.com/track/2zTyNH7GCD99yqywgZg6rk"
+    },
+    {
+      "added_at": "2022-10-19 11:15:23",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/3YBiYgJe1wACslK6im4eK0"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kundu",
+          "url": "https://open.spotify.com/artist/6oQxFIAXcMq0j30K85JQB1"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/6jKWkpiuvzzMUW8tkH7Be8"
     },
     {
       "added_at": "2022-10-12 08:49:36",
@@ -187,6 +399,22 @@
       "duration_ms": 139354,
       "name": "Tu Hai Toh",
       "url": "https://open.spotify.com/track/3V4qTMmvJE7XUyqTYoZAbn"
+    },
+    {
+      "added_at": "2022-10-19 10:52:06",
+      "album": {
+        "name": "Humnasheen",
+        "url": "https://open.spotify.com/album/5KoHGZvWEd87DiOYBObl89"
+      },
+      "artists": [
+        {
+          "name": "Raahul Jatin",
+          "url": "https://open.spotify.com/artist/5wNjditr9MmYWJe7gDqWyF"
+        }
+      ],
+      "duration_ms": 280250,
+      "name": "Humnasheen",
+      "url": "https://open.spotify.com/track/6tZ4vuMAQBfC7wjuu3lXTY"
     },
     {
       "added_at": "2022-10-12 08:49:36",
@@ -419,22 +647,6 @@
       "duration_ms": 200348,
       "name": "Those Colourful Days",
       "url": "https://open.spotify.com/track/2WU79SGwAELqGqdITcPZeg"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
-        "name": "songs i wrote on the bathroom floor",
-        "url": "https://open.spotify.com/album/4ptzoNurzgzNWDsfNLooIm"
-      },
-      "artists": [
-        {
-          "name": "MEHR",
-          "url": "https://open.spotify.com/artist/5taDTOB63KA2s63VcVMay8"
-        }
-      ],
-      "duration_ms": 270947,
-      "name": "i'll find you",
-      "url": "https://open.spotify.com/track/0D6eLIyn9XjSmZjPa4NN34"
     },
     {
       "added_at": "2022-10-12 08:49:36",
@@ -835,22 +1047,6 @@
     {
       "added_at": "2022-10-12 08:49:36",
       "album": {
-        "name": "Midnite Spaceflite",
-        "url": "https://open.spotify.com/album/0IeEWXCjt42ZgAVRUnPmWn"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rao",
-          "url": "https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa"
-        }
-      ],
-      "duration_ms": 206379,
-      "name": "Midnite Spaceflite",
-      "url": "https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
         "name": "Tu Hi Nahi",
         "url": "https://open.spotify.com/album/0JnFWRJSNmTG8rXQe8KEDW"
       },
@@ -971,22 +1167,6 @@
     {
       "added_at": "2022-10-12 08:49:36",
       "album": {
-        "name": "Trampoline",
-        "url": "https://open.spotify.com/album/3D0q9naAD8yq90FB2iQlx8"
-      },
-      "artists": [
-        {
-          "name": "Kowshik Saha",
-          "url": "https://open.spotify.com/artist/1eZS9tmup5gEujYw3L9CPb"
-        }
-      ],
-      "duration_ms": 226771,
-      "name": "Trampoline",
-      "url": "https://open.spotify.com/track/62wIEo8z0vfdeYihXzrXsm"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
         "name": "Banjare",
         "url": "https://open.spotify.com/album/0YOFWE7BMRkxKqOjYQQ2BS"
       },
@@ -1079,26 +1259,6 @@
       "duration_ms": 274909,
       "name": "Waqt",
       "url": "https://open.spotify.com/track/4d70bpXNyxPFchPzEQU5JW"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
-        "name": "Ae Adaa",
-        "url": "https://open.spotify.com/album/5ae2hs3YDhHgc5ItCpQb5D"
-      },
-      "artists": [
-        {
-          "name": "Athul Prabhu",
-          "url": "https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Ae Adaa",
-      "url": "https://open.spotify.com/track/6YXsutXu14CVluUquXYj3U"
     },
     {
       "added_at": "2022-10-12 08:49:36",
@@ -1363,26 +1523,6 @@
     {
       "added_at": "2022-10-12 08:49:36",
       "album": {
-        "name": "Someone To Rely On",
-        "url": "https://open.spotify.com/album/1TMHobI2cDoQtCzullJbVG"
-      },
-      "artists": [
-        {
-          "name": "Dropped Out",
-          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
-        },
-        {
-          "name": "Ramya Pothuri",
-          "url": "https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6"
-        }
-      ],
-      "duration_ms": 237482,
-      "name": "Someone To Rely On",
-      "url": "https://open.spotify.com/track/3ObhVfAPn5qYx2ZNBvA6nK"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
         "name": "Alfaaz",
         "url": "https://open.spotify.com/album/5OejfuR0RkmzPp1ERTmIfY"
       },
@@ -1447,22 +1587,6 @@
       "duration_ms": 194694,
       "name": "Manzuri",
       "url": "https://open.spotify.com/track/38BX376yUPAKapASXR3NV5"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
-        "name": "Tum Sang",
-        "url": "https://open.spotify.com/album/5iFLWvbvg9JS5xy81LQHMl"
-      },
-      "artists": [
-        {
-          "name": "Gautam Kale",
-          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
-        }
-      ],
-      "duration_ms": 184216,
-      "name": "Tum Sang",
-      "url": "https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl"
     },
     {
       "added_at": "2022-10-12 08:49:36",
@@ -1639,38 +1763,6 @@
     {
       "added_at": "2022-10-12 08:49:36",
       "album": {
-        "name": "Easily",
-        "url": "https://open.spotify.com/album/4FSeQHEuHHlOVzk8VybLgQ"
-      },
-      "artists": [
-        {
-          "name": "Shikhar",
-          "url": "https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9"
-        }
-      ],
-      "duration_ms": 197391,
-      "name": "Easily",
-      "url": "https://open.spotify.com/track/5fdYOozo411bAafTNWX6DN"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
-        "name": "Did You Know",
-        "url": "https://open.spotify.com/album/0cJi8C1F5bIxbZNDGb6RiH"
-      },
-      "artists": [
-        {
-          "name": "KefiNama",
-          "url": "https://open.spotify.com/artist/2U1Dsu0Ybgds4Y6X2ZebO4"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Did You Know",
-      "url": "https://open.spotify.com/track/5z3jl5kdmQF7rJ8OPyRyr6"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
         "name": "Flora's Song",
         "url": "https://open.spotify.com/album/7MlApqUlJmf5PZOEfi2Tf4"
       },
@@ -1715,38 +1807,6 @@
     {
       "added_at": "2022-10-12 08:49:36",
       "album": {
-        "name": "Jhula",
-        "url": "https://open.spotify.com/album/22YInXRNmQlXdCC6MuoQC9"
-      },
-      "artists": [
-        {
-          "name": "Idanim",
-          "url": "https://open.spotify.com/artist/5M0mLRE3vOHJTicVadLilt"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Jhula",
-      "url": "https://open.spotify.com/track/7HagQ0XH1WKPphsAqRGCgP"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
-        "name": "Shaam",
-        "url": "https://open.spotify.com/album/6vd9RQIYymxjF1GumO0LDh"
-      },
-      "artists": [
-        {
-          "name": "Arun Singh",
-          "url": "https://open.spotify.com/artist/1HOTjNgFs3C2XlQLSTG6B4"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Shaam",
-      "url": "https://open.spotify.com/track/4ktaJXIoCnhjODrOwSCPBg"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
         "name": "Darmiyaan",
         "url": "https://open.spotify.com/album/4MKrcoSHAUPWoIzPZl96Qm"
       },
@@ -1759,42 +1819,6 @@
       "duration_ms": 180521,
       "name": "Darmiyaan",
       "url": "https://open.spotify.com/track/4VSyjNoJDhw1gFbajBvCUO"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
-        "name": "Hide",
-        "url": "https://open.spotify.com/album/3s3m2FxVwBQyahIOB0BUsP"
-      },
-      "artists": [
-        {
-          "name": "Anushka",
-          "url": "https://open.spotify.com/artist/2Nnn3hP90YnEYzfMZhSOl6"
-        },
-        {
-          "name": "B\u00f8nehead",
-          "url": "https://open.spotify.com/artist/6f96mKa3JM5EDYrYU3rC2N"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Hide",
-      "url": "https://open.spotify.com/track/0W10TL64os9A2FihL8QV3A"
-    },
-    {
-      "added_at": "2022-10-12 08:49:36",
-      "album": {
-        "name": "Lavinia",
-        "url": "https://open.spotify.com/album/58ukWZd5zrrWi2clQ4PqSI"
-      },
-      "artists": [
-        {
-          "name": "Prabhtoj Singh",
-          "url": "https://open.spotify.com/artist/78XtO5iHFCF6gSqWV18AWA"
-        }
-      ],
-      "duration_ms": 226631,
-      "name": "Lavinia",
-      "url": "https://open.spotify.com/track/1GIGwGjBw5CT3QKK7Ibw6b"
     }
   ],
   "unique_name": "Fresh Finds India",

@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
+85 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Love and Ashes](https://open.spotify.com/track/3ZURg62F2dIG5wTANPatMC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [In Love & Ashes](https://open.spotify.com/album/20KVvmHDZaEBsxMo3ccWYs) | 4:18 | 2021-12-28 | 2022-10-13 |
 | [Love Me, Love Me](https://open.spotify.com/track/2Lf9sq98qQsJA0Z6JiICOO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:16 | 2022-01-17 | 2022-05-23 |
 | [My Love](https://open.spotify.com/track/64VlTvAsakYvPBhaTAsN9V) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 5:33 | 2022-01-22 | 2022-09-09 |
-| [Nfana Ibaga \(No Problem\) \- Remastered Version](https://open.spotify.com/track/7L3sQ9DSqZTmxkxZy7HMxe) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:25 | 2021-12-28 |  |
+| [Nfana Ibaga \(No Problem\) \- Remastered Version](https://open.spotify.com/track/7L3sQ9DSqZTmxkxZy7HMxe) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:25 | 2021-12-28 | 2022-10-20 |
+| [Nfana Ibaga \- No Problem](https://open.spotify.com/track/4K7YdhjGizm9Qp1aNLGnRj) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:26 | 2022-10-19 |  |
 | [No Shakin](https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:31 | 2021-12-28 |  |
 | [Ocho](https://open.spotify.com/track/4SmPs1wEHUaxcM9M1qsNjI) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:19 | 2022-05-25 | 2022-10-06 |
 | [Officially Blind](https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Officially Blind](https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9) | 3:07 | 2021-12-28 |  |

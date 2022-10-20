@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chesca, Villano Antillano & Corina Smith",
-  "num_followers": 507067,
+  "num_followers": 507153,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGQ4NTU3OGUzYjhiYzkzMDJlYzcwMzQwNTc4ZDAwMzA4",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDZkZmQ0YzY3ZTViNzQ4YjViMmEzMTlhZTRmYjI1Y2My",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -875,42 +875,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mi Peor Error",
-        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mi Peor Error",
-      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Avemar\u00eda",
-        "url": "https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Avemar\u00eda",
-      "url": "https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs"
       },
@@ -935,6 +899,42 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Avemar\u00eda",
+        "url": "https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Avemar\u00eda",
+      "url": "https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Mi Peor Error",
+        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mi Peor Error",
+      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Baby Glock",
+        "url": "https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "duration_ms": 165298,
+      "name": "Baby Glock",
+      "url": "https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "PRENDE OTRO",
         "url": "https://open.spotify.com/album/6JnAfvezZhCZU6Lzg96Jai"
       },
@@ -1007,22 +1027,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Baby Glock",
-        "url": "https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA"
+        "name": "Diablo BB",
+        "url": "https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6"
       },
       "artists": [
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Hydro",
-          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         }
       ],
-      "duration_ms": 165298,
-      "name": "Baby Glock",
-      "url": "https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU"
+      "duration_ms": 140869,
+      "name": "Diablo BB",
+      "url": "https://open.spotify.com/track/0BqRxEMRPDOMowx1oWq78o"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1063,24 +1079,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Diablo BB",
-        "url": "https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "Diablo BB",
-      "url": "https://open.spotify.com/track/0BqRxEMRPDOMowx1oWq78o"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "SEDUR (Remix)",
-        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
+        "name": "La Pelikula (Remix)",
+        "url": "https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX"
       },
       "artists": [
         {
@@ -1088,13 +1088,17 @@
           "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
         }
       ],
-      "duration_ms": 164036,
-      "name": "SEDUR - (Remix)",
-      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
+      "duration_ms": 253333,
+      "name": "La Pelikula - Remix",
+      "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1191,8 +1195,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "La Pelikula (Remix)",
-        "url": "https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX"
+        "name": "SEDUR (Remix)",
+        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
       },
       "artists": [
         {
@@ -1200,17 +1204,13 @@
           "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         },
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 253333,
-      "name": "La Pelikula - Remix",
-      "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
+      "duration_ms": 164036,
+      "name": "SEDUR - (Remix)",
+      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Bad Bichi",
-        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Bad Bichi",
-      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Despues Siempre Es Tarde",
         "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 193960,
       "name": "Otro De Esos D\u00edas",
       "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Bad Bichi",
+        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Bad Bichi",
+      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Dura",
         "url": "https://open.spotify.com/album/3WX2grfkRPayqPlDGgAUms"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 238305,
       "name": "Dura",
       "url": "https://open.spotify.com/track/0QDc73zt34RicpTSQTohWl"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm"
-      },
-      "artists": [
-        {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b"
     },
     {
       "added_at": "2022-10-14 04:00:00",

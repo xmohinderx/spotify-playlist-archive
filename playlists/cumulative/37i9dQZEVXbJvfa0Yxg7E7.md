@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-800 songs - 1 day 18 hr 3 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+801 songs - 1 day 18 hr 7 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [MISSFÖRSTÅTT \- Roc Boyz Remix](https://open.spotify.com/track/5PnY5zibauLwrMFIBfmwM3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [MISSFÖRSTÅTT \(Roc Boyz Remix\)](https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf) | 1:54 | 2022-07-16 | 2022-10-04 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-28 | 2021-12-30 |
 | [Mitt Hjerte I Dine Hender](https://open.spotify.com/track/0CyJ4fAYJ6OQ9Jc2JJOd8H) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra...](https://open.spotify.com/album/3hWNz4z3mOcjj3JMbNFNRx) | 2:30 | 2022-02-26 | 2022-02-28 |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-19 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-13 | 2021-11-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2021-10-23 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-27 | 2021-04-14 |
@@ -722,7 +723,7 @@
 | [TADA](https://open.spotify.com/track/0bpZr2GJ1wTYN9RL7gjuUX) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [TADA](https://open.spotify.com/album/3DPkAAWAHGsfHzXLjXIbjm) | 3:10 | 2021-08-08 | 2021-08-17 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-10-19 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
-| [TANTE](https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [TANTE](https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU) | 2:13 | 2022-03-05 |  |
+| [TANTE](https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [TANTE](https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU) | 2:13 | 2022-03-05 | 2022-10-20 |
 | [Tell her yourself](https://open.spotify.com/track/6LU43aaDl4WXn1qKqi5Y62) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Tell her yourself](https://open.spotify.com/album/1Vp31AJXouGR3ZWsHDXxMr) | 3:53 | 2021-09-05 | 2021-09-06 |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2021-10-31 | 2021-10-31 |
 | [Tenerife Tapes](https://open.spotify.com/track/1w0rQ13DQRjFLG3Y06skMK) | [Rike Venner](https://open.spotify.com/artist/7r0CzlT427mU4iMq7i4Yz6) | [Tenerife Tapes](https://open.spotify.com/album/6XIPoInykmgMCLmZNJolyh) | 1:37 | 2022-09-02 | 2022-09-11 |

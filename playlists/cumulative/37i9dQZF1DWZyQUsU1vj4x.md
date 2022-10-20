@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-148 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+149 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Cigarettes and Red Wine](https://open.spotify.com/track/2TQnbWPeINdKNNahGDDTZx) | [Ella Fence](https://open.spotify.com/artist/1E5sJ5BrLqHGxzgy8cDJ0B) | [Wanderlust](https://open.spotify.com/album/5ddYMcPHMnlbboexXJLNP7) | 3:23 | 2019-10-31 |  |
 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 | 2022-01-27 |  |
 | [Civilian](https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9) | 3:40 | 2019-10-31 | 2022-07-29 |
-| [Coyote Caller](https://open.spotify.com/track/0VfLSNN4WlqpAdWcgrhpgG) | [Joshua James](https://open.spotify.com/artist/0YLUOdFiedWIWBttlDAQeO) | [My Spirit Sister](https://open.spotify.com/album/2TY8oKeXjRCclEn61Wva8s) | 3:27 | 2019-10-31 |  |
+| [Coyote Caller](https://open.spotify.com/track/0VfLSNN4WlqpAdWcgrhpgG) | [Joshua James](https://open.spotify.com/artist/0YLUOdFiedWIWBttlDAQeO) | [My Spirit Sister](https://open.spotify.com/album/2TY8oKeXjRCclEn61Wva8s) | 3:27 | 2019-10-31 | 2022-10-20 |
+| [Coyote Caller](https://open.spotify.com/track/6pWd9dkHmrR92kqSKFbRuw) | [Joshua James](https://open.spotify.com/artist/0YLUOdFiedWIWBttlDAQeO) | [My Spirit Sister](https://open.spotify.com/album/4ItmWXeF6QGjyG32aZMgOX) | 3:27 | 2022-01-27 |  |
 | [Creature](https://open.spotify.com/track/5z1PL9HAYWIBjp35Ao41Fi) | [Izabel Crane](https://open.spotify.com/artist/5eqfvY3QZzKfZ15ixN8ZqF) | [Spring Fed River / Creature](https://open.spotify.com/album/5lPUk9UG2cVWqrOoxbAkO5) | 4:07 | 2019-10-31 |  |
 | [Creektime](https://open.spotify.com/track/2IrfC3lJgifGxkxkdbvJrS) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI) | 1:54 | 2019-10-31 | 2022-07-29 |
 | [Creektime](https://open.spotify.com/track/7Fb0Ow5b2PhklZujmyiSC7) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:54 | 2022-01-27 |  |

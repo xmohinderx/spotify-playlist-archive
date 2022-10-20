@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,203 likes - 81 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,171 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 75 | [Borrowed World](https://open.spotify.com/track/2bhKJw0EreRC8kKq8Oktmm) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3Q3xd77C966yd3RbQXBGAc) | 3:57 |
 | 76 | [Continents](https://open.spotify.com/track/2XxUxNGLh4rQppREz9lMK9) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [House on Fire](https://open.spotify.com/album/6Wxo89c6cczQFhH8i8YDTH) | 3:08 |
 | 77 | [The W.A.N.D.](https://open.spotify.com/track/2frHiHPVkiNCBMPkYF83Jr) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War with the Mystics](https://open.spotify.com/album/6oVaKzODiXqew6MScEd7T4) | 3:42 |
-| 78 | [December](https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD) | 4:32 |
+| 78 | [December](https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG) | 4:32 |
 | 79 | [Megaton Mile](https://open.spotify.com/track/6BwR8E925bOoGHFPS5tEOE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:26 |
 | 80 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
 | 81 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDllYzBlMGFiMzY3NTA0MDZiZDExNWQzMmU1NTljYWU1`
+Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDk0NWY0Yzg1NTcyM2ZiZWEyZWIzZjhiMTQwNTZmM2Jk`

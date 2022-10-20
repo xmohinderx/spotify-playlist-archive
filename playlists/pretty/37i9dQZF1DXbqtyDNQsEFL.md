@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 ### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
-> Gospel songs to get you in the spirit\. Co Curated with  <a href="https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM?si=k29csgK5SCS3Jxvbb4BFqg"> Dunsin Onyekan </a>
+> Gospel songs to get you in the spirit\. Co Curated with  <a href="https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM?si=k29csgK5SCS3Jxvbb4BFqg"> Dunsin Oyekan </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,803 likes - 30 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,957 likes - 30 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 29 | [Overflow \- Live](https://open.spotify.com/track/5fGEWpEGRbeqiSx0BFM4ri) | [Chingtok Ishaku](https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ), [First Love](https://open.spotify.com/artist/5NvCvGYLahLQcc7s5AqMfJ) | [Overflow](https://open.spotify.com/album/6HTnAGRH2XzNOd0jaO482B) | 12:32 |
 | 30 | [Only You Jesus](https://open.spotify.com/track/4FlcVpYoYw84TFQyIr7oH8) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:45 |
 
-Snapshot ID: `MTY2NTcyMDA4MSwwMDAwMDAwMDBjNDBkMTRhYWY0NWIwMjEyYjQxMWU1YmFlYTNiZWJj`
+Snapshot ID: `MTY2NjE2Mzc5MiwwMDAwMDAwMGVhZWJjMGY2Y2Q2ZTI5NTkyN2FlMTQxNmMzZGUzODQ3`

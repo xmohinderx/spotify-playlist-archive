@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: BIN, MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,554 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,610 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 34 | [Jogo do Bicho](https://open.spotify.com/track/4EfCQcyOykgNJxAf1g1K2H) | [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB), [Prod Gomes](https://open.spotify.com/artist/2OykwFvrdokATKdUQPGAFA) | [Jogo do Bicho](https://open.spotify.com/album/1SowDroZuixt9Yt6k9HPGT) | 2:38 |
 | 35 | [Melhor Fase](https://open.spotify.com/track/4FLua0K5SYxcimOi7Py6uf) | [Logri](https://open.spotify.com/artist/1pDdBrq22wMmvTvms7RVEX) | [Melhor Fase](https://open.spotify.com/album/6L0HxGxT6cjhMm0S5QV1d7) | 2:52 |
 | 36 | [Não Posso Parar](https://open.spotify.com/track/0obtACkhdIBCOuIVT87mwZ) | [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn), [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Lil Vxct](https://open.spotify.com/artist/4liBXo1Tt4Zzx7sToYROEZ), [Jeall](https://open.spotify.com/artist/4dL3Sc02sRexL3jylcoGNt) | [Não Posso Parar](https://open.spotify.com/album/2wHwlCUJ3AOtfxMBqWr0PM) | 2:37 |
-| 37 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:15 |
+| 37 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 38 | [Primeiro Amor](https://open.spotify.com/track/2jsJS2Wg2OviUG1RNKhkD2) | [Pedro Leal](https://open.spotify.com/artist/51kjqW0V2R9gxmJkpuvlwP), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Primeiro Amor](https://open.spotify.com/album/35pY2zdQSogwS5VdqgDmyM) | 2:48 |
 | 39 | [de volta ao início](https://open.spotify.com/track/5nXF7EEK5IPLmYfGveV5Ie) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2) | [de volta ao início](https://open.spotify.com/album/4ydY7PhtT9OjUQMgjNW1nt) | 2:29 |
 | 40 | [Luxo & Crime \- Remix](https://open.spotify.com/track/5fsa8uP3Iys3ugdbzNZNru) | [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [tharealjuggboy](https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR), [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Luxo & Crime \(Remix\)](https://open.spotify.com/album/6Xwn5HaRrsjpdsJZZlflEW) | 3:21 |

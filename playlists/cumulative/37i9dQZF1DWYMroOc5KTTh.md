@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-404 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
+405 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Real Groove \(Studio 2054 Remix\)](https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm) | 4:22 | 2022-04-06 | 2022-04-14 |
 | [Really Good](https://open.spotify.com/track/48kZW3TL52ofdaFM9zCH1c) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 001](https://open.spotify.com/album/0E8Qok1GefELqqpBAm0gfx) | 5:22 | 2022-04-06 | 2022-04-21 |
 | [Reason](https://open.spotify.com/track/37EKnLlRqJcb8XMgYaAbCL) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [Reason](https://open.spotify.com/album/6LRy6sA127XQ8Y25aG1mUF) | 2:57 | 2021-12-03 | 2022-06-21 |
-| [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-12-03 |  |
+| [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-12-03 | 2022-10-20 |
 | [Red Flashing Lights](https://open.spotify.com/track/6RdBOKVp5WxSoG0xt2WnNq) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/2VCTzE6Z6gHAYRLIig5qrV) | 2:46 | 2021-12-03 | 2022-07-29 |
 | [red leather](https://open.spotify.com/track/0tr7sfdHBzs9PgBWeS27ro) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [red leather](https://open.spotify.com/album/70ul7nj6hleP9ntqVicOO9) | 3:46 | 2021-12-03 | 2022-04-15 |
 | [Release Me \(feat\. Rationale\)](https://open.spotify.com/track/7jgbMT5d6XDOJwDRnvaGU4) | [Billon](https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Release Me \(feat\. Rationale\)](https://open.spotify.com/album/327BpHrEg0mam1X8puh25l) | 2:45 | 2022-04-06 | 2022-04-16 |
@@ -391,6 +391,7 @@
 | [Walk With Me](https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO) | [Harry Wolfman](https://open.spotify.com/artist/3IUdSUxRiKdLL7e7BJgzYv) | [Sly Contrast EP](https://open.spotify.com/album/2TMRfy0J0nW0n4kIVhVAjy) | 5:21 | 2021-12-03 | 2022-07-07 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-01-14 | 2022-08-16 |
 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 | 2022-01-14 | 2022-04-19 |
+| [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 | 2022-09-05 |  |
 | [Waterfall](https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:52 | 2022-09-05 | 2022-10-14 |
 | [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-04-19 | 2022-09-23 |
 | [Waterfalls](https://open.spotify.com/track/0UaPv4O1dn3WX8wTyOzYLR) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Period Works \- The Album](https://open.spotify.com/album/3Qip3TCRV6tbDXSoVMTjX6) | 6:03 | 2022-04-06 | 2022-04-09 |

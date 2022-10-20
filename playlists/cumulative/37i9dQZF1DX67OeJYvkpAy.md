@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-131 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
+132 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Stuck In My Ways](https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp) | 1:51 | 2022-08-02 |  |
 | [Superstars](https://open.spotify.com/track/6d6zii8V5yf3rZZES5dL3e) | [Hated28](https://open.spotify.com/artist/3djnXSSeWr8vUkz9oii3hB) | [Superstars](https://open.spotify.com/album/1FelNzefgYCkUOaLva4AHE) | 2:30 | 2022-04-05 | 2022-08-03 |
 | [Survivor's Guilt](https://open.spotify.com/track/1Xapo8sq7KcQXdt0HrXX5B) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 5:40 | 2022-04-05 | 2022-08-03 |
-| [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 | 2022-04-05 |  |
+| [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 | 2022-04-05 | 2022-10-20 |
+| [Take The Risk](https://open.spotify.com/track/1JI8vPuCzjOePCx8Dx51Zr) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj), [King K bËAtZ](https://open.spotify.com/artist/6a8kfrURNaarwQrjgtdJqr) | [Take The Risk](https://open.spotify.com/album/6bf4swql2jvA6zq1jvND9H) | 3:20 | 2022-08-02 |  |
 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 | 2022-04-05 |  |
 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 | 2022-04-05 |  |
 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 | 2022-08-02 |  |

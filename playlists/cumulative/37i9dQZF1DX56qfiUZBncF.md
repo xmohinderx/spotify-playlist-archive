@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-236 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+237 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 | 2022-04-29 |  |
 | [Easier](https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 4:32 | 2022-04-29 | 2022-09-15 |
 | [Edge Of The Dark](https://open.spotify.com/track/58gDdlyKqLodYDcFtgZb3P) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Edge Of The Dark](https://open.spotify.com/album/5VbKG8hWAmPGigkeVOuVN7) | 4:20 | 2021-01-13 | 2022-07-29 |
+| [Edge Of The Dark](https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 4:20 | 2022-04-29 |  |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Emotion feat\. Wild Nothing](https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH) | 4:05 | 2021-01-08 | 2022-07-29 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 | 2022-04-29 |  |
 | [Fading](https://open.spotify.com/track/0eVlWvarzhQRj9L6RMqbud) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Fading](https://open.spotify.com/album/3ZFLPLihB9cSGqHev2sf3T) | 3:22 | 2020-11-04\* | 2022-07-28 |
@@ -119,7 +120,7 @@
 | [iinterlude 1](https://open.spotify.com/track/7irOypwMabCLuaKXQJdG0u) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [OTHERLiiNE](https://open.spotify.com/album/0XsqhKLzKCGw2q0VAT58Xj) | 1:57 | 2020-11-04\* | 2022-04-26 |
 | [In Cold Blood](https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP) | 3:26 | 2022-04-29 |  |
 | [In Cold Blood](https://open.spotify.com/track/6sIvAyM1AtnSGz3anRLcDo) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [In Cold Blood](https://open.spotify.com/album/5zlu4KRhI3Ld9zOVBgXAEX) | 3:26 | 2020-11-04\* | 2021-10-20 |
-| [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/album/4SLthaJgVwyX4yZDwLq6bS) | 3:38 | 2020-12-18 |  |
+| [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/album/4SLthaJgVwyX4yZDwLq6bS) | 3:38 | 2020-12-18 | 2022-10-20 |
 | [Jeanie \(feat\. Bon Iver\)](https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Jeanie \(feat\. Bon Iver\)](https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd) | 2:47 | 2020-11-04\* |  |
 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 | 2020-12-04 |  |
 | [Keep Running](https://open.spotify.com/track/1PlrUviBqdCy4P4TTdv66y) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Keep Running](https://open.spotify.com/album/0ETGDAATDpwOnzAHygPSlx) | 4:24 | 2020-11-04\* | 2022-07-28 |

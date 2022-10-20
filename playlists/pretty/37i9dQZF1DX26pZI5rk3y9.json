@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2400,
+  "num_followers": 2408,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDA0ZGFiZTkyNWRkODI5NDc5ZDFmOTdiYmQ0MDU3ZjBh",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDU2Nzg5NGI5MDY2ZjFkNzJmZmRkOWI0MWRmMjg1Yzlm",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
-      },
-      "artists": [
-        {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Blue Monday - Remastered",
-      "url": "https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 191906,
       "name": "These Kind of Blues",
       "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+      },
+      "artists": [
+        {
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Blue Monday - Remastered",
+      "url": "https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
-        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
-      },
-      "artists": [
-        {
-          "name": "The Art Wood Combo",
-          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 200186,
       "name": "Honey Bee (feat. Willie Buck)",
       "url": "https://open.spotify.com/track/2T857BosTppifCEGyKjkNz"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
+        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
+      },
+      "artists": [
+        {
+          "name": "The Art Wood Combo",
+          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
     },
     {
       "added_at": "2022-09-12 16:38:21",

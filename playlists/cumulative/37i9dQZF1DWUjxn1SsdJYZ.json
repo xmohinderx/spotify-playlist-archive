@@ -1656,6 +1656,28 @@
     },
     {
       "album": {
+        "name": "Get Rich Or Die",
+        "url": "https://open.spotify.com/album/2s11GryXDPYdvGvutcY5vY"
+      },
+      "artists": [
+        {
+          "name": "Jamel",
+          "url": "https://open.spotify.com/artist/39N2nBQbJoSC9cRt6jCCaG"
+        },
+        {
+          "name": "Shely210",
+          "url": "https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166371,
+      "name": "Get Rich Or Die",
+      "url": "https://open.spotify.com/track/6YUTr81Ucly7G61rX7OtQe"
+    },
+    {
+      "album": {
         "name": "Gimme the Loot",
         "url": "https://open.spotify.com/album/3YEtjnabazF7WyW0k1wbtM"
       },

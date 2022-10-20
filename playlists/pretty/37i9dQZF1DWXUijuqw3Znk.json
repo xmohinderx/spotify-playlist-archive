@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2280,
+  "num_followers": 2283,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMGQzM2VkNTM4ZWE2ZDk5MjVmNmY4ZjA2N2Q0NmYwYjEw",
+  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDFiYmQ4Y2U0OTI0MjU3NTI0NjkwYjM5ZmY4OTYxN2Zi",
   "tracks": [
     {
       "added_at": "2022-10-07 04:35:55",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Show Me the Money 5 Episode 3",
-        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 261196,
-      "name": "Forever (Prod. By GRAY)",
-      "url": "https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
         "url": "https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 151948,
       "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
       "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Show Me the Money 5 Episode 3",
+        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 261196,
+      "name": "Forever (Prod. By GRAY)",
+      "url": "https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 231023,
       "name": "RUN DAMOIM",
       "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 102753,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/4WXOtTtz7HVexQJquDwKmz"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Show Me the Money 5 Episode 1",
         "url": "https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 282197,
       "name": "Air DoTheQ",
       "url": "https://open.spotify.com/track/4upOsnQ7cX92RhM4WYj94b"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 102753,
-      "name": "Till I Die",
-      "url": "https://open.spotify.com/track/4WXOtTtz7HVexQJquDwKmz"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "BLAZE",
-        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
-      },
-      "artists": [
-        {
-          "name": "DO HAN SE",
-          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
-        },
-        {
-          "name": "BIGONE",
-          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
-        }
-      ],
-      "duration_ms": 131493,
-      "name": "SLASH (Feat. BIGONE)",
-      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "BLAZE",
+        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
+      },
+      "artists": [
+        {
+          "name": "DO HAN SE",
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "duration_ms": 131493,
+      "name": "SLASH (Feat. BIGONE)",
+      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Call Me Gray",
         "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 273267,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "P.O.E.M. II",
+        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1679,22 +1695,6 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "P.O.E.M. II",
-        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 256071,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1875,6 +1875,42 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "MULTILLIONAIRE",
+        "url": "https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 237815,
+      "name": "Still On My Way",
+      "url": "https://open.spotify.com/track/7fUa7kqaHxVNUs1nwRfQcQ"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Infectious (Til Infinity)",
+      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
       },
@@ -1911,22 +1947,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1951,26 +1971,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "MULTILLIONAIRE",
-        "url": "https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 237815,
-      "name": "Still On My Way",
-      "url": "https://open.spotify.com/track/7fUa7kqaHxVNUs1nwRfQcQ"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -1987,30 +1987,6 @@
       "duration_ms": 410810,
       "name": "Something I can do",
       "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Skyminhyuk",
-          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
-        },
-        {
-          "name": "HanYoHan",
-          "url": "https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb"
-        },
-        {
-          "name": "OLNL",
-          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
-        }
-      ],
-      "duration_ms": 254347,
-      "name": "Flashing (Feat. HanYoHan, OLNL)",
-      "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -2039,6 +2015,30 @@
       "duration_ms": 258893,
       "name": "Career High (Feat. Paloalto, nafla, Chancellor)",
       "url": "https://open.spotify.com/track/3huX6IPP80pZmLAgiDtiqy"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        },
+        {
+          "name": "HanYoHan",
+          "url": "https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        }
+      ],
+      "duration_ms": 254347,
+      "name": "Flashing (Feat. HanYoHan, OLNL)",
+      "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
     },
     {
       "added_at": "2022-10-07 04:35:55",

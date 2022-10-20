@@ -1,12 +1,12 @@
 {
   "description": "Kyan e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 153523,
+  "num_followers": 153667,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMGM1ZmE5NDE0YzAyNTk4MmZkM2Q0NzRiZWI1YmYwNDNm",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDYxNjA3NWNkNTIzYmVlMTliZmJiZGE5ZTdmNDA0ZTM5",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 231893,
+      "name": "bode",
+      "url": "https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 214783,
       "name": "Posturada - Ao Vivo",
       "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 231893,
-      "name": "bode",
-      "url": "https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L"
     },
     {
       "added_at": "2022-10-14 03:01:00",

@@ -8412,6 +8412,24 @@
     },
     {
       "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "album": {
         "name": "J\u00e4ljed j\u00e4tsid tuulde",
         "url": "https://open.spotify.com/album/3URXbayIQ6YMFNXvWIyEak"
       },
@@ -8459,7 +8477,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 199218,
       "name": "kajakad",
       "url": "https://open.spotify.com/track/3Czkz3AyokbKjbAnnUP8ql"
@@ -12463,7 +12481,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
@@ -18039,7 +18057,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 166000,
       "name": "v6sa",
       "url": "https://open.spotify.com/track/5gwPYQkqblAxIQA8VK8ZF6"

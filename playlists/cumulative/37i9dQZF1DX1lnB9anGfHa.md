@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-133 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+134 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 | 2022-08-31 |  |
 | [Disappoint Me](https://open.spotify.com/track/1CBF3tKxaBh1bUPEdIneXS) | [Chris Imler](https://open.spotify.com/artist/46UqEw2cEH1SHxSBuSWfVw) | [Disappoint Me](https://open.spotify.com/album/0y1HxXpkJrceA55WLmTJsV) | 3:25 | 2022-02-18 |  |
 | [Dois Litorais](https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34) | [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP) | [Dois Litorais](https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw) | 8:40 | 2021-10-01 |  |
-| [DREAD/TKOE \- Ellie Mason Remix](https://open.spotify.com/track/2MwDm5f1pxJyNSAMBUmLmr) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx) | [DREAD/TKOE \(Ellie Mason Remix\)](https://open.spotify.com/album/385cJszk9JFhRnqh5K2YiF) | 4:10 | 2022-08-31 |  |
+| [DREAD/TKOE \- Ellie Mason Remix](https://open.spotify.com/track/2MwDm5f1pxJyNSAMBUmLmr) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx) | [DREAD/TKOE \(Ellie Mason Remix\)](https://open.spotify.com/album/385cJszk9JFhRnqh5K2YiF) | 4:10 | 2022-08-31 | 2022-10-20 |
+| [DREAD/TKOE \- Ellie Mason Remix](https://open.spotify.com/track/6iuyKY5upmdEUCINxdeyBQ) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx) | [DREAD/THE KING OF ENGLAND](https://open.spotify.com/album/3AkaQDS0i3590PG28E3fXp) | 4:10 | 2022-08-31 |  |
 | [drowning](https://open.spotify.com/track/0Te0I0OnjRbnXhXbahrN20) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/3uuPrpCbNKfaGqCsNqb721) | 2:18 | 2021-06-23 |  |
 | [drowning](https://open.spotify.com/track/7zG96zOUfMR01JKGDskylX) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/7onJZ3rdjU9yEjho30raQe) | 2:18 | 2021-06-23 | 2022-07-29 |
 | [Exit to Enter](https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp) | [The Lazy Jesus](https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h) | [Original Fighter](https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo) | 2:58 | 2020-10-20 |  |

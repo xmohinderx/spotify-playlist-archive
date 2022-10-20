@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Charlotte de Witte.",
-  "num_followers": 404634,
+  "num_followers": 404814,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDViMTA2MjFiZjQ0M2M2NTBiMmRiNThmM2M5ZWEwMmYy",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGE3NDk2MDk4YmU2M2NmM2M0NjUzMDdiODZhZGVjY2M1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4NT0EDiOqeIcyoomo56LSA"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/4PPCWezfTaXfJxvJh3scND"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Colors (feat. Eyelar) [Remixes]",
         "url": "https://open.spotify.com/album/3Lo6HZ20Rn6GdH0X9EZ14M"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 191120,
       "name": "Colors (feat. Eyelar) - REAPER Remix",
       "url": "https://open.spotify.com/track/6g17XDgLWaPEIj6vcDQCCA"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/4NT0EDiOqeIcyoomo56LSA"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/4PPCWezfTaXfJxvJh3scND"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "The Last Dinosaur",
+        "url": "https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U"
+      },
+      "artists": [
+        {
+          "name": "Little Foot",
+          "url": "https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "The Last Dinosaur",
+      "url": "https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "All On Me (feat. Dotter)",
         "url": "https://open.spotify.com/album/4MLtwTrYUpZ0eGlHYMXG3y"
       },
@@ -787,22 +807,30 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Last Dinosaur",
-        "url": "https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U"
+        "name": "Rio Rio (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ"
       },
       "artists": [
         {
-          "name": "Little Foot",
-          "url": "https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Paolo Pellegrino",
+          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
         }
       ],
-      "duration_ms": 210000,
-      "name": "The Last Dinosaur",
-      "url": "https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0"
+      "duration_ms": 171845,
+      "name": "Rio Rio (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/0vnbMEahl3Lj1AixLnCGje"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -843,34 +871,6 @@
       "duration_ms": 187560,
       "name": "Stitch You Up",
       "url": "https://open.spotify.com/track/0BEubg7BHSDR9fOzzsmHOx"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Rio Rio (feat. Martina Camargo)",
-        "url": "https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        },
-        {
-          "name": "Paolo Pellegrino",
-          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 171845,
-      "name": "Rio Rio (feat. Martina Camargo)",
-      "url": "https://open.spotify.com/track/0vnbMEahl3Lj1AixLnCGje"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Higher / Antireal / The Flavor",
-        "url": "https://open.spotify.com/album/3p543l4JJvgJG19rgUtriK"
-      },
-      "artists": [
-        {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
-        }
-      ],
-      "duration_ms": 333005,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/3izf3TMsU9gtxEpLm4J7aO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/0P21RvD1R1hN7j27eRCrlL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 207385,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/139Tpi5zztQtv42a36TlMB"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Higher / Antireal / The Flavor",
+        "url": "https://open.spotify.com/album/3p543l4JJvgJG19rgUtriK"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "duration_ms": 333005,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3izf3TMsU9gtxEpLm4J7aO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "How Do You Know (with HA:TFELT)",
-        "url": "https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Willim",
-          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
-        },
-        {
-          "name": "HA:TFELT",
-          "url": "https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "How Do You Know (with HA:TFELT)",
-      "url": "https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/2ap51cMDdkW0IlqDhxx7Tb"
       },
@@ -1087,6 +1063,30 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "How Do You Know (with HA:TFELT)",
+        "url": "https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        },
+        {
+          "name": "HA:TFELT",
+          "url": "https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "How Do You Know (with HA:TFELT)",
+      "url": "https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/4WptQuxLSAczoyQXrwZWFW"
       },
@@ -1099,42 +1099,6 @@
       "duration_ms": 222295,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/56arOopqj8V928baND3phD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Hot Minute",
-        "url": "https://open.spotify.com/album/2nAobOUMCP7rARy53Uhjf0"
-      },
-      "artists": [
-        {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        },
-        {
-          "name": "Black Gatsby",
-          "url": "https://open.spotify.com/artist/4o8Ym9oEUGrcZ3YheYLrZo"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hot Minute",
-      "url": "https://open.spotify.com/track/28eMNSZ8oN8JVmtFgQSzhJ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Infinite Falling Ground",
-        "url": "https://open.spotify.com/album/2gYIDloxJ4KaR4Gffssb8S"
-      },
-      "artists": [
-        {
-          "name": "Ivy Lab",
-          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
-        }
-      ],
-      "duration_ms": 173492,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4zLfHJARur4UiJQOpmR6gS"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1159,6 +1123,62 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Hot Minute",
+        "url": "https://open.spotify.com/album/2nAobOUMCP7rARy53Uhjf0"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
+        {
+          "name": "Black Gatsby",
+          "url": "https://open.spotify.com/artist/4o8Ym9oEUGrcZ3YheYLrZo"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hot Minute",
+      "url": "https://open.spotify.com/track/28eMNSZ8oN8JVmtFgQSzhJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Move My Feet",
+        "url": "https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Move My Feet",
+      "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Infinite Falling Ground",
+        "url": "https://open.spotify.com/album/2gYIDloxJ4KaR4Gffssb8S"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "duration_ms": 173492,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4zLfHJARur4UiJQOpmR6gS"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Supersized",
         "url": "https://open.spotify.com/album/1pOONF2wxB8MYRN6g5PEQe"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 154285,
       "name": "Supersized",
       "url": "https://open.spotify.com/track/0wf7CoS7wZ7ioivLZuyFYZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/2NUBWk4THrisiVBegau8M8"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        },
-        {
-          "name": "Willone",
-          "url": "https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf"
-        }
-      ],
-      "duration_ms": 176874,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/1Ro0iWE2IjxZqwM6i0CgTL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Move My Feet",
-        "url": "https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6"
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/2NUBWk4THrisiVBegau8M8"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         },
         {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+          "name": "Willone",
+          "url": "https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Move My Feet",
-      "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
+      "duration_ms": 176874,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/1Ro0iWE2IjxZqwM6i0CgTL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1275,30 +1275,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cooperville",
-        "url": "https://open.spotify.com/album/0HjtqE2jFrzuqwB4rYyyMZ"
+        "name": "Never Wanna Let Go",
+        "url": "https://open.spotify.com/album/3ygnuPmnNn8v5JyKm6EG7w"
       },
       "artists": [
         {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
-        },
-        {
-          "name": "Mzu M",
-          "url": "https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM"
-        },
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        },
-        {
-          "name": "Sfarzo Rtee",
-          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
         }
       ],
-      "duration_ms": 347142,
-      "name": "Sabela",
-      "url": "https://open.spotify.com/track/5RlnuIIPD5j33dDbA0gbma"
+      "duration_ms": 163809,
+      "name": "Never Wanna Let Go",
+      "url": "https://open.spotify.com/track/6Bddn8Iyy56psY24T7sUOf"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1343,6 +1331,50 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4j5869Gvx7MsgWmtCzmKt7"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 214761,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/1laVJxoALXrvIeVesYSkzW"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cooperville",
+        "url": "https://open.spotify.com/album/0HjtqE2jFrzuqwB4rYyyMZ"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Mzu M",
+          "url": "https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        }
+      ],
+      "duration_ms": 347142,
+      "name": "Sabela",
+      "url": "https://open.spotify.com/track/5RlnuIIPD5j33dDbA0gbma"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "So Right",
         "url": "https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3"
       },
@@ -1355,6 +1387,22 @@
       "duration_ms": 201904,
       "name": "So Right",
       "url": "https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dream - Edit",
+      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1379,54 +1427,6 @@
       "duration_ms": 156610,
       "name": "Colours - Tsu Nami Remix",
       "url": "https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dream - Edit",
-      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Never Wanna Let Go",
-        "url": "https://open.spotify.com/album/3ygnuPmnNn8v5JyKm6EG7w"
-      },
-      "artists": [
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Never Wanna Let Go",
-      "url": "https://open.spotify.com/track/6Bddn8Iyy56psY24T7sUOf"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4j5869Gvx7MsgWmtCzmKt7"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 214761,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/1laVJxoALXrvIeVesYSkzW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Goin' Down",
-        "url": "https://open.spotify.com/album/4gpndARKKv15qYSi4kX19x"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "PARTY SHIRT",
-          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Goin' Down",
-      "url": "https://open.spotify.com/track/04ruLrAUSx16SHtELY5mqA"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4aJD3e4tpG34qSDUxJ9YZT"
       },
@@ -1587,6 +1567,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Goin' Down",
+        "url": "https://open.spotify.com/album/4gpndARKKv15qYSi4kX19x"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Goin' Down",
+      "url": "https://open.spotify.com/track/04ruLrAUSx16SHtELY5mqA"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Jacking",
         "url": "https://open.spotify.com/album/4C58HM2kpSaibjH3FMn5fc"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 181729,
       "name": "Jacking",
       "url": "https://open.spotify.com/track/7KuKfd8wgecJT18v1fplRN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx"
-      },
-      "artists": [
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Make U Mine",
-      "url": "https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 180000,
       "name": "TASTE",
       "url": "https://open.spotify.com/track/5jWZXue5SgSXEfkkrN2ljo"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx"
+      },
+      "artists": [
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Make U Mine",
+      "url": "https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Seran's Harp",
-        "url": "https://open.spotify.com/album/3LIgUgTag5FzdcvBAFX1t8"
-      },
-      "artists": [
-        {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Seran's Harp",
-      "url": "https://open.spotify.com/track/0FU3cNMUISYdzNrzZTKC5V"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "On and On",
         "url": "https://open.spotify.com/album/5BygbcOtANsFg6WBNdnM9E"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 207619,
       "name": "On and On",
       "url": "https://open.spotify.com/track/3aTkw79f3uawxAJXE9KXP1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Seran's Harp",
+        "url": "https://open.spotify.com/album/3LIgUgTag5FzdcvBAFX1t8"
+      },
+      "artists": [
+        {
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Seran's Harp",
+      "url": "https://open.spotify.com/track/0FU3cNMUISYdzNrzZTKC5V"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "LFOs Are Real",
-        "url": "https://open.spotify.com/album/3muIOm0OVXnJXLFwd4mVjC"
-      },
-      "artists": [
-        {
-          "name": "Sant\u00e9",
-          "url": "https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE"
-        }
-      ],
-      "duration_ms": 398095,
-      "name": "LFOs",
-      "url": "https://open.spotify.com/track/5ocXtNZXqXTWVFT0oVX7VW"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Amazigh Remixes",
         "url": "https://open.spotify.com/album/4lzuNAKSYZ2rsCUkHA02mZ"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 393685,
       "name": "Amazigh - Enoo Napa Dub",
       "url": "https://open.spotify.com/track/6BfjfsJVEGNcRmibMhmz3h"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "LFOs Are Real",
+        "url": "https://open.spotify.com/album/3muIOm0OVXnJXLFwd4mVjC"
+      },
+      "artists": [
+        {
+          "name": "Sant\u00e9",
+          "url": "https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE"
+        }
+      ],
+      "duration_ms": 398095,
+      "name": "LFOs",
+      "url": "https://open.spotify.com/track/5ocXtNZXqXTWVFT0oVX7VW"
     },
     {
       "added_at": "2022-10-14 04:00:00",

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-321 songs - 21 hr 22 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+322 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 | 2022-06-16 |  |
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-05-24 | 2022-07-20 |
 | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/track/2QArMxNdNf0RRtbWgluQ8B) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/album/0dne3frd7OM589ZVfQDWqS) | 4:03 | 2022-08-30 | 2022-09-07 |
-| [ALL MY LOVE](https://open.spotify.com/track/2VUtTnTYe2wA3Bj13YfLwq) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3sOolxlKbF0j81LDUw02Qa) | 3:09 | 2022-10-18 |  |
+| [ALL MY LOVE](https://open.spotify.com/track/2VUtTnTYe2wA3Bj13YfLwq) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3sOolxlKbF0j81LDUw02Qa) | 3:09 | 2022-10-18 | 2022-10-20 |
+| [ALL MY LOVE](https://open.spotify.com/track/6AXZEkvpntH6PBotxzRHjg) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3jZyvxRqAx1iS3dl8p1r3g) | 3:09 | 2022-10-18 |  |
 | [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 | 2022-08-02 | 2022-10-07 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-06-07 | 2022-08-24 |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-24 |  |

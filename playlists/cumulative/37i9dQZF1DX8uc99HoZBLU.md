@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-268 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+269 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2021-07-19 | 2022-07-29 |
 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 | 2021-06-08 |  |
 | [Best Friend](https://open.spotify.com/track/4BeIdwrMlsBlVHgJHs9l6J) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:44 | 2021-08-19 | 2022-07-27 |
+| [Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW) | 4:22 | 2022-09-09 |  |
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2021-06-08 | 2022-10-13 |
 | [Bloom Later](https://open.spotify.com/track/7DCQIOmpGV4nkHx7DQckJS) | [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [&](https://open.spotify.com/album/48mPoqbdK2eJcEyTjZmBPU) | 2:40 | 2021-06-08 | 2022-07-29 |
 | [BLUEBLUEBLUE](https://open.spotify.com/track/3c8joelJQd6Ae7vEIhme97) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C), [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [BLUEBLUEBLUE](https://open.spotify.com/album/3dOqYtutrXgjShT82NgDZu) | 2:11 | 2021-10-15 | 2022-04-20 |
@@ -272,7 +273,7 @@
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-07-19 |  |
 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2021-06-08 | 2022-07-29 |
 | [YOU \- Coco & Clair Clair Remix](https://open.spotify.com/track/6WnozB8Y76qj49Mnz0RERY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [YOU \(Coco & Clair Clair Remix\)](https://open.spotify.com/album/4LoUXoZQM2c2Jht9ulRMDv) | 4:03 | 2021-06-25 | 2022-06-13 |
-| [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-09 |  |
+| [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-09 | 2022-10-20 |
 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 | 2022-07-19 |  |
 | [Young](https://open.spotify.com/track/3OP8UeYimRl9HCNxMg7Ihl) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/58Zq3iYZFzaW4sm5Z8iwyt) | 3:09 | 2021-06-08 | 2022-07-28 |
 | [Your Love 너의 사랑](https://open.spotify.com/track/5NgvQyEWxGxKcZkqIf6YQS) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [Your Love 너의 사랑](https://open.spotify.com/album/1QpWw20dNbIjDISy39cNU7) | 3:57 | 2021-07-30 | 2022-07-26 |

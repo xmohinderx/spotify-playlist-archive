@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 107856,
+  "num_followers": 107904,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDMxNjhiNzQwMWRkY2FiNDdiNjRlNzIyMTRhNWYyZDFh",
+  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDg4OGRlMGZmYzBiNmQzZDM4MTdjNDZmMTY1MDE0MmRj",
   "tracks": [
     {
       "added_at": "2022-10-14 14:07:40",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
+        "name": "Cad\u00ea o Amor",
+        "url": "https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3"
+      },
+      "artists": [
+        {
+          "name": "Rozeniltton",
+          "url": "https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 273362,
+      "name": "Cad\u00ea o Amor",
+      "url": "https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
         "name": "Meu Valor",
         "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
       },
@@ -891,6 +911,42 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Louco (feat. PG)",
+        "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 309383,
+      "name": "Louco (feat. PG)",
+      "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Pura Luz",
+        "url": "https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Pura Luz",
+      "url": "https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -919,38 +975,18 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Pura Luz",
-        "url": "https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D"
+        "name": "A Porta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
       },
       "artists": [
         {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
         }
       ],
-      "duration_ms": 345000,
-      "name": "Pura Luz",
-      "url": "https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Louco (feat. PG)",
-        "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 309383,
-      "name": "Louco (feat. PG)",
-      "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
+      "duration_ms": 191569,
+      "name": "A Porta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -987,22 +1023,18 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Cad\u00ea o Amor",
-        "url": "https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3"
+        "name": "Lado a Lado",
+        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
       },
       "artists": [
         {
-          "name": "Rozeniltton",
-          "url": "https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
         }
       ],
-      "duration_ms": 273362,
-      "name": "Cad\u00ea o Amor",
-      "url": "https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y"
+      "duration_ms": 225000,
+      "name": "Lado a Lado",
+      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -1019,22 +1051,6 @@
       "duration_ms": 290232,
       "name": "Te Seguirei",
       "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "A Porta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
-      },
-      "artists": [
-        {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
-        }
-      ],
-      "duration_ms": 191569,
-      "name": "A Porta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -1067,22 +1083,6 @@
       "duration_ms": 265815,
       "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Lado a Lado",
-        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lado a Lado",
-      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
     },
     {
       "added_at": "2022-10-14 14:07:40",

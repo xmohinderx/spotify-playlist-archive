@@ -4,7 +4,7 @@
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-76 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
+77 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Frost](https://open.spotify.com/track/61Ti0m8GexReFbEj02jcOr) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Frost](https://open.spotify.com/album/0xw1B9mtodHCWSHqRVRWQu) | 2:10 | 2022-06-17 |  |
 | [Good Night](https://open.spotify.com/track/2mh27Sd7puP6zYWE2dvxGL) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Good Night](https://open.spotify.com/album/1BxAOeGLqkXNZgEgfJSf5K) | 2:59 | 2022-06-17 |  |
 | [Goodbye](https://open.spotify.com/track/2C4pl7JiNTV0Ae9wd1H8IS) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Polar Picnic EP](https://open.spotify.com/album/3qSG7nuarahG2siS04UBPr) | 1:34 | 2022-06-17 |  |
-| [Green Tea](https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77) | 1:15 | 2022-06-17 |  |
+| [Green Tea](https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77) | 1:15 | 2022-06-17 | 2022-10-20 |
+| [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 | 2022-10-11 |  |
 | [Happy](https://open.spotify.com/track/1lgGS20zv4muRDigSOJRfK) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Good Vibes](https://open.spotify.com/album/4yi5KnJ4OMysAMfDQHKb6u) | 2:28 | 2022-06-17 |  |
 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 | 2022-06-17 |  |
 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 | 2022-06-17 |  |

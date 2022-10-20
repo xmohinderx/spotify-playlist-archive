@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui\-WWOzA">The Brother Moves On</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 913 likes - 81 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 81 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 27 | [Komani](https://open.spotify.com/track/20493T1klNTt4VFVIQFosr) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Tshepo Tsotetsi](https://open.spotify.com/artist/1WePh4qMbrAyRrkTm8Pn7q) | [The Alchemy of Living](https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb) | 6:43 |
 | 28 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 |
 | 29 | [African Ontology](https://open.spotify.com/track/56Se3mc2uBst7dLCe3qiwX) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Revision](https://open.spotify.com/album/54kfgK7hTKoAWTSSmZoC3I) | 7:41 |
-| 30 | [Breathe](https://open.spotify.com/track/2LpXQfDBYoJnK8MrNT8fR4) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [Therapy](https://open.spotify.com/album/6jnWbrTXFf7LjWXmf0qr2r) | 5:01 |
+| 30 | [Breathe](https://open.spotify.com/track/0Ybt7GtFdFutFAcDG8BadS) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [THERAPY](https://open.spotify.com/album/2IST9MireQnJPgGwTbkWM9) | 4:59 |
 | 31 | [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 |
 | 32 | [A Night in D.C](https://open.spotify.com/track/1cUBc1b5n74f4fzH4ol93o) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Two Sides,One Mirror](https://open.spotify.com/album/3cRaqxp2N4Bmw8m7jwGF3v) | 4:23 |
 | 33 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 80 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 |
 | 81 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 |
 
-Snapshot ID: `MTY2MDg1OTk0MCwwMDAwMDAwMDZhOWRhYTk3Nzc0MTgyMGJkYTQ1OWRkYmEyN2U2MDY4`
+Snapshot ID: `MTY2MDg1OTk0MCwwMDAwMDAwMDdmMWFhYmU4NmUwZTUzOTE5NjA1NTM4ZDI3Mjc1NTBj`

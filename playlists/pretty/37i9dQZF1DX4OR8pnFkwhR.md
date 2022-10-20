@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ao / <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。/ Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,769 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,808 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [余所見](https://open.spotify.com/track/1Kz2Y9PKCU30rjVTajO0mD) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [余所見](https://open.spotify.com/album/2fUjOVrL5QujhYp5t2kBOK) | 3:35 |
+| 1 | [YOSOMI](https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [YOSOMI](https://open.spotify.com/album/2XqxQQVh0O8Uetqqzt8VM8) | 3:35 |
 | 2 | [ピント](https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ピント](https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko) | 4:44 |
 | 3 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 |
 | 4 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 53 | [FLOATING EYES](https://open.spotify.com/track/5trmKu2TPm87vYS1xqouAj) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:12 |
 | 54 | [花々](https://open.spotify.com/track/7DBUFvfmZY7D1ZYJUEWaq7) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [花々](https://open.spotify.com/album/6LM4knFXG12tbLqyfE6seU) | 3:09 |
 | 55 | [ORANGE](https://open.spotify.com/track/67fIYaw4rsHDl24r2iXQrI) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [ORANGE](https://open.spotify.com/album/6dNCmvgmk5gaT9y0qMTQRP) | 4:02 |
-| 56 | [I'll be](https://open.spotify.com/track/7BmZWCY2C0uubDcca8vce7) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [I'll be](https://open.spotify.com/album/70oh3PLp2BjmJU0cXhuq7O) | 3:24 |
+| 56 | [I'll be](https://open.spotify.com/track/2Pun36FbfaX0c0DUUiLMaG) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [I'll be](https://open.spotify.com/album/0PrduFwTmKJZWyVFt8akXx) | 3:24 |
 | 57 | [Time Inn Moder](https://open.spotify.com/track/1JvTJ0XrOzGRgFs3hF6AKb) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Time Inn Moder](https://open.spotify.com/album/1GX6TYc90wKZM7Q3dJShdD) | 3:23 |
 | 58 | [街は海](https://open.spotify.com/track/4wM3cV1wEu9NMqAcUGsooR) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [街は海](https://open.spotify.com/album/2dlNNMuoTZVqU5jeDtjhgR) | 4:15 |
-| 59 | [天文部](https://open.spotify.com/track/2Bq6MBfyG1SG7RYH66KyMj) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [sayonara rhapsody](https://open.spotify.com/album/2P0LaU0YcCVafwv5wEaOAA) | 2:48 |
-| 60 | [熟す](https://open.spotify.com/track/2FdKt41u0WjhsFvXvRO5hF) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [熟す](https://open.spotify.com/album/3DJXDMI9hzkBDgm0mGyHaS) | 3:46 |
+| 59 | [Tenmonbu](https://open.spotify.com/track/4orGuUIVmTrw40JqdbbCIQ) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [sayonara rhapsody](https://open.spotify.com/album/5hqQTnUjPbLT3qWdYDRJYA) | 2:48 |
+| 60 | [Konasu](https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Konasu](https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX) | 3:46 |
 
-Snapshot ID: `MTY2NjEwNTIwMCwwMDAwMDAwMGMzNTZjM2JiZjJlMmZhMzJlODc4NzdiZTkwN2Y5MWUz`
+Snapshot ID: `MTY2NjEwNTIwMCwwMDAwMDAwMDk5ZGNhZGQ3OTc2ODc2MzIwNDIxOWEzNjM2ZDk3ODMz`

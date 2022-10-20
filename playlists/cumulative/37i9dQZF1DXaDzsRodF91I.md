@@ -61,7 +61,7 @@
 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 | 2021-03-19 |  |
 | [Hammer](https://open.spotify.com/track/0j80OMNnPlSWUwLoJkB1JR) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/188UbikjlSQhiboWAhAk3U) | 3:40 | 2021-03-19 | 2022-07-29 |
 | [Hammer](https://open.spotify.com/track/5kqr6EkKEafBGKxzjdXOVP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/1OjpWJvSUT8Svr3ZYWtCSD) | 3:40 | 2021-03-19 |  |
-| [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 | 2021-03-19 | 2022-10-15 |
+| [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 | 2021-03-19 |  |
 | [Hand In My Pocket](https://open.spotify.com/track/63ZO6WjbMpL696Vs0VU4xM) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:28 | 2021-03-19 | 2022-07-29 |
 | [Happier](https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY) | [Shorelines](https://open.spotify.com/artist/0dhKIZOcVIhpS5IcsUATkH) | [Happier](https://open.spotify.com/album/0pj8Mpwp0MdcMVhUjaYtMJ) | 3:33 | 2021-03-19 | 2022-07-29 |
 | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/track/0n0XAmYCMWlzj3W9VdMejw) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Ray Toro](https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E) | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/album/5aoP0bnk5GoiW2NAX779eO) | 2:59 | 2021-03-19 |  |
@@ -196,6 +196,6 @@
 | [Your Love](https://open.spotify.com/track/4TKXwzlxzqUeG2Rk9JfQZh) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Your Love](https://open.spotify.com/album/0XPEgk2PMqXJJsqMLAEqx9) | 3:36 | 2021-03-19 |  |
 | [Your Love](https://open.spotify.com/track/7JhWGOl6FJs5udtxvC8X3N) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Your Love](https://open.spotify.com/album/0IxU0LfSCIvcKD9LSOq4IS) | 3:36 | 2021-03-19 | 2022-07-29 |
 | [Yummy](https://open.spotify.com/track/0s0wuCLUg2CQjnqGJ4Y2TX) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/0uSVvWsFvh8wFkC0kVyDdq) | 3:21 | 2021-03-19 | 2022-05-17 |
-| [Yummy](https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v) | 3:21 | 2021-03-19 |  |
+| [Yummy](https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v) | 3:21 | 2021-03-19 | 2022-10-20 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

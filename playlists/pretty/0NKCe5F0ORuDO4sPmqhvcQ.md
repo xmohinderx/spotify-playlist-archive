@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,214 likes - 111 songs - 6 hr 16 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,213 likes - 112 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 5 | [Colours \- Tsu Nami Remix](https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Colours \(Tsu Nami Remix\)](https://open.spotify.com/album/0tmBZ08VFmrskKtmAusk18) | 2:36 |
 | 6 | [Inside My Head](https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN), [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [Inside My Head](https://open.spotify.com/album/46Xk8s8C66TNraDW6r4dWs) | 2:42 |
 | 7 | [TEAR ME UP](https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [TEAR ME UP](https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa) | 2:57 |
-| 8 | [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 |
+| 8 | [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 |
 | 9 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 |
 | 10 | [222](https://open.spotify.com/track/2aFaDxU5b4aRxOKrTRuA0v) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [222](https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5) | 3:28 |
 | 11 | [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 |
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 109 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 |
 | 110 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
 | 111 | [Like Me \(feat\. Hooli\)](https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Hooli](https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW) | [Like Me \(feat\. Hooli\)](https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH) | 2:23 |
+| 112 | [Spirit On Mine \- feat\. Luck](https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE) | [Venessa Michaels](https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC), [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/album/6AuypIwd3phed9BaarcGk2) | 3:13 |
 
-Snapshot ID: `MTAwMTksNjExODUwNzM3NjAyOTExMzM2MTNhOWNlNmMwNzQ5ZDE4MTBhYTkzNQ==`
+Snapshot ID: `MTAwMjAsNDRmZjJhOTM2OWZiYjQ3ODZhMzAwMzk4OWRlZTdlZWYwZGM5YTA1OQ==`

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-840 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+841 songs - 19 hr 47 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Contemplate](https://open.spotify.com/track/3QObWJzUMxqOkTJeBYiIEk) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Overcome](https://open.spotify.com/album/2P1dLjwu0Pwq46QZFOiwMX) | 1:02 | 2022-04-29 |  |
 | [Corridors](https://open.spotify.com/track/2vrj9N9JVZkrpk4ObLLwa3) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:37 | 2022-01-12 |  |
 | [Cotton](https://open.spotify.com/track/46ZUceAWhgjGRyzighRtLD) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:19 | 2022-01-15 |  |
-| [Countdown](https://open.spotify.com/track/30jh7BcA4IUEwdsuuzEpdL) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Countdown](https://open.spotify.com/album/4HnRPWI62z2HvXOysbUWmb) | 2:04 | 2022-01-12 |  |
+| [Countdown](https://open.spotify.com/track/30jh7BcA4IUEwdsuuzEpdL) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Countdown](https://open.spotify.com/album/4HnRPWI62z2HvXOysbUWmb) | 2:04 | 2022-01-12 | 2022-10-20 |
 | [Courageous](https://open.spotify.com/track/2cbxThYXxh9FRdS67TSWay) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [By the Shore](https://open.spotify.com/album/1UKtBO6uCXhhM4pXRwwmSw) | 1:42 | 2022-01-20 |  |
 | [Creation](https://open.spotify.com/track/0tWfXnWhRUwh8bPd8ZuM8o) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:15 | 2022-01-12 |  |
 | [Daisies In The Light Rain](https://open.spotify.com/track/5c6hRtjCMtdVHc792ok0kG) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
@@ -206,6 +206,7 @@
 | [Descending](https://open.spotify.com/track/0s7r56NOnNsBpJevyYN9WZ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Perspectives](https://open.spotify.com/album/3IrnM4TePjh3eadsqS6eq5) | 1:18 | 2022-01-12 |  |
 | [Dim Starlight](https://open.spotify.com/track/3LYjkM8uuEA3LU5bjV0LzU) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 |  |
 | [Distance](https://open.spotify.com/track/1YEclguNyJ2cCjOHc2Au4G) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:14 | 2022-01-12 |  |
+| [Distancing \- Strings Version](https://open.spotify.com/track/7mDo26UridHvuFn2Q28mCa) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Sublime Mornings Revisited \(Strings Version\)](https://open.spotify.com/album/3VDtNC64hbeRvGSUEXARd8) | 1:06 | 2022-10-19 |  |
 | [Distancing Sunlight](https://open.spotify.com/track/6y4QX4id7LugNfuqmacre5) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hillside Songs](https://open.spotify.com/album/32e44ep6VLvMxxIEawIlGc) | 1:03 | 2022-02-11 |  |
 | [Distant And Constant](https://open.spotify.com/track/0LXD90t3Zp5r67i5EUUoQq) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Promises](https://open.spotify.com/album/2j0DTCwnzCxsmqTlswfICq) | 1:06 | 2022-02-26 |  |
 | [Distant Connection](https://open.spotify.com/track/30yhzeBx2FfJiX4N2Mv5yj) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:04 | 2022-01-27 |  |

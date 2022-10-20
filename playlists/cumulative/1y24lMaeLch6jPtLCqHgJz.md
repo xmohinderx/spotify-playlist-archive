@@ -2,7 +2,7 @@
 
 ### [Progressive House Festival Hits 2022 ⭐️ \| Starlight](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
 
-> Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
+> Progressive House Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
 99 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 

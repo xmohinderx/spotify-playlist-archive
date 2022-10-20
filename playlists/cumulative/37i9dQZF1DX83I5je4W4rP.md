@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-202 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+203 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Baja Bound](https://open.spotify.com/track/7ozIQfNcPQfVTp26GUMl4x) | [Tunnel Vision](https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv) | [Baja Bound](https://open.spotify.com/album/219MsxtWcy8vEHEtPqjP7U) | 3:54 | 2022-04-25 | 2022-07-29 |
 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 | 2021-12-10 |  |
 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 | 2021-12-10 |  |
+| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-09-30 |  |
 | [Beach in Hawaii](https://open.spotify.com/track/7nCQ6Q6HJeHnwDHydc7x05) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu) | 3:44 | 2022-07-06 | 2022-10-13 |
 | [Beacon Of Light](https://open.spotify.com/track/4PAjV5ifAU2BD01vZI3xce) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Bobby Lee](https://open.spotify.com/artist/34nLg7bGBLd3sKqUYup7H6), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Beacon Of Light](https://open.spotify.com/album/0zDUfDAf9xnsjSGWz8wOWF) | 3:20 | 2021-12-10 | 2021-12-27 |
 | [Big Energy](https://open.spotify.com/track/2AjcrjatK9XbNMZdm42u0k) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Big Energy](https://open.spotify.com/album/3s0DBiTaAmLHY1rxJ0J0W2) | 3:03 | 2022-01-10 | 2022-02-07 |
@@ -101,7 +102,7 @@
 | [Jump](https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 5:04 | 2021-12-10 | 2022-07-29 |
 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 | 2022-07-06 | 2022-09-13 |
 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 | 2021-12-10 |  |
-| [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 | 2021-12-10 |  |
+| [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 | 2021-12-10 | 2022-10-20 |
 | [Lay Me Down \(feat\. Sublime With Rome\)](https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Rome](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/5EOxxqbniQ3CMCCoDfezWh) | 3:35 | 2022-02-04 |  |
 | [Lazy Afternoon](https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Bright Side of Life](https://open.spotify.com/album/6ry84mOthM6loLKbhuiovs) | 3:30 | 2021-12-10 |  |
 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 | 2022-07-06 |  |

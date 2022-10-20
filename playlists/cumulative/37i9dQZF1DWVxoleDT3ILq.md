@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Antonia Navarro
 
-274 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+276 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Somos los Mismos de Siempre](https://open.spotify.com/track/01GpVopX5wsjHrSwU5IKiQ) | [ELDANI](https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu) | [Somos los Mismos de Siempre](https://open.spotify.com/album/5eSI1GGV109quSOi7YXreh) | 4:28 | 2022-04-15 | 2022-07-29 |
 | [Sonámbulo](https://open.spotify.com/track/27yWuiO04OMNr0ikpQj0Oo) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Sonámbulo](https://open.spotify.com/album/6XGv3w6gzMpsxesukAXsGi) | 3:09 | 2022-04-15 |  |
 | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/track/4h0uvgfrsbblEhfn98qO51) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6) | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/album/6zgo4JJtSQmDlg7gcAWEo0) | 5:00 | 2022-04-15 | 2022-07-26 |
-| [Sulamita](https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Sulamita](https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp) | 4:26 | 2022-07-22 |  |
+| [Sulamita](https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Sulamita](https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp) | 4:26 | 2022-07-22 | 2022-10-20 |
+| [Sulamita](https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 4:26 | 2022-10-14 |  |
 | [Supernova](https://open.spotify.com/track/54iljSq1Sdn7ujYKiN4sal) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN) | [Supernova](https://open.spotify.com/album/6ujuBLcCHGjvpD6CxEqmy4) | 3:54 | 2022-07-01 | 2022-08-20 |
 | [Sólo Vine a Bailar](https://open.spotify.com/track/6FA2rRogpLIOZ0ffho4uPL) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [La Mar](https://open.spotify.com/album/6fLfcUkSJF8aWGQ3p8rfKZ) | 4:09 | 2022-04-15 | 2022-07-28 |
 | [Tan Bien](https://open.spotify.com/track/6rRgQaZo1v4gBRB2wo9Btl) | [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Universando](https://open.spotify.com/album/3StI1ax0T9EllHaRek7pzI) | 3:25 | 2022-04-15 | 2022-07-28 |
@@ -244,7 +245,8 @@
 | [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 | 2022-07-29 |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2022-07-29 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
-| [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-04-15 |  |
+| [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-04-15 | 2022-10-20 |
+| [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-14 |  |
 | [Tercera](https://open.spotify.com/track/38FMeqQyEl8zqvMIbrTU0c) | [Novedades Matutinas](https://open.spotify.com/artist/3mFy5nL1nhpNq2QyNNFWVt) | [Tercera](https://open.spotify.com/album/3TvWm67mHJhkVgzVjcSB9D) | 3:52 | 2022-05-27 | 2022-07-29 |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-04-15 |  |
 | [Tormenta](https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Tormenta](https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i) | 2:37 | 2022-05-06 | 2022-08-27 |

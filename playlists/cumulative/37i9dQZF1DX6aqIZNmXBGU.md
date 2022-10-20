@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-127 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/0qekuHpLuIk7DFeuQZ1pAT)
+128 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/0qekuHpLuIk7DFeuQZ1pAT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [Loose \- 2005 Remaster](https://open.spotify.com/track/4jYeoH1fAXq5yRcOKOs1Df) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Fun House \(Deluxe Edition\)](https://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv) | 3:34 | 2021-04-09 | 2022-07-29 |
 | [Love Fuzz](https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Love Fuzz](https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj) | 7:36 | 2021-04-09 | 2022-07-28 |
 | [Love Supreme \(Work Together!\)](https://open.spotify.com/track/3hdWuSgCuJKxBCrm0GSxVE) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Stardust Birthday Party](https://open.spotify.com/album/37BmBj2brWfP9HezMAebdH) | 3:11 | 2021-04-09 | 2022-07-29 |
+| [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 | 2021-04-09 |  |
 | [Lucidity](https://open.spotify.com/track/0wIycFb49FSJY1uWDLhDfu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1UZEI48x6bAvRw5M8AKQVX) | 4:31 | 2021-04-09 | 2022-07-29 |
-| [Lucidity](https://open.spotify.com/track/4aetgBuI5iRQpjy8gdGxY8) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/5RA5hhLlbw31QfQRX11pwo) | 4:31 | 2021-04-09 |  |
+| [Lucidity](https://open.spotify.com/track/4aetgBuI5iRQpjy8gdGxY8) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/5RA5hhLlbw31QfQRX11pwo) | 4:31 | 2021-04-09 | 2022-10-20 |
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2021-04-09 |  |
 | [Medication](https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 1:54 | 2021-04-09 |  |
 | [Medication](https://open.spotify.com/track/5vwJ82xdkXpoty59jbAoW9) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi) | 1:54 | 2021-04-09 | 2022-07-29 |

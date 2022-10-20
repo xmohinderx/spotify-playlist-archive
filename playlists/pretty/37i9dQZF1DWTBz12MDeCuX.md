@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Marshmello & Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,963 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,405 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Party Sahne](https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Party Sahne](https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC) | 2:17 |
+| 1 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
 | 2 | [Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght) | [Nur ein Wort](https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH) | 2:17 |
-| 3 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
+| 3 | [Party Sahne](https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Party Sahne](https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC) | 2:17 |
 | 4 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 |
 | 5 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 |
 | 6 | [BITTE BLEIB!](https://open.spotify.com/track/5jM9lCoRsFDPGvzNxzjXmk) | [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [BITTE BLEIB!](https://open.spotify.com/album/2Nuh1W85nqXAhKPjj1zpe1) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 |
 | 100 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 |
 
-Snapshot ID: `MTY2NTc0ODY3NCwwMDAwMDAwMDI2N2I2NGQ1YzU0OGMzZDg5ZDg4YzhmYmM5NjRiOGU3`
+Snapshot ID: `MTY2NjE3NTM5OCwwMDAwMDAwMGEyMTBjMmFhMjliZGNjZTYzNTFkYzgzZDIwNTUwY2Zi`

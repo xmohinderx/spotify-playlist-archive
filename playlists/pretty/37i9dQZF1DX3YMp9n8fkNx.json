@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1186431,
+  "num_followers": 1186656,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMDUyODIwODRkODRkY2M1YWUwM2ZiZjU0ODliYmU0N2E0",
+  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMGQ2ZWM0OTg4M2VmOTk3NjExZDFjYzg1Y2NlZmE3Nzg5",
   "tracks": [
     {
       "added_at": "2021-12-21 12:24:03",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Sex & Candy",
-      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 225946,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 306040,
       "name": "Shine",
       "url": "https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
     },
     {
       "added_at": "2022-03-23 15:34:17",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "America's Least Wanted",
-        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
-      },
-      "artists": [
-        {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "Cats In The Cradle",
-      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Laid",
         "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 156666,
       "name": "Laid",
       "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "America's Least Wanted",
+        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
+      },
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Cats In The Cradle",
+      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
     },
     {
       "added_at": "2022-03-23 15:34:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Let's Face It",
-        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 220467,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Let's Face It",
+        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Urban Hymns (Deluxe / Remastered 2016)",
-        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 293586,
-      "name": "Lucky Man",
-      "url": "https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Fush Yu Mang (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 207786,
       "name": "Walkin' On The Sun",
       "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Urban Hymns (Deluxe / Remastered 2016)",
+        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 293586,
+      "name": "Lucky Man",
+      "url": "https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF"
     },
     {
       "added_at": "2022-03-23 15:34:17",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
-      },
-      "artists": [
-        {
-          "name": "The Verve Pipe",
-          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "The Freshmen",
-      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 132306,
       "name": "Roll To Me",
       "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
+      },
+      "artists": [
+        {
+          "name": "The Verve Pipe",
+          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "The Freshmen",
+      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Walking Off the Buzz",
-        "url": "https://open.spotify.com/album/5ZgazGk7G2Enwy0UXvSzcF"
-      },
-      "artists": [
-        {
-          "name": "Blessid Union Of Souls",
-          "url": "https://open.spotify.com/artist/4W4gYpQ2AQq7US2HZS13Qw"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Hey Leonardo (She Likes Me for Me)",
-      "url": "https://open.spotify.com/track/6xP5TGWu1GBEHjMBmHRbjT"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 236533,
       "name": "Only Happy When It Rains",
       "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Walking Off the Buzz",
+        "url": "https://open.spotify.com/album/5ZgazGk7G2Enwy0UXvSzcF"
+      },
+      "artists": [
+        {
+          "name": "Blessid Union Of Souls",
+          "url": "https://open.spotify.com/artist/4W4gYpQ2AQq7US2HZS13Qw"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Hey Leonardo (She Likes Me for Me)",
+      "url": "https://open.spotify.com/track/6xP5TGWu1GBEHjMBmHRbjT"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "The Best Of / 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
-      },
-      "artists": [
-        {
-          "name": "Rusted Root",
-          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "Send Me On My Way",
-      "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Come On Feel The Lemonheads",
         "url": "https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 164706,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "The Best Of / 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "Send Me On My Way",
+      "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
     },
     {
       "added_at": "2021-12-21 12:24:03",

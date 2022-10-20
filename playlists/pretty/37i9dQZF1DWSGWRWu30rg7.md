@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Avolia  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,173 likes - 32 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,176 likes - 32 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 22 | [Upside Down](https://open.spotify.com/track/4ui4Zo3EJCLwHDvPjYIZVD) | [WAHAM](https://open.spotify.com/artist/1tL0LlLthyOhjlAbR921QO) | [Upside Down](https://open.spotify.com/album/1mNEujYZkRocsqnME9TC9i) | 4:13 |
 | 23 | [Ragu \(with Tiara Effendy\)](https://open.spotify.com/track/5Mpt0aZIoP3MiPhDvP2R1H) | [RBA](https://open.spotify.com/artist/3w364H4OAdrvrFlTmP8kB8), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Ragu \(with Tiara Effendy\)](https://open.spotify.com/album/6yjrt8S3F7lXF9cmIk8RR9) | 3:27 |
 | 24 | [CAP TIKUS](https://open.spotify.com/track/71L3GOFEjFAPECXEVp6vyJ) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk) | [CAP TIKUS](https://open.spotify.com/album/1vpjSbxfqOG2BHBFIMiBfX) | 3:04 |
-| 25 | [Mampu Tanpanya](https://open.spotify.com/track/5Ot1qlVfFLTBN1hDhG5M2B) | [Reygi](https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY), [PT Profesional Music](https://open.spotify.com/artist/3cDF8MfDC2NMYuojZQ6WUM) | [Mampu Tanpanya](https://open.spotify.com/album/5ZblYPTdz6soQiZXoc6TnW) | 3:03 |
+| 25 | [Mampu Tanpanya](https://open.spotify.com/track/5Ot1qlVfFLTBN1hDhG5M2B) | [Reygi](https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY) | [Mampu Tanpanya](https://open.spotify.com/album/5ZblYPTdz6soQiZXoc6TnW) | 3:03 |
 | 26 | [TIDURLAH](https://open.spotify.com/track/0OcJIdy46Te58hE8xzx3jh) | [Hunter Of Peace](https://open.spotify.com/artist/72p3ZYyP9IwsZH1VWevhEZ) | [TIDURLAH](https://open.spotify.com/album/3cislRGVpDoM4REySyanXr) | 3:55 |
 | 27 | [Selamanya Berdua](https://open.spotify.com/track/4rP73AmOKV5OVqUq8wp8vq) | [VDYP](https://open.spotify.com/artist/6vih4fNghZHL0PRv9UzPJV) | [Selamanya Berdua](https://open.spotify.com/album/1r5jmQR5KtOYx4HcSrK1s5) | 2:55 |
 | 28 | [MONEY2BIG \(SHAKIRA\)](https://open.spotify.com/track/2YxJXzAAFoeh3ZxmCmv3Jb) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [Yg Juju](https://open.spotify.com/artist/0WnHFsNx0BogF7G8Ah2QRG) | [MONEY2BIG \(SHAKIRA\)](https://open.spotify.com/album/1qLu9vX6G9gCh1aBlpqxCV) | 3:07 |

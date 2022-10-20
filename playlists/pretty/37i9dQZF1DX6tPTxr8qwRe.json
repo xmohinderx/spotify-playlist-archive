@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, karma driven, hard hitting pop. This is SALT. Cover: Maisie Peters",
-  "num_followers": 304526,
+  "num_followers": 304705,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDA1OGU4YTNkZTQxZGZjNmFkMGE4OWIxMGJhOTI5Yjcx",
+  "snapshot_id": "MTY2NjE4Nzc2MywwMDAwMDAwMDliMjMzZjAzZjU4MjBjZjQ0OTU2MWI5ZTk3MjE1Mjkx",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
+      "added_at": "2022-10-19 13:56:03",
+      "album": {
+        "name": "girl\u2019s girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 197042,
+      "name": "girl\u2019s girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "honey catching season",
@@ -151,22 +167,6 @@
       "duration_ms": 162049,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "my best friend's ex",
-        "url": "https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 175025,
-      "name": "my best friend's ex",
-      "url": "https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -391,6 +391,22 @@
       "duration_ms": 124373,
       "name": "Seven",
       "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "my best friend's ex",
+        "url": "https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 175025,
+      "name": "my best friend's ex",
+      "url": "https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA"
     },
     {
       "added_at": "2022-09-30 04:00:48",

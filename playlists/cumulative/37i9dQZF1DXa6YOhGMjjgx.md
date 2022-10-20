@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-217 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+218 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bad Love](https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Bad Love](https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0) | 2:30 | 2022-02-28 | 2022-07-29 |
 | [Be By Your Side](https://open.spotify.com/track/1Vh0ZXykuBBR0mcERksAqw) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be By Your Side](https://open.spotify.com/album/0ocfNOe1DGjYob591ipgcC) | 4:54 | 2022-02-28 | 2022-08-19 |
 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 | 2021-03-31 | 2022-04-28 |
-| [Beautiful James](https://open.spotify.com/track/5Yw6htG6TZtkeMo9WLI0M7) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/2DSeL00fsmpeqEKnq3s13J) | 4:08 | 2021-09-17 |  |
+| [Beautiful James](https://open.spotify.com/track/5Yw6htG6TZtkeMo9WLI0M7) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/2DSeL00fsmpeqEKnq3s13J) | 4:08 | 2021-09-17 | 2022-10-20 |
 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 | 2021-03-31 |  |
 | [Big Shot](https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Big Shot](https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs) | 3:39 | 2021-03-31 |  |
 | [Black and Red](https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:39 | 2022-04-29 |  |
@@ -41,7 +41,7 @@
 | [Bunny Man](https://open.spotify.com/track/6EBOq3nyD5vfZAHE7sGlaj) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/03sH5Msxg1MRYmmXlbUhO2) | 2:58 | 2022-01-14 | 2022-07-29 |
 | [Bunny Man](https://open.spotify.com/track/7Mhs6TsXacUO1wJP67r3yp) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/6bKrlySqeQntAp4PtX46oW) | 2:58 | 2022-04-29 |  |
 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 | 2022-01-14 |  |
-| [Burning Down a Denny's](https://open.spotify.com/track/3CYwtWdHsegf5DqGVNQ3JK) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [Burning Down a Denny's](https://open.spotify.com/album/5k7jZVLCfS4Vit76ayHC5Z) | 2:58 | 2021-09-17 |  |
+| [Burning Down a Denny's](https://open.spotify.com/track/3CYwtWdHsegf5DqGVNQ3JK) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [Burning Down a Denny's](https://open.spotify.com/album/5k7jZVLCfS4Vit76ayHC5Z) | 2:58 | 2021-09-17 | 2022-10-20 |
 | [Bury Me](https://open.spotify.com/track/62wJuHJ28SLRLem8XMUS8b) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Bury Me](https://open.spotify.com/album/7FoQtty0uxiFSqH0DqYFxT) | 2:58 | 2021-03-31 | 2022-04-29 |
 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 | 2021-03-31 | 2022-01-15 |
 | [Call Me a Saint](https://open.spotify.com/track/5z3fn2F5AyFbsjrOyzSnAB) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Call Me a Saint](https://open.spotify.com/album/47GkbWmABEFrS3dgRKddRO) | 3:20 | 2021-05-07 |  |
@@ -152,6 +152,7 @@
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2022-04-29 |  |
 | [My Honest Face](https://open.spotify.com/track/0UB9FchcGKnQ7GCDl9dJjF) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/07ZR3JqB2j0tAMc8bPRLan) | 4:34 | 2021-03-31 | 2022-07-29 |
 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 | 2021-05-28 |  |
+| [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 | 2022-04-29 |  |
 | [Never Enough](https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz) | 2:52 | 2022-01-14 | 2022-10-13 |
 | [New Comedown](https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [New Comedown](https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3) | 3:07 | 2021-03-31 |  |
 | [No Sale](https://open.spotify.com/track/0X6PQ9P3OXKnJbomkuZPLT) | [Middle Class Rut](https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN) | [No Sale](https://open.spotify.com/album/3xzOUX28RI7Q72RlMaaVUu) | 3:22 | 2021-03-31 | 2022-04-29 |
@@ -190,7 +191,7 @@
 | [Stay Out](https://open.spotify.com/track/4dqcedp9451K9DvxYugrTt) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Stay Out](https://open.spotify.com/album/1YFJjMAYWsXU8OdHBs0zgX) | 3:08 | 2021-03-31 | 2022-04-29 |
 | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v) | 3:45 | 2021-04-09 |  |
 | [Stop Making Stupid People Famous \(feat\. Pussy Riot\)](https://open.spotify.com/track/5L0VmR4Ny4PJpn9Gn0DB3w) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Stop Making Stupid People Famous \(feat\. Pussy Riot\)](https://open.spotify.com/album/3jO81nGYA85i0QsqEwSVLr) | 3:07 | 2021-06-25 |  |
-| [T.I.K.](https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [T.I.K.](https://open.spotify.com/album/7mPu1MjQjDpB5dB0uueDmD) | 4:39 | 2021-03-31 | 2022-10-19 |
+| [T.I.K.](https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [T.I.K.](https://open.spotify.com/album/7mPu1MjQjDpB5dB0uueDmD) | 4:39 | 2021-03-31 |  |
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/15QNdJ4ZAsIzsuwS8wYSsC) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/album/2TRagAvw8O6bv1dBihq0Cb) | 3:19 | 2021-05-21 | 2022-07-29 |
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/6yHGQ5QdOkjXzlsJXx88xe) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:19 | 2022-04-29 |  |
 | [Thank God I'm Not You](https://open.spotify.com/track/4YZVtRbdGOhHdGNi4JpCL5) | [Himalayas](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/78vmVv9bN0amzSiE1Fvzav) | 3:14 | 2021-03-31 | 2022-04-29 |

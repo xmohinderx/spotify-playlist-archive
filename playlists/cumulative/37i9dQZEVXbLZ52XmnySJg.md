@@ -4,11 +4,12 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-525 songs - 1 day 8 hr 17 min - [published](https://open.spotify.com/playlist/2hJO5OpOxq1ldai8M2Twzr)
+526 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/2hJO5OpOxq1ldai8M2Twzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2022-04-27 | 2022-06-12 |
+| [25\-25](https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:35 | 2022-10-19 |  |
 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 | 2022-08-13 | 2022-08-21 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2021-07-16 |  |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2021-03-27\* | 2021-03-27 |
@@ -472,7 +473,7 @@
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2021-05-23 | 2021-05-24 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-04-26 |
 | [Tera Yaar Hoon Main \(From "Sonu Ke Titu Ki Sweety"\)](https://open.spotify.com/track/1NX33DecZrq4ZUGDc47AfN) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ultimate Love Songs \- Arijit Singh](https://open.spotify.com/album/1WwkojG9sjMSrFVz4D51W0) | 4:24 | 2021-08-03 | 2021-08-04 |
-| [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 | 2021-11-23 |  |
+| [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 | 2021-11-23 | 2022-10-20 |
 | [Teri Mitti](https://open.spotify.com/track/75hrPAosuDiO9F3DKwVP12) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Teri Mitti \(Kesari\)](https://open.spotify.com/album/7sIxD3O1mFH3GPKJAlJHFY) | 5:13 | 2021-08-17 | 2022-08-18 |
 | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 | 2022-08-20 | 2022-10-08 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-30 | 2022-05-08 |

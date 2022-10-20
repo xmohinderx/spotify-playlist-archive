@@ -4,7 +4,7 @@
 
 > This is the new Core at its finest\. Cover: Ice Nine Kills
 
-585 songs - 1 day 12 hr 52 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+586 songs - 1 day 12 hr 55 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,8 @@
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-02-11 | 2022-07-23 |
 | [Pernicious](https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Pernicious](https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk) | 5:15 | 2022-07-13 | 2022-07-23 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
-| [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 |  |
+| [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 | 2022-10-14 |  |
+| [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 | 2022-10-20 |
 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 | 2022-01-28 | 2022-04-23 |
 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 | 2022-06-10 | 2022-10-19 |
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2022-07-13 | 2022-07-19 |

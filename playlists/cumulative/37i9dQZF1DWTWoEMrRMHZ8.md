@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Fagner
 
-314 songs - 19 hr 2 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+315 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Conto](https://open.spotify.com/track/6bJyPT1GXYQgPfzEIjSxIZ) | [Nath Rodrigues](https://open.spotify.com/artist/1dSAOPomSok2dYHM4caG0J), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Fio](https://open.spotify.com/album/23yj7rTYKJg3XbAxRQbsID) | 3:55 | 2022-05-13 | 2022-06-04 |
 | [conversas de travesseiro \- Ao vivo em São Paulo](https://open.spotify.com/track/1emrkeYwsLgQCz0WflpEOs) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Bryan Behr • Ao vivo em São Paulo](https://open.spotify.com/album/0YiT4eheEc4IClnZKfSjna) | 3:50 | 2022-08-19 |  |
 | [Coração Selvagem](https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 5:22 | 2021-12-24 |  |
+| [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 | 2022-10-19 |  |
 | [Dança](https://open.spotify.com/track/1mWjgRmbkSgUsHDevU7jT9) | [Dois é Par](https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk) | [Dança](https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj) | 2:40 | 2021-12-24 |  |
 | [Dança das Cadeiras](https://open.spotify.com/track/5HxGPli68CgNBfLmnxEQAU) | [Gab Lara](https://open.spotify.com/artist/4fMswJeTIgrLStwvUi1npH) | [Papo](https://open.spotify.com/album/5Z4E3FForlEGcAEHnzHPk9) | 2:03 | 2022-05-10 | 2022-06-04 |
 | [desculpe o auê](https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY) | [Belle](https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc), [Flávia Felicio](https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf) | [desculpe o auê](https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu) | 2:58 | 2022-06-03 |  |
@@ -259,7 +260,7 @@
 | [Rotação](https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Acústico](https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U) | 3:30 | 2021-12-24 |  |
 | [Sai da Frente Brasil](https://open.spotify.com/track/1uOh4NuXZA75PrAAMTBKuM) | [Aldir Blanc](https://open.spotify.com/artist/2vxB3dcYKpHO5eQfYetGxT), [Maurício Tapajós](https://open.spotify.com/artist/4mBPkPqppI7pJxjm5GD1wT) | [Aldir Blanc & Maurício Tapajós \- Volume 01](https://open.spotify.com/album/0VoJfur828abUpqUkPPep2) | 4:34 | 2022-05-10 | 2022-06-04 |
 | [Saudade](https://open.spotify.com/track/6NqoBGFX80qwT7mXa2PGAG) | [Bruna Morganti](https://open.spotify.com/artist/75DhzWd6QylmiMIYKc2PR0), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Saudade](https://open.spotify.com/album/2Qq1oCuOs1kLGvYjHZEMQs) | 3:22 | 2021-12-24 | 2022-02-02 |
-| [Saudação](https://open.spotify.com/track/2bLySWNdJGKjeZRmZqjYJJ) | [Renato Frazão](https://open.spotify.com/artist/6Z32VF1iZSJ9jV6RZ1E2Pn), [Xangai](https://open.spotify.com/artist/1fCdub35SOEgPYVfSrYTI6) | [Saudação](https://open.spotify.com/album/04sgSzlK0R60M8s66J8qyX) | 4:03 | 2022-10-07 |  |
+| [Saudação](https://open.spotify.com/track/2bLySWNdJGKjeZRmZqjYJJ) | [Renato Frazão](https://open.spotify.com/artist/6Z32VF1iZSJ9jV6RZ1E2Pn), [Xangai](https://open.spotify.com/artist/1fCdub35SOEgPYVfSrYTI6) | [Saudação](https://open.spotify.com/album/04sgSzlK0R60M8s66J8qyX) | 4:03 | 2022-10-07 | 2022-10-20 |
 | [Se Chico Soubesse \- Ao Vivo](https://open.spotify.com/track/2Jye4P8bq0kKVrbhBlSq4f) | [Samantha Jones](https://open.spotify.com/artist/0oHytlFJGfMFsR1MZezSZu), [Pomar](https://open.spotify.com/artist/6ppC4w59igCBSfkmGPEKPC) | [Samantha Jones no Festival Pomar Convida \(Ao Vivo\)](https://open.spotify.com/album/1YPiqQDy6siPzicjhpQofs) | 1:49 | 2021-12-24 | 2022-01-22 |
 | [Se Não For Amor](https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq) | [Benito 80](https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1), [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Se Não For Amor](https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7) | 4:56 | 2022-04-15 |  |
 | [Se Você Tem Amor](https://open.spotify.com/track/4n0Cl3xaeWmMaD3di8aKEo) | [Saulo Duarte](https://open.spotify.com/artist/7CAgPANVYLBZh3AmB6Wf70) | [Se Você Tem Amor](https://open.spotify.com/album/1VIWO9LI6J0Be0G0NlnsJm) | 4:28 | 2021-12-24 | 2022-05-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89346,
+  "num_followers": 89345,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDg0ZWM1MTBjYzAxYmFlNmI0N2I5MTk3ZTA2Zjc4ZWJm",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDZiOWI0YmU5MjU3ZGU0NDM4MDkyNGViMTRmYTQzMDE3",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -803,6 +803,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Let's Go Sunshine",
+        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203081,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 181360,
       "name": "More Than Friends (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Let's Go Sunshine",
-        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 203081,
-      "name": "Four Leaf Clover",
-      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -951,6 +951,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "In the Blue Light",
+        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "One Man's Ceiling Is Another Man's Floor",
+      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 382853,
       "name": "Story Of Everything",
       "url": "https://open.spotify.com/track/6exGzQG7704sf82TorgroD"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "In the Blue Light",
-        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "One Man's Ceiling Is Another Man's Floor",
-      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
     },
     {
       "added_at": "2019-11-29 09:37:55",

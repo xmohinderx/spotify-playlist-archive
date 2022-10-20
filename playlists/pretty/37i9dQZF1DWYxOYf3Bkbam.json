@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 30022,
+  "num_followers": 30040,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3NzQxNywwMDAwMDAwMDQyYTUzMGI3ODBkMjMwNDgxNmIxZmIxNjkyZjVjNzli",
+  "snapshot_id": "MTY2Mzg3NzQxNywwMDAwMDAwMGMyZGU3NWIzYjYwMWZjZDc0N2MyM2JkMWMxMjcyOGVi",
   "tracks": [
     {
       "added_at": "2022-09-22 20:10:17",
@@ -23,22 +23,6 @@
       "duration_ms": 152426,
       "name": "Soy lo Que Canto",
       "url": "https://open.spotify.com/track/1egiP2FrBoDdX5dhahAbaT"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/7vD9R7797pRWuETVzLFrTx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Ivoti",
-          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
-        }
-      ],
-      "duration_ms": 143653,
-      "name": "Entre amigos y chamam\u00e9",
-      "url": "https://open.spotify.com/track/2oVIceKK4OhBqcWMsUDIeF"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -63,18 +47,18 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7vD9R7797pRWuETVzLFrTx"
       },
       "artists": [
         {
-          "name": "Los Reyes Del Chamame",
-          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+          "name": "Conjunto Ivoti",
+          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
         }
       ],
-      "duration_ms": 150480,
-      "name": "Pobre Mi Caballo Bayo",
-      "url": "https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5"
+      "duration_ms": 143653,
+      "name": "Entre amigos y chamam\u00e9",
+      "url": "https://open.spotify.com/track/2oVIceKK4OhBqcWMsUDIeF"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -91,6 +75,22 @@
       "duration_ms": 166000,
       "name": "Las Manos De Mi Madre",
       "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Pobre Mi Caballo Bayo",
+      "url": "https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Pastor Luna - Chamemecero de Ley",
-        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
-      },
-      "artists": [
-        {
-          "name": "Pastor Luna",
-          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Meta lonja y chamam\u00e9",
-      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 120946,
       "name": "Las Tres Marias",
       "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "Pastor Luna - Chamemecero de Ley",
+        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
+      },
+      "artists": [
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Meta lonja y chamam\u00e9",
+      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Mburucuy\u00e1 poty",
-        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
-      },
-      "artists": [
-        {
-          "name": "Salvador Miqueri",
-          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Soy Correntino y Doy Fe",
-      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "Otras M\u00fasicas",
         "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 275026,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "Mburucuy\u00e1 poty",
+        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
+      },
+      "artists": [
+        {
+          "name": "Salvador Miqueri",
+          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Soy Correntino y Doy Fe",
+      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Reyes de la Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ"
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
       },
       "artists": [
         {
-          "name": "Los Sena",
-          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
         }
       ],
-      "duration_ms": 130786,
-      "name": "Adi\u00f3s Ciudad de Mercedes",
-      "url": "https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z"
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -599,38 +599,34 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ"
       },
       "artists": [
         {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
         }
       ],
-      "duration_ms": 146600,
-      "name": "Mi \u00daltima Flor",
-      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
+      "duration_ms": 130786,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z"
     },
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Alegr\u00eda y Chamam\u00e9",
-        "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        },
-        {
-          "name": "Los Cardocitos",
-          "url": "https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv"
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
         }
       ],
-      "duration_ms": 173386,
-      "name": "La Due\u00f1a del Monte",
-      "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
+      "duration_ms": 132213,
+      "name": "Te amare eternamente",
+      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -651,18 +647,22 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "Alegr\u00eda y Chamam\u00e9",
+        "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
       },
       "artists": [
         {
-          "name": "Los Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        },
+        {
+          "name": "Los Cardocitos",
+          "url": "https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv"
         }
       ],
-      "duration_ms": 132213,
-      "name": "Te amare eternamente",
-      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
+      "duration_ms": 173386,
+      "name": "La Due\u00f1a del Monte",
+      "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "14 Exitos De Oro",
         "url": "https://open.spotify.com/album/0TnVgnauPO8YZXWGnC3lmr"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 137346,
       "name": "Poncho Soro",
       "url": "https://open.spotify.com/track/0N5vO8qRLqPmbFFMz0fAiO"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
         "name": "Noche de Tormenta",
         "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
-        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 260410,
-      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
-      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
+        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 260410,
+      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
+      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "D\u00fao Cejas Sol\u00eds",
-        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
-      },
-      "artists": [
-        {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
-        }
-      ],
-      "duration_ms": 122733,
-      "name": "Palomita Mensajera",
-      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "Refugio de so\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 202025,
       "name": "Refugio de so\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "D\u00fao Cejas Sol\u00eds",
+        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "duration_ms": 122733,
+      "name": "Palomita Mensajera",
+      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Sencillito Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
+        "name": "Muchachita Sos Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A"
       },
       "artists": [
         {
-          "name": "La Nueva Fuerza del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
+          "name": "Coquimarola",
+          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
+        },
+        {
+          "name": "\u00d3scar Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm"
         }
       ],
-      "duration_ms": 182200,
-      "name": "No Hay Mal Que por Bien No Venga",
-      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
+      "duration_ms": 139173,
+      "name": "Sentimiento Correntino",
+      "url": "https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

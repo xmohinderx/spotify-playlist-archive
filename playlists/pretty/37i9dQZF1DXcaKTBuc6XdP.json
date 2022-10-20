@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2949,
+  "num_followers": 2956,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGU3YTVhODdlOTRkMTcxNmViODJiMWI0MWExN2MzMzMw",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGNkMzAyNGUzMGJlNGVhZWE0NjcwMjY0YTBkNTE0NDZk",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -279,6 +279,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "As Family We Go",
+        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Joy Of The Lord",
+      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 222765,
       "name": "The Great Adventure",
       "url": "https://open.spotify.com/track/3Qpx3cHP6XMmf8comtpjkT"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "As Family We Go",
-        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Joy Of The Lord",
-      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Season One",
         "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 352026,
       "name": "Brokenness Aside",
       "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
     },
     {
       "added_at": "2021-06-29 13:36:02",

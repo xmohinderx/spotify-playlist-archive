@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 
 > The sexy queen! Check out HyunA's music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,329 likes - 62 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,337 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 | 48 | [Downtown \(Feat\. Ji Yoon Jun\)](https://open.spotify.com/track/1HVlIvJ0FyvUYf9KARjTkT) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Ji Yoon Jun](https://open.spotify.com/artist/6jNj6Y6sIxigyIX0gmYg35) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:23 |
 | 49 | [A Bitter Day \(Feat\. Jun Hyung Yong & G.NA\)](https://open.spotify.com/track/0qjtg6cadlTcAT2Ox5lpcM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:47 |
 | 50 | [Just Follow \(Feat\. DOK2\)](https://open.spotify.com/track/5oiAchP69eu8pbWbeIDwrG) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:24 |
-| 51 | [A Bitter Day \(Feat\. Jun Hyung Yong & G.NA\)](https://open.spotify.com/track/5uBQ2wFMlFrM3AGp7fJ4dw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [A Bitter Day](https://open.spotify.com/album/1uU6hbNWGtlMj2Iscurkdf) | 3:47 |
+| 51 | [A Bitter Day \(Feat\. Jun Hyung Yong & G.NA\)](https://open.spotify.com/track/5uBQ2wFMlFrM3AGp7fJ4dw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo), [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA) | [A Bitter Day](https://open.spotify.com/album/1uU6hbNWGtlMj2Iscurkdf) | 3:47 |
 | 52 | [Player \(Feat\. HYUNA\)](https://open.spotify.com/track/2lj0NyS3hDxtHZuCdo2eEF) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9), [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Chemistry](https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl) | 3:45 |
 | 53 | [Crazy](https://open.spotify.com/track/7ehFSpcDs3PBExiLPwXQP9) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/7rxIGZnWtFAmEP0LAGMF3E) | 3:12 |
 | 54 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 |

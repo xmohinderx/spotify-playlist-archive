@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-508 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+509 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Want To](https://open.spotify.com/track/4eRKLoekIhUlkwkszb928L) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 4:25 | 2022-10-14 |  |
 | [Want to Know](https://open.spotify.com/track/4ZFhZGMxxt5nF3S8NtYkFN) | [Synchronice](https://open.spotify.com/artist/1pOmjpg4X03jcvS2R0FY53) | [Want to Know](https://open.spotify.com/album/1lBWKizQH5gBD4ZLTyVtE6) | 3:04 | 2022-01-14 | 2022-04-08 |
 | [War \(Juche Remix\)](https://open.spotify.com/track/49PORQleZkPwh2x1YnUqbq) | [Tee Dee Dees](https://open.spotify.com/artist/160nTkcydjOsxWWFJautCZ), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [War \(Juche Remix\)](https://open.spotify.com/album/3oaXo0aMOWC1HozKgninhJ) | 3:04 | 2022-01-25 | 2022-02-26 |
+| [Waves \(with RYYZN\)](https://open.spotify.com/track/5uPPjKE3J565ucK3CwhGq4) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Waves \(with RYYZN\)](https://open.spotify.com/album/39sXUDAbIh5B6o5ola9A3H) | 2:56 | 2022-10-19 |  |
 | [Way Down](https://open.spotify.com/track/0zfIq0JObVjH33aSAHVpaq) | [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e), [Melissa Lamm](https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K) | [Way Down](https://open.spotify.com/album/0YgMyFZwXn61MoCADLULbm) | 3:25 | 2022-04-01 | 2022-05-18 |
 | [We Are One](https://open.spotify.com/track/76BB2WqsnN5Vq0u1qbbKKh) | [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [We Are One](https://open.spotify.com/album/31BSHQIikqLF0xql9YP8h3) | 3:37 | 2022-04-21 | 2022-09-15 |
 | [We Don't Talk Anymore](https://open.spotify.com/track/7fVPyPDqf5IH6iUUjM92XG) | [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r), [Lionsize](https://open.spotify.com/artist/3AXTxnESIwvNxngE8j6weV) | [We Don't Talk Anymore](https://open.spotify.com/album/1QxCwZN8Qoz9925sqd80dv) | 3:15 | 2022-02-15 | 2022-03-19 |

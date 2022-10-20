@@ -825,7 +825,7 @@
     {
       "album": {
         "name": "Stay True",
-        "url": "https://open.spotify.com/album/2M5xQAbyUlm4c7wP1kcUhP"
+        "url": "https://open.spotify.com/album/5XqqJYyTGwtp6IulyQWPJ0"
       },
       "artists": [
         {
@@ -836,6 +836,24 @@
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168071,
+      "name": "Stay True",
+      "url": "https://open.spotify.com/track/0KBaiSc0218RRst1HztFaH"
+    },
+    {
+      "album": {
+        "name": "Stay True",
+        "url": "https://open.spotify.com/album/2M5xQAbyUlm4c7wP1kcUhP"
+      },
+      "artists": [
+        {
+          "name": "Melvillous",
+          "url": "https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J"
+        }
+      ],
+      "date_added": "2021-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
       "duration_ms": 168071,
       "name": "Stay True",
       "url": "https://open.spotify.com/track/4wn7GmTwrC4mHrmMNyTm6O"

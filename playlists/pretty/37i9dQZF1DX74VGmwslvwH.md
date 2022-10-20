@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,147 likes - 83 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,324 likes - 83 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 60 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 |
 | 61 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
 | 62 | [Resilience](https://open.spotify.com/track/7ad0Y8DIZtWtZCvHefq3xg) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Resilience](https://open.spotify.com/album/3nHcATi2dBX2I0IWwvxWMj) | 4:13 |
-| 63 | [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/track/6h2qQOW2ea12UCbU7IXxOK) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G) | [Música para Meditação](https://open.spotify.com/album/2Fw27HBf4XBVIah908hWKn) | 6:33 |
+| 63 | [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/track/38PJrKQkMqv3I8pTvU3wcX) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/album/38KqNWCEiCcw6xdzuXhZXZ) | 6:33 |
 | 64 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 |
 | 65 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 |
 | 66 | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/track/6rNmdoYbDXjqnslT2NbJTK) | [CALMING & PEACEFUL VIBES](https://open.spotify.com/artist/0Kzexs0X9tAOobFWG68J7x) | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/album/2X1JJ00htpKDWqWNCMPN1N) | 4:21 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 82 | [Saraswati Ma](https://open.spotify.com/track/5cIlLDsVPVUGSivIhXUQd5) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 8:45 |
 | 83 | [Raga Hemant \- Alap](https://open.spotify.com/track/6imQ2eamWdJ6vFTIoQZGD2) | [Bidyut Khan Band](https://open.spotify.com/artist/1gOYLPSgVPPiSIsaBHh5Xd), [Lucyan](https://open.spotify.com/artist/00iiLc3ejnD5C6rjCjWned) | [Ragas: Classical Indian music for sarod, sitar and tabla](https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY) | 7:30 |
 
-Snapshot ID: `MTY2NDUzNTcyMCwwMDAwMDAwMGIzODJlZDhlMjkzNTY2MGJhYzhjNjlhMGI5YjI4MTQw`
+Snapshot ID: `MTY2NDUzNTcyMCwwMDAwMDAwMDAxYmU1OTI1MmMwNDFhMzlmOTY1MDEwMmQ5NGM0YzFh`

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with SLANDER.
 
-363 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+364 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-04-15 | 2022-08-27 |
 | [KENKA](https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ) | [Psyk](https://open.spotify.com/artist/2RusBZlkZ9lETokC77zCH6), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Lazerpunk](https://open.spotify.com/artist/1xFCRE0T1SELBAaxtlG5X3) | [KENKA](https://open.spotify.com/album/33ClsVhy2gpOIVF9rAE8LX) | 3:22 | 2021-12-17 | 2022-03-12 |
 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 | 2022-01-21 | 2022-08-06 |
-| [Kiwi](https://open.spotify.com/track/1NVvUFQF36tfet1CoAN2fM) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Riotville ADE Compilation 2022](https://open.spotify.com/album/1Q5WOq8xnIggDbpsSk1Z2E) | 2:26 | 2022-09-30 |  |
+| [Kiwi](https://open.spotify.com/track/1NVvUFQF36tfet1CoAN2fM) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Riotville ADE Compilation 2022](https://open.spotify.com/album/1Q5WOq8xnIggDbpsSk1Z2E) | 2:26 | 2022-09-30 | 2022-10-20 |
+| [Kiwi](https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Kiwi](https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT) | 2:26 | 2022-09-30 |  |
 | [L1FE](https://open.spotify.com/track/6gVb7bhSZ2oxpI9tavohjZ) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [CYBER BLADE](https://open.spotify.com/album/1RShEQl3IL7YAJFLRV3OH2) | 2:45 | 2022-04-22 | 2022-09-03 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-04-29 |  |
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-07-01 |  |

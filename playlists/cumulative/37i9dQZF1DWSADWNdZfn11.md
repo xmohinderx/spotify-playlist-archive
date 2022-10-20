@@ -4,12 +4,13 @@
 
 > Relax and unwind with gentle piano covers.
 
-129 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/6TQH1ddWIcxWjiiu5iMjvS)
+130 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/6TQH1ddWIcxWjiiu5iMjvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2PJPNp8iKywuI1Pq1Vs9EW) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [\(They Long To Be\) Close To You](https://open.spotify.com/album/4siaxr50PMSkm8BlBvUP3b) | 2:41 | 2022-10-14 |  |
-| [7 Years \- Piano Version](https://open.spotify.com/track/7h6t8EeriVNnB0TUAsBPFh) | [Sam Pellegrino](https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5) | [Piano Stories](https://open.spotify.com/album/5iPmyMQet31uMvDLGPo9xf) | 2:43 | 2022-08-01 |  |
+| [7 Years \- Piano Version](https://open.spotify.com/track/7HumU69n9DlGp6UdMkGw7W) | [Sam Pellegrino](https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5) | [Piano Stories](https://open.spotify.com/album/4KlPbXSlaW03DnUXr4EqqR) | 2:43 | 2022-10-14 |  |
+| [7 Years \- Piano Version](https://open.spotify.com/track/7h6t8EeriVNnB0TUAsBPFh) | [Sam Pellegrino](https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5) | [Piano Stories](https://open.spotify.com/album/5iPmyMQet31uMvDLGPo9xf) | 2:43 | 2022-08-01 | 2022-10-20 |
 | [A Million Dreams](https://open.spotify.com/track/6s8eJYbzaALB1eLP1czQED) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [A Million Dreams](https://open.spotify.com/album/6uWAfzGxbcrppRNsj0LV0A) | 4:31 | 2022-08-01 |  |
 | [A Thousand Years](https://open.spotify.com/track/5xWD5Oy72pgn54R5ERwyr8) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Anton Goosmann](https://open.spotify.com/artist/1fPzD56OchmMDTv12ZTWpv) | [A Thousand Years](https://open.spotify.com/album/0utb7TeZbh3M2NeXLzCL48) | 1:48 | 2022-08-01 |  |
 | [Against All Odds](https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [Against All Odds](https://open.spotify.com/album/4LeHYuZNVhTHaV9VzoDos4) | 3:48 | 2022-08-01 |  |

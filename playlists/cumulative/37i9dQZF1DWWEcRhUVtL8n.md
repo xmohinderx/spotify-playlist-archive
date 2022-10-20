@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lizzy Mcalpine
 
-1,382 songs - 3 day 0 hr 44 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,383 songs - 3 day 0 hr 47 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-06-01 | 2022-10-14 |
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-05-05 | 2021-05-27 |
 | [Castaway](https://open.spotify.com/track/69wolqsoM2iep99SK53FpN) | [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [Castaway](https://open.spotify.com/album/1Hfo8EEoxWLnP9Rqhc8ppP) | 3:13 | 2022-04-01 | 2022-04-14 |
-| [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 |  |
+| [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2022-10-20 |
 | [Catch My Drift](https://open.spotify.com/track/2r3d7ZEucbIL2N7E1ayWyX) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Catch My Drift](https://open.spotify.com/album/0TF4NVRcAbpCzhXrZ81wfS) | 3:12 | 2022-02-25 | 2022-07-29 |
 | [Caught in the Middle](https://open.spotify.com/track/7aKCwhBjb8zuTEBGzf48Qm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet/Caught in the Middle](https://open.spotify.com/album/6hPjqER5erz9bS5C3fxq1L) | 2:42 | 2020-10-16 | 2022-04-11 |
 | [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-06 | 2022-04-07 |
@@ -315,6 +315,7 @@
 | [Dangerous](https://open.spotify.com/track/66k2yf5A5yeWidimsHOtSF) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Dangerous](https://open.spotify.com/album/54xf7HiB51PGuga8FDvxGS) | 2:51 | 2020-10-13\* | 2021-10-21 |
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-02-22 | 2021-10-13 |
 | [Day by Day](https://open.spotify.com/track/1iAtzizV90sFq9oXw4zONM) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Day by Day](https://open.spotify.com/album/1g5s0gmdxuwtZP4qzt9APy) | 2:57 | 2020-10-20 | 2021-02-25 |
+| [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-07 |  |
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-30 | 2022-10-13 |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2020-10-20 | 2022-04-15 |
 | [Daydream \- Portugal\. The Man Remix](https://open.spotify.com/track/6hGQz4yeepTEs9cGIgo53e) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Under My Influence \(Deluxe\)](https://open.spotify.com/album/3fwq6wiFtFjAZbVzUziFxk) | 3:07 | 2021-10-22 | 2021-12-26 |

@@ -1,13 +1,93 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Junaco | Visual Artist: Bailey Elder",
-  "num_followers": 20095,
+  "num_followers": 20218,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU5MDQwMCwwMDAwMDAwMDk3MDgzNWQ5ZGJhMjRjYjgyYTQ5OGE5ODg2NmRmZjE4",
+  "snapshot_id": "MTY2NjE2MDU5NiwwMDAwMDAwMGE2YmI1N2MxMmZiMWMzNTc3ODMwYTRkOWIzYjgyNjFh",
   "tracks": [
+    {
+      "added_at": "2022-10-19 06:23:16",
+      "album": {
+        "name": "Highways",
+        "url": "https://open.spotify.com/album/0bSBKTyijO05S4IHqwQrjC"
+      },
+      "artists": [
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "duration_ms": 260032,
+      "name": "My Weakness",
+      "url": "https://open.spotify.com/track/70eeePOYW3D3GubmKM197H"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop"
+    },
+    {
+      "added_at": "2022-10-19 06:23:16",
+      "album": {
+        "name": "October (October Version)",
+        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "October (October Version)",
+      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5WRJ3OqU8n6LfsuR3gu9R3"
+      },
+      "artists": [
+        {
+          "name": "Regina Pimentel",
+          "url": "https://open.spotify.com/artist/3mCLwcR4Gcuw8uAQkeBoEH"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "June",
+      "url": "https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d"
+    },
+    {
+      "added_at": "2022-10-19 06:23:16",
+      "album": {
+        "name": "baby blue",
+        "url": "https://open.spotify.com/album/1TeqZ0X8hqCQNELMmVivks"
+      },
+      "artists": [
+        {
+          "name": "ella ruby",
+          "url": "https://open.spotify.com/artist/2LqBqyJQJJgt2bvjdSyY04"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "in my car",
+      "url": "https://open.spotify.com/track/5OC5iFVDl3pRfThoTbs817"
+    },
     {
       "added_at": "2022-10-12 16:00:00",
       "album": {
@@ -25,6 +105,86 @@
       "url": "https://open.spotify.com/track/4e2OclvRO3w8s4VomIbfxF"
     },
     {
+      "added_at": "2022-10-19 06:23:16",
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/1Rgpj3IAACl9M48bmefYqC"
+      },
+      "artists": [
+        {
+          "name": "Parkland",
+          "url": "https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm"
+        }
+      ],
+      "duration_ms": 223801,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/4Tfvz7BRWnLYqlja4jUAsy"
+    },
+    {
+      "added_at": "2022-10-19 06:23:16",
+      "album": {
+        "name": "Middle of a Heart",
+        "url": "https://open.spotify.com/album/5vzJc5UkAhd1GZvJpM0ODL"
+      },
+      "artists": [
+        {
+          "name": "Adeem the Artist",
+          "url": "https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Middle of a Heart",
+      "url": "https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927"
+    },
+    {
+      "added_at": "2022-10-19 06:23:16",
+      "album": {
+        "name": "Upstate",
+        "url": "https://open.spotify.com/album/14r57tTbZoR7nVEKZPe7XJ"
+      },
+      "artists": [
+        {
+          "name": "Maz Lovella",
+          "url": "https://open.spotify.com/artist/7awTzwMtwUWO1sGrozETz3"
+        }
+      ],
+      "duration_ms": 244899,
+      "name": "Upstate",
+      "url": "https://open.spotify.com/track/1DHGQ8hg1bw7ey0pRvHwz3"
+    },
+    {
+      "added_at": "2022-10-19 06:23:16",
+      "album": {
+        "name": "Along for the Ride",
+        "url": "https://open.spotify.com/album/5zUul6JFofk88lBe5g4S75"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "duration_ms": 200583,
+      "name": "Along for the Ride",
+      "url": "https://open.spotify.com/track/6n5QC6I90spAvogzjP0K1f"
+    },
+    {
+      "added_at": "2022-10-05 04:00:00",
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 378531,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/7G7czV2zDj9A5wDnNa0uYU"
+    },
+    {
       "added_at": "2022-09-28 16:00:00",
       "album": {
         "name": "Weightless",
@@ -39,6 +199,22 @@
       "duration_ms": 207866,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/1RmZ9Oh6qfidVbzukot42i"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
+      },
+      "artists": [
+        {
+          "name": "Violet Bell",
+          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+        }
+      ],
+      "duration_ms": 228083,
+      "name": "All the Stars (Radio Edit)",
+      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
     },
     {
       "added_at": "2022-10-12 16:00:00",
@@ -75,38 +251,6 @@
     {
       "added_at": "2022-10-12 16:00:00",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
-      },
-      "artists": [
-        {
-          "name": "Violet Bell",
-          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
-        }
-      ],
-      "duration_ms": 228083,
-      "name": "All the Stars (Radio Edit)",
-      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop"
-    },
-    {
-      "added_at": "2022-10-12 16:00:00",
-      "album": {
         "name": "Anchored",
         "url": "https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77"
       },
@@ -135,38 +279,6 @@
       "duration_ms": 182828,
       "name": "Keeping Score",
       "url": "https://open.spotify.com/track/4cKKXsPQDXpDbO27lJZQYl"
-    },
-    {
-      "added_at": "2022-10-05 04:00:00",
-      "album": {
-        "name": "Guard Dog",
-        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 378531,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/7G7czV2zDj9A5wDnNa0uYU"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/5WRJ3OqU8n6LfsuR3gu9R3"
-      },
-      "artists": [
-        {
-          "name": "Regina Pimentel",
-          "url": "https://open.spotify.com/artist/3mCLwcR4Gcuw8uAQkeBoEH"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "June",
-      "url": "https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d"
     },
     {
       "added_at": "2022-10-12 16:00:00",
@@ -1179,22 +1291,6 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
-        "name": "Used To Be Friends",
-        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
         "name": "Summer in Sweden",
         "url": "https://open.spotify.com/album/3RkTNWVtI8tSe7NroYDpdh"
       },
@@ -1539,102 +1635,6 @@
       "duration_ms": 235374,
       "name": "Walk The Streets On Sunrise",
       "url": "https://open.spotify.com/track/4ntU4sdYYE3j0I8qLeEHAx"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "For a Chisos Bluebonnet",
-        "url": "https://open.spotify.com/album/61qBy2nsFPnV03mWt5XyWD"
-      },
-      "artists": [
-        {
-          "name": "Eli Winter",
-          "url": "https://open.spotify.com/artist/2g4lvjVSHVht7kc9nKgH11"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "For a Chisos Bluebonnet",
-      "url": "https://open.spotify.com/track/79DLi2SKfGFmaHMc9MJFoQ"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Slips Away",
-        "url": "https://open.spotify.com/album/7sS91iOAoy5EKAGiTRap8P"
-      },
-      "artists": [
-        {
-          "name": "Skin & Bones",
-          "url": "https://open.spotify.com/artist/4AWfRAqqxXYzSjjvpUVhm1"
-        }
-      ],
-      "duration_ms": 220786,
-      "name": "Slips Away",
-      "url": "https://open.spotify.com/track/6zAb1Ys5eS8Rmw27K17pIf"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "At Least",
-        "url": "https://open.spotify.com/album/1Vs8Duk5wpXcy3P4Rgmd7Q"
-      },
-      "artists": [
-        {
-          "name": "Bec Sykes",
-          "url": "https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2"
-        }
-      ],
-      "duration_ms": 234337,
-      "name": "At Least",
-      "url": "https://open.spotify.com/track/2UkWIXrZvKBXueAYobCKY7"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Cocaine Angel",
-        "url": "https://open.spotify.com/album/0dfViZEtz1FHxk9HgwtZwV"
-      },
-      "artists": [
-        {
-          "name": "Paul Moody",
-          "url": "https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN"
-        }
-      ],
-      "duration_ms": 141778,
-      "name": "Cocaine Angel",
-      "url": "https://open.spotify.com/track/2y13K9uWsgfqOItXO1fHyQ"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Lost Without",
-        "url": "https://open.spotify.com/album/2TSYZLjiPqhZwMxyPkh4Ii"
-      },
-      "artists": [
-        {
-          "name": "Shane Guerrette",
-          "url": "https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Lost Without",
-      "url": "https://open.spotify.com/track/6dk75ZAQqJaAl1H1hdk8uE"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Radiator",
-        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
-      },
-      "artists": [
-        {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
-        }
-      ],
-      "duration_ms": 234783,
-      "name": "radiator",
-      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
     }
   ],
   "unique_name": "Fresh Finds Folk",

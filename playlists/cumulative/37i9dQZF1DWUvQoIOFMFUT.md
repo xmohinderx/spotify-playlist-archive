@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-136 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+137 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Music For Psychedelic Therapy \- Excerpt](https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 7:07 | 2021-10-14 |  |
 | [My Tears Are Becoming a Sea](https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry up, We're Dreaming](https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG) | 2:31 | 2021-10-14 | 2022-07-29 |
 | [My Tears Are Becoming A Sea](https://open.spotify.com/track/1Fwj0wThn3kTg8D7KgWdsU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 2:31 | 2021-10-14 |  |
-| [Never Hurt](https://open.spotify.com/track/0oEt9RVATZzVjLusDYuwY5) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Never Hurt](https://open.spotify.com/album/3KCveU8TAjvVOChRKOlINQ) | 3:15 | 2021-10-14 |  |
+| [Never Hurt](https://open.spotify.com/track/0oEt9RVATZzVjLusDYuwY5) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Never Hurt](https://open.spotify.com/album/3KCveU8TAjvVOChRKOlINQ) | 3:15 | 2021-10-14 | 2022-10-20 |
+| [Never Hurt](https://open.spotify.com/track/3mmYPa9T2x8oRLoZz9NyHA) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Never Hurt](https://open.spotify.com/album/21DF2hwfIPBpsftrREbDnO) | 3:15 | 2021-10-14 |  |
 | [No One's Lost Tribe](https://open.spotify.com/track/1VgH90Evnm70gWiz8ELCCX) | [Matt Deighton](https://open.spotify.com/artist/3FEe8aolYovgLWOStVywwH) | [Doubtless Dauntless](https://open.spotify.com/album/6hqJE2kDJCQNWTXdj9vieC) | 4:10 | 2021-10-14 |  |
 | [Nowhere Near](https://open.spotify.com/track/39w0PWHKuw8LkmH13dQGvh) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Nowhere Near](https://open.spotify.com/album/760pl4rm6bi8ig4PBS31Wn) | 4:07 | 2021-10-14 |  |
 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 | 2021-10-14 |  |

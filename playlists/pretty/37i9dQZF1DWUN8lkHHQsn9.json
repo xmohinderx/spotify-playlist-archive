@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMGMwNGE5NDNiNjFlMTQyOGMxOWZiOWQ2Y2UyYmUwOTNj",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDM5YjQzMTY5MTBiNTNjNzBhNmYyMjEzZTU3YjAwM2I3",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -727,8 +727,8 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "VITAY (Avtomat Remix)",
-        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
       "artists": [
         {
@@ -736,13 +736,17 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
         }
       ],
-      "duration_ms": 250208,
-      "name": "VITAY - Avtomat Remix",
-      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -879,8 +883,8 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Technikolor",
-        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+        "name": "VITAY (Avtomat Remix)",
+        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
       "artists": [
         {
@@ -888,17 +892,13 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Twoja Stara",
-          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
-        },
-        {
-          "name": "Lola Eyeonyou Potocki",
-          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Technikolor",
-      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+      "duration_ms": 250208,
+      "name": "VITAY - Avtomat Remix",
+      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
     },
     {
       "added_at": "2022-07-22 08:13:30",

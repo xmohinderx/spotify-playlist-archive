@@ -10312,6 +10312,28 @@
     },
     {
       "album": {
+        "name": "Waves (with RYYZN)",
+        "url": "https://open.spotify.com/album/39sXUDAbIh5B6o5ola9A3H"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "RYYZN",
+          "url": "https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176725,
+      "name": "Waves (with RYYZN)",
+      "url": "https://open.spotify.com/track/5uPPjKE3J565ucK3CwhGq4"
+    },
+    {
+      "album": {
         "name": "Way Down",
         "url": "https://open.spotify.com/album/0YgMyFZwXn61MoCADLULbm"
       },

@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-225 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
+226 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 | 2022-04-22 |  |
 | [Remnants in Time](https://open.spotify.com/track/5HlLaivd9yiou56KJFnkHz) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Remnants in Time](https://open.spotify.com/album/6FdfWezc4GtIKEXuEkHM7b) | 4:53 | 2022-01-14 | 2022-07-29 |
 | [Return to Strength](https://open.spotify.com/track/4dwkRSahcpLc1idfrxeuvk) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Keepers Of The Faith](https://open.spotify.com/album/6hu0pi5xOAgeHvXphLLc4W) | 2:40 | 2022-01-14 |  |
+| [Reveries](https://open.spotify.com/track/4qPgkvOEbh6AP8AHAyG62r) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Towards The Dying Lands](https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I) | 4:11 | 2022-04-22 |  |
 | [Reveries](https://open.spotify.com/track/2FFOPvYo54IwPSm5cX3Buu) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Reveries](https://open.spotify.com/album/6Ndsuza08xWiz0SCSQNcg9) | 4:12 | 2022-01-14 | 2022-07-29 |
 | [Rot](https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Come, Heavy Breath](https://open.spotify.com/album/1HrLzhNTNkDNzzDlo3trDi) | 2:50 | 2022-01-14 | 2022-07-25 |
 | [Sadness Rains](https://open.spotify.com/track/1BkqHo0wVuIuJvcCnqbwqv) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Sadness Rains](https://open.spotify.com/album/0j6VPPJdHULwpv5ObOPbDW) | 2:40 | 2022-01-14 | 2022-07-29 |
@@ -227,7 +228,7 @@
 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 | 2022-01-14 |  |
 | [Voices](https://open.spotify.com/track/51ZlzotGF0D9VyeOLK8Ps9) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Voices](https://open.spotify.com/album/4gD7pbQGAtNiMTeWunAQe1) | 4:15 | 2022-01-14 | 2022-07-29 |
 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 | 2022-04-22 |  |
-| [Void Silence](https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Into the Light](https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf) | 3:33 | 2022-01-14 |  |
+| [Void Silence](https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Into the Light](https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf) | 3:33 | 2022-01-14 | 2022-10-20 |
 | [Waiting for the End](https://open.spotify.com/track/0nMsXo9CD2Dbaw6EODNbJI) | [Left Behind](https://open.spotify.com/artist/0D9zhma3Ysy2QqysEkVWRW) | [Waiting for the End](https://open.spotify.com/album/29MnETHCzGNhrtWWhOETUP) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 | 2022-01-14 | 2022-07-28 |
 | [You Will Never Be One of Us](https://open.spotify.com/track/3aYX2XUXs2JFmq03iqpcVl) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [You Will Never Be One of Us](https://open.spotify.com/album/4zczzvyu8NxpRuUwODeTnX) | 1:29 | 2022-01-14 | 2022-07-24 |

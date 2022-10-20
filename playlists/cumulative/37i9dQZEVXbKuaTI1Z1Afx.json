@@ -2536,6 +2536,28 @@
     },
     {
       "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL"
+    },
+    {
+      "album": {
         "name": "Chrissy, Wake Up",
         "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
       },
@@ -3489,7 +3511,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC"
@@ -4465,7 +4487,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -6931,6 +6953,24 @@
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
+    },
+    {
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/1Jjv7LOTu05PDBTWufIi81"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206356,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/5XSwZlJnAceZ0Gb057vbol"
     },
     {
       "album": {
@@ -9451,6 +9491,24 @@
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
+    },
+    {
+      "album": {
+        "name": "Menace",
+        "url": "https://open.spotify.com/album/4kLpRikS7eFJWLLxl7OOG4"
+      },
+      "artists": [
+        {
+          "name": "Sione",
+          "url": "https://open.spotify.com/artist/4oSgJ02nxn47RAOat11ZMk"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135341,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/4BcOedr1qWY4hDC7Ki59ZB"
     },
     {
       "album": {
@@ -13339,7 +13397,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"

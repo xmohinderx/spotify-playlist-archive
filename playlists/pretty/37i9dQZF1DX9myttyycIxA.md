@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Runnner
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,860 likes - 121 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,893 likes - 121 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 73 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 |
 | 74 | [Feelings Meeting](https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 3:59 |
 | 75 | [Knocking on Wood](https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Knocking on Wood](https://open.spotify.com/album/2TR4wew45TemGUpSbMZOuz) | 4:11 |
-| 76 | [All I Need](https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Atwood](https://open.spotify.com/artist/3OR277QANTI19APHnC1XrK) | [Nice Colors](https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF) | 2:27 |
+| 76 | [All I Need](https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv) | [Nice Colors](https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF) | 2:27 |
 | 77 | [Flake](https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Flake](https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933) | 3:07 |
 | 78 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 |
 | 79 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 |

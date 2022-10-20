@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-396 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+397 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 | 2021-03-10 |  |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-07-02 | 2022-04-08 |
 | [Fred Astaire](https://open.spotify.com/track/0naZsTswDsNhj5BT4w6CDv) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Fred Astaire](https://open.spotify.com/album/1TMmoGkyRktJkcgaYB8uW8) | 3:39 | 2021-03-10 | 2022-07-29 |
+| [Fred Astaire](https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Off To The Races](https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc) | 3:39 | 2022-10-07 |  |
 | [Fred Astaire](https://open.spotify.com/track/6JgXQTdqLL1xS5qfqOGVNb) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Off To The Races](https://open.spotify.com/album/5oErwuqKXdPtKzYLzD6sF5) | 3:39 | 2022-06-27 | 2022-10-14 |
 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 | 2022-03-11 |  |
 | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/track/6P7FY8Cnf2sVbCgwlaMleA) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/album/774qmoBRcTPqlhRxjOSTJv) | 3:36 | 2022-03-11 | 2022-04-19 |
@@ -260,7 +261,7 @@
 | [Pedestal](https://open.spotify.com/track/6Ij84EZdWjPvK56BBobn72) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Pedestal](https://open.spotify.com/album/3K1y1b5PS6kpzu0rMqwIBP) | 3:11 | 2022-03-11 | 2022-04-21 |
 | [Perfect People](https://open.spotify.com/track/0pa1iFLMfXO2IcJkMjXiEn) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Perfect People](https://open.spotify.com/album/3ef8oNUf6xiKC1mrb27eDa) | 3:29 | 2022-03-11 | 2022-04-21 |
 | [Permission Slip](https://open.spotify.com/track/5lmX9ai11jjsabltxj32kb) | [Mainland](https://open.spotify.com/artist/1glS4fPaSC5EgMTnOsiXif) | [Permission Slip](https://open.spotify.com/album/7LCWfQDbxUl1RSYTn8fXaP) | 3:29 | 2022-03-11 | 2022-04-20 |
-| [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-07-29 |  |
+| [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-07-29 | 2022-10-20 |
 | [PIERCED ARROWS](https://open.spotify.com/track/3PjN0os4YRSKt3hefJq14b) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [PIERCED ARROWS](https://open.spotify.com/album/3Rug10AExjdT3hz3gFcJsH) | 4:02 | 2022-03-11 | 2022-04-18 |
 | [Play Along](https://open.spotify.com/track/0vcaM5lVTdNaLagTWiuJqe) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 3:11 | 2022-08-12 |  |
 | [Play Along](https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Play Along](https://open.spotify.com/album/4D9Fx7V3jOlawbQW9Svcf9) | 3:11 | 2022-03-09 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14395,
+  "num_followers": 14406,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGYxN2FkODcwN2YxODZjNzE3ZGE5Mzk3YWIwYTk0NWM5",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDAzZjU1NzNjMGZjYTM2MGI5MDNiOTQzZTBhMmM4Yjhm",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -863,6 +863,34 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Let's Love (feat. Sia) [Vintage Culture, Fancy Inc Remix]",
+        "url": "https://open.spotify.com/album/12X0NZhNTn734YUWNL6Ojo"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 220194,
+      "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
+      "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
         "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
       },
@@ -911,34 +939,6 @@
       "duration_ms": 210267,
       "name": "All I Want (feat. Jake Shears) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/1kb5MBYPIwuOucLUzYqnxi"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Let's Love (feat. Sia) [Vintage Culture, Fancy Inc Remix]",
-        "url": "https://open.spotify.com/album/12X0NZhNTn734YUWNL6Ojo"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 220194,
-      "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
-      "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Self Care (with COIN) [The Knocks Remix]",
-        "url": "https://open.spotify.com/album/3017y3piJmBiFguacLqX51"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 197129,
-      "name": "Self Care (with COIN) - The Knocks Remix",
-      "url": "https://open.spotify.com/track/3aXVBYo7jW9CO1od4atawq"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Free Your Body (Noizu Remix)",
         "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 228070,
       "name": "Free Your Body - Noizu Remix",
       "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Self Care (with COIN) [The Knocks Remix]",
+        "url": "https://open.spotify.com/album/3017y3piJmBiFguacLqX51"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 197129,
+      "name": "Self Care (with COIN) - The Knocks Remix",
+      "url": "https://open.spotify.com/track/3aXVBYo7jW9CO1od4atawq"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1591,30 +1591,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Nightlight (The Remixes, Vol. 2)",
         "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
       },
@@ -1635,6 +1611,30 @@
       "duration_ms": 188571,
       "name": "Nightlight - MOTi Remix",
       "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
       },
@@ -1923,22 +1943,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+        "name": "Purple Hat (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
       },
       "artists": [
         {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
         }
       ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+      "duration_ms": 209959,
+      "name": "Purple Hat - KC Lights Remix",
+      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1959,26 +1979,6 @@
       "duration_ms": 231840,
       "name": "Rise - twocolors Remix",
       "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Purple Hat (KC Lights Remix)",
-        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "Purple Hat - KC Lights Remix",
-      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "1 Day 2 Nights (Billen Ted Remix)",
-        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 134892,
-      "name": "1 Day 2 Nights - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Desire (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
       },
@@ -2083,26 +2063,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Paradise (Wh0 Remix)",
-        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
+        "name": "1 Day 2 Nights (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
         },
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Paradise - Wh0 Remix",
-      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
+      "duration_ms": 134892,
+      "name": "1 Day 2 Nights - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2123,6 +2099,30 @@
       "duration_ms": 373890,
       "name": "Babel - Maceo Plex Remix",
       "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Paradise (Wh0 Remix)",
+        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Paradise - Wh0 Remix",
+      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2191,6 +2191,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Thing Called Love (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 338442,
+      "name": "Thing Called Love - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Moving Blind (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
       },
@@ -2215,26 +2239,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Thing Called Love (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
+        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         },
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
         }
       ],
-      "duration_ms": 338442,
-      "name": "Thing Called Love - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+      "duration_ms": 221032,
+      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2275,30 +2299,6 @@
       "duration_ms": 194755,
       "name": "Lifetime - Jayda G Baleen Mix",
       "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        }
-      ],
-      "duration_ms": 221032,
-      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
     },
     {
       "added_at": "2021-07-30 04:00:00",

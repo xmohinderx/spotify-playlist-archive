@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-124 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5j359EkdLizzDFpJebBsga)
+125 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/5j359EkdLizzDFpJebBsga)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Paranoid](https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 2:32 | 2022-05-25 |  |
 | [Purple Rain](https://open.spotify.com/track/1GphXtlFS2rhVpLxbDCSsK) | [Inter Arma](https://open.spotify.com/artist/5ZG7r3Jg0Y1hGQRMQ8hdRs) | [Purple Rain](https://open.spotify.com/album/3Vxu0NBOsh2CIOJFvPrcmF) | 7:53 | 2022-05-25 | 2022-07-27 |
 | [Raven's Flight](https://open.spotify.com/track/1Kjt2A5PjTSQO8n9wR7Nr9) | [Mob Rules](https://open.spotify.com/artist/13dxEWLoiRvGU1MK4nVUj4) | [Raven's Flight](https://open.spotify.com/album/3qjk9aZ92i9bDJCon9Xmlz) | 5:14 | 2022-05-25 | 2022-07-22 |
-| [Remember Tomorrow](https://open.spotify.com/track/3f8ABUkSOvkpNHahBXBEA9) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [My Arms, Your Hearse](https://open.spotify.com/album/4b7oroZfX3w5vaRaotvr6p) | 4:59 | 2022-05-25 |  |
+| [Remember Tomorrow](https://open.spotify.com/track/3f8ABUkSOvkpNHahBXBEA9) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [My Arms, Your Hearse](https://open.spotify.com/album/4b7oroZfX3w5vaRaotvr6p) | 4:59 | 2022-05-25 | 2022-10-20 |
 | [Renegades](https://open.spotify.com/track/5oai3wfiVVahpFM7DGabRP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/46HotxPGrHmNBh9NeqOddy) | 3:28 | 2022-06-13 | 2022-07-29 |
 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 | 2022-06-13 |  |
 | [Right Here Waiting \(feat\. Richard Marx\)](https://open.spotify.com/track/2rrwVJ0ji9HcO3gG5Y3GxY) | [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Right Here Waiting \(feat\. Richard Marx\)](https://open.spotify.com/album/1B4BDjYAVXwO42BbKI1CrB) | 3:32 | 2022-05-25 | 2022-07-29 |
@@ -114,6 +114,7 @@
 | [Supernaut](https://open.spotify.com/track/3J9wENBvJiAv2YNtPRlKDf) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Supernaut](https://open.spotify.com/album/4MGfVrL8eoFGCEiZgw0dy9) | 4:42 | 2022-05-25 | 2022-07-28 |
 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 | 2022-05-25 |  |
 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 | 2022-05-25 |  |
+| [The Devil Went Down to Georgia](https://open.spotify.com/track/1fUn2ABChAzrqDgrlZdk6W) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Devil Went Down to Georgia](https://open.spotify.com/album/3yzFM8wOw5cRoFbG6lFjQt) | 3:51 | 2022-10-03 |  |
 | [The Devil Went Down to Georgia](https://open.spotify.com/track/7z3yEMhxw6ggDA9MjBqXow) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Devil Went Down to Georgia](https://open.spotify.com/album/6WMyuY1fcOfwMcjLqI3X1W) | 3:51 | 2022-05-25 | 2022-10-14 |
 | [The Shortest Straw \- Metallica Cover](https://open.spotify.com/track/35d0N4W4Fn6gNtxNyb3FqB) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 6:18 | 2022-06-13 | 2022-07-25 |
 | [The Sound of Silence](https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:08 | 2022-05-25 |  |

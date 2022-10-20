@@ -2139,7 +2139,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 119485,
       "name": "BVHT!",
       "url": "https://open.spotify.com/track/13GRVUH2tL94b9yHCkLHRm"
@@ -10369,7 +10369,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -10987,6 +10987,24 @@
       "duration_ms": 180750,
       "name": "Rockstar In His Prime",
       "url": "https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk"
+    },
+    {
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "album": {
@@ -13401,7 +13419,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 187299,
       "name": "TOPA NA BANKETA",
       "url": "https://open.spotify.com/track/4AOUyrWRXMuSRG3eTWxizo"

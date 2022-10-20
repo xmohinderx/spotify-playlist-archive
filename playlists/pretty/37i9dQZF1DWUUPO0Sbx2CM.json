@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 106584,
+  "num_followers": 106674,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDkxZWQ3ZTI2ZDU3NjkwNmVkYmIwMTRkNGJmYTU0NmJi",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDM0YzQ0ZWNkOTg2NTFkNDJlZTVlNjY3ZGNkYTk4MzUx",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -111,18 +111,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
+        "name": "LIFE IS GOOD",
+        "url": "https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        },
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 174573,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/5VI6AYnjm9yjc9HnhI46n1"
+      "duration_ms": 187871,
+      "name": "LIFE IS GOOD",
+      "url": "https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -143,22 +147,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "LIFE IS GOOD",
-        "url": "https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N"
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
       },
       "artists": [
         {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        },
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 187871,
-      "name": "LIFE IS GOOD",
-      "url": "https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop"
+      "duration_ms": 174573,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/5VI6AYnjm9yjc9HnhI46n1"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Better View, Part I - EP",
-        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "perfection",
-      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Godsend",
         "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 177920,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Better View, Part I - EP",
+        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "perfection",
+      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Fight My Fight For Me",
         "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Every Move I Make",
         "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 132255,
       "name": "Every Move I Make",
       "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -903,6 +903,26 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "If You Only Knew!",
+        "url": "https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "If You Only Knew!",
+      "url": "https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Remembering Me",
         "url": "https://open.spotify.com/album/4dziAM5y6HeViXiF5bAGbK"
       },
@@ -927,22 +947,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
@@ -959,22 +963,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "If You Only Knew!",
-        "url": "https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd"
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
       },
       "artists": [
         {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 170307,
-      "name": "If You Only Knew!",
-      "url": "https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb"
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Better King",
-        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "HEARTBEAT",
         "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 196835,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Better King",
+        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
     },
     {
       "added_at": "2021-10-31 00:47:30",

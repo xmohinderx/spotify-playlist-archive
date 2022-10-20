@@ -1,13 +1,137 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Avenoir",
-  "num_followers": 168237,
+  "num_followers": 168409,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczMjk1OSwwMDAwMDAwMGQ1MDE5MzdkMDVmMjA5OTAyYWY3MTUyZWZhOTQ4ZTI0",
+  "snapshot_id": "MTY2NjE2MjgwMCwwMDAwMDAwMDk0YmU5OWI3YmZlMzgyNTk0NDMyMzZhY2FhZTY2ZjAw",
   "tracks": [
+    {
+      "added_at": "2022-10-19 07:00:00",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2022-10-19 07:00:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/23Hle9hlQTWNOaLK4g7OS5"
+      },
+      "artists": [
+        {
+          "name": "Kate Delos Santos",
+          "url": "https://open.spotify.com/artist/77x0FLGCR1eJ5cQoqoni3X"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3wnKCFSUyZ7wG7E4fKujUW"
+    },
+    {
+      "added_at": "2022-10-19 07:00:00",
+      "album": {
+        "name": "Day n Night",
+        "url": "https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr"
+      },
+      "artists": [
+        {
+          "name": "Sono",
+          "url": "https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39"
+        }
+      ],
+      "duration_ms": 239597,
+      "name": "Day n Night",
+      "url": "https://open.spotify.com/track/7dKN4FXutQJ89yJEKDOUVh"
+    },
+    {
+      "added_at": "2022-10-19 07:00:00",
+      "album": {
+        "name": "therapy",
+        "url": "https://open.spotify.com/album/6JDS6YPO05pkbq9KYA0kV3"
+      },
+      "artists": [
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        }
+      ],
+      "duration_ms": 251088,
+      "name": "ur boyfriend",
+      "url": "https://open.spotify.com/track/0cLPTWQ8xpB92gYoX8FzNO"
+    },
+    {
+      "added_at": "2022-10-19 07:00:00",
+      "album": {
+        "name": "Brokenhearted / Ready",
+        "url": "https://open.spotify.com/album/2UUiCulADu8RPldHHm6icj"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 158367,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/716LKQHf6kvym6xFHHk3gB"
+    },
+    {
+      "added_at": "2022-10-19 07:00:00",
+      "album": {
+        "name": "Nasty (feat. Jean Deaux)",
+        "url": "https://open.spotify.com/album/4fMWgttFrscKJiwaPUX0nC"
+      },
+      "artists": [
+        {
+          "name": "C&G",
+          "url": "https://open.spotify.com/artist/1oZyOGk1czsj2aByOYWb25"
+        },
+        {
+          "name": "CVIRO",
+          "url": "https://open.spotify.com/artist/5C5mVIHAEIbomEs6nsNWJ9"
+        },
+        {
+          "name": "GXNXVS",
+          "url": "https://open.spotify.com/artist/6LuLHe6y5BHU0quiy0sMhL"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 159530,
+      "name": "Nasty (feat. Jean Deaux)",
+      "url": "https://open.spotify.com/track/081AlAH05HnbzS858mCX8c"
+    },
+    {
+      "added_at": "2022-10-19 07:00:00",
+      "album": {
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/1NfysFhG4ncCSLWLOttP2g"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/0Og3qHoXinX1otRSkd3g1f"
+    },
     {
       "added_at": "2022-10-08 14:26:30",
       "album": {
@@ -1649,22 +1773,6 @@
       "url": "https://open.spotify.com/track/7kZo2VfYKAdrOyez2KtGCt"
     },
     {
-      "added_at": "2022-09-21 23:24:35",
-      "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6FS5dua45VW0Ej9BmbVuay"
-      },
-      "artists": [
-        {
-          "name": "NanaBcool",
-          "url": "https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq"
-        }
-      ],
-      "duration_ms": 137636,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/618wwrGrOAIPP2dISTsc0i"
-    },
-    {
       "added_at": "2022-09-14 15:49:26",
       "album": {
         "name": "Leaving Summer",
@@ -1929,54 +2037,6 @@
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/3Idj13qAmwJNOvF9QPLxUn"
-      },
-      "artists": [
-        {
-          "name": "Joey XL",
-          "url": "https://open.spotify.com/artist/0OQOwTGju6MADakqECMNoV"
-        }
-      ],
-      "duration_ms": 181816,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Lies (Wasted Time)",
-        "url": "https://open.spotify.com/album/4x9ZZ4WojHsGu0tQWJg5qZ"
-      },
-      "artists": [
-        {
-          "name": "JYDN HILL",
-          "url": "https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2"
-        }
-      ],
-      "duration_ms": 133109,
-      "name": "Lies (Wasted Time)",
-      "url": "https://open.spotify.com/track/38Y4CHGMOOLosrpNm3DKk3"
-    },
-    {
-      "added_at": "2022-09-01 17:49:45",
-      "album": {
-        "name": "On Demand",
-        "url": "https://open.spotify.com/album/3bWU00x5yJhIKrDdZalAEQ"
-      },
-      "artists": [
-        {
-          "name": "Devon Culture",
-          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
-        }
-      ],
-      "duration_ms": 157741,
-      "name": "On Demand",
-      "url": "https://open.spotify.com/track/1ovprUV22NBcRT9MhOCKZ9"
-    },
-    {
       "added_at": "2022-09-01 17:49:45",
       "album": {
         "name": "Just Two",
@@ -2007,22 +2067,6 @@
       "duration_ms": 226153,
       "name": "Trust",
       "url": "https://open.spotify.com/track/72tjVQ9uqhYqpcKgwd4z9V"
-    },
-    {
-      "added_at": "2022-09-01 17:49:45",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/7qD8nZcGU5V98FU3LSSbHU"
-      },
-      "artists": [
-        {
-          "name": "HENNESSY",
-          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
-        }
-      ],
-      "duration_ms": 232907,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/4eTle2lZoO0A1har4Ut5KL"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -2079,26 +2123,6 @@
       "duration_ms": 144005,
       "name": "Wasting Away",
       "url": "https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI"
-    },
-    {
-      "added_at": "2022-08-26 05:56:11",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/560DtfvfsPvwhpL6pOHnuJ"
-      },
-      "artists": [
-        {
-          "name": "Kyara Shereen",
-          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
-        },
-        {
-          "name": "This is Lema",
-          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/1o1lBLuGOiICwhuchBOTw3"
     },
     {
       "added_at": "2022-08-19 04:22:04",

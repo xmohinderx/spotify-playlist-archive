@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Hyd
 
-439 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+440 songs - 1 day 3 hr 14 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Concrete Over Water](https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Concrete Over Water](https://open.spotify.com/album/2yvTYZAs8hfm3p8bStCBLR) | 6:09 | 2022-04-22 | 2022-07-29 |
 | [Contemplation](https://open.spotify.com/track/3z1DQOsda6thjUHkbJTelA) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Contemplation](https://open.spotify.com/album/7yCRreN60KqQqDU4mUJZtC) | 3:27 | 2021-06-03 | 2022-07-15 |
 | [Control](https://open.spotify.com/track/40eaYakmKgXWBRnlmYKj5w) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Control](https://open.spotify.com/album/4Yd21IKbdwX7GQCBa3zKWT) | 4:03 | 2022-03-31 | 2022-04-19 |
+| [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 |  |
 | [Creep \- Very 2021 Rmx](https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau), [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Creep \(Very 2021 Rmx\)](https://open.spotify.com/album/4LS4w3gfUGH1WnpGcbUHhp) | 9:02 | 2021-07-19 | 2022-06-07 |
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2022-06-03 | 2022-10-14 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-06-03 | 2022-06-24 |
@@ -176,7 +177,7 @@
 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2021-06-03 |  |
 | [Hideous](https://open.spotify.com/track/4u2O3s1p5pWNx2CRFAynXX) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [Hideous](https://open.spotify.com/album/6s5GbyGHzt8qXx0eb0IAN0) | 4:23 | 2022-06-03 | 2022-07-27 |
 | [High & Choking, Pt\. 1](https://open.spotify.com/track/2anDfzfVPHRHjfJz8UsOHq) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [High & Choking / Chains](https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF) | 3:05 | 2021-09-24 | 2022-04-18 |
-| [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-01-28 |  |
+| [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-01-28 | 2022-10-20 |
 | [High and Lonely](https://open.spotify.com/track/2iXTMlZtsssbctAMHvr2FJ) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [High and Lonely](https://open.spotify.com/album/6O2xYlcjEFDKZ4RanVJ0Ky) | 3:27 | 2021-10-22 | 2022-04-22 |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-07-28 |
 | [hit it light it twist it](https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [hit it light it twist it](https://open.spotify.com/album/26wYoLV3Yvt0yzOeTRKvKI) | 1:54 | 2022-05-24 | 2022-05-30 |

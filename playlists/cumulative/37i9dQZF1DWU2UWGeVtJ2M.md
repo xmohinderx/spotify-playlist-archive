@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-256 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+257 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [It's Not This](https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2) | 3:10 | 2022-07-25 |  |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-12 |  |
 | [Just a Phone Call Away](https://open.spotify.com/track/7gqq9KB1fvORR9dEWJ1y2F) | [Lui Peng](https://open.spotify.com/artist/44ntLEmQVlftYGxgHgwxBJ) | [Just a Phone Call Away](https://open.spotify.com/album/4Jz3byNMhYOY7eanWoj4aH) | 2:35 | 2022-06-06 | 2022-07-28 |
-| [Keep Me Up](https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Keep Me Up](https://open.spotify.com/album/27CHocZopHED9uvae877j3) | 3:18 | 2022-07-25 |  |
+| [Keep Me Up](https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Keep Me Up](https://open.spotify.com/album/27CHocZopHED9uvae877j3) | 3:18 | 2022-07-25 | 2022-10-20 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-25 |  |
 | [Late \(Again\)](https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/5sXWRGyWQL7kMXbqYl2ltR) | 1:55 | 2022-06-06 | 2022-07-27 |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2022-07-25 |  |
@@ -184,6 +184,7 @@
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-07-11 |  |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2022-07-25 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-06-06 |  |
+| [Play Me Something Nice](https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho) | 3:21 | 2022-10-10 |  |
 | [Play Me Something Nice](https://open.spotify.com/track/4YEoimxmDNIwTDaG6jZmcg) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/2noMzRAfv6SQUWON9GfM5d) | 3:21 | 2022-07-25 | 2022-10-13 |
 | [Pop Song](https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 5:05 | 2022-07-25 | 2022-08-07 |
 | [Precious](https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Precious](https://open.spotify.com/album/4sguN40UxE3s6hCUhYaL23) | 2:25 | 2022-06-06 | 2022-07-29 |

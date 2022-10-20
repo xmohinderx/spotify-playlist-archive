@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: The 1975
 
-1,272 songs - 3 day 4 hr 0 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,274 songs - 3 day 4 hr 4 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-13 | 2022-09-03 |
 | [Albion](https://open.spotify.com/track/4xw3CqdYLZIncseekii4Kq) | [Gus Harvey](https://open.spotify.com/artist/1cxAeZbDhf2S8t544RIVIf) | [Albion](https://open.spotify.com/album/1vGy4ML1gT6NieDKU8tT1t) | 4:50 | 2020-06-12 | 2020-10-29 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-04-20 | 2022-02-25 |
-| [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-12 |  |
+| [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-12 | 2022-10-20 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-18 | 2022-09-17 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-02-22 | 2022-04-08 |
 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-09-30 |  |
@@ -355,6 +355,7 @@
 | [Fire & Fury](https://open.spotify.com/track/24KWPOD5dHhOfyAfgZTJMr) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Fire & Fury](https://open.spotify.com/album/44HCNNxPv7q5KVYvPTNFix) | 3:45 | 2020-02-14 | 2020-04-18 |
 | [First Aid](https://open.spotify.com/track/2imAA5ofcn4dCRVNjKyEq3) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [First Aid](https://open.spotify.com/album/6tl50EbPGJIwmN9YfXHVsM) | 4:28 | 2020-05-01 | 2021-04-20 |
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-07-13 | 2022-04-09 |
+| [Flight Risk](https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 0:59 | 2022-10-14 |  |
 | [Flight Risk](https://open.spotify.com/track/5fXWYr3Cz4DqEz5mzHccKF) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 0:59 | 2022-08-17 | 2022-10-13 |
 | [Flip Phones](https://open.spotify.com/track/2AOQZ47E5vdoCG2ACZIi6c) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [win'20](https://open.spotify.com/album/7HxeuvcM84U4sWEtOSlePG) | 3:31 | 2020-02-28 | 2020-07-24 |
 | [Flood](https://open.spotify.com/track/0GN6R2MTtwVtaWNNFAIIFu) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flood](https://open.spotify.com/album/4gB7kUlROQjAwyLzB9i7q8) | 2:57 | 2020-07-03 | 2020-12-04 |
@@ -583,6 +584,7 @@
 | [It's Got To Be You](https://open.spotify.com/track/3IL9AKqwVNsMHUruNXgbmE) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [It's Got To Be You](https://open.spotify.com/album/1QEylt2WvPjzYVfjRdVNKz) | 3:55 | 2021-04-20 | 2021-10-14 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2022-09-23 |  |
 | [It's Random](https://open.spotify.com/track/3gaerxLTSaKc8miymFRkVA) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [It's Random](https://open.spotify.com/album/2Y4v8He65mQHczvIzanV2W) | 2:24 | 2022-03-10 | 2022-07-19 |
+| [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 | 2022-10-14 |  |
 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 | 2021-06-22 | 2022-04-05 |
 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 | 2019-06-21 | 2019-09-06 |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-06-30 | 2022-07-02 |
@@ -1038,7 +1040,7 @@
 | [Sweet](https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad](https://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI) | 3:42 | 2021-02-22 | 2021-03-23 |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-20 | 2022-01-26 |
 | [Sweet Summer Sweat \(feat\. Dijon\)](https://open.spotify.com/track/6gr9bP5jpNjlRpbF4gLjqi) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Sweet Summer Sweat \(feat\. Dijon\)](https://open.spotify.com/album/3MEECjgqTlGz2HYzRdhrBv) | 3:03 | 2020-09-04 | 2021-09-03 |
-| [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-25 |  |
+| [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-25 | 2022-10-20 |
 | [Swing](https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Swing](https://open.spotify.com/album/3ni5JwJQNe9oWuXJmFcQmu) | 3:33 | 2021-10-10 | 2021-10-11 |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-09-23 | 2022-07-29 |
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-23 | 2022-08-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
-  "num_followers": 99383,
+  "num_followers": 99427,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGVmZDRmYTQ5OTc4Mjg4YjIzZDdkZjg3ZTRjZWY0ZTcz",
+  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGYwN2RhMDQ0ZjVmNmEyOTkxNjc3YjUxMTdmM2FlMTQ0",
   "tracks": [
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
         "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
         "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 194506,
       "name": "Con el Viento",
       "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Por Si Apareces",
-        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 273506,
-      "name": "Por Si Apareces",
-      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Bolsas - C. Tangana",
         "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 236605,
       "name": "Bolsas - C. Tangana",
       "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Por Si Apareces",
+        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Por Si Apareces",
+      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Mi Cabeza",
         "url": "https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 162000,
       "name": "Mi Cabeza",
       "url": "https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
+        "name": "si volvemos a querernos (bonus track)",
+        "url": "https://open.spotify.com/album/03GvjAfSGqvdQ51flmaDGK"
+      },
+      "artists": [
+        {
+          "name": "Chill Chicos",
+          "url": "https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "si volvemos a querernos (bonus track)",
+      "url": "https://open.spotify.com/track/2quOFSbQCtEISRvZCfJPQG"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
         "name": "A Estas Horas Del Amor",
         "url": "https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 302426,
       "name": "A Estas Horas Del Amor",
       "url": "https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
-        "name": "Cuando lloras (feat. David Rees)",
-        "url": "https://open.spotify.com/album/7uDxV8cJyWJGai8ARnYSbZ"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "David Rees",
-          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Cuando lloras (feat. David Rees)",
-      "url": "https://open.spotify.com/track/5xpBHHSL7zwrZfE9QnqHI2"
     }
   ],
   "unique_name": "gris",

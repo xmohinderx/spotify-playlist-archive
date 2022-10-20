@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-376 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+377 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,8 @@
 | [Tanta Data](https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Tanta Data](https://open.spotify.com/album/2yZn2CNQjT154b0gSvbFUo) | 4:26 | 2022-06-03 | 2022-07-29 |
 | [Tanto Azúcar](https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Lapso](https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU) | 3:05 | 2022-06-03 | 2022-07-29 |
 | [Te Paso por Tonto](https://open.spotify.com/track/15EDp9LxLLXOi676o1eBS9) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Te Paso por Tonto](https://open.spotify.com/album/54fmEsADMtYIiiMJDRkSKP) | 2:17 | 2022-07-01 | 2022-07-24 |
-| [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-06-03 |  |
+| [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-06-03 | 2022-10-20 |
+| [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-12 |  |
 | [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 | 2022-10-08 |
 | [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 | 2022-07-15 |  |
 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 | 2022-07-01 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Smino, J\. Cole
 
-739 songs - 1 day 19 hr 37 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+740 songs - 1 day 19 hr 40 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Lucky Day](https://open.spotify.com/track/3Nbhub4M5X0hsaOFhTXt1J) | [Brett Riley](https://open.spotify.com/artist/7jtFAr3H8eYHrqRBthn4xp) | [Lucky Day](https://open.spotify.com/album/1zMQpohJOeWEJDADu7vm9g) | 2:29 | 2021-03-14 | 2021-03-22 |
 | [Luv Pact](https://open.spotify.com/track/4szrRplDCh0cxQ86zMz9Ob) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Luv Pact](https://open.spotify.com/album/1wB5TKoTSB4EfDZ3wVzE1B) | 2:56 | 2019-12-13 | 2020-02-20 |
 | [Luvaroq](https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Luvaroq](https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b) | 3:40 | 2021-10-15 | 2022-10-13 |
+| [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 | 2022-10-14 |  |
 | [Ma Suz](https://open.spotify.com/track/6zZW8gOnaZmBNVWtbecJfK) | [Mohammed Zhang](https://open.spotify.com/artist/3PCpVfGL6tgSFv7zB24ryR), [SpaceBuddha](https://open.spotify.com/artist/7fsunBfmxdtjhECqx5RdAP), [Juan Smith](https://open.spotify.com/artist/6JHf4xe5xwL4QUdrwhx5k5), [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [Allstars \#1](https://open.spotify.com/album/1jVsDrzQqBOmyPsKNu1sxn) | 2:51 | 2020-04-04 | 2020-05-22 |
 | [Made Me Fly \(with Beth Hirsch\)](https://open.spotify.com/track/6oJ8a3uzuEkqM4dz15kEm5) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Made Me Fly \(with Beth Hirsch\)](https://open.spotify.com/album/21TxxKttUSfYMmb19rpck0) | 3:16 | 2020-01-18 | 2020-02-20 |
 | [Make A Difference](https://open.spotify.com/track/1nR9WBJZhcHbgUZ7yrZ4ym) | [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Make A Difference](https://open.spotify.com/album/06tjQliwnAwX5cFnNN57FZ) | 3:21 | 2020-09-04 | 2020-09-29 |
@@ -472,7 +473,7 @@
 | [On Repeat](https://open.spotify.com/track/3HXdqRgJq1PxhPyERUPx1d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Osiris EP](https://open.spotify.com/album/6yRrlH2Lw1Zlu0hxd6vq7n) | 3:01 | 2021-09-09 | 2022-05-10 |
 | [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-07-22 |  |
 | [One More Kiss](https://open.spotify.com/track/5Tfhu1RyUKxxkrurEBGPuj) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/3OfRIGjI51gWg7oA9wMsHB) | 3:46 | 2021-02-22 | 2022-07-27 |
-| [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2022-04-22 |  |
+| [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2022-04-22 | 2022-10-20 |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-13 |  |
 | [Open Eyes](https://open.spotify.com/track/2gTlubZSNrZSNmGKzgu62s) | [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Open Eyes](https://open.spotify.com/album/2wBaHomstYLZX2OPjPqeoU) | 3:24 | 2021-03-06 | 2022-05-28 |
 | [Open Eyes](https://open.spotify.com/track/5kiwfZZtRA3YOWqE3UCvzX) | [Lavon Bibb](https://open.spotify.com/artist/3TIhz54DhayQhKzupEe2kH), [ZTN ProducedIt](https://open.spotify.com/artist/5C3MSZauPNznLU0k4D1wro) | [Happy Place](https://open.spotify.com/album/34QQ6m8sbtIuAE6ypx3Wc0) | 2:37 | 2021-04-21 | 2021-05-11 |

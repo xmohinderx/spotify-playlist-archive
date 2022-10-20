@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 117721,
+  "num_followers": 117728,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTgxMDYyMywwMDAwMDAwMDg3NjdlMmE2NzIyY2U1ZjVlZDU4NWFkOGQzY2VlMGJi",
+  "snapshot_id": "MTY2NTgxMDYyMywwMDAwMDAwMGYxNjdlOTk5YWM3M2E0M2UwMjBlYWYzYTE3YzE1ODQx",
   "tracks": [
     {
       "added_at": "2022-10-15 05:10:23",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "N\u00e5t i vattnet",
+        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "N\u00e5t i vattnet",
+      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "V\u00e4lkommen \u00c5ter",
         "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
       },
@@ -311,26 +327,6 @@
       "duration_ms": 175714,
       "name": "V\u00e4lkommen \u00c5ter",
       "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "Som ett minne blott",
-        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Som ett minne blott",
-      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -355,18 +351,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "N\u00e5t i vattnet",
-        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
+        "name": "Som ett minne blott",
+        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
       },
       "artists": [
         {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 213473,
-      "name": "N\u00e5t i vattnet",
-      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+      "duration_ms": 191445,
+      "name": "Som ett minne blott",
+      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Bara bby",
-        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Hon har dig",
-      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "EYEYE",
         "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 225733,
       "name": "5D",
       "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Bara bby",
+        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Hon har dig",
+      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Notre-Dame",
-        "url": "https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch"
-      },
-      "artists": [
-        {
-          "name": "Mares",
-          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "Notre-Dame",
-      "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3XRfjXygP16DWk8sjuPbHt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 180764,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2qyVS8PtyshEjMG2EWfr06"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Notre-Dame",
+        "url": "https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch"
+      },
+      "artists": [
+        {
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "Notre-Dame",
+      "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1179,22 +1179,26 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "B\u00e4sta Vi Gjort",
-        "url": "https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR"
+        "name": "Missaoui",
+        "url": "https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn"
       },
       "artists": [
         {
-          "name": "Lamix",
-          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
         },
         {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        },
+        {
+          "name": "Academics",
+          "url": "https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg"
         }
       ],
-      "duration_ms": 172086,
-      "name": "B\u00e4sta Vi Gjort",
-      "url": "https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8"
+      "duration_ms": 283626,
+      "name": "Landet i fj\u00e4rran",
+      "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1215,18 +1219,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Solen i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
+        "name": "B\u00e4sta Vi Gjort",
+        "url": "https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR"
       },
       "artists": [
         {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Solen i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
+      "duration_ms": 172086,
+      "name": "B\u00e4sta Vi Gjort",
+      "url": "https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1267,26 +1275,18 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Missaoui",
-        "url": "https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn"
+        "name": "Solen i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
       },
       "artists": [
         {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
-        },
-        {
-          "name": "Fricky",
-          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
-        },
-        {
-          "name": "Academics",
-          "url": "https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg"
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
         }
       ],
-      "duration_ms": 283626,
-      "name": "Landet i fj\u00e4rran",
-      "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
+      "duration_ms": 171600,
+      "name": "Solen i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "S\u00e4g det som du menar det",
-        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "S\u00e4g det som du menar det",
-      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 168000,
       "name": "T\u00e4nd alla ljus - Fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/06M8KfNJwdqxB9lLuPVt28"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "S\u00e4g det som du menar det",
+        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "S\u00e4g det som du menar det",
+      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Got To Rise Up",
-        "url": "https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95"
-      },
-      "artists": [
-        {
-          "name": "Tusse",
-          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Got to Rise Up",
-      "url": "https://open.spotify.com/track/5aToZdZnp4n0wb4UXZWXsy"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "Djur och m\u00e4nniska",
         "url": "https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 183480,
       "name": "Om det \u00e4nd\u00e5 r\u00e4ckte att \u00e5ngra sig",
       "url": "https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Got To Rise Up",
+        "url": "https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95"
+      },
+      "artists": [
+        {
+          "name": "Tusse",
+          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Got to Rise Up",
+      "url": "https://open.spotify.com/track/5aToZdZnp4n0wb4UXZWXsy"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Tar det som det kommer",
-        "url": "https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU"
-      },
-      "artists": [
-        {
-          "name": "HON",
-          "url": "https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr"
-        }
-      ],
-      "duration_ms": 207142,
-      "name": "Tar det som det kommer",
-      "url": "https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
         "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 179268,
       "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
       "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Tar det som det kommer",
+        "url": "https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU"
+      },
+      "artists": [
+        {
+          "name": "HON",
+          "url": "https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr"
+        }
+      ],
+      "duration_ms": 207142,
+      "name": "Tar det som det kommer",
+      "url": "https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "Hela V\u00e4gen Upp",
+        "url": "https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Jaqe",
+          "url": "https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT"
+        }
+      ],
+      "duration_ms": 181448,
+      "name": "Hela V\u00e4gen Upp",
+      "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "EYEYE",
         "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 141538,
       "name": "Ordning & Reda",
       "url": "https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2"
-      },
-      "artists": [
-        {
-          "name": "Petrus",
-          "url": "https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG"
-        },
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Allt jag kan",
-      "url": "https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd"
     }
   ],
   "unique_name": "Made in Sweden",

@@ -3044,6 +3044,24 @@
     },
     {
       "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "album": {
         "name": "Smoke & Mirrors",
         "url": "https://open.spotify.com/album/057aZhHQhivi8qHTJ8kanY"
       },
@@ -3157,6 +3175,24 @@
       "duration_ms": 148205,
       "name": "Day Like This",
       "url": "https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu"
+    },
+    {
+      "album": {
+        "name": "Day n Night",
+        "url": "https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr"
+      },
+      "artists": [
+        {
+          "name": "Sono",
+          "url": "https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239597,
+      "name": "Day n Night",
+      "url": "https://open.spotify.com/track/7dKN4FXutQJ89yJEKDOUVh"
     },
     {
       "album": {
@@ -3795,6 +3831,24 @@
       "duration_ms": 210001,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/7036ZWYdPMbv8CCjxzm05H"
+    },
+    {
+      "album": {
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/1NfysFhG4ncCSLWLOttP2g"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/0Og3qHoXinX1otRSkd3g1f"
     },
     {
       "album": {
@@ -5531,7 +5585,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 181816,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
@@ -6891,7 +6945,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 232907,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/4eTle2lZoO0A1har4Ut5KL"
@@ -7781,7 +7835,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 133109,
       "name": "Lies (Wasted Time)",
       "url": "https://open.spotify.com/track/38Y4CHGMOOLosrpNm3DKk3"
@@ -8906,6 +8960,36 @@
     },
     {
       "album": {
+        "name": "Nasty (feat. Jean Deaux)",
+        "url": "https://open.spotify.com/album/4fMWgttFrscKJiwaPUX0nC"
+      },
+      "artists": [
+        {
+          "name": "C&G",
+          "url": "https://open.spotify.com/artist/1oZyOGk1czsj2aByOYWb25"
+        },
+        {
+          "name": "CVIRO",
+          "url": "https://open.spotify.com/artist/5C5mVIHAEIbomEs6nsNWJ9"
+        },
+        {
+          "name": "GXNXVS",
+          "url": "https://open.spotify.com/artist/6LuLHe6y5BHU0quiy0sMhL"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159530,
+      "name": "Nasty (feat. Jean Deaux)",
+      "url": "https://open.spotify.com/track/081AlAH05HnbzS858mCX8c"
+    },
+    {
+      "album": {
         "name": "HIT 'EM WITH THE FUNK",
         "url": "https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem"
       },
@@ -9181,7 +9265,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 222000,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1o1lBLuGOiICwhuchBOTw3"
@@ -9301,6 +9385,24 @@
       "duration_ms": 178909,
       "name": "Notice Me",
       "url": "https://open.spotify.com/track/1587W3oFc7tZwYtJvovP1P"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/23Hle9hlQTWNOaLK4g7OS5"
+      },
+      "artists": [
+        {
+          "name": "Kate Delos Santos",
+          "url": "https://open.spotify.com/artist/77x0FLGCR1eJ5cQoqoni3X"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3wnKCFSUyZ7wG7E4fKujUW"
     },
     {
       "album": {
@@ -9439,7 +9541,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 137636,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/618wwrGrOAIPP2dISTsc0i"
@@ -9547,7 +9649,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 157741,
       "name": "On Demand",
       "url": "https://open.spotify.com/track/1ovprUV22NBcRT9MhOCKZ9"
@@ -10629,6 +10731,24 @@
       "duration_ms": 179366,
       "name": "raindrops",
       "url": "https://open.spotify.com/track/0opAHADyfECeBJIjIHj429"
+    },
+    {
+      "album": {
+        "name": "Brokenhearted / Ready",
+        "url": "https://open.spotify.com/album/2UUiCulADu8RPldHHm6icj"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158367,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/716LKQHf6kvym6xFHHk3gB"
     },
     {
       "album": {
@@ -13943,6 +14063,24 @@
       "duration_ms": 225937,
       "name": "Upwards",
       "url": "https://open.spotify.com/track/1bahNfOZV6WJFVZbbkpcBQ"
+    },
+    {
+      "album": {
+        "name": "therapy",
+        "url": "https://open.spotify.com/album/6JDS6YPO05pkbq9KYA0kV3"
+      },
+      "artists": [
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251088,
+      "name": "ur boyfriend",
+      "url": "https://open.spotify.com/track/0cLPTWQ8xpB92gYoX8FzNO"
     },
     {
       "album": {

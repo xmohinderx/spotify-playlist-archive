@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 32896,
+  "num_followers": 32966,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4NzE3OCwwMDAwMDAwMGI2ZjM0NzE4OGMwNzk1ZjExZWU2ZDUxZjk0NTY0Mjk1",
+  "snapshot_id": "MTY2NDg4NzE3OCwwMDAwMDAwMDA2M2Q2Njk4NThiNmI4YzVhMzkxMTdjMzA5ZWQ5NTNi",
   "tracks": [
     {
       "added_at": "2022-10-04 12:39:38",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Night Beat",
         "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 256533,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/31NrEjRvAP4ot9Mj3DWIqa"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
-        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Nobody Knows You When You're Down And Out",
-      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Night Beat",
         "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 171826,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 169706,
-      "name": "Everyday I Have The Blues",
-      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -711,22 +711,6 @@
       "duration_ms": 172866,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forty Four",
-      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -775,6 +759,22 @@
       "duration_ms": 225733,
       "name": "(You've Got To) Love Her With A Feeling",
       "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Everyday I Have The Blues",
+      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 216106,
-      "name": "Sitting On Top Of The World",
-      "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"
+      "duration_ms": 206933,
+      "name": "Driftin' Blues",
+      "url": "https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv"
     }
   ],
   "unique_name": "Blues Standards",

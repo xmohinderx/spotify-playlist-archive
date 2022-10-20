@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 5137,
+  "num_followers": 5140,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM3MiwwMDAwMDAwMGViMWJkZDE5NDk1Y2UzNGU0MDFjYmU2YTRjMTVhYmE2",
+  "snapshot_id": "MTY2NTExNzM3MiwwMDAwMDAwMDk1ZjE5NTM3ZjBhZDFiMGUxYTc4Zjk1MGQzYWE2MWY5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:36:11",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-07 04:36:11",
       "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+    },
+    {
+      "added_at": "2022-10-07 04:36:11",
+      "album": {
         "name": "School Rapper3 Final",
         "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
-    },
-    {
-      "added_at": "2022-10-07 04:36:11",
-      "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
     },
     {
       "added_at": "2022-10-07 04:36:11",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-10-07 04:36:11",
       "album": {
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 219394,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl"
+    },
+    {
+      "added_at": "2022-10-07 04:36:11",
+      "album": {
         "name": "Polodared",
         "url": "https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR"
       },
@@ -1019,38 +1035,6 @@
       "duration_ms": 131180,
       "name": "winter night (Feat. DUT2)",
       "url": "https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d"
-    },
-    {
-      "added_at": "2022-10-07 04:36:11",
-      "album": {
-        "name": "Dingo X DAMOIM Pt. 4",
-        "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "DEEPFLOW",
-          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 231023,
-      "name": "RUN DAMOIM",
-      "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

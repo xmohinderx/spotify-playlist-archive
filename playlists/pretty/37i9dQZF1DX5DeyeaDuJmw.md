@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,835 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,990 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 94 | [Baby Drip](https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Baby Drip](https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d) | 3:22 |
 | 95 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
 | 96 | [GOTIKA](https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [GOTIKA](https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0) | 3:02 |
-| 97 | [VIDRIOS NEGROS](https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [VIDRIOS NEGROS](https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC) | 2:17 |
+| 97 | [Corazón Egoísta](https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 2:52 |
 | 98 | [Antonio](https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Antonio](https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR) | 2:38 |
 | 99 | [Deseos](https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Deseos](https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X) | 3:23 |
-| 100 | [Corazón Egoísta](https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 2:52 |
+| 100 | [VIDRIOS NEGROS](https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [VIDRIOS NEGROS](https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC) | 2:17 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDEyYzJkYTRjOGIzODg3YzVkZWFhMmQ4ZjA2YWJkNzA2`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDgzZTNhMjFkOWFlNTgxMGMyMDVkNDM1MDE3NjQyZWQx`

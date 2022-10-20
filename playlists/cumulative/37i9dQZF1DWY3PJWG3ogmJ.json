@@ -3040,6 +3040,24 @@
     },
     {
       "album": {
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+      },
+      "artists": [
+        {
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251406,
+      "name": "Reveries",
+      "url": "https://open.spotify.com/track/4qPgkvOEbh6AP8AHAyG62r"
+    },
+    {
+      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/6Ndsuza08xWiz0SCSQNcg9"
       },
@@ -4025,7 +4043,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 213638,
       "name": "Void Silence",
       "url": "https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD"

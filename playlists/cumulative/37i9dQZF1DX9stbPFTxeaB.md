@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-96 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
+97 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Sailin' Shoes](https://open.spotify.com/track/5oQmwbutn2Y9QoFKT0h31v) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Influence](https://open.spotify.com/album/4LVZlwxt0KopNFeAjh6ScO) | 3:23 | 2020-08-21 | 2022-07-29 |
 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 | 2020-08-21 |  |
 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 | 2020-08-21 |  |
-| [Soul On Fire](https://open.spotify.com/track/2w7Lhu2qyIcqkBveFELEOT) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/3IO7IyvePsQ08yDtkQWVHL) | 3:44 | 2020-08-21 |  |
+| [Soul On Fire](https://open.spotify.com/track/2w7Lhu2qyIcqkBveFELEOT) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/3IO7IyvePsQ08yDtkQWVHL) | 3:44 | 2020-08-21 | 2022-10-20 |
 | [Soul On Fire](https://open.spotify.com/track/4Ebvh7oe6LJ0QdLtIOiaU5) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/4JmMDp8VhVBMGe18RhdbbG) | 3:44 | 2020-08-21 | 2022-07-29 |
+| [Soul On Fire](https://open.spotify.com/track/4Qq0xEgR45Lf7iGpv6t0vD) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/5doTWaDPG8coY3SR6SQQc3) | 3:44 | 2020-08-21 |  |
 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 | 2020-08-21 |  |
 | [Spirit](https://open.spotify.com/track/20TX7Hlne2EOyuVjOmrCfv) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit](https://open.spotify.com/album/4eU2lsdMXZmMBvTJWCGzDH) | 3:38 | 2020-08-21 | 2022-07-29 |
 | [Stand Tall](https://open.spotify.com/track/4oIHLOhwRr8yTFZWmyKyZq) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Cannibals](https://open.spotify.com/album/5Qg3Qy7qI2UiSp76xIBYKC) | 3:58 | 2020-08-21 |  |

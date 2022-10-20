@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 278166,
+  "num_followers": 278243,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNjg1NywwMDAwMDAwMDU3YmQ4MjhkNGU2ZWZhZTYxMTk0ODU0MmM2MjUwZWRk",
+  "snapshot_id": "MTY2NTcyNjg1NywwMDAwMDAwMGZiNWQ1NzQ2Yzk2MzI2YTgxODgyODdmM2ZiMTRjMmYx",
   "tracks": [
     {
       "added_at": "2022-10-14 05:54:17",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Este Sou Eu",
-        "url": "https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 219588,
-      "name": "Este Sou Eu",
-      "url": "https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 281402,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Este Sou Eu",
+        "url": "https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 219588,
+      "name": "Este Sou Eu",
+      "url": "https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
+        "name": "Top 10 Celina Borges",
+        "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
+      },
+      "artists": [
+        {
+          "name": "Celina Borges",
+          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
+        }
+      ],
+      "duration_ms": 253323,
+      "name": "Melhor e Mais Feliz (Kolkata)",
+      "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 254964,
       "name": "Minha Voca\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
-        "name": "Top 10 Celina Borges",
-        "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
-      },
-      "artists": [
-        {
-          "name": "Celina Borges",
-          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
-        }
-      ],
-      "duration_ms": 253323,
-      "name": "Melhor e Mais Feliz (Kolkata)",
-      "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
     },
     {
       "added_at": "2022-10-14 05:54:17",

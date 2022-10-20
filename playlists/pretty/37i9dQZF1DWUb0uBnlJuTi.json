@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 215888,
+  "num_followers": 216111,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGYwYzRjNThkMWU2NmJlYjdjZThjMzQ1Y2NlOTZkNzg3",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDU0NzIxNGY5ZDkzMjQ1ZjBiMjA4ZDRjZmE1MGExMmJk",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 187346,
-      "name": "The Revolution Will Not Be Televised",
-      "url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "THE FUNK WILL PREVAIL",
@@ -287,6 +271,22 @@
       "duration_ms": 91733,
       "name": "CATS GROOVE",
       "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 187346,
+      "name": "The Revolution Will Not Be Televised",
+      "url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Running Away - 12-Inch Long Version",
-      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Out Louder",
         "url": "https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 233533,
       "name": "Little Walter Rides Again",
       "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Running Away - 12-Inch Long Version",
+      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
     },
     {
       "added_at": "2021-02-13 05:01:00",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "You Feel Me",
-        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 191443,
-      "name": "You Feel Me",
-      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "The Best of the Light of the World",
@@ -965,6 +949,22 @@
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 191443,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Thrust",
@@ -983,22 +983,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Let's Go Everywhere",
         "url": "https://open.spotify.com/album/2Y03j0Ty27Ia0Lcee6ZzZk"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 194226,
       "name": "Where's the Music",
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Broasted or Fried",
-      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Mutual Attraction Vol. 2",
@@ -1075,6 +1059,22 @@
       "duration_ms": 193598,
       "name": "Presente Grego",
       "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Broasted or Fried",
+      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1107,6 +1107,26 @@
       "duration_ms": 193516,
       "name": "Be on the Lookout",
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Squid Exit Music (7\" radio edit)",
+        "url": "https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Squid Exit Music - 7\" radio edit",
+      "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1155,26 +1175,6 @@
       "duration_ms": 317957,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Squid Exit Music (7\" radio edit)",
-        "url": "https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        },
-        {
-          "name": "Mike Outram",
-          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Squid Exit Music - 7\" radio edit",
-      "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 371080,
-      "name": "The Hump",
-      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Pressure Sensitive",
         "url": "https://open.spotify.com/album/5mBZFylK3027Vraz0Jnz7G"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 371080,
+      "name": "The Hump",
+      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1329,30 +1329,6 @@
       "url": "https://open.spotify.com/track/17nDpLJL5JfCCa7olHnEg9"
     },
     {
-      "added_at": "2021-05-07 04:09:00",
-      "album": {
-        "name": "Spirit of '70",
-        "url": "https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk"
-      },
-      "artists": [
-        {
-          "name": "Robert Walter",
-          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
-        },
-        {
-          "name": "Gary Bartz",
-          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
-        },
-        {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
-        }
-      ],
-      "duration_ms": 257293,
-      "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
-      "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
-    },
-    {
       "added_at": "2021-03-05 05:01:00",
       "album": {
         "name": "Sam Fribush Organ Trio, Vol. I: Riverboat",
@@ -1377,6 +1353,30 @@
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
     },
     {
+      "added_at": "2021-05-07 04:09:00",
+      "album": {
+        "name": "Spirit of '70",
+        "url": "https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk"
+      },
+      "artists": [
+        {
+          "name": "Robert Walter",
+          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
+        },
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "duration_ms": 257293,
+      "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
+      "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Linger Lane",
@@ -1391,22 +1391,6 @@
       "duration_ms": 320773,
       "name": "Mountain Caravan",
       "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Intensity",
-        "url": "https://open.spotify.com/album/0UIDIJWyepSPXNAqLWBPiv"
-      },
-      "artists": [
-        {
-          "name": "Charles Earland",
-          "url": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
-        }
-      ],
-      "duration_ms": 675160,
-      "name": "Happy 'Cause I'm Goin' Home",
-      "url": "https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1427,6 +1411,30 @@
       "duration_ms": 294826,
       "name": "We Change - Part I",
       "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        },
+        {
+          "name": "Shaun Martin",
+          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     }
   ],
   "unique_name": "Jazz-Funk",

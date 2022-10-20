@@ -4,7 +4,7 @@
 
 > ProfJam entra na zona.
 
-129 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+130 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-07-16 |  |
 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 | 2022-07-16 |  |
 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 | 2022-07-16 |  |
-| [Many Men](https://open.spotify.com/track/2FWGa7ifIbKNxDvgfhPIir) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/5tIZgTkR5MAt3bX0NzzDlc), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men](https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj) | 3:07 | 2022-09-22 |  |
+| [Many Men](https://open.spotify.com/track/2FWGa7ifIbKNxDvgfhPIir) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/5tIZgTkR5MAt3bX0NzzDlc), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men](https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj) | 3:07 | 2022-09-22 | 2022-10-20 |
+| [Many Men \- Special Version](https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC) | [DJ Cirofox](https://open.spotify.com/artist/0w6M4MwOc9BCULOgqeNl4p), [Lz XROOTZ](https://open.spotify.com/artist/02bFLZcUEYAiFawaiPgD5V), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men \(Special Version\)](https://open.spotify.com/album/40hk62MfatGW1mdy7GLn4R) | 3:07 | 2022-10-13 |  |
 | [Mar Azul](https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Mar Azul](https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g) | 3:13 | 2022-09-01 |  |
 | [Marcas De Bikini](https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Marcas De Bikini](https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3) | 3:23 | 2022-08-11 | 2022-10-01 |
 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 | 2022-07-16 |  |

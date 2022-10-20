@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Lewis Capaldi",
-  "num_followers": 77920,
+  "num_followers": 78045,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMDQ2OGQwNDk2YmFkMGM5OWI5ZGY0ZTU4YjgwYmY1NDhm",
+  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMGY4MDNiNTE1MDIyMTBiMjU4ZjRlMDBkMGE0NmJhNWUz",
   "tracks": [
     {
       "added_at": "2022-09-23 04:12:38",
@@ -484,6 +484,22 @@
       "added_at": "2022-09-23 04:12:38",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
       },
       "artists": [
@@ -497,20 +513,20 @@
       "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
     },
     {
-      "added_at": "2022-09-23 04:12:38",
+      "added_at": "2022-10-20 01:36:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -527,22 +543,6 @@
       "duration_ms": 214000,
       "name": "i love you baby",
       "url": "https://open.spotify.com/track/124lzQbZK2jQZqwTq8jt2n"
-    },
-    {
-      "added_at": "2022-10-19 01:43:21",
-      "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
       },
       "artists": [
         {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
         }
       ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 238439,
-      "name": "Complicated - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "When You Love Someone",
         "url": "https://open.spotify.com/album/2zC9v0aYykenekxCJD9DRd"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 225186,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 238439,
+      "name": "Complicated - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Ocean Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
-      },
-      "artists": [
-        {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Ocean Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "A Thousand Miles",
         "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 190605,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Ocean Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+      },
+      "artists": [
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Ocean Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 208448,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "everywhere",
         "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 224041,
       "name": "everywhere",
       "url": "https://open.spotify.com/track/7fROnnvjVQHESskj3WmQ6r"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 208448,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Take On Me",
         "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 146533,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 242915,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 242915,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2143,22 +2143,6 @@
       "duration_ms": 241213,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Night Changes",
-        "url": "https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 225721,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2259,18 +2243,38 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Soft Pop Hits",
-        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
+        "name": "Semicolon & Parentheses (Deluxe)",
+        "url": "https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS"
       },
       "artists": [
         {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+          "name": "Dylan Rockoff",
+          "url": "https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5"
+        },
+        {
+          "name": "Caroline Kole",
+          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
         }
       ],
-      "duration_ms": 182986,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
+      "duration_ms": 172782,
+      "name": "You're the One That I Want",
+      "url": "https://open.spotify.com/track/1oC2QTCvlBKfgzaPn2G4tC"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2303,6 +2307,22 @@
       "duration_ms": 122822,
       "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Soft Pop Hits",
+        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2355,6 +2375,38 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -2367,26 +2419,6 @@
       "duration_ms": 200539,
       "name": "Here",
       "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Semicolon & Parentheses (Deluxe)",
-        "url": "https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS"
-      },
-      "artists": [
-        {
-          "name": "Dylan Rockoff",
-          "url": "https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5"
-        },
-        {
-          "name": "Caroline Kole",
-          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
-        }
-      ],
-      "duration_ms": 172782,
-      "name": "You're the One That I Want",
-      "url": "https://open.spotify.com/track/1oC2QTCvlBKfgzaPn2G4tC"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2407,38 +2439,6 @@
       "duration_ms": 143522,
       "name": "Bam Bam - Acoustic",
       "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2471,22 +2471,6 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2527,6 +2511,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
       },
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
         "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 127400,
       "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
       "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "It's Gonna Be Me",
+        "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
+      },
+      "artists": [
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2643,18 +2643,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv"
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
       },
       "artists": [
         {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+          "name": "Kristina Train",
+          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
         }
       ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne"
+      "duration_ms": 140090,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2671,6 +2671,22 @@
       "duration_ms": 267026,
       "name": "Halo",
       "url": "https://open.spotify.com/track/3Jj7wTQ4xkC1xYz0q0M4TD"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2711,22 +2727,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
-      },
-      "artists": [
-        {
-          "name": "Kristina Train",
-          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
-        }
-      ],
-      "duration_ms": 140090,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "The One That Got Away (Acoustic)",
         "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
       },
@@ -2759,18 +2759,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "It's Gonna Be Me",
-        "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
       },
       "artists": [
         {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
         }
       ],
-      "duration_ms": 174349,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
+      "duration_ms": 179333,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2787,22 +2787,6 @@
       "duration_ms": 140645,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
-      },
-      "artists": [
-        {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2895,18 +2879,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/0avKRT69O6IzBHiMNiAGr0"
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI"
       },
       "artists": [
         {
-          "name": "Daisy Guttridge",
-          "url": "https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4"
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
         }
       ],
-      "duration_ms": 199000,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7ECVu9dvPZVG1xEcwWfCRk"
+      "duration_ms": 286506,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2923,6 +2907,22 @@
       "duration_ms": 244906,
       "name": "If I Were A Boy",
       "url": "https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/0avKRT69O6IzBHiMNiAGr0"
+      },
+      "artists": [
+        {
+          "name": "Daisy Guttridge",
+          "url": "https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7ECVu9dvPZVG1xEcwWfCRk"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3035,22 +3035,6 @@
       "duration_ms": 219062,
       "name": "Happier",
       "url": "https://open.spotify.com/track/6D7bcHnna58Wr19nWky3Aa"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI"
-      },
-      "artists": [
-        {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3287,6 +3271,22 @@
       "duration_ms": 204186,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Night Changes",
+        "url": "https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 225721,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
     }
   ],
   "unique_name": "Pop Covers",

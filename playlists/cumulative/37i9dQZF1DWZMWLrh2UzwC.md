@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Louis Tomlinson
 
-3,507 songs - 8 day 0 hr 44 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+3,508 songs - 8 day 0 hr 48 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-03-31 | 2022-04-08 |
 | [Baby Can You Stay](https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay](https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L) | 2:58 | 2022-05-05 | 2022-05-13 |
 | [Baby Try](https://open.spotify.com/track/2wL4SzJ0yyrrrHXTgOJsCr) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [Baby Try](https://open.spotify.com/album/5S13hTVwKRVppq4SALiyn8) | 2:54 | 2022-05-26 | 2022-06-03 |
-| [Baby With You](https://open.spotify.com/track/2heNhap3RajDNVhFmxyX9h) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You](https://open.spotify.com/album/6qD7rs3oWVjqe4EUysD8ij) | 3:33 | 2022-10-13 |  |
+| [Baby With You](https://open.spotify.com/track/2heNhap3RajDNVhFmxyX9h) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You](https://open.spotify.com/album/6qD7rs3oWVjqe4EUysD8ij) | 3:33 | 2022-10-13 | 2022-10-20 |
+| [Baby With You](https://open.spotify.com/track/6PLFBH0Z09ErT8NIoFrs88) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You \- EP](https://open.spotify.com/album/7jiKefDNleILC263FaDE7L) | 3:33 | 2022-10-13 |  |
 | [Back In The Game](https://open.spotify.com/track/0zRinZTCWJCx0pTSUeToC7) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Back In The Game](https://open.spotify.com/album/3mFUxzax1U0c4qKaybkZBF) | 3:28 | 2022-04-28 | 2022-05-06 |
 | [Back On the Music!](https://open.spotify.com/track/0O1eq77Wwu4pMDK06pTyqD) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/1am7tyBwvJ4jg43wPue16v) | 3:27 | 2022-03-10 | 2022-03-18 |
 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 | 2022-09-08 | 2022-09-16 |
@@ -2209,7 +2210,7 @@
 | [otw home](https://open.spotify.com/track/6mtCX8kL9idqigAGTDmZRB) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [self\-care on a tuesday](https://open.spotify.com/album/5UZ8ghJ6IZIudgC9p7Jvwb) | 3:41 | 2022-10-13 |  |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-07 | 2022-04-15 |
 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-12 | 2022-05-20 |
-| [Out of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2022-10-13 |  |
+| [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2022-10-13 |  |
 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 | 2022-05-05 | 2022-05-13 |
 | [Outta My Head](https://open.spotify.com/track/6XWw1Sj6WxN7bqXgA8j3YH) | [Shazee](https://open.spotify.com/artist/3hjD2tgcUWOm6o8Kk7cudp), [Tilla Hanna](https://open.spotify.com/artist/3NJyNeADXHVxvIKdTxTqw4) | [Outta My Head](https://open.spotify.com/album/6aBZwWz8GXM7EUGtU4YgVv) | 2:37 | 2022-01-20 | 2022-01-28 |
 | [Over and Over](https://open.spotify.com/track/2wtr3feVe3AEJ6daXrr6wb) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng), [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [yue.](https://open.spotify.com/artist/5tMc2CAZHfP0lvgaG6RWGC), [h u e.](https://open.spotify.com/artist/5XwslefjoygAJHXMTKMsdY) | [Over and Over](https://open.spotify.com/album/3QOu6pmWDdk7BmFDliYm7q) | 3:02 | 2022-03-10 | 2022-03-18 |

@@ -2503,7 +2503,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -6133,7 +6133,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -7919,7 +7919,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 120016,
       "name": "KOCIMI\u0118TKA",
       "url": "https://open.spotify.com/track/0czMIykCNrza3OEmWvJEYO"
@@ -9675,6 +9675,24 @@
       "duration_ms": 199384,
       "name": "Mi\u0142o\u015b\u0107 na sprzeda\u017c",
       "url": "https://open.spotify.com/track/7oeG4bdfaKomPKfva5AgXc"
+    },
+    {
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
       "album": {
@@ -14131,7 +14149,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 154750,
       "name": "Rozwijaj\u0105c Rilkego (J. Cygan)",
       "url": "https://open.spotify.com/track/6KJUiFqDkz2GXWf19oZrk2"
@@ -15167,7 +15185,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 196600,
       "name": "Szafir",
       "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"

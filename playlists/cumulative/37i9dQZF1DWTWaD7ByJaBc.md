@@ -4,7 +4,7 @@
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-36 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
+37 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [5050](https://open.spotify.com/track/4YUyvp6310waHWeOzUst3v) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 3:15 | 2017-07-03 |  |
 | [At Night \(I Think About You\)](https://open.spotify.com/track/29gadGnxeyCsHeXeRpEkeG) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5qEgag05el84wUpg7uZ5VH) | 3:35 | 2017-07-03 | 2022-07-29 |
 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 | 2017-07-03 |  |
-| [Back to My Love](https://open.spotify.com/track/47MQM8HnhmsojJcvakgOyb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/6maRYneeORJh2o9Ue0XVmZ) | 3:55 | 2017-07-03 |  |
+| [Back to My Love](https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk) | 3:55 | 2017-07-03 |  |
+| [Back to My Love](https://open.spotify.com/track/47MQM8HnhmsojJcvakgOyb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/6maRYneeORJh2o9Ue0XVmZ) | 3:55 | 2017-07-03 | 2022-10-20 |
 | [Don't Let Me Down](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Let Me Down](https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf) | 3:28 | 2017-07-03 |  |
 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 | 2017-07-03 |  |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2017-07-03 |  |

@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Sleeping With Sirens
 
-506 songs - 1 day 6 hr 34 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+507 songs - 1 day 6 hr 37 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 |  |
 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 | 2021-09-10 | 2022-01-22 |
 | [Piggy](https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Piggy](https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW) | 2:37 | 2022-01-28 | 2022-02-26 |
-| [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 |  |
+| [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 | 2022-10-14 |  |
+| [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 | 2022-10-20 |
 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-01-28 | 2022-07-09 |
 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 | 2022-01-28 | 2022-07-23 |
 | [Plastic Heart](https://open.spotify.com/track/3RflU6XdclibViyZ50ZQts) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Welcome to the Chaos](https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc) | 3:03 | 2022-07-22 | 2022-08-06 |

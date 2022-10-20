@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-115 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+116 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Mothercity \- Tom Jarmey Remix](https://open.spotify.com/track/1ju2P3fI1P0a41wLwjcBPn) | [Penner+Muder](https://open.spotify.com/artist/4fpAs40OBZoto9ZtoEdOuE), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Mothercity \(Tom Jarmey Remix\)](https://open.spotify.com/album/6VgrSHW2dVbP77n5I4rGHe) | 5:55 | 2022-09-15 |  |
 | [Moulin Rouge \- Original Mix](https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT) | [Stazzia](https://open.spotify.com/artist/17TOgS3UEH2wza058lRCQy) | [Groovin' Attitude EP](https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B) | 5:00 | 2022-09-15 |  |
 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 | 2022-09-15 |  |
-| [Nine O Nine](https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/3IlhSayycfkGlctTf9xvz2) | 3:16 | 2022-09-15 |  |
+| [Nine O Nine](https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/4wM0efpVUJ0P8rGfVhEdxW) | 3:16 | 2022-10-13 |  |
+| [Nine O Nine](https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/3IlhSayycfkGlctTf9xvz2) | 3:16 | 2022-09-15 | 2022-10-20 |
 | [Noemie](https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [Noemie](https://open.spotify.com/album/2QOW9TFUMABmFYGMPXDi1c) | 2:58 | 2022-09-15 |  |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2022-09-15 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/0DWjD72IBxl4TlgKpo10Rf) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Once in a Lifetime](https://open.spotify.com/album/5bXt3GoApEy9r31rREuBMv) | 7:52 | 2022-09-15 |  |

@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-569 songs - 1 day 10 hr 52 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+570 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Forever](https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Forever](https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3) | 3:15 | 2022-09-22 |  |
 | [Forever Yours](https://open.spotify.com/track/228SCNyICAP1THsuLdzLW4) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Forever Yours](https://open.spotify.com/album/6uHQ0lm7VJwSqp7frFaSMk) | 3:02 | 2020-11-03 | 2021-06-11 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-03-26 | 2022-01-28 |
-| [Frail Moments, Same Page](https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Frail Moments, Same Page](https://open.spotify.com/album/2k2rgwK0WgzWFJDck4ixeS) | 3:44 | 2021-12-10 |  |
+| [Frail Moments, Same Page](https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Frail Moments, Same Page](https://open.spotify.com/album/2k2rgwK0WgzWFJDck4ixeS) | 3:44 | 2021-12-10 | 2022-10-20 |
 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 | 2022-05-09 |  |
 | [Free Fall](https://open.spotify.com/track/6VV2DOdeWTiDyRoweNhwZk) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Free Fall](https://open.spotify.com/album/5aS3e9Hpuj8tEEaZKsci1K) | 3:06 | 2021-06-25 | 2022-01-28 |
 | [FREEDOM](https://open.spotify.com/track/2JHHXGSC6Ra3IJOBNLbhS6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/7MmdRxtcFnN33C6MQLE61u) | 2:58 | 2021-11-26 | 2022-07-29 |
@@ -520,6 +520,7 @@
 | [Try](https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Try](https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7) | 4:22 | 2021-05-21 | 2022-03-11 |
 | [Turn Me Up](https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Turn Me Up](https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy) | 3:53 | 2020-03-25\* | 2020-08-25 |
 | [Twice As Hard](https://open.spotify.com/track/1GZNtTSGzKScOgctIdSli8) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:03 | 2020-10-09 | 2021-04-17 |
+| [Two Jobs](https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Two Jobs](https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG) | 3:22 | 2022-10-14 |  |
 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 | 2020-03-27 | 2021-02-28 |
 | [Undercover](https://open.spotify.com/track/4F8ZpGHyAwNCNgEKrjlDSZ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Undercover](https://open.spotify.com/album/3gRIDFEQrYBTpjivM8n7cQ) | 3:18 | 2020-07-03 | 2021-04-17 |
 | [Underneath the Surface](https://open.spotify.com/track/6LqJvhrBPFKlE0KUDBlpTl) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:31 | 2020-05-05 | 2020-10-30 |

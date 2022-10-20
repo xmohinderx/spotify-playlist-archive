@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-152 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+153 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dear](https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 1:56 | 2022-03-30 |  |
 | [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 | 2022-07-21 |
 | [Dense Cover](https://open.spotify.com/track/4LeRGWmKd87ixbTS2smg6e) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [A Little Night Music: Aural Apparitions from the Geographic North](https://open.spotify.com/album/3Gd318rDShK1Ds12n3AATc) | 4:18 | 2022-03-30 | 2022-07-29 |
-| [Dewey](https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 4:54 | 2022-05-25 |  |
+| [Dewey](https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 4:54 | 2022-05-25 | 2022-10-20 |
 | [Distance](https://open.spotify.com/track/2vHF644TPOyDF9lQSgTVzr) | [Pepo Galan](https://open.spotify.com/artist/18NAfV3NJPeHDvA2mjwh6K), [Sita Ostheimer](https://open.spotify.com/artist/2euah4M3KphCCZalnxQw4Y) | [Contact](https://open.spotify.com/album/7hTymFxCiU5SbCGeeGcAvi) | 2:50 | 2022-03-17 | 2022-07-28 |
 | [distorted memories](https://open.spotify.com/track/2QJEVdIX5xuBGrDSpPjocC) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [distorted memories](https://open.spotify.com/album/38VmHqpsur9blTgwtjg5VF) | 1:50 | 2022-07-08 |  |
 | [Dive In : Dive Out](https://open.spotify.com/track/3c9geGzOBDEgOwv9YbtjAb) | [Loris S\. Sarid](https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl) | [Seabed\-Sunbath](https://open.spotify.com/album/5dazs6Z7DynTPgZVRR4X4J) | 3:46 | 2022-09-30 |  |
@@ -77,6 +77,7 @@
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 | 2022-10-10 |
 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 | 2022-10-10 |  |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-03-17 |  |
+| [Loving Kindness](https://open.spotify.com/track/0dxXjGXABX6gs1svER3A6p) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Loving Kindness](https://open.spotify.com/album/079D5fH3NELsp00fmd4YIQ) | 5:17 | 2022-10-14 |  |
 | [Lumi](https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Lumi](https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W) | 2:44 | 2022-08-05 |  |
 | [Magdalena](https://open.spotify.com/track/3gxRNUi2suxMo7QV7maZcu) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 10:19 | 2022-03-30 | 2022-09-13 |
 | [Marmara Beach II](https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Multi Natural](https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh) | 1:18 | 2022-03-30 |  |

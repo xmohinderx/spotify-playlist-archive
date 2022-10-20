@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-80 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
+81 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dona da Minha Boca](https://open.spotify.com/track/0AnG23OiIeHVToB7G5yyeT) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Dona da Minha Boca](https://open.spotify.com/album/1k8Myokrv7rkGaUPWqVuNi) | 3:24 | 2022-07-05 | 2022-08-12 |
 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 | 2022-07-05 |  |
 | [FALADUKÊ](https://open.spotify.com/track/17b8o9O29o3QGTRuprj7nd) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [FALADUKÊ](https://open.spotify.com/album/4FnuMfnfppl7BA8IL16Iif) | 3:17 | 2022-07-05 | 2022-08-12 |
+| [FAX](https://open.spotify.com/track/3f7DEE3i9IzH7ieoKOLdvr) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FAX](https://open.spotify.com/album/7hu0vKYovlQFVdu0KXVi1J) | 2:45 | 2022-10-13 |  |
 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 | 2022-07-05 |  |
 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 | 2022-07-05 |  |
 | [Gravidade](https://open.spotify.com/track/1xKyLu1AbYauopjoAi0bQU) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Gravidade](https://open.spotify.com/album/7LuTGQfSAmdbOi1SRv7C7W) | 4:03 | 2022-07-05 | 2022-10-14 |
@@ -86,7 +87,7 @@
 | [Voodoo](https://open.spotify.com/track/2ZHF5RmjHVEbwhFO0TAGBT) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/68ja1B1UPyyUTLxwEug0pG) | 4:50 | 2022-07-05 | 2022-07-29 |
 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 | 2022-07-05 |  |
 | [WUOW](https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [WUOW](https://open.spotify.com/album/4KNT4vVQJeSgBmZYRalkHb) | 2:55 | 2022-10-06 |  |
-| [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 | 2022-07-05 |  |
+| [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 | 2022-07-05 | 2022-10-20 |
 | [Última Noite](https://open.spotify.com/track/0azjYhx3vaByBQfcvrq8BC) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Vale D´judeus](https://open.spotify.com/album/3R9nwoCU3HQEe2lDZZVJFx) | 3:03 | 2022-07-05 | 2022-08-12 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

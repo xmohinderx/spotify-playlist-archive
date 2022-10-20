@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,263 likes - 106 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,264 likes - 106 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 74 | [Murphy](https://open.spotify.com/track/0ZaIIpYcAax5IWkrrUmLi3) | [Dia](https://open.spotify.com/artist/6eZaWLWqYN6A7ZABISgwLv) | [Murphy](https://open.spotify.com/album/1KyDA3wPQaAvBNPt07E9dK) | 3:28 |
 | 75 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 |
 | 76 | [Human Baby](https://open.spotify.com/track/11jAbToUxGQudGfwczoHh6) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [Human Baby](https://open.spotify.com/album/2NXcZsMVccBlhkMPOFhKLt) | 2:29 |
-| 77 | [Out of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
+| 77 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
 | 78 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 |
 | 79 | [2 Step \- From the new “House Party” Original Motion Picture Soundtrack](https://open.spotify.com/track/4FO8Tg6i1wLU0DRO3gwuJL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [2 Step \(From the new “House Party” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15lrVWXxXVT9GNhdIepIXJ) | 2:10 |
 | 80 | [Petty](https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Petty](https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq) | 3:15 |

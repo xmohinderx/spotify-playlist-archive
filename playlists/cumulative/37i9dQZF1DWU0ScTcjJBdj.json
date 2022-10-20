@@ -1865,6 +1865,24 @@
     {
       "album": {
         "name": "Kairos",
+        "url": "https://open.spotify.com/album/3WKkuiaImlsbguJP8RZlvX"
+      },
+      "artists": [
+        {
+          "name": "Sam Brookes",
+          "url": "https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211106,
+      "name": "James",
+      "url": "https://open.spotify.com/track/54WMZhaEtOV4PC2hcXkwoc"
+    },
+    {
+      "album": {
+        "name": "Kairos",
         "url": "https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k"
       },
       "artists": [
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 211106,
       "name": "James",
       "url": "https://open.spotify.com/track/64PvmmEK0qTUaVUVvrYR7W"

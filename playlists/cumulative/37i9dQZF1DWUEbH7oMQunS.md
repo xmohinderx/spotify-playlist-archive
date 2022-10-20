@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-78 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
+79 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 | 2018-02-14 |  |
 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 | 2018-02-14 |  |
 | [Wonder](https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:30 | 2018-02-14 |  |
-| [Wrecked.](https://open.spotify.com/track/20gqFSQr6WkufncmJ1uz2z) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/5BfCBoffca0UNKpgDnyD4m) | 2:47 | 2018-07-07 |  |
+| [Wrecked.](https://open.spotify.com/track/20gqFSQr6WkufncmJ1uz2z) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/5BfCBoffca0UNKpgDnyD4m) | 2:47 | 2018-07-07 | 2022-10-20 |
+| [Wrecked.](https://open.spotify.com/track/7IL9XWhxEXJQsCpO1dgYkW) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/6UximDnjqOzwJ77MQNniVo) | 2:47 | 2018-07-07 |  |
 | [Wrecked.](https://open.spotify.com/track/7w5WkTpJNikuB7aXgvfh3q) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/0uTrToNIkOO7fUsgDBz14M) | 2:47 | 2018-07-07 | 2022-07-29 |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

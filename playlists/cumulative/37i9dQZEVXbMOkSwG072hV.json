@@ -3364,6 +3364,24 @@
     },
     {
       "album": {
+        "name": "Deixa Escondido",
+        "url": "https://open.spotify.com/album/2bs6HtXUZNHRTHngAyTYvi"
+      },
+      "artists": [
+        {
+          "name": "Vitux",
+          "url": "https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189443,
+      "name": "Deixa Escondido",
+      "url": "https://open.spotify.com/track/417l7rLN1PNgay8sIcKK4D"
+    },
+    {
+      "album": {
         "name": "Deixa Eu Sarrar",
         "url": "https://open.spotify.com/album/3ZUola3zxGHfecAO5AIOlv"
       },
@@ -3442,6 +3460,24 @@
     },
     {
       "album": {
+        "name": "Dengo (Lo-Fi Remix)",
+        "url": "https://open.spotify.com/album/6NLE0S9sPvazvMXp2fLweU"
+      },
+      "artists": [
+        {
+          "name": "Lebline Chill",
+          "url": "https://open.spotify.com/artist/3wPKkWWElH0a9xfxP5nnyE"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Dengo (Lo-Fi Remix)",
+      "url": "https://open.spotify.com/track/4IhbAaOLugP1ojXT7BaB3v"
+    },
+    {
+      "album": {
         "name": "Depende",
         "url": "https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li"
       },
@@ -3505,7 +3541,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 162111,
       "name": "Descontrolada",
       "url": "https://open.spotify.com/track/35ILpvFvH8u8dVfjG2txtw"
@@ -8164,6 +8200,24 @@
     },
     {
       "album": {
+        "name": "Menace",
+        "url": "https://open.spotify.com/album/4kLpRikS7eFJWLLxl7OOG4"
+      },
+      "artists": [
+        {
+          "name": "Sione",
+          "url": "https://open.spotify.com/artist/4oSgJ02nxn47RAOat11ZMk"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135341,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/4BcOedr1qWY4hDC7Ki59ZB"
+    },
+    {
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6iCqOANxuNAVs9ytVaskrJ"
       },
@@ -10335,7 +10389,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 166930,
       "name": "Pega o Guanabara",
       "url": "https://open.spotify.com/track/57rCopayc4wJL7jQZaRvtn"
@@ -11283,7 +11337,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
@@ -14355,7 +14409,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -15511,7 +15565,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 183509,
       "name": "\u00c9 o Mito",
       "url": "https://open.spotify.com/track/72A8rHS99kqVlOg2nwI7q7"

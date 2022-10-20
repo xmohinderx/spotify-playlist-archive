@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 299841,
+  "num_followers": 300047,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQzOTk5MywwMDAwMDAwMGZmOWUwYTQ5NzY4ZTI0ZjQ5ZmU2MTZiNGNmODg1MTFl",
+  "snapshot_id": "MTY2NDQzOTk5MywwMDAwMDAwMDlmODJkNTMwNDg3ZGQ0M2U4ODM2Nzg1OTk0OWEwMjJk",
   "tracks": [
     {
       "added_at": "2022-09-29 08:26:33",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Shizukana",
-        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
-      },
-      "artists": [
-        {
-          "name": "Isshi Matsuriza",
-          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Shizukana",
-      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Staden",
         "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 121946,
       "name": "Staden",
       "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Shizukana",
+        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
+      },
+      "artists": [
+        {
+          "name": "Isshi Matsuriza",
+          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Shizukana",
+      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "We were the hook",
-        "url": "https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 127260,
-      "name": "We were the hook",
-      "url": "https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Summer Light",
         "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 132681,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "We were the hook",
+        "url": "https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 127260,
+      "name": "We were the hook",
+      "url": "https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
-      },
-      "artists": [
-        {
-          "name": "Frederiq",
-          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
+      },
+      "artists": [
+        {
+          "name": "Frederiq",
+          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "A bed of tulips",
-        "url": "https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc"
-      },
-      "artists": [
-        {
-          "name": "Luanna Averie",
-          "url": "https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB"
-        }
-      ],
-      "duration_ms": 160250,
-      "name": "A bed of tulips",
-      "url": "https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "La Ballerine",
         "url": "https://open.spotify.com/album/2xmXYtmCj2ipIXy6CPUaGv"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 153224,
       "name": "La Ballerine",
       "url": "https://open.spotify.com/track/4oQi1BbH2g3V3s7lluq8vy"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "A bed of tulips",
+        "url": "https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc"
+      },
+      "artists": [
+        {
+          "name": "Luanna Averie",
+          "url": "https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB"
+        }
+      ],
+      "duration_ms": 160250,
+      "name": "A bed of tulips",
+      "url": "https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Impuissance",
-        "url": "https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay"
-      },
-      "artists": [
-        {
-          "name": "Luisa Amogida",
-          "url": "https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj"
-        }
-      ],
-      "duration_ms": 123888,
-      "name": "Impuissance",
-      "url": "https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Meraviglia",
         "url": "https://open.spotify.com/album/3VxVxOxr4KFHoEvG14mosa"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 111492,
       "name": "Meraviglia",
       "url": "https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Impuissance",
+        "url": "https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay"
+      },
+      "artists": [
+        {
+          "name": "Luisa Amogida",
+          "url": "https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj"
+        }
+      ],
+      "duration_ms": 123888,
+      "name": "Impuissance",
+      "url": "https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Strosande",
-        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
-      },
-      "artists": [
-        {
-          "name": "Alfred Janders",
-          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Strosande",
-      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Rester Dans Les Parages",
         "url": "https://open.spotify.com/album/2sEefiUsuwEzMN8tXzxXVQ"
       },
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Silent joy",
-        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88"
       },
       "artists": [
         {
-          "name": "Lester Dann",
-          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+          "name": "Reivaj Ebol",
+          "url": "https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz"
         }
       ],
-      "duration_ms": 145750,
-      "name": "Silent joy",
-      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
+      "duration_ms": 170125,
+      "name": "Desenlace",
+      "url": "https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Strosande",
+        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
+      },
+      "artists": [
+        {
+          "name": "Alfred Janders",
+          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Strosande",
+      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1307,34 +1307,18 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Belle Vie De Tous Les Jours",
-        "url": "https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI"
+        "name": "Silent joy",
+        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
       },
       "artists": [
         {
-          "name": "Baudouin B\u00e9ringer",
-          "url": "https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg"
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Belle Vie De Tous Les Jours",
-      "url": "https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Ordinary Day",
-        "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
-      },
-      "artists": [
-        {
-          "name": "Eirin Nordness",
-          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
-        }
-      ],
-      "duration_ms": 150242,
-      "name": "Ordinary Day",
-      "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
+      "duration_ms": 145750,
+      "name": "Silent joy",
+      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1403,6 +1387,38 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Belle Vie De Tous Les Jours",
+        "url": "https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI"
+      },
+      "artists": [
+        {
+          "name": "Baudouin B\u00e9ringer",
+          "url": "https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Belle Vie De Tous Les Jours",
+      "url": "https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Ordinary Day",
+        "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
+      },
+      "artists": [
+        {
+          "name": "Eirin Nordness",
+          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
+        }
+      ],
+      "duration_ms": 150242,
+      "name": "Ordinary Day",
+      "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Cavtat",
         "url": "https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 119000,
       "name": "Cavtat",
       "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88"
-      },
-      "artists": [
-        {
-          "name": "Reivaj Ebol",
-          "url": "https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Desenlace",
-      "url": "https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Time Line",
-        "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
-      },
-      "artists": [
-        {
-          "name": "Hugo Vanbrooke",
-          "url": "https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH"
-        }
-      ],
-      "duration_ms": 130190,
-      "name": "am ersten Tag",
-      "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Oyasumi Nasai",
         "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 164522,
       "name": "Oyasumi Nasai",
       "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Time Line",
+        "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
+      },
+      "artists": [
+        {
+          "name": "Hugo Vanbrooke",
+          "url": "https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH"
+        }
+      ],
+      "duration_ms": 130190,
+      "name": "am ersten Tag",
+      "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
     },
     {
       "added_at": "2022-09-29 08:26:33",

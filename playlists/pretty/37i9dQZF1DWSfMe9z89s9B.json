@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Paulade",
-  "num_followers": 1298518,
+  "num_followers": 1298956,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc5MzU4MSwwMDAwMDAwMDA2ZTA3NzRjZWQ0YzI3MjVjYjUyMDg4OTcwMmI1ZWI2",
+  "snapshot_id": "MTY2NjE2MjgwMCwwMDAwMDAwMGY4MDg4MGEwNjIwMzJmMTk1MTM3ZTcyMzkxNjJlMjQ1",
   "tracks": [
     {
       "added_at": "2022-07-24 03:11:28",
@@ -157,24 +157,20 @@
       "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-10-19 07:00:00",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/0bQAqtkdj7DUynbYiVLRX8"
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
       "artists": [
         {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        },
-        {
-          "name": "Flozigg",
-          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 216585,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2DDU8tcHwfrs7HbJQN2Aqu"
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -841,22 +837,6 @@
       "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "I Got It",
-        "url": "https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "I Got It",
-      "url": "https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf"
-    },
-    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Stayed at the Party",
@@ -871,6 +851,22 @@
       "duration_ms": 213166,
       "name": "Stayed at the Party",
       "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "I Got It",
+        "url": "https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf"
     },
     {
       "added_at": "2022-07-24 02:54:27",
@@ -1089,22 +1085,6 @@
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
       "added_at": "2022-08-19 04:17:01",
       "album": {
         "name": "Happen",
@@ -1119,6 +1099,22 @@
       "duration_ms": 253373,
       "name": "Happen",
       "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1157,22 +1153,6 @@
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
-      "added_at": "2022-08-19 04:17:01",
-      "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Boundaries",
@@ -1189,24 +1169,20 @@
       "url": "https://open.spotify.com/track/1x8Y6qmIS378NB720asCAm"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-08-19 04:17:01",
       "album": {
-        "name": "Jaime (Reimagined)",
-        "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Stay High - Childish Gambino Version",
-      "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1227,6 +1203,26 @@
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Jaime (Reimagined)",
+        "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Stay High - Childish Gambino Version",
+      "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1261,20 +1257,20 @@
       "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-09 04:06:40",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm"
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 218200,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t"
+      "duration_ms": 209720,
+      "name": "Top Steppa",
+      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
       "added_at": "2022-08-26 04:05:16",
@@ -1297,20 +1293,40 @@
       "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
-      "added_at": "2022-09-09 04:06:40",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
         }
       ],
-      "duration_ms": 209720,
-      "name": "Top Steppa",
-      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1369,26 +1385,6 @@
       "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 112666,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Getaway",
@@ -1419,6 +1415,26 @@
       "duration_ms": 161142,
       "name": "5 MO' MINUTES",
       "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/0bQAqtkdj7DUynbYiVLRX8"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2DDU8tcHwfrs7HbJQN2Aqu"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1525,22 +1541,6 @@
       "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
     },
     {
-      "added_at": "2022-09-09 04:06:40",
-      "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 166927,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
-    },
-    {
       "added_at": "2022-08-19 04:17:01",
       "album": {
         "name": "Sweet Heat",
@@ -1557,20 +1557,20 @@
       "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
+      "added_at": "2022-09-09 04:06:40",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU"
       },
       "artists": [
         {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 175810,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP"
+      "duration_ms": 166927,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1603,6 +1603,22 @@
       "duration_ms": 155115,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 175810,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1677,22 +1693,6 @@
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
     },
     {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "Cherie",
-        "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 205536,
-      "name": "Cherie",
-      "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
-    },
-    {
       "added_at": "2022-09-09 04:06:40",
       "album": {
         "name": "IN THE AIR/BILL$ (SPED UP)",
@@ -1709,20 +1709,20 @@
       "url": "https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo"
     },
     {
-      "added_at": "2022-07-15 04:02:46",
+      "added_at": "2022-07-29 04:14:33",
       "album": {
-        "name": "Keep Your Head Up",
-        "url": "https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8"
+        "name": "Cherie",
+        "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
       },
       "artists": [
         {
-          "name": "Khi Infinite",
-          "url": "https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs"
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
         }
       ],
-      "duration_ms": 163725,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"
+      "duration_ms": 205536,
+      "name": "Cherie",
+      "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
     }
   ],
   "unique_name": "Alternative R&B",

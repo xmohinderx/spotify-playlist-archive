@@ -4,7 +4,7 @@
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-189 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/5YJ4toIxNRIrBELWHX0e5E)
+190 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/5YJ4toIxNRIrBELWHX0e5E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Mujer Contra Mujer](https://open.spotify.com/track/0Fw5WP079fURiUD56fcvvC) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, José, Nacho](https://open.spotify.com/album/4WsyYMyCdQf0Rr6g6mr4x9) | 4:06 | 2021-12-09 | 2022-07-29 |
 | [Mujer contra mujer](https://open.spotify.com/track/7hmzQ7lRZV8uUnuO77QCbQ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical \(Bonus Tracks Edition\)](https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA) | 4:07 | 2022-07-05 |  |
 | [Muñeca](https://open.spotify.com/track/1Ulc5REKYpOZEm1SGDdXy3) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Muñeca](https://open.spotify.com/album/10V9tm55ClhYiBux9AUoSG) | 2:54 | 2021-12-09 | 2022-06-01 |
-| [Nada Es Seguro](https://open.spotify.com/track/2ZP6NbiA4bcMu2n4AuTQmM) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 3:24 | 2022-06-01 |  |
+| [Nada Es Seguro](https://open.spotify.com/track/2ZP6NbiA4bcMu2n4AuTQmM) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 3:24 | 2022-06-01 | 2022-10-20 |
 | [Nada Es Seguro](https://open.spotify.com/track/2sgX9FxhIoApouX3SSZjUB) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [Nada Es Seguro](https://open.spotify.com/album/705j5AXqZiXVqH58MidH5J) | 3:24 | 2021-12-09 | 2022-06-01 |
 | [Nieve](https://open.spotify.com/track/0UpRvHU7t1YJgDhUdyyhWG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Nieve](https://open.spotify.com/album/1vS4rhkCD3imZeCXBEvxCl) | 2:49 | 2022-06-01 |  |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-06-01 |  |
@@ -183,6 +183,7 @@
 | [Thirteen](https://open.spotify.com/track/0BuGTUaFGGjeOz1U3CwHrc) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5P8EEn8VjtMJe7idtwrGTp) | 3:04 | 2021-12-09 | 2022-06-01 |
 | [Tiburones \- Remix](https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Tiburones \(Remix\)](https://open.spotify.com/album/6DA3B00tS2tz6kaSlxyjrK) | 3:29 | 2021-12-09 |  |
 | [Todo Es Pasajero](https://open.spotify.com/track/2Kh4UPpNjymoCsiSiLwOIr) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Todo Es Pasajero](https://open.spotify.com/album/3NTwWb7ZcolL3oSP8kzJM3) | 3:10 | 2021-12-09 | 2022-06-01 |
+| [TODOELORO](https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [TODOELORO](https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV) | 2:51 | 2022-07-05 |  |
 | [TODOELORO](https://open.spotify.com/track/3jSwGrzDjeTIgCEsxSCUkl) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [TODOELORO](https://open.spotify.com/album/6i7YAlim3n93EXo4UQj8YD) | 2:51 | 2022-06-01 | 2022-10-14 |
 | [Tomaza](https://open.spotify.com/track/5myXZpBUJCh0OQv3ix6bLs) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Piq Montano](https://open.spotify.com/artist/1nRQgqSXHnkam4AkIk1ou1) | [Tomaza](https://open.spotify.com/album/1uyLzDA4rSRLuB1BkGEDtd) | 3:13 | 2021-12-09 | 2022-06-01 |
 | [Toy en la Calle](https://open.spotify.com/track/7LWqY2F8ACMsVY0R778xMs) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 3:10 | 2021-12-09 |  |

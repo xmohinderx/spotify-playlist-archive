@@ -3363,10 +3363,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 170074,
       "name": "Friends",
       "url": "https://open.spotify.com/track/29ucQr9OTlnRzxWi9xUhkG"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5zkUyOpknpaEMCSQ1nTSN2"
+      },
+      "artists": [
+        {
+          "name": "Medhanit",
+          "url": "https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170074,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6JQ6ToL7RQZSHqzQJcLeoE"
     },
     {
       "album": {

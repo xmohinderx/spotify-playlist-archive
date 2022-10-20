@@ -1695,10 +1695,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 167942,
       "name": "Unpacked",
       "url": "https://open.spotify.com/track/12XBxkyD9xTjxWawn0o31Z"
+    },
+    {
+      "album": {
+        "name": "Dream Escape",
+        "url": "https://open.spotify.com/album/0pwvAzTU1nq61P5PKmOY4o"
+      },
+      "artists": [
+        {
+          "name": "Moving Gradients",
+          "url": "https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167942,
+      "name": "Unpacked",
+      "url": "https://open.spotify.com/track/42ZuxJ7oNK1pzdyAlfA9aQ"
     },
     {
       "album": {

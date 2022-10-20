@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Quavo, Takeoff
 
-605 songs - 1 day 7 hr 2 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
+606 songs - 1 day 7 hr 6 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Frienemy](https://open.spotify.com/track/7koLa8oGYgyGEZ7ukGRjP3) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [FRIENEMY \- EP](https://open.spotify.com/album/5lTWtcxZrVT9pBoI41UaBK) | 1:47 | 2022-04-08 | 2022-04-17 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-08-04 |  |
 | [Frozen](https://open.spotify.com/track/05nRgYKvAYMVzkgOdBqVsJ) | [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk), [LB SPIFFY](https://open.spotify.com/artist/1f9suOMh8g32gAfMAHoNCI), [Astrokidjay](https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE) | [Frozen](https://open.spotify.com/album/3q1jtx041BwGVmOgQ2jsHG) | 2:29 | 2022-04-01 | 2022-04-05 |
-| [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-06-17 |  |
+| [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-06-17 | 2022-10-20 |
 | [Futsal Shuffle 2020](https://open.spotify.com/track/2Ec33AVlkTTq8BHFgBTdQs) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Futsal Shuffle 2020](https://open.spotify.com/album/4uTOUYhLrGRKkfxfPKTkuy) | 3:18 | 2022-04-01 | 2022-04-19 |
 | [FWMGAB](https://open.spotify.com/track/52ekzF7DfQBszZq87MIbPY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [FWMGAB](https://open.spotify.com/album/58zbc1nYIQmLd4rxnH1Blt) | 3:07 | 2022-01-07 | 2022-07-28 |
 | [Gang On The Map \(feat\. SAFE\)](https://open.spotify.com/track/4kGUMBuI5a00aOXdP7CDyZ) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Struggle Before Glory \(Deluxe\)](https://open.spotify.com/album/05JVSEWNfUVFdP35gOKDBE) | 2:08 | 2022-01-07 | 2022-04-15 |
@@ -460,6 +460,7 @@
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2022-04-01 | 2022-04-16 |
 | [Same Niggas](https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:18 | 2022-02-25 | 2022-03-04 |
 | [Sanguine Paradise](https://open.spotify.com/track/3XiNC94b4Tq1xwv70sQJGN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Sanguine Paradise](https://open.spotify.com/album/49K82qcZN4u109e6Zw8io1) | 4:03 | 2022-04-01 | 2022-08-05 |
+| [Savior](https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:44 | 2022-10-19 |  |
 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 | 2022-06-24 | 2022-10-08 |
 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 | 2022-09-02 |  |
 | [Scrub](https://open.spotify.com/track/28ZhRMf6jwUWNtJgOBR7HL) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:52 | 2022-02-04 | 2022-07-13 |

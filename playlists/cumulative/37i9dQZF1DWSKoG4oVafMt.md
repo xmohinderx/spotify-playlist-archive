@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-583 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+584 songs - 1 day 7 hr 35 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Deewane Ho Gaye](https://open.spotify.com/track/06WgWDkgJbC6IqViz5ogHg) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [First Draft](https://open.spotify.com/album/5d0bHiEe4CFci3cfkZQNCp) | 3:04 | 2022-09-21 |  |
 | [Definitely \(Laazmi\)](https://open.spotify.com/track/6NYV682wtWwgb0QTsRTJ1F) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Definitely \(Laazmi\)](https://open.spotify.com/album/1JwCaeRWcDiRiCQTfEDgdS) | 2:35 | 2022-07-27 | 2022-08-18 |
 | [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 | 2022-10-13 |  |
-| [Detail](https://open.spotify.com/track/7qzSJVrqOpl8rLXqAdTCOU) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/5cq2347ktrWBRdHbE6dmBg) | 2:23 | 2022-09-15 |  |
+| [Detail](https://open.spotify.com/track/3EugNj4xYj1PwqbYTqw9GE) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Akash Jandu](https://open.spotify.com/artist/2D6IROV04QKexvp3E12ZEA), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/4SCWjB4fAYHL70dQmTy0Mu) | 2:23 | 2022-10-14 |  |
+| [Detail](https://open.spotify.com/track/7qzSJVrqOpl8rLXqAdTCOU) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/5cq2347ktrWBRdHbE6dmBg) | 2:23 | 2022-09-15 | 2022-10-20 |
 | [Dhee \- From "The Underdog EP"](https://open.spotify.com/track/6xi8ZEnaZ7DEizI8zVeVCB) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte) | [Dhee](https://open.spotify.com/album/2AKbuESshpZouoGUoa4YyI) | 3:29 | 2022-05-20 | 2022-07-06 |
 | [Dholna](https://open.spotify.com/track/2XjagbYk7A08ioxlnlrNOt) | [Aatish](https://open.spotify.com/artist/6w2tW2P6MoEdHEFAGUqrMa) | [Dholna](https://open.spotify.com/album/7KpSRckcDKWoIdwJiEyolS) | 2:57 | 2022-05-18 | 2022-05-20 |
 | [Dholna](https://open.spotify.com/track/0fFwmkrYS71wPfv2PYGd34) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Dholna](https://open.spotify.com/album/5BgkOpu9x8NsTtsDrIy9qu) | 3:43 | 2022-07-07 | 2022-07-12 |

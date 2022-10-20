@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-192 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+193 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-12-14 |  |
 | [Elastic](https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [QUARTERTHING](https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn) | 2:06 | 2021-08-05 |  |
 | [Esther](https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 3:12 | 2022-02-04 |  |
-| [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2021-09-03 |  |
+| [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2021-09-03 | 2022-10-20 |
 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 | 2022-05-03 |  |
 | [Far Away \(feat\. A$AP Rocky\)](https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:19 | 2022-01-04 |  |
 | [FEEL LIKE](https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z) | 3:08 | 2021-08-05 | 2022-07-29 |
@@ -83,6 +83,7 @@
 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 | 2021-08-05 |  |
 | [Head on Fire \- Danny L Harle Remix](https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Head on Fire \(Danny L Harle Remix\)](https://open.spotify.com/album/1jh1ugyuAmyGDQ5MYyAjAI) | 3:05 | 2022-03-04 |  |
 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE EP](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 | 2021-08-05 |  |
+| [HELLO](https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 2:42 | 2022-10-06 |  |
 | [HELLO](https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [HELLO](https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25) | 2:42 | 2022-05-03 | 2022-10-13 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2022-05-03 | 2022-08-18 |
 | [Heybb!](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8) | 2:28 | 2021-08-05 | 2022-05-20 |

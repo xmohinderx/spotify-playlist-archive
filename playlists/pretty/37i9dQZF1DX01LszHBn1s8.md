@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > october? here we call it girl in red month 🍂🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,304 likes - 604 songs - 1 day 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,474 likes - 604 songs - 1 day 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,7 +428,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 418 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
 | 419 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 |
 | 420 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 |
-| 421 | [we had everything...](https://open.spotify.com/track/33K9Hbbe85zE8K50yc1ur8) | [Casey Lowry](https://open.spotify.com/artist/50o4zLidAAbSf7qH6cLwTc) | [we had everything...](https://open.spotify.com/album/4wTvGICeU5QiiAV5DGmgMl) | 2:23 |
+| 421 | [we had everything...](https://open.spotify.com/track/33K9Hbbe85zE8K50yc1ur8) | [Casey Lowry](https://open.spotify.com/artist/6g01TPprAdALKCjAwBYPH1) | [we had everything...](https://open.spotify.com/album/4wTvGICeU5QiiAV5DGmgMl) | 2:23 |
 | 422 | [Nintendo](https://open.spotify.com/track/0YHYHb9Rg3IebHaPiU5JAG) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Nintendo](https://open.spotify.com/album/4F7uRi2BAlFFxGgZo6bWVi) | 2:44 |
 | 423 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 424 | [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 |

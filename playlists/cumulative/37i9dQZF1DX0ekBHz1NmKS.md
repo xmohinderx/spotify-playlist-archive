@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-582 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+583 songs - 1 day 7 hr 2 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 | 2022-03-10 | 2022-05-11 |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
 | [Allt det vackra](https://open.spotify.com/track/3IrNhMvzard7nCKgfe18IW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 3:24 | 2021-12-16 | 2022-03-11 |
-| [Allt jag kan](https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Emily](https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2) | 2:58 | 2022-06-23 |  |
+| [Allt jag kan](https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Emily](https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2) | 2:58 | 2022-06-23 | 2022-10-20 |
 | [Allt som är bra tar slut](https://open.spotify.com/track/2iF61pNmL69bH2EgkjDePN) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Allt som är bra tar slut](https://open.spotify.com/album/2RI9f4DdEZFeFfJdYz471K) | 2:27 | 2022-04-22 |  |
 | [Allt är som det ska](https://open.spotify.com/track/37sOZJZ6K2OTwI2IWfEHKw) | [Maydar](https://open.spotify.com/artist/0pufHUD9Nj4HnRY5PWnH3y) | [Gav allt och det får räcka](https://open.spotify.com/album/4VN1X12HIJTpnkDOagc1mH) | 3:11 | 2022-04-28 | 2022-07-26 |
 | [Alone with Me](https://open.spotify.com/track/4LvpvKYAJY7S4oWygjyCbS) | [Bella Skyller](https://open.spotify.com/artist/5c8mQlkuj5vXcRsPvdAdjD) | [Alone with Me](https://open.spotify.com/album/6h1jgOTerKJ2t8xFF2Or7E) | 3:28 | 2022-03-17 | 2022-05-08 |
@@ -209,6 +209,7 @@
 | [Heartbreak Hotel](https://open.spotify.com/track/1GgYN93yWE3pA7wmbvkX1F) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Heartbreak Hotel](https://open.spotify.com/album/6AEhJn5nqGPP6bGXO7HJYq) | 2:37 | 2022-04-07 | 2022-04-21 |
 | [Heaven med dig](https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:03 | 2022-07-28 |  |
 | [Heaven med dig](https://open.spotify.com/track/787m7kcyC5KB6IQ87jkwbX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Heaven med dig](https://open.spotify.com/album/2vzCnj1pPXHhvobiWvRFtK) | 3:03 | 2022-05-12 | 2022-07-29 |
+| [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 | 2022-10-15 |  |
 | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/track/5PfBWTtklToHiwR6ykNfmE) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/album/7KTvVRwWzKe85EDEdMBrsl) | 3:01 | 2022-09-22 | 2022-10-13 |
 | [Hela världen väntar](https://open.spotify.com/track/72qqClHy6Qf9Thi58pc4lX) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Hela världen väntar](https://open.spotify.com/album/4xi6g2rx9wsMe4cz5zT6Av) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-17 | 2022-09-16 |

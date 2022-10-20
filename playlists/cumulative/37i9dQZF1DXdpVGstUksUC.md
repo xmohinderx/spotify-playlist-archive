@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-259 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+260 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 | 2021-11-30 |  |
 | [Omens And Portents 1: The Driver](https://open.spotify.com/track/6XGLiFTNkatlSjGimT0tGU) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [The Bees Made Honey In The Lion's Skull](https://open.spotify.com/album/7JjgvQWsLpIAvwgj2QtxAP) | 9:07 | 2021-11-30 | 2022-07-26 |
 | [Orchard](https://open.spotify.com/track/3bZG5LMoqBiXDwSSi2p2VN) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Soma](https://open.spotify.com/album/1uT455zoyeabAFnd8er1F3) | 6:37 | 2022-02-22 | 2022-03-18 |
+| [Our Mother Ash](https://open.spotify.com/track/06X9h0zkeEncfohssytDp8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Trails & Passes](https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr) | 3:14 | 2022-10-14 |  |
 | [Our Mother Ash](https://open.spotify.com/track/2sWzJDMSkqLs3qTdtaFU9F) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Trails & Passes](https://open.spotify.com/album/40C3PckrvT1kl1Dildufk8) | 3:14 | 2021-11-30 | 2022-07-26 |
 | [Palomino](https://open.spotify.com/track/6tf6e3oeJAqEJkBt0TtqWP) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Mobile Babylon](https://open.spotify.com/album/6MvRYMRNRsWPA96s6RchdW) | 3:45 | 2021-11-30 | 2022-07-29 |
 | [Palomino](https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Mobile Babylon](https://open.spotify.com/album/26RaBDkrbF2tZkn3eojKmO) | 3:45 | 2022-04-28 |  |
@@ -179,7 +180,7 @@
 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 | 2021-11-30 | 2022-02-12 |
 | [Psychotzar](https://open.spotify.com/track/3CEWBhG07nTuheDfZZHib1) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/2MJ7TzoTvmi2WrIDpQAeak) | 8:43 | 2021-11-30 | 2022-07-29 |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2022-03-17 |  |
-| [Putain!](https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:48 | 2022-04-28 | 2022-09-03 |
+| [Putain!](https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:48 | 2022-04-28 |  |
 | [Putain!](https://open.spotify.com/track/4AvOo721haYzKYYODVwJ0i) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/7L9LTvVyQvLTUEzkPyKrpN) | 3:48 | 2021-11-30 | 2022-07-20 |
 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 | 2021-11-30 |  |
 | [Rattle](https://open.spotify.com/track/5t5NH0Rx2VuJ9UVflTieoT) | [Wailin' Storms](https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2) | [Rattle](https://open.spotify.com/album/2mZfuMXQuGX8ktWQvwq9rO) | 5:32 | 2021-11-30 | 2022-07-29 |
@@ -250,12 +251,12 @@
 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 | 2022-02-18 |  |
 | [Uluru Rock](https://open.spotify.com/track/3ahec9rRdvMHQCgG6Ctfdv) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/1gD5vrYMJHGaR8LAwah7T2) | 14:08 | 2021-11-30 | 2022-07-29 |
 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 | 2022-04-28 |  |
-| [Unbroken \(Hotel Baby\)](https://open.spotify.com/track/7rbQ7uq3ffnVnIZn2Kstp0) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Let Me Down Hard](https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt) | 3:42 | 2021-11-30 |  |
+| [Unbroken \(Hotel Baby\)](https://open.spotify.com/track/7rbQ7uq3ffnVnIZn2Kstp0) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Let Me Down Hard](https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt) | 3:42 | 2021-11-30 | 2022-10-20 |
 | [Unitive Knowledge of the Godhead](https://open.spotify.com/track/2eOJWFWUNLWIWWRNuhPf5B) | [OM](https://open.spotify.com/artist/4hCgC4FnYZLBgQPUMLOoiI) | [Pilgrimage](https://open.spotify.com/album/3J8fyzTnN9AyIgTD2Xvnw6) | 5:50 | 2021-11-30 | 2022-05-17 |
 | [Up in the Sky](https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe) | 8:12 | 2021-11-30 | 2022-07-29 |
 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 | 2022-04-28 |  |
 | [Vakuum](https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Vakuum](https://open.spotify.com/album/7CaOsoRykCfCIiVywFT2w5) | 5:02 | 2021-11-30 | 2022-07-29 |
-| [We Strive for Excellence](https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [We Strive for Excellence](https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG) | 2:55 | 2022-07-22 |  |
+| [We Strive for Excellence](https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [We Strive for Excellence](https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG) | 2:55 | 2022-07-22 | 2022-10-20 |
 | [Weißensee](https://open.spotify.com/track/4oi9uwVORDwDShiauc1Naq) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/0lF4uvIJba3SNIDCwTTLkQ) | 18:33 | 2021-11-30 | 2022-07-29 |
 | [What Needs Must Be](https://open.spotify.com/track/0xy3tLHmsJKEKpAsPsdglm) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/5PQ1YxpW1DyHIRDLQYRlf6) | 4:16 | 2021-11-30 | 2022-07-29 |
 | [What Needs Must Be](https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT) | 4:16 | 2022-04-28 |  |

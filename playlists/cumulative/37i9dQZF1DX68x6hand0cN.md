@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-90 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
+91 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-07-28 |  |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-28 |  |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2022-07-28 |  |
-| [Falling For U](https://open.spotify.com/track/4C0dBjF3xoqF3wGWO2r9k9) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Falling For U](https://open.spotify.com/album/2f67uzaLbH21E43aJUJOuR) | 3:01 | 2022-07-28 |  |
+| [Falling For U](https://open.spotify.com/track/0V6UyAGvtcfNOEslahu96d) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Falling For U](https://open.spotify.com/album/3eIM4SbuUYGBrmlyvBfgbi) | 3:01 | 2022-10-03 |  |
+| [Falling For U](https://open.spotify.com/track/4C0dBjF3xoqF3wGWO2r9k9) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Falling For U](https://open.spotify.com/album/2f67uzaLbH21E43aJUJOuR) | 3:01 | 2022-07-28 | 2022-10-20 |
 | [FASHIONOVA \(feat\. BKO & Défano Holwijn\)](https://open.spotify.com/track/1HGX6aDa7pqRBB8uMvfr1o) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Defano Holwijn](https://open.spotify.com/artist/5pGeI9pmfUEoHGn9w3NjqM), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd) | [OLYMPISCH VUUR](https://open.spotify.com/album/7wiKPmJsPKptopI0pf5Vdz) | 2:09 | 2022-07-28 |  |
 | [Ferrari Horses](https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Blue Print – Us Vs\. Them](https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX) | 3:45 | 2022-07-28 |  |
 | [Flex Mood](https://open.spotify.com/track/5EGYvBoGPfy6q73bMtbyOK) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Flex Mood](https://open.spotify.com/album/3QMyOcK0X8mny0UXpNSgvH) | 2:28 | 2022-07-28 |  |

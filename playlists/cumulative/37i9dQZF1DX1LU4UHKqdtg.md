@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Stray Kids
 
-394 songs - 21 hr 45 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+395 songs - 21 hr 48 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 | 2022-07-16 |
 | [コノヨノシルシ \- The Greatest Ver.](https://open.spotify.com/track/4f6DAWSMBmGaGQgkELrfpn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [コノヨノシルシ \(The Greatest Ver.\)](https://open.spotify.com/album/5ekQOic7CVj3uO6BcpN6aP) | 3:59 | 2022-04-19 | 2022-06-22 |
 | [ジレンマ](https://open.spotify.com/track/439K6P5nMguuX0C2d2kMxK) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [ジレンマ](https://open.spotify.com/album/4XGNyv71OpEDScASJSwkKc) | 3:03 | 2022-02-22 | 2022-03-11 |
-| [ズルい女](https://open.spotify.com/track/2SvIj4kcUGUrmJl9aFLZi9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [ズルい女](https://open.spotify.com/album/4M3LUjif8adUxlTwzuiXVN) | 3:16 | 2022-09-06 |  |
+| [ズルい女](https://open.spotify.com/track/21I5iwwv60Bm69BlVeGlhR) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [ズルい女](https://open.spotify.com/album/4oKSGnvJOlZvS6mI5zPoxj) | 3:16 | 2022-10-18 |  |
+| [ズルい女](https://open.spotify.com/track/2SvIj4kcUGUrmJl9aFLZi9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [ズルい女](https://open.spotify.com/album/4M3LUjif8adUxlTwzuiXVN) | 3:16 | 2022-09-06 | 2022-10-20 |
 | [ドキドキLOVE](https://open.spotify.com/track/2kB8TUv0mosnHHSXhKqZlJ) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [ドキドキLOVE](https://open.spotify.com/album/2K4XdWWuZYG5uaJ43Dug9w) | 3:38 | 2022-10-04 | 2022-10-06 |
 | [ドキドキLOVE](https://open.spotify.com/track/6tE7vkuLAOPrJcKt1dTErE) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [ドキドキLOVE](https://open.spotify.com/album/7b9wP99WEev9gsqheUolXV) | 3:38 | 2022-10-04 |  |
 | [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |

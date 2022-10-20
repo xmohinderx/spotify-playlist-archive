@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23946,
+  "num_followers": 23953,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDA3ODIxNGJjYjEwMjRiYzJmMDNkOThiOTE0YmEwZmE0",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDhjNWZlOGM4YjZlODZhZDMwNjIyZGQyYWQ1NjgyMzAy",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -123,22 +123,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
-      },
-      "artists": [
-        {
-          "name": "Arvingarna",
-          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "L\u00e4ngtan",
         "url": "https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 178946,
       "name": "Kom",
       "url": "https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -815,22 +815,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Projekt sega gubbar: 60-tals l\u00e5tar med Claes-G\u00f6ran Hederstr\u00f6m",
-        "url": "https://open.spotify.com/album/3k3FLzu6mlNS2PduQe1Ypy"
-      },
-      "artists": [
-        {
-          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mig",
-      "url": "https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "In My Cabana",
         "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 172000,
       "name": "In My Cabana",
       "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Projekt sega gubbar: 60-tals l\u00e5tar med Claes-G\u00f6ran Hederstr\u00f6m",
+        "url": "https://open.spotify.com/album/3k3FLzu6mlNS2PduQe1Ypy"
+      },
+      "artists": [
+        {
+          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mig",
+      "url": "https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T"
     }
   ],
   "unique_name": "Schlagerfest",

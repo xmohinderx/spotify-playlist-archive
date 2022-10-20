@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,307 likes - 132 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,369 likes - 132 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 46 | [Band Theke](https://open.spotify.com/track/0fmYXWzzqFYD6knpZK0Jal) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Band Theke](https://open.spotify.com/album/5oSCmWYXzDRAf0LGdCSRgw) | 3:07 |
 | 47 | [Sawal Sadi Zindgi Da](https://open.spotify.com/track/3oYy3aoboM0ZxLtiv7KBLO) | [Ravinder Grewal](https://open.spotify.com/artist/4gn7lpmSZArcwh09lfScUd) | [Vich Bolunga Tere](https://open.spotify.com/album/3iVvQ9xpU5D8nT5treD0Yt) | 3:19 |
 | 48 | [Impossible \(From the Album 'I Am Zack Knight'\)](https://open.spotify.com/track/5gDbvpDfHvibUFauqRhjDI) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Impossible \(From the Album 'I Am Zack Knight'\)](https://open.spotify.com/album/16YYwVnwhkLF8h0Kfke6dg) | 2:49 |
-| 49 | [Detail](https://open.spotify.com/track/7qzSJVrqOpl8rLXqAdTCOU) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/5cq2347ktrWBRdHbE6dmBg) | 2:23 |
+| 49 | [Detail](https://open.spotify.com/track/3EugNj4xYj1PwqbYTqw9GE) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Akash Jandu](https://open.spotify.com/artist/2D6IROV04QKexvp3E12ZEA), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/4SCWjB4fAYHL70dQmTy0Mu) | 2:23 |
 | 50 | [Haaye Ni](https://open.spotify.com/track/5V3MzZjIQ5MP2g8AMCBbRi) | [Sartaj Virk](https://open.spotify.com/artist/4jX7GGtVdF9qkueNxBJB9w) | [Haaye Ni](https://open.spotify.com/album/01nqQiPsbGrNwLD10dZ6sa) | 3:08 |
 | 51 | [Panjab Warga](https://open.spotify.com/track/7ocsOa1Ah6sJOp6g7N7V9e) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Panjab Warga](https://open.spotify.com/album/1yYPZhzq5GDYmnhPXHj8cf) | 2:44 |
 | 52 | [Precious](https://open.spotify.com/track/2VHEiOqgiJpeXZkArZfSJx) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [No Limit](https://open.spotify.com/album/1AKXje51TkC8qrPH3BG6Gt) | 2:38 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 131 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 132 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 |
 
-Snapshot ID: `MTY2NTcyNDQ2OCwwMDAwMDAwMDVkZGJmZDI1Y2UzMWFhYTk4YWQyZmMyNTBiNWJjMjIw`
+Snapshot ID: `MTY2NTcyNDQ2OCwwMDAwMDAwMDQyMGQwODkwZWU0MWUxNzk5MDIyNmRiNDk1YzYxZGYz`

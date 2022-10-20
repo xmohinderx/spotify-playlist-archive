@@ -1,18 +1,18 @@
 {
-  "description": "\"featuring Lana Del Rey\"",
-  "num_followers": 1700214,
+  "description": "I polish up real nice",
+  "num_followers": 1700893,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjA2NTYwMCwwMDAwMDAwMDJkNjYyN2RiMTEwYjM1NzFkNWQ4YWU3MmM1ZWE1MGEy",
+  "snapshot_id": "MTY2NjE1MjAwMCwwMDAwMDAwMDE2YmFjMzMxMDI4NzVjMDRmNGQwY2MyMmQxYzJkYWJh",
   "tracks": [
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-19 04:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Only The Young (Featured in Miss Americana)",
+        "url": "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 293453,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
+      "duration_ms": 157507,
+      "name": "Only The Young - Featured in Miss Americana",
+      "url": "https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC"
     },
     {
       "added_at": "2022-09-27 03:38:38",
@@ -39,6 +39,22 @@
       "duration_ms": 180742,
       "name": "World's Smallest Violin",
       "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
+    },
+    {
+      "added_at": "2022-09-22 05:56:13",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
     },
     {
       "added_at": "2022-08-23 03:41:03",
@@ -93,22 +109,6 @@
       "url": "https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP"
     },
     {
-      "added_at": "2022-09-22 05:56:13",
-      "album": {
-        "name": "the rainbow cassette",
-        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "dumb dumb",
-      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
-    },
-    {
       "added_at": "2022-09-26 15:35:42",
       "album": {
         "name": "Summertime Sadness (Sped Up)",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/6z8uuOKH6NKIIjeHXpABFK"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/576OekDyFzrBOBpnEGiage"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Wannabe",
@@ -179,22 +195,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "The Very First Night (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
@@ -207,6 +207,22 @@
       "duration_ms": 228827,
       "name": "August - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "The Very First Night (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8"
     },
     {
       "added_at": "2022-07-18 04:05:40",
@@ -309,22 +325,6 @@
       "url": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/6z8uuOKH6NKIIjeHXpABFK"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/576OekDyFzrBOBpnEGiage"
-    },
-    {
       "added_at": "2022-10-10 18:24:44",
       "album": {
         "name": "How Do I Say Goodbye",
@@ -339,6 +339,22 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -641,6 +657,22 @@
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
+      "added_at": "2022-10-19 04:00:00",
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "uh oh",
@@ -655,22 +687,6 @@
       "duration_ms": 169721,
       "name": "uh oh",
       "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
-    },
-    {
-      "added_at": "2022-10-07 04:01:40",
-      "album": {
-        "name": "<COPINGMECHANISM>",
-        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "ur a <stranger>",
-      "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
     },
     {
       "added_at": "2022-09-22 06:24:51",
@@ -1575,22 +1591,6 @@
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X"
-    },
-    {
-      "added_at": "2022-07-07 14:30:57",
-      "album": {
-        "name": "W.I.T.C.H.",
-        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 132133,
-      "name": "W.I.T.C.H.",
-      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
       "added_at": "2022-07-15 04:01:40",

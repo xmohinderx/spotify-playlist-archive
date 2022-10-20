@@ -1048,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Omae ga shitteru (Press Genteiban E)",
+        "url": "https://open.spotify.com/album/42nr7oKez1DMwxISJZpFZX"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f\u6c34\u6563\u82b1\u96ea",
+          "url": "https://open.spotify.com/artist/2EE6B4g0TDixqGPCdjTbt8"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Omae ga shitteru",
+      "url": "https://open.spotify.com/track/3rs4QZJv8uqdUjRLEnlhFX"
+    },
+    {
+      "album": {
         "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
         "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
       },
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 249106,
       "name": "\u304a\u524d\u304c\u77e5\u3063\u3066\u308b",
       "url": "https://open.spotify.com/track/11VzxgwfMSAegCjrR5xFt5"

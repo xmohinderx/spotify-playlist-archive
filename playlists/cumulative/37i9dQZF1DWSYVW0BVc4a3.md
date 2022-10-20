@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Golden Features
 
-190 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+191 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-09-01 |  |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-08-18 |  |
 | [Luv 4 Real](https://open.spotify.com/track/54PGeitLMNZPRjA0Bhf6im) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8) | [Luv 4 Real](https://open.spotify.com/album/1jxJnzx5RSlWbTfFUNV8de) | 2:14 | 2022-09-22 | 2022-10-09 |
+| [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 | 2022-10-13 |  |
 | [Make It Happen \- Dom Dolla Remix](https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 4:27 | 2022-08-18 |  |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-18 | 2022-09-24 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-08-18 | 2022-08-20 |
@@ -116,7 +117,7 @@
 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 | 2022-08-18 |  |
 | [My Purple iPod Nano](https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn) | 6:52 | 2022-09-22 | 2022-10-07 |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2022-08-18 | 2022-08-20 |
-| [Never Forget](https://open.spotify.com/track/1TVnI6At2nP5bnWFKk2s5y) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 6:05 | 2022-09-30 |  |
+| [Never Forget](https://open.spotify.com/track/1TVnI6At2nP5bnWFKk2s5y) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 6:05 | 2022-09-30 | 2022-10-20 |
 | [Never Gonna Get It](https://open.spotify.com/track/0QEbtIIK5pwcZZYuzjTOZB) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Never Gonna Get It](https://open.spotify.com/album/3CxpaBghJW3Rjm6cY3WWRS) | 2:50 | 2022-09-01 |  |
 | [Nice To Arise \- Edit](https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt) | [Nice To Arise](https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf) | 4:01 | 2022-08-18 | 2022-09-30 |
 | [No One Anyone](https://open.spotify.com/track/1IGVRVFUV0OtktKxymfLg7) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [No One Anyone](https://open.spotify.com/album/6Xc2f9tYdZtXMoO0aTosLV) | 4:25 | 2022-08-18 |  |

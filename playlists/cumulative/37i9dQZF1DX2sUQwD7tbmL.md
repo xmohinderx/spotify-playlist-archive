@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-480 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+481 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-07-22 |  |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-05-01 | 2022-03-12 |
 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 | 2021-05-01 | 2022-07-28 |
+| [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-14 |  |
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2021-05-01 | 2022-07-29 |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-14 |  |
 | [Afternoon](https://open.spotify.com/track/7LgW5lfcYQTUpLx8GpU4eB) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 4:10 | 2022-04-13 | 2022-04-21 |
@@ -424,7 +425,7 @@
 | [The Fire](https://open.spotify.com/track/3Aq94rMGQlOrWxAJZHB3dR) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [The Future And The Past](https://open.spotify.com/album/1WmMpFLsz4syrLOJEW5N2S) | 3:27 | 2021-05-01 | 2022-04-13 |
 | [The Great Divide \- Flipped](https://open.spotify.com/track/7BnIfjNGtSzgKEPbg3SXq9) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [The Great Divide](https://open.spotify.com/album/4yDaZ8BypSAgpLczU9NeAp) | 4:01 | 2021-05-01 | 2022-04-14 |
 | [The Hardest Part \[Feat\. Tennis\]](https://open.spotify.com/track/3HgSzOf6AyAm0QzWNTnpqP) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [The Hardest Part \[Feat\. Tennis\]](https://open.spotify.com/album/25GQ0clAh8SAGvqA92Yjry) | 3:42 | 2021-05-01 | 2022-04-14 |
-| [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-05-01 |  |
+| [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-05-01 | 2022-10-20 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2021-06-04 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-04-13 |  |
 | [The Summer](https://open.spotify.com/track/3O2bW6OI1jo3l2DhHfEffP) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Summer](https://open.spotify.com/album/7qBHuHCWS1A6eLXupHao0z) | 3:36 | 2021-05-01 | 2022-04-14 |

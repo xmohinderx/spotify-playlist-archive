@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 1696,
+  "num_followers": 1830,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMDhlZDlkOGNlZWZjMTRmODFkNjY5NjJiNmM1ZmE1ODNm",
+  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMGVjOWE5YzJjOTA1YTAzN2YwNjk5NTFkMjFkZDYxM2Fh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 197413,
-      "name": "Find A Way (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 135682,
       "name": "Ain't Hard Enough (feat. Mozzy)",
       "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 197413,
+      "name": "Find A Way (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 151980,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Crenshaw",
         "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 205666,
       "name": "U See Us",
       "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 151980,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
     },
     {
       "added_at": "2022-10-01 20:14:07",

@@ -1057,10 +1057,28 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 254786,
       "name": "Bright Idea",
       "url": "https://open.spotify.com/track/1Y4AkpQCj2StN2iamDlFTz"
+    },
+    {
+      "album": {
+        "name": "Bright Idea",
+        "url": "https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG"
+      },
+      "artists": [
+        {
+          "name": "Orson",
+          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254786,
+      "name": "Bright Idea",
+      "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
     },
     {
       "album": {

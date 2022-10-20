@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 ### [Progressive House Festival Hits 2022 ⭐️ \| Starlight](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
 
-> Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
+> Progressive House Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,114 likes - 80 songs - 4 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,106 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 79 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
 | 80 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 
-Snapshot ID: `MjAyNixmOGE3Mjk1MmYwNzI5ZDExZWM5MzYxYWI3MzRiOTllZjY5YWRkYWE4`
+Snapshot ID: `MjAyNyw5MTUzODc0MjFkZTEwYTRkMzQ4ZmRmMTJjNDljNDJmNzAzOTc1NDVl`

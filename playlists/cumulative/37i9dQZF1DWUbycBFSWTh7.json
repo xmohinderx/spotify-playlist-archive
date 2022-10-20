@@ -1295,6 +1295,24 @@
     {
       "album": {
         "name": "Nine O Nine",
+        "url": "https://open.spotify.com/album/4wM0efpVUJ0P8rGfVhEdxW"
+      },
+      "artists": [
+        {
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Nine O Nine",
+      "url": "https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e"
+    },
+    {
+      "album": {
+        "name": "Nine O Nine",
         "url": "https://open.spotify.com/album/3IlhSayycfkGlctTf9xvz2"
       },
       "artists": [
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 196000,
       "name": "Nine O Nine",
       "url": "https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW"

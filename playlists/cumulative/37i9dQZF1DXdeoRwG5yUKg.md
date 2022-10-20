@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-127 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+128 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [What I Could Do](https://open.spotify.com/track/4kp6uyc8s2G0RVLrxmPZOz) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Love is an Army](https://open.spotify.com/album/1Q807PRrnwhyztEp63LTsz) | 4:07 | 2020-11-05 |  |
 | [What I Could Do](https://open.spotify.com/track/5srEzUANfAqAe9T9gSM3U7) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Love Is an Army](https://open.spotify.com/album/4uFhns7SLmcnhf6xHCUI18) | 4:07 | 2020-11-05 | 2022-07-29 |
 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2020-11-05 |  |
-| [What's the Matter with You](https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/7bCcvjetUXDx01xYos2tVb) | 3:52 | 2020-11-05 |  |
+| [What's the Matter with You](https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:52 | 2020-11-05 |  |
+| [What's the Matter with You](https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/7bCcvjetUXDx01xYos2tVb) | 3:52 | 2020-11-05 | 2022-10-20 |
 | [Who Will Come for Me](https://open.spotify.com/track/3dItRGOkWJkuNEsyEl4DmZ) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/3u5xHMTxsYnDpOGpckM8lv) | 4:38 | 2020-11-05 | 2022-07-29 |
 | [Who Will Come for Me](https://open.spotify.com/track/7hEsiIvB2jg0BI3Xe8F4eg) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/5koT5jFcF9Iy0iZjG09rBT) | 4:38 | 2020-11-05 |  |
 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 | 2020-11-05 |  |

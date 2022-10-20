@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Adam Blackstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,403 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,482 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Legacy](https://open.spotify.com/track/3WTAzJLGxBLvgzPKdcn7Zo) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 2:53 |
 | 2 | [Jimmy](https://open.spotify.com/track/6Z7lba4JYt48ztwt2bu7up) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Jimmy](https://open.spotify.com/album/3SSySSNMkNqyYdXR208dRE) | 2:08 |
-| 3 | [The Sun](https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4) | [The Sun](https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD) | 2:49 |
+| 3 | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Bran Movay](https://open.spotify.com/artist/6qOnVqczf3XJzyy3eQazOu) | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD) | 2:49 |
 | 4 | [You Make Me Feel So Good](https://open.spotify.com/track/52ZUwYOfSHJB2aJ4nfz9ic) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [You Make Me Feel So Good](https://open.spotify.com/album/1aTswqm0IddXx54iXrPpSQ) | 3:10 |
 | 5 | [Lila's Theme](https://open.spotify.com/track/3YQRELjxAeVd4SPxVo7AoN) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Lila's Theme](https://open.spotify.com/album/1BnNxLd5vbkaxvEU8x5a3N) | 3:28 |
 | 6 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 |

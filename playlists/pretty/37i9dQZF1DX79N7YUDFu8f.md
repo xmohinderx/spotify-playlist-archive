@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,782 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,789 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 67 | [Make It on Your Own](https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Make It on Your Own](https://open.spotify.com/album/6ZrAnpp2UrLMB3EHoTGEgt) | 2:55 |
 | 68 | [October, Halfway July](https://open.spotify.com/track/2eD56lWTL92klRLfmgjP9h) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [October, Halfway July](https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn) | 3:22 |
 | 69 | [Sunday Smile](https://open.spotify.com/track/3U2imIBWN0BnTS516Lhjfr) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Sunday Smile](https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL) | 3:28 |
-| 70 | [Teach Me How to Dance with You](https://open.spotify.com/track/52YJBULh8SQQJrozbkBCE6) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/6UIcB2QDipPvUYCtsJNTSk) | 3:36 |
+| 70 | [Teach Me How to Dance with You](https://open.spotify.com/track/2RvVimZp4g2LGMF4q9OlQO) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:36 |
 | 71 | [Surround Me](https://open.spotify.com/track/4aai1PoVGPcspMhmzOzpZN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:52 |
 | 72 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 |
 | 73 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 |
 | 100 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 |
 
-Snapshot ID: `MTY2NDIwMDIzMiwwMDAwMDAwMDlmNTc5MDQ3NWM4NTI4NjhjYTYxOWY3NDlkYzg5OWMz`
+Snapshot ID: `MTY2NDIwMDIzMiwwMDAwMDAwMDUwYjRlOGRhNjE2NGNkODY1NzNjMzMxMjQwOWNiZTY4`

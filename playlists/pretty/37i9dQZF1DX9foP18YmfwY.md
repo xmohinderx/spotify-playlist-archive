@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Thiago Brado
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,166 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,243 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 8 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 |
 | 9 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 |
 | 10 | [Pedi E Recebereis](https://open.spotify.com/track/0WOAuYFuEKzwJzgMu73EMe) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Pedi E Recebereis](https://open.spotify.com/album/05Qt3oJMg0TfNxS5dWwZtO) | 3:55 |
-| 11 | [Este Sou Eu](https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Este Sou Eu](https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2) | 3:39 |
-| 12 | [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 |
+| 11 | [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 |
+| 12 | [Este Sou Eu](https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Este Sou Eu](https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2) | 3:39 |
 | 13 | [Estou Orando por Você](https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Estou Orando por Você](https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa) | 5:37 |
 | 14 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 |
 | 15 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 61 | [Tua Morada](https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Tua Morada](https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt) | 5:24 |
 | 62 | [Somos do Céu](https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Somos do Céu](https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF) | 4:54 |
 | 63 | [Sagrada Beleza](https://open.spotify.com/track/0cIoeW3jCYVJwRTbKbEFAs) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Sagrada Beleza](https://open.spotify.com/album/6rzJoLDKx9H0pJVbwTIouy) | 3:47 |
-| 64 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
-| 65 | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Top 10 Celina Borges](https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp) | 4:13 |
+| 64 | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Top 10 Celina Borges](https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp) | 4:13 |
+| 65 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 66 | [O Sagrado Que Há Aqui](https://open.spotify.com/track/2YBFupp0OR2HpD0rncxpc6) | [Comunidade CAJU](https://open.spotify.com/artist/1brshHPBEdYJSqVgYCpW0q), [Arthur Sampaio](https://open.spotify.com/artist/4qeKJNVyywIq125X9zhRjc) | [O Sagrado Que Há Aqui](https://open.spotify.com/album/3PL9nZBid3NIbcZPDpqTv4) | 3:58 |
 | 67 | [Acalma a Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma a Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 68 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 |
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 
-Snapshot ID: `MTY2NTcyNjg1NywwMDAwMDAwMDU3YmQ4MjhkNGU2ZWZhZTYxMTk0ODU0MmM2MjUwZWRk`
+Snapshot ID: `MTY2NTcyNjg1NywwMDAwMDAwMGZiNWQ1NzQ2Yzk2MzI2YTgxODgyODdmM2ZiMTRjMmYx`

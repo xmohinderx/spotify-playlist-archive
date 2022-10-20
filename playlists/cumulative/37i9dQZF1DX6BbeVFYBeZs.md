@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-166 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+167 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Armónico](https://open.spotify.com/track/4fMkra3CJ5mTAc6DWbFLqT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Armónico](https://open.spotify.com/album/7gM87esW35sDdevEejH70f) | 1:48 | 2022-10-14 |  |
 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-06-17 |  |
 | [Beijinho](https://open.spotify.com/track/73oqmFRZ5F6PtvkuMZ8cUY) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Beijinho](https://open.spotify.com/album/6P7TrlucBZQoQTV19iGBFt) | 1:55 | 2022-06-17 | 2022-07-08 |
-| [Bella Flamenco](https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco](https://open.spotify.com/album/26ez5kDERfAsobaXUgxXly) | 1:59 | 2022-07-01 |  |
+| [Bella Flamenco](https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco](https://open.spotify.com/album/26ez5kDERfAsobaXUgxXly) | 1:59 | 2022-07-01 | 2022-10-20 |
+| [Bella Flamenco \- Instrumental](https://open.spotify.com/track/4PQCBSFIPnSnugh7QBGBtZ) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco \(Instrumental\)](https://open.spotify.com/album/4NWRl0FQFHXCLL0JqkzZto) | 1:59 | 2022-10-14 |  |
 | [Boteco](https://open.spotify.com/track/1c7ixtAouUt0wGfjcn4tvz) | [Thayner Kesley](https://open.spotify.com/artist/4nLj0swHQxSnN0mc4YX8sW) | [Boteco](https://open.spotify.com/album/36eqv5D3YczlTchETJD8zQ) | 2:32 | 2022-06-17 | 2022-07-08 |
 | [Bungalows](https://open.spotify.com/track/1mBPJN2NO56flat9UoRAnq) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Bungalows](https://open.spotify.com/album/5JvGMHNP9ZoxrL25nhcG4O) | 3:04 | 2022-08-12 |  |
 | [Bye bye](https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Bye bye](https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV) | 2:41 | 2022-07-29 | 2022-10-14 |

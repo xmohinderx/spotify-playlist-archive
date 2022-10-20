@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-295 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+296 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Flood](https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 2:57 | 2021-11-14 | 2022-01-29 |
 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 | 2022-10-07 |  |
 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 | 2021-11-14 |  |
+| [Free to Live in Colour](https://open.spotify.com/track/0SC5Qw42owQ0b4TGblRCex) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/2XCINSxKMX5TsEarfGQpme) | 3:14 | 2022-10-07 |  |
 | [Free to Live in Colour](https://open.spotify.com/track/4LqnVwGQlJQ7HvW8tEA9vp) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/4luQOplfg3mJ2MnNy2rT5X) | 3:14 | 2021-11-14 | 2022-10-13 |
 | [Go Outside](https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn) | 2:49 | 2021-11-14 |  |
 | [God Knows Why](https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [New Truth](https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE) | 3:01 | 2021-11-14 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [Moderation](https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:04 | 2022-10-07 |  |
 | [Moment In The Sun](https://open.spotify.com/track/18JJSMrFueMgQdCOGkolQ3) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/5sOC51cFgLhI1DjYhrJTMw) | 3:09 | 2021-11-14 | 2022-07-25 |
 | [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj) | 3:09 | 2022-05-20 |  |
-| [Monster](https://open.spotify.com/track/5NlW8GWsM5qYboS8a2qNwe) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Heart Head West](https://open.spotify.com/album/0kZScwwCkKaLLh7bWNB0E6) | 3:39 | 2022-05-20 |  |
+| [Monster](https://open.spotify.com/track/5NlW8GWsM5qYboS8a2qNwe) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Heart Head West](https://open.spotify.com/album/0kZScwwCkKaLLh7bWNB0E6) | 3:39 | 2022-05-20 | 2022-10-20 |
 | [Monster](https://open.spotify.com/track/61CpLCM1sIzQ8zyvvajUD4) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Monster](https://open.spotify.com/album/4ByYI1K0l0Yfx6ZYMeVmFq) | 3:39 | 2021-11-14 | 2022-07-27 |
 | [Moonlit and Devious](https://open.spotify.com/track/3SeyANJZBvx3DKcSi6gVbE) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/16VqONF09bXFrTr1azAtmL) | 5:03 | 2021-11-14 | 2022-07-27 |
 | [Moonover](https://open.spotify.com/track/2oQtb6KurUSk88McsuY9Xq) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Mood Ring](https://open.spotify.com/album/2HkSVEfE1lpIE616W2tWB5) | 3:43 | 2021-11-14 | 2022-03-04 |

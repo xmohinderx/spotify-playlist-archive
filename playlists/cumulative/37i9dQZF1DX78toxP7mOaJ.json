@@ -1546,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "Cartoon Earthquake - Spotify Singles",
+        "url": "https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205429,
+      "name": "Cartoon Earthquake - Spotify Singles",
+      "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
+    },
+    {
+      "album": {
         "name": "CASKET (ft. papa mbye)",
         "url": "https://open.spotify.com/album/6QfpL9YNUhipcMAZYeOort"
       },
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 190322,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 138039,
       "name": "Dying Leaves",
       "url": "https://open.spotify.com/track/2hPmCTFXIgDHoPv3bJejwx"
@@ -2711,6 +2729,24 @@
       "duration_ms": 126466,
       "name": "Elon Musk As The Crucified Christ",
       "url": "https://open.spotify.com/track/1j2PhmI5GlHkLMyZ0iHz2y"
+    },
+    {
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/0csd5T1V7ziPqic307uK2U"
+      },
+      "artists": [
+        {
+          "name": "Wildermiss",
+          "url": "https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287261,
+      "name": "Elvis",
+      "url": "https://open.spotify.com/track/194xW9GPLSgAFnGCLTuebd"
     },
     {
       "album": {
@@ -4310,6 +4346,24 @@
     },
     {
       "album": {
+        "name": "How You Leapt",
+        "url": "https://open.spotify.com/album/16OpARpzUBfjNcO3LRUYYL"
+      },
+      "artists": [
+        {
+          "name": "cartoonhead",
+          "url": "https://open.spotify.com/artist/4aIocyMSx4FLc5u5sfBCvY"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "How You Leapt",
+      "url": "https://open.spotify.com/track/22PZd4K3wTlcSgMMOsQ1w2"
+    },
+    {
+      "album": {
         "name": "Huerta",
         "url": "https://open.spotify.com/album/3v3CGz6I6yZDet7n0NgsgZ"
       },
@@ -5298,6 +5352,28 @@
     },
     {
       "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z"
+      },
+      "artists": [
+        {
+          "name": "auston ghost",
+          "url": "https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO"
+        },
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162177,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4"
+    },
+    {
+      "album": {
         "name": "KIRA",
         "url": "https://open.spotify.com/album/680aqWTqRYL9AYXHelbTt4"
       },
@@ -5637,6 +5713,24 @@
       "duration_ms": 225545,
       "name": "Lose My Head",
       "url": "https://open.spotify.com/track/5BVU00dNS7omvWFfOFmV52"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3fl1PTS9pEXnTMTDWI8k50"
+      },
+      "artists": [
+        {
+          "name": "Light Grey",
+          "url": "https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3Owt7XwR5mvtLbfFdMdbj9"
     },
     {
       "album": {
@@ -6815,7 +6909,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 215202,
       "name": "Party4One",
       "url": "https://open.spotify.com/track/0erKiZkKMOeye2joBEc6Xi"
@@ -8130,6 +8224,24 @@
     },
     {
       "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4kbCQTPI9gHiPIb4SO9kOd"
+      },
+      "artists": [
+        {
+          "name": "Native Sun",
+          "url": "https://open.spotify.com/artist/4brVz68WvAaXknF2qhCjOm"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262092,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/1I5N5ftixYk6IkQzV8I9KJ"
+    },
+    {
+      "album": {
         "name": "girls my age",
         "url": "https://open.spotify.com/album/4KcuuyKxHU5iOLvTiuUdLJ"
       },
@@ -8141,7 +8253,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 115498,
       "name": "sister sister",
       "url": "https://open.spotify.com/track/5yxH2ARTZHWkQriz7Ycydw"
@@ -8440,6 +8552,24 @@
     },
     {
       "album": {
+        "name": "Some Things Never Change",
+        "url": "https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4"
+      },
+      "artists": [
+        {
+          "name": "Priestgate",
+          "url": "https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217870,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC"
+    },
+    {
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3UDeIat10OiZZVPcuXvEul"
       },
@@ -8451,7 +8581,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 236803,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/1dIH5P2AEbQORDxBTnfeR7"
@@ -8469,7 +8599,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 232000,
       "name": "Someone Kill This Party",
       "url": "https://open.spotify.com/track/52iW1dnOZst1NaFoBqStM1"
@@ -8535,6 +8665,24 @@
       "duration_ms": 252644,
       "name": "Songs of Love",
       "url": "https://open.spotify.com/track/1Xdc2qkxnV6oZ2Gf3PeGxN"
+    },
+    {
+      "album": {
+        "name": "Space Between",
+        "url": "https://open.spotify.com/album/7ujM6DZxGNLJNgVWpaA7iA"
+      },
+      "artists": [
+        {
+          "name": "Lone Wild",
+          "url": "https://open.spotify.com/artist/4SzkqHtkUhzUw37EP7Rxdd"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Space Between",
+      "url": "https://open.spotify.com/track/7ezR3iLnJuTb6ziFUJHWeL"
     },
     {
       "album": {
@@ -9215,7 +9363,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 244080,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/1NehDnoT38Zc6YVWj9QITX"
@@ -9879,7 +10027,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 171655,
       "name": "Veronica's Shield",
       "url": "https://open.spotify.com/track/5UpGyLAkTFoWx6DWuiQ3eE"
@@ -10221,7 +10369,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 121944,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/2UBAUbHZCrKTWjmUVq0bDm"
@@ -10597,6 +10745,24 @@
       "duration_ms": 166528,
       "name": "Your Ideal",
       "url": "https://open.spotify.com/track/5uICdkcrnQTegHnyYE38f3"
+    },
+    {
+      "album": {
+        "name": "Easy Access",
+        "url": "https://open.spotify.com/album/6VLuzFMLJth5Dyc7ogvpmE"
+      },
+      "artists": [
+        {
+          "name": "Vixen77",
+          "url": "https://open.spotify.com/artist/40cU1NP5nu6mgTX7XCs3K5"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109106,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1gpYZnAIAZgzUZgFlP58wF"
     },
     {
       "album": {

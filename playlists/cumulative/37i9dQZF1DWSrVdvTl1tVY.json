@@ -2795,10 +2795,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 216672,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/1YTzo41VV6ja39GPmONFM7"
+    },
+    {
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/5C1CMJPKYQPyHmxVjOTPJ4"
+      },
+      "artists": [
+        {
+          "name": "Tom Everett",
+          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216672,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/6B5mLkpggtjG1xGMc3jOqC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Thalicia/Arte: Isu Kim",
-  "num_followers": 12358,
+  "num_followers": 12380,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDFhNGNlNTYxMTJkNzVlOWUzYTQ2ZjZiNzA0Mzk2NjMz",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGRiYmM2YjY3MGEyYjBjNmViNDg1NGMzNTZiMzQxNzJk",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Perdid\u00e3o",
-        "url": "https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc"
-      },
-      "artists": [
-        {
-          "name": "Pri Pach",
-          "url": "https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H"
-        }
-      ],
-      "duration_ms": 154690,
-      "name": "Perdid\u00e3o",
-      "url": "https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "meu bem, meu bem",
         "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Olha Como Eu T\u00f4",
-        "url": "https://open.spotify.com/album/3WNrDFToTMdb3MlPywHOQb"
+        "name": "Perdid\u00e3o",
+        "url": "https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc"
       },
       "artists": [
         {
-          "name": "Giovanna",
-          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
+          "name": "Pri Pach",
+          "url": "https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H"
         }
       ],
-      "duration_ms": 157105,
-      "name": "Olha Como Eu T\u00f4",
-      "url": "https://open.spotify.com/track/0i0DDCEvMEG1slOYL3Or7h"
+      "duration_ms": 154690,
+      "name": "Perdid\u00e3o",
+      "url": "https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Olha Como Eu T\u00f4",
+        "url": "https://open.spotify.com/album/3WNrDFToTMdb3MlPywHOQb"
+      },
+      "artists": [
+        {
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
+        }
+      ],
+      "duration_ms": 157105,
+      "name": "Olha Como Eu T\u00f4",
+      "url": "https://open.spotify.com/track/0i0DDCEvMEG1slOYL3Or7h"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
       },
@@ -295,6 +295,38 @@
       "duration_ms": 160337,
       "name": "Nossa Hist\u00f3ria",
       "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 151187,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Toda Vez Que Tu Sorri",
+        "url": "https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Toda Vez Que Tu Sorri",
+      "url": "https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -319,38 +351,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Toda Vez Que Tu Sorri",
-        "url": "https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Toda Vez Que Tu Sorri",
-      "url": "https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
-      },
-      "artists": [
-        {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
-        }
-      ],
-      "duration_ms": 151187,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Secos e Molhados",
         "url": "https://open.spotify.com/album/6vjaUebAivNAnI242kJIIj"
       },
@@ -363,6 +363,38 @@
       "duration_ms": 168440,
       "name": "Secos e Molhados",
       "url": "https://open.spotify.com/track/0GMhjwdwL5MHQGH6xErzQL"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Ent\u00e3o Me Diz",
+        "url": "https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "Ent\u00e3o Me Diz",
+      "url": "https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "VOU EMBORA DO BRASIL",
+        "url": "https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "VOU EMBORA DO BRASIL",
+      "url": "https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -387,38 +419,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "VOU EMBORA DO BRASIL",
-        "url": "https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "VOU EMBORA DO BRASIL",
-      "url": "https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Ent\u00e3o Me Diz",
-        "url": "https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 171038,
-      "name": "Ent\u00e3o Me Diz",
-      "url": "https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Mesti\u00e7o",
         "url": "https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp"
       },
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
-      },
-      "artists": [
-        {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Boemia, de Fato",
         "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 176000,
       "name": "Amor de Mar",
       "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -531,42 +531,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "DEPRIMIDA",
-        "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
-      },
-      "artists": [
-        {
-          "name": "Julia Joia",
-          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "DEPRIMIDA",
-      "url": "https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "A Nossa Bossa",
-        "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "A Nossa Bossa",
-      "url": "https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -587,18 +551,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Amor Vagabundo",
-        "url": "https://open.spotify.com/album/6wOV2GjvqqfvRNtpVq6DDD"
+        "name": "DEPRIMIDA",
+        "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
       },
       "artists": [
         {
-          "name": "Theo Kant",
-          "url": "https://open.spotify.com/artist/1tAAuWHZwqVUVnLuFn29bL"
+          "name": "Julia Joia",
+          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Amor Vagabundo",
-      "url": "https://open.spotify.com/track/0eajyfbIwb4H8d0vLaMlo3"
+      "duration_ms": 155733,
+      "name": "DEPRIMIDA",
+      "url": "https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -623,6 +587,42 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Amor Vagabundo",
+        "url": "https://open.spotify.com/album/6wOV2GjvqqfvRNtpVq6DDD"
+      },
+      "artists": [
+        {
+          "name": "Theo Kant",
+          "url": "https://open.spotify.com/artist/1tAAuWHZwqVUVnLuFn29bL"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Amor Vagabundo",
+      "url": "https://open.spotify.com/track/0eajyfbIwb4H8d0vLaMlo3"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "A Nossa Bossa",
+        "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
+      },
+      "artists": [
+        {
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "A Nossa Bossa",
+      "url": "https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Esse Jogo",
         "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
@@ -635,38 +635,6 @@
       "duration_ms": 144742,
       "name": "Esse Jogo",
       "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Ex-Melhor Amigo",
-        "url": "https://open.spotify.com/album/3siYvHqoPipVcMasKdgg3b"
-      },
-      "artists": [
-        {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Ex-Melhor Amigo",
-      "url": "https://open.spotify.com/track/7m604nggEys9csDMi0pTsC"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Cicatriz",
-        "url": "https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c"
-      },
-      "artists": [
-        {
-          "name": "Tati Maia",
-          "url": "https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Cicatriz",
-      "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -687,6 +655,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Ex-Melhor Amigo",
+        "url": "https://open.spotify.com/album/3siYvHqoPipVcMasKdgg3b"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Ex-Melhor Amigo",
+      "url": "https://open.spotify.com/track/7m604nggEys9csDMi0pTsC"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Oxi (Dio Mio!)",
         "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 160413,
       "name": "Oxi (Dio Mio!)",
       "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Cicatriz",
+        "url": "https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c"
+      },
+      "artists": [
+        {
+          "name": "Tati Maia",
+          "url": "https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Cicatriz",
+      "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -819,6 +819,38 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "SANTA PACI\u00caNCIA...",
+        "url": "https://open.spotify.com/album/4OgS6jo5P32ZkYk8TAvBDj"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "SANTA PACI\u00caNCIA...",
+      "url": "https://open.spotify.com/track/5vQqxaZPzLrxFxXkbG4E0L"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Da Vida",
         "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
       },
@@ -839,22 +871,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
-      },
-      "artists": [
-        {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 239360,
       "name": "Ideia Errada",
       "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "SANTA PACI\u00caNCIA...",
-        "url": "https://open.spotify.com/album/4OgS6jo5P32ZkYk8TAvBDj"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "SANTA PACI\u00caNCIA...",
-      "url": "https://open.spotify.com/track/5vQqxaZPzLrxFxXkbG4E0L"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "PLAT\u00d4NICO",
+        "url": "https://open.spotify.com/album/3iZVI9SANNghj1iFpTuAVD"
+      },
+      "artists": [
+        {
+          "name": "Marc Yann",
+          "url": "https://open.spotify.com/artist/2XCuDk7P16Zp9Nvak5BmRf"
+        }
+      ],
+      "duration_ms": 141281,
+      "name": "VAI",
+      "url": "https://open.spotify.com/track/3T2JaAQgQ92z9oVHmWg91C"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "0800",
         "url": "https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf"
       },
@@ -939,34 +955,34 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "PLAT\u00d4NICO",
-        "url": "https://open.spotify.com/album/3iZVI9SANNghj1iFpTuAVD"
+        "name": "Merc\u00fario Retr\u00f3grado",
+        "url": "https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6"
       },
       "artists": [
         {
-          "name": "Marc Yann",
-          "url": "https://open.spotify.com/artist/2XCuDk7P16Zp9Nvak5BmRf"
+          "name": "Savio di Maio",
+          "url": "https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e"
         }
       ],
-      "duration_ms": 141281,
-      "name": "VAI",
-      "url": "https://open.spotify.com/track/3T2JaAQgQ92z9oVHmWg91C"
+      "duration_ms": 156296,
+      "name": "Merc\u00fario Retr\u00f3grado",
+      "url": "https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe"
     },
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "O Fim do Mundo",
-        "url": "https://open.spotify.com/album/0divz8MH1pM0Bl0Yc0MXqs"
+        "name": "Meu Mundo",
+        "url": "https://open.spotify.com/album/004cQK4QWSIdxRQNyvhkck"
       },
       "artists": [
         {
-          "name": "aocoral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+          "name": "Izaki Lima",
+          "url": "https://open.spotify.com/artist/33KnzfUaoOX9QPrF4Fy6s2"
         }
       ],
-      "duration_ms": 169388,
-      "name": "O Fim do Mundo",
-      "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
+      "duration_ms": 234927,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/7n8TcUtlwDE3uPuBMVDfPL"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -987,22 +1003,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Pretinha",
-        "url": "https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56"
+        "name": "O Fim do Mundo",
+        "url": "https://open.spotify.com/album/0divz8MH1pM0Bl0Yc0MXqs"
       },
       "artists": [
         {
-          "name": "Demark",
-          "url": "https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC"
-        },
-        {
-          "name": "Must",
-          "url": "https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt"
+          "name": "aocoral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
         }
       ],
-      "duration_ms": 106930,
-      "name": "Pretinha",
-      "url": "https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI"
+      "duration_ms": 169388,
+      "name": "O Fim do Mundo",
+      "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1027,6 +1039,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Pretinha",
+        "url": "https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56"
+      },
+      "artists": [
+        {
+          "name": "Demark",
+          "url": "https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC"
+        },
+        {
+          "name": "Must",
+          "url": "https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt"
+        }
+      ],
+      "duration_ms": 106930,
+      "name": "Pretinha",
+      "url": "https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Rebuli\u00e7o",
         "url": "https://open.spotify.com/album/4fsZp3nHy7vFiFHbov9rbw"
       },
@@ -1043,18 +1075,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Meu Mundo",
-        "url": "https://open.spotify.com/album/004cQK4QWSIdxRQNyvhkck"
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
       "artists": [
         {
-          "name": "Izaki Lima",
-          "url": "https://open.spotify.com/artist/33KnzfUaoOX9QPrF4Fy6s2"
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
         }
       ],
-      "duration_ms": 234927,
-      "name": "Meu Mundo",
-      "url": "https://open.spotify.com/track/7n8TcUtlwDE3uPuBMVDfPL"
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1071,6 +1103,22 @@
       "duration_ms": 176938,
       "name": "Trancado",
       "url": "https://open.spotify.com/track/3O4FZv6i5sQvsGj4qfD50W"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Chocolate Branco",
+        "url": "https://open.spotify.com/album/5fSGaCA3QMxI4T7Oe5fdKS"
+      },
+      "artists": [
+        {
+          "name": "DFONNSO",
+          "url": "https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Chocolate Branco",
+      "url": "https://open.spotify.com/track/53Ut7bzms6gC6t7fPuiMRx"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1123,22 +1171,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Merc\u00fario Retr\u00f3grado",
-        "url": "https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6"
-      },
-      "artists": [
-        {
-          "name": "Savio di Maio",
-          "url": "https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e"
-        }
-      ],
-      "duration_ms": 156296,
-      "name": "Merc\u00fario Retr\u00f3grado",
-      "url": "https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "A Rua e Seus Encantos",
         "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
       },
@@ -1167,22 +1199,6 @@
       "duration_ms": 105263,
       "name": "Longe Daqui",
       "url": "https://open.spotify.com/track/2dLB3PppSIb8Q1FeAEfCW6"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Chocolate Branco",
-        "url": "https://open.spotify.com/album/5fSGaCA3QMxI4T7Oe5fdKS"
-      },
-      "artists": [
-        {
-          "name": "DFONNSO",
-          "url": "https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Chocolate Branco",
-      "url": "https://open.spotify.com/track/53Ut7bzms6gC6t7fPuiMRx"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 256000,
       "name": "p\u00f3s t\u00e9rmino",
       "url": "https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "N\u00e3o Falo Mais Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/4lygsdWpQVYh4qVMpq6dGD"
-      },
-      "artists": [
-        {
-          "name": "NANNY",
-          "url": "https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt"
-        }
-      ],
-      "duration_ms": 226402,
-      "name": "N\u00e3o Falo Mais Sobre Voc\u00ea",
-      "url": "https://open.spotify.com/track/46Q39wJFet06LfwYry8lsR"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Ei Voc\u00ea",
         "url": "https://open.spotify.com/album/5flpZHlJ5BH0veAKsqJ3Nm"
       },
@@ -1351,22 +1335,34 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "facetime",
-        "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
+        "name": "MANEQUIM",
+        "url": "https://open.spotify.com/album/7L82m1lafBqBMRKI5QruQZ"
       },
       "artists": [
         {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg"
-        },
-        {
-          "name": "Felipe Phyre",
-          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
+          "name": "Be Hudson",
+          "url": "https://open.spotify.com/artist/0Smb1MHBcHXnavEBWUFHjU"
         }
       ],
-      "duration_ms": 181197,
-      "name": "perigo !!!",
-      "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
+      "duration_ms": 135145,
+      "name": "MANEQUIM",
+      "url": "https://open.spotify.com/track/38x0h6m3LO6Twv5KyrzAAr"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "N\u00e3o Falo Mais Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/4lygsdWpQVYh4qVMpq6dGD"
+      },
+      "artists": [
+        {
+          "name": "NANNY",
+          "url": "https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt"
+        }
+      ],
+      "duration_ms": 226402,
+      "name": "N\u00e3o Falo Mais Sobre Voc\u00ea",
+      "url": "https://open.spotify.com/track/46Q39wJFet06LfwYry8lsR"
     }
   ],
   "unique_name": "Fresh Finds Brasil",

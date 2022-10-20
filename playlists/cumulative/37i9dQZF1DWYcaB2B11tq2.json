@@ -716,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Mis Mejores Dias",
+        "url": "https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx"
+      },
+      "artists": [
+        {
+          "name": "Josue Del Cid",
+          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Dios es Fiel",
+      "url": "https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv"
+    },
+    {
+      "album": {
         "name": "En Mi Lugar (Live In Australia/2011)",
         "url": "https://open.spotify.com/album/0Qrc4264bXNnDbJ4ASWUsZ"
       },
@@ -3199,7 +3217,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 255537,
       "name": "Viene De Ti",
       "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"

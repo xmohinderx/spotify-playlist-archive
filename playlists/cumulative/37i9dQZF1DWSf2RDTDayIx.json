@@ -1230,6 +1230,28 @@
     },
     {
       "album": {
+        "name": "Dance All Over Me (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/1M1s6xXXTuPLs9JDuYe0VB"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Dance All Over Me - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/47qIrI42ZraqGwDrs03wHM"
+    },
+    {
+      "album": {
         "name": "Dance on My Own (feat. Richard Judge)",
         "url": "https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s"
       },
@@ -4481,7 +4503,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 134584,
       "name": "Reaching Out",
       "url": "https://open.spotify.com/track/7KTcpv7wPJ4r6lR5SLzurh"

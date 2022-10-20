@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-287 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+287 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Changed Everything](https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Changed Everything](https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0) | 3:46 | 2021-12-10 |  |
 | [Chillbilly](https://open.spotify.com/track/3MMCHaGF2O4Fv61JI9dHr9) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Ryan Robinette](https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu) | [Chillbilly](https://open.spotify.com/album/4CTZP1oLQtwfofXk37rwqi) | 2:55 | 2022-08-26 |  |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-02-26 |
-| [Clap Yo Hands](https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Nitty Gritty GR](https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N), [Pa Pa Fresh](https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY) | [Clap Yo Hands](https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S) | 3:12 | 2022-10-14 |  |
+| [Clap Yo Hands](https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Nitty Gritty GR](https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N), [Pa Pa Fresh](https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY) | [Clap Yo Hands](https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S) | 2:41 | 2022-10-14 |  |
 | [Closer To Over You](https://open.spotify.com/track/00N5SEfWH4b3aQhVDGVv7M) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Closer To Over You](https://open.spotify.com/album/4fwr9LJHJXugyFeFVxzwVB) | 3:23 | 2021-12-10 |  |
 | [COLD HEART](https://open.spotify.com/track/2w4Z0WNlMwhrccnAhy4dFg) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [COLD HEART](https://open.spotify.com/album/5ZHuvg6Hz5VVEFhUMa3oAT) | 3:00 | 2022-02-11 | 2022-06-11 |
 | [Cold Hearted](https://open.spotify.com/track/4CqCfVF7Zvr3HIt8nr1P98) | [Sunset West](https://open.spotify.com/artist/6OFn7TgXCd9qdn2lMUX7T6) | [Cold Hearted](https://open.spotify.com/album/2ZHErtnhlEJrgfDlyQZH8w) | 3:42 | 2022-08-19 |  |

@@ -225,7 +225,7 @@
     {
       "album": {
         "name": "Bien Recio",
-        "url": "https://open.spotify.com/album/6hRcRpnnB6iGB1oEFhVAiy"
+        "url": "https://open.spotify.com/album/4DH0m1WeTHgJbvAqIykRj1"
       },
       "artists": [
         {
@@ -236,6 +236,24 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 264097,
+      "name": "Bien Recio",
+      "url": "https://open.spotify.com/track/03dzLSXkE8tyk0kJEQF99T"
+    },
+    {
+      "album": {
+        "name": "Bien Recio",
+        "url": "https://open.spotify.com/album/6hRcRpnnB6iGB1oEFhVAiy"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
       "duration_ms": 264097,
       "name": "Bien Recio",
       "url": "https://open.spotify.com/track/3BpjbirYqKfKKMNmip9MS4"

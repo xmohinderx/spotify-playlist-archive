@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-755 songs - 1 day 18 hr 0 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+756 songs - 1 day 18 hr 4 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 | 2022-01-01 | 2022-01-04 |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-03-04 | 2022-04-11 |
 | [Casseurs Flowters Infinity](https://open.spotify.com/track/4zNegI08Ey41oFdfaiZinq) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Gringe](https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:08 | 2021-11-21 | 2021-11-30 |
-| [CAYENNE](https://open.spotify.com/track/6Q2C2H2HvUMsZvuFu2miZE) | [RZ](https://open.spotify.com/artist/77cVQzbhjZZZSkeQtFYDPw) | [CAYENNE](https://open.spotify.com/album/7lRXuOPmfku1NORNt8JEKM) | 2:27 | 2022-10-18 |  |
+| [CAYENNE](https://open.spotify.com/track/6Q2C2H2HvUMsZvuFu2miZE) | [RZ](https://open.spotify.com/artist/77cVQzbhjZZZSkeQtFYDPw) | [CAYENNE](https://open.spotify.com/album/7lRXuOPmfku1NORNt8JEKM) | 2:27 | 2022-10-18 | 2022-10-20 |
 | [CELINE 3X](https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CELINE 3X](https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT) | 2:38 | 2022-05-13 | 2022-06-09 |
 | [CELINE 3X](https://open.spotify.com/track/2wXS2IXCyBX0WL76LLYT31) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:38 | 2022-07-02 | 2022-07-10 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-12 |
@@ -454,6 +454,7 @@
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-11 |  |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-13 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-12 | 2021-12-29 |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-19 |  |
 | [Mode Akimbo \(feat\. Jul\)](https://open.spotify.com/track/7qezIDRM0E3WTW1lWxItug) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:37 | 2021-03-27\* | 2021-03-29 |
 | [MOLLY \- A COLORS SHOW](https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [MOLLY \- A COLORS SHOW](https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz) | 2:22 | 2022-06-02 | 2022-07-03 |
 | [Mon amour](https://open.spotify.com/track/6lBCjH1gpm5sk9KBll9akT) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:52 | 2022-03-05 | 2022-03-16 |

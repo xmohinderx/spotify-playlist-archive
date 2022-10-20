@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,711 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,735 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 69 | [What's Up Suckaz](https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX) | [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [What's Up Suckaz](https://open.spotify.com/album/26Ii0K4367aR8WKk6GXQi9) | 4:15 |
 | 70 | [In Your Eyes \(feat\. Alida\) \- KREAM Remix](https://open.spotify.com/track/45vQQXKfA4edHqKV5roP3M) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [In Your Eyes \(feat\. Alida\) \[KREAM Remix\]](https://open.spotify.com/album/4opn0PjzGOFZTGUKFj0JUR) | 3:23 |
 | 71 | [Moonlight](https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7) | 2:53 |
-| 72 | [AGEN WIDA](https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AGEN WIDA](https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7) | 3:19 |
-| 73 | [My Pony](https://open.spotify.com/track/6Qpm8XBZ0CrASw7cTMap99) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/6Z8k55chq0AjqaYbaMX2tp) | 2:33 |
+| 72 | [My Pony](https://open.spotify.com/track/6Qpm8XBZ0CrASw7cTMap99) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/6Z8k55chq0AjqaYbaMX2tp) | 2:33 |
+| 73 | [AGEN WIDA](https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AGEN WIDA](https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7) | 3:19 |
 | 74 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 |
 | 75 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 |
 | 76 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [IM GONE](https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 4:45 |
 | 90 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
 
-Snapshot ID: `MTY2NTU4OTM4NywwMDAwMDAwMDQzY2JlMzQ4OTJmNzE0OTMwZGNkYzM2MzY0ZWM3ZmFl`
+Snapshot ID: `MTY2NTU4OTM4NywwMDAwMDAwMGQ4MWJjZDg0ZTZjNTQ3Zjg5MTIzNjdjNzY0MTZiYTY2`

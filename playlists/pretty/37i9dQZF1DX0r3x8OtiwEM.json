@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 776530,
+  "num_followers": 776822,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1NzUwMCwwMDAwMDAwMDFlM2Q5MDJmN2ExZjQ0NTRlMWVhYzk0OTk0NTdhYTUy",
+  "snapshot_id": "MTY2NTE1NzUwMCwwMDAwMDAwMDBkYWQ4NmY2N2FmZDI3ZTBjNzI5YTlmOTM3OWVkZjI4",
   "tracks": [
     {
       "added_at": "2022-10-07 15:45:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 211371,
       "name": "The Future",
       "url": "https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -615,22 +615,18 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Blisss",
-        "url": "https://open.spotify.com/album/67QO6UzoSlFcsPTuQR0FCJ"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        },
-        {
-          "name": "Liset Alea",
-          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 223451,
-      "name": "What Is Real",
-      "url": "https://open.spotify.com/track/6G40wvmUlCrx5KqGFN5H4X"
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -651,18 +647,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+        "name": "Blisss",
+        "url": "https://open.spotify.com/album/67QO6UzoSlFcsPTuQR0FCJ"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        },
+        {
+          "name": "Liset Alea",
+          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
         }
       ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+      "duration_ms": 223451,
+      "name": "What Is Real",
+      "url": "https://open.spotify.com/track/6G40wvmUlCrx5KqGFN5H4X"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Skylight",
-        "url": "https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB"
-      },
-      "artists": [
-        {
-          "name": "Kakoon",
-          "url": "https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL"
-        }
-      ],
-      "duration_ms": 442439,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
         "name": "4 Lovers",
         "url": "https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 348411,
       "name": "4 Lovers",
       "url": "https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
+        "name": "Skylight",
+        "url": "https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB"
+      },
+      "artists": [
+        {
+          "name": "Kakoon",
+          "url": "https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL"
+        }
+      ],
+      "duration_ms": 442439,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi"
     }
   ],
   "unique_name": "Lowkey Tech",

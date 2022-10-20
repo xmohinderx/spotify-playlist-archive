@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Aidan Bissett
 
-419 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+420 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-18 | 2022-05-22 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2022-02-04 | 2022-03-12 |
 | [ignorance is bliss](https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [ignorance is bliss](https://open.spotify.com/album/2l2OLcnXmhvxmQG9MWksXI) | 2:54 | 2022-04-22 | 2022-07-29 |
+| [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 | 2022-10-07 |  |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-10-16 |
 | [It Took A Lot To Get To This](https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 3:05 | 2022-06-10 | 2022-07-23 |
 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 | 2022-02-04 | 2022-03-12 |
@@ -332,7 +333,7 @@
 | [Sometime](https://open.spotify.com/track/600nfkPMLq6JpNEvas08Qp) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Shane T](https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X) | [Sometime](https://open.spotify.com/album/5Y4u5xsr6GIaGW9S2lgHGp) | 2:19 | 2022-02-04 | 2022-03-05 |
 | [SORE](https://open.spotify.com/track/6R14BaW5Y3KGmlX68pkTbl) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [SORE](https://open.spotify.com/album/0X7rdj2hW0RtyIhRI7alGN) | 2:58 | 2022-04-01 | 2022-06-01 |
 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 | 2022-02-11 | 2022-03-18 |
-| [Speeding 72](https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:58 | 2022-08-19 |  |
+| [Speeding 72](https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:58 | 2022-08-19 | 2022-10-20 |
 | [Speeding 72](https://open.spotify.com/track/50TKkG4ZjGXnCbmgEGAzSQ) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1Ejx8qYgxofpdbCI68na6f) | 3:58 | 2022-07-01 | 2022-07-29 |
 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 | 2022-06-03 |  |
 | [Step Mom](https://open.spotify.com/track/33yL9mCGvvVCjLKCZsnm1w) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Step Mom](https://open.spotify.com/album/6KTdmgQ3PwBVgZfc6j2R8I) | 3:34 | 2022-07-01 | 2022-08-06 |

@@ -4,7 +4,7 @@
 
 > Flow sudamericano con Cris Mj.
 
-694 songs - 1 day 12 hr 29 min - [published](https://open.spotify.com/playlist/3fVDETWJMmsiqTI070RHbC)
+695 songs - 1 day 12 hr 32 min - [published](https://open.spotify.com/playlist/3fVDETWJMmsiqTI070RHbC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-12-27 | 2022-05-10 |
 | [Bandolero](https://open.spotify.com/track/3jLAgYzUfr2Jk25JijeV8R) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Pobvio](https://open.spotify.com/artist/5K7DnZFhwHZLGI8fCavJfU) | [Bandolero](https://open.spotify.com/album/7f6HCkAvYqYfgKKQYWStyE) | 3:02 | 2021-12-27 | 2022-03-22 |
 | [Beboteo \- Remix](https://open.spotify.com/track/6H2bIFyes5mBnjWGpCxL3c) | [Keiti G](https://open.spotify.com/artist/4uPvb8YVhwn0O4l3xi6gic), [Simon G](https://open.spotify.com/artist/06l5X3hpzjhBeC8AdZVpFm) | [Beboteo \(Remix\)](https://open.spotify.com/album/6UjI5Nwn06WS3tQBzVvNxp) | 2:44 | 2022-01-21 | 2022-04-08 |
+| [Bellakera](https://open.spotify.com/track/02wijRhOIJdJ8VKM8N9voP) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Welcome To My World](https://open.spotify.com/album/6iUBYigsiYYdhDIkHbKbSN) | 2:54 | 2022-10-20 |  |
 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 | 2021-12-27 | 2022-07-13 |
 | [Benz](https://open.spotify.com/track/0XfmH3J1ewA1fNUdUO5UeE) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Benz](https://open.spotify.com/album/5h2KCtbFjyUOGgr1RzsuRr) | 2:30 | 2021-12-27 | 2022-04-09 |
 | [Beso de 3](https://open.spotify.com/track/2t8uNSGe0gaAG9KhQ8m55N) | [Nico Mastre](https://open.spotify.com/artist/5NescwT8CJqGf64LVVD6td), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Beso de 3](https://open.spotify.com/album/0M7gEqM3GR1wrXvptaHT5D) | 3:49 | 2022-04-08 | 2022-05-27 |
@@ -129,7 +130,7 @@
 | [Como la ves](https://open.spotify.com/track/54fMIkvE68s6eH5NqKKVEi) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Como la ves](https://open.spotify.com/album/2yEeQwZVGza1weBPiqGr6j) | 2:18 | 2021-12-27 | 2022-05-10 |
 | [Como Si Nada \- Remix](https://open.spotify.com/track/2ZSA8W4UA7cjTtFfi1nxjM) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Como Si Nada \(Remix\)](https://open.spotify.com/album/1t4jCxHtWOCxPA5l5gBZrb) | 4:22 | 2022-01-03 | 2022-07-29 |
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2021-12-27 |  |
-| [Como Te Va](https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Te Va](https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8) | 3:45 | 2022-02-25 |  |
+| [Como Te Va](https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Te Va](https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8) | 3:45 | 2022-02-25 | 2022-10-20 |
 | [Como Yo Lo Hago](https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [The Bestsoundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Como Yo Lo Hago](https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ) | 3:41 | 2022-01-21 | 2022-03-06 |
 | [COMPLICES](https://open.spotify.com/track/6s980QxDECNvU8pp1SoSwP) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [COMPLICES](https://open.spotify.com/album/35YJilctgWruJnQTGpvi3k) | 4:06 | 2022-01-28 | 2022-07-14 |
 | [Con y Sin](https://open.spotify.com/track/68B1HiwTxquab8p1vd9aj1) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Con y Sin](https://open.spotify.com/album/5iRUAUphYl7gm37U4DTl8X) | 2:10 | 2022-01-14 | 2022-04-07 |

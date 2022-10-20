@@ -1414,6 +1414,28 @@
     },
     {
       "album": {
+        "name": "Little Fun (feat. Sammy Johnson)",
+        "url": "https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9"
+      },
+      "artists": [
+        {
+          "name": "Hamo Dell",
+          "url": "https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2"
+        },
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "Little Fun (feat. Sammy Johnson)",
+      "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/1Oae3gR24xLKyiBJqAu2Ft"
       },
@@ -1795,7 +1817,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 228300,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"

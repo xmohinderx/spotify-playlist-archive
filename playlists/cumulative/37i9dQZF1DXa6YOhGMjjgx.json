@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 248543,
       "name": "Beautiful James",
       "url": "https://open.spotify.com/track/5Yw6htG6TZtkeMo9WLI0M7"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 178404,
       "name": "Burning Down a Denny's",
       "url": "https://open.spotify.com/track/3CYwtWdHsegf5DqGVNQ3JK"
@@ -2621,6 +2621,24 @@
     {
       "album": {
         "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
         "url": "https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz"
       },
       "artists": [
@@ -3327,7 +3345,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 279463,
       "name": "T.I.K.",
       "url": "https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4"

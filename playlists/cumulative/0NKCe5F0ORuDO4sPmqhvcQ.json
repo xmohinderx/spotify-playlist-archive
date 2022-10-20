@@ -5280,6 +5280,28 @@
     },
     {
       "album": {
+        "name": "Spirit On Mine (feat. Luck)",
+        "url": "https://open.spotify.com/album/6AuypIwd3phed9BaarcGk2"
+      },
+      "artists": [
+        {
+          "name": "Venessa Michaels",
+          "url": "https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC"
+        },
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Spirit On Mine - feat. Luck",
+      "url": "https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE"
+    },
+    {
+      "album": {
         "name": "PILLARS ///",
         "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
       },
@@ -6469,12 +6491,12 @@
           "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
           "name": "Charlie Houston",
           "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
       "date_added": "2022-09-20",

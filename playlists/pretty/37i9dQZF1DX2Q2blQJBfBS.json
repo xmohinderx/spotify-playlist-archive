@@ -1,15 +1,15 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 1901,
+  "num_followers": 2260,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NTA0MiwwMDAwMDAwMDBlZjQ2MmUwMTdiZjI3ZmQwNzgyMTc0MDZiNzg0NWFj",
+  "snapshot_id": "MTY2NTc1NTA0MiwwMDAwMDAwMDc0ZWEyYzVlZTk1MjUzNDkyMjkyN2QyMzFjMDQyMzI0",
   "tracks": [
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "Ghetto Pop Life",
         "url": "https://open.spotify.com/album/63LehXDfhT4lOulImEv4Dt"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5RcqEvIHLKDXa0FqUfKBGK"
     },
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "Duck Czn: Tiger Style",
         "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
     },
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "The Fonz",
         "url": "https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT"
     },
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "Psychological Cheat Sheet 3",
         "url": "https://open.spotify.com/album/4MvqEZvawXCOx8UpUsm4R6"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "Mighty Microphone",
         "url": "https://open.spotify.com/album/2qNBSDhguWLePXxzLBa2O7"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4X9tIXypCox3srtngLVH88"
     },
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "The Fresh Prince of Self Flair",
         "url": "https://open.spotify.com/album/6J5FRVCy8hooEeubGPzfBT"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3i3frnOvW4NSQOjysqvgN9"
     },
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/6pBNj8Ihr7Av2JRPi2ytAD"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5z1KkHpvBc6yLiTo19sdHo"
     },
     {
-      "added_at": "2022-10-19 01:42:38",
+      "added_at": "2022-10-20 01:35:46",
       "album": {
         "name": "Trouble (feat. Ronni wit tha K)",
         "url": "https://open.spotify.com/album/48PWkNFdPkB57W3I9pKEv1"
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 256595,
-      "name": "Pimpin' Benjamin",
-      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/6HB5Nq7lSjvTs3gJom6BXI"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 256595,
+      "name": "Pimpin' Benjamin",
+      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Faygo Baby",
-        "url": "https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK"
-      },
-      "artists": [
-        {
-          "name": "Kipp Stone",
-          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Faygo Baby",
-      "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
-    },
-    {
       "added_at": "2022-06-10 12:00:00",
       "album": {
         "name": "The Infamous",
@@ -1435,6 +1419,22 @@
       "duration_ms": 285866,
       "name": "Drink Away the Pain (Situations) (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/4GdKi4F976XGtr8hedHEro"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Faygo Baby",
+        "url": "https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK"
+      },
+      "artists": [
+        {
+          "name": "Kipp Stone",
+          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Faygo Baby",
+      "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
     },
     {
       "added_at": "2022-07-08 12:00:00",
@@ -1525,26 +1525,6 @@
       "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "No Gold Teeth",
-        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
-      },
-      "artists": [
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Gold Teeth",
-      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "2 P'z In A Pod",
@@ -1567,6 +1547,26 @@
       "duration_ms": 177819,
       "name": "Vanilla Cream",
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "No Gold Teeth",
+        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Gold Teeth",
+      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "The Last Huzzah!",
@@ -1675,6 +1659,22 @@
       "duration_ms": 331937,
       "name": "The Last Huzzah!",
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1773,6 +1773,30 @@
       "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
+      },
+      "artists": [
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        },
+        {
+          "name": "Jaywop",
+          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Aethiopes",
@@ -1811,30 +1835,6 @@
       "duration_ms": 168000,
       "name": "LABOU",
       "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
       "added_at": "2022-05-10 19:26:35",

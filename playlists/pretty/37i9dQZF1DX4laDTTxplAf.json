@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 214292,
+  "num_followers": 214416,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMDViMDczY2FiOTA0ZWRhMGUxODE1MDJmNjFhMzIzMjFh",
+  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMDNlYjkzM2Y0MDU5OTIwOGI4MjBkMmQwMDcxMzUwMTZl",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "\"7\"",
         "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 240492,
       "name": "Never Had A Dream Come True",
       "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX"
     },
     {
-      "added_at": "2022-04-19 14:07:15",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 244106,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/5OGkKx8jP0A5KSULEc6XYZ"
-    },
-    {
       "added_at": "2021-02-10 17:52:46",
       "album": {
         "name": "Thankful",
@@ -1091,6 +1075,22 @@
       "duration_ms": 228280,
       "name": "A Moment Like This",
       "url": "https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH"
+    },
+    {
+      "added_at": "2022-04-19 14:07:15",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/5OGkKx8jP0A5KSULEc6XYZ"
     },
     {
       "added_at": "2021-02-10 17:52:46",

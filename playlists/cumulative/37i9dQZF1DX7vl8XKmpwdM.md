@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+70 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/album/52wMl2ktm9T0EnixrpPwBz) | 3:32 | 2022-01-28 |  |
 | [Eyy Beta Idhu En Patta](https://open.spotify.com/track/0DY2T4yHZ0hvXrtWkG0itF) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Pushpa \- The Rise](https://open.spotify.com/album/08ao6XwCHVwzkABGokCrAh) | 3:56 | 2021-12-01 |  |
 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 | 2021-12-01 |  |
+| [Inky Pinky Ponky](https://open.spotify.com/track/6o7G7zxI9TkcXVk6fi1yOm) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Sardar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IHFkqhwCsmByxnhs94vAE) | 3:26 | 2022-10-19 |  |
 | [Inna Mylu \- From "Lift"](https://open.spotify.com/track/5M0osd70WeG2LaAqvbe89r) | [Britto Michael](https://open.spotify.com/artist/15LdHQmw4fhQb4UbA76TZW), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Poovaiyar](https://open.spotify.com/artist/1BEHgakWUnaE0HJCe3qzM6), [Kamala Kannan](https://open.spotify.com/artist/2O1Q2daQb2o9Gupo2BmcPy), [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Inna Mylu \(From "Lift"\)](https://open.spotify.com/album/1YTkfdIaEIqYwlq6Xn909E) | 4:20 | 2021-12-01 |  |
 | [Jai Sulthan \- From "Sulthan"](https://open.spotify.com/track/7crGzxRqI5pMZAjZgF9uu2) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW) | [Jai Sulthan \(From "Sulthan"\)](https://open.spotify.com/album/3t8eTRRkTRs9mxxYWZK9Xz) | 4:06 | 2021-12-01 |  |
 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 | 2021-12-16 |  |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 | 2022-03-18 | 2022-08-01 |
+| [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 | 2022-03-18 |  |
 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 | 2022-03-18 |  |
 | [A Fistful O' Roses](https://open.spotify.com/track/0luBzUkwlfRGQKfUwDVwVe) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [A Fistful O' Roses](https://open.spotify.com/album/54ildx6MHioyvqGTAFASOe) | 4:52 | 2022-03-18 | 2022-07-29 |
 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 | 2022-03-18 |  |
@@ -48,7 +48,7 @@
 | [Join the Riot](https://open.spotify.com/track/0ywLxPIfElvmPjYTwVIryT) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/6sJs55Ph5KQrQ8maznQSBw) | 3:08 | 2022-03-18 |  |
 | [Join the Riot](https://open.spotify.com/track/6iJoFhzoWhytbtg7H7kQ5a) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/5K8Slbeyr5qy7U5qudDHOM) | 3:08 | 2022-03-18 | 2022-07-29 |
 | [Karma Killer](https://open.spotify.com/track/0Js21h5mZmJ9tJchPQ33zg) | [Pipes And Pints](https://open.spotify.com/artist/4OqDoxT2t5pP2S7C1VkoGB) | [Karma Killer](https://open.spotify.com/album/0GaneqwiDOaqyUFCMfoQJY) | 3:18 | 2022-03-18 | 2022-06-10 |
-| [Katie Bar the Door](https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Liquordale](https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e) | 3:13 | 2022-03-18 |  |
+| [Katie Bar the Door](https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Liquordale](https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e) | 3:13 | 2022-03-18 | 2022-10-20 |
 | [Kick Out The Scum](https://open.spotify.com/track/7gm131f9EwoBasQT5Fcqua) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [Kick Out The Scum](https://open.spotify.com/album/0zMhFOgj0wLZIXbilDbF7Q) | 3:35 | 2022-03-18 | 2022-07-25 |
 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Mick Jones Nicked My Pudding](https://open.spotify.com/album/19oSImQhM6RbBuzbL6AZp9) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [Middle Finger](https://open.spotify.com/track/6fKymBc5tF2uMbQhyRaezA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Middle Finger](https://open.spotify.com/album/74KJL8Xmwr8EcYPY22jN5M) | 2:35 | 2022-03-18 | 2022-07-29 |

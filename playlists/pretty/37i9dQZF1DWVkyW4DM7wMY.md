@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,700 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,703 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 64 | [Ndanu](https://open.spotify.com/track/6BQHAffEfWfGqZK9WKZGuJ) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndanu](https://open.spotify.com/album/0S5c02uwpmrACcV7UFgm6y) | 3:28 |
 | 65 | [TREADING WATER](https://open.spotify.com/track/59uf6SH8YAoiylleU4nQWT) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [TREADING WATER](https://open.spotify.com/album/0TQkcyZaYiEoOFzJGoTdlu) | 4:12 |
 | 66 | [Pleasure Riddim](https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Pleasure Riddim](https://open.spotify.com/album/5RSh4SiFXncnAnheuqLp7i) | 2:10 |
-| 67 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 |
+| 67 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 |
 | 68 | [Party](https://open.spotify.com/track/5tOjlYLXI4AE864bDVUSPr) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 3:34 |
 | 69 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 |
 | 70 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 |
 
-Snapshot ID: `MTY2NTY5NDc0MCwwMDAwMDAwMDYyZDg0M2RlNzg3MDhiYTc4OGYxMTVmM2FmMTRmM2Ix`
+Snapshot ID: `MTY2NTY5NDc0MCwwMDAwMDAwMGU0YmNkOTVkNzU1OTk4OGZmNzVlNjE5MWRhNWQ4MTcy`

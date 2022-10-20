@@ -431,10 +431,28 @@
       ],
       "date_added": "2019-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 207011,
       "name": "Coyote Caller",
       "url": "https://open.spotify.com/track/0VfLSNN4WlqpAdWcgrhpgG"
+    },
+    {
+      "album": {
+        "name": "My Spirit Sister",
+        "url": "https://open.spotify.com/album/4ItmWXeF6QGjyG32aZMgOX"
+      },
+      "artists": [
+        {
+          "name": "Joshua James",
+          "url": "https://open.spotify.com/artist/0YLUOdFiedWIWBttlDAQeO"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207011,
+      "name": "Coyote Caller",
+      "url": "https://open.spotify.com/track/6pWd9dkHmrR92kqSKFbRuw"
     },
     {
       "album": {

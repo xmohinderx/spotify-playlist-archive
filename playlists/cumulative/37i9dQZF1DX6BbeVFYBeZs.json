@@ -257,10 +257,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 119786,
       "name": "Bella Flamenco",
       "url": "https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM"
+    },
+    {
+      "album": {
+        "name": "Bella Flamenco (Instrumental)",
+        "url": "https://open.spotify.com/album/4NWRl0FQFHXCLL0JqkzZto"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119786,
+      "name": "Bella Flamenco - Instrumental",
+      "url": "https://open.spotify.com/track/4PQCBSFIPnSnugh7QBGBtZ"
     },
     {
       "album": {

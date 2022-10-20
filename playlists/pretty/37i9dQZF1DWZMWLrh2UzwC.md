@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Louis Tomlinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,554 likes - 91 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,557 likes - 91 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Out of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
+| 1 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
 | 2 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 |
 | 3 | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR) | 3:15 |
 | 4 | [Take Me Back ft\. Yonnyboii](https://open.spotify.com/track/68Yc9ylRZZPtsuVgtrxcDj) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Take Me Back](https://open.spotify.com/album/22DduBRoSrDkcDF3i2ofNP) | 2:29 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 30 | [Make the change](https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Make the change](https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY) | 3:07 |
 | 31 | [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 |
 | 32 | [Call Me When You Need Me](https://open.spotify.com/track/5ow1lXQKUCoPIQ9clF9g8z) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Call Me When You Need Me](https://open.spotify.com/album/4p2hait2OvHjlJgr4UrBTb) | 2:20 |
-| 33 | [Baby With You](https://open.spotify.com/track/2heNhap3RajDNVhFmxyX9h) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You](https://open.spotify.com/album/6qD7rs3oWVjqe4EUysD8ij) | 3:33 |
+| 33 | [Baby With You](https://open.spotify.com/track/6PLFBH0Z09ErT8NIoFrs88) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You \- EP](https://open.spotify.com/album/7jiKefDNleILC263FaDE7L) | 3:33 |
 | 34 | [lie to me](https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [lovescene:](https://open.spotify.com/album/397oeXs5I2518sMkHL0C5j) | 2:40 |
 | 35 | [To The Moon And Back](https://open.spotify.com/track/5YeIAPfq56ceA3JV8hDKpH) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [To The Moon And Back](https://open.spotify.com/album/4BMLTlQ3CAY4beoL9S6LfB) | 3:31 |
 | 36 | [ur man](https://open.spotify.com/track/3NOdlt5KQFMc4uFu6HXBAm) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [ur man](https://open.spotify.com/album/4pABQnKGE9wLF4dpAfzzoz) | 3:42 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 90 | [dirty af1s](https://open.spotify.com/track/5QtkOcCpbMfcVjDkzlx9al) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [dirty af1s](https://open.spotify.com/album/1MR4kqZbbAYSojdJpqeyAb) | 3:27 |
 | 91 | [What If](https://open.spotify.com/track/4sEni2QRFyUqC5h2gw5WRN) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [What If](https://open.spotify.com/album/5W5JTrm3ZWu1IBNbx54mEe) | 5:21 |
 
-Snapshot ID: `MTY2NTk4Mzg4NSwwMDAwMDAwMDVlYjU4YTM5OGM2ZDVhMTc0YzEzODFkZDEwOWFkYjli`
+Snapshot ID: `MTY2NTk4Mzg4NSwwMDAwMDAwMGIwMDI3MzA3NmU1ZmU0MjY1NTUwMzhjMDAxMzcwYzc5`

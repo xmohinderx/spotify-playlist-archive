@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Kenny Mason",
-  "num_followers": 892297,
+  "num_followers": 892387,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3NDAwMCwwMDAwMDAwMGE5ZDk2YmVlYjY5NTJlNWQxMDcwMzE2ZTUwYWYwMjg5",
+  "snapshot_id": "MTY2NTc3NDAwMCwwMDAwMDAwMGIzODRlM2NjNWViZWYxMWEzYTFjNTliZWNmYmU3MDBi",
   "tracks": [
     {
       "added_at": "2022-10-14 19:00:00",
@@ -87,6 +87,22 @@
     {
       "added_at": "2022-10-14 19:00:00",
       "album": {
+        "name": "SIMPLE",
+        "url": "https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "SIMPLE",
+      "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
+    },
+    {
+      "added_at": "2022-10-14 19:00:00",
+      "album": {
         "name": "The Highs & The Lows",
         "url": "https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 255609,
       "name": "The Highs & The Lows",
       "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
-    },
-    {
-      "added_at": "2022-10-14 19:00:00",
-      "album": {
-        "name": "SIMPLE",
-        "url": "https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "SIMPLE",
-      "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
     },
     {
       "added_at": "2022-10-14 19:00:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2022-10-14 19:00:00",
       "album": {
+        "name": "Suicide",
+        "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 224937,
+      "name": "Suicide",
+      "url": "https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5"
+    },
+    {
+      "added_at": "2022-10-14 19:00:00",
+      "album": {
         "name": "29 (Freestyle)",
         "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
       },
@@ -511,22 +531,6 @@
       "duration_ms": 142282,
       "name": "29 (Freestyle)",
       "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
-    },
-    {
-      "added_at": "2022-10-14 19:00:00",
-      "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
     },
     {
       "added_at": "2022-10-14 19:00:00",
@@ -547,6 +551,22 @@
     {
       "added_at": "2022-10-14 19:00:00",
       "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 102397,
+      "name": "ROUND HERE (PART ONE)",
+      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
+    },
+    {
+      "added_at": "2022-10-14 19:00:00",
+      "album": {
         "name": "RUFFS",
         "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 166706,
       "name": "MINUTE FOREVER",
       "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
-    },
-    {
-      "added_at": "2022-10-14 19:00:00",
-      "album": {
-        "name": "Suicide",
-        "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 224937,
-      "name": "Suicide",
-      "url": "https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5"
     },
     {
       "added_at": "2022-10-14 19:00:00",
@@ -903,18 +903,22 @@
     {
       "added_at": "2022-10-14 19:00:00",
       "album": {
-        "name": "YAMI YUGI MOTO",
-        "url": "https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3"
+        "name": "$hook",
+        "url": "https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM"
       },
       "artists": [
         {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
         }
       ],
-      "duration_ms": 117600,
-      "name": "YAMI YUGI MOTO",
-      "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
+      "duration_ms": 148118,
+      "name": "lo$t kid.",
+      "url": "https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI"
     }
   ],
   "unique_name": "Alternative Hip-Hop",

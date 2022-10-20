@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 167734,
+  "num_followers": 167821,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDgwNWQxNzFkNDFkZDU5NjQ3NGY3MTI5MWRhOTBmYzQw",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDA4OGFhN2RkYWIyODlmMDc4MzYyMDY4ZmE4ZDQxYzQy",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Cognicide",
         "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 97266,
       "name": "Mailer, Meet Jim",
       "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
+      },
+      "artists": [
+        {
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Punk Rock Jukebox",
-        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law",
-          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "Somebody's Gonna Get Their Head Kicked In",
-      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Everything You Know",
         "url": "https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Punk Rock Jukebox",
+        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law",
+          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "Somebody's Gonna Get Their Head Kicked In",
+      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -619,18 +619,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
       },
       "artists": [
         {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+      "duration_ms": 189026,
+      "name": "Step Down",
+      "url": "https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "As Real As It Gets",
         "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 216600,
       "name": "Sworn Enemy",
       "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Scratch the Surface",
-        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Step Down",
-      "url": "https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0"
     },
     {
       "added_at": "2020-12-08 15:12:11",

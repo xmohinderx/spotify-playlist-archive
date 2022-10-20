@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-121 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
+122 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2022-07-01 |  |
 | [La force de comprendre](https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:46 | 2022-07-01 |  |
 | [Learn to Earn](https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg) | 3:48 | 2022-07-01 |  |
-| [Legal \- feat\. Alex Metcalf; Explicit](https://open.spotify.com/track/5BMHuTjHYqBHkiHRGLxVZb) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Alex Metcalf](https://open.spotify.com/artist/70C7fLnzdoySLNINbjL5Kx) | [Two Hands Clapping](https://open.spotify.com/album/5rqUzNvdPOyQOzOamX2Qnl) | 3:23 | 2022-07-01 |  |
+| [Legal \- feat\. Alex Metcalf; Explicit](https://open.spotify.com/track/5BMHuTjHYqBHkiHRGLxVZb) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Alex Metcalf](https://open.spotify.com/artist/70C7fLnzdoySLNINbjL5Kx) | [Two Hands Clapping](https://open.spotify.com/album/5rqUzNvdPOyQOzOamX2Qnl) | 3:23 | 2022-07-01 | 2022-10-20 |
 | [Let Me f/ KARDINAL OFFISHALL \- Radio Edit](https://open.spotify.com/track/21ufU0oFWoqQzOBcY58gLk) | [Melanie Durrant](https://open.spotify.com/artist/24ugOdZDzBvFLq5MGOZhGg), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Let Me](https://open.spotify.com/album/1D3SvZpse0qZ8CBiNtQvAj) | 3:40 | 2022-10-14 |  |
 | [Let Your Backbone Slide](https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC) | [Maestro](https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat) | [Urban Landmarks 1989\-2005 \(Explicit Version\)](https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6) | 4:59 | 2022-07-01 |  |
 | [Let's Ride](https://open.spotify.com/track/4xeCHrtDwf5QMRjNHSMukw) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 4:21 | 2022-07-01 |  |
@@ -102,6 +102,7 @@
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-07-01 |  |
 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 | 2022-07-01 | 2022-07-29 |
 | [Seven Day Fool](https://open.spotify.com/track/2PL3PBj9UUJzU3O3M85nIj) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/7fjR0khZYoo95oW4RtHOkg) | 3:25 | 2022-07-01 |  |
+| [Shook](https://open.spotify.com/track/0T4hkk9ZRabGrNhLfrsbii) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Shawn Desman](https://open.spotify.com/album/0LgImGjtNUnBfhItlG3wAw) | 3:32 | 2022-10-19 |  |
 | [Smile For Me](https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:22 | 2022-07-01 | 2022-07-29 |
 | [Smile for Me](https://open.spotify.com/track/4LyDqOK3iH791vvfiCOoEP) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/2CpA2pY3wtEp4VBRW15Zvz) | 4:22 | 2022-08-19 | 2022-09-17 |
 | [Smile For Me](https://open.spotify.com/track/4g3pq8WKIeXJF3ogSxjPt3) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/6SAaxSKtAf5ZQUEEs73l36) | 4:22 | 2022-07-01 | 2022-08-20 |

@@ -306,6 +306,24 @@
     },
     {
       "album": {
+        "name": "Alice In Wonderland",
+        "url": "https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244946,
+      "name": "Alice In Wonderland",
+      "url": "https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2"
+    },
+    {
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/4wd3MrBQdLzBLd6LqwhKX2"
       },
@@ -7371,7 +7389,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 303224,
       "name": "Tulip Summer",
       "url": "https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN"

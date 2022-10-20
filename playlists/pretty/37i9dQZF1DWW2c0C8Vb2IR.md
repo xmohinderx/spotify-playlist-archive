@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Grace Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,755 likes - 25 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,800 likes - 25 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

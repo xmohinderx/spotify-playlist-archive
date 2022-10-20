@@ -2328,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182681,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/6h3iuoFDWScrQZn3sy0tmA"
+    },
+    {
+      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP"
       },
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 180949,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW"

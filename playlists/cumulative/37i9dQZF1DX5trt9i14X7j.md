@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-142 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+144 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [8 Hours, Still No Rain \- Mixed](https://open.spotify.com/track/0PHMK9TRJasKOWELsdcyRC) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:14 | 2022-01-17 |  |
 | [Above It All](https://open.spotify.com/track/4BPjphA5WmmKaJk66jF3oB) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 2:11 | 2022-07-25 |  |
 | [Above It All](https://open.spotify.com/track/3uJhBCgvI4Gmkfoz7R5Be8) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 2:11 | 2021-12-08 | 2022-07-29 |
-| [Absent Minded in Berlin](https://open.spotify.com/track/5FZsLt0wUHvmoVdDjdRvBA) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Absent Minded in Berlin](https://open.spotify.com/album/3h3q4NDyH1VGvmy4TEkimk) | 5:11 | 2021-12-08 |  |
+| [Absent Minded in Berlin](https://open.spotify.com/track/1ErakKk3ypf8rp8N5UUrta) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 5:11 | 2022-09-16 |  |
+| [Absent Minded in Berlin](https://open.spotify.com/track/5FZsLt0wUHvmoVdDjdRvBA) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Absent Minded in Berlin](https://open.spotify.com/album/3h3q4NDyH1VGvmy4TEkimk) | 5:11 | 2021-12-08 | 2022-10-20 |
 | [Agile](https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Agile](https://open.spotify.com/album/5aaxGHW6MyyYF8TSjBeGyF) | 3:26 | 2021-12-08 |  |
 | [Alive](https://open.spotify.com/track/6grkrnX0IaNPz92hH8qDAt) | [Mansij](https://open.spotify.com/artist/5HJY6bwnId2sOzXwlcdRY5), [Max B Groove](https://open.spotify.com/artist/61d8OA4KyZ5NX3xDMPMLuL) | [Alive](https://open.spotify.com/album/6MVlc0SiEZNFEREstZWyGt) | 4:48 | 2021-12-08 |  |
 | [Alone in the World](https://open.spotify.com/track/5GrVyPPaSy9OksTkFOpdns) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Owls and Pinecones](https://open.spotify.com/album/04TS42w8CD2eLXL734HHsW) | 2:17 | 2021-12-08 |  |
@@ -68,7 +69,8 @@
 | [Free Fall](https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Twisty](https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX) | 6:56 | 2021-12-08 |  |
 | [Fresh Air](https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Fresh Air](https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok) | 2:55 | 2022-05-02 |  |
 | [Further Than Far](https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Further Than Far](https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX) | 2:48 | 2022-05-31 |  |
-| [Green Tea](https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77) | 1:15 | 2021-12-08 |  |
+| [Green Tea](https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77) | 1:15 | 2021-12-08 | 2022-10-20 |
+| [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 | 2022-09-16 |  |
 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 | 2021-12-08 |  |
 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 | 2022-07-25 |  |
 | [Happy Man](https://open.spotify.com/track/5nF6drlQTtXc5iThQoyONB) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:11 | 2021-12-08 | 2022-07-29 |

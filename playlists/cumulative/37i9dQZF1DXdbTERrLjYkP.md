@@ -4,14 +4,15 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-298 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+299 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-02-11 | 2022-09-03 |
 | [26](https://open.spotify.com/track/0zKy4AWNNcQkeb8z15tixl) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [26](https://open.spotify.com/album/02zFvHEB9r68XIMpGdKjZv) | 3:08 | 2022-06-03 | 2022-08-06 |
 | [8 Hours](https://open.spotify.com/track/33LB1jDEoWLlre9K8dTftW) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [8 Hours](https://open.spotify.com/album/3hxsVO5zA1zQOCItEBlV6x) | 3:23 | 2022-09-30 |  |
-| [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-07-01 |  |
+| [a little hope never hurt](https://open.spotify.com/track/1qtgowcQwcwESt4x8Sh7n0) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/2kjJqgKrV3igabvoaNnawt) | 2:30 | 2022-09-09 |  |
+| [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-07-01 | 2022-10-20 |
 | [A Little More](https://open.spotify.com/track/79Brj2zZ0x84BxnJZ2q5Wd) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [who?](https://open.spotify.com/album/6hJ2X3eSAb9aCeX0isGxl8) | 3:30 | 2022-08-05 |  |
 | [A song about a 14 hour drive](https://open.spotify.com/track/6DQo14uIZJpra7QYQqY165) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song about a 14 hour drive](https://open.spotify.com/album/3LMduFUb5BYbMTTgGWK4RK) | 3:14 | 2022-07-15 |  |
 | [A song I wrote after therapy](https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song I wrote after therapy](https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG) | 3:05 | 2022-06-24 | 2022-07-16 |

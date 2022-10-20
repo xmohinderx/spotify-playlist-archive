@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-453 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+454 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Oceans](https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Oceans \- EP](https://open.spotify.com/album/2tnJaZfDk3kqCpDzOTSUFi) | 3:36 | 2022-02-07 | 2022-04-21 |
 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 | 2022-02-07 |  |
 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 | 2021-12-15 | 2022-06-04 |
-| [Opposite Of Loving Me \- Stripped](https://open.spotify.com/track/4qMu6LIImRJVbxB70bdFJj) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Opposite Of Loving Me \(Stripped\)](https://open.spotify.com/album/5sRqlq0KIBgmkOUPB5W1Y9) | 3:31 | 2021-12-15 |  |
+| [Opposite Of Loving Me \- Stripped](https://open.spotify.com/track/4qMu6LIImRJVbxB70bdFJj) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Opposite Of Loving Me \(Stripped\)](https://open.spotify.com/album/5sRqlq0KIBgmkOUPB5W1Y9) | 3:31 | 2021-12-15 | 2022-10-20 |
 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 | 2021-12-15 |  |
 | [Over And Over Again](https://open.spotify.com/track/26h6qDR3KtieqIWgnveqmC) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 | 2022-07-01 | 2022-08-06 |
 | [Over And Over Again](https://open.spotify.com/track/1X6kxrjWVWiKMqulM8XZpj) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Over And Over Again](https://open.spotify.com/album/1IVuFM49EVxrSfn6AJZAn9) | 4:06 | 2021-12-15 | 2022-07-29 |
@@ -360,6 +360,7 @@
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2022-07-01 |  |
 | [sucks it hurts this bad \- stripped](https://open.spotify.com/track/4ieuTbuwnPymslJ0QCuBxW) | [Dirty White Shoes](https://open.spotify.com/artist/71KhQ0S5TeaVFCQgGIPhh3) | [sucks it hurts this bad \(stripped\)](https://open.spotify.com/album/40DLdkBT2r1QUDgy7HtSJl) | 3:14 | 2022-03-25 | 2022-04-07 |
 | [summer depression](https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r) | 2:31 | 2022-04-29 | 2022-10-13 |
+| [summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR) | 2:31 | 2022-09-30 |  |
 | [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2021-12-15 | 2022-07-25 |
 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 | 2022-08-05 |  |
 | [Superficial Love](https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [The Intro](https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8) | 3:27 | 2021-12-15 |  |

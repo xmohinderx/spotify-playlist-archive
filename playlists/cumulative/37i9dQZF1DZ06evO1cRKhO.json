@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 480498,
       "name": "Alchemilla",
       "url": "https://open.spotify.com/track/1i8eXEIk8cNAVpNSemiMub"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 123266,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/5bvxJ8sY9LsMo9qR0HfNoS"
@@ -886,6 +886,36 @@
     },
     {
       "album": {
+        "name": "Quartet for the End of Space",
+        "url": "https://open.spotify.com/album/1vvpBnmpzosVx8njXLSXq5"
+      },
+      "artists": [
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Francisco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 749986,
+      "name": "Mercury Retrograde",
+      "url": "https://open.spotify.com/track/2UdGIIppEzR9SBdRkUXCNN"
+    },
+    {
+      "album": {
         "name": "Reverberations: Tape & Electronic Music 1961-1970",
         "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
       },
@@ -951,7 +981,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 1048026,
       "name": "Mnemonics III",
       "url": "https://open.spotify.com/track/5x3P1G22nPQtkc29lkmW47"
@@ -1369,6 +1399,36 @@
       "duration_ms": 184720,
       "name": "Quartetto Telematico #2",
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 2)",
+        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        },
+        {
+          "name": "Chris Chafe",
+          "url": "https://open.spotify.com/artist/7nVIbVC1823oRcakpFbiWd"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221146,
+      "name": "Quartetto Telematico #3",
+      "url": "https://open.spotify.com/track/7etthEUmgR5cJD0Gm0dHW5"
     },
     {
       "album": {
@@ -1819,7 +1879,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 427607,
       "name": "Succisa Pratensis",
       "url": "https://open.spotify.com/track/6HkF93DbaFVQiG4n8x2Th5"

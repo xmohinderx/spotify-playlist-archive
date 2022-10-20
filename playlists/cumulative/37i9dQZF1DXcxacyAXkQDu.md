@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-776 songs - 1 day 22 hr 9 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+777 songs - 1 day 22 hr 12 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Lovely Weather](https://open.spotify.com/track/0bSsno2oGtfZZHSnuLZsGl) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/4H486vjhzhdNFu7cRWw7Ay) | 3:07 | 2022-03-25 | 2022-04-02 |
 | [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 | 2021-12-21 | 2022-03-03 |
 | [Low Beams](https://open.spotify.com/track/5tYqK9de9RC6PMKDaJvr4Q) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Long Game](https://open.spotify.com/album/1JEM6cvLIfeLtnphHFnQK4) | 2:35 | 2021-12-21 | 2022-07-21 |
+| [Low Beams](https://open.spotify.com/track/5uxABvfZB7XLBZpD4iQBqb) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Long Game](https://open.spotify.com/album/3GP1FwVwl9fq1G8Dm02Wwg) | 2:35 | 2022-10-07 |  |
 | [Lucky](https://open.spotify.com/track/0AnZrWo2TuUX5BnFjsoy3N) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 2:28 | 2022-07-08 |  |
 | [Lucky](https://open.spotify.com/track/78rFhTXf81WtRS7Ubl2f4V) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Lucky](https://open.spotify.com/album/6esPAZhJiXGKhByoXAHSEG) | 2:28 | 2021-12-21 | 2022-07-29 |
 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 | 2022-10-07 |  |
@@ -621,7 +622,7 @@
 | [Strangers](https://open.spotify.com/track/3q2T2qecCAnj7XlpUnLbBW) | [eliza elliott](https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq), [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [Strangers](https://open.spotify.com/album/3TKvUsHoRI6haq2QbHZsdK) | 3:29 | 2022-01-07 | 2022-10-08 |
 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 | 2022-01-07 |  |
 | [Summer Guest](https://open.spotify.com/track/2x4DW2FItY2bHdOvEm30kM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 3:44 | 2022-03-24 | 2022-04-20 |
-| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 |  |
+| [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 | 2022-03-24 | 2022-10-20 |
 | [Sunburn](https://open.spotify.com/track/0pgQVwI3EASJPbovhNC7Up) | [Badley](https://open.spotify.com/artist/2mnmAUiXWb5Xck3XvpU99C) | [Sunburn](https://open.spotify.com/album/0oXafULnvTaiFXCGs466Pm) | 3:39 | 2022-03-24 | 2022-03-27 |
 | [Sunlight](https://open.spotify.com/track/0RHeh77ZQtP5Q3IZIjwqPc) | [G Voz](https://open.spotify.com/artist/1J4opZ8obcxOkZ8w0z64BC) | [Rehad](https://open.spotify.com/album/4X7O8eRZUQdMFvUznYK3dr) | 3:45 | 2021-12-21 | 2022-07-27 |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-03-24 | 2022-04-01 |

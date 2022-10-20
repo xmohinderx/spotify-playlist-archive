@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Yvzid, Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Zamzam, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 50 | [Masquerading Crowd](https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP) | [Skeleton Crowd](https://open.spotify.com/artist/35q8gwzaxeJGQQImnaF0Fo) | [Molly Crapton](https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK) | 3:50 |
 | 51 | [Living Hell](https://open.spotify.com/track/15bKspAx2YSj1Ce0TdeVRH) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Living Hell](https://open.spotify.com/album/4gpNHmz52QOOfQzGvFGFNh) | 2:01 |
 
-Snapshot ID: `MTY2NjEzNzkxMywwMDAwMDAwMGM3YjY4MDhiZjk2OTQ4ODA3MzUxNDM5MjRjYjk5MDJj`
+Snapshot ID: `MTY2NjE2ODMxMywwMDAwMDAwMDIwNTNlZDMwZGNkMmYwNTIwYjI1YmVjZWRhZWRmNmE1`

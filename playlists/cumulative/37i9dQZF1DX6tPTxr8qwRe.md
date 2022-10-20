@@ -4,7 +4,7 @@
 
 > Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Maisie Peters
 
-275 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+276 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Ghost You](https://open.spotify.com/track/7pDhnvTXaAdsvpytclWlZh) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Ghost You](https://open.spotify.com/album/0OUBOSEeADHrbzedRIaWCC) | 3:09 | 2022-09-16 |  |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 |  |
 | [Girls Can Do Anything](https://open.spotify.com/track/6heGVcEj4wAyvdM9vg81kF) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Girls Can Do Anything](https://open.spotify.com/album/21ZOZVvKJtmGn4OjW8f3wW) | 2:54 | 2022-03-11 | 2022-04-16 |
+| [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-19 |  |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-02-04 | 2022-03-26 |
 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 | 2021-10-29 | 2022-05-20 |
 | [Golden Age](https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Golden Age](https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM) | 2:56 | 2022-07-15 |  |

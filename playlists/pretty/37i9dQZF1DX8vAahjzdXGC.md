@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,400 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,412 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 2 | [To The Moon And Back](https://open.spotify.com/track/5YeIAPfq56ceA3JV8hDKpH) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [To The Moon And Back](https://open.spotify.com/album/4BMLTlQ3CAY4beoL9S6LfB) | 3:31 |
 | 3 | [Sha La La](https://open.spotify.com/track/2oE4nQnV1D4PTZFoDw8JTF) | [Putih Abu\-Abu](https://open.spotify.com/artist/3yRNoZZuzU5TC7uwOxd7cL) | [Sha La La](https://open.spotify.com/album/15OsMcIup45YQk0TVp2AFn) | 3:31 |
-| 4 | [Out of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
+| 4 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
 | 5 | [Diam Diam Suka](https://open.spotify.com/track/0DGBFgaasBrNpIdITCco70) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Perjalanan Cinta](https://open.spotify.com/album/4fgSVPG9mSDZJRLTi28tlF) | 3:54 |
 | 6 | [Harusnya Bersama](https://open.spotify.com/track/6deBQHHBm3OE1UFO7AKaGD) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 3:53 |
 | 7 | [selamat pagi \(hey world\)](https://open.spotify.com/track/0DH22lwj8geJqRuFnLXoE6) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [selamat pagi \(hey world\)](https://open.spotify.com/album/3HA3EBcNzNRTXzFJ0IGcEG) | 3:59 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 35 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 36 | [Make the change](https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Make the change](https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY) | 3:07 |
 | 37 | [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 |
-| 38 | [Baby With You](https://open.spotify.com/track/2heNhap3RajDNVhFmxyX9h) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You](https://open.spotify.com/album/6qD7rs3oWVjqe4EUysD8ij) | 3:33 |
+| 38 | [Baby With You](https://open.spotify.com/track/6PLFBH0Z09ErT8NIoFrs88) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You \- EP](https://open.spotify.com/album/7jiKefDNleILC263FaDE7L) | 3:33 |
 | 39 | [lie to me](https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [lovescene:](https://open.spotify.com/album/397oeXs5I2518sMkHL0C5j) | 2:40 |
 | 40 | [Playing Around](https://open.spotify.com/track/1u4dJb0Xnl6B2txgNk5P2c) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Playing Around](https://open.spotify.com/album/7zLdtN7TW0SGaasMU6cZFT) | 2:38 |
 | 41 | [Don't Need You](https://open.spotify.com/track/6fPUNOgsI5BPQuu1LqjjS6) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk), [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [Everything In Between](https://open.spotify.com/album/1FuXu8THCvtATJaaMYLI5i) | 3:36 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 102 | [dirty af1s](https://open.spotify.com/track/5QtkOcCpbMfcVjDkzlx9al) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [dirty af1s](https://open.spotify.com/album/1MR4kqZbbAYSojdJpqeyAb) | 3:27 |
 | 103 | [What If](https://open.spotify.com/track/4sEni2QRFyUqC5h2gw5WRN) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [What If](https://open.spotify.com/album/5W5JTrm3ZWu1IBNbx54mEe) | 5:21 |
 
-Snapshot ID: `MTY2NTY4MTEzNCwwMDAwMDAwMDBjY2M4MzhkNDU4NDdjMGY5Mzc2OTdjMzM4MTQzYzFh`
+Snapshot ID: `MTY2NTY4MTEzNCwwMDAwMDAwMGRkZjFjYzBmNDcwZjVlMmEzMWExMDFhMjdlNmI3NDI1`

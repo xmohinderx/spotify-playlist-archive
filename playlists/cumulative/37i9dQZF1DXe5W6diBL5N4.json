@@ -5670,6 +5670,24 @@
     },
     {
       "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/73Qw2FLdzCRM6lCIbk9tSQ"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/3wNyk56POKvJWrFDVWJAEx"
+    },
+    {
+      "album": {
         "name": "BORI",
         "url": "https://open.spotify.com/album/7suhoqaBy32hejLAsXJYoK"
       },
@@ -22700,7 +22718,7 @@
     },
     {
       "album": {
-        "name": "It' dosen't matter",
+        "name": "It' doesn't matter",
         "url": "https://open.spotify.com/album/4o94RbJ8joa7ki3OXM4xPh"
       },
       "artists": [
@@ -30451,6 +30469,24 @@
     {
       "album": {
         "name": "1 (remake)",
+        "url": "https://open.spotify.com/album/6v52Mcn27P2gHLEehSTgsN"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "No One Told Me Why - remake",
+      "url": "https://open.spotify.com/track/4fiDxTFUk9UuYsu55Gz6oO"
+    },
+    {
+      "album": {
+        "name": "1 (remake)",
         "url": "https://open.spotify.com/album/50XoY4Y7yVE931Z5I6GPjB"
       },
       "artists": [
@@ -30461,7 +30497,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 228750,
       "name": "No One Told Me Why - remake",
       "url": "https://open.spotify.com/track/4pR5M0EvzQXEze0VdBoGx2"
@@ -32534,7 +32570,7 @@
       "artists": [
         {
           "name": "JENNA SUHL",
-          "url": "https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH"
+          "url": "https://open.spotify.com/artist/04oBqtAI20Od3heQFBowaH"
         }
       ],
       "date_added": "2022-10-18",
@@ -47904,28 +47940,6 @@
     },
     {
       "album": {
-        "name": "Will Be Okay (feat. JAEHA)",
-        "url": "https://open.spotify.com/album/6qPks2Lstt1AZBLhj0jgB8"
-      },
-      "artists": [
-        {
-          "name": "24Chill",
-          "url": "https://open.spotify.com/artist/3GKzw9LYtcks776Xxbls5D"
-        },
-        {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        }
-      ],
-      "date_added": "2022-09-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179666,
-      "name": "Will Be Okay (feat. JAEHA)",
-      "url": "https://open.spotify.com/track/0DqSn56qZYvrMgiggtUVzi"
-    },
-    {
-      "album": {
         "name": "Will I be able to love again?",
         "url": "https://open.spotify.com/album/08Yq9DdLCdxymYMKhqqvGN"
       },
@@ -49935,6 +49949,28 @@
       "duration_ms": 160862,
       "name": "\uac70\ub9ac",
       "url": "https://open.spotify.com/track/5jzH7zWPlCyzGT7jN6KJfG"
+    },
+    {
+      "album": {
+        "name": "\uac71\uc815 \ub9c8 (Will Be Okay) (feat. JAEHA)",
+        "url": "https://open.spotify.com/album/6qPks2Lstt1AZBLhj0jgB8"
+      },
+      "artists": [
+        {
+          "name": "24Chill",
+          "url": "https://open.spotify.com/artist/3GKzw9LYtcks776Xxbls5D"
+        },
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "\uac71\uc815 \ub9c8 (Will Be Okay) (feat. JAEHA)",
+      "url": "https://open.spotify.com/track/0DqSn56qZYvrMgiggtUVzi"
     },
     {
       "album": {

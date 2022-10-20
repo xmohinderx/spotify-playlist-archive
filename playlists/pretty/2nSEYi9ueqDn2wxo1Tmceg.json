@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78715,
+  "num_followers": 78714,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzU2Myw4NDZhN2U3MDc2M2Q2NjcxZjVmN2YwYTZkMDAyNmQxMTc0YjhjYWE4",
+  "snapshot_id": "MzU2NCw2ZGJiMTc4NjI2ZDBkMDZiOWM5NzAzMzQ0ZDZhOTIyMTVlODllMjEw",
   "tracks": [
     {
       "added_at": "2022-10-18 16:13:00",
@@ -23,6 +23,26 @@
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y"
+    },
+    {
+      "added_at": "2022-10-19 15:01:16",
+      "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
       "added_at": "2022-10-12 16:06:54",

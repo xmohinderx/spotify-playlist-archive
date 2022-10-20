@@ -4,7 +4,7 @@
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-185 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/3jiShlYwS71F3xKwdZ7drq)
+186 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/3jiShlYwS71F3xKwdZ7drq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Digno Es El Señor](https://open.spotify.com/track/2WUyN7XUCZ1Z6gePFM0MAH) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Ha Vencido, Ha Triunfado](https://open.spotify.com/album/4iP1T4MAgBd7l6XHexjQeP) | 6:01 | 2021-05-21 | 2022-07-29 |
 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 | 2021-05-21 | 2022-07-29 |
 | [Dios es Fiel](https://open.spotify.com/track/1QgpcpQd1GxZRIzJejtJup) | [Josue Del Cid](https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs) | [Mis Mejores Dias](https://open.spotify.com/album/5mv0Cc7bylChMnKv0vtItv) | 4:03 | 2021-05-21 | 2022-07-29 |
+| [Dios es Fiel](https://open.spotify.com/track/5JIaUt5IGH4zvGErRr91tv) | [Josue Del Cid](https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs) | [Mis Mejores Dias](https://open.spotify.com/album/5AIn52y4PZqfcfKAMJuJWx) | 4:03 | 2021-05-21 |  |
 | [Dios Es Poderoso \(God Is Able\)](https://open.spotify.com/track/56K53QX4tlStTlC5X33sLd) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Mi Lugar \(Live In Australia/2011\)](https://open.spotify.com/album/0Qrc4264bXNnDbJ4ASWUsZ) | 4:59 | 2021-05-21 | 2022-07-28 |
 | [El Cielo Gobierna](https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW) | 4:25 | 2021-05-21 | 2022-07-27 |
 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 | 2021-05-21 |  |
@@ -176,7 +177,7 @@
 | [Ven, Te Necesito](https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 5:43 | 2021-05-21 |  |
 | [Vida Encontré](https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida Encontré](https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e) | 3:35 | 2021-05-21 |  |
 | [Vida encontré](https://open.spotify.com/track/4ts1vpaLcmzKCOAclnkeqM) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida encontré](https://open.spotify.com/album/7eFRbzg1911WCCShZbR2Iq) | 3:35 | 2021-05-21 | 2022-07-29 |
-| [Viene De Ti](https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Viene De Ti](https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy) | 4:15 | 2021-05-21 |  |
+| [Viene De Ti](https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Viene De Ti](https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy) | 4:15 | 2021-05-21 | 2022-10-20 |
 | [Vives en Mí](https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS) | [Dorcas Cancel](https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vives en Mí](https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4) | 4:08 | 2021-05-21 | 2022-07-29 |
 | [Vives tú y vivo yo](https://open.spotify.com/track/5BqPdEdpNYFidl7AjMyz9c) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Regreso a Ti](https://open.spotify.com/album/1AwtSJ0RTTzQOSJhvaC9Dy) | 4:12 | 2021-05-21 | 2022-07-29 |
 | [Vives tú y vivo yo](https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Regreso a Ti](https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA) | 4:12 | 2021-05-21 |  |

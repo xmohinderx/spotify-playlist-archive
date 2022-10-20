@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-100 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
+101 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Crashed My Bike](https://open.spotify.com/track/4Kqa4GdRQux0hEXtHzfd6x) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/7txeejhG7IZECo9VLTNO8b) | 3:03 | 2021-10-26 | 2022-10-13 |
 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 | 2021-10-26 |  |
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2021-10-26 |  |
-| [December](https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD) | 4:32 | 2021-10-26 |  |
+| [December](https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG) | 4:32 | 2021-10-26 |  |
+| [December](https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD) | 4:32 | 2021-10-26 | 2022-10-20 |
 | [Don't You Forget It](https://open.spotify.com/track/1PzGdNHZ2w9L0lpiaklRYJ) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/4PIfaEqfAARIiWtgqk8AzG) | 3:04 | 2021-10-26 | 2022-07-29 |
 | [Don't You Forget It](https://open.spotify.com/track/3niZUlDdEFvir3HKdgdhsC) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:04 | 2021-10-26 |  |
 | [Down the River](https://open.spotify.com/track/5yZKbsxGXIkcHsu18qoiVX) | [Lord Cobra](https://open.spotify.com/artist/594DYT1aiPPrHBCOAs8c3t) | [Lord Cobra and the Caribbean Boys](https://open.spotify.com/album/6SOICPZu3czgwWCGvIKNC9) | 3:17 | 2021-10-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 417246,
+  "num_followers": 417334,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDM3ZWU3NTM2NWE4ZjIwZGNjNWE4YTI0NTMzNjdjMjNi",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGI4ZjMxNmFhNTAwNGYwNzRiZTNjNjA1NjQ4ZmYxMmQ1",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 354360,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Spinning the Truth Around",
-        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
-      },
-      "artists": [
-        {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
-        }
-      ],
-      "duration_ms": 289165,
-      "name": "Spinning the Truth Around",
-      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Spinning the Truth Around",
+        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "duration_ms": 289165,
+      "name": "Spinning the Truth Around",
+      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
       "artists": [
         {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1059,6 +1059,22 @@
       "duration_ms": 232360,
       "name": "Graveyard Whistling",
       "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221039,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "The Palms",
-          "url": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 230738,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
+      "duration_ms": 155000,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 251872,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
+      },
+      "artists": [
+        {
+          "name": "The Palms",
+          "url": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X"
+        }
+      ],
+      "duration_ms": 230738,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "Hello Sunshine",
+        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 225038,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Young Blood EP",
         "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 157546,
       "name": "As We Are Now",
       "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Hello Sunshine",
-        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
       },
       "artists": [
         {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
         }
       ],
-      "duration_ms": 225038,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/6B79nTDPvYv9apEMexlJg2"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 227121,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/35WUQVTAFS9mLNynSnRsAR"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ"
+      },
+      "artists": [
+        {
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "I Remember Way Too Much (Acoustic Version)",
         "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 222540,
       "name": "I Remember Way Too Much - Acoustic Version",
       "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "curse",
-        "url": "https://open.spotify.com/album/6SVaiKpRO5hGm4jsTc97yD"
-      },
-      "artists": [
-        {
-          "name": "Koda",
-          "url": "https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu"
-        }
-      ],
-      "duration_ms": 250442,
-      "name": "curse",
-      "url": "https://open.spotify.com/track/5eaxSM7DuDkyphGZpoejU7"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ"
-      },
-      "artists": [
-        {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "King",
-      "url": "https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 214230,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Minimum Wage",
+        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 196512,
+      "name": "Minimum Wage",
+      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
     }
   ],
   "unique_name": "License To Chill",

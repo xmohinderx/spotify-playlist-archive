@@ -355,7 +355,7 @@
     {
       "album": {
         "name": "Hook",
-        "url": "https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD"
+        "url": "https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG"
       },
       "artists": [
         {
@@ -366,6 +366,24 @@
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 272863,
+      "name": "December",
+      "url": "https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj"
+    },
+    {
+      "album": {
+        "name": "Hook",
+        "url": "https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD"
+      },
+      "artists": [
+        {
+          "name": "Killimanjaro",
+          "url": "https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
       "duration_ms": 272863,
       "name": "December",
       "url": "https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM"

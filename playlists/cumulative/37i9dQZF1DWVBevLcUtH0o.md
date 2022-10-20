@@ -4,7 +4,7 @@
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-52 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/0nS20VBWOXRuUexzH8mtkB)
+53 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/0nS20VBWOXRuUexzH8mtkB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Pipe Dreams](https://open.spotify.com/track/3M1k06D4fyXXfcaYQmrQLW) | [Corey Paul](https://open.spotify.com/artist/25ksFneQI7WRWIerxd8eg0) | [Pipe Dreams](https://open.spotify.com/album/1KrOSfFCqCX0Tgs1fOcamC) | 3:17 | 2021-03-27 |  |
 | [Real Live Forever](https://open.spotify.com/track/2WIqaP1lHdbZVOvF9xjaS9) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Ricky Rock](https://open.spotify.com/artist/00lyeELVpQUvo5F1XAs4zO) | [Against All Odds](https://open.spotify.com/album/2WVzFW26x6ko1lTrPof1Nu) | 5:06 | 2021-03-27 |  |
 | [Shots Fired](https://open.spotify.com/track/4LuZ1udBrza9sB2k1ngSKO) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Praise and Protest](https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175) | 3:47 | 2021-03-27 |  |
-| [Stay True](https://open.spotify.com/track/4wn7GmTwrC4mHrmMNyTm6O) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Stay True](https://open.spotify.com/album/2M5xQAbyUlm4c7wP1kcUhP) | 2:48 | 2021-03-27 |  |
+| [Stay True](https://open.spotify.com/track/0KBaiSc0218RRst1HztFaH) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Stay True](https://open.spotify.com/album/5XqqJYyTGwtp6IulyQWPJ0) | 2:48 | 2021-03-27 |  |
+| [Stay True](https://open.spotify.com/track/4wn7GmTwrC4mHrmMNyTm6O) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Stay True](https://open.spotify.com/album/2M5xQAbyUlm4c7wP1kcUhP) | 2:48 | 2021-03-27 | 2022-10-20 |
 | [Still I Rise](https://open.spotify.com/track/6WSavfCnyu9SXbXniwtUA4) | [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Still I Rise](https://open.spotify.com/album/41K0FEe1SDWF5hiGLl6Duy) | 2:53 | 2021-03-27 |  |
 | [The Hold](https://open.spotify.com/track/3ysatBDUlwvMQP5pXGKxEC) | [Armond Wakeup](https://open.spotify.com/artist/5e8WZ20kXHGdDe6iNlogGx) | [40 Days](https://open.spotify.com/album/2pUaUBTx4AfURNqth8wtax) | 3:31 | 2021-03-27 |  |
 | [The Solution](https://open.spotify.com/track/4m2H8u1tXCqgrJFCIPL67U) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [The Art of Joy](https://open.spotify.com/album/5onYnoS1ziFOeS97mNukM9) | 6:50 | 2021-03-27 |  |

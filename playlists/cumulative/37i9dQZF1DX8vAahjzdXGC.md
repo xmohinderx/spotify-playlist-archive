@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The 1975
 
-13,494 songs - 32 day 6 hr 16 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+13,495 songs - 32 day 6 hr 19 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,7 +881,8 @@
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2020-08-21 | 2020-08-30 |
 | [Baby Mama](https://open.spotify.com/track/00tIEAsYeasWTYPninHzNM) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Baby Mama](https://open.spotify.com/album/7rCd4Fr07qYwEZ7h1RY3I4) | 3:10 | 2021-11-05 | 2021-11-12 |
 | [Baby Try](https://open.spotify.com/track/2wL4SzJ0yyrrrHXTgOJsCr) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [Baby Try](https://open.spotify.com/album/5S13hTVwKRVppq4SALiyn8) | 2:54 | 2022-05-26 | 2022-06-03 |
-| [Baby With You](https://open.spotify.com/track/2heNhap3RajDNVhFmxyX9h) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You](https://open.spotify.com/album/6qD7rs3oWVjqe4EUysD8ij) | 3:33 | 2022-10-13 |  |
+| [Baby With You](https://open.spotify.com/track/2heNhap3RajDNVhFmxyX9h) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You](https://open.spotify.com/album/6qD7rs3oWVjqe4EUysD8ij) | 3:33 | 2022-10-13 | 2022-10-20 |
+| [Baby With You](https://open.spotify.com/track/6PLFBH0Z09ErT8NIoFrs88) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [EVY](https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe) | [Baby With You \- EP](https://open.spotify.com/album/7jiKefDNleILC263FaDE7L) | 3:33 | 2022-10-13 |  |
 | [Baby, I Love You](https://open.spotify.com/track/7ueXGlkKDCxxXQOtin6cMr) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Baby, I Love You](https://open.spotify.com/album/34CxmjrcNwqRGarEAsNynm) | 3:43 | 2020-11-06 | 2020-11-13 |
 | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Baby, I'm Jealous \(feat\. Doja Cat\)](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) | 2:55 | 2020-10-09 | 2020-10-16 |
 | [Baby...](https://open.spotify.com/track/3LmJ1n9BnLS1dHXl1QRDkt) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Baby...](https://open.spotify.com/album/6cQ3rKReQqlvpeqfdI2sSH) | 3:31 | 2021-09-03 | 2021-09-10 |
@@ -8623,7 +8624,7 @@
 | [Out of line](https://open.spotify.com/track/7H4ag05WWtYsv9PzgmABeg) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3) | [Out of line](https://open.spotify.com/album/6Iod0eNeoNrDvgIXDYWHym) | 3:07 | 2022-08-11 | 2022-08-19 |
 | [Out Of Love \(feat\. Internet Money\)](https://open.spotify.com/track/7rTzrRdc5UbvLr0gwI1J3E) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Out Of Love](https://open.spotify.com/album/6qaOikT5W6WkycORzruWdE) | 2:33 | 2020-04-18 | 2020-04-24 |
 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-12 | 2022-05-20 |
-| [Out of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2022-10-13 |  |
+| [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2022-10-13 |  |
 | [Out Of My Way](https://open.spotify.com/track/62tz6SFL395514c4ZXCnQa) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Out Of My Way](https://open.spotify.com/album/4jz1nR0RuhDXZQJztdPDa9) | 3:28 | 2020-04-16 | 2020-04-24 |
 | [Out of Ordinary](https://open.spotify.com/track/4TcUrupOgbkEf6J4dGRWZY) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Out of Ordinary](https://open.spotify.com/album/2rWCWeMNHjp0GiFXJFCsX6) | 3:00 | 2021-02-06 | 2021-02-12 |
 | [Out of the Blue](https://open.spotify.com/track/3fEIHWNPl6XS6G5HuQ6jpc) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Out of the Blue](https://open.spotify.com/album/7DFeuBHmb53FSm1Q9drvn5) | 3:17 | 2020-10-02 | 2020-10-09 |

@@ -1949,6 +1949,32 @@
     {
       "album": {
         "name": "Detail",
+        "url": "https://open.spotify.com/album/4SCWjB4fAYHL70dQmTy0Mu"
+      },
+      "artists": [
+        {
+          "name": "Akaal",
+          "url": "https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn"
+        },
+        {
+          "name": "Akash Jandu",
+          "url": "https://open.spotify.com/artist/2D6IROV04QKexvp3E12ZEA"
+        },
+        {
+          "name": "Kamal Longowal",
+          "url": "https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143177,
+      "name": "Detail",
+      "url": "https://open.spotify.com/track/3EugNj4xYj1PwqbYTqw9GE"
+    },
+    {
+      "album": {
+        "name": "Detail",
         "url": "https://open.spotify.com/album/5cq2347ktrWBRdHbE6dmBg"
       },
       "artists": [
@@ -1963,7 +1989,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 143090,
       "name": "Detail",
       "url": "https://open.spotify.com/track/7qzSJVrqOpl8rLXqAdTCOU"

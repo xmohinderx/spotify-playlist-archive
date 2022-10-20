@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-103 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
+104 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bacon Pancakes](https://open.spotify.com/track/7IKTj7a5gYLMH1Be2LsQ7y) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [John DiMaggio](https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53) | [Adventure Time, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/64iqVLe6KbjEvg6TUQKZ7o) | 0:33 | 2022-04-15 | 2022-07-28 |
 | [Bacon Pancakes \(feat\. John DiMaggio\)](https://open.spotify.com/track/3CT99LPgxJ52AQse2LPi2U) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [John DiMaggio](https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53) | [Adventure Time, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/7irFTapPhttGWfJxgaH9pW) | 0:33 | 2022-04-15 |  |
 | [Barbie Dreamhouse Adventures Theme Song](https://open.spotify.com/track/3cD5x5Y7ia2Kr9A46tlo82) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie Dreamhouse Adventures Theme Song](https://open.spotify.com/album/3g3haWnvgJVPcNEphO4uiV) | 2:01 | 2022-04-15 |  |
-| [Bartleby Finnegan](https://open.spotify.com/track/05iojOqYgGy4SU89O5paby) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [True Tunes](https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ) | 2:26 | 2022-04-15 |  |
+| [Bartleby Finnegan](https://open.spotify.com/track/05iojOqYgGy4SU89O5paby) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [True Tunes](https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ) | 2:26 | 2022-04-15 | 2022-10-20 |
 | [Better Together](https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:18 | 2022-04-15 |  |
 | [Bikes Are Fun](https://open.spotify.com/track/26o1vonuhyw3zKnBgjtCZt) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF) | [Summer Games Superstars](https://open.spotify.com/album/2MCnAy0jbVZxosjGKiZxXE) | 3:52 | 2022-04-15 | 2022-07-25 |
 | [Blaze and the Monster Machines Theme Song](https://open.spotify.com/track/1GzfnrqhJFsm2UK7dHRCea) | [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin' Ride\-Along Songs](https://open.spotify.com/album/6gQCF7uOLmdFvqopFRVvIS) | 0:31 | 2022-04-15 |  |
@@ -90,6 +90,7 @@
 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 | 2022-04-15 |  |
 | [The Bha Bha Song \- We Baby Bears Theme](https://open.spotify.com/track/4V8udbNRFRxdMOpAt9XhY8) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [The Bha Bha Song \(We Baby Bears Theme\)](https://open.spotify.com/album/6lzpOh8pKR7SQ9Vq5NHzUV) | 2:45 | 2022-04-15 | 2022-10-18 |
 | [The Casagrandes Theme Song](https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb) | [The Casagrandes](https://open.spotify.com/artist/6mZmc5IDtEr4QLHFDdV9pa), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Casagrandes Theme Song](https://open.spotify.com/album/4n3HX545ECl7YtcGJf6BCb) | 1:22 | 2022-04-15 | 2022-10-14 |
+| [The Loud House Theme Song](https://open.spotify.com/track/0iEy24BTc5pGIQxnDlSr8R) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Theme & End Credit](https://open.spotify.com/album/0DFvGS0XT58ZXHXGghIawV) | 1:20 | 2022-04-15 |  |
 | [The Loud House Theme Song](https://open.spotify.com/track/3lpc0zUmr89UthmpDAycG6) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Theme & End Credit](https://open.spotify.com/album/2etegCiek9WKyF9GtkrNAw) | 1:20 | 2022-04-15 | 2022-10-14 |
 | [The Muppet Show Theme](https://open.spotify.com/track/2fFnUnsRZ11zSqJoZalmxq) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu), [Joanna Newsom](https://open.spotify.com/artist/4gn6f5jaOO75s0oF7ozqGG) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 0:50 | 2022-04-15 |  |
 | [The Patrick Star Show Theme Song](https://open.spotify.com/track/4GvT1kcqDLztVAkyeRRWEh) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [The Patrick Star Show Cast](https://open.spotify.com/artist/1R5nP9VoX1Q3iQ541QVUWX) | [Nickelodeon's Mega Music Fest Album](https://open.spotify.com/album/1yeIcnhsGdCpj1jb8cJqgI) | 0:33 | 2022-04-15 | 2022-07-29 |

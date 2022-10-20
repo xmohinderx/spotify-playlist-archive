@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 190549,
       "name": "Before It's Over",
       "url": "https://open.spotify.com/track/5LnOtXW4jm8hlkMTkB0X4O"
@@ -2821,6 +2821,28 @@
       "duration_ms": 272584,
       "name": "Inside Story",
       "url": "https://open.spotify.com/track/6RlOErsYeuuCFXYyrzX5gy"
+    },
+    {
+      "album": {
+        "name": "By Nights",
+        "url": "https://open.spotify.com/album/49fB4UB3t4X8D21LTGTkqa"
+      },
+      "artists": [
+        {
+          "name": "Yogisoul",
+          "url": "https://open.spotify.com/artist/5xKsyOnA918Jvy4FyqOPMm"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/0OYFaHBEW8Rk2q6ejmXaUg"
     },
     {
       "album": {

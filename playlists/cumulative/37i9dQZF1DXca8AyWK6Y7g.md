@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: Madison Beer
 
-1,337 songs - 2 day 20 hr 46 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,338 songs - 2 day 20 hr 50 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 |  |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 |  |
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-18 | 2022-07-16 |
+| [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-20 |  |
 | [Give a Little](https://open.spotify.com/track/4Olmtbo092fUn6jxcJnirS) | [Joseph Tilley](https://open.spotify.com/artist/12knc5DPOIJKd0qEeYaDVm) | [Give a Little](https://open.spotify.com/album/23LpH8EZfbM6xt7jsZvr73) | 2:04 | 2021-11-19 | 2022-01-15 |
 | [Give A Little](https://open.spotify.com/track/4za2QYGfHlYml23pChrpXO) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Give A Little](https://open.spotify.com/album/6ZjnIplQKKNGlbGX589VG6) | 3:45 | 2019-06-15 | 2020-02-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-01-25 | 2022-07-02 |
@@ -966,7 +967,7 @@
 | [Routine](https://open.spotify.com/track/7aIhTwqikfUfxAO4oQn69H) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Routine](https://open.spotify.com/album/1Tcs9eaYklWGY4WFdJwyek) | 3:11 | 2020-04-28 | 2020-11-13 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |
-| [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-18 |  |
+| [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-18 | 2022-10-20 |
 | [Run & Hide](https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Run & Hide](https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq) | 3:00 | 2022-05-06 | 2022-10-06 |
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-10-08 | 2022-01-08 |
 | [Run Out](https://open.spotify.com/track/5sjeYIsN6g6WE65vUmpCs6) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [Run Out](https://open.spotify.com/album/0mQf45gp7DrD5EteWXm7Ic) | 2:46 | 2021-09-17 | 2021-11-14 |

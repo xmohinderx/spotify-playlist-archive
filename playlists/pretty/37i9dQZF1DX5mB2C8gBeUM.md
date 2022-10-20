@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,311 likes - 159 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,560 likes - 159 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 27 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
 | 28 | [Only You Know](https://open.spotify.com/track/3FF4N3ejeGSgKjdSpxj2V2) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Circles](https://open.spotify.com/album/6g8hZhslOG1kBE6I4HUImR) | 3:08 |
 | 29 | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/track/3dZVJDoJ5SDWQ9aVbJcmK3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/album/25cMnMKe0DwR4i60VNJVhe) | 3:05 |
-| 30 | [Clap Yo Hands](https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Nitty Gritty GR](https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N), [Pa Pa Fresh](https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY) | [Clap Yo Hands](https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S) | 3:12 |
+| 30 | [Clap Yo Hands](https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Nitty Gritty GR](https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N), [Pa Pa Fresh](https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY) | [Clap Yo Hands](https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S) | 2:41 |
 | 31 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 |
 | 32 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
 | 33 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 |

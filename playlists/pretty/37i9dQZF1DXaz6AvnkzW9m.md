@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Fuerza Regida & Snoop Dogg en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,176 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,265 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 64 | [Hago Lo Que Quiero](https://open.spotify.com/track/0A7EQRUzKago08tYnnXC19) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 3:23 |
 | 65 | [Se Siente Fuego \(El Canelo\)](https://open.spotify.com/track/7htlyo49y5j0fOWlVbB10U) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Se Siente Fuego \(El Canelo\)](https://open.spotify.com/album/1Hk20C6ntgDwLPBGL9ETHD) | 2:42 |
 | 66 | [2 vidas](https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk) | [Compa Missa](https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [2 vidas](https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4) | 3:31 |
-| 67 | [Estilo Irak](https://open.spotify.com/track/384Y0IlpEu4kcLHe30DlXX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Estilo Irak](https://open.spotify.com/album/3FfJJnpmOzkyb0IHtsEp5X) | 3:11 |
-| 68 | [Aquí Seguimos](https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Aquí Seguimos](https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH) | 3:29 |
+| 67 | [Aquí Seguimos](https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Aquí Seguimos](https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH) | 3:29 |
+| 68 | [Estilo Irak](https://open.spotify.com/track/384Y0IlpEu4kcLHe30DlXX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Estilo Irak](https://open.spotify.com/album/3FfJJnpmOzkyb0IHtsEp5X) | 3:11 |
 | 69 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
 | 70 | [Relojito Adiamantado](https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Relojito Adiamantado](https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm) | 2:58 |
 | 71 | [Revelaciones de un Cholo \- En Vivo](https://open.spotify.com/track/6fuAvwRTKeAVFf5D9O9yF1) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [El Leon](https://open.spotify.com/track/0STQWyHEs8KGEphskbvNhG) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Leon](https://open.spotify.com/album/3R3anCeS43apevQ5QMJkeZ) | 2:07 |
 | 75 | [Conexión Jalisco](https://open.spotify.com/track/4Efuy6w8IowYUirlwm7zIy) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Basado En Hechos Reales](https://open.spotify.com/album/3PxXtDVhMYpvFnD7gULBXr) | 3:29 |
 
-Snapshot ID: `MTY2NTAxMDY1NCwwMDAwMDAwMDc5OGVjMTk3N2M1NmFkZWFhMTIzNzc4NjBkMzY5ZGNl`
+Snapshot ID: `MTY2NTAxMDY1NCwwMDAwMDAwMGRjNWI5OGEzMWEwMDM0MjZkMjE1ODEwZTBiYmJlMzdj`

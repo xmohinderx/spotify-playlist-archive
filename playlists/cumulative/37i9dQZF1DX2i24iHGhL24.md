@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Lewis Capaldi
 
-334 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+335 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [My All](https://open.spotify.com/track/35CoDqsVF0P2w8Lgir7wrs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [My All](https://open.spotify.com/album/4udtcIAttKDLjbwVdpRFbg) | 2:31 | 2022-01-07 |  |
 | [my future](https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:11 | 2021-12-17 | 2022-05-02 |
 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 | 2021-12-17 |  |
-| [Night Changes](https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Night Changes](https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk) | 3:45 | 2021-12-17 |  |
+| [Night Changes](https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Night Changes](https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk) | 3:45 | 2021-12-17 | 2022-10-20 |
+| [Night Changes](https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Night Changes](https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va) | 3:45 | 2022-09-23 |  |
 | [No Letting Go \- Acoustic](https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO) | [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [No Letting Go](https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7) | 3:20 | 2021-12-17 |  |
 | [Normal \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:31 | 2021-12-17 | 2022-05-02 |
 | [Not Over You \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 3:35 | 2021-12-17 | 2022-05-02 |

@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-155 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+156 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 | 2021-12-12 |  |
 | [Christmas Valentine](https://open.spotify.com/track/5KenUsmrGeU2qscgE9ZHgD) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Christmas Valentine](https://open.spotify.com/album/2MDxf6SFK0bNfFU3by4DH2) | 3:07 | 2021-12-12 |  |
 | [Christmas With You](https://open.spotify.com/track/46Uone4mIG2wQDMKtqYM9Y) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Christmas With You](https://open.spotify.com/album/56TX3aCqsIqIvHnYQK0GlF) | 2:29 | 2021-12-12 |  |
-| [Christmas Without You](https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:15 | 2021-12-12 |  |
+| [Christmas Without You](https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:15 | 2021-12-12 | 2022-10-20 |
+| [Christmas Without You](https://open.spotify.com/track/2s3Hr38fRfDRj9JWVP494L) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 3:17 | 2021-12-12 |  |
 | [Christmas Without You](https://open.spotify.com/track/4gWpUjTbcwASiRVkJM319B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Christmas Without You](https://open.spotify.com/album/0a0KVX4qdIea6J0JdVHc6J) | 3:17 | 2021-12-12 | 2022-07-29 |
 | [Christmas Without You](https://open.spotify.com/track/6kwe0qcztFn7R6EHLK7YdE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/3LPghlMCICkwGHz3ab7U8R) | 3:17 | 2021-12-12 | 2022-08-22 |
 | [Christmas, Happy You're Here](https://open.spotify.com/track/4n0iOA2fGNebHsw5j0qkxt) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Christmas, Happy You're Here](https://open.spotify.com/album/6onFhhU1mQ8mvEfuWeY6op) | 3:19 | 2021-12-12 | 2022-07-29 |

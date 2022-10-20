@@ -1,13 +1,77 @@
 {
-  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Anti Da Menace",
-  "num_followers": 190118,
+  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Dom Corleo",
+  "num_followers": 190241,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNDkzMSwwMDAwMDAwMGRlM2QyMWY0MmQ1ZDcwNzlkNTJkYWU2MDI1Yjk1MWQ5",
+  "snapshot_id": "MTY2NjE4OTQ5MywwMDAwMDAwMGNkOGY2OWYzMjFjNmMzNjU1ZTQ1ODNmNWU1YzhkM2Nh",
   "tracks": [
+    {
+      "added_at": "2022-10-19 14:24:53",
+      "album": {
+        "name": "Penthouse Shordy",
+        "url": "https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        }
+      ],
+      "duration_ms": 126615,
+      "name": "Penthouse Shordy",
+      "url": "https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv"
+    },
+    {
+      "added_at": "2022-10-19 14:24:53",
+      "album": {
+        "name": "Youngest IN Motion 3",
+        "url": "https://open.spotify.com/album/3ybprcgjxU6gE91Todd5cs"
+      },
+      "artists": [
+        {
+          "name": "D30",
+          "url": "https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40"
+        }
+      ],
+      "duration_ms": 124081,
+      "name": "Having Motion",
+      "url": "https://open.spotify.com/track/6FjEFQVT9XPZeMrDtftNZA"
+    },
+    {
+      "added_at": "2022-10-19 14:24:53",
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G"
+    },
+    {
+      "added_at": "2022-10-05 16:00:00",
+      "album": {
+        "name": "Face no Book",
+        "url": "https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Face no Book",
+      "url": "https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2"
+    },
     {
       "added_at": "2022-10-13 23:48:51",
       "album": {
@@ -39,6 +103,22 @@
       "duration_ms": 150836,
       "name": "Vanish",
       "url": "https://open.spotify.com/track/3WS7XmqLWy2CEXLLABVsDc"
+    },
+    {
+      "added_at": "2022-10-19 14:24:53",
+      "album": {
+        "name": "Computer Murderers Freestyle",
+        "url": "https://open.spotify.com/album/33y9p7eMcYRe1YyPNmY6U1"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "duration_ms": 89048,
+      "name": "Computer Murderers Freestyle",
+      "url": "https://open.spotify.com/track/0jEqjXnyV0sWUyuDISh65V"
     },
     {
       "added_at": "2022-10-05 16:00:00",
@@ -75,22 +155,6 @@
       "duration_ms": 145176,
       "name": "Afford Me",
       "url": "https://open.spotify.com/track/2VQdQiDLCq9uMQjCllT1LQ"
-    },
-    {
-      "added_at": "2022-10-05 16:00:00",
-      "album": {
-        "name": "Face no Book",
-        "url": "https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        }
-      ],
-      "duration_ms": 145057,
-      "name": "Face no Book",
-      "url": "https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2"
     },
     {
       "added_at": "2022-10-05 16:00:00",
@@ -783,78 +847,6 @@
       "duration_ms": 110746,
       "name": "2 the Max",
       "url": "https://open.spotify.com/track/4N9pAupgXexImJ5Vgv1kFz"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/1o0BBYB1LKAj6IFpuoxEK3"
-      },
-      "artists": [
-        {
-          "name": "Kansh",
-          "url": "https://open.spotify.com/artist/5NhfYdxgkSTb0OIStFPR1Z"
-        }
-      ],
-      "duration_ms": 178321,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/2EAWI4rpdfx6xSESkBevGB"
-    },
-    {
-      "added_at": "2022-09-14 17:38:35",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/1DghW2PUPcadek7nZ55CGI"
-      },
-      "artists": [
-        {
-          "name": "Lesthegenius",
-          "url": "https://open.spotify.com/artist/3wKAIyjuwRFiih5lsaWwsn"
-        }
-      ],
-      "duration_ms": 120558,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/6C2lD6l3GwZse1WGYs0WrD"
-    },
-    {
-      "added_at": "2022-09-14 17:38:35",
-      "album": {
-        "name": "again",
-        "url": "https://open.spotify.com/album/04wPO7Msp8KBdcFqin4fL7"
-      },
-      "artists": [
-        {
-          "name": "Danny Chaska",
-          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
-        },
-        {
-          "name": "Hal Shallo",
-          "url": "https://open.spotify.com/artist/0rZUJiBOjZE1o9f3vXBGEL"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "again",
-      "url": "https://open.spotify.com/track/2cJJhsDT8jqVT5hsBSHfVc"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Ziploc",
-        "url": "https://open.spotify.com/album/6JedRAOLDmKcVcqGS6Zc2O"
-      },
-      "artists": [
-        {
-          "name": "Dot Cromwell",
-          "url": "https://open.spotify.com/artist/0hdfJGPr62ZDCTakn4tWa0"
-        },
-        {
-          "name": "BARii",
-          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
-        }
-      ],
-      "duration_ms": 190231,
-      "name": "Ziploc",
-      "url": "https://open.spotify.com/track/3enOaywliYFULGbAWiSaHH"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

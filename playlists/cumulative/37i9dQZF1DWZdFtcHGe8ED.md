@@ -4,11 +4,12 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-353 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+354 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 |  |
+| [112](https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 3:49 | 2022-09-09 |  |
+| [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 | 2022-10-20 |
 | [66 Exeter Street](https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Exiled To The Surface](https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT) | 4:09 | 2022-07-08 | 2022-08-09 |
 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 | 2021-12-17 |  |
 | [666Teen](https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 2:56 | 2021-12-17 |  |
@@ -228,7 +229,7 @@
 | [Path of Discipline](https://open.spotify.com/track/7ek4uZo41eieLg4e9zYPcX) | [Red Death](https://open.spotify.com/artist/1uBhFijojfN4nXW4huTJ4r) | [Sickness Divine](https://open.spotify.com/album/5o517FcrGcBgyYPPcGWa30) | 3:39 | 2021-12-17 | 2022-07-16 |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(25th Anniversary\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2022-07-13 |  |
 | [Perpetual Blood Oath](https://open.spotify.com/track/1uH1Vkb8bPqgHVdXUMm9Zl) | [Protector](https://open.spotify.com/artist/4LfucwWOrS5NHbgxwtYbH3) | [Excessive Outburst of Depravity](https://open.spotify.com/album/1rRn36ZY7U5Phm8u3854d7) | 4:13 | 2022-07-01 | 2022-07-05 |
-| [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 | 2022-09-09 | 2022-10-11 |
+| [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 | 2022-09-09 |  |
 | [Perpetual Chaos](https://open.spotify.com/track/5Qk5KU60bM84nUt7kyyMPG) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2DJTZaqrWVPoIRgWtMTgPy) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 | 2021-12-17 | 2022-07-29 |
 | [Phantom Graves](https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe) | [Accuser](https://open.spotify.com/artist/5QCQHF5hJbsMFtE4dY0Ifq) | [Phantom Graves](https://open.spotify.com/album/5ozspVZcxfm1RIee5CKmWK) | 3:59 | 2021-12-17 | 2022-03-03 |
@@ -285,7 +286,7 @@
 | [State of Apathy](https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [State of Apathy](https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj) | 3:46 | 2021-12-17 | 2022-07-16 |
 | [Step by Step](https://open.spotify.com/track/3tWkJ2zLklnSF8qDBzTOHX) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Twisted Into Form](https://open.spotify.com/album/06cQQ47KHUZf6bAuflpbb0) | 4:52 | 2022-07-13 | 2022-07-29 |
 | [Strike Back](https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU) | [The Lightbringer of Sweden](https://open.spotify.com/artist/6u53rgRUxnjgX8gyyqRsml) | [Strike Back](https://open.spotify.com/album/02Yfyh4R4ONJGNoWGOBTRv) | 5:37 | 2022-03-10 | 2022-07-09 |
-| [Strike Fast Strike Hard](https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist](https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj) | 4:38 | 2022-07-13 |  |
+| [Strike Fast Strike Hard](https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist](https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj) | 4:38 | 2022-07-13 | 2022-10-20 |
 | [Strike Fast Strike Hard](https://open.spotify.com/track/5mo4VR1zQNyBZrlmUmPmLM) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist \(Japan Edition\)](https://open.spotify.com/album/5yU62Qq0DLgL490IugUO9q) | 4:38 | 2021-12-17 | 2022-07-29 |
 | [Strike of the Beast](https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:57 | 2022-07-13 |  |
 | [Strongest Of The Strong](https://open.spotify.com/track/6hPlZWKfEk8bEF4SA71XMt) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Strongest Of The Strong](https://open.spotify.com/album/7q1DYUCkUOjVSMKGf0MWAC) | 4:01 | 2022-04-08 | 2022-05-07 |

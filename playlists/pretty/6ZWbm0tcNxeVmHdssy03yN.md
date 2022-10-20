@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,314 likes - 96 songs - 5 hr 9 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,321 likes - 96 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 84 | [BO YOKA \#1](https://open.spotify.com/track/1KAap3jTtCTHe8QCbF2k59) | [Br La B](https://open.spotify.com/artist/1GQwxwxrRJIS0Bz1Gek4cJ) | [BO YOKA \#1](https://open.spotify.com/album/172gSVJGj19XkcwKy1XwhB) | 2:48 |
 | 85 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 |
 | 86 | [S.O.S](https://open.spotify.com/track/3yiYgjk279gSYUM4knEqJU) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [S.O.S](https://open.spotify.com/album/48DfAehisNlseUKP2mDVzH) | 2:33 |
-| 87 | [Parque de Atracciones \(feat\. pawoblo\)](https://open.spotify.com/track/1t8Yv679mPK0KxyMtoyjl6) | [Lil Ella](https://open.spotify.com/artist/4z8DAc9ysHE4RMmrT1YiaG), [pawoblo](https://open.spotify.com/artist/1P6RVjODcrFQxu197fvkZN) | [Parque de Atracciones \(feat\. pawoblo\)](https://open.spotify.com/album/6rhzp7JaWKvKjkHeTo7Mug) | 2:55 |
+| 87 | [Parque de Atracciones \(feat\. pawoblo\)](https://open.spotify.com/track/1t8Yv679mPK0KxyMtoyjl6) | [Lil Ella](https://open.spotify.com/artist/4z8DAc9ysHE4RMmrT1YiaG), [pawoblo](https://open.spotify.com/artist/1P6RVjODcrFQxu197fvkZN), [marinadorciud](https://open.spotify.com/artist/3Z5rtXXLyXbp3SSNu6V8UC) | [Parque de Atracciones \(feat\. pawoblo\)](https://open.spotify.com/album/6rhzp7JaWKvKjkHeTo7Mug) | 2:55 |
 | 88 | [In Sensitivity](https://open.spotify.com/track/7gN1ZoWIhwjp3SMn1VeNvW) | [Puppy Angst](https://open.spotify.com/artist/6gcwvxzC1d3LEg8selJn31) | [In Sensitivity](https://open.spotify.com/album/4P4aVTwG7B6mO7w3G6qnXq) | 3:03 |
 | 89 | [MIA](https://open.spotify.com/track/4TZlRFvRxj5VDbkQwg0hKj) | [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf), [Da Silva](https://open.spotify.com/artist/6vuVged7VF8wges7fJU2s5), [Formoso](https://open.spotify.com/artist/0dPYLpCCUDrgNq5hiXvcTV) | [MIA](https://open.spotify.com/album/1Z2cy0ZcPpQDH79IxjcP6b) | 2:45 |
 | 90 | [WIN](https://open.spotify.com/track/1HCze2s8KOw9riGVTnGeJh) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w) | [MUD](https://open.spotify.com/album/39PUlolgMi1D3k4SNgzsHZ) | 5:14 |

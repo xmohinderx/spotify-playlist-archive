@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,070 likes - 91 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,098 likes - 91 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 22 | [Everybody Loves a Winner](https://open.spotify.com/track/2EUDthXhUTD7M40VSkWDq1) | [Lisa Mills](https://open.spotify.com/artist/5qjvtl7sQsjMEFadXXdEvE) | [The Triangle \(Expanded Edition\)](https://open.spotify.com/album/6ziGDbVoEO24tCewCBejrK) | 3:15 |
 | 23 | [Always Say I Love You \(At The End Of Your Goodbyes\)](https://open.spotify.com/track/6ziHTglnnwomBLV8ZNEGRz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:03 |
 | 24 | [Is It Over](https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 4:30 |
-| 25 | [What's the Matter with You](https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/7bCcvjetUXDx01xYos2tVb) | 3:52 |
+| 25 | [What's the Matter with You](https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:52 |
 | 26 | [Nearer to You](https://open.spotify.com/track/4r27op6qF2c6aOvVwiaNrI) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Chills & Fever](https://open.spotify.com/album/23zeW7minvQQfP2XifkF17) | 3:24 |
 | 27 | [All My Hope](https://open.spotify.com/track/0SQ06dpK6ev9sxhDh2fKh1) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 4:14 |
 | 28 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 90 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 91 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGUxMTQ2MTRkODg0MGYyYzMxMjgzOWNmZTY1MzE3NmJl`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGIyZTFmMDY5ZjRlZWFiNDM2YmFjMTBiMGFiYTU4ZjFi`

@@ -4,7 +4,7 @@
 
 > The melancholic and soft sound of Jazz.
 
-142 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/0KmOAff9Qu5XjfAKEmMLdc)
+143 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/0KmOAff9Qu5XjfAKEmMLdc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo) | [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK) | [The Opener \(Remastered\)](https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH) | 6:53 | 2022-09-16 |  |
 | [Ain't Misbehavin](https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:49 | 2022-01-13 |  |
 | [Alfie](https://open.spotify.com/track/40jkZfOGxDcIRgNz9nEoZ7) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith](https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp) | 2:52 | 2022-05-19 |  |
-| [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 | 2021-12-03 |  |
+| [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 | 2021-12-03 | 2022-10-20 |
 | [Alone Together](https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 6:49 | 2021-12-03 |  |
 | [Angel Eyes](https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:39 | 2021-12-03 |  |
 | [Autumn Breeze](https://open.spotify.com/track/7rfQSR01yyCxP55RNl7Zyu) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 3:09 | 2021-12-03 |  |
@@ -150,5 +150,6 @@
 | [You Leave Me Breathless \- Rudy Van Gelder Remaster](https://open.spotify.com/track/0FcDIsJa17QDNo1zHp6SB5) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Traneing In \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6ZRbMHogsfhBX2naOXUnkp) | 7:21 | 2021-12-03 | 2022-07-29 |
 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 | 2021-12-03 |  |
 | [You're Mine You \- 2006 Digital Remaster](https://open.spotify.com/track/1tO6OoBF2IVodHCOeTxa4U) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [City Lights](https://open.spotify.com/album/2kRCOX2nPQWaiVubXoKSCq) | 5:59 | 2021-12-03 | 2022-10-12 |
+| [You've Changed \- Remastered 2015](https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright \(Remastered\)](https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC) | 7:27 | 2022-10-11 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

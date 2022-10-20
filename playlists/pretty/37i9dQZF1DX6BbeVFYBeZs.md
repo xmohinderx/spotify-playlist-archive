@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,809 likes - 135 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,915 likes - 135 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 65 | [Como Fue](https://open.spotify.com/track/4sqW8VHxYBVdEftuQYF0Tz) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Como Fue](https://open.spotify.com/album/3YNVNcF8L4GZDfdA2l5Vos) | 1:58 |
 | 66 | [Sierra Blanca](https://open.spotify.com/track/7siStEUpB8qicWuum3Ly2u) | [Rosa Gonzales](https://open.spotify.com/artist/6E8WeGatw7QpqYZzLeqZyi) | [Sierra Blanca](https://open.spotify.com/album/4sAhmphKQOaGLsQqhsmem4) | 2:33 |
 | 67 | [Para Alan Kurdi](https://open.spotify.com/track/0zZiVJy8p5ZSkaAWso7YUc) | [El Retiro](https://open.spotify.com/artist/4cOlybzY6JERcCmnmtcSUD) | [Para Alan Kurdi](https://open.spotify.com/album/69Ot2vGXY3E5yfJjT5CTQo) | 2:56 |
-| 68 | [Bella Flamenco](https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco](https://open.spotify.com/album/26ez5kDERfAsobaXUgxXly) | 1:59 |
+| 68 | [Bella Flamenco \- Instrumental](https://open.spotify.com/track/4PQCBSFIPnSnugh7QBGBtZ) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco \(Instrumental\)](https://open.spotify.com/album/4NWRl0FQFHXCLL0JqkzZto) | 1:59 |
 | 69 | [Let Me Tell You A Story](https://open.spotify.com/track/1QB8MPwjcXk3CEshFh3uYP) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Let Me Tell You A Story](https://open.spotify.com/album/6DdLoowgo8TEZ8glcdY23X) | 4:17 |
 | 70 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 |
 | 71 | [Recuerdos de la Alhambra, ift 44](https://open.spotify.com/track/5uqj1uRgouBQqdHzMLo2ag) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Heike Matthiesen](https://open.spotify.com/artist/7EFCTBKgRURpMVhzE8p9a5) | [Recuerdos de la Alhambra, ift 44](https://open.spotify.com/album/6mm8TY4WNUUE61hQxWCh3o) | 6:22 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 134 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 |
 | 135 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
 
-Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGUwNjE4ZTdmZTc5ODBkNGNjODJhNjFlYTUzYTA3ZGYz`
+Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGM0YWJjZDJiMzU4ODIwNWMzZWE3YTFiZDAyMzA2YjAy`

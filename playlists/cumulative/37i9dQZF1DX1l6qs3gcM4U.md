@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz
 
-271 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+272 songs - 16 hr 31 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 | 2021-12-10 |  |
 | [Baile](https://open.spotify.com/track/20pd0IMbN7KC9y0FNOVQK0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Baile](https://open.spotify.com/album/0aVJrJFseq4WFmCqAEWhZo) | 3:47 | 2022-03-25 | 2022-04-21 |
+| [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 | 2022-10-13 |  |
 | [Beijam](https://open.spotify.com/track/2ubsUZQRhYWFEpHikHfwom) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/4VK90Rvs5zStsJW6cMiOpX) | 3:50 | 2022-07-22 | 2022-09-16 |
 | [Beijam](https://open.spotify.com/track/7CIWnLmuWHKIc3f5IoR8wD) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/0FqokGojULcFWTeeE1fVuU) | 3:50 | 2022-01-14 | 2022-07-02 |
 | [Beijei](https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Itary](https://open.spotify.com/artist/73JleuMWIuH1oUwF1bpd3w) | [Conexões Angola & Brasil](https://open.spotify.com/album/3DdYxPf8B8tsWQTDWuzrr2) | 3:41 | 2021-12-10 | 2022-06-01 |
@@ -49,7 +50,7 @@
 | [Bypass](https://open.spotify.com/track/2mQ3Z8eMnQ1JMuAvwlEG3S) | [Deusânia Celma](https://open.spotify.com/artist/0830PftfyzdiCm5RdM9U11) | [Bypass](https://open.spotify.com/album/56AgOmRUllPIKtXR56YeLv) | 3:26 | 2022-07-07 | 2022-07-15 |
 | [Cada Detalhe Teu](https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79) | 3:26 | 2022-07-22 |  |
 | [Cada Detalhe Teu](https://open.spotify.com/track/2Vwgxwetkkc87mAcjM0rgw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/7LvYLQTaKMrhRZq2vrSn6G) | 3:28 | 2021-12-10 | 2022-07-19 |
-| [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 | 2021-12-10 |  |
+| [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 | 2021-12-10 | 2022-10-20 |
 | [Chocolate](https://open.spotify.com/track/5JSaK3zQTNv1L7PvpvelbE) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dpos D' Quarentena](https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF) | 3:10 | 2021-12-10 | 2022-09-19 |
 | [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 | 2021-12-10 |  |
 | [Chuva](https://open.spotify.com/track/1L3pBAjneKibuFQiXO8wpU) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Chuva](https://open.spotify.com/album/07v4Sy6nmZtGscBDy6Q0CR) | 3:12 | 2021-12-10 | 2022-01-01 |
@@ -203,7 +204,7 @@
 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 | 2021-12-10 |  |
 | [Quem É ?](https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Quem É ?](https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj) | 3:19 | 2021-12-10 |  |
 | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/track/5gM4UYTTTcVyg7KsPAbyGR) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/album/59c0K1jO386j2UlHJLNklt) | 3:26 | 2022-03-25 | 2022-04-21 |
-| [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 | 2022-10-18 |
+| [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 |  |
 | [Raízes](https://open.spotify.com/track/39xIzMG0hjgFBtueCUy9Jo) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f) | [Raízes](https://open.spotify.com/album/5g8l7OT24r6iRHCQHjCgQk) | 3:20 | 2022-07-22 | 2022-07-26 |
 | [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 | 2022-02-18 | 2022-07-25 |
 | [Relembrar](https://open.spotify.com/track/0o7Kjfy8W0ZPF3Og9n2KDr) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/2NKAElMUB6gX0c1tb1AcXl) | 3:35 | 2022-03-25 | 2022-04-20 |
@@ -225,7 +226,7 @@
 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 | 2022-02-18 |  |
 | [Siguim](https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Siguim](https://open.spotify.com/album/1b5znILgCUFYB4xxJWRKTZ) | 3:04 | 2021-12-10 | 2022-09-15 |
 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 | 2022-04-07 |  |
-| [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 | 2021-12-10 |  |
+| [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 | 2021-12-10 | 2022-10-20 |
 | [So Nos](https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC) | [Maggio](https://open.spotify.com/artist/2qTmQdww3CmENx1BXgzJq3) | [So Nos](https://open.spotify.com/album/79gYsZpsUqalrUuRL633ck) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [So Observo](https://open.spotify.com/track/4DRvNUiiqMcAffIwUJ6iAl) | [Denis Graça](https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV) | [Aquarius EP](https://open.spotify.com/album/6YX9gRuU594JQFyndoFXQt) | 3:46 | 2021-12-10 | 2022-07-26 |
 | [Sodadi Bo](https://open.spotify.com/track/32edUgBRHZzIwyysF1Cbuo) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Sodadi Bo](https://open.spotify.com/album/6NwZfTWURa1MQB0afWQkPb) | 2:59 | 2022-06-24 | 2022-07-13 |

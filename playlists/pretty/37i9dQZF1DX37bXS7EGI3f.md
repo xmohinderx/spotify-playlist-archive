@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,891 likes - 81 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,956 likes - 81 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

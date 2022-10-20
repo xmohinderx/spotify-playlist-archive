@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,204 likes - 113 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,290 likes - 113 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 9 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 |
 | 10 | [In Tall Buildings](https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [In Tall Buildings](https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D) | 3:28 |
 | 11 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 |
-| 12 | [Valerie](https://open.spotify.com/track/41YOqmMxkDQZWqMZAExMx1) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri) | 4:54 |
+| 12 | [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 |
 | 13 | [Take On Me](https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 3:44 |
 | 14 | [Rich Girl](https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Rich Girl](https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf) | 3:50 |
 | 15 | [Get Lucky](https://open.spotify.com/track/5rs8b6GOWiKokzSjEhCIN8) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Rhythm and Moo's](https://open.spotify.com/album/5W0SRmCrSDB4ncf86ayv2R) | 3:29 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 112 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 | 113 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGY4ZmZkM2Y1NTI1YTJjYjFiMTk4NzMzMTg3MGVlMWIz`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGQ1Y2Q2N2QzMWIyNmUyNjliOGRhMTg0NWFmMzIzZWJk`

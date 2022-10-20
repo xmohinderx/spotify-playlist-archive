@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, Black Tones
 
-345 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
+348 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Anti\-Social](https://open.spotify.com/track/1WydtZgDwzXHUHrXXM64mp) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE), [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Blakk Soul](https://open.spotify.com/artist/0gZgdRddDWYxFHUf1BX89S) | [As God Intended](https://open.spotify.com/album/7jws8jyywKHkSGtRKIyfCB) | 3:49 | 2022-02-18 | 2022-03-18 |
 | [April's Fool](https://open.spotify.com/track/3ltKYuXVlAGDLUcynKxrBq) | [Burd Hauz](https://open.spotify.com/artist/60s9OFnWv7R0Er09sVngbu) | [April's Fool](https://open.spotify.com/album/7iNKQ1iFLeopI3HS7Z7n2D) | 3:08 | 2022-08-19 |  |
 | [Aquarius](https://open.spotify.com/track/1vH1CNL63dMulz5x2mIhaW) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/5q6N52kWVJxH4mwwiI0SLa) | 3:04 | 2022-07-22 | 2022-08-09 |
+| [Aquarius](https://open.spotify.com/track/3YJtw6XYhJ5uemiWCwZUxT) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/08S32eSoKaR5lDlyt72kRk) | 3:04 | 2022-07-22 |  |
 | [Aquarius](https://open.spotify.com/track/7fLYq5pvsCEV39LVzj5yRd) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/00WWldRogRFJKGFHR2GdRT) | 3:04 | 2022-07-22 | 2022-07-29 |
-| [Aquarius](https://open.spotify.com/track/7qMuMmqCUb4L9AvrjAx4Qg) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/5G9iTmKRQfqUF8ttDs2J0p) | 3:04 | 2022-07-22 |  |
+| [Aquarius](https://open.spotify.com/track/7qMuMmqCUb4L9AvrjAx4Qg) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/5G9iTmKRQfqUF8ttDs2J0p) | 3:04 | 2022-07-22 | 2022-10-20 |
 | [B.I.G](https://open.spotify.com/track/1vrWbRfxRyD0XESo4I0TFo) | [BiG Paco](https://open.spotify.com/artist/4dbjkLK7W1zEg5GZX1X8Ft), [BIG Jone$](https://open.spotify.com/artist/6aoASPFrueu2e0EEWSO45X) | [B.I.G](https://open.spotify.com/album/5tLzG3blohQlXTXgJngPCU) | 2:10 | 2022-04-02 | 2022-05-14 |
 | [Bad Habit](https://open.spotify.com/track/2jDnuaKUuXPZSPSWPmpktU) | [Zhanea June](https://open.spotify.com/artist/5SGK11P65W5EN7CgsUU9RC) | [Bad Habit](https://open.spotify.com/album/5dtLoqhukyNqa1iyTBCDjH) | 3:31 | 2022-09-24 |  |
 | [Bag Right](https://open.spotify.com/track/6T9P4cBsEuy8N1dKjdqkkf) | [Mr\. Nicenice](https://open.spotify.com/artist/48AUU9vzI5JFzr6vVL1P9v) | [Bag Right](https://open.spotify.com/album/1ufELs9YcOF1mPbrA4cBep) | 3:13 | 2022-04-02 | 2022-05-28 |
@@ -79,7 +80,8 @@
 | [Cloverfield](https://open.spotify.com/track/1Ak3bLzJMcsVSYkfuZRpZf) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Cloverfield](https://open.spotify.com/album/7zTAmlJVHSjnAAAwUARvJL) | 2:01 | 2022-07-18 | 2022-07-30 |
 | [Cloverfield \(feat\. Young M.A\)](https://open.spotify.com/track/2YNwyOPj4P5nH0KiEbLXZq) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:59 | 2022-07-29 |  |
 | [Cloverfield \(feat\. Young M.A\)](https://open.spotify.com/track/442p5hBETXk6awoANidgbd) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Cloverfield \(feat\. Young M.A\)](https://open.spotify.com/album/58vbbkV0r1Z6ZkafF64V0A) | 2:59 | 2022-07-29 | 2022-09-11 |
-| [Co\-Op](https://open.spotify.com/track/7bWYDxyMKkxi5iqBZYTxEf) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/5G9iTmKRQfqUF8ttDs2J0p) | 1:50 | 2022-09-30 |  |
+| [Co\-Op](https://open.spotify.com/track/4aCIF4PVJdYKGSwKKtwXx9) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/08S32eSoKaR5lDlyt72kRk) | 1:50 | 2022-09-30 |  |
+| [Co\-Op](https://open.spotify.com/track/7bWYDxyMKkxi5iqBZYTxEf) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/5G9iTmKRQfqUF8ttDs2J0p) | 1:50 | 2022-09-30 | 2022-10-20 |
 | [Cold Blooded](https://open.spotify.com/track/3LYoi8gybyD4sR5hHSP9T0) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 2:56 | 2022-09-30 |  |
 | [COLD SUMMER](https://open.spotify.com/track/3MPyvW97o4vkYfaocGm1Qf) | [James Lite](https://open.spotify.com/artist/7e2dIr2GwZgilIk9CrtUUU) | [ICE PACK](https://open.spotify.com/album/7K1MmDcGWPGO4hFSulZjbc) | 2:22 | 2022-07-29 | 2022-08-16 |
 | [Connecting Flights](https://open.spotify.com/track/291YMp0vk3aXUzpBt11PVm) | [D.Worthy](https://open.spotify.com/artist/3erKONJnV1kHT5ksWJLR7y) | [Connecting Flights](https://open.spotify.com/album/6wQvfJUJ6EDYweQhqWUExA) | 4:35 | 2022-07-18 | 2022-08-30 |
@@ -316,7 +318,8 @@
 | [The End of Everything](https://open.spotify.com/track/6SreBgCfAnanO7vnfrsaW9) | [The Black Tones](https://open.spotify.com/artist/756gZe3CRrsmKQGhCTmQ5J) | [The End of Everything](https://open.spotify.com/album/3oLfa8sX1YZvkJBaz9C5z7) | 3:12 | 2022-02-18 | 2022-03-18 |
 | [The Oscars](https://open.spotify.com/track/72R4sofcAUU1IGctmDdc4y) | [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5) | [The Oscars](https://open.spotify.com/album/2fdIjjAbpgKPF98K6Bq3Hs) | 1:43 | 2022-07-29 | 2022-08-20 |
 | [The Vibe](https://open.spotify.com/track/7sfBMOMIJfclUlvaBWWHFS) | [PORSCHE](https://open.spotify.com/artist/3o3OImjYymMI6N8Vdyt4UU) | [The Vibe](https://open.spotify.com/album/5q8hCmssaCLS98BIof4F67) | 2:38 | 2022-09-30 |  |
-| [Thru The Motions](https://open.spotify.com/track/7a6qoP4zfLtrAax3DCbx6m) | [Lewie](https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q) | [Thru The Motions](https://open.spotify.com/album/6kft5b8CUf5JEqrC07HH1O) | 1:33 | 2022-08-29 |  |
+| [Thru the Motions](https://open.spotify.com/track/12yPXlqyYxZ6nW7oG3Tszf) | [Lewie](https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q) | [Thru the Motions](https://open.spotify.com/album/2w6EFqWSPcgkO3g7iNhOE7) | 1:33 | 2022-08-29 |  |
+| [Thru The Motions](https://open.spotify.com/track/7a6qoP4zfLtrAax3DCbx6m) | [Lewie](https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q) | [Thru The Motions](https://open.spotify.com/album/6kft5b8CUf5JEqrC07HH1O) | 1:33 | 2022-08-29 | 2022-10-20 |
 | [Thug In Her Life](https://open.spotify.com/track/6N0gtJ55OHcLsOBFFMrNIj) | [Maika Million](https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j) | [Thug In Her Life](https://open.spotify.com/album/7yMYksNYjxXBUfMA65crZH) | 2:56 | 2022-04-02 | 2022-05-14 |
 | [Timing 2](https://open.spotify.com/track/7Mo2CfciKGu298qXUa8Xxp) | [BIG Jone$](https://open.spotify.com/artist/6aoASPFrueu2e0EEWSO45X) | [Timing 2](https://open.spotify.com/album/3j0acpw3tzdY1SOE3DjjNn) | 2:18 | 2022-03-18 | 2022-04-02 |
 | [Tired of Smoke In My Eyes](https://open.spotify.com/track/0myKwA1deTtgnRPMrq9OuR) | [Bocha](https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz), [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu) | [Tired of Smoke In My Eyes](https://open.spotify.com/album/5hmQ5w8BthYXXVNowXYMBv) | 2:37 | 2022-07-01 | 2022-07-19 |

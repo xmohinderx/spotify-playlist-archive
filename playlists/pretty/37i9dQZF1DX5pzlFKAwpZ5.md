@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,800 likes - 102 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,887 likes - 102 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 37 | [Look At My Snowman](https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 4:24 |
 | 38 | [Prepare](https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Prepare](https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ) | 3:06 |
 | 39 | [Flow of Time to Fade](https://open.spotify.com/track/5ZnXB2l4dxz6wSiOa2XoM4) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Ambient Collage](https://open.spotify.com/album/4PxfcF5QbkdwmSYWfNT3AO) | 4:07 |
-| 40 | [flow](https://open.spotify.com/track/4PfX6YNf0Mw9iDf9CCaPK6) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 5:12 |
+| 40 | [flow](https://open.spotify.com/track/6a5wu7YrwPzhPFbVvHE01G) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/3PRhSzJAtheNUhYNFJ6gKL) | 5:12 |
 | 41 | [hoshisayuru](https://open.spotify.com/track/40vwaUbcDvJKO0lLdl4aWC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 5:55 |
 | 42 | [Wash Away](https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Wash Away](https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq) | 3:01 |
 | 43 | [雨音](https://open.spotify.com/track/4YUGDSUgPapHEtsBry5aWI) | [木原健児](https://open.spotify.com/artist/6Q1QTDtWjKSeeZ0IqpVdQJ) | [日々](https://open.spotify.com/album/4fNnKIXrr4UV5F2LwB2akT) | 11:56 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 101 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 | 102 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 |
 
-Snapshot ID: `MTY2NTc5MjA2MCwwMDAwMDAwMDc0OTBlOWRmZmZjMDkxYjJjN2RhODNiYjJkOTk3MzVh`
+Snapshot ID: `MTY2NTc5MjA2MCwwMDAwMDAwMDUyYTY2ZjBkYjg0NDExNDk5MjMzODQwYjVjNTcyY2Rh`

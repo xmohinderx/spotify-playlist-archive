@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 43 | [H.I.T.H](https://open.spotify.com/track/4Xpm7HOmxhh9HqiDFYsgYX) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [H.I.T.H](https://open.spotify.com/album/4O6s6vAzfOXQBtRjgYE5wz) | 3:25 |
 | 44 | [The Girls Before Me](https://open.spotify.com/track/7IecWBldlrmQNoqZH0FH5u) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [The Girls Before Me](https://open.spotify.com/album/13RMTU3mRKfjemE1ouEjIZ) | 3:35 |
 | 45 | [Particles \- Edit](https://open.spotify.com/track/4ROXjJjgMW0y6wXlTJBPqA) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Particles](https://open.spotify.com/album/2q5XSD3D9TwFNOTK1m1uWt) | 3:02 |
-| 46 | [Never Hurt](https://open.spotify.com/track/0oEt9RVATZzVjLusDYuwY5) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Never Hurt](https://open.spotify.com/album/3KCveU8TAjvVOChRKOlINQ) | 3:15 |
+| 46 | [Never Hurt](https://open.spotify.com/track/3mmYPa9T2x8oRLoZz9NyHA) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Never Hurt](https://open.spotify.com/album/21DF2hwfIPBpsftrREbDnO) | 3:15 |
 | 47 | [All I Want](https://open.spotify.com/track/3ZYF8cV01HigmljsPaGFgn) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:22 |
 | 48 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 49 | [The Bottom Line \(feat\. Josin\)](https://open.spotify.com/track/6SWcMCO8k07ptNCxf3Vmij) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 100 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGY3ODA0MDVmNDhiZGYwYWY4ZjYyZjRkNzk0ZDkzN2Zk`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDJkOTcxNTBjMGVmYWFlYmU2Yjg5ZGExYmI2M2IyZGM0`

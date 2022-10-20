@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 471986,
+  "num_followers": 472063,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMDExMmFmYmJhNzdmMzJjM2RhMmVjZGFiM2Y3ZmE2Mjkz",
+  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMDBhZDU3NGUxYmNlYmE1ODUxOTdmZWY2NDNiNzVhMDI3",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "Booster Seat",
+      "url": "https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 246230,
       "name": "Dorothy",
       "url": "https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 193251,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 268880,
-      "name": "Booster Seat",
-      "url": "https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs"
+      "duration_ms": 193251,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Allah-Las",
-        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
+        "name": "Naked All the Time",
+        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
       },
       "artists": [
         {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 212986,
-      "name": "Catamaran",
-      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+      "duration_ms": 198546,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Naked All the Time",
-        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
+        "name": "Allah-Las",
+        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
       "artists": [
         {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
         }
       ],
-      "duration_ms": 198546,
-      "name": "Panama",
-      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
+      "duration_ms": 212986,
+      "name": "Catamaran",
+      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
     },
     {
       "added_at": "2022-09-22 19:11:53",

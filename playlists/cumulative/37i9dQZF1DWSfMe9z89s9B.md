@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Paulade
 
-635 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+636 songs - 1 day 10 hr 30 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 | 2021-03-19 | 2022-07-16 |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 | 2022-04-01 | 2022-09-10 |
 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-08-19 | 2022-09-29 |
+| [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-19 |  |
 | [Dame La Fuerza](https://open.spotify.com/track/2wwR4qlbSQfis9aplck8uL) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Dame La Fuerza](https://open.spotify.com/album/3416M8gZILto23Fqxa7t9m) | 2:53 | 2022-04-01 | 2022-04-15 |
 | [Damsel in Distress](https://open.spotify.com/track/3WsB9r21AprtJZnJljRMMT) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Damsel in Distress](https://open.spotify.com/album/0m71fAIws9KyIDLYYmJvYZ) | 3:23 | 2021-03-19 | 2022-04-25 |
 | [Dance For Me](https://open.spotify.com/track/4R044Iyo5ke7VsOetblOHf) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Dance For Me](https://open.spotify.com/album/2xpZJV9PpzD9zgdxYnyxlF) | 3:02 | 2022-07-22 | 2022-07-25 |
@@ -305,7 +306,7 @@
 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 | 2022-09-09 | 2022-09-17 |
 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 | 2021-04-30 | 2022-07-29 |
 | [Keep It Lo](https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Keep It Lo](https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ) | 2:33 | 2022-10-14 |  |
-| [Keep Your Head Up](https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [Keep Your Head Up](https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8) | 2:43 | 2022-07-15 |  |
+| [Keep Your Head Up](https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [Keep Your Head Up](https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8) | 2:43 | 2022-07-15 | 2022-10-20 |
 | [keisha](https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [keisha](https://open.spotify.com/album/6lIhuQnAGRVi0DMNUmdNCD) | 2:55 | 2022-03-21 | 2022-04-26 |
 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 | 2021-06-11 | 2022-01-29 |
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-04-01 | 2022-07-29 |

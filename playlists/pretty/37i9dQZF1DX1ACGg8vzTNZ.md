@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Instrumental, ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,754 likes - 41 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,821 likes - 41 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 22 | [Remember](https://open.spotify.com/track/5hv1LvnQTAoaZX3GZHRu6P) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Remember](https://open.spotify.com/album/4ZLxgffaJyuk8zyo2WaK6E) | 4:19 |
 | 23 | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw) | [Frances Shelley](https://open.spotify.com/artist/0oUU96ZHc648yvAP9JrQ9d), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/5EVLlgLBEpVKPuu9LOGeN3) | 4:14 |
 | 24 | [Season Shifting \- Robert Lippok Rework](https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Post\-Svalbard](https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk) | 4:30 |
-| 25 | [Lantern \- Piano Version](https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/2N7PeDMcJbAcdth49YY8qa) | 3:15 |
+| 25 | [Lantern \- Piano Version](https://open.spotify.com/track/5LMnVTPqsmhGyjhMtb55pD) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/4nCQ0B5D2iQvyKsnz9patZ) | 3:15 |
 | 26 | [Mayday](https://open.spotify.com/track/2GeZQx0L3RpCEMsSo3iVdp) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO) | [May Day](https://open.spotify.com/album/5xtqIfLqO7eokuv2QJSoDx) | 3:13 |
 | 27 | [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 |
 | 28 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 40 | [Søndermarken \(Video Edit\)](https://open.spotify.com/track/6nr8pvjY7kvf0dVclOzNuj) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/4Fhv8iZsFv6ZRFNjbmOeSC) | 4:10 |
 | 41 | [Meridian](https://open.spotify.com/track/2ioJiNmf15qbpAtkhHOgDo) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Meridian](https://open.spotify.com/album/1V4hDoIl6B2J7cScpBkLJu) | 3:33 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGRlYjdmYWJhM2M4MDU0YWI2NzlmZDJiM2FhYTcwYTll`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGFiNDg1YWVjYjU5ODVlMDY3OGQ3ZmFiMmU0YzY0NGNi`

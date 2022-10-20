@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 16913,
+  "num_followers": 16955,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NzEyMCwwMDAwMDAwMDg1MTEyYTdhZWU2ZjU3ZTBmZDUyMjRhNGQ4YWVjZDc1",
+  "snapshot_id": "MTY2Mzk0NzEyMCwwMDAwMDAwMDg4OTUyOWNmZWUwNjczNTBhMzlhY2JhZTU0Mzk3Yzhl",
   "tracks": [
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Benz",
         "url": "https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 155402,
       "name": "Benz",
       "url": "https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Fuck The Yotes",
-        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Fuck The Yotes",
-      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     },
     {
       "added_at": "2022-09-23 15:32:00",

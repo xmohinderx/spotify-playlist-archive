@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/2IST9MireQnJPgGwTbkWM9"
+      },
+      "artists": [
+        {
+          "name": "Zarcia",
+          "url": "https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299573,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0Ybt7GtFdFutFAcDG8BadS"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/6jnWbrTXFf7LjWXmf0qr2r"
       },
@@ -243,7 +261,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 301333,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2LpXQfDBYoJnK8MrNT8fR4"

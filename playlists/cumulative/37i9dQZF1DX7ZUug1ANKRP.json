@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: southstar",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Mau P",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -1681,7 +1681,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 153222,
       "name": "Hurricane (feat. SHIBUI)",
       "url": "https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf"
@@ -3720,6 +3720,28 @@
     },
     {
       "album": {
+        "name": "Sunday Night",
+        "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150131,
+      "name": "Sunday Night",
+      "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
+    },
+    {
+      "album": {
         "name": "Sunset in Dubai (DJ Antoine & Mad Mark 2k22 Mix)",
         "url": "https://open.spotify.com/album/7qG3vgkDMvDmhC8F8YNcVT"
       },
@@ -4283,6 +4305,36 @@
       "duration_ms": 152640,
       "name": "Unbreakable - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/2WOyQFzLn2C7zhQVDCiKog"
+    },
+    {
+      "album": {
+        "name": "Under the Night",
+        "url": "https://open.spotify.com/album/2bxfJn1qH8sYApbYt9jte3"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Martin Trevy",
+          "url": "https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte"
+        },
+        {
+          "name": "Paul Schulze",
+          "url": "https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Under the Night",
+      "url": "https://open.spotify.com/track/4InRiqHAkRAIlcSztLlJEc"
     },
     {
       "album": {

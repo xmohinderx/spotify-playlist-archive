@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-104 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
+105 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [White Falcon](https://open.spotify.com/track/7zIsRwxLIPqsx7jQJKCI6y) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [Turn a Gundam Original Motion Picture Soundtrack Ⅱ \- Diana & Kihel](https://open.spotify.com/album/2U6qYkuMhXtDiDbMRG8q7a) | 1:59 | 2022-02-28 |  |
 | [Wo Qui Non Coin](https://open.spotify.com/track/44l2QraBH96L5LejzEFWLH) | [Aoi tada](https://open.spotify.com/artist/4J2TB2uKA5u3i72rSnKRpD) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 3 \- Blue\)](https://open.spotify.com/album/4MhCKW36bndX2VMQ8qYMv1) | 3:43 | 2022-02-28 |  |
 | [WO QUI NON COIN](https://open.spotify.com/track/785rHlWIQg67RVPuzOv07u) | [多田葵](https://open.spotify.com/artist/2GA3vR0niTdN9RJItcLMtK) | [「COWBOY BEBOP」オリジナルサウンドトラック3 BLUE](https://open.spotify.com/album/56BuU84ac8QbB0P70dWhcG) | 3:41 | 2022-02-28 | 2022-07-29 |
+| [Yakusoku wa Iranai](https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 3:35 | 2022-02-28 |  |
 | [yet](https://open.spotify.com/track/5Ymzx5BZzmykFlffsRKzmh) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [yet](https://open.spotify.com/album/24D1Hykq1hhR0XFoMOFZgV) | 4:20 | 2022-02-28 |  |
 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 | 2022-02-28 |  |
 | [エンジの雨 \- Remastered 2018](https://open.spotify.com/track/07lGod0aCGc78p3zlKW3jB) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [九段](https://open.spotify.com/album/5fb7PEDcJIQFflHh7tcbps) | 3:58 | 2022-02-28 |  |
@@ -105,7 +106,7 @@
 | [白い色は恋人の色](https://open.spotify.com/track/01On3F67LVglVam7lTD4wy) | [Yoshiko Goshima](https://open.spotify.com/artist/7iyJFgBAagks6G2cfqQDJO) | [Five Island Resort](https://open.spotify.com/album/6vnRkXF61Xv6VyebWgFA8O) | 3:44 | 2022-02-28 |  |
 | [白い色は恋人の色](https://open.spotify.com/track/5JFiKpdKaJa0vyRxWywTYk) | [Yoshiko Goshima](https://open.spotify.com/artist/7iyJFgBAagks6G2cfqQDJO) | [Five Island Resort](https://open.spotify.com/album/2iQW4NFuhLFIpH5KDt4r5x) | 3:44 | 2022-02-28 | 2022-07-29 |
 | [約束はいらない](https://open.spotify.com/track/2qvDmdXfhd77Ni254pLV0l) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「天空のエスカフローネ」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/71UWqGmTtpgFWn7m7anIr8) | 3:32 | 2022-02-28 | 2022-07-29 |
-| [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 | 2022-02-28 |  |
+| [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 | 2022-02-28 | 2022-10-20 |
 | [花は咲く](https://open.spotify.com/track/5S84EJBZewvQ3Ay36P3dps) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Yukari Miyake](https://open.spotify.com/artist/5pjQssgpo08YK8ETdMRpu9), [Sawako Ota](https://open.spotify.com/artist/0SYT5bioDVNiUQEHeVqY94) | [祈り\~未来への歌声](https://open.spotify.com/album/1Gob4cRpGJpwjQEb6eCOFw) | 5:16 | 2022-02-28 |  |
 | [覚醒](https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 7:57 | 2022-02-28 |  |
 | [誰か、海を。](https://open.spotify.com/track/0OL7OMOyaLJizoA6b9mPWa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 4:54 | 2022-02-28 |  |

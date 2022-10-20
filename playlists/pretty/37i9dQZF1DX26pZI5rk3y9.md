@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,400 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 42 | [I See a Man Downstairs](https://open.spotify.com/track/54JUUTQSkFRwoi03H3LSEx) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [Brian Auger & The Trinity](https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU) | [I See a Man Downstairs](https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR) | 3:12 |
 | 43 | [Cole Slaw \(Sorghum Switch\)](https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [Best Of Rhythm & Blues](https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4) | 3:11 |
 | 44 | [The Fish](https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Guitar Women, Vol.4](https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj) | 2:41 |
-| 45 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
-| 46 | [These Kind of Blues](https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:11 |
+| 45 | [These Kind of Blues](https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:11 |
+| 46 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
 | 47 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 |
 | 48 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 |
 | 49 | [Pigmeat](https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Lead Belly: The Smithsonian Folkways Collection](https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK) | 2:32 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 53 | [Alligator Meat](https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn) | [Joe Swift](https://open.spotify.com/artist/2O5OHlHQnNgg8rsv8kA1KX), [Maxwell Davis](https://open.spotify.com/artist/1fhYtOLzN01tp4kUfdNLGF) | [Sax Star: Maxwell's Best, Vol\. 1](https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB) | 2:56 |
 | 54 | [Scotchin' with Soda](https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:47 |
 | 55 | [Barbecue Blues](https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Lucille Bogan \(Bessie Jackson\) Vol\. 3 \(1934\-1935\)](https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i) | 2:42 |
-| 56 | [Hoochie Coochie Man](https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:52 |
-| 57 | [Honey Bee \(feat\. Willie Buck\)](https://open.spotify.com/track/2T857BosTppifCEGyKjkNz) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Willie Buck](https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:20 |
+| 56 | [Honey Bee \(feat\. Willie Buck\)](https://open.spotify.com/track/2T857BosTppifCEGyKjkNz) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Willie Buck](https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:20 |
+| 57 | [Hoochie Coochie Man](https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:52 |
 | 58 | [Old School Player](https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV) | [Johnny Burgin](https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5), [Iper Onishi](https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe), [Yoshi Mizuno](https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf), [Zee](https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6), [Takagiman](https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP) | [No Border Blues](https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4) | 3:48 |
 | 59 | [Eisenhower Blues \- Single Version](https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:51 |
 | 60 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDA0ZGFiZTkyNWRkODI5NDc5ZDFmOTdiYmQ0MDU3ZjBh`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDU2Nzg5NGI5MDY2ZjFkNzJmZmRkOWI0MWRmMjg1Yzlm`

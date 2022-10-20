@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a La Santa Grifa, nuestro artista Radar!",
-  "num_followers": 60649,
+  "num_followers": 60665,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM5MDI0NSwwMDAwMDAwMDYyZGM0OGM2NDFiMGNlNTEwYTY3YjA5MGFhOGQzMTQ1",
+  "snapshot_id": "MTY2NDM5MDI0NSwwMDAwMDAwMDIxYTY1ZDM4ZWUwYzQ2ZmNkYmMwYTI5ZjAyMmRhMTVh",
   "tracks": [
     {
       "added_at": "2022-09-09 02:13:33",
@@ -591,58 +591,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Fabulosa de Paris",
-        "url": "https://open.spotify.com/album/7xrhpUxZuo4Qdj7NEnG2EJ"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 173408,
-      "name": "Fabulosa de Paris",
-      "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Que Si Fumo Tanto",
-        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 220009,
-      "name": "Que Si Fumo Tanto",
-      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Barbie Ven",
-        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "Barbie Ven",
-      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "K\u00f3digos",
         "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
       },
@@ -663,6 +611,58 @@
       "duration_ms": 227368,
       "name": "K\u00f3digos",
       "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Que Si Fumo Tanto",
+        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "duration_ms": 220009,
+      "name": "Que Si Fumo Tanto",
+      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Fabulosa de Paris",
+        "url": "https://open.spotify.com/album/7xrhpUxZuo4Qdj7NEnG2EJ"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 173408,
+      "name": "Fabulosa de Paris",
+      "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Barbie Ven",
+        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 160942,
+      "name": "Barbie Ven",
+      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
       "added_at": "2022-06-03 15:10:16",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dj Yaso",
-          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
-        }
-      ],
-      "duration_ms": 166173,
-      "name": "R9 Aleteo",
-      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
@@ -763,26 +743,6 @@
       "duration_ms": 157280,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Dm",
-        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Dm",
-      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
     },
     {
       "added_at": "2022-06-07 05:00:00",
@@ -807,6 +767,26 @@
       "duration_ms": 203893,
       "name": "Mala Man\u00eda",
       "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dj Yaso",
+          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
+        }
+      ],
+      "duration_ms": 166173,
+      "name": "R9 Aleteo",
+      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -843,6 +823,26 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Confirmo (En Vivo)",
         "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
       },
@@ -873,30 +873,6 @@
       "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
     },
     {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "M\u00e1s Tarde (Remix)",
-        "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "M\u00e1s Tarde (Remix)",
-      "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
-    },
-    {
       "added_at": "2022-09-09 13:11:20",
       "album": {
         "name": "Uno Que Tropieza Y Cae Al Mar",
@@ -911,6 +887,26 @@
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 183997,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

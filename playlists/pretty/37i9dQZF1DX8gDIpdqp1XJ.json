@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 797755,
+  "num_followers": 798137,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMTMyMCwwMDAwMDAwMDVjOGM4NzBjNjQwOWRhOTBlNDZjZjEwYjc3N2I3ZWVm",
+  "snapshot_id": "MTY2NTcyMTMyMCwwMDAwMDAwMDI1MzhjYmVjNzhmNWRiMGQwZDZlYzU1ZGJmMzc3MTI4",
   "tracks": [
     {
       "added_at": "2022-09-02 05:58:00",
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1"
     },
     {
-      "added_at": "2022-09-02 05:58:00",
+      "added_at": "2022-09-23 23:48:00",
       "album": {
-        "name": "Hard to Let Go",
-        "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 247615,
-      "name": "Hard to Let Go",
-      "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -365,20 +365,20 @@
       "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
     },
     {
-      "added_at": "2022-09-23 23:48:00",
+      "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Hard to Let Go",
+        "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 247615,
+      "name": "Hard to Let Go",
+      "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -411,6 +411,22 @@
       "duration_ms": 224973,
       "name": "Paint Me Silver",
       "url": "https://open.spotify.com/track/6YGVK9xgH2LI4Ghw6gqUxx"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -449,22 +465,6 @@
       "url": "https://open.spotify.com/track/2TeYAizye4GlmzQq5zyf91"
     },
     {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
-    },
-    {
       "added_at": "2022-09-23 23:48:00",
       "album": {
         "name": "Ice V",
@@ -479,6 +479,22 @@
       "duration_ms": 615939,
       "name": "Ice V",
       "url": "https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
+        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
+      },
+      "artists": [
+        {
+          "name": "Foxygen",
+          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Shuggie",
+      "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -503,22 +519,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
-        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
-      },
-      "artists": [
-        {
-          "name": "Foxygen",
-          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Shuggie",
-      "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Get A Good Look",
         "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 182601,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Metronomy Forever",
+        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -563,22 +579,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Metronomy Forever",
-        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 222920,
       "name": "Part III",
       "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -627,6 +611,22 @@
       "duration_ms": 197040,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+        "name": "Cotton Candy Lemonade",
+        "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
       },
       "artists": [
         {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
         }
       ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
+      "duration_ms": 146875,
+      "name": "Cotton Candy Lemonade",
+      "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -737,38 +753,6 @@
       "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
-      "added_at": "2022-10-07 04:15:00",
-      "album": {
-        "name": "Iron Lung",
-        "url": "https://open.spotify.com/album/4IgggfOdOljgHno3N0QBMP"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 544517,
-      "name": "Iron Lung",
-      "url": "https://open.spotify.com/track/7G69PANdawtb2rsG2ZGEQa"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Cotton Candy Lemonade",
-        "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Cotton Candy Lemonade",
-      "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
-    },
-    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
         "name": "Raspberry Jam",
@@ -783,6 +767,22 @@
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+    },
+    {
+      "added_at": "2022-10-07 04:15:00",
+      "album": {
+        "name": "Iron Lung",
+        "url": "https://open.spotify.com/album/4IgggfOdOljgHno3N0QBMP"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 544517,
+      "name": "Iron Lung",
+      "url": "https://open.spotify.com/track/7G69PANdawtb2rsG2ZGEQa"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -819,6 +819,22 @@
       "duration_ms": 222750,
       "name": "Jump the Turnstile",
       "url": "https://open.spotify.com/track/6EJkSSM4zBJW1AMCLnnXT8"
+    },
+    {
+      "added_at": "2022-10-14 04:22:00",
+      "album": {
+        "name": "Just Before The Morning",
+        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 214497,
+      "name": "Just Before The Morning",
+      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -869,6 +885,38 @@
       "url": "https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM"
     },
     {
+      "added_at": "2022-09-23 23:48:00",
+      "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+    },
+    {
+      "added_at": "2022-10-14 04:22:00",
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
         "name": "Dancin' With Wolves",
@@ -885,20 +933,20 @@
       "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
     },
     {
-      "added_at": "2022-10-14 04:22:00",
+      "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Just Before The Morning",
-        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+        "name": "jams EP",
+        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 214497,
-      "name": "Just Before The Morning",
-      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
+      "duration_ms": 63214,
+      "name": "cloud castle",
+      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -915,22 +963,6 @@
       "duration_ms": 270945,
       "name": "Thin Thing",
       "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "jams EP",
-        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 63214,
-      "name": "cloud castle",
-      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -979,38 +1011,6 @@
       "duration_ms": 204545,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2"
-    },
-    {
-      "added_at": "2022-10-14 04:22:00",
-      "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
-    },
-    {
-      "added_at": "2022-09-23 23:48:00",
-      "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 423346,
-      "name": "Love On The Run",
-      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
     },
     {
       "added_at": "2022-09-23 23:48:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "LUNO",
-        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Set it on Fire",
-      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 187302,
       "name": "The Medium",
       "url": "https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "LUNO",
+        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Set it on Fire",
+      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1163,6 +1163,22 @@
       "duration_ms": 291739,
       "name": "Dreams Via Memories",
       "url": "https://open.spotify.com/track/47rVmhBEJm7bJUYpNcCxsK"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1263,6 +1279,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -1283,22 +1315,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -1308,41 +1324,9 @@
           "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Ultimate Painting",
-        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
-      },
-      "artists": [
-        {
-          "name": "Ultimate Painting",
-          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
-        }
-      ],
-      "duration_ms": 219129,
-      "name": "Ultimate Painting",
-      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 242261,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+      "duration_ms": 187413,
+      "name": "Saturdays",
+      "url": "https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W"
     },
     {
       "added_at": "2022-10-07 16:55:48",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Ultimate Painting",
+        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Painting",
+          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
+        }
+      ],
+      "duration_ms": 219129,
+      "name": "Ultimate Painting",
+      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 266992,
       "name": "Fuzz Jam",
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 242261,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Madison",
-        "url": "https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 222573,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "In The Darkest Of Nights, Let The Birds Sing",
         "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 279361,
       "name": "Under The Moon",
       "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Madison",
+        "url": "https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Saturdays",
-      "url": "https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W"
+      "duration_ms": 240407,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Flavour",
-        "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
+        "name": "After School Club",
+        "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
       },
       "artists": [
         {
-          "name": "Paul Cherry",
-          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
         }
       ],
-      "duration_ms": 240407,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
+      "duration_ms": 254284,
+      "name": "Ruby Sparks",
+      "url": "https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Earth Worship",
-        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
-      },
-      "artists": [
-        {
-          "name": "Rubblebucket",
-          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
-        }
-      ],
-      "duration_ms": 217530,
-      "name": "Earth Worship",
-      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Must Be a Dream",
         "url": "https://open.spotify.com/album/5zGfpfO04UiTB9g73oFi5F"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 258586,
       "name": "Mushroom Cloud",
       "url": "https://open.spotify.com/track/4CBdk3m49AsxYeRwPwQAFI"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Earth Worship",
+        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
+      },
+      "artists": [
+        {
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+        }
+      ],
+      "duration_ms": 217530,
+      "name": "Earth Worship",
+      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/1ZatuoLaIMYhumTppO5I24"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 191630,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/0LLCHT7kYYjKrs4gD5WZPD"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Edge of the Edge",
         "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
       },
@@ -1591,22 +1623,6 @@
       "duration_ms": 288746,
       "name": "Edge of the Edge",
       "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Foam",
-        "url": "https://open.spotify.com/album/1ZatuoLaIMYhumTppO5I24"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 191630,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/0LLCHT7kYYjKrs4gD5WZPD"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1657,36 +1673,20 @@
       "url": "https://open.spotify.com/track/2mHD4qUZMC4xBouFAiwwDt"
     },
     {
-      "added_at": "2022-10-07 16:55:48",
-      "album": {
-        "name": "Tears of Change",
-        "url": "https://open.spotify.com/album/7AIdAe6CcQC3CLdJxY4gXl"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 249543,
-      "name": "Tears of Change",
-      "url": "https://open.spotify.com/track/6J1ntyV5SSlaXYu4UWiSz2"
-    },
-    {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Do U Mind? (Leave the Light On)",
-        "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
       "artists": [
         {
-          "name": "Fleece",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
         }
       ],
-      "duration_ms": 222928,
-      "name": "Do U Mind? (Leave the Light On)",
-      "url": "https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa"
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
     }
   ],
   "unique_name": "Modern Psychedelia",

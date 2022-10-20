@@ -1,15 +1,15 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 416352,
+  "num_followers": 416699,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMDZlMzMxYTE2MzVkYjllMmI2ZmI4MjFkODdmZDZkNzBm",
+  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMDk5NjU4ZTdhNGNjOGFjNjhhYTMyMDdjMDg1MGRhMmI5",
   "tracks": [
     {
-      "added_at": "2022-10-19 01:37:05",
+      "added_at": "2022-10-20 01:30:56",
       "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
     },
     {
-      "added_at": "2022-10-19 01:37:05",
+      "added_at": "2022-10-20 01:30:56",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
-      "added_at": "2022-10-19 01:37:05",
+      "added_at": "2022-10-20 01:30:56",
       "album": {
         "name": "A Devil More Damned / Choke / Mind Right",
         "url": "https://open.spotify.com/album/3VpuG1Z9YmhjOBK77CMdro"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
-      "added_at": "2022-10-19 01:37:05",
+      "added_at": "2022-10-20 01:30:56",
       "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 248746,
       "name": "Twilight Of The Thunder God",
       "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Spreading The Disease",
-        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Madhouse",
-      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Spreading The Disease",
+        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Madhouse",
+      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
       "added_at": "2021-08-11 12:23:17",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
     },
     {
       "added_at": "2021-08-11 12:23:17",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
-      },
-      "artists": [
-        {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
-        }
-      ],
-      "duration_ms": 239779,
-      "name": "Painless",
-      "url": "https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "duration_ms": 239779,
+      "name": "Painless",
+      "url": "https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Black Flame",
-        "url": "https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 233964,
-      "name": "Black Flame - Single Edit",
-      "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/6wkTgZzU6KpCazo4vJInGH"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 171491,
       "name": "Keep Your Distance",
       "url": "https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Black Flame",
+        "url": "https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 233964,
+      "name": "Black Flame - Single Edit",
+      "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
     },
     {
       "added_at": "2021-03-29 12:26:54",

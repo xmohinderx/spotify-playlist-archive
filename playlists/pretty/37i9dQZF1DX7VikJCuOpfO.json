@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 62017,
+  "num_followers": 62028,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGY3ZTEyODRiMzU2ZTY5YmM0YzAxNGUwNTM3NTFkYTVi",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDM5NTNlYmFjNzNkOTIwZGYxZmJmZjk3ODZhYWEwMDM2",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -478,11 +478,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 244642,
-      "name": "Ahi\u0301 Donde Me Ven",
-      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+      "duration_ms": 228989,
+      "name": "Ella Que\u0301 Te Dio",
+      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -598,15 +602,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 228989,
-      "name": "Ella Que\u0301 Te Dio",
-      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+      "duration_ms": 244642,
+      "name": "Ahi\u0301 Donde Me Ven",
+      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 224533,
       "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Todo Cuanto Tuve",
+        "url": "https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 149665,
+      "name": "Todo Cuanto Tuve",
+      "url": "https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Todo Cuanto Tuve",
-        "url": "https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 149665,
-      "name": "Todo Cuanto Tuve",
-      "url": "https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Mi Reflejo",
-      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "12 Exitos De Oro",
         "url": "https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 193333,
       "name": "Camino de Guanajuato",
       "url": "https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Mi Reflejo",
+      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Invasi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mala Racha",
-        "url": "https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Mala Racha",
-      "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 215487,
       "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Con Todo y Mi Tristeza (Live)",
-        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 258730,
-      "name": "Con Todo y Mi Tristeza - Live",
-      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Con Todo y Mi Tristeza (Live)",
+        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 258730,
+      "name": "Con Todo y Mi Tristeza - Live",
+      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
     },
     {
       "added_at": "2022-07-29 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 00s. Cover: Linkin Park",
-  "num_followers": 4387264,
+  "num_followers": 4388132,
   "original_name": "00s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk4NjM0OCwwMDAwMDAwMGMzNmQzYjMzOGQ0OTc3MmFlNzZlMGE0ZTJkMTA4NzVj",
+  "snapshot_id": "MTY2MTk4NjM0OCwwMDAwMDAwMGY3MjExYzQ1NTVkZGNiM2NkNDEyZTMxYzIyMzNhNTBm",
   "tracks": [
     {
       "added_at": "2022-04-17 17:19:54",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     },
     {
       "added_at": "2022-04-17 17:19:54",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Phobia (Explicit Version)",
-        "url": "https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "The Diary of Jane - Single Version",
-      "url": "https://open.spotify.com/track/5pvJ59i7JxylN8VB24xdMs"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "Hail To the Thief",
         "url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 323600,
       "name": "There, There",
       "url": "https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "Phobia (Explicit Version)",
+        "url": "https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "The Diary of Jane - Single Version",
+      "url": "https://open.spotify.com/track/5pvJ59i7JxylN8VB24xdMs"
     },
     {
       "added_at": "2022-04-17 17:19:54",

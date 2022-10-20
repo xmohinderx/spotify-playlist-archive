@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tz da Coronel, MC Cabelinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,888 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,079 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 25 | [Sr das Armas](https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sr das Armas](https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly) | 2:26 |
 | 26 | [Trap da Norte](https://open.spotify.com/track/3yGDTQFX8iiwMwSeDpX18B) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq), [Aires 085](https://open.spotify.com/artist/2mmjHXVxg3uNhf6eqWM7yx), [Mukab](https://open.spotify.com/artist/1rUoRdzeWCqoAn2EoSAj0X), [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61) | [Trap da Norte](https://open.spotify.com/album/3SZkt2nthlWDbgpdU2LL5I) | 4:20 |
 | 27 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
-| 28 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:15 |
+| 28 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 29 | [195' \(Beat do Toledo\)](https://open.spotify.com/track/6jSI2yaJvWOLp5SWD7TcSt) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [195' \(Beat do Toledo\)](https://open.spotify.com/album/5VCiQczCf8ja9Cj795GyhL) | 3:02 |
 | 30 | [Sábado Freestyle](https://open.spotify.com/track/5Uiq0ckUNrjOCzZ2p6MtOx) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy), [Orange Money Gang](https://open.spotify.com/artist/7tUDcOWnGnKjNfTVQus7HQ) | [Sábado Freestyle](https://open.spotify.com/album/3s2y1f3OUiGYejtDToklJu) | 2:18 |
 | 31 | [Vida Almejada](https://open.spotify.com/track/43KGGs9ezBSXeBQYICXQJP) | [Real Sagat](https://open.spotify.com/artist/70LmKRWjk1CWMN4v3sTA1T), [1 Giga](https://open.spotify.com/artist/70xMsCOf6Mz0MiqYPqoeQ6), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Vida Almejada](https://open.spotify.com/album/4aXb83qW0x3INscW6LzuQC) | 3:01 |

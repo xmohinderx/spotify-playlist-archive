@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "A.O.U",
+        "url": "https://open.spotify.com/album/70bw8vjpWZbDxqEBqrOax8"
+      },
+      "artists": [
+        {
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "A.O.U",
+      "url": "https://open.spotify.com/track/0660wv7yEysrDOlPawh9QK"
+    },
+    {
+      "album": {
         "name": "Aatarashii Me (Brand New Eyes)",
         "url": "https://open.spotify.com/album/0dbi5oiNYp7oKBvl8JG8Tw"
       },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 199280,
       "name": "A\u30fbO\u30fbU",
       "url": "https://open.spotify.com/track/0gI1ym4ItvaBBJLSoYnqRS"
@@ -5974,6 +5992,24 @@
     },
     {
       "album": {
+        "name": "Fujin no Shozo (Portrait of a Lady)",
+        "url": "https://open.spotify.com/album/6BQzYaKDVZSdJ8GqE91MsI"
+      },
+      "artists": [
+        {
+          "name": "Yuko Hara",
+          "url": "https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251733,
+      "name": "Slowhand ni Dakarete (Oh Love!!)",
+      "url": "https://open.spotify.com/track/5dmD2fCgxHNMmOkP0i3A62"
+    },
+    {
+      "album": {
         "name": "small talk",
         "url": "https://open.spotify.com/album/5bG9WMj67816n2pprdIgc0"
       },
@@ -7807,6 +7843,24 @@
       "duration_ms": 273906,
       "name": "Yokan",
       "url": "https://open.spotify.com/track/1cxLUJxwnv61587JelBLPt"
+    },
+    {
+      "album": {
+        "name": "YOSOMI",
+        "url": "https://open.spotify.com/album/2XqxQQVh0O8Uetqqzt8VM8"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215834,
+      "name": "YOSOMI",
+      "url": "https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l"
     },
     {
       "album": {
@@ -9943,7 +9997,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 251733,
       "name": "\u30b9\u30ed\u30fc\u30cf\u30f3\u30c9\u306b\u62b1\u304b\u308c\u3066 (Oh Love!!)",
       "url": "https://open.spotify.com/track/4lXUj3lo0LZtrgLdtCfowj"
@@ -11303,7 +11357,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 215834,
       "name": "\u4f59\u6240\u898b",
       "url": "https://open.spotify.com/track/1Kz2Y9PKCU30rjVTajO0mD"

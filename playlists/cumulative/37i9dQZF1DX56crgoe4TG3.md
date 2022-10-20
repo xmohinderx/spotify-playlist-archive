@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-174 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+175 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp) | 3:26 | 2022-05-27 |  |
 | [Toxic](https://open.spotify.com/track/0EkB09i9ohIUnsw45jzEyf) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naim](https://open.spotify.com/album/09Cvd1XS0KwCXfMXukpvSS) | 4:27 | 2021-08-20 | 2022-01-22 |
 | [Under Pressure](https://open.spotify.com/track/2BkIizhyucfTfpnT0jcLCV) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Bluegrass Tribute to Classic Rock](https://open.spotify.com/album/7mJdTwETbMT1qVf7kkq3SB) | 3:36 | 2021-08-20 |  |
-| [Valerie](https://open.spotify.com/track/41YOqmMxkDQZWqMZAExMx1) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri) | 4:54 | 2022-08-09 |  |
+| [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 | 2022-10-07 |  |
+| [Valerie](https://open.spotify.com/track/41YOqmMxkDQZWqMZAExMx1) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri) | 4:54 | 2022-08-09 | 2022-10-20 |
 | [Walk This Way](https://open.spotify.com/track/31iIGTRrL3X0RfOM6zv0Mk) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Mountain Love](https://open.spotify.com/album/6V64FxexuvUbun8AnRKYKs) | 4:18 | 2021-08-20 | 2022-01-22 |
 | [Walking on Sunshine](https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine](https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B) | 3:07 | 2021-08-20 |  |
 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/0J74kr54nlrBjodALQYuc7) | 3:55 | 2021-08-20 | 2022-07-29 |

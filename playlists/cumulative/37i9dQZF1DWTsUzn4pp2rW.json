@@ -425,10 +425,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 196154,
       "name": "Back to the Start",
       "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
+    },
+    {
+      "album": {
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm"
+      },
+      "artists": [
+        {
+          "name": "Gordon Robertson",
+          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196154,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n"
     },
     {
       "album": {
@@ -3187,6 +3205,28 @@
     {
       "album": {
         "name": "Same Way Home",
+        "url": "https://open.spotify.com/album/7yirPo5yscyEu6l0yJMh51"
+      },
+      "artists": [
+        {
+          "name": "Rotem Sivan",
+          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
+        },
+        {
+          "name": "Mike Goldstein",
+          "url": "https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178786,
+      "name": "Same Way Home",
+      "url": "https://open.spotify.com/track/4WgcqTAXHGKi0NrbE1b1PK"
+    },
+    {
+      "album": {
+        "name": "Same Way Home",
         "url": "https://open.spotify.com/album/7qNO6QXzhsJarTBHXXlhwL"
       },
       "artists": [
@@ -3201,7 +3241,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 178786,
       "name": "Same Way Home",
       "url": "https://open.spotify.com/track/5ja2Rt6qki0on26cKUOrbG"

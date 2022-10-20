@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-388 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+389 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-16 | 2022-01-12 |
 | [Painkiller](https://open.spotify.com/track/3L1y08P3oCRP1ecxyCEfnm) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Painkiller](https://open.spotify.com/album/3o8lhNYrKvv25wA5sZFBL1) | 3:03 | 2022-03-25 | 2022-07-27 |
 | [Pale Damp Cheeks](https://open.spotify.com/track/2toOLLWUzPPGXYjv3sZlN0) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Pale Damp Cheeks](https://open.spotify.com/album/2pN3kmD7RLWl0axrlU7OuE) | 3:33 | 2021-12-16 | 2022-07-29 |
-| [Pale Damp Cheeks](https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:33 | 2022-09-13 |  |
+| [Pale Damp Cheeks](https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:33 | 2022-09-13 | 2022-10-20 |
 | [paper thin](https://open.spotify.com/track/6SjmmjdOvQcQ5lR7E7E7Em) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [paper thin](https://open.spotify.com/album/0hkbQ2Xpo7VOFoq2LgHsCM) | 3:06 | 2022-03-25 | 2022-04-19 |
 | [Paramaniac](https://open.spotify.com/track/6bO7GeKYXEvOEDi9O3zMOC) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Paramaniac](https://open.spotify.com/album/3ol4KhcloRgpuQaA9B9rW3) | 3:00 | 2022-03-25 | 2022-04-17 |
 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2021-12-16 | 2022-01-12 |
@@ -295,6 +295,7 @@
 | [Róisín](https://open.spotify.com/track/5efHoPUOCPywINwkok3U13) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Róisín](https://open.spotify.com/album/2G89n4hSvqfs7vPjBATd1o) | 4:03 | 2021-12-16 | 2022-02-22 |
 | [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 | 2022-05-31 |  |
 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-31 |  |
+| [Screaming At Traffic](https://open.spotify.com/track/3xlV9ddro4IMk92Ti0cHc1) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Screaming At Traffic](https://open.spotify.com/album/0awqSPSGOzyjsYteW1IfiM) | 3:55 | 2022-10-11 |  |
 | [Seasons](https://open.spotify.com/track/22GqKGx91w1CBrEpnkSIFT) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Seasons](https://open.spotify.com/album/5vcLgFSiyypgDgR3qzPsS6) | 3:33 | 2021-12-16 | 2022-07-08 |
 | [Seasons](https://open.spotify.com/track/2CEEKREL8eUBhNvsafRAsb) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Seasons](https://open.spotify.com/album/5pYxp6NKGkEZK8E9e6vvox) | 3:19 | 2021-12-16 | 2022-02-15 |
 | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey) | 3:24 | 2021-12-16 |  |

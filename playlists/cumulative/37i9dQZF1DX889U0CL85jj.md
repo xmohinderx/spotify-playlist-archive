@@ -4,7 +4,7 @@
 
 > Just chill.
 
-357 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+358 songs - 20 hr 37 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-06-07 |  |
 | [Dandelions](https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Dandelions](https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3) | 2:27 | 2022-09-29 |  |
 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 | 2019-11-13 | 2022-09-30 |
-| [Diamond](https://open.spotify.com/track/47NI4YCiDHbQ5c78awnGnL) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/1AdGn8BC7x3miVnZiDVW3m) | 3:23 | 2020-05-29 |  |
+| [Diamond](https://open.spotify.com/track/0CDf8A5GogzQdJlTh4L22f) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/314L5eEcSAupRv9pQdKiMj) | 3:23 | 2022-08-19 |  |
+| [Diamond](https://open.spotify.com/track/47NI4YCiDHbQ5c78awnGnL) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/1AdGn8BC7x3miVnZiDVW3m) | 3:23 | 2020-05-29 | 2022-10-20 |
 | [Dicking Around](https://open.spotify.com/track/6FGQSNQmdHth8rWT4yXBxU) | [All Things Blue](https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty) | [Dicking Around](https://open.spotify.com/album/5iwgSC9tIV0KdA5feGdkNI) | 4:05 | 2020-08-21 | 2022-01-22 |
 | [Disappear](https://open.spotify.com/track/3l2Tof2jle63mkRXF8MH89) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love](https://open.spotify.com/album/0jO4fXVHqEh3J1OgCfkxoi) | 2:59 | 2020-07-31 | 2022-01-22 |
 | [do you come here often?](https://open.spotify.com/track/0ShHM5WuJOUCexBXVi52My) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/4glGICjO9phzJWlRMZAw9r) | 2:34 | 2020-12-11 | 2022-01-22 |

@@ -161,6 +161,24 @@
     {
       "album": {
         "name": "A.O.U",
+        "url": "https://open.spotify.com/album/70bw8vjpWZbDxqEBqrOax8"
+      },
+      "artists": [
+        {
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "A.O.U",
+      "url": "https://open.spotify.com/track/0660wv7yEysrDOlPawh9QK"
+    },
+    {
+      "album": {
+        "name": "A.O.U",
         "url": "https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv"
       },
       "artists": [
@@ -225,10 +243,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 189733,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/2VUtTnTYe2wA3Bj13YfLwq"
+    },
+    {
+      "album": {
+        "name": "ALL MY LOVE",
+        "url": "https://open.spotify.com/album/3jZyvxRqAx1iS3dl8p1r3g"
+      },
+      "artists": [
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189733,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6AXZEkvpntH6PBotxzRHjg"
     },
     {
       "album": {
@@ -419,7 +455,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 199280,
       "name": "A\u30fbO\u30fbU",
       "url": "https://open.spotify.com/track/0gI1ym4ItvaBBJLSoYnqRS"
@@ -1483,10 +1519,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 177999,
       "name": "GET OUT OF MY WAY",
       "url": "https://open.spotify.com/track/43QaBA5Nv7TlI2fWm6xdFS"
+    },
+    {
+      "album": {
+        "name": "GET OUT OF MY WAY / LIES",
+        "url": "https://open.spotify.com/album/7dnGarzmHEVTHewmc0SLHP"
+      },
+      "artists": [
+        {
+          "name": "THE BAWDIES",
+          "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "GET OUT OF MY WAY",
+      "url": "https://open.spotify.com/track/43y8Frn9DFTWoGDIICszwC"
     },
     {
       "album": {

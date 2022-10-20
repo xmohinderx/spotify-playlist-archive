@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 43 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 |
 | 44 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
 | 45 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
-| 46 | [Green Tea](https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77) | 1:15 |
+| 46 | [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 |
 | 47 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
 | 48 | [Lift Me \(Somehow\)](https://open.spotify.com/track/5xg4pqB1l4LdI46Jw9qgtU) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 2:22 |
 | 49 | [In Love](https://open.spotify.com/track/16Pc6ZWQZxwc8wLzF2VZUf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Smile](https://open.spotify.com/album/4mXCEus360pAz7z3uF5dp6) | 2:47 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY2NTQ4ODMxMywwMDAwMDAwMDU2ODE5N2QzN2Q4NjcxZDA5MmZhNTZkNThlMzQxMjM4`
+Snapshot ID: `MTY2NTQ4ODMxMywwMDAwMDAwMDUzMjQ5YjBmYmI0ZjU1MmQ5NzRmOGNiN2Y0ZWE2NTY1`

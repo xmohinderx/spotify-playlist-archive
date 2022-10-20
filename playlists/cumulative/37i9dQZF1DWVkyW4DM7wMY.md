@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-133 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+134 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-02 |  |
 | [Hold On To The Faith](https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Mutoriah](https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 4:06 | 2022-02-04 |  |
 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 | 2022-05-05 |  |
-| [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 |  |
+| [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |
+| [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 | 2022-02-04 |  |
 | [iBururu](https://open.spotify.com/track/3WoZm7j7yedbj9Dh0XIYBX) | [Sema Sole](https://open.spotify.com/artist/6bKkC8yidNL8j94vKjLysJ) | [Bururu](https://open.spotify.com/album/5dtXHFvbsamHEh8YB9MGbX) | 2:54 | 2021-10-15 | 2022-01-28 |
 | [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 | 2022-01-27 |  |
 | [JAMES BOND](https://open.spotify.com/track/0Iq3j9CMUCsCi2j10BS4os) | [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [JAMES BOND](https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu) | 3:16 | 2021-10-29 | 2022-04-29 |

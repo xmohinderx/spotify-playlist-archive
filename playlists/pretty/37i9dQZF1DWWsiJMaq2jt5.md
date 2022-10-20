@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Marie, ZUZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,429 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,433 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 22 | [Chyba Mam Talent](https://open.spotify.com/track/0rZC9a28OiA6r3VaiqN1j0) | [Mei Bee](https://open.spotify.com/artist/6MYxeBePETj6Ojx2O5BQhY) | [Chyba Mam Talent](https://open.spotify.com/album/2QZ4bThz0HMG2qmcJocHLH) | 2:15 |
 | 23 | [Odnaleźć siebie](https://open.spotify.com/track/63WJLUQKWhE6BWj8eX1Z7p) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [Punkt](https://open.spotify.com/album/4jGIMCoPJGtLeyKplKSGa9) | 3:12 |
 | 24 | [RESET](https://open.spotify.com/track/1oFjSjY6J7hVgaVk34Dbug) | [Effy](https://open.spotify.com/artist/662m0WrjxDl2ZrWAghojh2) | [RESET](https://open.spotify.com/album/3vGl0F36Ma750OpvW64cBh) | 2:38 |
-| 25 | [nowe dni \- DJ BLIK Remix](https://open.spotify.com/track/0kT6JDuMPE3kgNNchEBjZQ) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er), [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE) | [nowe dni \(DJ BLIK Remix\)](https://open.spotify.com/album/2NRIvLwaVdrIdd2TzPkk6p) | 3:19 |
+| 25 | [nowe dni \- DJ BLIK Remix](https://open.spotify.com/track/0kT6JDuMPE3kgNNchEBjZQ) | [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE), [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [nowe dni \(DJ BLIK Remix\)](https://open.spotify.com/album/2NRIvLwaVdrIdd2TzPkk6p) | 3:19 |
 | 26 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 |
 | 27 | [Jestem Sama](https://open.spotify.com/track/2wVEJLV3G5X84wvIoD80Tz) | [Cheap Tobacco](https://open.spotify.com/artist/15kkqvIcypRQGUiE17Shej) | [Zobaczmy siebie](https://open.spotify.com/album/5v8Bwq2B8IfgSVX6gwTWAP) | 3:40 |
 | 28 | [Dom](https://open.spotify.com/track/0994m6eCysoWo0ktdPeKDN) | [Dom](https://open.spotify.com/artist/2c5U1fI5RJhjNo9r7lRbeN), [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [Dom](https://open.spotify.com/album/6KgJvMIcwnHFocD6RQb03x) | 2:58 |

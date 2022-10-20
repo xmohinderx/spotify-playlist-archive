@@ -442,6 +442,28 @@
     },
     {
       "album": {
+        "name": "Dia E Noite",
+        "url": "https://open.spotify.com/album/5pSLZZgFtTk8RkdCGEjLBg"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407886,
+      "name": "Dia E Noite",
+      "url": "https://open.spotify.com/track/0xmAELkU7sFGUFEyRI0cSb"
+    },
+    {
+      "album": {
         "name": "Eis-me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
       },
@@ -1523,7 +1545,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 324106,
       "name": "Teu Colo",
       "url": "https://open.spotify.com/track/5sPGKCa94oyGCcci4c3rOO"

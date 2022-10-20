@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-290 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+291 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dream Cycle](https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Dream Cycle](https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK) | 3:47 | 2022-01-26 | 2022-04-06 |
 | [Dream On](https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy) | [Glaue](https://open.spotify.com/artist/4LLym899uwEUeuVo6KdVom) | [Dream On](https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA) | 3:17 | 2022-01-12 | 2022-03-19 |
 | [Dreams](https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Dreams](https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC) | 4:17 | 2021-11-30 | 2022-03-05 |
-| [Drift Away](https://open.spotify.com/track/2L8at3lop2IDJyYeBMMUZa) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Drift Away](https://open.spotify.com/album/6syTBBVYJJ9Tlp4sBAW2k4) | 3:42 | 2022-08-08 |  |
+| [Drift Away](https://open.spotify.com/track/2L8at3lop2IDJyYeBMMUZa) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Drift Away](https://open.spotify.com/album/6syTBBVYJJ9Tlp4sBAW2k4) | 3:42 | 2022-08-08 | 2022-10-20 |
 | [Drive You Crazy](https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Drive You Crazy](https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb) | 2:58 | 2022-07-08 | 2022-09-23 |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 | 2022-08-23 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 |  |
@@ -174,6 +174,7 @@
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-11-19 | 2022-02-09 |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 | 2022-04-29 |
+| [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 |  |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |
 | [Never Enough](https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Never Enough](https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ) | 3:17 | 2022-02-04 | 2022-04-15 |

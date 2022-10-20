@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,274 likes - 176 songs - 10 hr 50 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,272 likes - 176 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 175 | [Thinking of You](https://open.spotify.com/track/41AOkJlfivoqLJkRB24gSg) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Thinking of You](https://open.spotify.com/album/0xhA16A3yuvBMXDJPeady0) | 2:19 |
 | 176 | [In Time](https://open.spotify.com/track/71d0LLbBBL4jSSW6wEi46L) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [In Time](https://open.spotify.com/album/5XZ7G9zMJi24jBlHPCvJov) | 3:09 |
 
-Snapshot ID: `MzU2Nyw1ODg4MTE3MjBiMTg4ZGY3NTliYzk1MDY3Nzk3OTMwMjQ0NTVkOTBm`
+Snapshot ID: `MzU2OSw0MTEyYmE3NzljNDIyNmJjYjZmZmRlMzk5ZTc2ZTAyMjZhYzU3NzQ0`

@@ -2,7 +2,7 @@
 
 ### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
-> Gospel songs to get you in the spirit\. Co Curated with  <a href="https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM?si=k29csgK5SCS3Jxvbb4BFqg"> Dunsin Onyekan </a>
+> Gospel songs to get you in the spirit\. Co Curated with  <a href="https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM?si=k29csgK5SCS3Jxvbb4BFqg"> Dunsin Oyekan </a>
 
 109 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/1toGnroDshW8oBUaPKzsqs)
 

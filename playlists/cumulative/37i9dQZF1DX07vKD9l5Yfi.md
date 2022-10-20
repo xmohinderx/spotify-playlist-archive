@@ -4,7 +4,7 @@
 
 > The perfect noughties blend.
 
-348 songs - 22 hr 54 min - [published](https://open.spotify.com/playlist/1Ixrmajco4KVFepb8BsSWg)
+349 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/1Ixrmajco4KVFepb8BsSWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2020-06-18 |  |
 | [Breakaway](https://open.spotify.com/track/4PFAm88FBkY7IFtvCaGctZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:57 | 2019-05-26\* | 2022-07-29 |
 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2019-05-26\* | 2022-07-29 |
-| [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 | 2020-06-18 |  |
+| [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 | 2020-06-18 | 2022-10-20 |
 | [Breathe](https://open.spotify.com/track/7yXjksHE9AvARHQIi6sRIV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Fearless \(Australian Version\)](https://open.spotify.com/album/3hJQGLUpAAXYJ0M3e1mzps) | 4:23 | 2019-06-12 | 2021-10-12 |
 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 | 2019-06-21 | 2022-07-29 |
 | [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:32 | 2020-06-18 | 2022-04-20 |
@@ -290,6 +290,7 @@
 | [The Girl You Lost To Cocaine](https://open.spotify.com/track/71OEw0nMZ0cMEohrqls17w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have Real Problems](https://open.spotify.com/album/0968MMSuTXHb939ixF6x6q) | 2:40 | 2020-06-18 | 2022-04-21 |
 | [The Last Day on Earth](https://open.spotify.com/track/6qTmjG7thRJEOaUKFmfjGR) | [Kate Miller\-Heidke](https://open.spotify.com/artist/6sfUgwUTFjy1SNF2uWOcPp) | [Curiouser](https://open.spotify.com/album/4MfZuQLc3X8SwngAcD6OLD) | 4:47 | 2022-04-18 | 2022-07-07 |
 | [The Last High](https://open.spotify.com/track/4jWtqHOLwFoXMsXtlnBK7v) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 4:46 | 2021-07-24 | 2021-07-27 |
+| [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2020-06-18 |  |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/1GvL5xdSY7n46XFKDVGKeA) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/0QS7D1gSA5fqSEV2QKNf0c) | 4:01 | 2019-05-27 | 2022-07-29 |
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2019-06-22 | 2022-02-27 |
 | [The Only Exception](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 4:27 | 2019-06-25 | 2022-04-21 |

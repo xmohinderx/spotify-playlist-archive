@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-335 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+336 songs - 20 hr 24 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Circling](https://open.spotify.com/track/2zQl6KpCsrsy7dcBnd2jec) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Circling](https://open.spotify.com/album/5YAFmQHeZWhtgAiyZ77UBF) | 3:20 | 2022-03-19 | 2022-04-14 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-03-19 |  |
 | [Comedown](https://open.spotify.com/track/2EjgVZre5ONvZLNw59kEIn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Does It Make You Feel Good?](https://open.spotify.com/album/5UumZ7WIf4xAJyv4OZHafI) | 4:20 | 2021-11-12 | 2022-10-13 |
+| [Comedown](https://open.spotify.com/track/7bFFH4Kfb7rwbDdDli0TAF) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Does It Make You Feel Good?](https://open.spotify.com/album/2mbIiYHX4NXOZAPJcAugNT) | 4:20 | 2022-08-05 |  |
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2021-11-12 |  |
 | [Company](https://open.spotify.com/track/6eMknw1c14DlpWrzx31fE6) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Company](https://open.spotify.com/album/6dvtm35R23LaMWnZnJxja1) | 3:26 | 2022-03-09 | 2022-06-27 |
 | [Control Freak](https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Control Freak](https://open.spotify.com/album/0BO0643aYpi1fi3eRP0wn0) | 3:27 | 2022-03-19 | 2022-04-14 |
@@ -116,7 +117,7 @@
 | [Golden Streams](https://open.spotify.com/track/1ydKJam8dKbqePWynTqBNz) | [The Hidden Cameras](https://open.spotify.com/artist/6qJSWLT4bvL49hEyXxc3G9) | [The Smell of Our Own](https://open.spotify.com/album/6JShLMI9IkYCFdM1Gv5dAC) | 4:31 | 2022-03-19 | 2022-04-14 |
 | [Gone](https://open.spotify.com/track/7eRaK8LJUUgStuF29HpNsQ) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Gone](https://open.spotify.com/album/4tvYoJP6LcXBpHglrrH1BP) | 2:51 | 2022-03-19 | 2022-04-11 |
 | [Gone](https://open.spotify.com/track/2f8Rbm4F9RtcO3KubofP6N) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/7FSIgCkJqoayiLPaNvmESo) | 3:32 | 2022-03-19 | 2022-04-16 |
-| [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-11-12 |  |
+| [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-11-12 | 2022-10-20 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-04-08 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-06-22 |  |
 | [Gracie](https://open.spotify.com/track/0FAZwSMwU1rJIkalvkLBfT) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Gracie](https://open.spotify.com/album/6JHyo5Yy3rAr1SCpBfI9SR) | 3:19 | 2021-11-12 | 2022-07-23 |

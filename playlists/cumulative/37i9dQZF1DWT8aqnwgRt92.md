@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-306 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+307 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [ICHIBANBOSHI SONORITY](https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [ENDING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0) | 4:14 | 2022-08-02 | 2022-08-24 |
 | [Ignition!!! \- feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち](https://open.spotify.com/track/6C4o9z0wwUCoohbwNgfEiu) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Ignition!!! \(feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち\)](https://open.spotify.com/album/21HSg6v7NUE1KMijeF9BNd) | 3:37 | 2022-07-07 | 2022-07-29 |
 | [infinite Resonance](https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO) | 4:02 | 2022-09-06 | 2022-10-19 |
-| [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 |  |
+| [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-20 |
 | [Kaerimichi no Iro](https://open.spotify.com/track/78c6wtbj63K6xdK7GOtrbt) | [Shibuya HAL](https://open.spotify.com/artist/2KCxMDtyrp9krF6gdxCNRF) | [Kaerimichi no Iro](https://open.spotify.com/album/3CNJSvUBH2vITGSpYWslA2) | 4:09 | 2022-07-28 | 2022-08-24 |
 | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 | 2022-09-27 |  |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 | 2022-07-06 |
@@ -195,7 +195,8 @@
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-06-30 | 2022-07-29 |
 | [ウェルカム・トゥ・レインボーワンダーランド!](https://open.spotify.com/track/5w64RQzcBGp7ykGmEo634d) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/4iYu17ZFXJ2CF1MEwEFKz8) | 3:53 | 2022-09-27 | 2022-09-29 |
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 | 2022-08-17 |
-| [エクリプス](https://open.spotify.com/track/6mQeCaAtCOPtzJLZqDTmiG) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [エクリプス](https://open.spotify.com/album/1lDzHRBSL0fzeGglBM7N8w) | 3:23 | 2022-10-18 |  |
+| [エクリプス](https://open.spotify.com/track/2JeLniD4bXVqmsDHFrccBx) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [エクリプス](https://open.spotify.com/album/6rGaUpBPHfsQlvLYSpwpYG) | 3:23 | 2022-10-19 |  |
+| [エクリプス](https://open.spotify.com/track/6mQeCaAtCOPtzJLZqDTmiG) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [エクリプス](https://open.spotify.com/album/1lDzHRBSL0fzeGglBM7N8w) | 3:23 | 2022-10-18 | 2022-10-20 |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2022-10-18 |  |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-21 | 2022-07-29 |
 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 | 2022-07-14 | 2022-10-09 |

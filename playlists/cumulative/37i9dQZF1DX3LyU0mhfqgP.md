@@ -4,7 +4,7 @@
 
 > The newest songs from LGBTQIA+ artists\. Cover: corook
 
-416 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+417 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [If He’s In Your Bed](https://open.spotify.com/track/0U23ciBXYlRAbKdmCvjj3D) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [If He’s In Your Bed](https://open.spotify.com/album/7HRTMuELuWE0AbCX2xENYo) | 2:21 | 2021-12-17 | 2022-07-29 |
 | [IF I KNEW YOU IN A PAST LIFE](https://open.spotify.com/track/1cb5DwlrURMljmqfoLF0oC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:26 | 2022-02-18 | 2022-05-26 |
 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 | 2022-07-31 | 2022-10-13 |
+| [If It's Not God](https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt) | 3:39 | 2022-10-08 |  |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-02-07 | 2022-04-21 |
 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 | 2021-12-17 | 2022-01-29 |
 | [In My Drinks](https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [In My Drinks](https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u) | 3:23 | 2022-07-15 |  |
@@ -266,7 +267,7 @@
 | [May Flowers](https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [May Flowers](https://open.spotify.com/album/6b6lr7abIADkzifUd8gNfE) | 3:30 | 2021-12-17 | 2022-01-28 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:24 | 2021-12-17 | 2022-01-29 |
 | [Middle of Love](https://open.spotify.com/track/12f5yNRJaFUHWO25n3r9iG) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Middle of Love](https://open.spotify.com/album/2u66BiWE50bX5HDSwkjnjh) | 3:20 | 2021-12-17 | 2022-01-29 |
-| [Modern Love](https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Modern Love](https://open.spotify.com/album/0GysfkO8T10XaXkAh8i4tn) | 3:40 | 2022-09-09 |  |
+| [Modern Love](https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Modern Love](https://open.spotify.com/album/0GysfkO8T10XaXkAh8i4tn) | 3:40 | 2022-09-09 | 2022-10-20 |
 | [Mommy Issues](https://open.spotify.com/track/1Wijb40j4KaoASJ3S5peRl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Mommy Issues](https://open.spotify.com/album/1bH2Fwvfe1b6qC11rt2Ihd) | 2:49 | 2022-03-22 | 2022-04-29 |
 | [Montana](https://open.spotify.com/track/4Di9q4hZf7Qt0xpudHjfXi) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Montana](https://open.spotify.com/album/3KVxTEpADMVtFxqgLlAN7c) | 3:23 | 2021-12-17 | 2022-01-29 |
 | [My Kink is Karma](https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink is Karma](https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N) | 3:42 | 2022-05-09 |  |

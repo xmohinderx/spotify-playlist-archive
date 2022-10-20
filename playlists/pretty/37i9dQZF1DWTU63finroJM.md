@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,600 likes - 230 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,667 likes - 230 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 86 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 87 | [Afterglow](https://open.spotify.com/track/4HqdrhdEZPxzEIdZKVBLdX) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Afterglow](https://open.spotify.com/album/6Ji3Fl8vFaadhk1ZBHUBkI) | 3:01 |
 | 88 | [Chỉ Là Muốn Nói](https://open.spotify.com/track/1rzSPuqZ1SGGHyLB07LvuV) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k) | [Chỉ Là Muốn Nói](https://open.spotify.com/album/3ucLzMARHejSL4wfkrMTqd) | 4:46 |
-| 89 | [i'll find my way to you tomorrow](https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS) | 3:45 |
+| 89 | [i'll find my way to you tomorrow](https://open.spotify.com/track/6kRAuOoZBRLwZQYjFdGjIa) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/2bzG2vEFeUShVRUrJUlO7D) | 3:45 |
 | 90 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 |
 | 91 | [I Know](https://open.spotify.com/track/6Pf224HDEoj3VJYJHLXVcT) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [I Know](https://open.spotify.com/album/7KgqCgEl6eqy7to8gAvDij) | 2:58 |
 | 92 | [Berani](https://open.spotify.com/track/02LsjyEhRszT50M3zqBsbQ) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Berani](https://open.spotify.com/album/2lPgDRjtMqX8KtysPcxCJB) | 3:17 |
@@ -188,7 +188,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 178 | [Parasite](https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parasite](https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy) | 4:01 |
 | 179 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 |
 | 180 | [La Típica Canción](https://open.spotify.com/track/6yGP9c0OkKZgdqBjec9HMu) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [La Típica Canción](https://open.spotify.com/album/0ryHHMD4YYIG14d9qeyKGo) | 2:57 |
-| 181 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 |
+| 181 | [列車](https://open.spotify.com/track/6WbuHDgdXVgR0mFRTfNGV1) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/5glyFsen8lsrwHIrIH9LG6) | 4:40 |
 | 182 | [Energy](https://open.spotify.com/track/1bj5ZFpxGFP5ooQcctNVB4) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [Energy](https://open.spotify.com/album/6sKrmGGTFELOes2uZ8LxUk) | 4:58 |
 | 183 | [Chemistry](https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Chemistry](https://open.spotify.com/album/6LcvpXRe8CBUuQW1oBPJsX) | 3:36 |
 | 184 | [Promise](https://open.spotify.com/track/7f8J4YRGkwAJdPGFB6JWSk) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Promise](https://open.spotify.com/album/3HEh0OCDDBE5ECmzIgPuPD) | 4:17 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 229 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 |
 | 230 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 |
 
-Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMDYxYTZhODEwN2MzMmE0Y2JiMGY0OTU0OWM0ZmJhMGU3`
+Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMDI1ZGE2NjZlNjUxYWY1Y2E4NjA2NjA4MzE1NTI1N2Vk`

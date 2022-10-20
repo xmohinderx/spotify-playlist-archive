@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Batom",
+        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212147,
+      "name": "Batom",
+      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
+    },
+    {
+      "album": {
         "name": "Beijam",
         "url": "https://open.spotify.com/album/4VK90Rvs5zStsJW6cMiOpX"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 256026,
       "name": "Cara Trancada",
       "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
@@ -3937,7 +3955,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 235179,
       "name": "Rainha",
       "url": "https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf"
@@ -4381,7 +4399,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 202397,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"

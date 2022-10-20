@@ -4,7 +4,7 @@
 
 > Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw?si=lhAF\_Zx7Sruk6PRZSdzSoA">Lil Yachty</a>
 
-88 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
+89 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Till The Wheels Fall Off \(feat\. Lil Durk & Capella Grey\)](https://open.spotify.com/track/2oExMFdhTMgBTbHUvMJaC4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 5:11 | 2022-07-08 |  |
 | [To The Bone \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:43 | 2022-10-06 |  |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-22 | 2022-10-07 |
+| [Tony Fontana III](https://open.spotify.com/track/4AaHIZNMciJU34kFU0v90x) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Tony Fontana III](https://open.spotify.com/album/1P1hGKDVh1HloPnyM4XKZ0) | 3:04 | 2022-10-13 |  |
 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-09-15 | 2022-10-14 |
 | [Truth](https://open.spotify.com/track/667Z6mId3zPL0Eg9oWkkTy) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Truth](https://open.spotify.com/album/2QRgLpkAKI9YvmBGrI4A1w) | 2:23 | 2022-10-06 |  |
 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-08-01 |  |

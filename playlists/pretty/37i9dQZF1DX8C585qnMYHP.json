@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Lila Tirando a Violeta Artwork: Thami Nabil",
-  "num_followers": 93988,
+  "num_followers": 94084,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMDhlNTQ2NjA2Njc3ZTgyYmM1ZjQ5ODIzNjkwODUxODI3",
+  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMGU5ODhkZWZhYzdjZWUyMWNiM2Y4YzA4NjMzZmFlMDAx",
   "tracks": [
     {
       "added_at": "2022-09-14 04:00:00",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
     },
     {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
+      },
+      "artists": [
+        {
+          "name": "OKRAA",
+          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
+        }
+      ],
+      "duration_ms": 645372,
+      "name": "Ola De Luz",
+      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
+    },
+    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "After Dark 4",
@@ -635,22 +651,6 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO"
-    },
-    {
-      "added_at": "2022-09-27 23:34:16",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
-      },
-      "artists": [
-        {
-          "name": "OKRAA",
-          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
-        }
-      ],
-      "duration_ms": 645372,
-      "name": "Ola De Luz",
-      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
     },
     {
       "added_at": "2022-09-27 23:34:16",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
     },
     {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Say Goodbye To The Wind",
-        "url": "https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerio Tricoli",
-          "url": "https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD"
-        }
-      ],
-      "duration_ms": 1544292,
-      "name": "Spopolatore",
-      "url": "https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI"
-    },
-    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "J\u00e4rnn\u00e4tter",
@@ -851,18 +835,34 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "Ensayo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
+        "name": "Say Goodbye To The Wind",
+        "url": "https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ"
       },
       "artists": [
         {
-          "name": "Panoptica",
-          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
+          "name": "Valerio Tricoli",
+          "url": "https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
-      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
+      "duration_ms": 1544292,
+      "name": "Spopolatore",
+      "url": "https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI"
+    },
+    {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

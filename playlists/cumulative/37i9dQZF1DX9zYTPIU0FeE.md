@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui\-WWOzA">The Brother Moves On</a>
 
-83 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
+84 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bamako Love Song](https://open.spotify.com/track/1kLnNSKAO9HxS4qKbR9aza) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Welcome to This World](https://open.spotify.com/album/42rE11bATq8xq7vID2ekDw) | 5:22 | 2022-04-28 |  |
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-08-18 |  |
 | [Bhaca Blue](https://open.spotify.com/track/4AncHenxnWxZS5ftGRZLc2) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Genesis of a Different World](https://open.spotify.com/album/1jpy0s4HMRWrT2RIJDWkp9) | 7:56 | 2022-04-28 |  |
-| [Breathe](https://open.spotify.com/track/2LpXQfDBYoJnK8MrNT8fR4) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [Therapy](https://open.spotify.com/album/6jnWbrTXFf7LjWXmf0qr2r) | 5:01 | 2022-04-28 |  |
+| [Breathe](https://open.spotify.com/track/0Ybt7GtFdFutFAcDG8BadS) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [THERAPY](https://open.spotify.com/album/2IST9MireQnJPgGwTbkWM9) | 4:59 | 2022-04-28 |  |
+| [Breathe](https://open.spotify.com/track/2LpXQfDBYoJnK8MrNT8fR4) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [Therapy](https://open.spotify.com/album/6jnWbrTXFf7LjWXmf0qr2r) | 5:01 | 2022-04-28 | 2022-10-20 |
 | [Chanel's Mood](https://open.spotify.com/track/6vWowjcocZCZWuMlbbH08k) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [Skemerdans, Season 1 \(Music from the Showmax Original Series\)](https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1) | 2:44 | 2022-04-28 |  |
 | [Chosi](https://open.spotify.com/track/0VXVa4Xzf9DUyEjJ9wOx6j) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Chosi](https://open.spotify.com/album/4GWzyQiFsfojuInUn28tFn) | 5:06 | 2022-04-28 |  |
 | [Coline's Rose](https://open.spotify.com/track/46jEAx7SjJP7ehdIJ8x4Ed) | [Kyle Shepherd](https://open.spotify.com/artist/5qnR032jCYhmChV9WTt7bf), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW) | [A portrait of Home](https://open.spotify.com/album/761w2jUHcpl6r6wdhfvMy2) | 5:14 | 2022-04-28 |  |

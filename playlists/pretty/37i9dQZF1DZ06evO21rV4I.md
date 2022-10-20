@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,136 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,171 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 |
 | 50 | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/track/5Z3H2xgKsw5Sa3p0MGAVnT) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/album/1YNTbT0uHszzYnMeUIUHCk) | 3:17 |
 
-Snapshot ID: `Mjc3Njg1NDQsMDAwMDAwMDAwMDQxZDU4NTg5YmNkNWFkN2E3YWM1ODNmYmI1MDA0OQ==`
+Snapshot ID: `Mjc3Njk3ODMsMDAwMDAwMDA3NzE1YjYyY2FjN2RlODA3OGIyYTNkMDRiNmNhYzlmNg==`

@@ -1212,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 1)",
+        "url": "https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Yakusoku wa Iranai",
+      "url": "https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX"
+    },
+    {
+      "album": {
         "name": "yet",
         "url": "https://open.spotify.com/album/24D1Hykq1hhR0XFoMOFZgV"
       },
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 212336,
       "name": "\u7d04\u675f\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl"

@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Luis R Conriquez & Lefty SM en portada.
 
-122 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2tqsxTYWGTldl03rJgOBmK)
+123 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2tqsxTYWGTldl03rJgOBmK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Así la Vivo Yo](https://open.spotify.com/track/4SYaEOPOUyeNkU7OQm97TQ) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Yaz Tarelo](https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB) | [Así la Vivo Yo](https://open.spotify.com/album/4u1qy1RYfnKF0cRgZGrftW) | 3:47 | 2022-07-05 | 2022-07-30 |
 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2022-07-05 |  |
 | [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 | 2022-08-31 |  |
-| [Bien Recio](https://open.spotify.com/track/3BpjbirYqKfKKMNmip9MS4) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bien Recio](https://open.spotify.com/album/6hRcRpnnB6iGB1oEFhVAiy) | 4:24 | 2022-09-23 |  |
+| [Bien Recio](https://open.spotify.com/track/03dzLSXkE8tyk0kJEQF99T) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bien Recio](https://open.spotify.com/album/4DH0m1WeTHgJbvAqIykRj1) | 4:24 | 2022-09-23 |  |
+| [Bien Recio](https://open.spotify.com/track/3BpjbirYqKfKKMNmip9MS4) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bien Recio](https://open.spotify.com/album/6hRcRpnnB6iGB1oEFhVAiy) | 4:24 | 2022-09-23 | 2022-10-20 |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-31 |  |
 | [Bombos y Tarolas](https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091) | 4:52 | 2022-06-01 | 2022-07-29 |
 | [Bombos y Tarolas](https://open.spotify.com/track/5MyEACD2kRFeh231Z6FkdE) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP) | 4:52 | 2022-06-01 |  |

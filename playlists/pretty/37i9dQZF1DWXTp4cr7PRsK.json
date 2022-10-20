@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 255,
+  "num_followers": 270,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGNmNDdhYzc4YjY1MTVmYzVkYTMwZTUwMjJmZWVjMmU0",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDE0MzZjN2UxMDdjZjc2MTNmM2IwZjg0MjUyM2UyYzQ5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158240,
+      "name": "WUNNA",
+      "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Prospect (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/0EmINljXosug1gnqewNqnn"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 226313,
       "name": "Prospect (ft. Lil Baby)",
       "url": "https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158240,
-      "name": "WUNNA",
-      "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
     },
     {
       "added_at": "2022-10-01 16:00:00",

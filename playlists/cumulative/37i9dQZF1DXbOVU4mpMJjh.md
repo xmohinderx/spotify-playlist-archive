@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-418 songs - 1 day 10 hr 38 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+419 songs - 1 day 10 hr 42 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [After All](https://open.spotify.com/track/2r3dQilQpgjPbRomN7GAvD) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN), [Joost Lijbaart](https://open.spotify.com/artist/7E7tPSNlkKLV4hnzhC9KKu), [Wolfert Brederode](https://open.spotify.com/artist/5G9DP1W3O68G7XA8sxIZDH), [Gulli Gudmundsson](https://open.spotify.com/artist/23MQJmhn0On07tkIuc9jDA) | [After All](https://open.spotify.com/album/3FMzxDxBTIi2HsmaTNKhV0) | 5:22 | 2022-04-14 | 2022-09-23 |
 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 | 2022-06-30 | 2022-10-08 |
 | [After You've Gone](https://open.spotify.com/track/1z2FcRqCR6byfXDSvHq8E4) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [After You've Gone](https://open.spotify.com/album/2dhSC7isUhzg4n9b1X6fnS) | 7:04 | 2022-04-14 | 2022-07-28 |
+| [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 |  |
 | [Alien](https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [Alien](https://open.spotify.com/album/4wd3MrBQdLzBLd6LqwhKX2) | 5:15 | 2022-04-14 | 2022-09-15 |
 | [All the Things You Are](https://open.spotify.com/track/1Lh7U5c3EvLBb6lSgHVFlR) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [All the Things You Are](https://open.spotify.com/album/2MswvfhuxKNK5cYoo14DVB) | 2:50 | 2022-04-14 | 2022-05-03 |
 | [All Things Considered](https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o) | [Andy Laverne](https://open.spotify.com/artist/0wHlC8tumVxWRyxKutlQUm), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p), [Mike Richmond](https://open.spotify.com/artist/4UAdAgxnybF0chEX9FXX9m), [Jason Tiemann](https://open.spotify.com/artist/4bj8k1TAVycxbk0zCHtpTR) | [Faith](https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8) | 10:52 | 2022-04-14 | 2022-09-23 |
@@ -388,7 +389,7 @@
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-29 |  |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-16 |  |
 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 | 2022-04-14 | 2022-10-08 |
-| [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-11 |  |
+| [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-11 | 2022-10-20 |
 | [Turiya & Ramakrishna](https://open.spotify.com/track/4DVu7YgHVJaeN0C7HNpy2q) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD) | 8:18 | 2022-04-14 | 2022-04-28 |
 | [Turn Down the Lights](https://open.spotify.com/track/0ogRwGa7KtCUBF2PKJKO3F) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 2:57 | 2022-09-15 | 2022-10-19 |
 | [Turn Out the Stars](https://open.spotify.com/track/5jD6uLibX1R7wKGFJ6zx4N) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tenor Madness](https://open.spotify.com/album/5FxWL2Ad3i7pqcouKIeXJM) | 5:01 | 2022-04-14 | 2022-10-03 |

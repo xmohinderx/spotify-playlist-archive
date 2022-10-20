@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Bicep
 
-359 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+360 songs - 21 hr 45 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Hold On](https://open.spotify.com/track/4XCmCiKriuXyeVIiWFqufT) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Kye Sones](https://open.spotify.com/artist/5nF0tVCTlrhdEqM09GyOZn) | [Hold On](https://open.spotify.com/album/32beJPCbHTH4VQN2BeoRY6) | 3:14 | 2021-12-17 | 2022-02-25 |
 | [Hold Up](https://open.spotify.com/track/7v44o3tyblVCSuxkYLikqo) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Hold Up](https://open.spotify.com/album/16GGgdCTPeOEkI5XlcBdI1) | 4:03 | 2022-09-30 |  |
 | [Holding On](https://open.spotify.com/track/6UZLaX7RvpJPtYlKToF6Kw) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Holding On \(Braxton Breaks Remix\)](https://open.spotify.com/album/2Aaak5nShlajiaQoiNIg7m) | 3:38 | 2022-03-08 | 2022-03-10 |
-| [How It Feels](https://open.spotify.com/track/1YTzo41VV6ja39GPmONFM7) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [How It Feels](https://open.spotify.com/album/2GAvjkJOgFuMqyRVI9D0F1) | 3:36 | 2022-07-21 |  |
+| [How It Feels](https://open.spotify.com/track/1YTzo41VV6ja39GPmONFM7) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [How It Feels](https://open.spotify.com/album/2GAvjkJOgFuMqyRVI9D0F1) | 3:36 | 2022-07-21 | 2022-10-20 |
+| [How It Feels](https://open.spotify.com/track/6B5mLkpggtjG1xGMc3jOqC) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [How It Feels](https://open.spotify.com/album/5C1CMJPKYQPyHmxVjOTPJ4) | 3:36 | 2022-10-13 |  |
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-02-18 | 2022-06-24 |
 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-09-01 |  |
 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 | 2022-10-07 |  |

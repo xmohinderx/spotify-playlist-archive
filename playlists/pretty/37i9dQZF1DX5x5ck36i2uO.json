@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6105,
+  "num_followers": 6111,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMDlhZWEyMWUxMzM1YjE1NzZiMjliOTJiMGI3Yzg2ODNi",
+  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMGEyMTdmNDFiNTYyNmUzNTE3OWFlNmRjZWFkNjZlNmYx",
   "tracks": [
     {
       "added_at": "2022-07-22 09:31:48",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Roommate",
+      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 243760,
       "name": "\ubcc0\ud558\uc9c0 \uc54a\uc544",
       "url": "https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Roommate",
-      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Bloo Story",
-      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 182013,
       "name": "Chingchingching (Feat. DeVita)",
       "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Bloo Story",
+      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
     },
     {
       "added_at": "2022-07-22 09:31:48",

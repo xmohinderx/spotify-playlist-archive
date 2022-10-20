@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 30434,
+  "num_followers": 30474,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDViZmNmYTQ1M2YzZWQ1NmEyYjNkN2M5NTkyNzcyZDZh",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDY3NWM0OTYyMDNmOWQ3YTBkNTYyZWRlMzNkN2VkMDdl",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Cascade Symmetry",
-        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
-      },
-      "artists": [
-        {
-          "name": "r beny",
-          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
-        }
-      ],
-      "duration_ms": 204353,
-      "name": "Cascade Symmetry",
-      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Cascade Symmetry",
+        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
+      },
+      "artists": [
+        {
+          "name": "r beny",
+          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
+        }
+      ],
+      "duration_ms": 204353,
+      "name": "Cascade Symmetry",
+      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Together in Static",
-        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 155375,
-      "name": "Together in Static",
-      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+        "name": "Together in Static",
+        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
       },
       "artists": [
         {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+      "duration_ms": 155375,
+      "name": "Together in Static",
+      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -655,6 +639,22 @@
       "duration_ms": 311783,
       "name": "Park Line",
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Vu Hijera",
-        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Vu Hijera",
-      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Vu Hijera",
+        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Vu Hijera",
+      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "wander into",
         "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 353000,
       "name": "wander into",
       "url": "https://open.spotify.com/track/3E9IXQVQhaf79PXNr24GDy"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -763,6 +779,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Probe 6-8",
+        "url": "https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 343106,
+      "name": "Para Guy",
+      "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Tide Pools",
         "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
       },
@@ -795,54 +827,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Probe 6-8",
-        "url": "https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 343106,
-      "name": "Para Guy",
-      "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Orange Blue Green",
         "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
       },
@@ -859,22 +843,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
-      },
-      "artists": [
-        {
-          "name": "Hoavi",
-          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Scene Memory 2",
         "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
       },
@@ -887,6 +855,22 @@
       "duration_ms": 186774,
       "name": "Alternations",
       "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -915,6 +899,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
+      },
+      "artists": [
+        {
+          "name": "Hoavi",
+          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Kosmic Headroom",
+        "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
+      },
+      "artists": [
+        {
+          "name": "Poulson Sq.",
+          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
+        }
+      ],
+      "duration_ms": 253047,
+      "name": "Kosmic Headroom",
+      "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -959,22 +975,6 @@
       "duration_ms": 452476,
       "name": "The Hermit",
       "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Kosmic Headroom",
-        "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
-      },
-      "artists": [
-        {
-          "name": "Poulson Sq.",
-          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
-        }
-      ],
-      "duration_ms": 253047,
-      "name": "Kosmic Headroom",
-      "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Home Stories",
         "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Aerious EP",
+        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
+      },
+      "artists": [
+        {
+          "name": "Tryst (UK)",
+          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
+        }
+      ],
+      "duration_ms": 277753,
+      "name": "Reflections On The Waterfront",
+      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Good Sound",
         "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
       },
@@ -1183,34 +1183,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sleep to Dream",
-        "url": "https://open.spotify.com/album/5PNTUZ4CGVrnxF67xlaGZ5"
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 263142,
-      "name": "Sleep to Dream",
-      "url": "https://open.spotify.com/track/5KwymU2QG0VItvZCLk0Sg7"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Aerious EP",
-        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
-      },
-      "artists": [
-        {
-          "name": "Tryst (UK)",
-          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
-        }
-      ],
-      "duration_ms": 277753,
-      "name": "Reflections On The Waterfront",
-      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1279,6 +1263,26 @@
       "duration_ms": 317393,
       "name": "BELOW",
       "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Biholomorphia",
+        "url": "https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ"
+      },
+      "artists": [
+        {
+          "name": "Benedict Mortimer",
+          "url": "https://open.spotify.com/artist/5lSHzqed7L3SMDtjlJiayM"
+        },
+        {
+          "name": "Mark Watt",
+          "url": "https://open.spotify.com/artist/3TvtIr14xDVHS7GHt3BNm6"
+        }
+      ],
+      "duration_ms": 438355,
+      "name": "Biholomorphia",
+      "url": "https://open.spotify.com/track/5y3BBX09xecawyqoZWFt5v"
     }
   ],
   "unique_name": "Modular Synths",

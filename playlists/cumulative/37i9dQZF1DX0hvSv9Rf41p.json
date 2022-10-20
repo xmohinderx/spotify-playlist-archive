@@ -3515,10 +3515,32 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 146000,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/1NVvUFQF36tfet1CoAN2fM"
+    },
+    {
+      "album": {
+        "name": "Kiwi",
+        "url": "https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Foramic",
+          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q"
     },
     {
       "album": {

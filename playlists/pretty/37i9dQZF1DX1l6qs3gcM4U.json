@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz",
-  "num_followers": 142299,
+  "num_followers": 142388,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDIxNzYxNzU5NTQzOWM0OTliZGEzNTBmYjZiZmRlN2E1",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGZhNmE0ZDU2YmY1MzVhYzM0ZmY0NWRlZGQ1NzRiODc3",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -39,6 +39,54 @@
       "duration_ms": 225621,
       "name": "2AM",
       "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 255690,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Viaja",
+        "url": "https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 225507,
+      "name": "Viaja",
+      "url": "https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "\u00c9 Golo",
+        "url": "https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "\u00c9 Golo",
+      "url": "https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -87,54 +135,6 @@
       "duration_ms": 366394,
       "name": "Versos & Poesias #4: C\u00e9u Azul",
       "url": "https://open.spotify.com/track/3VPdA0kcMEOiOq5Pk1oOul"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Viaja",
-        "url": "https://open.spotify.com/album/5PasfkH4nK8fillN3pAZRR"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 225507,
-      "name": "Viaja",
-      "url": "https://open.spotify.com/track/2DDBsczCQqIQ09t7Uf2uG2"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "\u00c9 Golo",
-        "url": "https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u00c9 Golo",
-      "url": "https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 255690,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 202113,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Kua Buaru",
         "url": "https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 181346,
       "name": "Kua Buaru",
       "url": "https://open.spotify.com/track/4CleTVckv87HCeEpj05X52"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 202113,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "A.N.V.",
+        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "A Nossa Vez",
+      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Uma Chance",
         "url": "https://open.spotify.com/album/0rUNe2VEgs2ktWLH8VrQsG"
       },
@@ -355,30 +371,6 @@
       "duration_ms": 217276,
       "name": "Dem\u00f3nio da Tarraxinha",
       "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Suleban",
-      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -431,18 +423,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "A.N.V.",
-        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 217853,
-      "name": "A Nossa Vez",
-      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
+      "duration_ms": 200598,
+      "name": "Suleban",
+      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Tudo de Novo",
-        "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
-      },
-      "artists": [
-        {
-          "name": "Eva Rapdiva",
-          "url": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
-        },
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Tudo de Novo",
-      "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Tudo por Amor",
         "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 206290,
       "name": "Tudo por Amor",
       "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Tudo de Novo",
+        "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
+      },
+      "artists": [
+        {
+          "name": "Eva Rapdiva",
+          "url": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
+        },
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Tudo de Novo",
+      "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+        "name": "Don't Judge Me (Saxo-Kizomba)",
+        "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+          "name": "P. Lowe",
+          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
+        },
+        {
+          "name": "M&n Pro",
+          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
+      "duration_ms": 296000,
+      "name": "Don't Judge Me (Saxo-Kizomba)",
+      "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1171,6 +1175,22 @@
       "duration_ms": 195493,
       "name": "You",
       "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Don't Judge Me (Saxo-Kizomba)",
-        "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
-      },
-      "artists": [
-        {
-          "name": "P. Lowe",
-          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
-        },
-        {
-          "name": "M&n Pro",
-          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Don't Judge Me (Saxo-Kizomba)",
-      "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "J\u00e1 Deu",
         "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "J\u00e1 N\u00e3o Sei",
-        "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 261115,
-      "name": "J\u00e1 N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Quem \u00c9 ?",
         "url": "https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj"
       },
@@ -1307,22 +1287,6 @@
       "duration_ms": 199219,
       "name": "Quem \u00c9 ?",
       "url": "https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1343,6 +1307,42 @@
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "J\u00e1 N\u00e3o Sei",
+        "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 261115,
+      "name": "J\u00e1 N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1383,6 +1383,42 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Batom",
+        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Batom",
+      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Elji Beatzkilla",
+          "url": "https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ"
+        }
+      ],
+      "duration_ms": 235179,
+      "name": "Rainha",
+      "url": "https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1411,42 +1447,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Si Ki Min Kr\u00e8",
-        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Si Ki Min Kr\u00e8",
-      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Sinto Falta",
-        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 202397,
-      "name": "Sinto Falta",
-      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Felicidade",
         "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
       },
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Cara Trancada",
-        "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
       "artists": [
         {
-          "name": "KONSTANTINO",
-          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Cara Trancada",
-      "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     }
   ],
   "unique_name": "Dancing Kizomba",

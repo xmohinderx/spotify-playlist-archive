@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Unnati Shah, Artwork: Isu Kim",
+  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Madmast, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 169672,
       "name": "Ae Adaa",
       "url": "https://open.spotify.com/track/6YXsutXu14CVluUquXYj3U"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 173076,
       "name": "Did You Know",
       "url": "https://open.spotify.com/track/5z3jl5kdmQF7rJ8OPyRyr6"
@@ -2213,6 +2213,42 @@
       "duration_ms": 220800,
       "name": "Dil",
       "url": "https://open.spotify.com/track/31TNJUESVv25PwVauicMsK"
+    },
+    {
+      "album": {
+        "name": "Dil Bawra",
+        "url": "https://open.spotify.com/album/7Lpb7YtL2bHU6q6oEacS6f"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Deshmukh",
+          "url": "https://open.spotify.com/artist/3HiO5a3yy7KtslxTJrBLNL"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290232,
+      "name": "Dil Bawra",
+      "url": "https://open.spotify.com/track/7wqmHuIP2SF5hdPtWrAwso"
+    },
+    {
+      "album": {
+        "name": "Dil Khuda Tu",
+        "url": "https://open.spotify.com/album/0CClNhVaYM415ArYUq2Y9t"
+      },
+      "artists": [
+        {
+          "name": "Aditya Kalway",
+          "url": "https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Dil Khuda Tu",
+      "url": "https://open.spotify.com/track/39wfLOxVKYy5n8SnScagR9"
     },
     {
       "album": {
@@ -2495,7 +2531,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 197391,
       "name": "Easily",
       "url": "https://open.spotify.com/track/5fdYOozo411bAafTNWX6DN"
@@ -2553,6 +2589,32 @@
       "duration_ms": 253933,
       "name": "Ek Aisi Shaam - An Evening To Remember",
       "url": "https://open.spotify.com/track/5sQMsukipYLE0IIrE82oep"
+    },
+    {
+      "album": {
+        "name": "Ek Sham Ho",
+        "url": "https://open.spotify.com/album/15tFBYIsmBJqrbUrHuc5VQ"
+      },
+      "artists": [
+        {
+          "name": "Rituraj Dutta",
+          "url": "https://open.spotify.com/artist/7mV7QXk1nSEW3HBslpiUtS"
+        },
+        {
+          "name": "Kalyani Bora",
+          "url": "https://open.spotify.com/artist/20IPIOTO6CJzLqWzEpP3Rl"
+        },
+        {
+          "name": "Sudarsan Bordoloi",
+          "url": "https://open.spotify.com/artist/3pn9WkjcRjC7MZiHl0eLFZ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213919,
+      "name": "Ek Sham Ho",
+      "url": "https://open.spotify.com/track/2DzoRZA13Mg7qTn6uAIQU9"
     },
     {
       "album": {
@@ -2705,6 +2767,24 @@
       "duration_ms": 288333,
       "name": "Faces of The Moon",
       "url": "https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/3YBiYgJe1wACslK6im4eK0"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kundu",
+          "url": "https://open.spotify.com/artist/6oQxFIAXcMq0j30K85JQB1"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240019,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/6jKWkpiuvzzMUW8tkH7Be8"
     },
     {
       "album": {
@@ -3234,6 +3314,44 @@
     },
     {
       "album": {
+        "name": "Gumshuda Ki Talaash",
+        "url": "https://open.spotify.com/album/3W6OaxRNKgmqkpb9rSoayR"
+      },
+      "artists": [
+        {
+          "name": "Madmast",
+          "url": "https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY"
+        },
+        {
+          "name": "Vaibhav Sharma",
+          "url": "https://open.spotify.com/artist/0NodMMnhAa0idBBJjEahzT"
+        },
+        {
+          "name": "Keshav Parthasarathy",
+          "url": "https://open.spotify.com/artist/5GSfTNyns154BhSLwWluNY"
+        },
+        {
+          "name": "Anish Nair",
+          "url": "https://open.spotify.com/artist/1Zh9u9ekjX2taEn6CHdESW"
+        },
+        {
+          "name": "Nishant Nair",
+          "url": "https://open.spotify.com/artist/406kfqBWAtFHKGfKGlKaVl"
+        },
+        {
+          "name": "Saurav Dutta",
+          "url": "https://open.spotify.com/artist/6TXLdm0Yx24l6r7ImLT4jL"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286535,
+      "name": "Gumshuda ki Talaash",
+      "url": "https://open.spotify.com/track/2sqinCkMH0s95saWmrvQo0"
+    },
+    {
+      "album": {
         "name": "Guzarish",
         "url": "https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ"
       },
@@ -3387,7 +3505,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 254333,
       "name": "Hide",
       "url": "https://open.spotify.com/track/0W10TL64os9A2FihL8QV3A"
@@ -3431,6 +3549,24 @@
       "duration_ms": 215624,
       "name": "Hijr",
       "url": "https://open.spotify.com/track/74EQcvxB3vSnf058KbfgNp"
+    },
+    {
+      "album": {
+        "name": "Ho Tum Yahan",
+        "url": "https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu"
+      },
+      "artists": [
+        {
+          "name": "Piyush Bhisekar",
+          "url": "https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "Ho Tum Yahan",
+      "url": "https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH"
     },
     {
       "album": {
@@ -3572,6 +3708,24 @@
     },
     {
       "album": {
+        "name": "Humnasheen",
+        "url": "https://open.spotify.com/album/5KoHGZvWEd87DiOYBObl89"
+      },
+      "artists": [
+        {
+          "name": "Raahul Jatin",
+          "url": "https://open.spotify.com/artist/5wNjditr9MmYWJe7gDqWyF"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280250,
+      "name": "Humnasheen",
+      "url": "https://open.spotify.com/track/6tZ4vuMAQBfC7wjuu3lXTY"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1GZEWfnH5QEckY9ocOiUAA"
       },
@@ -3649,6 +3803,24 @@
       "duration_ms": 181354,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/6jEtt7vITwg5BlAYrVUWHe"
+    },
+    {
+      "album": {
+        "name": "I Just Wish That",
+        "url": "https://open.spotify.com/album/4knc7szD7YKinOCTiFn4uM"
+      },
+      "artists": [
+        {
+          "name": "Aary",
+          "url": "https://open.spotify.com/artist/2wo8VCzhPjs1ofWeIQ7fkM"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "I Just Wish That",
+      "url": "https://open.spotify.com/track/5IJG4G9UTdHxkiY1GyM0KS"
     },
     {
       "album": {
@@ -3781,7 +3953,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 270947,
       "name": "i'll find you",
       "url": "https://open.spotify.com/track/0D6eLIyn9XjSmZjPa4NN34"
@@ -4415,7 +4587,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 288000,
       "name": "Jhula",
       "url": "https://open.spotify.com/track/7HagQ0XH1WKPphsAqRGCgP"
@@ -5180,6 +5352,24 @@
     },
     {
       "album": {
+        "name": "Khoobi",
+        "url": "https://open.spotify.com/album/1ICJkkMQwTMKeGDwUV2ext"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174838,
+      "name": "Khoobi",
+      "url": "https://open.spotify.com/track/2qA6DtqFCyeIEAdSI2hGWu"
+    },
+    {
+      "album": {
         "name": "Khota Pyaar",
         "url": "https://open.spotify.com/album/4AqYTOcwbozZUZd1dkDpOh"
       },
@@ -5677,7 +5867,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 226631,
       "name": "Lavinia",
       "url": "https://open.spotify.com/track/1GIGwGjBw5CT3QKK7Ibw6b"
@@ -6701,7 +6891,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 206379,
       "name": "Midnite Spaceflite",
       "url": "https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T"
@@ -8986,6 +9176,24 @@
     },
     {
       "album": {
+        "name": "Same, Familiar",
+        "url": "https://open.spotify.com/album/2yvuoIAE3pzQMFxUulTUbe"
+      },
+      "artists": [
+        {
+          "name": "Krameri",
+          "url": "https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Same, Familiar",
+      "url": "https://open.spotify.com/track/3cspFnyhbCVmwcCNoRVqBb"
+    },
+    {
+      "album": {
         "name": "Sang Chalu",
         "url": "https://open.spotify.com/album/1ZoL2TvwErKQUTGsHK8hon"
       },
@@ -9230,6 +9438,24 @@
     },
     {
       "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/1QNOrOkm65FWtqBXlLhnF2"
+      },
+      "artists": [
+        {
+          "name": "Arham Fulfagar",
+          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173755,
+      "name": "September",
+      "url": "https://open.spotify.com/track/21s2lKn0n7iFDGtawSMlKR"
+    },
+    {
+      "album": {
         "name": "Seventh Heaven",
         "url": "https://open.spotify.com/album/2U19ItQdZM5Af14fSiPdCC"
       },
@@ -9259,7 +9485,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 212869,
       "name": "Shaam",
       "url": "https://open.spotify.com/track/4ktaJXIoCnhjODrOwSCPBg"
@@ -9505,7 +9731,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 237482,
       "name": "Someone To Rely On",
       "url": "https://open.spotify.com/track/3ObhVfAPn5qYx2ZNBvA6nK"
@@ -10597,7 +10823,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 226771,
       "name": "Trampoline",
       "url": "https://open.spotify.com/track/62wIEo8z0vfdeYihXzrXsm"
@@ -10727,6 +10953,32 @@
       "duration_ms": 238030,
       "name": "Tu Na Jaane - From \"Gulmohar\"",
       "url": "https://open.spotify.com/track/4w18QmkrEx6IWAawhyqNBO"
+    },
+    {
+      "album": {
+        "name": "Tuhi Meri Bhalobasa",
+        "url": "https://open.spotify.com/album/7mza7vU0awmeeLUoA3IH8U"
+      },
+      "artists": [
+        {
+          "name": "Sayak Ghosal",
+          "url": "https://open.spotify.com/artist/5eOcyjra7QZ3EjVq0fQbK2"
+        },
+        {
+          "name": "Meghna Biswas",
+          "url": "https://open.spotify.com/artist/7lNFK2ggVoq8jpMwHBES2B"
+        },
+        {
+          "name": "Jhonti Chakraborty",
+          "url": "https://open.spotify.com/artist/07aQgurm052E1ftFaNOzRe"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313450,
+      "name": "Tuhi Meri Bhalobasa",
+      "url": "https://open.spotify.com/track/5ZebnfCMXP7mQsY2khgTwK"
     },
     {
       "album": {
@@ -10867,7 +11119,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 184216,
       "name": "Tum Sang",
       "url": "https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl"

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-601 songs - 1 day 16 hr 21 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+602 songs - 1 day 16 hr 25 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [You & Me](https://open.spotify.com/track/6j04uewYlGesO1udV72rv8) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [You & Me](https://open.spotify.com/album/7bFmphJq8vUgm4hWONZX85) | 3:23 | 2022-06-07 | 2022-07-29 |
 | [You're my perfect mirror](https://open.spotify.com/track/19292wQKsyLO6SrT1IGlWi) | [富金原佑菜](https://open.spotify.com/artist/75pZmt1oHpu1jO8so1wp6P) | [You're my perfect mirror](https://open.spotify.com/album/1whMo4kK8sjP2qIjQX04jJ) | 5:05 | 2022-06-07 | 2022-07-27 |
 | [Your Name](https://open.spotify.com/track/3yU4bAIj873n4QI2otkPO8) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Your Name](https://open.spotify.com/album/2IPmik2ZoemnGk0V2VlWiI) | 3:37 | 2022-06-07 | 2022-10-13 |
+| [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 | 2022-10-20 |  |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/7md7CglfYIdzVPco9bdQMy) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name\. \(Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QAbGrQVTzyUDTS9ld0OEN) | 4:44 | 2022-06-07 | 2022-07-25 |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-06-07 |  |
 | [あなたがいる](https://open.spotify.com/track/0zrqEdXxtNbM9ksb3WJjsv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [あなたがいる](https://open.spotify.com/album/6YfYZIqDNCQ1iVMJ6Silga) | 4:15 | 2022-06-07 | 2022-07-24 |
@@ -599,7 +600,7 @@
 | [闇夜](https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [闇夜](https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp) | 3:49 | 2022-06-07 |  |
 | [降伏論](https://open.spotify.com/track/31Plz4DOklCxq2Cr2Mm2hC) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [降伏論](https://open.spotify.com/album/3yREHLogaH1oCBTo5YmNGZ) | 4:01 | 2022-06-07 | 2022-07-29 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-06-07 |  |
-| [雲外憧憬](https://open.spotify.com/track/0hoDK2KuG46nECLXOellqq) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [雲外憧憬](https://open.spotify.com/album/75HOex15jymUudlA2nMFTJ) | 3:46 | 2022-06-07 |  |
+| [雲外憧憬](https://open.spotify.com/track/0hoDK2KuG46nECLXOellqq) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [雲外憧憬](https://open.spotify.com/album/75HOex15jymUudlA2nMFTJ) | 3:46 | 2022-06-07 | 2022-10-20 |
 | [青い](https://open.spotify.com/track/6zY1qStXzwVqWC4UVxvENW) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [青い](https://open.spotify.com/album/6OpdA3ZpZ9T33dB4QRHzud) | 4:09 | 2022-06-07 | 2022-07-23 |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-06-07 | 2022-07-23 |
 | [風に吹かれて](https://open.spotify.com/track/4BQgbUodnb7th8UhjX8nuZ) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/0APY6iqv5wrIhRvBPBzx5C) | 4:31 | 2022-06-07 | 2022-07-29 |

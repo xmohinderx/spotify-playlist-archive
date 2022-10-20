@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Girl in Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,434 likes - 178 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,606 likes - 178 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

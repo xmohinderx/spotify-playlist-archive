@@ -1,179 +1,35 @@
 {
   "description": "sabe aquela m\u00fasica que c\u00ea ouve pelas redes mas n\u00e3o sabe o nome? pois ent\u00e3o",
-  "num_followers": 119693,
+  "num_followers": 119913,
   "original_name": "faz a trend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjA3OTUwNywwMDAwMDAwMGU5MmUzNjhmNGZkMmM1MTM4MzE3ZDEwM2YyZDhhYTE0",
+  "snapshot_id": "MTY2NjIyMDYyMCwwMDAwMDAwMGVlOWViZmFlNzhhYzc1MzNmMzBkOWJhOTVlZDY1NTFh",
   "tracks": [
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
-        "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
-        "url": "https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u"
+        "name": "Sorrisin de Puto",
+        "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 166305,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
-      "url": "https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Trap Funk Star",
-        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
         },
         {
           "name": "DJ Matt D",
           "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         }
       ],
-      "duration_ms": 206068,
-      "name": "Pe\u00e7as De Griffe",
-      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
+      "duration_ms": 137000,
+      "name": "Sorrisin de Puto",
+      "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Geme Bem Baixinho (Speed Up)",
-        "url": "https://open.spotify.com/album/4Z1T6S5gfPSyfPOgnugBUj"
-      },
-      "artists": [
-        {
-          "name": "Listen&Chill",
-          "url": "https://open.spotify.com/artist/7pHWcxjiJFl1OAp3i9lP8G"
-        }
-      ],
-      "duration_ms": 142233,
-      "name": "Geme Bem Baixinho (Speed Up)",
-      "url": "https://open.spotify.com/track/7HxloZhx5EyZk3s4IAbSvk"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Ultimamente Speed",
-        "url": "https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4"
-      },
-      "artists": [
-        {
-          "name": "dreko",
-          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
-        }
-      ],
-      "duration_ms": 130254,
-      "name": "Ultimamente Speed",
-      "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "202 (Speed)",
-        "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
-      },
-      "artists": [
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        }
-      ],
-      "duration_ms": 142006,
-      "name": "202 - Speed",
-      "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "S\u00f3ca Fofo",
-        "url": "https://open.spotify.com/album/1fFWCmbCHx0tNkdpTaEhV1"
-      },
-      "artists": [
-        {
-          "name": "A Dama",
-          "url": "https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "S\u00f3ca Fofo",
-      "url": "https://open.spotify.com/track/0zRsByaebl5MgRe51RP6uE"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 157497,
-      "name": "Mount Everest",
-      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "O Sol e a Lua",
-        "url": "https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER"
-      },
-      "artists": [
-        {
-          "name": "kamaitachi",
-          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
-        }
-      ],
-      "duration_ms": 157781,
-      "name": "O Sol e a Lua",
-      "url": "https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "\u00c9 o Trem!",
-        "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "CalliCartel",
-          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        }
-      ],
-      "duration_ms": 120046,
-      "name": "N\u00e3o faz isso Comigo n\u00e3o",
-      "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Bota Em Voc\u00ea Machuca (feat. Flow Key, Bernax e DJ RD)",
         "url": "https://open.spotify.com/album/1YpMz1WLeqmMr51EpGOczq"
@@ -209,7 +65,187 @@
       "url": "https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
+        "url": "https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 166305,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
+      "url": "https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Trap Funk Star",
+        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 206068,
+      "name": "Pe\u00e7as De Griffe",
+      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "202 (Speed)",
+        "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        }
+      ],
+      "duration_ms": 142006,
+      "name": "202 - Speed",
+      "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 157497,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "S\u00f3ca Fofo",
+        "url": "https://open.spotify.com/album/1fFWCmbCHx0tNkdpTaEhV1"
+      },
+      "artists": [
+        {
+          "name": "A Dama",
+          "url": "https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "S\u00f3ca Fofo",
+      "url": "https://open.spotify.com/track/0zRsByaebl5MgRe51RP6uE"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Ultimamente Speed",
+        "url": "https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4"
+      },
+      "artists": [
+        {
+          "name": "dreko",
+          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
+        }
+      ],
+      "duration_ms": 130254,
+      "name": "Ultimamente Speed",
+      "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Seresta pra Pared\u00e3o 1.0",
+        "url": "https://open.spotify.com/album/6Ok8SK4z7b82mFHbsl0UjC"
+      },
+      "artists": [
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "duration_ms": 164649,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde",
+      "url": "https://open.spotify.com/track/7dtqLzElhmI02vsKlUoGdO"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "O Sol e a Lua",
+        "url": "https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "duration_ms": 157781,
+      "name": "O Sol e a Lua",
+      "url": "https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Geme Bem Baixinho (Speed Up)",
+        "url": "https://open.spotify.com/album/4Z1T6S5gfPSyfPOgnugBUj"
+      },
+      "artists": [
+        {
+          "name": "Listen&Chill",
+          "url": "https://open.spotify.com/artist/7pHWcxjiJFl1OAp3i9lP8G"
+        }
+      ],
+      "duration_ms": 142233,
+      "name": "Geme Bem Baixinho (Speed Up)",
+      "url": "https://open.spotify.com/track/7HxloZhx5EyZk3s4IAbSvk"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "\u00c9 o Trem!",
+        "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "CalliCartel",
+          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "duration_ms": 120046,
+      "name": "N\u00e3o faz isso Comigo n\u00e3o",
+      "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Pagodin",
         "url": "https://open.spotify.com/album/0qxF58RwVxjcah4ktJyc8I"
@@ -241,23 +277,7 @@
       "url": "https://open.spotify.com/track/5cji6LNml8t6OR2vGkPXmw"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "in between everything",
-        "url": "https://open.spotify.com/album/1ssO74VtSjbPQlf6sA0oNF"
-      },
-      "artists": [
-        {
-          "name": "EZI",
-          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/3T9K3rHpNZrcXAnlMBIakW"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "As Melhores 2018",
         "url": "https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP"
@@ -273,59 +293,39 @@
       "url": "https://open.spotify.com/track/7hLMdZXOL5NpX7Lncqb8eo"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
-        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
+        "name": "Plut\u00e3o",
+        "url": "https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Deavele Santos",
+          "url": "https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM"
         }
       ],
-      "duration_ms": 189800,
-      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
+      "duration_ms": 142734,
+      "name": "Pra pra pra",
+      "url": "https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
-        "name": "Dengo (Lo-Fi Remix)",
-        "url": "https://open.spotify.com/album/6NLE0S9sPvazvMXp2fLweU"
+        "name": "in between everything",
+        "url": "https://open.spotify.com/album/1ssO74VtSjbPQlf6sA0oNF"
       },
       "artists": [
         {
-          "name": "Lebline Chill",
-          "url": "https://open.spotify.com/artist/3wPKkWWElH0a9xfxP5nnyE"
+          "name": "EZI",
+          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Dengo (Lo-Fi Remix)",
-      "url": "https://open.spotify.com/track/4IhbAaOLugP1ojXT7BaB3v"
+      "duration_ms": 158446,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/3T9K3rHpNZrcXAnlMBIakW"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Baile de Favela (Remix)",
-        "url": "https://open.spotify.com/album/2QooHZjnY08kc69Dnrdb4V"
-      },
-      "artists": [
-        {
-          "name": "Piero da Vinci & Fr4nk Cr4nk",
-          "url": "https://open.spotify.com/artist/5h4fVp3m9YtTT2LLDi6azy"
-        }
-      ],
-      "duration_ms": 251259,
-      "name": "Baile de Favela - Remix",
-      "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Put0 & Cheiroso",
         "url": "https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "\u00d4 L\u00e1 na Ro\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ"
@@ -377,43 +377,59 @@
       "url": "https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
-        "name": "Sorrisin de Puto",
-        "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
+        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
       },
       "artists": [
         {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         },
         {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Sorrisin de Puto",
-      "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
+      "duration_ms": 189800,
+      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
-        "name": "Celebridade",
-        "url": "https://open.spotify.com/album/3AWSqsscief0hJ5hVdjTS4"
+        "name": "Dengo (Lo-Fi Remix)",
+        "url": "https://open.spotify.com/album/6NLE0S9sPvazvMXp2fLweU"
       },
       "artists": [
         {
-          "name": "Listen&Chill",
-          "url": "https://open.spotify.com/artist/5RkkaraeiYGoDTJxBpFywx"
+          "name": "Lebline Chill",
+          "url": "https://open.spotify.com/artist/3wPKkWWElH0a9xfxP5nnyE"
         }
       ],
-      "duration_ms": 132028,
-      "name": "Celebridade - speed up",
-      "url": "https://open.spotify.com/track/5rsuXjP7OOnWiXi4Apa3LJ"
+      "duration_ms": 136500,
+      "name": "Dengo (Lo-Fi Remix)",
+      "url": "https://open.spotify.com/track/4IhbAaOLugP1ojXT7BaB3v"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Baile de Favela (Remix)",
+        "url": "https://open.spotify.com/album/2QooHZjnY08kc69Dnrdb4V"
+      },
+      "artists": [
+        {
+          "name": "Piero da Vinci & Fr4nk Cr4nk",
+          "url": "https://open.spotify.com/artist/5h4fVp3m9YtTT2LLDi6azy"
+        }
+      ],
+      "duration_ms": 251259,
+      "name": "Baile de Favela - Remix",
+      "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Felina",
         "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
@@ -433,39 +449,7 @@
       "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "M\u00e9dia Boa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 148900,
-      "name": "M\u00e9dia Boa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Seresta pra Pared\u00e3o 1.0",
-        "url": "https://open.spotify.com/album/6Ok8SK4z7b82mFHbsl0UjC"
-      },
-      "artists": [
-        {
-          "name": "Nadson O Ferinha",
-          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
-        }
-      ],
-      "duration_ms": 164649,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde",
-      "url": "https://open.spotify.com/track/7dtqLzElhmI02vsKlUoGdO"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Vem Morena",
         "url": "https://open.spotify.com/album/4HPfp7LJKsPZMxcAFUG8Ba"
@@ -489,7 +473,59 @@
       "url": "https://open.spotify.com/track/1Q9xOilXLlcZ8gW9wYgkm8"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Tapinha",
+        "url": "https://open.spotify.com/album/153Ri9zQdq540R7a2uYQ4q"
+      },
+      "artists": [
+        {
+          "name": "Dj Chris No Beat",
+          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "duration_ms": 146615,
+      "name": "Tapinha",
+      "url": "https://open.spotify.com/track/51kGHvWwCdwbHWAVXnwPSC"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "M\u00e9dia Boa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 148900,
+      "name": "M\u00e9dia Boa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Celebridade",
+        "url": "https://open.spotify.com/album/3AWSqsscief0hJ5hVdjTS4"
+      },
+      "artists": [
+        {
+          "name": "Listen&Chill",
+          "url": "https://open.spotify.com/artist/5RkkaraeiYGoDTJxBpFywx"
+        }
+      ],
+      "duration_ms": 132028,
+      "name": "Celebridade - speed up",
+      "url": "https://open.spotify.com/track/5rsuXjP7OOnWiXi4Apa3LJ"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
@@ -517,43 +553,7 @@
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Who Really Cares",
-        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Cigarettes out the Window",
-      "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Tapinha",
-        "url": "https://open.spotify.com/album/153Ri9zQdq540R7a2uYQ4q"
-      },
-      "artists": [
-        {
-          "name": "Dj Chris No Beat",
-          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        }
-      ],
-      "duration_ms": 146615,
-      "name": "Tapinha",
-      "url": "https://open.spotify.com/track/51kGHvWwCdwbHWAVXnwPSC"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
@@ -577,7 +577,23 @@
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
+      "album": {
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Cigarettes out the Window",
+      "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
+    },
+    {
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Ao Vivo em Campo Grande, Pt. 1",
         "url": "https://open.spotify.com/album/20uR4CAa9i14AVEWUuxlo8"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/5D6xHKz2ma8odghPs5zMgG"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Baby C\u00ea \u00e9 Gata",
         "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
@@ -613,23 +629,7 @@
       "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Plut\u00e3o",
-        "url": "https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc"
-      },
-      "artists": [
-        {
-          "name": "Deavele Santos",
-          "url": "https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM"
-        }
-      ],
-      "duration_ms": 142734,
-      "name": "Pra pra pra",
-      "url": "https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Poesia do Polly",
         "url": "https://open.spotify.com/album/0qReMRfKYJEQNmN4Byoxmd"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/5CJzNKWqr1gLUgZ2Yx7CZy"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Poesia Ac\u00fastica 13",
         "url": "https://open.spotify.com/album/1tJQLPkG5qc9BXqklDInry"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Capitao Tchaka",
         "url": "https://open.spotify.com/album/0CZ4TsU38i1sLvxZ6osPdg"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/4ohps6RKcqCWMfK8GFcYE5"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Te Love (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Don't Stop Believin'",
         "url": "https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Coisas Que Eu S\u00f3 Falaria Brincando",
         "url": "https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Assunto Delicado (Ao Vivo)",
         "url": "https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Gostosinha \u00e9 Ela",
         "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Purrr!",
         "url": "https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Oompa Loompa",
         "url": "https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M"
@@ -917,27 +917,7 @@
       "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
-      },
-      "artists": [
-        {
-          "name": "Rosa Walton",
-          "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
-        },
-        {
-          "name": "Hallie Coggins",
-          "url": "https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc"
-        }
-      ],
-      "duration_ms": 246652,
-      "name": "I Really Want to Stay at Your House",
-      "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde",
         "url": "https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP"
@@ -953,7 +933,7 @@
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Do You Wanna Go Party",
         "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
@@ -969,7 +949,7 @@
       "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
@@ -985,7 +965,7 @@
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
@@ -1001,7 +981,7 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Purple Hearts (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
@@ -1017,7 +997,7 @@
       "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "D\u00e9jame Revisarte el Celular 2",
         "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
@@ -1037,7 +1017,7 @@
       "url": "https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Bafora o Lan\u00e7a (Remix)",
         "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
@@ -1057,7 +1037,7 @@
       "url": "https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Contagem",
         "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
@@ -1085,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -1101,7 +1081,7 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "S\u00e3o Jo\u00e3o Chegou",
         "url": "https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu"
@@ -1117,23 +1097,7 @@
       "url": "https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Locked Up",
-      "url": "https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Virando o Olhinho",
         "url": "https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN"
@@ -1149,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Hits 2021 (Mashup)",
         "url": "https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa"
@@ -1169,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Plut\u00e3o",
         "url": "https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc"
@@ -1185,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
@@ -1205,7 +1169,7 @@
       "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Take It Or Squeeze It",
         "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
@@ -1225,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "MORANGO DO NORDESTE",
         "url": "https://open.spotify.com/album/4mZhTD9apQZ00b5b3hhZzf"
@@ -1245,7 +1209,7 @@
       "url": "https://open.spotify.com/track/5becemiQUfhRwDOmwc7LDS"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "LUAN CITY (Ao Vivo)",
         "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
@@ -1265,7 +1229,7 @@
       "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Pro Nosso Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg"
@@ -1281,7 +1245,7 @@
       "url": "https://open.spotify.com/track/73u22uLsakf8W12suab1QO"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Infinito 2021, Vol.2",
         "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
@@ -1297,7 +1261,7 @@
       "url": "https://open.spotify.com/track/14uWxelOuAUajP8fDvc0Ct"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Cafajeste",
         "url": "https://open.spotify.com/album/3oNWLBkwPia3Qbap1KauRi"
@@ -1317,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2sqNPoXHyxWoLP1Jhoeirj"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Posturad\u00e3o",
         "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
@@ -1337,7 +1301,7 @@
       "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU"
@@ -1357,7 +1321,7 @@
       "url": "https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
@@ -1377,7 +1341,7 @@
       "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Tem Cabar\u00e9 Essa Noite",
         "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
@@ -1397,7 +1361,7 @@
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
@@ -1421,7 +1385,7 @@
       "url": "https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Me Chama de Amor (Arrochadeira Remix)",
         "url": "https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq"
@@ -1441,7 +1405,7 @@
       "url": "https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "\u00c9 Simples Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk"
@@ -1457,7 +1421,7 @@
       "url": "https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
@@ -1473,7 +1437,7 @@
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Pontos de Exclama\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb"
@@ -1489,7 +1453,7 @@
       "url": "https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -1505,7 +1469,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
@@ -1521,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
@@ -1537,7 +1501,7 @@
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Embaixador do Piseiro em Casa - Ao Vivo",
         "url": "https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX"
@@ -1557,51 +1521,7 @@
       "url": "https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Viz\u00e3o de Cria 2",
-        "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
-      },
-      "artists": [
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 306141,
-      "name": "Viz\u00e3o de Cria 2",
-      "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Motivando a la Yal",
         "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
@@ -1617,7 +1537,7 @@
       "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Toxic Pony",
         "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
@@ -1641,27 +1561,7 @@
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
-      "added_at": "2022-10-18 07:51:47",
-      "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        },
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
-    },
-    {
-      "added_at": "2022-10-18 07:51:47",
+      "added_at": "2022-10-19 23:03:40",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"

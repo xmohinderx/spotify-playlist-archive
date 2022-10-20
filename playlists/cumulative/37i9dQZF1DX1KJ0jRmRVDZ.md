@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-518 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+520 songs - 1 day 5 hr 49 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [kitto kawaranai iro](https://open.spotify.com/track/2BWG6OHVB0zuky2mN3SOfn) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [kitto kawaranai iro](https://open.spotify.com/album/5A6H1IuZkDPdEl2bed6nDL) | 3:43 | 2022-06-23 | 2022-07-18 |
 | [Knickknack Kingdom](https://open.spotify.com/track/0ODFEhCNOo6XmAjpJrALAw) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Knickknack Kingdom](https://open.spotify.com/album/5hOcnt10bv1Qmy8sG7YzFn) | 3:00 | 2022-07-07 | 2022-07-27 |
 | [Koe Todoita Hikara](https://open.spotify.com/track/3q6G4DEStAQWFsEnwzNdw9) | [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [Koe Todoita Hikara](https://open.spotify.com/album/5ZNzXtCuL3OxwisiApGPWt) | 4:32 | 2022-08-18 | 2022-08-31 |
+| [Konasu](https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Konasu](https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX) | 3:46 | 2022-10-18 |  |
 | [LAG](https://open.spotify.com/track/3mNm8AXQ72Btp0ZsI2XwKl) | [パン野実々美](https://open.spotify.com/artist/7zDlO5ZUWerNCeIDy0tYVt) | [LAG](https://open.spotify.com/album/2C7KWtdWlRSoFfyINGHi0a) | 3:42 | 2022-07-26 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Lost](https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq) | 4:05 | 2022-08-16 | 2022-10-14 |
 | [Melt](https://open.spotify.com/track/1iQLxSeDWVD3ekeSvxRnMu) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Melt](https://open.spotify.com/album/0JjiN3z1faroSG7THJhh6G) | 3:24 | 2022-09-14 |  |
@@ -100,6 +101,7 @@
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-07-26 | 2022-07-29 |
 | [Nightmare Parade 2020s](https://open.spotify.com/track/4CAmPgwEWyLK8Y0zSpfdB5) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Nightmare Parade 2020s](https://open.spotify.com/album/1SfA0H357thgwx3buXvRDY) | 2:52 | 2022-10-06 | 2022-10-12 |
 | [No title \- Seaside Remix](https://open.spotify.com/track/3EVQv88JzEKwUf4gSyAtZm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [No title \- Seaside Remix](https://open.spotify.com/album/09ZfLnBpF3nmeLqFr8avZg) | 4:12 | 2022-08-16 | 2022-08-31 |
+| [Oka Ramman](https://open.spotify.com/track/52avodY9PZsS9iCOgxJpmJ) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Oka Ramman](https://open.spotify.com/album/08A305KVRZfXQLg0Z3Ni7r) | 3:50 | 2022-10-18 |  |
 | [Original Sin](https://open.spotify.com/track/3txAYMcl99O9AQ4buBkWHN) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [Original Sin](https://open.spotify.com/album/0hrn7XIBUgkz5NWX9WGL9J) | 3:22 | 2022-10-13 | 2022-10-19 |
 | [OVER THE ACE](https://open.spotify.com/track/311MxW4JKprt5fv7YMKTyZ) | [つきみぐー](https://open.spotify.com/artist/5baN3ZS9YkfLwQikQcllYI) | [OVER THE ACE](https://open.spotify.com/album/1XrxiqPsDqBSAoqBPhcN7z) | 4:16 | 2022-07-14 | 2022-07-16 |
 | [Overcast Skies](https://open.spotify.com/track/6IFs3VTvLLiQict4tAt7Ct) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Overcast Skies](https://open.spotify.com/album/4SqUTGadZjUKgnYtFrPFkH) | 2:42 | 2022-09-27 | 2022-10-05 |
@@ -443,7 +445,7 @@
 | [無為を抱く](https://open.spotify.com/track/2f1O9xNSk8p6Tyj28Ky0d2) | [遼遼](https://open.spotify.com/artist/2fPF5WFB2T6upW7xgTJpTb) | [無為を抱く](https://open.spotify.com/album/1lLPNuhwezJ793o2vboFoC) | 5:48 | 2022-08-25 | 2022-09-15 |
 | [煙](https://open.spotify.com/track/2Ii4k2hGZjmp4DfrRE0Shu) | [matsudamiki](https://open.spotify.com/artist/6RNWjXFIgFxkyqzx4xf9xk) | [DAWN](https://open.spotify.com/album/75SSJrLRG75MzG8xsMJ9VS) | 3:19 | 2022-06-14 | 2022-06-17 |
 | [煽げや尊し](https://open.spotify.com/track/2LeHTvjUmiR1A6L9txGDfm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [煽げや尊し](https://open.spotify.com/album/54Jl0Cvkj6wS8oJnLyCsVB) | 3:37 | 2022-07-26 | 2022-09-09 |
-| [熟す](https://open.spotify.com/track/2FdKt41u0WjhsFvXvRO5hF) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [熟す](https://open.spotify.com/album/3DJXDMI9hzkBDgm0mGyHaS) | 3:46 | 2022-10-18 |  |
+| [熟す](https://open.spotify.com/track/2FdKt41u0WjhsFvXvRO5hF) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [熟す](https://open.spotify.com/album/3DJXDMI9hzkBDgm0mGyHaS) | 3:46 | 2022-10-18 | 2022-10-20 |
 | [爆笑](https://open.spotify.com/track/4ARf2ujlFV2FzOvYqUxOqJ) | [自象存在name\-less](https://open.spotify.com/artist/05bI1rBSrKztoBYlHYYdH5) | [爆笑](https://open.spotify.com/album/26WH5qOKFqKUCtfE2XDFx4) | 3:23 | 2022-06-16 | 2022-07-06 |
 | [片恋](https://open.spotify.com/track/1OHIcNJYltB0hMfRNWO9YA) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [片恋](https://open.spotify.com/album/4IBamHDVnCeWMq0EtOaYXJ) | 4:59 | 2022-06-09 | 2022-06-11 |
 | [独白 \- カンザキイオリ Remix](https://open.spotify.com/track/1cVRrn4pnQdg5wokWKyWu9) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B), [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6) | [独白 \(カンザキイオリ Remix\)](https://open.spotify.com/album/5yC9EugevDZMRt0El0H5VS) | 3:09 | 2022-06-30 | 2022-07-26 |
@@ -491,7 +493,7 @@
 | [解けて、アンビバレンス \(feat.ACCAMER\)](https://open.spotify.com/track/7gsgBpuKespBd378D9Hvda) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [解けて、アンビバレンス](https://open.spotify.com/album/3iBRtOfASQfRLWleDpng53) | 3:27 | 2022-06-21 | 2022-06-24 |
 | [言霊](https://open.spotify.com/track/6bl8nww9FOs5dkWVHZEsoP) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [言霊](https://open.spotify.com/album/33SBpgjkz7bmnV8XVeFqAn) | 4:36 | 2022-07-19 | 2022-07-22 |
 | [語ちゃ混ぜ](https://open.spotify.com/track/2mE1oTOGBBwwg9hkoRP6KB) | [遼遼](https://open.spotify.com/artist/2fPF5WFB2T6upW7xgTJpTb) | [語ちゃ混ぜ](https://open.spotify.com/album/0YxIUnI3y0T7FsGNLHgTQC) | 2:30 | 2022-06-14 | 2022-06-22 |
-| [謳歌爛漫](https://open.spotify.com/track/1mFR2OvsMtymQAQiYeCOKV) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [謳歌爛漫](https://open.spotify.com/album/6xNw5wfvgehjOgMEI55tsm) | 3:50 | 2022-10-18 |  |
+| [謳歌爛漫](https://open.spotify.com/track/1mFR2OvsMtymQAQiYeCOKV) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [謳歌爛漫](https://open.spotify.com/album/6xNw5wfvgehjOgMEI55tsm) | 3:50 | 2022-10-18 | 2022-10-20 |
 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 | 2022-07-14 | 2022-07-23 |
 | [足りない](https://open.spotify.com/track/2FPGL1mHYG1vmNSR8up277) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [足りない](https://open.spotify.com/album/3kM6SqdM1TL190mApO9HLi) | 3:00 | 2022-06-09 | 2022-08-22 |
 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 | 2022-06-13 |  |

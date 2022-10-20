@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > ¡TINI y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,079 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,382 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 20 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
 | 21 | [Pinky](https://open.spotify.com/track/5wuiYSW949mfA4azJ32mx2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pinky](https://open.spotify.com/album/2c4TTzqtBc7EIeNBSZgWlF) | 2:46 |
 | 22 | [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 |
-| 23 | [Luna En Venus](https://open.spotify.com/track/41bVvrQ3VwOPWg9Wkz7JLa) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Luna En Venus](https://open.spotify.com/album/5fRgHLDuUsNGZ8vPdbBXn8) | 3:36 |
-| 24 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
-| 25 | [La Canción + Bella](https://open.spotify.com/track/7CzpCeOIKnwtXElfbChIl3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [La Canción + Bella](https://open.spotify.com/album/7fEUwHSLF8byHlbpQY8B1q) | 3:24 |
-| 26 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
+| 23 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
+| 24 | [Luna En Venus](https://open.spotify.com/track/41bVvrQ3VwOPWg9Wkz7JLa) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Luna En Venus](https://open.spotify.com/album/5fRgHLDuUsNGZ8vPdbBXn8) | 3:36 |
+| 25 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
+| 26 | [La Canción + Bella](https://open.spotify.com/track/7CzpCeOIKnwtXElfbChIl3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [La Canción + Bella](https://open.spotify.com/album/7fEUwHSLF8byHlbpQY8B1q) | 3:24 |
 | 27 | [SOLA](https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [SOLA](https://open.spotify.com/album/6ibXgT9otExjpjJBdgzkp9) | 2:55 |
 | 28 | [Me Tienta](https://open.spotify.com/track/439kXtzOgB3Rqi2KiCDAJc) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [Me Tienta](https://open.spotify.com/album/2nQyqyr3saA74QH13pbS2V) | 2:44 |
 | 29 | [Ley de Atracción](https://open.spotify.com/track/3Hg8KE0DQjo6aFJwFp2A8D) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Ley de Atracción](https://open.spotify.com/album/1uFe6wvy8CAtjsszaOVwNW) | 3:37 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 34 | [SED](https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [SED](https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx) | 2:54 |
 | 35 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
 | 36 | [ILY](https://open.spotify.com/track/7qCfzzn1iPRpCnMCEFi7Lv) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [ILY](https://open.spotify.com/album/6WQonABzkyv6R7VsNhRjo9) | 2:35 |
-| 37 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
-| 38 | [DIME](https://open.spotify.com/track/4v2Z37jBeiXElntL44c8By) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [DIME](https://open.spotify.com/album/2ghzNoVMDodH8mFIkWimPD) | 2:36 |
+| 37 | [DIME](https://open.spotify.com/track/4v2Z37jBeiXElntL44c8By) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [DIME](https://open.spotify.com/album/2ghzNoVMDodH8mFIkWimPD) | 2:36 |
+| 38 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
 | 39 | [Papi](https://open.spotify.com/track/7xq8QM5WqLHEaVA3JKSYhm) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Papi](https://open.spotify.com/album/4yTkZSHc8RTwoREgGKzB5L) | 2:13 |
 | 40 | [Hipócrita](https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [Hipócrita](https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz) | 2:11 |
 | 41 | [No Tengo Plan](https://open.spotify.com/track/04PsS3DioqmG4mY3xJ94oo) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 3:04 |
 | 42 | [Ansiedad](https://open.spotify.com/track/6HMvXSoGDvH7bdodbanNRI) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Ansiedad](https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog) | 2:41 |
 | 43 | [Sabor a Mí \(feat\. María Campos\)](https://open.spotify.com/track/63QIJSFaLx6KDXvHjAkBmW) | [DJ MÄMI](https://open.spotify.com/artist/1K6cDuo2mI7CvYIxrRNeOP), [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Sabor A Luis](https://open.spotify.com/album/3NCShsVe4IouPiB6VuQRp4) | 2:57 |
-| 44 | [Refix](https://open.spotify.com/track/3QJMu7OYarjBc4OApftxLg) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Refix](https://open.spotify.com/album/6JNY4TqZRwjnI47Q73lN5j) | 2:57 |
-| 45 | [Wake Up](https://open.spotify.com/track/5Es7s4L8NK4sA94voUVtH6) | [AGOS NISI](https://open.spotify.com/artist/5kZiVSij35JYVdPb63VH69) | [Wake Up](https://open.spotify.com/album/45Wa01P9HDdOTBg30gM6MX) | 2:21 |
+| 44 | [Wake Up](https://open.spotify.com/track/5Es7s4L8NK4sA94voUVtH6) | [AGOS NISI](https://open.spotify.com/artist/5kZiVSij35JYVdPb63VH69) | [Wake Up](https://open.spotify.com/album/45Wa01P9HDdOTBg30gM6MX) | 2:21 |
+| 45 | [Refix](https://open.spotify.com/track/3QJMu7OYarjBc4OApftxLg) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Refix](https://open.spotify.com/album/6JNY4TqZRwjnI47Q73lN5j) | 2:57 |
 | 46 | [Call Me](https://open.spotify.com/track/5iUS5k0A8ZN0Vgr01obiR2) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Call Me](https://open.spotify.com/album/1rYrD5yRhwQnDb67POVJgy) | 2:33 |
 | 47 | [Fenty](https://open.spotify.com/track/6lwgQv2SQz5LqJ1rPDHcyz) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/2PJSIJ8hS6z6fncc8zjw6o) | 2:30 |
 | 48 | [Que Pena](https://open.spotify.com/track/5I8FPzO6XJuzCNcsV06OVO) | [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa) | [Que Pena](https://open.spotify.com/album/7cfA3U2121DCGSBjS6SHoQ) | 2:40 |
 | 49 | [Qué mal que me hiciste](https://open.spotify.com/track/322PbBjLJ4hLEorcfIqOwN) | [Angie Cadenas](https://open.spotify.com/artist/5dCM3LJZcUHR9tD9cQFrKG) | [qué mal que me hiciste](https://open.spotify.com/album/1NcI916JiO27M6yqhWtcan) | 2:49 |
 | 50 | [SALVAJE](https://open.spotify.com/track/0O4zac4Aw1cfTW6FItIW06) | [Marty D](https://open.spotify.com/artist/0rEsgtmQIANiqf2zWpQUIq), [AGOS NISI](https://open.spotify.com/artist/5kZiVSij35JYVdPb63VH69) | [SALVAJE](https://open.spotify.com/album/2jtm6HoR8h5EyVrhhKkRaP) | 3:04 |
 
-Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMGIzN2MyYmY4MWEyZDMwMzUyMDNhNjA5MDU0MjU3MGM4`
+Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMGY3MWI1ZDhlMzQ5MTYyYWJlZGIyZjUwZjUwZTYwM2Rm`

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 117758,
+  "num_followers": 117892,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMDEwYmFlY2VkMDYwNDBlNzIzNTdhODQ0MDUwMzk1Njlm",
+  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMDk4MDQ5YzY3ZjFjNWZlYjY2OGQxYjM4YjEzZmYyOTBm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y"
     },
     {
-      "added_at": "2022-10-19 01:30:46",
+      "added_at": "2022-10-20 01:25:17",
       "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu"
     },
     {
-      "added_at": "2022-10-19 01:30:46",
+      "added_at": "2022-10-20 01:25:17",
       "album": {
         "name": "All Through The Day",
         "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe"
     },
     {
-      "added_at": "2022-08-31 04:34:22",
-      "album": {
-        "name": "If I Were A Butterfly",
-        "url": "https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 311948,
-      "name": "If I Were A Butterfly - Single Version",
-      "url": "https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j"
-    },
-    {
       "added_at": "2022-01-14 00:51:04",
       "album": {
         "name": "Warm Chris",
@@ -599,6 +583,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2022-08-31 04:34:22",
+      "album": {
+        "name": "If I Were A Butterfly",
+        "url": "https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 311948,
+      "name": "If I Were A Butterfly - Single Version",
+      "url": "https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -769,26 +769,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
       "added_at": "2022-02-04 15:20:01",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -809,6 +789,42 @@
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2022-03-16 16:59:09",
+      "album": {
+        "name": "Petunia",
+        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
+      },
+      "artists": [
+        {
+          "name": "Tonstartssbandht",
+          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
+        }
+      ],
+      "duration_ms": 422240,
+      "name": "What Has Happened",
+      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
+    },
+    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -827,22 +843,6 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
-    },
-    {
-      "added_at": "2022-03-16 16:59:09",
-      "album": {
-        "name": "Petunia",
-        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
-      },
-      "artists": [
-        {
-          "name": "Tonstartssbandht",
-          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
-        }
-      ],
-      "duration_ms": 422240,
-      "name": "What Has Happened",
-      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -877,20 +877,20 @@
       "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
     },
     {
-      "added_at": "2022-08-31 05:00:32",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq"
+        "name": "Behind The Sun",
+        "url": "https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
         }
       ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
+      "duration_ms": 209817,
+      "name": "Behind The Sun",
+      "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
     },
     {
       "added_at": "2022-07-15 05:42:57",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-08-31 05:00:32",
       "album": {
-        "name": "Behind The Sun",
-        "url": "https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG"
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq"
       },
       "artists": [
         {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 209817,
-      "name": "Behind The Sun",
-      "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
     },
     {
       "added_at": "2022-02-08 17:25:13",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
     },
     {
+      "added_at": "2022-08-02 14:49:54",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 215296,
+      "name": "No tiempo",
+      "url": "https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Centre",
@@ -1037,20 +1053,20 @@
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
-      "added_at": "2022-08-02 14:49:54",
+      "added_at": "2022-03-30 04:28:53",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd"
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 215296,
-      "name": "No tiempo",
-      "url": "https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4"
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1083,22 +1099,6 @@
       "duration_ms": 165113,
       "name": "Las Olas Contra Todos",
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
-    },
-    {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
-      "added_at": "2022-07-19 04:00:00",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo"
-    },
-    {
       "added_at": "2022-07-15 05:46:40",
       "album": {
         "name": "Aura",
@@ -1195,6 +1179,22 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2022-07-19 04:00:00",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
     },
     {
-      "added_at": "2022-07-15 05:20:53",
-      "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
-      },
-      "artists": [
-        {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
-        }
-      ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1487,6 +1471,22 @@
       "duration_ms": 234274,
       "name": "Phantom Throb",
       "url": "https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP"
+    },
+    {
+      "added_at": "2022-07-15 05:20:53",
+      "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
       "added_at": "2021-10-06 20:23:10",

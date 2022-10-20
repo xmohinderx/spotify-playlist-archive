@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,530 likes - 60 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,822 likes - 60 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 21 | [Opera Hymn 118 Hz](https://open.spotify.com/track/1ws46CDC4J0XFZeHaDwsVo) | [DESNA](https://open.spotify.com/artist/6mjU0EJu6TLflogUHAVNeg), [Sapien Medicine](https://open.spotify.com/artist/4KAFz3XJFQ1aKflHBrhNSl) | [IN Hz](https://open.spotify.com/album/1cMtR2Qfu3lAdZra8cAFtT) | 6:00 |
 | 22 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
 | 23 | [Aetheria](https://open.spotify.com/track/3e8YXxByr6ihoOfeBVcIkJ) | [Lost Rhythm](https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN) | [Ethereal Techno \#012: Aetheria](https://open.spotify.com/album/3zQ4lUg2UToHoh5ZWKAdX6) | 6:23 |
-| 24 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
-| 25 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 |
+| 24 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 |
+| 25 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
 | 26 | [Dance with My Ghost \(feat\. Elderbrook\)](https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 4:06 |
 | 27 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 |
 | 28 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 30 | [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 |
 | 31 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 |
 | 32 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/5ZIcOUUEP2IaQG2ayxjLkH) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/4JFCApp2LJi4CEe1m7rPd2) | 6:47 |
-| 33 | [What Is Real](https://open.spotify.com/track/6G40wvmUlCrx5KqGFN5H4X) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [Blisss](https://open.spotify.com/album/67QO6UzoSlFcsPTuQR0FCJ) | 3:43 |
+| 33 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
 | 34 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
-| 35 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
+| 35 | [What Is Real](https://open.spotify.com/track/6G40wvmUlCrx5KqGFN5H4X) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [Blisss](https://open.spotify.com/album/67QO6UzoSlFcsPTuQR0FCJ) | 3:43 |
 | 36 | [Ailurus](https://open.spotify.com/track/1MMNg2Inzhu3b6AIZ1Fwmy) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Ailurus](https://open.spotify.com/album/422ictl5gXwBCKWtJRED4y) | 6:43 |
 | 37 | [Claire](https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Claire](https://open.spotify.com/album/7cCOKtUAAyXgCa8oIdqU34) | 4:47 |
 | 38 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 56 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 57 | [Under Dark \- Innellea Remix](https://open.spotify.com/track/7ynuyeE8PHWbQhYJpryxSH) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Under Dark \(Innellea Remix\)](https://open.spotify.com/album/0q71VHVKWDjUNgZWGmEfXb) | 6:45 |
 | 58 | [Pure](https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Pure](https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1) | 6:05 |
-| 59 | [Skylight](https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi) | [Kakoon](https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL) | [Skylight](https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB) | 7:22 |
-| 60 | [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 |
+| 59 | [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 |
+| 60 | [Skylight](https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi) | [Kakoon](https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL) | [Skylight](https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB) | 7:22 |
 
-Snapshot ID: `MTY2NTE1NzUwMCwwMDAwMDAwMDFlM2Q5MDJmN2ExZjQ0NTRlMWVhYzk0OTk0NTdhYTUy`
+Snapshot ID: `MTY2NTE1NzUwMCwwMDAwMDAwMDBkYWQ4NmY2N2FmZDI3ZTBjNzI5YTlmOTM3OWVkZjI4`

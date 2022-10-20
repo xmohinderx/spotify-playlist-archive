@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "All Things Must Pass (50th Anniversary/Super Deluxe)",
+        "url": "https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299026,
+      "name": "Isn't It A Pity - Session Outtakes And Jams / Take 27",
+      "url": "https://open.spotify.com/track/1ftMJpLPyuB79Adb4WMNKq"
+    },
+    {
+      "album": {
         "name": "Isn't It A Pity/All Things Must Pass/Cosmic Empire /Run Of The Mill",
         "url": "https://open.spotify.com/album/0XYu51u65pNPZJr2RQd52o"
       },
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 294786,
       "name": "Lady",
       "url": "https://open.spotify.com/track/0nPE9ko1pKiKDzuDcC0b40"

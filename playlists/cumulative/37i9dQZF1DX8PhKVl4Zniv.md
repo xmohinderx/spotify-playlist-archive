@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-65 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+67 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Doin' Something](https://open.spotify.com/track/0QdLJ4eDU4vJ39nfT9sIPJ) | [Soulive](https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO) | [Doin' Something](https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP) | 6:45 | 2022-06-01 |  |
 | [Duck People](https://open.spotify.com/track/3QZxDFLLr5tiuCtPKEnGaa) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Four](https://open.spotify.com/album/2wQ0Zr1lshzY6cWsKbhTca) | 5:05 | 2022-06-01 |  |
 | [Elroy](https://open.spotify.com/track/6jmUbrySw9qGfG7HW2dqC0) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Planet Earth](https://open.spotify.com/album/0PL8zomkWnMjhkJae8k6ee) | 6:05 | 2022-06-01 |  |
-| [Equinox](https://open.spotify.com/track/5Xwb0M95oUwnS6Ga2k89d9) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6qMB487YzABEnYaqoCtw91) | 5:46 | 2022-06-01 |  |
+| [Equinox](https://open.spotify.com/track/30c2DrowJnjlyY0HWvWlaW) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 5:46 | 2022-06-01 |  |
+| [Equinox](https://open.spotify.com/track/5Xwb0M95oUwnS6Ga2k89d9) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6qMB487YzABEnYaqoCtw91) | 5:46 | 2022-06-01 | 2022-10-20 |
 | [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 | 2022-06-01 |  |
 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 | 2022-06-01 |  |
 | [Flex](https://open.spotify.com/track/6LefLnrYCefkpnjVJoZZTq) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Palmystery](https://open.spotify.com/album/1TP1qgFrX4iLjF23NE5Ouv) | 6:37 | 2022-06-01 |  |
@@ -71,7 +72,8 @@
 | [Wait A Minute](https://open.spotify.com/track/6TqbMfB2VZZV7lYVvZ9Svz) | [Sputacular Musik](https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V), [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Nathan Myers](https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L), [Ash Soan](https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD) | [Wait A Minute](https://open.spotify.com/album/0bafe91fdkJPbIG8netbca) | 5:23 | 2022-09-09 |  |
 | [Watch Your Step](https://open.spotify.com/track/0DbfH3U4JrA8oyoCOyy0jI) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 5:29 | 2022-06-01 |  |
 | [Welcome 2 Minneapolis \- The Paisley Park Session](https://open.spotify.com/track/4pFeY1QTJUGpqRJO3jqFQp) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Paisley Park Session](https://open.spotify.com/album/5sieNimqkuXKxrIGmeKg4W) | 4:36 | 2022-06-01 |  |
-| [When the Cat's Away](https://open.spotify.com/track/6zc9aK2riFRA5jf0V7eAHe) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/1jExspylPy7buPJMym4ezi) | 6:12 | 2022-06-01 |  |
+| [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 | 2022-06-01 |  |
+| [When the Cat's Away](https://open.spotify.com/track/6zc9aK2riFRA5jf0V7eAHe) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/1jExspylPy7buPJMym4ezi) | 6:12 | 2022-06-01 | 2022-10-20 |
 | [タイム・リミット](https://open.spotify.com/track/0MaM0yE9EdQEJwDfs6EAZ9) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [CASIOPEA](https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb) | 3:07 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

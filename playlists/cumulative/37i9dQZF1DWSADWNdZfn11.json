@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "Piano Stories",
+        "url": "https://open.spotify.com/album/4KlPbXSlaW03DnUXr4EqqR"
+      },
+      "artists": [
+        {
+          "name": "Sam Pellegrino",
+          "url": "https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "7 Years - Piano Version",
+      "url": "https://open.spotify.com/track/7HumU69n9DlGp6UdMkGw7W"
+    },
+    {
+      "album": {
+        "name": "Piano Stories",
         "url": "https://open.spotify.com/album/5iPmyMQet31uMvDLGPo9xf"
       },
       "artists": [
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 163500,
       "name": "7 Years - Piano Version",
       "url": "https://open.spotify.com/track/7h6t8EeriVNnB0TUAsBPFh"

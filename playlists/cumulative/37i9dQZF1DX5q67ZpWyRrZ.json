@@ -1085,10 +1085,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 225882,
       "name": "i'll find my way to you tomorrow",
       "url": "https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill"
+    },
+    {
+      "album": {
+        "name": "i'll find my way to you tomorrow",
+        "url": "https://open.spotify.com/album/2bzG2vEFeUShVRUrJUlO7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fernando",
+          "url": "https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "i'll find my way to you tomorrow",
+      "url": "https://open.spotify.com/track/6kRAuOoZBRLwZQYjFdGjIa"
     },
     {
       "album": {

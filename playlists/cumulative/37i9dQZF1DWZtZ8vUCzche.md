@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-265 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/4r1ATpiAdbXeZZswtLDI5A)
+266 songs - 22 hr 8 min - [published](https://open.spotify.com/playlist/4r1ATpiAdbXeZZswtLDI5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Don's Kora Song](https://open.spotify.com/track/1s7bdeKIq8YiQDxxSkaQMU) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Cantando](https://open.spotify.com/album/2u3gT6j5LkalKEcyXuL7si) | 5:08 | 2021-10-15 | 2022-07-29 |
 | [Door of the Cosmos](https://open.spotify.com/track/32Lg670koSWkUZQ4ExgMzD) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Sleeping Beauty](https://open.spotify.com/album/1FJKtJqHR7S7l1CsrOUcFi) | 8:59 | 2021-10-15 | 2022-07-29 |
 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 | 2022-07-12 |  |
-| [Drop](https://open.spotify.com/track/3U83MLJ562dk6Yhvwpe6lL) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Point](https://open.spotify.com/album/4mZgIoGyI813KAjmv7Dbo1) | 5:08 | 2022-07-20 |  |
+| [Drop](https://open.spotify.com/track/3U83MLJ562dk6Yhvwpe6lL) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Point](https://open.spotify.com/album/4mZgIoGyI813KAjmv7Dbo1) | 5:08 | 2022-07-20 | 2022-10-20 |
 | [Drop](https://open.spotify.com/track/6ggO9aFrV9RHWT0wyXX3f9) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Point](https://open.spotify.com/album/4HUpDl3PQQL7yuxuV7RZSr) | 5:08 | 2021-10-15 | 2022-07-29 |
 | [Easy Money](https://open.spotify.com/track/0bd8pwa4ckVgfktLHx9AWw) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Rickie Lee Jones](https://open.spotify.com/album/6IzMnrSzyRykaltIvnlNuk) | 3:19 | 2021-10-15 | 2022-07-29 |
 | [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 | 2021-10-15 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2021-10-15 |  |
 | [Last Goodbye](https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 4:35 | 2021-10-15 | 2022-07-29 |
 | [Last Goodbye](https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:35 | 2022-07-20 |  |
+| [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit](https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 4:39 | 2022-10-14 |  |
 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:49 | 2021-10-15 | 2022-10-18 |
 | [Leave](https://open.spotify.com/track/5fDeirUvoCinFtb9zXljzR) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [New Adventures In Hi\-Fi](https://open.spotify.com/album/1BLkyH5S8WtjGywKlhqVyA) | 7:17 | 2021-10-15 | 2022-07-29 |
 | [Leave](https://open.spotify.com/track/5lpaTYULgbKAwtvpkPjyrZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [New Adventures In Hi\-Fi](https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6) | 7:17 | 2022-07-20 |  |

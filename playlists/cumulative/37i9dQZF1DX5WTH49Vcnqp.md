@@ -4,7 +4,7 @@
 
 > If it's indie and it's hot, it's here\. Cover: Royel Otis
 
-597 songs - 1 day 9 hr 57 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+598 songs - 1 day 10 hr 0 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2022-04-21 | 2022-07-05 |
 | [frida kahlo](https://open.spotify.com/track/448YOHra2znDfTJm4w2rAD) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [dreambird](https://open.spotify.com/album/06nQkI0Enft9CSY8CehIj0) | 2:25 | 2022-01-20 | 2022-03-08 |
 | [Friendly Fire](https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:42 | 2021-12-28 | 2021-12-31 |
-| [Friends](https://open.spotify.com/track/29ucQr9OTlnRzxWi9xUhkG) | [Medhanit](https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7) | [Friends](https://open.spotify.com/album/5Hd3WgCnnQYkBvqFBlZjef) | 2:50 | 2022-09-15 |  |
+| [Friends](https://open.spotify.com/track/29ucQr9OTlnRzxWi9xUhkG) | [Medhanit](https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7) | [Friends](https://open.spotify.com/album/5Hd3WgCnnQYkBvqFBlZjef) | 2:50 | 2022-09-15 | 2022-10-20 |
+| [Friends](https://open.spotify.com/track/6JQ6ToL7RQZSHqzQJcLeoE) | [Medhanit](https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7) | [Friends](https://open.spotify.com/album/5zkUyOpknpaEMCSQ1nTSN2) | 2:50 | 2022-10-14 |  |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-13 | 2022-02-25 |
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2021-12-28 | 2022-01-21 |
 | [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-18 |  |

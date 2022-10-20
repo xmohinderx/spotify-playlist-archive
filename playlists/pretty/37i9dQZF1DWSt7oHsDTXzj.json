@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110124,
+  "num_followers": 110132,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3Mjk5MSwwMDAwMDAwMGZjMWQ5MjIzODAzZjBmMjEwNzYzNzhlYzE3ZjdlNDIy",
+  "snapshot_id": "MTY2NTc3Mjk5MSwwMDAwMDAwMGUxMGM3OWM5N2NjM2JkN2Y2YzNjMmU5ZmI1MzkwYTNh",
   "tracks": [
     {
       "added_at": "2022-10-14 18:43:11",
@@ -387,26 +387,18 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "7 O'Clock News / Silent Night",
-        "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        },
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 120426,
-      "name": "7 O'Clock News / Silent Night",
-      "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -427,18 +419,26 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
+        "name": "7 O'Clock News / Silent Night",
+        "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 256648,
-      "name": "Another Year",
-      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+      "duration_ms": 120426,
+      "name": "7 O'Clock News / Silent Night",
+      "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
     },
     {
       "added_at": "2022-10-14 18:43:11",

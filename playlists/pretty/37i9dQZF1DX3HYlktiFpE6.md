@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,429 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,448 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,18 +52,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 42 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
 | 43 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 44 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
-| 45 | [The Final Countdown](https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:15 |
-| 46 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
+| 45 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
+| 46 | [The Final Countdown](https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:15 |
 | 47 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 |
 | 48 | [Give Your Heart a Break](https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Anthem Lights Covers](https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7) | 3:36 |
 | 49 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
-| 50 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 |
+| 50 | [Grace Kelly \- Studio Version](https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:18 |
 | 51 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
-| 52 | [Grace Kelly \- Studio Version](https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:18 |
-| 53 | [Hey, Soul Sister](https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: Season 2 \- Episode 2 \- Big Hits](https://open.spotify.com/album/56qpqJyayutGaYKUOJoNHB) | 1:50 |
+| 52 | [Hey, Soul Sister](https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: Season 2 \- Episode 2 \- Big Hits](https://open.spotify.com/album/56qpqJyayutGaYKUOJoNHB) | 1:50 |
+| 53 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 |
 | 54 | [A\-Punk](https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Bang](https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV) | 2:21 |
 | 55 | [Cruise](https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [The Sing\-Off: Season 4, Episode 1\- The Sing\-Off Is Back](https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j) | 1:40 |
 | 56 | [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 |
 | 57 | [Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love](https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67) | [The Dartmouth Aires](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) | [The Sing\-Off: Season 3: Episode 7 \- Superstar Medleys](https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc) | 3:24 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGQzNGQyNGZkNzFmODI3ZGYzZTVkMTYzNjM1YzI0OWE5`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDhjYjU2NDlhMWY0OTViNmY2M2VlOWMyODRiNWE4ZmJl`

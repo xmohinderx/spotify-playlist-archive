@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-125 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+126 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 | 2022-10-01 |
 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 | 2022-01-07 | 2022-07-29 |
 | [Firing](https://open.spotify.com/track/6zbYuGYwr34odkFt5KeJmv) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO), [Shimatani Shoryu Kobo](https://open.spotify.com/artist/35TkW5XHiRnfHTbw5O0o6R) | [VAGUE](https://open.spotify.com/album/3wwGYCEB35E5K5MAKjALtS) | 6:01 | 2022-01-07 |  |
-| [flow](https://open.spotify.com/track/4PfX6YNf0Mw9iDf9CCaPK6) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 5:12 | 2022-01-07 |  |
+| [flow](https://open.spotify.com/track/4PfX6YNf0Mw9iDf9CCaPK6) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 5:12 | 2022-01-07 | 2022-10-20 |
+| [flow](https://open.spotify.com/track/6a5wu7YrwPzhPFbVvHE01G) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/3PRhSzJAtheNUhYNFJ6gKL) | 5:12 | 2022-10-15 |  |
 | [Flow of Time to Fade](https://open.spotify.com/track/5ZnXB2l4dxz6wSiOa2XoM4) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Ambient Collage](https://open.spotify.com/album/4PxfcF5QbkdwmSYWfNT3AO) | 4:07 | 2022-01-07 |  |
 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 | 2022-01-07 |  |
 | [Fold Air](https://open.spotify.com/track/53p4Twt4YkUlrYQwkuWrI4) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 2:48 | 2022-01-07 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental, ambient music to awaken your imagination.
 
-61 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
+62 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [In Cold Light](https://open.spotify.com/track/140jZx69WlaEovptyTYevr) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Human](https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP) | 3:52 | 2022-01-10 |  |
 | [It's Time For You To Stop Being a Ghost](https://open.spotify.com/track/43Pp5KSyx85rKlvwdg6zI4) | [Sindri Már Sigfússon](https://open.spotify.com/artist/5ghRMejfQGRmEPV9rGWhav), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [It's Time For You To Stop Being a Ghost](https://open.spotify.com/album/1QCReS9eCSI383mQQMLQmn) | 1:51 | 2022-01-10 |  |
 | [Keep Moving](https://open.spotify.com/track/2P7hQ8uD8AWZ1fQuwTqUN9) | [Dirk Brossé](https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y), [Brussels Philharmonic](https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP) | [Keep Moving](https://open.spotify.com/album/0KcYzkAv3rLOQC747zjgCN) | 4:07 | 2022-01-10 |  |
-| [Lantern \- Piano Version](https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/2N7PeDMcJbAcdth49YY8qa) | 3:15 | 2022-01-10 |  |
+| [Lantern \- Piano Version](https://open.spotify.com/track/5LMnVTPqsmhGyjhMtb55pD) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/4nCQ0B5D2iQvyKsnz9patZ) | 3:15 | 2022-10-14 |  |
+| [Lantern \- Piano Version](https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/2N7PeDMcJbAcdth49YY8qa) | 3:15 | 2022-01-10 | 2022-10-20 |
 | [Late](https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Late](https://open.spotify.com/album/2oaXu9YZPKsSuNOvBkAnGe) | 2:59 | 2022-01-10 |  |
 | [Lichtspiel III: Symphonie Diagonale](https://open.spotify.com/track/07zPNPfmvyzo5kS5jUUoSl) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Lichtspiel III: Symphonie Diagonale](https://open.spotify.com/album/3fFIE42yygMv0goOLgnTsb) | 3:56 | 2022-01-10 |  |
 | [Mayday](https://open.spotify.com/track/2GeZQx0L3RpCEMsSo3iVdp) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO) | [May Day](https://open.spotify.com/album/5xtqIfLqO7eokuv2QJSoDx) | 3:13 | 2022-07-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,690 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,710 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 48 | [city girls](https://open.spotify.com/track/6ogHlZQd9M2Y8SwltuDQdN) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 2:55 |
 | 49 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 |
 | 50 | [Suave](https://open.spotify.com/track/17N1MnXZFLsv1tlGBNxFuW) | [Primoroso](https://open.spotify.com/artist/5n4Xu444iA1jWNbKnD545N), [Def Rabbit](https://open.spotify.com/artist/0z78KTlQp3IHGdAp9XqdIz) | [Suave](https://open.spotify.com/album/7yoJNr3DxenGB2TKDfS8Ai) | 3:19 |
-| 51 | [Aparecer \(feat\. Orestes Gomez\)](https://open.spotify.com/track/1B2VkQw5htPR1MpuKkM4jA) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v), [Orestes Gómez](https://open.spotify.com/artist/0TZOH00SvI8lGno7Uyvg7J) | [Aparecer \(feat\. Orestes Gomez\)](https://open.spotify.com/album/3rv5KhM7m6w67YR355YyYm) | 5:24 |
+| 51 | [Aparecer \(feat\. Orestes Gomez\)](https://open.spotify.com/track/1B2VkQw5htPR1MpuKkM4jA) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Aparecer \(feat\. Orestes Gomez\)](https://open.spotify.com/album/3rv5KhM7m6w67YR355YyYm) | 5:24 |
 | 52 | [Quédame](https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Quédame](https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14) | 2:49 |
 | 53 | [Químico](https://open.spotify.com/track/0xJodMjaPnEjGm8dDix9oc) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Químico](https://open.spotify.com/album/5Rf4NA823SjUQRrmGcFmaZ) | 3:19 |
 | 54 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 |

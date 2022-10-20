@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,160 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,171 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 90 | [90's Green Screen](https://open.spotify.com/track/7yXkyxotSbVF1mkP2KNjEA) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Bad Sports](https://open.spotify.com/album/6YJHZfZHLAuwCfBN5FbzPI) | 3:10 |
 | 91 | [Limbo](https://open.spotify.com/track/3QFoimz3M85b96Qo3UwfFN) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/0ZHHeDr94cRR3fitDONgge) | 3:44 |
 | 92 | [Could Be a Curse](https://open.spotify.com/track/2iuhthdVVoMu3gc735MOkh) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Next to The Sun](https://open.spotify.com/album/06nJsKOOzPhANRdoTRIQLl) | 6:12 |
-| 93 | [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 3:24 |
+| 93 | [Eggshell](https://open.spotify.com/track/5ISzaoRF9ba11ieojyXV5l) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/0x4BDWhuWnu7k63WJgZfJ4) | 3:24 |
 | 94 | [Floating](https://open.spotify.com/track/5t3FyZsyT4dsI32ZeftWpc) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Floating](https://open.spotify.com/album/5bG3rYE5BjLYnpUiofulkH) | 3:21 |
 | 95 | [High Hopes](https://open.spotify.com/track/0GK4nfrXCwZclIGOKIUUJq) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [High Hopes](https://open.spotify.com/album/7HfHsLFj1kXhP2hPpjWiif) | 2:52 |
 | 96 | [Type](https://open.spotify.com/track/0nQRHEFAmxrACvpJ2nEdKm) | [Joël](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [GRUNGE GOSPEL](https://open.spotify.com/album/1MRemdCQXbm08VgK6ZUxEl) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGY1NjJiNjZmOTdjZjhlN2NkZDYwNzY0OGY2ZDYxNjE3`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDE4MDIwMGIyM2UwYzQ1OGZjODc1N2U3YjYzOTgxYjdl`

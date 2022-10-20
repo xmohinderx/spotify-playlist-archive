@@ -2043,7 +2043,7 @@
     {
       "album": {
         "name": "I'll be",
-        "url": "https://open.spotify.com/album/70oh3PLp2BjmJU0cXhuq7O"
+        "url": "https://open.spotify.com/album/0PrduFwTmKJZWyVFt8akXx"
       },
       "artists": [
         {
@@ -2054,6 +2054,24 @@
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204306,
+      "name": "I'll be",
+      "url": "https://open.spotify.com/track/2Pun36FbfaX0c0DUUiLMaG"
+    },
+    {
+      "album": {
+        "name": "I'll be",
+        "url": "https://open.spotify.com/album/70oh3PLp2BjmJU0cXhuq7O"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
       "duration_ms": 204306,
       "name": "I'll be",
       "url": "https://open.spotify.com/track/7BmZWCY2C0uubDcca8vce7"
@@ -2335,6 +2353,24 @@
       "duration_ms": 281333,
       "name": "Kokoro",
       "url": "https://open.spotify.com/track/5oGi5k0lEGM5Akm8zyBfJ2"
+    },
+    {
+      "album": {
+        "name": "Konasu",
+        "url": "https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX"
+      },
+      "artists": [
+        {
+          "name": "Kibayashi",
+          "url": "https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226833,
+      "name": "Konasu",
+      "url": "https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl"
     },
     {
       "album": {
@@ -4248,6 +4284,24 @@
     },
     {
       "album": {
+        "name": "sayonara rhapsody",
+        "url": "https://open.spotify.com/album/5hqQTnUjPbLT3qWdYDRJYA"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u7406\u592e",
+          "url": "https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168959,
+      "name": "Tenmonbu",
+      "url": "https://open.spotify.com/track/4orGuUIVmTrw40JqdbbCIQ"
+    },
+    {
+      "album": {
         "name": "The Dawn",
         "url": "https://open.spotify.com/album/3pHBDWw0nnEPCoUrAutLej"
       },
@@ -4723,6 +4777,24 @@
       "duration_ms": 190344,
       "name": "World is Mine",
       "url": "https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS"
+    },
+    {
+      "album": {
+        "name": "YOSOMI",
+        "url": "https://open.spotify.com/album/2XqxQQVh0O8Uetqqzt8VM8"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215834,
+      "name": "YOSOMI",
+      "url": "https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l"
     },
     {
       "album": {
@@ -6407,7 +6479,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 215834,
       "name": "\u4f59\u6240\u898b",
       "url": "https://open.spotify.com/track/1Kz2Y9PKCU30rjVTajO0mD"
@@ -6825,7 +6897,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 168959,
       "name": "\u5929\u6587\u90e8",
       "url": "https://open.spotify.com/track/2Bq6MBfyG1SG7RYH66KyMj"
@@ -7773,7 +7845,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 226833,
       "name": "\u719f\u3059",
       "url": "https://open.spotify.com/track/2FdKt41u0WjhsFvXvRO5hF"

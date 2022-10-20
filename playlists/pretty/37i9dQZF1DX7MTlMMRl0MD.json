@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Becky G & Daviles de Novelda",
-  "num_followers": 1853724,
+  "num_followers": 1853971,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGRiZTNkMTYyOWEzMGYxODYyNzFlMTgzMmI3ODRlNGQz",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDZmNWNhMjZlY2JlOTRlOTc1MjcwNmZhMzgwNDcyZmUw",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD"
+      },
+      "artists": [
+        {
+          "name": "Domenic Marte",
+          "url": "https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C"
+        }
+      ],
+      "duration_ms": 290986,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Merengue y Sentimiento",
         "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 230546,
       "name": "Amorcito Enfermito",
       "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt"
-      },
-      "artists": [
-        {
-          "name": "Karlos Ros\u00e9",
-          "url": "https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt"
       },
       "artists": [
         {
-          "name": "Domenic Marte",
-          "url": "https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C"
+          "name": "Karlos Ros\u00e9",
+          "url": "https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib"
         }
       ],
-      "duration_ms": 290986,
-      "name": "Ven T\u00fa",
-      "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
+      "duration_ms": 185813,
+      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "A World Tour",
-        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
-      },
-      "artists": [
-        {
-          "name": "Optimo",
-          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "El Cuchillo",
-      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Love Is Back",
         "url": "https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 225386,
       "name": "Llorar Lloviendo",
       "url": "https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "A World Tour",
+        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
+      },
+      "artists": [
+        {
+          "name": "Optimo",
+          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "El Cuchillo",
+      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1147,6 +1147,22 @@
       "duration_ms": 213693,
       "name": "Volvio el dolor",
       "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "La Voz de La Juventud",
+        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Te Parece Poco",
+      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "La Voz de La Juventud",
-        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Te Parece Poco",
-      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "El Duque de la Bachata",
         "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+        "name": "Toby Love",
+        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
       "artists": [
         {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
         }
       ],
-      "duration_ms": 229032,
-      "name": "En Todo Fuiste la Mejor",
-      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
+      "duration_ms": 258866,
+      "name": "Tengo un Amor",
+      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1267,6 +1267,22 @@
       "duration_ms": 229369,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 229032,
+      "name": "En Todo Fuiste la Mejor",
+      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 217222,
       "name": "Solo Quise Quererte",
       "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Toby Love",
-        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Tengo un Amor",
-      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Quien Te Ve Te Compra",
-        "url": "https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH"
-      },
-      "artists": [
-        {
-          "name": "Ronny Dae",
-          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Quien Te Ve Te Compra",
-      "url": "https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Este Soy Yo",
         "url": "https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 222573,
       "name": "Antes del Lunes",
       "url": "https://open.spotify.com/track/6yVGk00COgjDJbHELkO109"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Quien Te Ve Te Compra",
+        "url": "https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH"
+      },
+      "artists": [
+        {
+          "name": "Ronny Dae",
+          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Quien Te Ve Te Compra",
+      "url": "https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",

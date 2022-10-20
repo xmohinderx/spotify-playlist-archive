@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-156 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+157 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Dreams](https://open.spotify.com/track/6iCnwfimIzp1CTp06er7Te) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:42 | 2019-12-10 |  |
 | [dying together](https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3) | 2:36 | 2019-12-10 |  |
 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 | 2019-12-10 |  |
-| [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 3:24 | 2019-12-10 |  |
+| [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 3:24 | 2019-12-10 | 2022-10-20 |
+| [Eggshell](https://open.spotify.com/track/5ISzaoRF9ba11ieojyXV5l) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/0x4BDWhuWnu7k63WJgZfJ4) | 3:24 | 2019-12-10 |  |
 | [everybody's cool but me](https://open.spotify.com/track/4dfFLWjpgnTcq5StTAa5dK) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [everybody's cool but me](https://open.spotify.com/album/0pfzmfdiultGZ4TdNa8h14) | 3:03 | 2019-12-10 |  |
 | [Floating](https://open.spotify.com/track/2hofoCNuOAcfp4X9R4vuxB) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Floating](https://open.spotify.com/album/75kKVn3AHBrFeE0XBKzwyA) | 3:21 | 2019-12-10 | 2022-07-29 |
 | [Floating](https://open.spotify.com/track/5t3FyZsyT4dsI32ZeftWpc) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Floating](https://open.spotify.com/album/5bG3rYE5BjLYnpUiofulkH) | 3:21 | 2019-12-10 |  |

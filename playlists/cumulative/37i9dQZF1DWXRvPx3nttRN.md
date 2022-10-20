@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-329 songs - 18 hr 29 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+330 songs - 18 hr 33 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Eastside \(with Halsey & Khalid\) \- Acoustic](https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\) \[Acoustic\]](https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk) | 2:53 | 2021-03-12 |  |
 | [Electricity \- Acoustic](https://open.spotify.com/track/79QsAQKkk3hlOC6yV1uKdg) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Electricity \(Acoustic\)](https://open.spotify.com/album/0wbbS6SzQVAMxEOneLpIJd) | 4:13 | 2021-03-12 |  |
 | [Everyone’s Got Something](https://open.spotify.com/track/5DiB4T00Z39dKi9A8zFL2d) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Back to You](https://open.spotify.com/album/5s921oAqZUEZNPZ96LvWDG) | 3:42 | 2021-03-12 | 2022-07-29 |
-| [Everyone’s Got Something](https://open.spotify.com/track/78daXDfx7T89qorS0ktsU0) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Back to You](https://open.spotify.com/album/6lGXUNcAoHF8eSNC17GPqy) | 3:42 | 2022-04-22 |  |
+| [Everyone’s Got Something](https://open.spotify.com/track/6fRziw5GRjH4QiSdJIWpQU) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Back to You](https://open.spotify.com/album/69cHIgmGLVQJYO8eFKb9z2) | 3:42 | 2022-04-22 |  |
+| [Everyone’s Got Something](https://open.spotify.com/track/78daXDfx7T89qorS0ktsU0) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Back to You](https://open.spotify.com/album/6lGXUNcAoHF8eSNC17GPqy) | 3:42 | 2022-04-22 | 2022-10-20 |
 | [Fast Car \- Acoustic Version](https://open.spotify.com/track/43wemTGHi0oIcVue71BEYQ) | [Michael Collings](https://open.spotify.com/artist/4vR6Xfagr0EsCf8t9oLy1t) | [Fast Car](https://open.spotify.com/album/0UJY13BiN1cJYRUZt2pJ7y) | 4:37 | 2021-03-12 | 2022-10-19 |
 | [Fast Car \- Acoustic Version](https://open.spotify.com/track/6lc0tqItTGdpz9kagpvG9v) | [Michael Collings](https://open.spotify.com/artist/4vR6Xfagr0EsCf8t9oLy1t) | [Fast Car](https://open.spotify.com/album/7BhVUDlkSYf0WO2xBAHneM) | 4:37 | 2022-04-22 |  |
 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 | 2021-03-12 |  |

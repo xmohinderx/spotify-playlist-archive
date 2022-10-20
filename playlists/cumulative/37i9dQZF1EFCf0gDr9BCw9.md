@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
+146 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [This Can't Be Love: The Boys from Syracuse: This Can't Be Love](https://open.spotify.com/track/2uKLMLYcbqdDCaDQY3l4NT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Ed Thigpen](https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI) | [Milestones of a Jazz Legend \- Ben Webster, Vol\. 2 \(1957, 1959\)](https://open.spotify.com/album/336zKOuYLlKKo9JIMDi4bP) | 9:51 | 2022-09-08 |  |
 | [Tiffany](https://open.spotify.com/track/35WGvwOw4Be7RGXna1IvCJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:35 | 2022-09-08 |  |
 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 | 2022-09-08 |  |
+| [Too Late](https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz) | [Black Moonlight Vol\. 5](https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j) | 3:11 | 2022-10-19 |  |
 | [Total Jazz \(Final Movement Of "Portrait Of Ella Fitzgerald"\)](https://open.spotify.com/track/5wDO63teFXXvFS9IarBkc4) | [Lincoln Center Jazz Orchestra](https://open.spotify.com/artist/57tcqQ5NpKmaGE9zHMTiez), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Portraits By Ellington](https://open.spotify.com/album/0LIkxSapjR9etoqmQ0gLNq) | 7:15 | 2022-09-08 |  |
 | [Triple Play](https://open.spotify.com/track/0WXLbhRZmZ8BuqGW9kqN0a) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/43x4d2Sq1mUl2X5VBWa0Ve) | 5:23 | 2022-09-08 | 2022-10-19 |
 | [Triple Play](https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 5:23 | 2022-10-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,476 likes - 105 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,478 likes - 105 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 79 | [Pay Me](https://open.spotify.com/track/5yGvqHECYowmM2DoJ0DQ69) | [Fewjar](https://open.spotify.com/artist/32icQ3y9495zedEztO2MFp) | [Pay Me](https://open.spotify.com/album/3hZOODathcNpBYtNCUJnBx) | 2:34 |
 | 80 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 |
 | 81 | [Auf Clouds](https://open.spotify.com/track/6NtYSXyyM6uhyDejlnLzeS) | [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU) | [Auf Clouds](https://open.spotify.com/album/1Y57WHb2Y2QjSxY1UpIISs) | 2:18 |
-| 82 | [Out of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
+| 82 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
 | 83 | [Gleichgewicht](https://open.spotify.com/track/3dqGQk6hfdF1p0vhdDMlGW) | [Gregor Meyle](https://open.spotify.com/artist/7FazQGzkBuyTe2CVf1VmpP) | [Gleichgewicht](https://open.spotify.com/album/2pKDZ0oajYqhPv99pkp4jf) | 3:59 |
 | 84 | [Zeig Profil](https://open.spotify.com/track/07MoNVjsTDDX37CrYFDRMk) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Zeig Profil](https://open.spotify.com/album/5LUjFcP2BRNpAiYiaMS8wW) | 3:29 |
 | 85 | [Easy](https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Easy](https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt) | 5:44 |

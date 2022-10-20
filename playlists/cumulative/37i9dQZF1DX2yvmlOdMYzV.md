@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-262 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+263 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-14 |  |
 | [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2021-12-15 | 2022-09-10 |
 | [Apathy](https://open.spotify.com/track/1y0YcbPS4pu5kveEhJ9KqJ) | [PIE](https://open.spotify.com/artist/66jQGw4oO3q0A8E3FcCZhE) | [Apathy](https://open.spotify.com/album/71WgldxC8RmuVjVvHN48r9) | 3:25 | 2021-12-15 | 2022-10-15 |
+| [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-19 |  |
 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 | 2021-12-15 |  |
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-06-30 |  |
 | [Awake \(with Mahalia\)](https://open.spotify.com/track/16X7VHcGISwJ93ott9RHeC) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Awake](https://open.spotify.com/album/4ETTgOOvLI2Kc5Qc4kckhO) | 3:48 | 2021-12-15 | 2022-07-29 |
@@ -242,7 +243,7 @@
 | [The Man Who Has Everything](https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu) | 3:38 | 2021-12-15 | 2022-09-30 |
 | [These Days](https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh) | 3:59 | 2022-06-30 |  |
 | [These Days](https://open.spotify.com/track/4UW4I0a056lfIaghMSvaf4) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/132ikw1dw0R8ZiRcn2Zkgs) | 3:59 | 2021-12-15 | 2022-07-20 |
-| [Third Eye Tears \(feat\. Lava La Rue\)](https://open.spotify.com/track/7Axv6Oe4ztIl9NQL9z1qgH) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Let Me Die Inside You](https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb) | 3:02 | 2022-06-30 |  |
+| [Third Eye Tears \(feat\. Lava La Rue\)](https://open.spotify.com/track/7Axv6Oe4ztIl9NQL9z1qgH) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Let Me Die Inside You](https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb) | 3:02 | 2022-06-30 | 2022-10-20 |
 | [THIS SH!T](https://open.spotify.com/track/4e0nFC5a95gFWJUzrQ8ggy) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [LMBSKN](https://open.spotify.com/artist/5TLjx8KhJyYCPtCA08Zkd9) | [THIS SH!T](https://open.spotify.com/album/4wRmr1ozRCAVPSj06fL68W) | 2:50 | 2022-09-29 |  |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-12-15 | 2022-02-12 |
 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 | 2021-12-15 | 2022-07-28 |

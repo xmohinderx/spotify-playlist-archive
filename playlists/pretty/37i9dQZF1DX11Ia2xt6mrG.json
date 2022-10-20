@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Steve Aoki, Santa Fe Klan y Snow Tha Product",
-  "num_followers": 52758,
+  "num_followers": 52772,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyODkyMCwwMDAwMDAwMDM1OGQyYmYyNmRjZTY0NzUxZWNhZGZkNmFiZjA1Nzgx",
+  "snapshot_id": "MTY2MTUyODkyMCwwMDAwMDAwMDZlMjcwMTMwNTAxMjllOTBhMTBlOTAwODk5NWY3ZDUy",
   "tracks": [
     {
       "added_at": "2022-08-26 15:48:40",
@@ -395,26 +395,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Muy Bien",
-        "url": "https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc"
-      },
-      "artists": [
-        {
-          "name": "Malone",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        }
-      ],
-      "duration_ms": 415500,
-      "name": "Muy Bien",
-      "url": "https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 174735,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Muy Bien",
+        "url": "https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc"
+      },
+      "artists": [
+        {
+          "name": "Malone",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "duration_ms": 415500,
+      "name": "Muy Bien",
+      "url": "https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -519,26 +519,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "#aparttogether",
-        "url": "https://open.spotify.com/album/0QNvH5B30qLksTcfsqbRXI"
+        "name": "Pump up the Volume",
+        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
       },
       "artists": [
         {
-          "name": "Jeffrey Sutorius",
-          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Juarez",
+          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"
+      "duration_ms": 208780,
+      "name": "Pump up the Volume",
+      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -567,22 +563,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Pump up the Volume",
-        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
+        "name": "#aparttogether",
+        "url": "https://open.spotify.com/album/0QNvH5B30qLksTcfsqbRXI"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
         },
         {
-          "name": "Juarez",
-          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 208780,
-      "name": "Pump up the Volume",
-      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
+      "duration_ms": 227493,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "To The Top",
-        "url": "https://open.spotify.com/album/6Y1gNtIMIVHvhtBjprkErG"
-      },
-      "artists": [
-        {
-          "name": "Jay Eskar",
-          "url": "https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh"
-        },
-        {
-          "name": "Srikar",
-          "url": "https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "To The Top",
-      "url": "https://open.spotify.com/track/4gXBqKIx8bCR5d1BZ5D4GV"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -787,6 +767,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "To The Top",
+        "url": "https://open.spotify.com/album/6Y1gNtIMIVHvhtBjprkErG"
+      },
+      "artists": [
+        {
+          "name": "Jay Eskar",
+          "url": "https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh"
+        },
+        {
+          "name": "Srikar",
+          "url": "https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "To The Top",
+      "url": "https://open.spotify.com/track/4gXBqKIx8bCR5d1BZ5D4GV"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "La Casa",
         "url": "https://open.spotify.com/album/1nOAKE07lAwQoVaHIVhgSe"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 163902,
       "name": "La Casa",
       "url": "https://open.spotify.com/track/4lJRxIW4WKjowKQloinr2C"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Sweet Potato",
+        "url": "https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Sweet Potato",
+      "url": "https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Sweet Potato",
-        "url": "https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Sweet Potato",
-      "url": "https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Bomboro",
         "url": "https://open.spotify.com/album/3kGkeZRBAFlGjTuNrSf6Kt"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 147506,
       "name": "Bomboro",
       "url": "https://open.spotify.com/track/0VWQQbXy1fMYBo15TXtV97"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Camellos",
+        "url": "https://open.spotify.com/album/3yT69oNV3uFDFs5whmF5qO"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "duration_ms": 224010,
+      "name": "Camellos",
+      "url": "https://open.spotify.com/track/6djw15CRE09NkoyVKLWGyP"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -907,50 +927,6 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Camellos",
-        "url": "https://open.spotify.com/album/3yT69oNV3uFDFs5whmF5qO"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Valsian",
-          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
-        }
-      ],
-      "duration_ms": 224010,
-      "name": "Camellos",
-      "url": "https://open.spotify.com/track/6djw15CRE09NkoyVKLWGyP"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Brake Test",
-        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
-      },
-      "artists": [
-        {
-          "name": "Kevin Brand",
-          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
-        },
-        {
-          "name": "Guztavo MX",
-          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
-        },
-        {
-          "name": "Nitai Charan",
-          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "Brake Test",
-      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -995,6 +971,30 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Brake Test",
+        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
+      },
+      "artists": [
+        {
+          "name": "Kevin Brand",
+          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
+        },
+        {
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+        },
+        {
+          "name": "Nitai Charan",
+          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "Brake Test",
+      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Qu\u00e9 Bonito Es Volar",
         "url": "https://open.spotify.com/album/4fgZBK1GH5IaSwSyfl9BZ9"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 236129,
       "name": "Qu\u00e9 Bonito Es Volar",
       "url": "https://open.spotify.com/track/0geNME4Udpb3Ph0PNL3v0D"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1027,22 +1043,6 @@
       "duration_ms": 185628,
       "name": "Cucu",
       "url": "https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Nocturno",
         "url": "https://open.spotify.com/album/4SmO2ZcJDCs94LSsi86etw"
       },
@@ -1123,22 +1107,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Ojos (La Noche Mix)",
-        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr"
       },
       "artists": [
         {
-          "name": "Jenna Kyle",
-          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
         }
       ],
-      "duration_ms": 180521,
-      "name": "Ojos - La Noche Mix - Radio Edit",
-      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
+      "duration_ms": 183870,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1159,6 +1139,26 @@
       "duration_ms": 168400,
       "name": "Playa",
       "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Ojos (La Noche Mix)",
+        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
+      },
+      "artists": [
+        {
+          "name": "Jenna Kyle",
+          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 180521,
+      "name": "Ojos - La Noche Mix - Radio Edit",
+      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/4f95eRxwK1AusFsJfadaqp"
-      },
-      "artists": [
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        },
-        {
-          "name": "SIAS",
-          "url": "https://open.spotify.com/artist/6krsiTtc4T9aJEkwT3lyP5"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "West",
-      "url": "https://open.spotify.com/track/4iDacLHy981JKWDFOKZRjJ"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/4QHSMXk4TjKaRpHGMDaCCo"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/4f95eRxwK1AusFsJfadaqp"
+      },
+      "artists": [
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        },
+        {
+          "name": "SIAS",
+          "url": "https://open.spotify.com/artist/6krsiTtc4T9aJEkwT3lyP5"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "West",
+      "url": "https://open.spotify.com/track/4iDacLHy981JKWDFOKZRjJ"
     },
     {
       "added_at": "2022-08-02 18:48:01",

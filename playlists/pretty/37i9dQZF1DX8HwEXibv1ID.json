@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 20327,
+  "num_followers": 20359,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMDZiZDEyMzc3ZjhmMjE4OWExZDQ4ZWViZDM3ODhkMjdi",
+  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMGVkNjUwNWYyNjlmYWVhNmQ3N2M5MDllODk4NzhiZDEy",
   "tracks": [
     {
       "added_at": "2022-04-22 13:30:43",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Night and Day - Take 1",
-      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 375173,
       "name": "Begin The Beguine - Alternate Take",
       "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Night and Day - Take 1",
+      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 205666,
       "name": "Its Delovely",
       "url": "https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -987,18 +987,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
+        "name": "High Society (O.S.T - 1956)",
+        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
         }
       ],
-      "duration_ms": 165893,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
+      "duration_ms": 252818,
+      "name": "I Love You Samantha",
+      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "High Society (O.S.T - 1956)",
-        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Johnny Green & His Orchestra",
-          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 252818,
-      "name": "I Love You Samantha",
-      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+      "duration_ms": 165893,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
     },
     {
       "added_at": "2022-04-22 13:30:43",

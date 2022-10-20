@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27073,
+  "num_followers": 27069,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDhlYzYwZmU0OTU5MDE2NmViYmRiMWE5OTg5ZmY5YTkw",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDk2MzZjMjJkODE2MzJmMzBmMDgwMmYwMDMyMzc2ZTZl",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -927,26 +927,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Not Ok",
-        "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 210943,
-      "name": "Not Ok",
-      "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "All Star",
         "url": "https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 151278,
       "name": "All Star",
       "url": "https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Not Ok",
+        "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 210943,
+      "name": "Not Ok",
+      "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Too Far Gone",
-        "url": "https://open.spotify.com/album/4Ow8VDC7PLzir1Glze74dW"
-      },
-      "artists": [
-        {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
-        },
-        {
-          "name": "Anna Clendening",
-          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
-        }
-      ],
-      "duration_ms": 196953,
-      "name": "Too Far Gone",
-      "url": "https://open.spotify.com/track/0s5ibKUNbISHnrBrx1o2nF"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "We Were Young",
         "url": "https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 214200,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/4Ow8VDC7PLzir1Glze74dW"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "duration_ms": 196953,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/0s5ibKUNbISHnrBrx1o2nF"
     },
     {
       "added_at": "2020-02-18 13:31:30",

@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-142 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
+143 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 | 2022-07-07 |  |
 | [Light Me Up](https://open.spotify.com/track/1xntxOqCzuT5Ts40E9DH93) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Light Me Up](https://open.spotify.com/album/68GkScRP31aKYd1zrLNXyZ) | 3:44 | 2022-06-02 | 2022-07-22 |
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2022-06-02 |  |
+| [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 | 2022-10-13 |  |
 | [Love](https://open.spotify.com/track/07KSmwPq4eu1boA3cZYYY4) | [Buttered](https://open.spotify.com/artist/2qyspw08f8cTqsn8tInrB4) | [Love](https://open.spotify.com/album/1Oae3gR24xLKyiBJqAu2Ft) | 4:51 | 2022-06-02 | 2022-09-09 |
 | [Love Bind](https://open.spotify.com/track/2Gv07vSQS9i4VvxWrE7SHI) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Moonlight Madness](https://open.spotify.com/album/6Qx42PLpE3V7Ojc3E2JLaz) | 3:21 | 2022-06-02 | 2022-07-22 |
 | [Met at the River](https://open.spotify.com/track/2sxQ1OkdtF7GyH1SVpDcI4) | [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Met at the River](https://open.spotify.com/album/1syDBafjciFbCWgxm9zzP2) | 4:38 | 2022-06-02 | 2022-09-09 |
@@ -104,7 +105,7 @@
 | [Outright Attached](https://open.spotify.com/track/2nptVrm7B91RAFXg32YLhS) | [Tiana Rosie](https://open.spotify.com/artist/2hDHgtEkmGk5LWPOI5LHYb) | [Outright Attached](https://open.spotify.com/album/13vYfMmn4M7tXTX6PiY3Fp) | 3:23 | 2022-07-21 | 2022-09-09 |
 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2022-06-02 | 2022-08-26 |
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-06-02 | 2022-09-11 |
-| [Perfect Day](https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Glenn Lumanta](https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme) | [Perfect Day](https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL) | 3:48 | 2022-06-09 |  |
+| [Perfect Day](https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Glenn Lumanta](https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme) | [Perfect Day](https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL) | 3:48 | 2022-06-09 | 2022-10-20 |
 | [Pictures](https://open.spotify.com/track/2EJU98tJcIaOsMYYhS2Zt1) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Pictures](https://open.spotify.com/album/3m0uXhHzlhaRYnKfXIX9zS) | 3:21 | 2022-07-28 | 2022-09-09 |
 | [Pictures](https://open.spotify.com/track/5GcvMgyFOsYePFR2jM8OOV) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Pictures](https://open.spotify.com/album/2wGZQdBRhuJJUd6WmNMCQW) | 3:21 | 2022-06-02 | 2022-07-29 |
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-08 |  |

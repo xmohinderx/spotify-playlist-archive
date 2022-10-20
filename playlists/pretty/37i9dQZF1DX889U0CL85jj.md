@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,370,757 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,370,998 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 147 | [Keeping Busy](https://open.spotify.com/track/5g3InejbvUCMmZUOyVvRQb) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Keeping Busy](https://open.spotify.com/album/7kpYhAqLTJG0syod9gl9Xh) | 2:52 |
 | 148 | [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 |
 | 149 | [Hate That I Love You](https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:32 |
-| 150 | [Diamond](https://open.spotify.com/track/47NI4YCiDHbQ5c78awnGnL) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/1AdGn8BC7x3miVnZiDVW3m) | 3:23 |
+| 150 | [Diamond](https://open.spotify.com/track/0CDf8A5GogzQdJlTh4L22f) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/314L5eEcSAupRv9pQdKiMj) | 3:23 |
 
-Snapshot ID: `MTY2NTc3MjM2NCwwMDAwMDAwMGY0MGI4MzNlOTYzNTAzZDdmZWI0YzhjNDg2MmM1MjQ1`
+Snapshot ID: `MTY2NTc3MjM2NCwwMDAwMDAwMDZmNTBiOTMzN2Y2NzRjMjJhYjg3MDE3MWJmZjk5N2M0`

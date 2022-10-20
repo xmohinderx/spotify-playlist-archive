@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,946 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,955 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 39 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 |
 | 40 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 |
 | 41 | [Moonlight](https://open.spotify.com/track/5ycuH4IVcbiubxosObIPhw) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/4GU0ggvEBJ6RuoSjNuFM3l) | 2:07 |
-| 42 | [Heaven Is a Place on Earth](https://open.spotify.com/track/7HEhUhF8jcJVqTOGR6BNOQ) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/6suRrxlM7PfRhxcHiWHUIv) | 2:40 |
-| 43 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 |
-| 44 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
-| 45 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
-| 46 | [Back 2 U](https://open.spotify.com/track/3lrQX2YbeXOmnMvtAu30iB) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Back 2 U](https://open.spotify.com/album/4b9pbSew5hwaGri6KZ6ZBM) | 2:40 |
-| 47 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 |
+| 42 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 |
+| 43 | [Heaven Is a Place on Earth](https://open.spotify.com/track/7HEhUhF8jcJVqTOGR6BNOQ) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/6suRrxlM7PfRhxcHiWHUIv) | 2:40 |
+| 44 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
+| 45 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
+| 46 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 |
+| 47 | [Back 2 U](https://open.spotify.com/track/3lrQX2YbeXOmnMvtAu30iB) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Back 2 U](https://open.spotify.com/album/4b9pbSew5hwaGri6KZ6ZBM) | 2:40 |
 | 48 | [Following the Sun \- Supermini Marimba Remix](https://open.spotify.com/track/2hEHZx1TWiy8YVHGXef0Wc) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:49 |
 | 49 | [Human](https://open.spotify.com/track/4TpPSDtJGuD51E66sWrxmd) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Human](https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo) | 2:25 |
 | 50 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Still Love You](https://open.spotify.com/track/057SolKingTw6AEgBL7q9r) | [JAS1X](https://open.spotify.com/artist/1gE67JBAV50qI94fX4nz3F), [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Still Love You](https://open.spotify.com/album/5Q80IrelKfhPp0z63gXfV0) | 3:15 |
 | 60 | [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 |
 
-Snapshot ID: `MTY2NTc1MzcyNywwMDAwMDAwMDg0MDQ5ZDU2MjY5NWRlMjcwYzQ0YzI1ZWNiYzA3NDNh`
+Snapshot ID: `MTY2NTc1MzcyNywwMDAwMDAwMGQ2ZTAyZTkyOTdhNGM4YTQyYTNmYTZhZDU0MTBmYzdi`

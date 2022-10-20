@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-378 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+379 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Kernkraft 400 \(A Better Day\) \- MistaJam Remix](https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Kernkraft 400 \(A Better Day\) \[MistaJam Remix\]](https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz) | 2:20 | 2022-09-29 |  |
 | [Killing Me](https://open.spotify.com/track/50q9KNvxSOyBvDroJYUOeW) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [Killing Me](https://open.spotify.com/album/6wOqi9eRpaZKV3G1KAeA93) | 6:29 | 2022-09-08 |  |
 | [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 | 2022-04-21 |  |
-| [Killing Me Softly \- Extended](https://open.spotify.com/track/3j6zKAjD2IU3M17yWDeHiJ) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/4EEOdUVTSZE4mKST4BiiRF) | 4:45 | 2022-01-13 |  |
+| [Killing Me Softly \- Extended](https://open.spotify.com/track/2tvSMaaKNG8vOZcAOAlsQY) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/7MqYR3rW5zMzDzPRXbAipY) | 4:45 | 2022-10-11 |  |
+| [Killing Me Softly \- Extended](https://open.spotify.com/track/3j6zKAjD2IU3M17yWDeHiJ) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended\)](https://open.spotify.com/album/4EEOdUVTSZE4mKST4BiiRF) | 4:45 | 2022-01-13 | 2022-10-20 |
 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 | 2022-04-14 | 2022-07-29 |
 | [L'Amour Toujours](https://open.spotify.com/track/7qq1J6TCW2Zw1A2ORoOIH2) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'Amour Toujours](https://open.spotify.com/album/6YRVf3VlMETzY7A5BUrEH9) | 2:21 | 2022-06-30 |  |
 | [La Di Die](https://open.spotify.com/track/19Domw29HCauiKk20oYZFB) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [La Di Die](https://open.spotify.com/album/1H9yZJQI2RRd0mBsv1rjMV) | 2:03 | 2022-01-13 | 2022-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,277 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,290 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 36 | [Still God](https://open.spotify.com/track/3RFp9S8ki6QfQxhYRCWkp7) | [Elim Sound](https://open.spotify.com/artist/66qGWtgWfDgz2dWok5E9FV), [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [One](https://open.spotify.com/album/1AaUvbV62zJimSU8zFJEKV) | 4:48 |
 | 37 | [Hope Lives](https://open.spotify.com/track/5TblOn6KkBhC6ECLhDakN2) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hope Lives](https://open.spotify.com/album/1NKqjGy5kGDTA1MmpzTkFf) | 5:02 |
 | 38 | [For Your Glory \(Let the Church Rise\) \- Live](https://open.spotify.com/track/4jSmWqoQJ4aF8e3cJDVCm4) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [For Your Glory \(Let the Church Rise\) \[Live\]](https://open.spotify.com/album/6YwlzswWLAS3YO3EiaNRUg) | 4:43 |
-| 39 | [Love Song \(Before You Formed the Earth\) \[feat\. Rich di Castiglione\]](https://open.spotify.com/track/3BuyzGAi93RKpEcKYZ3BNb) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich di Castiglione](https://open.spotify.com/artist/7pDbEDvbu2vsq2BccIrBFy) | [Chapter Two: Flux](https://open.spotify.com/album/3Nv49ian9yCrowGCPGn7Zb) | 5:31 |
+| 39 | [Love Song \(Before You Formed the Earth\)](https://open.spotify.com/track/3BuyzGAi93RKpEcKYZ3BNb) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich Dicas](https://open.spotify.com/artist/2Il0umOD4O5CpMBiWGymmH) | [Chapter Two: Flux](https://open.spotify.com/album/3Nv49ian9yCrowGCPGn7Zb) | 5:31 |
 | 40 | [Jesus Only You \- Live](https://open.spotify.com/track/7ANBtFlxPmJkhkqQMvy7bT) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Jesus Only You \(Live\)](https://open.spotify.com/album/21q9tq89gBSUllwlU4VsvK) | 4:36 |
 | 41 | [Rule In My Heart](https://open.spotify.com/track/59UpBfd5XNvvTV6DyxYCPH) | [Beth Croft](https://open.spotify.com/artist/4jrrZymKmM0WolEJAqcMJP) | [Rule In My Heart](https://open.spotify.com/album/5vGS1t0bJSQioHUe91jaNa) | 5:12 |
 | 42 | [All Things New \(Live\)](https://open.spotify.com/track/7tCQhqtldkBnag6wvOnKil) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO) | [All Things New \(Live\)](https://open.spotify.com/album/6YxQ6G7ltjqaRliili7o8Q) | 5:31 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 48 | [Nothing But Grace](https://open.spotify.com/track/1WsLjjxCkceaH9dFqwbvKp) | [Chris Sayburn](https://open.spotify.com/artist/3YCIiIHJppDleYo4vq4AN9) | [Saved By Grace](https://open.spotify.com/album/5Rzg6slcH2u7Ipl0VqYUY1) | 4:10 |
 | 49 | [How Can We Not \(Give Praise\) \- Live](https://open.spotify.com/track/3lu7hEA4uuS6W4lQ6Vu7au) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9) | [How Can We Not \(Give Praise\) \[Live\]](https://open.spotify.com/album/1tX7VDEYqIpnn9oAwCg9nC) | 6:51 |
 | 50 | [Come to the Water \- Live](https://open.spotify.com/track/6k8nSBE7GoGhuzA22WIKR0) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Lauren Harris](https://open.spotify.com/artist/1PK9PSLsDrIo0ZoxdQLqob) | [Wildfire \(Live Worship From New Wine 2015\)](https://open.spotify.com/album/7p1R5IAIHlBPQWbJj1ljTP) | 5:36 |
-| 51 | [Be Lifted Up \(Live\)](https://open.spotify.com/track/36UNdXolsIyWQEYh00ODAa) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Karen Gillespie](https://open.spotify.com/artist/3H7zMUDYkq5RAwjVpoh2dX) | [All Things New \(Live\)](https://open.spotify.com/album/6dyY0EjV3fwxl3JqK69VM3) | 4:15 |
+| 51 | [Be Lifted Up \- Live](https://open.spotify.com/track/36UNdXolsIyWQEYh00ODAa) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Karen Gillespie](https://open.spotify.com/artist/3H7zMUDYkq5RAwjVpoh2dX) | [All Things New \(Live\)](https://open.spotify.com/album/6dyY0EjV3fwxl3JqK69VM3) | 4:15 |
 | 52 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
 | 53 | [Abba Father](https://open.spotify.com/track/5Mm710yfQEfatdtaivoXYE) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:44 |
 | 54 | [I Believe](https://open.spotify.com/track/1G4HQS0ryuYy8ncQr9dSU8) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/6DO6UqQE4KDIr1qDUr72iA) | 5:20 |

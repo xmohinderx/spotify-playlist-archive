@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Piso 21
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,841 likes - 56 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,921 likes - 56 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

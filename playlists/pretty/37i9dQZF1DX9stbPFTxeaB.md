@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,318 likes - 69 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,301 likes - 69 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 52 | [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 |
 | 53 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 |
 | 54 | [Vixen Eyes](https://open.spotify.com/track/4KIY1A23VXJZjSlaRFzgTC) | [Gugun Power Trio](https://open.spotify.com/artist/0QnRd6i7Da4louZggkoFrg) | [Solid Ground](https://open.spotify.com/album/75DywChZtKY2f4xAKBrAso) | 4:16 |
-| 55 | [Soul On Fire](https://open.spotify.com/track/2w7Lhu2qyIcqkBveFELEOT) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/3IO7IyvePsQ08yDtkQWVHL) | 3:44 |
+| 55 | [Soul On Fire](https://open.spotify.com/track/4Qq0xEgR45Lf7iGpv6t0vD) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/5doTWaDPG8coY3SR6SQQc3) | 3:44 |
 | 56 | [Love Ain't a Love Song](https://open.spotify.com/track/50ttL5XmiGyYscxnJKJy2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/3g3H58t89gy5HS6e9oaIos) | 3:48 |
 | 57 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
 | 58 | [Make It Easy](https://open.spotify.com/track/60zfRewsKIpbmDQXImKW2C) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Salting Earth](https://open.spotify.com/album/0pVOdsazkMxlwse9tHlBlv) | 3:24 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 68 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 |
 | 69 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 |
 
-Snapshot ID: `MTY0NTE2MDQ2MCwwMDAwMDAwMGY4NGI2ZWRiNDQ2YWI0MzYxZTQ0NjM2MTMyZmYyM2Y4`
+Snapshot ID: `MTY0NTE2MDQ2MCwwMDAwMDAwMGM3ZDMzYzRiMTRjNWU2NmQzNWI5YTFmNDUyYWVmZTQw`

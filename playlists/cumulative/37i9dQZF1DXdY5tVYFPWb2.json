@@ -279,10 +279,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 189733,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/2VUtTnTYe2wA3Bj13YfLwq"
+    },
+    {
+      "album": {
+        "name": "ALL MY LOVE",
+        "url": "https://open.spotify.com/album/3jZyvxRqAx1iS3dl8p1r3g"
+      },
+      "artists": [
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189733,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6AXZEkvpntH6PBotxzRHjg"
     },
     {
       "album": {

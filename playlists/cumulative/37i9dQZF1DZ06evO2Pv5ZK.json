@@ -984,6 +984,28 @@
     },
     {
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Shine for Me",
+      "url": "https://open.spotify.com/track/7Cx1u0F7b34tA8AIReKTLc"
+    },
+    {
+      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 242933,
       "name": "Theme from the TV Series \"Cosmos\" (Heaven and Hell, 3rd Movement)",
       "url": "https://open.spotify.com/track/4CZv4bLziFAXyyMZzQmv2s"

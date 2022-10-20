@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 23363,
+  "num_followers": 23370,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMGI2MDYwNDI0ZDRmMDQ0ZjA1NDAxMThhNTgwMmY1Y2Nk",
+  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMDMwMzk0MmQ1MjNhNzE1NDcyNThhNDEwNzAxYzRiN2Rj",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Rock Steady (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 183493,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Rock Steady (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "It's Not Over....The Hits So Far",
-        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 270640,
-      "name": "No Surprise",
-      "url": "https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Yours Truly, Angry Mob (Deluxe)",
         "url": "https://open.spotify.com/album/05jUwmVUkmYzj3AeYqNr8B"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 202800,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/7f7PmeN76Cr3qpQTpqUPcG"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "It's Not Over....The Hits So Far",
+        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 270640,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P"
     },
     {
       "added_at": "2021-04-09 06:36:41",

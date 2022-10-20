@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 181460,
+  "num_followers": 181702,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDcyZWNmMDc3Y2JmOWRlMjFhNTllNWI1MGE5NjNlMjA4",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGNhN2FmN2YzMDE3YTdmZWQwMmUyMzkyMTI1NGU2OTAw",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "View From The Ground",
@@ -763,6 +747,22 @@
       "duration_ms": 237466,
       "name": "You Can Do Magic",
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -899,22 +899,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Hearts In Motion",
-        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Lonely Is the Night",
-      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Hearts In Motion",
+        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Lonely Is the Night",
+      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO"
     },
     {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Life As We Know It",
+        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
+    },
+    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Welcome To The Real World",
@@ -1055,22 +1071,6 @@
       "duration_ms": 265840,
       "name": "Kyrie",
       "url": "https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB"
-    },
-    {
-      "added_at": "2022-03-28 14:29:51",
-      "album": {
-        "name": "The Essential Playlist",
-        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
-      },
-      "artists": [
-        {
-          "name": "Bertie Higgins",
-          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Key Largo",
-      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1089,20 +1089,20 @@
       "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
+      "added_at": "2022-03-28 14:29:51",
       "album": {
-        "name": "Life As We Know It",
-        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
+        "name": "The Essential Playlist",
+        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
       },
       "artists": [
         {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+          "name": "Bertie Higgins",
+          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
         }
       ],
-      "duration_ms": 270226,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
+      "duration_ms": 198946,
+      "name": "Key Largo",
+      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Making Movies",
-        "url": "https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 361395,
-      "name": "Romeo and Juliet",
-      "url": "https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 239306,
       "name": "A Face In The Crowd",
       "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Making Movies",
+        "url": "https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 361395,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF"
     },
     {
       "added_at": "2020-12-08 17:52:17",

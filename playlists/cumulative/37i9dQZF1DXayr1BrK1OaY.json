@@ -956,6 +956,28 @@
     },
     {
       "album": {
+        "name": "Forever In My Mind",
+        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152610,
+      "name": "Forever In My Mind",
+      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
+    },
+    {
+      "album": {
         "name": "Get Me Higher (Catching Flies Remix)",
         "url": "https://open.spotify.com/album/5iABP4wIIn7tHZM1ci5G3x"
       },
@@ -2719,7 +2741,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 177745,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y"

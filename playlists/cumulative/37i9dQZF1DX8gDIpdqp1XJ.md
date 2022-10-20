@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-620 songs - 1 day 17 hr 35 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+622 songs - 1 day 17 hr 42 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Disco](https://open.spotify.com/track/4b8CVawtKXsHizyqEZfs8C) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:47 | 2022-04-21 | 2022-07-29 |
 | [Distraction](https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | ["Hello, Hi"](https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9) | 5:10 | 2022-07-22 | 2022-09-05 |
 | [DLMD](https://open.spotify.com/track/3cApZsOjkPnDRZzJGGCZNI) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [DLMD](https://open.spotify.com/album/35aXvaT5HEb0vBihxTZOsS) | 2:40 | 2021-04-02 | 2022-04-19 |
-| [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2022-04-20 |  |
+| [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2022-04-20 | 2022-10-20 |
 | [Do Yeah](https://open.spotify.com/track/5Mr5KZ3tAWKwqsj1wCngmF) | [Bananagun](https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh) | [Do Yeah](https://open.spotify.com/album/7nWGYZhW6V70zhTEedu2sX) | 2:58 | 2021-04-02 | 2022-04-20 |
 | [Do You](https://open.spotify.com/track/1i40x2PNAf0Z8hfqUYuoty) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Do You](https://open.spotify.com/album/5H1eBKooUBbSn2QlFSAWr6) | 3:04 | 2022-06-17 | 2022-07-25 |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-07-22 |  |
@@ -176,6 +176,7 @@
 | [Fallacy Actually](https://open.spotify.com/track/5FLd0SCmbuP3ZQqEt7Ew6N) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Fallacy Actually](https://open.spotify.com/album/76hqDrg4ewLgKcYtxkshJV) | 4:11 | 2022-07-22 | 2022-07-29 |
 | [Falsa Folha De Rosto](https://open.spotify.com/track/6tkJP8lGXNf6thfRk5j2qZ) | [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Manual](https://open.spotify.com/album/3THs8EgoGs9oSKahSlN4yP) | 5:09 | 2022-07-15 | 2022-07-26 |
 | [Fantôme](https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Fantôme](https://open.spotify.com/album/35LP1ys9GIAUAIrk7XT3RZ) | 5:06 | 2021-06-04 | 2022-04-19 |
+| [FEEL LIKE](https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:08 | 2022-09-02 |  |
 | [FEEL LIKE](https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu) | 3:08 | 2021-10-18 | 2022-10-13 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-07-11 |  |
 | [Fever](https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8) | 2:54 | 2021-10-08 | 2022-10-13 |
@@ -448,6 +449,7 @@
 | [Reset](https://open.spotify.com/track/5QaAMG5SdD0OKmV3VVo7Wo) | [Colyer](https://open.spotify.com/artist/1L0pwxF6zglm74nG2gBWw5) | [Reset](https://open.spotify.com/album/6LgkETeWZxBGgEThkiALNi) | 4:58 | 2022-04-22 | 2022-10-08 |
 | [Revelator](https://open.spotify.com/track/0xVwkfyPh0brDtlmtdIb2d) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Revelator](https://open.spotify.com/album/7zI8PDMo7i9ZZcIBL7BK1d) | 3:05 | 2022-03-04 | 2022-06-15 |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-12-14 | 2022-09-12 |
+| [Ruby Sparks](https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 4:14 | 2022-09-02 |  |
 | [Ruby Sparks](https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Ruby Sparks](https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY) | 4:14 | 2022-07-22 | 2022-10-14 |
 | [Running Backwards](https://open.spotify.com/track/6tkb9q3f7elJ1u5p8AFNCX) | [Sleeping Jesus](https://open.spotify.com/artist/2HdmMDI7Kl4mUZdB6m4mp4) | [Running Backwards](https://open.spotify.com/album/7KoFuplb07ujpTafyNwcvP) | 3:00 | 2022-07-11 | 2022-07-16 |
 | [Runway Markings](https://open.spotify.com/track/0lK3N42BJ6mJ817MOUCDvN) | [Okta Logue](https://open.spotify.com/artist/6uAxVau0WqFZV2BXcw6TGO) | [Runway Markings](https://open.spotify.com/album/5TQQ6QFzau2qFE9MwdKL1C) | 6:25 | 2021-04-02 | 2022-04-20 |
@@ -518,7 +520,7 @@
 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 | 2021-04-02 | 2022-07-04 |
 | [Taste](https://open.spotify.com/track/6kcRaRTILeTqwZGnsDLjsy) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Taste](https://open.spotify.com/album/6qt5yQOrotsGW6K0pNMRke) | 3:36 | 2021-04-02 | 2022-04-16 |
 | [Taxi’s Here](https://open.spotify.com/track/1T5tDibcj3AmFmPxYGm6vp) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:47 | 2021-04-02 | 2022-06-01 |
-| [Tears of Change](https://open.spotify.com/track/6J1ntyV5SSlaXYu4UWiSz2) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Tears of Change](https://open.spotify.com/album/7AIdAe6CcQC3CLdJxY4gXl) | 4:09 | 2022-10-07 |  |
+| [Tears of Change](https://open.spotify.com/track/6J1ntyV5SSlaXYu4UWiSz2) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Tears of Change](https://open.spotify.com/album/7AIdAe6CcQC3CLdJxY4gXl) | 4:09 | 2022-10-07 | 2022-10-20 |
 | [Terminal](https://open.spotify.com/track/40wkW3SBJMhemcvtzKjxkO) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:22 | 2022-09-02 | 2022-10-08 |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-17 | 2022-09-09 |
 | [Tesselation](https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:32 | 2022-07-11 |  |

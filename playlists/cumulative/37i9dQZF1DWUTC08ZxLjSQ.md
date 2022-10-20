@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Yvzid, Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Zamzam, Artwork: Isu Kim
 
 68 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
 

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: バックドロップシンデレラ（Backdrop Cinderella）
 
-459 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+460 songs - 1 day 1 hr 15 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BIG FUCKIN' NOISE](https://open.spotify.com/track/40iH0JrI2n4UTKkzWgIWYq) | [Burl](https://open.spotify.com/artist/2ZgiouPek6RJYWMttaR7gw) | [JUST PUNK,GO!!](https://open.spotify.com/album/3MwwFxDX15mBkUCjkPaV0Z) | 2:41 | 2022-05-24 | 2022-07-24 |
 | [BLESS](https://open.spotify.com/track/7gi73b1NfTb3K23qzXTkGY) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [NETH](https://open.spotify.com/album/3bX09wKzqYqEGEKSEaoS2J) | 2:35 | 2022-05-17 | 2022-07-27 |
 | [Blue Ink](https://open.spotify.com/track/1LuCnD3kMp1KVT9AffvzDK) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sweet](https://open.spotify.com/album/3Ku32ojOASDbazhWQs2vr5) | 3:02 | 2022-06-07 | 2022-06-26 |
+| [Bond girl Sugushinu](https://open.spotify.com/track/3OEn6CmjNDxskFlVNjyIU6) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [3rd e.p](https://open.spotify.com/album/2tnBhc5J7XZjqf7cAB7Gqf) | 2:38 | 2022-10-18 |  |
 | [Bored Rigid](https://open.spotify.com/track/6zXsdp7du4Y2tQ8fGYPuyk) | [Comeback My Daughters](https://open.spotify.com/artist/7wM7iIMQX2HrJCjASApbWW) | [EXPerience](https://open.spotify.com/album/20BflIUzszY4lTwqsI7dRj) | 4:53 | 2022-05-12 | 2022-07-16 |
 | [BOYZ DON'T CRY](https://open.spotify.com/track/3nDBPRhYEIxQNMyydQiX2k) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/1BgMkzGUGBiMfweuPLtEd4) | 3:46 | 2022-08-18 | 2022-08-20 |
 | [BOYZ DON'T CRY](https://open.spotify.com/track/5LBuLQqHOkQwWOaB51hnFM) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/0jj4wVi533xDTcI0FMOklf) | 3:46 | 2022-08-19 | 2022-09-15 |
@@ -387,7 +388,7 @@
 | [ヒトリセカイ](https://open.spotify.com/track/5SmwhHaS2hK13aL6oDVZYD) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:20 | 2022-05-12 | 2022-08-03 |
 | [ピーチ♡いちごアメ](https://open.spotify.com/track/14JarMQZIr1Lfsw6DeGef5) | [BAKUDAN JOHNNY](https://open.spotify.com/artist/5esUkhRmBCoNxNobiBrCkG) | [爆弾ジョニー](https://open.spotify.com/album/23RW1MVkvvv6iIPGsnpHeX) | 2:56 | 2022-05-17 | 2022-07-29 |
 | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/track/2GkhyE56m5OaP5YjKXpFmo) | [SHAKILAMO!](https://open.spotify.com/artist/3YLOZgsxlza27wQlWilcmT) | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/album/6oeSvxiZ9xQuNrJMq1I8b8) | 3:18 | 2022-05-12 | 2022-07-29 |
-| [ボンドガールすぐ死ぬ](https://open.spotify.com/track/5DWHhJtfCA8IWdxIPmPPed) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [サードe.p](https://open.spotify.com/album/3QCsLRYFLKcEzD2k79coHC) | 2:38 | 2022-10-18 |  |
+| [ボンドガールすぐ死ぬ](https://open.spotify.com/track/5DWHhJtfCA8IWdxIPmPPed) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [サードe.p](https://open.spotify.com/album/3QCsLRYFLKcEzD2k79coHC) | 2:38 | 2022-10-18 | 2022-10-20 |
 | [ミラコーナイト](https://open.spotify.com/track/1h9ej6dhMV84Jp6LK0Jwsj) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [ミラコーナイト](https://open.spotify.com/album/7tvjen8VzFAznvIghxkhQM) | 3:35 | 2022-05-12 | 2022-07-22 |
 | [ミリオンダラーベイビー](https://open.spotify.com/track/363cWR8pD54ZDtmd4Y59yO) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [millions of oblivion](https://open.spotify.com/album/3BUmcOp3vCAIO8FTIMcT68) | 3:16 | 2022-05-17 | 2022-07-29 |
 | [メロディー](https://open.spotify.com/track/4mO8Q2xq2Qubo10LAQCtci) | [古墳シスターズ](https://open.spotify.com/artist/2huN0hENOUQCQTGp2y6Wi4) | [ハブ・ア・グッドバイ](https://open.spotify.com/album/6AvLMxfZudBb8cflhCnqZa) | 2:54 | 2022-06-30 | 2022-07-03 |

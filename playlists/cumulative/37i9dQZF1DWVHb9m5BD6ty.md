@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-103 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+104 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Bernie Mac](https://open.spotify.com/track/3Z8WVPojr7RFPqkntdZVNR) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Bernie Mac](https://open.spotify.com/album/6yycdFlMIijQP675i8o1it) | 2:29 | 2021-10-26 | 2022-03-17 |
 | [Big Bidness](https://open.spotify.com/track/24Sdq5vT5sdZTeQmvb8zCd) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Big Bidness](https://open.spotify.com/album/0sWBFDpM7sClqlK9sHm9q4) | 2:40 | 2021-10-26 | 2022-03-17 |
 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 | 2021-10-26 | 2022-03-17 |
-| [Brown](https://open.spotify.com/track/0GF6BvdfcZIufzB8otZTzT) | [Ama Millieir](https://open.spotify.com/artist/4IrUxLaGY463W3WD3ABWCa) | [Brown](https://open.spotify.com/album/7no3izZxAhxrQTas2QKoZo) | 3:00 | 2022-03-17 |  |
+| [Brown](https://open.spotify.com/track/0GF6BvdfcZIufzB8otZTzT) | [Ama Millieir](https://open.spotify.com/artist/4IrUxLaGY463W3WD3ABWCa) | [Brown](https://open.spotify.com/album/7no3izZxAhxrQTas2QKoZo) | 3:00 | 2022-03-17 | 2022-10-20 |
+| [Brown](https://open.spotify.com/track/0c6YkDqJgpaX2kCTwXbrjj) | [Ama Millieir](https://open.spotify.com/artist/4IrUxLaGY463W3WD3ABWCa) | [Brown](https://open.spotify.com/album/1VYBVGhN5z43zG8j7ni4pq) | 3:00 | 2022-03-17 |  |
 | [Bullet \- Dream Wife Remix](https://open.spotify.com/track/58k7ExAAzXngmvxpkuhlIH) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Bullet \(Dream Wife Remix\)](https://open.spotify.com/album/5IMofBJECvlXR785N9DFBH) | 3:20 | 2021-10-26 | 2022-03-17 |
 | [Can't Find You](https://open.spotify.com/track/7fvpFawFOndlL6DOwrFYYV) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Jack Suddaby](https://open.spotify.com/artist/6L8juiO0t0TCCZ7gaBtXc2) | [Can't Find You](https://open.spotify.com/album/20pmKyT2cyIQA3g9GsNIVr) | 3:03 | 2022-03-17 |  |
 | [Chaila](https://open.spotify.com/track/32dmwS4I5d2QIQveVtWf8D) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 3:11 | 2022-03-17 |  |

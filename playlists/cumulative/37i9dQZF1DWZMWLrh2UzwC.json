@@ -4101,10 +4101,32 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 213167,
       "name": "Baby With You",
       "url": "https://open.spotify.com/track/2heNhap3RajDNVhFmxyX9h"
+    },
+    {
+      "album": {
+        "name": "Baby With You - EP",
+        "url": "https://open.spotify.com/album/7jiKefDNleILC263FaDE7L"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "EVY",
+          "url": "https://open.spotify.com/artist/1br1qwFrzbNkxvisBvJBbe"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213167,
+      "name": "Baby With You",
+      "url": "https://open.spotify.com/track/6PLFBH0Z09ErT8NIoFrs88"
     },
     {
       "album": {
@@ -42862,7 +42884,7 @@
     },
     {
       "album": {
-        "name": "Out of My System",
+        "name": "Out Of My System",
         "url": "https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb"
       },
       "artists": [
@@ -42875,7 +42897,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137973,
-      "name": "Out of My System",
+      "name": "Out Of My System",
       "url": "https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F"
     },
     {

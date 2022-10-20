@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7560,
+  "num_followers": 7580,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDJhNmYzMzUzY2IyOTEwMzg3NDc0YTUyZGVlZmQxOTA3",
+  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMGRlMjkyODQzMTA5NjQyNTZmMjBhMDQ2ZWFkN2Y3YjY5",
   "tracks": [
     {
       "added_at": "2022-10-05 05:53:59",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
     },
     {
+      "added_at": "2022-10-20 01:50:07",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
       "added_at": "2022-10-05 05:53:59",
       "album": {
         "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
@@ -343,22 +359,6 @@
       "duration_ms": 239499,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2022-10-19 01:58:36",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 195042,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -427,22 +411,18 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Evening",
-        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
+        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
       "artists": [
         {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Evening (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
+      "duration_ms": 195042,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -491,6 +471,26 @@
       "duration_ms": 221947,
       "name": "The Night",
       "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Evening (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
     },
     {
-      "added_at": "2022-10-19 01:58:36",
+      "added_at": "2022-10-20 01:50:07",
       "album": {
         "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
@@ -735,6 +735,22 @@
       "duration_ms": 214626,
       "name": "Tell Me You Love Me",
       "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
       "artists": [
         {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+      "duration_ms": 172760,
+      "name": "Love in the Milky Way Cafe",
+      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -799,38 +815,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 182313,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
-        "name": "1.0",
-        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Love in the Milky Way Cafe",
-      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "I LOVE YOU",
         "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 177831,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
     },
     {
-      "added_at": "2022-10-19 01:58:36",
+      "added_at": "2022-10-20 01:50:07",
       "album": {
         "name": "Some Day in the 21century",
         "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"

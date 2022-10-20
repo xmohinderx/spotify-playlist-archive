@@ -1082,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260338,
+      "name": "Edge Of The Dark",
+      "url": "https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop"
+    },
+    {
+      "album": {
         "name": "Emotion feat. Wild Nothing",
         "url": "https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH"
       },
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 218506,
       "name": "Interstellar Love (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"

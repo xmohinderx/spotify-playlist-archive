@@ -6350,20 +6350,28 @@
     },
     {
       "album": {
-        "name": "The Sun",
+        "name": "The Sun (feat. Bran Movay)",
         "url": "https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD"
       },
       "artists": [
         {
           "name": "Kabwasa",
           "url": "https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4"
+        },
+        {
+          "name": "DYVN",
+          "url": "https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X"
+        },
+        {
+          "name": "Bran Movay",
+          "url": "https://open.spotify.com/artist/6qOnVqczf3XJzyy3eQazOu"
         }
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169756,
-      "name": "The Sun",
+      "name": "The Sun (feat. Bran Movay)",
       "url": "https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm"
     },
     {

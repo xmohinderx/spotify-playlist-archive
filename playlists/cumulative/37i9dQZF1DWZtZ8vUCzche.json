@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 308386,
       "name": "Drop",
       "url": "https://open.spotify.com/track/3U83MLJ562dk6Yhvwpe6lL"
@@ -2135,6 +2135,24 @@
       "duration_ms": 275720,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT"
+    },
+    {
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit",
+      "url": "https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl"
     },
     {
       "album": {

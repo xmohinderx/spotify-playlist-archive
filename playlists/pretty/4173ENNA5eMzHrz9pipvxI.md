@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Öwnboss &amp; FAST BOY
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,411 likes - 30 songs - 1 hr 26 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,416 likes - 30 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 15 | [Rio Rio \(feat\. Martina Camargo\)](https://open.spotify.com/track/0vnbMEahl3Lj1AixLnCGje) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Rio Rio \(feat\. Martina Camargo\)](https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ) | 2:51 |
 | 16 | [Never Good Enough \(feat\. Scarlett\)](https://open.spotify.com/track/4m1DYlYA9srxNsVHVjE9Zv) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP), [Sledge](https://open.spotify.com/artist/0QVVlLSw9zbtD8GcsntS4h), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Never Good Enough \(feat\. Scarlett\)](https://open.spotify.com/album/30n5m4guLxS5MHAMaCTT2a) | 3:06 |
 | 17 | [Move My Feet](https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Move My Feet](https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6) | 3:18 |
-| 18 | [Ole Ole](https://open.spotify.com/track/0ULUQNsWHyA6kjZMrf5wQ7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Arrow](https://open.spotify.com/artist/1DsuMvxjjWbfju1FGdcH3w), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Ole Ole](https://open.spotify.com/album/4RnYmvLt3wAc5ifPhiivjV) | 2:36 |
+| 18 | [Ole Ole](https://open.spotify.com/track/0ULUQNsWHyA6kjZMrf5wQ7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Ole Ole](https://open.spotify.com/album/4RnYmvLt3wAc5ifPhiivjV) | 2:36 |
 | 19 | [Deep Blue](https://open.spotify.com/track/6N64uP2GdgSjC1AAx4Y8J2) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Deep Blue](https://open.spotify.com/album/6P41WRzxaUDfKxbLCQeKtn) | 3:05 |
 | 20 | [Juicy Flute](https://open.spotify.com/track/050Y5VPOnhoRWXN2GTQQZi) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Juicy Flute](https://open.spotify.com/album/6UtmzXnBFTzPMsKDU5rffy) | 2:43 |
 | 21 | [Not Your Only One \(feat\. Becky Smith\)](https://open.spotify.com/track/6KG0qI1fDqLgFf7eL7MbDq) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Becky Smith](https://open.spotify.com/artist/27S7Je1MzN41dhBiMffYrA) | [Not Your Only One \(feat\. Becky Smith\)](https://open.spotify.com/album/1WdOaivRmcTw8rpRZkLywm) | 2:36 |
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 27 | [Heartbreak \(DØBER Remix\)](https://open.spotify.com/track/2wHbvqU3msYhGePL9daQNu) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [DØBER](https://open.spotify.com/artist/1yGoTdU9M2zNhcyDSes8Sq) | [Heartbreak \(DØBER Remix\)](https://open.spotify.com/album/1VN8ms8SzEl6mQD71CkzxF) | 2:55 |
 | 28 | [Fall In](https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s) | [alltalk](https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE) | [Fall In](https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL) | 3:20 |
 | 29 | [Snakes 2022](https://open.spotify.com/track/75bbJMLDvW4wYA6hJZkGpQ) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Snakes 2022](https://open.spotify.com/album/02R4W0mbgjy7dgAkqJAmEQ) | 2:22 |
-| 30 | [Immersion](https://open.spotify.com/track/543Z89apRQXgXFj0R2yITx) | [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a), [Yes No Maybe](https://open.spotify.com/artist/1jbwmOdN9yD10QBoIe1t36) | [Immersion](https://open.spotify.com/album/1t3IrbQ68XHX2bMM1KmHSW) | 4:10 |
+| 30 | [Immersion](https://open.spotify.com/track/543Z89apRQXgXFj0R2yITx) | [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a), [Yes No Maybe](https://open.spotify.com/artist/3G3pbFRRqPIR8ilWL32Cqn) | [Immersion](https://open.spotify.com/album/1t3IrbQ68XHX2bMM1KmHSW) | 4:10 |
 
 Snapshot ID: `NjI5NCwyMTljM2Y0YTZiOTc0ODE3YTRmNmZjYjhjYzY5NjM5NjdkZTUzNDY0`

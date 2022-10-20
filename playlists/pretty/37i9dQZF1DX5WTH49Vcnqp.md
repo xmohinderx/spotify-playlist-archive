@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > If it's indie and it's hot, it's here\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,695 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,691 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 51 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 |
 | 52 | [Sunny](https://open.spotify.com/track/1ZiAZR4p9WmRU9FUGCcuCD) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Player One](https://open.spotify.com/album/4UO3OkkwR1YV4TC5yD6ZvI) | 3:13 |
 | 53 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 |
-| 54 | [Friends](https://open.spotify.com/track/29ucQr9OTlnRzxWi9xUhkG) | [Medhanit](https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7) | [Friends](https://open.spotify.com/album/5Hd3WgCnnQYkBvqFBlZjef) | 2:50 |
+| 54 | [Friends](https://open.spotify.com/track/6JQ6ToL7RQZSHqzQJcLeoE) | [Medhanit](https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7) | [Friends](https://open.spotify.com/album/5zkUyOpknpaEMCSQ1nTSN2) | 2:50 |
 | 55 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 56 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 57 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 98 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 99 | [Don't Wanna See You Down](https://open.spotify.com/track/0dRT0xytWgkjufsBxavQQH) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Don't Wanna See You Down](https://open.spotify.com/album/61apFO26VhHNA0RadiFgls) | 2:28 |
 
-Snapshot ID: `MTY2NTcxNDg3MiwwMDAwMDAwMGVjMTE2OTYyZTI1OTg0ODk4ZTQzODc3NDExYmMyYWQy`
+Snapshot ID: `MTY2NTcxNDg3MiwwMDAwMDAwMDE1YWM1Y2QyNWU0ODBiZGQwMWUwMWU0MzUxNWJhNjgz`

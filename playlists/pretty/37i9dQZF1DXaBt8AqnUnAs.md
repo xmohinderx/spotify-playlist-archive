@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,337 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,430 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 15 | [Um Pouco De Nós](https://open.spotify.com/track/43QsY73MFWhouHc8SnWnrK) | [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Um Pouco De Nós](https://open.spotify.com/album/5dI0cZ5OxiVU1bQKIzOloW) | 2:18 |
 | 16 | [de volta ao início](https://open.spotify.com/track/5nXF7EEK5IPLmYfGveV5Ie) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2) | [de volta ao início](https://open.spotify.com/album/4ydY7PhtT9OjUQMgjNW1nt) | 2:29 |
 | 17 | [E Se Eu Falasse o Que Sinto?](https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:36 |
-| 18 | [Fogo de Cama](https://open.spotify.com/track/6998l50tOJbGCzzidvT6HU) | [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Fogo de Cama](https://open.spotify.com/album/1leLZDQu9XTBYnCx1CqrLN) | 2:29 |
+| 18 | [Fogo de Cama](https://open.spotify.com/track/6998l50tOJbGCzzidvT6HU) | [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q), [Pedro Toro](https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf) | [Fogo de Cama](https://open.spotify.com/album/1leLZDQu9XTBYnCx1CqrLN) | 2:29 |
 | 19 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 |
 | 20 | [Filha da Primeira Dama](https://open.spotify.com/track/1ys92qqJhLRgD3jaTPCfs2) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Filha da Primeira Dama](https://open.spotify.com/album/08WzAYR9WHtIJUnNCcfvtj) | 2:42 |
 | 21 | [Fica](https://open.spotify.com/track/5XoCHhUCrv2seffIGVzJ3x) | [K4tt0](https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3) | [Fica](https://open.spotify.com/album/4ms8gh4HzAV6LLWSfMB6jO) | 3:31 |

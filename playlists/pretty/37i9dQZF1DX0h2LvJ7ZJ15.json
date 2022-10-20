@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 538630,
+  "num_followers": 540108,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5MTYyOSwwMDAwMDAwMGZkNWEyNDRiNzg2YjU2ZDdmMGE4MDg1YWNmMWFhZWUz",
+  "snapshot_id": "MTY2NTY5MTYyOSwwMDAwMDAwMDQ1YzllOTExZDRlNTkwZDNlNzRkOWJhYmJjYTQyZGE2",
   "tracks": [
     {
       "added_at": "2022-10-07 04:56:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "Heat Waves (Expansion Pack)",
-        "url": "https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 262248,
-      "name": "Heat Waves - Slowed",
-      "url": "https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
         "name": "Close Eyes (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 143769,
       "name": "Close Eyes - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
+        "name": "Heat Waves (Expansion Pack)",
+        "url": "https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 262248,
+      "name": "Heat Waves - Slowed",
+      "url": "https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1"
     },
     {
       "added_at": "2022-10-07 04:56:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 203491,
+      "name": "SNAP - Low and Slow",
+      "url": "https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
         "name": "Bananza (Belly Dancer) [Remixes]",
         "url": "https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj"
       },
@@ -495,18 +511,22 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
+        "name": "Banakula @ Meh (Original)",
+        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "Hal Walker",
+          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
         }
       ],
-      "duration_ms": 203491,
-      "name": "SNAP - Low and Slow",
-      "url": "https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb"
+      "duration_ms": 106867,
+      "name": "Meh (Banakula) - Slowed",
+      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
     },
     {
       "added_at": "2022-10-07 04:56:00",
@@ -531,26 +551,6 @@
       "duration_ms": 200453,
       "name": "After Party - CHOPNOTSLOP REMIX",
       "url": "https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
-        "name": "Banakula @ Meh (Original)",
-        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
-      },
-      "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "Hal Walker",
-          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
-        }
-      ],
-      "duration_ms": 106867,
-      "name": "Meh (Banakula) - Slowed",
-      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
     },
     {
       "added_at": "2022-10-07 04:56:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
         "name": "Us and Them",
         "url": "https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 166956,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
+        "name": "This December (slow)",
+        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     },
     {
       "added_at": "2022-10-07 04:56:00",
