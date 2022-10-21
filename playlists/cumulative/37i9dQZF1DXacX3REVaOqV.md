@@ -4,7 +4,7 @@
 
 > The best in house music
 
-263 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
+264 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Don't Matter](https://open.spotify.com/track/4HoFpxq4jASORRn0eluKI6) | [Glen Horsborough](https://open.spotify.com/artist/1J46gHqs7zPa7Lciz41abR), [Karmina Dai](https://open.spotify.com/artist/05RLuucyiLswN7bNiV6Ma3) | [Don't Matter](https://open.spotify.com/album/61SOdgsmEVsXQCw589W6KE) | 3:52 | 2022-05-16 | 2022-07-29 |
 | [Don't You Want Some More](https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq) | [Vaggio](https://open.spotify.com/artist/4gvPnfYVfh6JkG7ZMtEKoG) | [Vaggio EP](https://open.spotify.com/album/0iFOrCy8VhUO9B2pX1IrOg) | 6:14 | 2022-04-14 | 2022-07-26 |
 | [Down \- Franky Rizardo Remix](https://open.spotify.com/track/0U65qiH70mcfB1wyF0Mal0) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Down \(Franky Rizardo Remix\)](https://open.spotify.com/album/3EFFBLCi8oHdn3GlwUCaLL) | 3:58 | 2022-04-20 | 2022-09-16 |
-| [Dreaming of a Disco](https://open.spotify.com/track/3WtXl3O0oT9eM4Izr3lcHx) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Dreaming of a Disco](https://open.spotify.com/album/6BWis1o59j5RPcnzzcBqF3) | 6:06 | 2022-04-14 |  |
+| [Dreaming of a Disco](https://open.spotify.com/track/3WtXl3O0oT9eM4Izr3lcHx) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Dreaming of a Disco](https://open.spotify.com/album/6BWis1o59j5RPcnzzcBqF3) | 6:06 | 2022-04-14 | 2022-10-21 |
 | [Drop the Bomb](https://open.spotify.com/track/5Bi80GhP7fd0bBcNTZRYnm) | [Mattei & Omich](https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC) | [Drop the Bomb](https://open.spotify.com/album/4RpvpREGer9W8sxjwnNK6q) | 6:46 | 2022-07-28 |  |
 | [Drop The Pressure \- Sonny Fodera Remix](https://open.spotify.com/track/0W3QlGq4NUOZvUnYjiJa6u) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Drop The Pressure \(Sonny Fodera Remix\)](https://open.spotify.com/album/2rL4yfJNdKujUyOFBgnzDr) | 3:58 | 2022-04-14 |  |
 | [Drowning In Your Love \(feat\. Jem Cooke\) \- Mark Knight Remix](https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Drowning In Your Love \(feat\. Jem Cooke\)](https://open.spotify.com/album/36YT5gZk5ceqW9DwkxOHad) | 3:24 | 2022-04-14 | 2022-07-29 |
@@ -218,6 +218,7 @@
 | [Spirit of House](https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Spirit of House](https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ) | 3:11 | 2022-04-14 |  |
 | [Spiritual Thing](https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [PvssyCat](https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Spiritual Thing](https://open.spotify.com/album/02czhiYrZJ3tSJDQUCllv1) | 3:38 | 2022-04-14 |  |
 | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R) | [S.A.M.](https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O), [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS) | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod) | 2:55 | 2022-04-14 |  |
+| [Stand By Me](https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Stand By Me](https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu) | 2:54 | 2022-10-21 |  |
 | [Starry Night \- Original Mix](https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM) | 6:38 | 2022-04-14 |  |
 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 | 2022-07-28 |  |
 | [Stuck On Repeat](https://open.spotify.com/track/0Ib2lnmQqbAzuHNkGtYtNC) | [Beau](https://open.spotify.com/artist/3vwy5NQXFV797LDXh2NxEG) | [Stuck On Repeat](https://open.spotify.com/album/0zDkq6Hpkyd1j3a4pcXomo) | 3:06 | 2022-06-22 |  |

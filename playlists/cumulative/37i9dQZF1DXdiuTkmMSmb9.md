@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Oxlade
 
-176 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+178 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Infatuation](https://open.spotify.com/track/369yz5tdoyyncB1iSZ8Cz0) | [Project Peters](https://open.spotify.com/artist/4Xa9TLquuOQxAqeAnFJNi8) | [Infatuation](https://open.spotify.com/album/1IdNhIkdDYjHNZ7kQvCe59) | 3:55 | 2022-08-25 | 2022-09-09 |
 | [Insane](https://open.spotify.com/track/5xnt07eGrgbGWac3GOVKh9) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Insane](https://open.spotify.com/album/61qJQxICLqhZnyHT7MF3yf) | 2:38 | 2022-07-18 | 2022-08-19 |
 | [ISoft Life](https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg) | [Kristelle](https://open.spotify.com/artist/1mSLccW06KhvdQfhRj1gQu), [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [ISoft Life](https://open.spotify.com/album/2z6E4fBqrkgUSxECpYyx9T) | 5:48 | 2022-08-19 |  |
+| [JE LE MI EDO](https://open.spotify.com/track/54wphs5eiAUUzQ7nfJGTk5) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [JE LE MI EDO](https://open.spotify.com/album/1ftiuOqfEVrqDxbrGqbqzw) | 3:22 | 2022-10-20 |  |
 | [Joro](https://open.spotify.com/track/2Ieg17N2qwNJAlocVDObdz) | [Lowkey](https://open.spotify.com/artist/1QFlILbai7c5GQMibs7jhl), [Joe Prince](https://open.spotify.com/artist/7rBbP4OvjNjiSHoHtXUpyk) | [Joro](https://open.spotify.com/album/2WdJAWM5snSYOAxBwQoYnB) | 3:08 | 2022-09-05 | 2022-09-09 |
 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 | 2022-08-25 | 2022-09-09 |
 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 | 2022-08-25 | 2022-09-09 |
@@ -136,6 +137,7 @@
 | [Roberto C \(feat\. Unknown T\)](https://open.spotify.com/track/35uEOfCn8GbfqzVwlrgwDI) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Roberto C \(feat\. Unknown T\)](https://open.spotify.com/album/3QQuKzcpDFS6RTVJNvVQCe) | 3:32 | 2022-07-18 | 2022-08-19 |
 | [Rockstar](https://open.spotify.com/track/7fWKTRfGvhusJ2pNcrAYtD) | [Bvg Boi Jay](https://open.spotify.com/artist/3kT1Y27lqDx35NbU1jGR5J), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Rockstar](https://open.spotify.com/album/4fnFqQxRQJLO4hPEzuj4Fj) | 2:52 | 2022-07-18 |  |
 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 | 2022-09-08 |  |
+| [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-20 |  |
 | [SADEH](https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n), [Femi Jaye](https://open.spotify.com/artist/1sPoLDrEpjqiVca2lTWqVj) | [SADEH](https://open.spotify.com/album/7D3vGaepneZi0n8AP8HlN8) | 2:57 | 2022-07-18 |  |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-18 |  |
 | [Sekina](https://open.spotify.com/track/0456AjiOK782xxF4neLUwt) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SEKINA](https://open.spotify.com/album/7ceAYwpCFKHOkIkUJLSVum) | 3:00 | 2022-08-25 | 2022-09-09 |

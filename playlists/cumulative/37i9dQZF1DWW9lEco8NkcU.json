@@ -363,10 +363,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 60576,
       "name": "Fight-or-Flight",
       "url": "https://open.spotify.com/track/0Sq5Zef1vc81suJNuPkZPF"
+    },
+    {
+      "album": {
+        "name": "The Entire City",
+        "url": "https://open.spotify.com/album/6uhSnKyoxmUdwCX80KViIx"
+      },
+      "artists": [
+        {
+          "name": "Gazelle Twin",
+          "url": "https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60576,
+      "name": "Fight-or-Flight",
+      "url": "https://open.spotify.com/track/2AYiblpMSBmqEJhcSRoGZf"
     },
     {
       "album": {

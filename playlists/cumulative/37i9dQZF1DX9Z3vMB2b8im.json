@@ -976,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3FHzq09sinM2wOmILgwuDg"
+      },
+      "artists": [
+        {
+          "name": "Tom Bright",
+          "url": "https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134506,
+      "name": "If I Met Your Shadow",
+      "url": "https://open.spotify.com/track/37uHPhQ2cYnVU7RcjayRuo"
+    },
+    {
+      "album": {
         "name": "If I Met Your Shadow",
         "url": "https://open.spotify.com/album/33upVlBPSnf3oSjK0e9RCF"
       },
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 134506,
       "name": "If I Met Your Shadow",
       "url": "https://open.spotify.com/track/5ruq5kWHENUzVNoclz1UtJ"

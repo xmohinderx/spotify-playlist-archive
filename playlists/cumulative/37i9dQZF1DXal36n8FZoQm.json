@@ -1941,7 +1941,7 @@
     {
       "album": {
         "name": "Pioneer",
-        "url": "https://open.spotify.com/album/2RDDgJdJR5bZlPJ0qv6afl"
+        "url": "https://open.spotify.com/album/0dWFb0mT7OSSuEZr6X5WMm"
       },
       "artists": [
         {
@@ -1952,6 +1952,24 @@
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232142,
+      "name": "Pioneer",
+      "url": "https://open.spotify.com/track/1WEGo5CZafSDrtAmkuK7Qu"
+    },
+    {
+      "album": {
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/2RDDgJdJR5bZlPJ0qv6afl"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
       "duration_ms": 232142,
       "name": "Pioneer",
       "url": "https://open.spotify.com/track/4nwpJ3Z6aPakk0EibboPdc"

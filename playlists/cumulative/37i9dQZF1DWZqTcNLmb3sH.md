@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Triple Riding
 
-388 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+389 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Sundaravaaytu Mana](https://open.spotify.com/track/08DBdSiBJdXxLfeZWpjFCW) | [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Keshav Kumar](https://open.spotify.com/artist/6jv9y9YxviyybO5vk93QlJ), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Dear Sathya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JNVOyeDSU1PrAZlgEkml6) | 3:53 | 2022-02-28 | 2022-03-18 |
 | [Tareefu Maadalu](https://open.spotify.com/track/7ojrs8j9GxS7GQ4jNSaSqp) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Shwetha Devanahally](https://open.spotify.com/artist/5FD2EKVNcrtZSxxo0UywQU) | [Mugilpete](https://open.spotify.com/album/1GT8fDmpGnziaZ5PBVuV6M) | 3:44 | 2022-01-28 | 2022-03-18 |
 | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/track/2d7mZkTatdeb4tcnZjGyxi) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/album/47EKoRgcYU28XDAm6lTrxo) | 2:15 | 2022-02-03 | 2022-06-15 |
+| [Thaggodilla](https://open.spotify.com/track/0qMFOMHG6fl44Zpb068ZNS) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Hubli Dhaba](https://open.spotify.com/album/5wvu3ZoTd9eK0QAd5RUZ6c) | 4:05 | 2022-10-20 |  |
 | [Thale Kettaga Onde Formula](https://open.spotify.com/track/416xO4d117dG2tB5vaVC2K) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Abbara](https://open.spotify.com/album/0F2I0bqjDIysW79xkUSex3) | 3:32 | 2022-06-22 |  |
 | [The Devil's Fury \- Gumma Banda Gumma \(From "Vikrant Rona"\) \[KANNADA\]](https://open.spotify.com/track/5J6yjAulDajwVuU9Rvgkwt) | [Anup Bhandari](https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [The Devil's Fury \- Gumma Banda Gumma \(From "Vikrant Rona"\) \[KANNADA\]](https://open.spotify.com/album/5KDGBLIx7H0XCiRIW2GEEy) | 2:13 | 2022-07-21 |  |
 | [The Monster Song \(From "KGF Chapter 2"\)](https://open.spotify.com/track/56b4SXw2KGclrY0yzRpvMF) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Adithi Sagar](https://open.spotify.com/artist/5PCdrbwPkpjmuZ8OFj2Oa0) | [The Monster Song \(From "KGF Chapter 2"\)](https://open.spotify.com/album/4lUleunD3zJvkyHxP16wC1) | 2:46 | 2022-04-25 |  |

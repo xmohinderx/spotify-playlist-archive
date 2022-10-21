@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: DJ Roger Vale, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,084 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,103 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 12 | [Tu És Deus \- Remix](https://open.spotify.com/track/1C77izjMS0dzbdYlOGpu2l) | [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw), [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Tu És Deus \(Remix\)](https://open.spotify.com/album/5U0fbJImCZcypSvguz9twm) | 2:34 |
 | 13 | [Eu Tenho Você \(Remix\)](https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Me Faz Viver](https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN) | 3:11 |
 | 14 | [Te Conhecer](https://open.spotify.com/track/0mzbKZYqsdgIbUSX0aHqYp) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j) | [Te Conhecer](https://open.spotify.com/album/2Dr4BTmsG5iynkA4F9Y6ND) | 3:04 |
-| 15 | [Sou Casa \- Remix](https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Sou Casa \(Remix\)](https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK) | 3:29 |
+| 15 | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Valéria Amanajáz](https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM) | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS) | 2:40 |
 | 16 | [A Casa Sou Eu \- Remix](https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [A Casa Sou Eu](https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ) | 3:45 |
-| 17 | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Valéria Amanajáz](https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM) | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS) | 2:40 |
+| 17 | [Sou Casa \- Remix](https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Sou Casa \(Remix\)](https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK) | 3:29 |
 | 18 | [Só o Começo \- Remix](https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN) | [Só o Começo \(Remix\)](https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt) | 4:03 |
 | 19 | [Andar Contigo](https://open.spotify.com/track/6G038atckWZUZ6q9QBBVo8) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Andar Contigo](https://open.spotify.com/album/7Cyt0hRJAhLfZMMVGrrQfM) | 2:39 |
 | 20 | [Me Faz Viver](https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Me Faz Viver](https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS) | 2:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Vem Incendiar Meu Coração \- Remix](https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Vem Incendiar Meu Coração \(Remix\)](https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw) | 3:48 |
 | 70 | [Balança \- AVIPA Remix](https://open.spotify.com/track/6o7hCpHBH7k2keD64G3ZF1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Diego Atalaia](https://open.spotify.com/artist/3Wrcxw6gmXzUCgKtDXmCe5), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Balança: Remixes](https://open.spotify.com/album/487SwfT2EM1BQwVhzNZSBf) | 1:45 |
 
-Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMDRjYzE5Y2ExMzY4NDg2YmIyMWIwODljMDc5ZTZiZTJl`
+Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMDZmYmNhYzU4NzFjNjFhZDVmMjZlZWRhZTM1NzM1N2M3`

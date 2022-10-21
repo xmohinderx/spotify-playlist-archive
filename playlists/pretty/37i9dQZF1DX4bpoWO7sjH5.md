@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Los sonidos de Belén.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,499 likes - 95 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,506 likes - 95 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 25 | [El Nombre De Jesús \(feat\. Christine D´Clario\)](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
 | 26 | [Precioso Jesús](https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:20 |
 | 27 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
-| 28 | [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 |
+| 28 | [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 |
 | 29 | [Ven A Mi Corazón Oh Cristo \(Soundtrack\) \[2020 Remasterizado\]](https://open.spotify.com/track/33Hs4PhuhfNUYlxlJxOztt) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo Navidad \(2020 Remasterizado\)](https://open.spotify.com/album/3f0NeEKuDPV0uVCpt131Bw) | 4:54 |
 | 30 | [Mi Navidad](https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Mi Navidad](https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu) | 3:03 |
 | 31 | [Emmanuel \- Radio Version](https://open.spotify.com/track/4xK5WBymQU0EqDl52bWtDm) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Emmanuel \(Radio Version\)](https://open.spotify.com/album/0FNDIjl0hgxR1c1t9p4WYz) | 4:52 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 94 | [Santa la Noche](https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:18 |
 | 95 | [Santa la noche](https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG) | 4:13 |
 
-Snapshot ID: `MTY0MDMyMjMwMCwwMDAwMDAwMGE4MjdhYzU1ZmVhM2FkMmFmOWVkYzU2YjI5ZDNmZTU2`
+Snapshot ID: `MTY0MDMyMjMwMCwwMDAwMDAwMDc4ZmIyYTBiYzdkYzUxZTNkNDFmYmE0ZmJjODFjN2M0`

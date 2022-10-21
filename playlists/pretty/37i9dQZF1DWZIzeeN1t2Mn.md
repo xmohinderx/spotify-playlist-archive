@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,565 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,578 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 14 | [Cast Your Cares](https://open.spotify.com/track/7LL4WNn25gRttBo33fNULY) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Hands Are Made for Working](https://open.spotify.com/album/4c3cNKOMgMHeZJcD6Q03JO) | 5:35 |
 | 15 | [The One Where I Talk To God](https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [Marty For President 2](https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw) | 3:21 |
 | 16 | [NO CD](https://open.spotify.com/track/5yH8Ce7MpMwJPDSRvgIZF6) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Rebel Kleff](https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 4:17 |
-| 17 | [No Gravity](https://open.spotify.com/track/4upiX0Cm8rEWdj3gA7ly7O) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp) | [No Gravity](https://open.spotify.com/album/4m7yWHMv7Jv60Bff7fHLRg) | 3:27 |
+| 17 | [No Gravity](https://open.spotify.com/track/0fiAdufitTMckDdiNz653u) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp) | [No Gravity](https://open.spotify.com/album/19a7CnrO5lmrWVhewTzuiB) | 3:27 |
 | 18 | [Water \(with Mahalia\)](https://open.spotify.com/track/6I15UB0IPWQhJNJEPQ1gLE) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Water](https://open.spotify.com/album/4XcNB4VTSkl2cKVRci10Z4) | 3:27 |
 | 19 | [Many Moods: Manifesto](https://open.spotify.com/track/1aUI6hBGedCFz3240pPS3i) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR) | [Many Moods: Manifesto](https://open.spotify.com/album/4v9Td6fjmFAmZj1KCSPu0j) | 2:10 |
 | 20 | [Redemption](https://open.spotify.com/track/3uaE3Y0rY09kDJxGDlpNFy) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt), [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [Redemption](https://open.spotify.com/album/0wuWP88YfJ4s5PEZ8PyevM) | 2:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGIwZWI0NmQ5OTQ3N2Q5NzIyYWJjZjg4ZmUwNmU5Y2Zk`
+Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMDk2NmM2YTVmNDBkODhjNTUzODU5YTE1Y2Y0MzU1MGU3`

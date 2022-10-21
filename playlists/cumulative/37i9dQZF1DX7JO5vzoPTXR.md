@@ -4,7 +4,7 @@
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz?si=IrA26cUAS5W88Q9mtXvX2A&nd=1">Mickey Guyton,</a> Emma\-Lee, and Karen Kosowski.
 
-397 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+398 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Baby, I'm Hollywood!](https://open.spotify.com/track/37Rszesj8IDBkYCCsRJEB6) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 4:33 | 2022-03-08 | 2022-04-07 |
 | [Back On My Love](https://open.spotify.com/track/3VXma8GMcltIzrS58otxOK) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Back On My Love](https://open.spotify.com/album/43jnsQnGdz7DWSIzdI8B5J) | 3:10 | 2022-01-05 | 2022-02-03 |
 | [Backbeat](https://open.spotify.com/track/7a52OKapzlThn5sh110hs3) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Backbeat](https://open.spotify.com/album/1oDUvxx1eHUkDb75kFJzPv) | 3:45 | 2022-03-08 | 2022-04-07 |
-| [Backhanded](https://open.spotify.com/track/3LQ4KHDjqaej9DknFBEuqG) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/5aUUXP3DYYnjHo8GxNfCHq) | 2:29 | 2022-10-05 |  |
+| [Backhanded](https://open.spotify.com/track/3LQ4KHDjqaej9DknFBEuqG) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/5aUUXP3DYYnjHo8GxNfCHq) | 2:29 | 2022-10-05 | 2022-10-21 |
+| [Backhanded](https://open.spotify.com/track/5vKdtldfyyyPUuFryTsPSQ) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/3eR5nOr2jDxMfzr7zqmYCJ) | 2:29 | 2022-10-05 |  |
 | [Bad Cells](https://open.spotify.com/track/7hbRGQORNEYiw6H7NDY4Z6) | [Loud Tiger](https://open.spotify.com/artist/2J74jx8m4zVdsMYXdrwV7Y) | [Bad Cells](https://open.spotify.com/album/1tX2aYAqgh1TL6GswCkXzV) | 2:45 | 2022-06-01 | 2022-07-07 |
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-03-08 | 2022-04-07 |
 | [Bad Habit](https://open.spotify.com/track/5oiYdxgLJRxDrPhv2NTt1Q) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Bad Habit](https://open.spotify.com/album/6zqzsrpznWdSrZfv9juSKb) | 2:45 | 2022-05-04 | 2022-06-01 |

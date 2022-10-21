@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-290 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+291 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Rapido](https://open.spotify.com/track/3ZrIS0JkDUy0iDCFYu5SUV) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Rapido](https://open.spotify.com/album/2O2EBtEJ2aVfZhZTmHcpU2) | 4:10 | 2021-08-06 | 2022-04-21 |
 | [Redwood](https://open.spotify.com/track/1cydoZG0OjIrRNddnDRKUD) | [Former Hero](https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm) | [Redwood](https://open.spotify.com/album/45rVsSUIls9u89Iv5wTvqN) | 4:52 | 2021-08-06 |  |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2022-02-11 | 2022-07-29 |
-| [Reminisce](https://open.spotify.com/track/1UwiUU0K41eaLwzO2svcvn) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Reminisce](https://open.spotify.com/album/31Nlc9EX5nDrw2YL2iWajd) | 4:44 | 2021-08-06 |  |
+| [Reminisce](https://open.spotify.com/track/1UwiUU0K41eaLwzO2svcvn) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Reminisce](https://open.spotify.com/album/31Nlc9EX5nDrw2YL2iWajd) | 4:44 | 2021-08-06 | 2022-10-21 |
 | [Resist](https://open.spotify.com/track/7bcTSW4DQfRz61E9Bq776i) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Resist](https://open.spotify.com/album/1U33hd8Cjhan0DKXqMjDCa) | 3:13 | 2021-08-06 | 2022-04-21 |
 | [Resist \- Original Mix](https://open.spotify.com/track/4hUrZwwsih1IwlOf7XmIlV) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Planet Cyclops](https://open.spotify.com/album/74Mm5t56WdmZSKUjiyIbEf) | 3:13 | 2021-08-06 |  |
 | [Revival](https://open.spotify.com/track/5ClSTs7w4GWa6ipki5M8J7) | [Binks](https://open.spotify.com/artist/5nf6GQa1URBwmGeLLLNtsY), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [Blissful Patterns](https://open.spotify.com/album/31OQ50zkCqjiM5hrsuaMZ0) | 3:26 | 2021-08-06 | 2022-07-27 |
@@ -253,6 +253,7 @@
 | [Temper](https://open.spotify.com/track/4g1xsVqnjBArKZ7SpESOtw) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Temper](https://open.spotify.com/album/5puSuAFMWXFnf9aauxtvOO) | 3:58 | 2022-06-17 |  |
 | [The Gallery](https://open.spotify.com/track/709Id9rqQlqUKubz0dCN7S) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Alex Arcoleo](https://open.spotify.com/artist/6JkBbOaS3boYr0jIeSj5eM) | [Rooms on the Ark](https://open.spotify.com/album/7p3Oql1lQymTJCpW9N7KoQ) | 3:30 | 2021-08-06 | 2022-10-10 |
 | [The Letter Blue \- Branchez Remix](https://open.spotify.com/track/1N0x6QjETxN1cvvgp2KRyn) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [The Letter Blue \(Branchez Remix\)](https://open.spotify.com/album/0UC2uTSWx1s7UsCu3AmaDn) | 2:30 | 2022-03-25 | 2022-10-13 |
+| [The Letter Blue \- Branchez Remix](https://open.spotify.com/track/6Ybtd0fwLZnOqU4Kd8etj9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [The Letter Blue \(Branchez Remix\)](https://open.spotify.com/album/3udh5dS7iw2eBYZOqEitQj) | 2:30 | 2022-03-25 |  |
 | [THE ONE](https://open.spotify.com/track/02WA04hf6p2mOqI6fQHYfv) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [VF VOL II](https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1) | 2:58 | 2022-09-23 |  |
 | [Thief](https://open.spotify.com/track/3Tw9Z8J4DLL1Y2zVyBiDg0) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Utopia](https://open.spotify.com/album/3UIrcJiTuOoBcuQA6xS26O) | 3:34 | 2021-08-06 |  |
 | [Thief](https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Utopia](https://open.spotify.com/album/3JFjDW9hgB5sGdCdsXBwR5) | 3:34 | 2021-08-06 | 2022-07-16 |

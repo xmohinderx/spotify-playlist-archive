@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-49 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
+50 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Believe In Ghosts](https://open.spotify.com/track/0HVwpwnXY2L0M7VW1PbH5F) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [Believe In Ghosts](https://open.spotify.com/album/5VuscFaM5Rx8Irbv4vD8uX) | 2:46 | 2022-09-15 |  |
 | [Belongs to You](https://open.spotify.com/track/4LyxoSitap4FxNOHYFqzfL) | [DJ ELLIA](https://open.spotify.com/artist/2DNF9ruMIYBLiMC9VhcGim) | [Belongs to You](https://open.spotify.com/album/7BjMnzmYmtdkcufDv08NOq) | 3:31 | 2022-09-15 |  |
 | [Burnt Letters](https://open.spotify.com/track/3pFW7d9NJbOo6SHUg2b7j0) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Burnt Letters](https://open.spotify.com/album/7ETDlM2iAQnsEiaV57LvNa) | 8:36 | 2022-09-15 |  |
-| [Butterfly](https://open.spotify.com/track/4PicxfQvmRzTJjlLJpd5UF) | [Kryoman](https://open.spotify.com/artist/3eFV1Kz5RElOgNs7QG8775), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Fenner](https://open.spotify.com/artist/1vXQyBwSEmCLdSr6w2CuWr), [Dan Sweezy](https://open.spotify.com/artist/1nF5BnGUpglQRX7YE1WrYh), [Lost Chameleon](https://open.spotify.com/artist/4ct0Lml9CSOcrehSHHJArO) | [Butterfly](https://open.spotify.com/album/56vtihWmmdYxuI7tAetNfn) | 4:57 | 2022-09-15 |  |
+| [Butterfly](https://open.spotify.com/track/27Yid3kRkTsZM5EnCYJVvD) | [Kryoman](https://open.spotify.com/artist/2SQ1tSS4VYusXGC4qqVcpD), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Fenner](https://open.spotify.com/artist/1vXQyBwSEmCLdSr6w2CuWr), [Dan Sweezy](https://open.spotify.com/artist/1nF5BnGUpglQRX7YE1WrYh), [Lost Chameleon](https://open.spotify.com/artist/4ct0Lml9CSOcrehSHHJArO) | [Butterfly](https://open.spotify.com/album/5VWpuIHrhdjXK2Qv0gJjmu) | 4:57 | 2022-09-15 |  |
+| [Butterfly](https://open.spotify.com/track/4PicxfQvmRzTJjlLJpd5UF) | [Kryoman](https://open.spotify.com/artist/3eFV1Kz5RElOgNs7QG8775), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Fenner](https://open.spotify.com/artist/1vXQyBwSEmCLdSr6w2CuWr), [Dan Sweezy](https://open.spotify.com/artist/1nF5BnGUpglQRX7YE1WrYh), [Lost Chameleon](https://open.spotify.com/artist/4ct0Lml9CSOcrehSHHJArO) | [Butterfly](https://open.spotify.com/album/56vtihWmmdYxuI7tAetNfn) | 4:57 | 2022-09-15 | 2022-10-21 |
 | [Dead At Dawn](https://open.spotify.com/track/3aAC4lB26XRbCfJePIfANg) | [DJ UZI](https://open.spotify.com/artist/6RFHrECDirZboa7o1tdJrF) | [Dead At Dawn](https://open.spotify.com/album/3V6jEyjSAT0RhMPs5x4iGc) | 4:50 | 2022-09-15 |  |
 | [Discovery](https://open.spotify.com/track/5bO33fxvcGqZp7Pw3zIQsj) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Discovery](https://open.spotify.com/album/2krPbH9goFZldIUjP7WfRE) | 3:30 | 2022-09-15 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-09-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Zamzam, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 45 | [Enti Wain](https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8), [Farah Ezz](https://open.spotify.com/artist/7uxrmh9NRirDOmHxXGblih) | [Enti Wain](https://open.spotify.com/album/6my5pq16NfKv3xiY2QSbSD) | 3:38 |
 | 46 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 |
 | 47 | [El 3elba](https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [Kamikazem](https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [El 3elba](https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY) | 3:29 |
-| 48 | [Hamdulilah](https://open.spotify.com/track/55AuNDR0b8EZCeCqMeKPRP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Hamdulilah](https://open.spotify.com/album/014GFV5SvxywYplmNGON2c) | 2:03 |
+| 48 | [Hamdulilah](https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Here and There](https://open.spotify.com/album/2dEjij0eIdYLr90152L734) | 2:03 |
 | 49 | [ZAWIA](https://open.spotify.com/track/22lAfAno0RJ1nYCdV2jeS9) | [Haris Hamza](https://open.spotify.com/artist/2CepAx2BXQje58hok8K7Tu) | [ZAWIA](https://open.spotify.com/album/4LKrtQBfgDW6fu6UEYttgb) | 2:23 |
 | 50 | [Masquerading Crowd](https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP) | [Skeleton Crowd](https://open.spotify.com/artist/35q8gwzaxeJGQQImnaF0Fo) | [Molly Crapton](https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK) | 3:50 |
 | 51 | [Living Hell](https://open.spotify.com/track/15bKspAx2YSj1Ce0TdeVRH) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Living Hell](https://open.spotify.com/album/4gpNHmz52QOOfQzGvFGFNh) | 2:01 |
 
-Snapshot ID: `MTY2NjE2ODMxMywwMDAwMDAwMDIwNTNlZDMwZGNkMmYwNTIwYjI1YmVjZWRhZWRmNmE1`
+Snapshot ID: `MTY2NjE2ODMxMywwMDAwMDAwMDIwZDM5MDI4MTBjZWU4NGU0ODVkYmIzOTE0YjNjZTli`

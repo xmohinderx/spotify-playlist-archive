@@ -1,13 +1,29 @@
 {
   "description": "The freshest South African alternative & folk pop jams. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=lXIfxdarRZC0cX_ToD8nzg\">Hugo Pooe</a>",
-  "num_followers": 4941,
+  "num_followers": 4947,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MzU0MCwwMDAwMDAwMGM4NDYzNTM2NjIwZWFhYjg0MDc5N2JjNDZiOTZhZjYx",
+  "snapshot_id": "MTY2NjMwMzE0MCwwMDAwMDAwMGU2N2VlMGU0ZDljMjM1ZGQ1ZDljMDBmMmFmZjUyMTQy",
   "tracks": [
+    {
+      "added_at": "2022-10-20 21:59:00",
+      "album": {
+        "name": "Something Somewhere",
+        "url": "https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f"
+      },
+      "artists": [
+        {
+          "name": "Luka",
+          "url": "https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Something Somewhere",
+      "url": "https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny"
+    },
     {
       "added_at": "2022-10-06 21:59:00",
       "album": {
@@ -89,22 +105,6 @@
       "url": "https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/39jSoPLLSCKFqy7VgmYMeV"
-      },
-      "artists": [
-        {
-          "name": "JPson",
-          "url": "https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG"
-        }
-      ],
-      "duration_ms": 198917,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6yrdhCKzaN5c8JGNWzLtQy"
-    },
-    {
       "added_at": "2021-10-14 21:59:00",
       "album": {
         "name": "You Still Don't Know Me",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/3wSENVw8rn7X9nIJ7AzwKp"
     },
     {
+      "added_at": "2022-10-20 21:59:00",
+      "album": {
+        "name": "Here Like The Rain",
+        "url": "https://open.spotify.com/album/7kra5GGwK8ActnTZw50jHo"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        }
+      ],
+      "duration_ms": 218273,
+      "name": "Here Like The Rain",
+      "url": "https://open.spotify.com/track/6Sd3bSqCaZ5O9Tn0m0P6IC"
+    },
+    {
       "added_at": "2022-09-15 21:59:00",
       "album": {
         "name": "Bizarre",
@@ -183,22 +199,6 @@
       "duration_ms": 204210,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/6mdTa1cq8lDcgj6PDlUg6l"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Shooting Stars",
-        "url": "https://open.spotify.com/album/6aT6t9qHQEJirp6hlWnDlQ"
-      },
-      "artists": [
-        {
-          "name": "Cece Vee",
-          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
-        }
-      ],
-      "duration_ms": 180444,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/4kowWABw531j1sz5YweurV"
     },
     {
       "added_at": "2022-07-28 21:59:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/08izD5yyI6TPJCzmABexZc"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/7dEGL4CXQgGihP18k6C1g5"
-      },
-      "artists": [
-        {
-          "name": "The Stinging Rogers",
-          "url": "https://open.spotify.com/artist/56w2pRdYGieoXN5aOBpRTr"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Purgatory",
-      "url": "https://open.spotify.com/track/4Rgzp6jJEQDM5xrU3sC1wK"
-    },
-    {
       "added_at": "2022-08-25 21:59:00",
       "album": {
         "name": "It's Gonna Be Fine",
@@ -515,22 +499,6 @@
       "duration_ms": 241141,
       "name": "I Am a Stranger Here",
       "url": "https://open.spotify.com/track/5yJCttxoj7lsGOefIC20Ly"
-    },
-    {
-      "added_at": "2022-09-09 02:51:20",
-      "album": {
-        "name": "Subtle Affection",
-        "url": "https://open.spotify.com/album/46QpadPmdS38FxqUm7vDDh"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 252244,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/3jkQ2gVCFvozGQu2FxYPLH"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -709,26 +677,6 @@
       "url": "https://open.spotify.com/track/44hgSB3LnMNh81WtOvgBOa"
     },
     {
-      "added_at": "2022-09-02 10:58:49",
-      "album": {
-        "name": "Sweet Like Candy",
-        "url": "https://open.spotify.com/album/5JI713XtphDV4TDgbZN2n4"
-      },
-      "artists": [
-        {
-          "name": "Melamode",
-          "url": "https://open.spotify.com/artist/2p6RjVQV8VPibJabFDXhOi"
-        },
-        {
-          "name": "Ashleigh Ramsoomar",
-          "url": "https://open.spotify.com/artist/5Nohu1KNPOhTvmmQJuK4r7"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Sweet Like Candy",
-      "url": "https://open.spotify.com/track/11XbBDRzrP200Vj17JOoVw"
-    },
-    {
       "added_at": "2022-07-21 21:59:00",
       "album": {
         "name": "Be Safe",
@@ -851,38 +799,6 @@
       "duration_ms": 163570,
       "name": "First Blood",
       "url": "https://open.spotify.com/track/3YR0NA22mvARUqUvaRX8CT"
-    },
-    {
-      "added_at": "2022-08-18 21:59:00",
-      "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/4Me8Wnt5UDDvoPZVCRixNN"
-      },
-      "artists": [
-        {
-          "name": "The Incidentals",
-          "url": "https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS"
-        }
-      ],
-      "duration_ms": 253651,
-      "name": "Twenty Something",
-      "url": "https://open.spotify.com/track/1jMqL6sQYKVaJ1DfXECkmY"
-    },
-    {
-      "added_at": "2022-08-11 21:59:00",
-      "album": {
-        "name": "Even Now",
-        "url": "https://open.spotify.com/album/4uHZWWIcq3N1cYG0C0siyV"
-      },
-      "artists": [
-        {
-          "name": "Bye Beneco",
-          "url": "https://open.spotify.com/artist/3kMHWNlRYrb3c6NpmP8EQh"
-        }
-      ],
-      "duration_ms": 254879,
-      "name": "Even Now",
-      "url": "https://open.spotify.com/track/1RMdumhQpTx7yz568OeJJO"
     },
     {
       "added_at": "2022-08-25 21:59:00",

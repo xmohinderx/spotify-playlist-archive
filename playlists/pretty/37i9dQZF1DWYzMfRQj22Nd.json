@@ -1,12 +1,12 @@
 {
   "description": "Taking the big steps with Drum & Bass.",
-  "num_followers": 299192,
+  "num_followers": 299221,
   "original_name": "Stepping Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDk4ZjRmNzU4YWU5Y2VkMzdlZWRmMDk0YTA0MzkyNTc3",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGQ5NWY3MjE0Y2EzYTM4MGM0YTc2ZWM0OTY3ZjZiYjdl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -597,30 +597,6 @@
       "url": "https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/2J3FE6imqCKRPBtXutyBGx"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
-        },
-        {
-          "name": "Jamie Duggan",
-          "url": "https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8"
-        }
-      ],
-      "duration_ms": 230007,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/2xyG0785QU6hEQRDmKA29U"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Speed Of Light",
@@ -643,6 +619,30 @@
       "duration_ms": 213488,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2J3FE6imqCKRPBtXutyBGx"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        },
+        {
+          "name": "Jamie Duggan",
+          "url": "https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8"
+        }
+      ],
+      "duration_ms": 230007,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2xyG0785QU6hEQRDmKA29U"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1029,26 +1029,6 @@
       "url": "https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Jack (Sophon Remix)",
-        "url": "https://open.spotify.com/album/0eZU27VDhr5erKQcYSVL5Y"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Sophon",
-          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
-        }
-      ],
-      "duration_ms": 203780,
-      "name": "Jack - Sophon Remix",
-      "url": "https://open.spotify.com/track/46ecCazSzxaZm4BVj5Cejv"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Say What You Want",
@@ -1081,6 +1061,26 @@
       "url": "https://open.spotify.com/track/5nVkaIXaqQtoMX4V1jncdO"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Jack (Sophon Remix)",
+        "url": "https://open.spotify.com/album/0eZU27VDhr5erKQcYSVL5Y"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Sophon",
+          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
+        }
+      ],
+      "duration_ms": 203780,
+      "name": "Jack - Sophon Remix",
+      "url": "https://open.spotify.com/track/46ecCazSzxaZm4BVj5Cejv"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Lost",
@@ -1099,26 +1099,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "NOVA (The Remixes, Vol. 1)",
-        "url": "https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE"
+        "name": "It's A Gee Thing",
+        "url": "https://open.spotify.com/album/3VzevC8cTAQfsMgbiJ9emh"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         }
       ],
-      "duration_ms": 201818,
-      "name": "Shrine - Hex Cougar Remix",
-      "url": "https://open.spotify.com/track/4WxCuK3Jle0OSqWvwbET3g"
+      "duration_ms": 227657,
+      "name": "Demand",
+      "url": "https://open.spotify.com/track/2BaJ2tufTVJfVnXhLyB4Og"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1143,18 +1135,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "It's A Gee Thing",
-        "url": "https://open.spotify.com/album/3VzevC8cTAQfsMgbiJ9emh"
+        "name": "NOVA (The Remixes, Vol. 1)",
+        "url": "https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
         }
       ],
-      "duration_ms": 227657,
-      "name": "Demand",
-      "url": "https://open.spotify.com/track/2BaJ2tufTVJfVnXhLyB4Og"
+      "duration_ms": 201818,
+      "name": "Shrine - Hex Cougar Remix",
+      "url": "https://open.spotify.com/track/4WxCuK3Jle0OSqWvwbET3g"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/4D6bJk8Ljhrcns6SOyg4kT"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Glorify",
-        "url": "https://open.spotify.com/album/7nyDlb7gZkTF24hxigYm5X"
-      },
-      "artists": [
-        {
-          "name": "SOLAH",
-          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
-        }
-      ],
-      "duration_ms": 281379,
-      "name": "Glorify",
-      "url": "https://open.spotify.com/track/7dCDE9VRayvYgDcDiNLE58"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "New Beginning",
@@ -1239,22 +1223,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Discotheque",
-        "url": "https://open.spotify.com/album/38IFA0HMi4UoBzcic1d1iy"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 269298,
-      "name": "Discotheque",
-      "url": "https://open.spotify.com/track/2w49us5pBD5DfYZ9i31Q82"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Remedy (feat. TS Graye)",
         "url": "https://open.spotify.com/album/54Ulib16eKnja2K1oXKD5p"
       },
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Discotheque",
+        "url": "https://open.spotify.com/album/38IFA0HMi4UoBzcic1d1iy"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 269298,
+      "name": "Discotheque",
+      "url": "https://open.spotify.com/track/2w49us5pBD5DfYZ9i31Q82"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Butterfly Effect (Deluxe)",
         "url": "https://open.spotify.com/album/15YbZYNxPlJDPXrkIrkwjZ"
       },
@@ -1287,22 +1271,6 @@
       "duration_ms": 237241,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/3NLr3Lsc9DnhJd9ObpoY3x"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "BARRICADE",
-        "url": "https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "BARRICADE",
-      "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1323,6 +1291,38 @@
       "duration_ms": 290344,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/0GAHmF6YJKFd1pgk3fdvGs"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "BARRICADE",
+        "url": "https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "BARRICADE",
+      "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Glorify",
+        "url": "https://open.spotify.com/album/7nyDlb7gZkTF24hxigYm5X"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "duration_ms": 281379,
+      "name": "Glorify",
+      "url": "https://open.spotify.com/track/7dCDE9VRayvYgDcDiNLE58"
     },
     {
       "added_at": "2022-09-16 04:00:00",

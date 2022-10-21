@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs - cover featuring NGHTMRE.",
-  "num_followers": 2027831,
+  "num_followers": 2027761,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI1NjYsZTc4Y2UwMTJlODk3N2Q0OWEwNTEzODdhZjYwNTI5OWMyNjNmNTczOQ==",
+  "snapshot_id": "MTI1NjgsYzBkOGQ0YjQ4ZGM0OGIyNDY5YzRlMTRmNzBkOTc0MmI5NDg2NDQxYQ==",
   "tracks": [
     {
       "added_at": "2022-10-19 04:07:38",
@@ -823,6 +823,30 @@
       "duration_ms": 185473,
       "name": "Go Off",
       "url": "https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL"
+    },
+    {
+      "added_at": "2022-10-20 16:04:50",
+      "album": {
+        "name": "Time (NESADES + onumi Remix)",
+        "url": "https://open.spotify.com/album/3sPuLRDrlXbuBJkgWysFkR"
+      },
+      "artists": [
+        {
+          "name": "4RUNNR",
+          "url": "https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx"
+        },
+        {
+          "name": "NESADES",
+          "url": "https://open.spotify.com/artist/6GUhtOa05fQptD8GcnFw1q"
+        },
+        {
+          "name": "onumi",
+          "url": "https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Time - NESADES + onumi Remix",
+      "url": "https://open.spotify.com/track/6wfNUVSqcEGOH44rjvM3Qt"
     },
     {
       "added_at": "2022-10-19 04:07:38",

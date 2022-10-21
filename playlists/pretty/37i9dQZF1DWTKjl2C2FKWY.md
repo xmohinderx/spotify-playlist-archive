@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 
 > Soft acoustic sounds for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,215 likes - 110 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,267 likes - 110 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 76 | [Have You Ever Seen the Rain \- Acoustic](https://open.spotify.com/track/1MPMpqmDKREPHRguiYzq5S) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Have You Ever Seen the Rain \(Acoustic\)](https://open.spotify.com/album/5p474hS01UBEVVqLi1xaaL) | 2:46 |
 | 77 | [Dialing Drunk](https://open.spotify.com/track/73VzVD9pHiD2ycmqQK4zZm) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:15 |
 | 78 | [I Want It That Way](https://open.spotify.com/track/6ifRkrDOVOl894U1YuuTfM) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa), [Francis Greg](https://open.spotify.com/artist/3M4HosBeaD82iQkv8HVnzB) | [I Want It That Way](https://open.spotify.com/album/51WvNWrY4yu9Ek3RGBZHiy) | 3:11 |
-| 79 | [Mountains](https://open.spotify.com/track/5mGZXXvMw7LzOAWWoVC3Vf) | [Robbie Wadge](https://open.spotify.com/artist/4kLNypIZnb0dYilQZTIHVq) | [Mountains](https://open.spotify.com/album/71fPp5qxA3u0SCdFwoqQAe) | 4:47 |
+| 79 | [Mountains](https://open.spotify.com/track/3f7rnCS8YUMOK0YE9olnoA) | [Robbie Wadge](https://open.spotify.com/artist/4kLNypIZnb0dYilQZTIHVq) | [Mountains](https://open.spotify.com/album/7MILm8aG1st3tp8Uk0XtNP) | 4:47 |
 | 80 | [Dreams](https://open.spotify.com/track/0zJiXWM4feXKdsCS3vmPhH) | [Madison Malone](https://open.spotify.com/artist/1eUljIGpvb6xd0TSuObCjS) | [Dreams](https://open.spotify.com/album/6A9p32aA9ocAJEDyDFH2wQ) | 4:26 |
 | 81 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 |
 | 82 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 109 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 | 110 | [Shimmer](https://open.spotify.com/track/02S7iCZmsVUkaWABeU4lhn) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [New Dreams](https://open.spotify.com/album/0Ujzw1BOqIfrARwP4IX5ce) | 3:21 |
 
-Snapshot ID: `MTY2NTc1OTE2NywwMDAwMDAwMGIwYTdjM2I5MTgxMDRhMDVlOTAwOGZiNGU5ZjNiNTk5`
+Snapshot ID: `MTY2NTc1OTE2NywwMDAwMDAwMGU1ZDAwZjIzNDljMzc0MDJhYmM0MWQ3YTNlNDEzYmIy`

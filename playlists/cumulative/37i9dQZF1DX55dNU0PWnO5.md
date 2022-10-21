@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Kansado
 
-257 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
+258 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/3EWDflGVJ6h7JcHAvsf1Hs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Vibe](https://open.spotify.com/track/0ajpCcbA9tTaY4WycQJhm8) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:38 | 2022-03-18 | 2022-07-29 |
 | [Afro Blue](https://open.spotify.com/track/0if7xE45Jdg7QiJcXqMA12) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Satin Doll](https://open.spotify.com/album/3U2s9YywNQ7kA5TNgEFHyM) | 3:15 | 2021-01-29 | 2022-01-13 |
 | [Afro Blue](https://open.spotify.com/track/6OV5AAEspMRkv7uVsNQiRk) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Afro Blue](https://open.spotify.com/album/6Pxk9yPJlLqh8vTYg68YTu) | 3:15 | 2021-01-29 | 2022-03-15 |
-| [Afro Cello \- Super Full Moon Rework](https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l) | [Danny Keane](https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR) | [Afro Cello \(Super Full Moon Rework\)](https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF) | 4:08 | 2021-04-09 |  |
+| [Afro Cello \- Super Full Moon Rework](https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l) | [Danny Keane](https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR) | [Afro Cello \(Super Full Moon Rework\)](https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF) | 4:08 | 2021-04-09 | 2022-10-21 |
 | [Agua de Jamaica](https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS) | 6:17 | 2022-03-25 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs) | [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL), [Bruce Kirkwood](https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg) | [Alive](https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL) | 3:13 | 2022-04-29 |  |
 | [All Around \- Renegades Of Jazz Remix](https://open.spotify.com/track/0oHGooJ4QhVPM5WgW4cfJA) | [sUb\_modU](https://open.spotify.com/artist/3MOhyXjeW761VKMXRqmqH9), [Renegades Of Jazz](https://open.spotify.com/artist/4l0ICV3hSM0CArAK2aN5Ls) | [Gravity \(Renegades Of Jazz & V.B\. Kühl Remixes\)](https://open.spotify.com/album/6FS3N2KVn3LQvMrHGM39kw) | 5:12 | 2022-04-01 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Jubilee](https://open.spotify.com/track/6JpTufiJvS7NkFOzNS3Dba) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Jubilee](https://open.spotify.com/album/5JcbXHYVgOwXlToE9cCFCd) | 3:31 | 2021-01-29 | 2022-03-18 |
 | [Kick Snare Cat](https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [Kick Snare Cat](https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH) | 3:48 | 2021-06-11 |  |
 | [Kountdown](https://open.spotify.com/track/1Cw4mgI7Li0WF1PreMDasy) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Kountdown](https://open.spotify.com/album/2Oej8sPlGfopqCnCDJ550z) | 3:44 | 2021-04-02 | 2022-07-29 |
+| [Kountdown](https://open.spotify.com/track/5eUgpwD2bSS3cPmva64TIW) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii) | 3:44 | 2021-04-02 |  |
 | [lamplighting](https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [lamplighting](https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc) | 2:19 | 2022-09-30 |  |
 | [Last Minute Session Cut \- The Outro](https://open.spotify.com/track/4sj4Nh0w7MBovyDGHhbP9O) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Everything Is Always a Process](https://open.spotify.com/album/29J7Z1vaQqGmfHzMYYyWdB) | 2:08 | 2021-01-29 | 2022-02-26 |
 | [Law of Attraction \(Mike Casey Remix\)](https://open.spotify.com/track/4dpIrddDRRJxBNURbrOQmi) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Law of Attraction \(Mike Casey Remix\)](https://open.spotify.com/album/6TebduQT3MJa99eaoNVnHE) | 2:18 | 2021-03-19 | 2022-07-06 |

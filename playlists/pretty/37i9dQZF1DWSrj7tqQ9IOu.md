@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Bon Entendeur, Emma Peters.
+> The best French indie tracks right now\. Cover: blond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,921 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,026 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Le coup d'soleil \(feat\. Emma Peters\)](https://open.spotify.com/track/1J8BB10crN7uZc42kZiALR) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le coup d'soleil \(feat\. Emma Peters\)](https://open.spotify.com/album/0O9qHe6RGZ2mc6tRfZfI33) | 3:26 |
-| 2 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 |
+| 1 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 |
+| 2 | [Le coup d'soleil \(feat\. Emma Peters\)](https://open.spotify.com/track/1J8BB10crN7uZc42kZiALR) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le coup d'soleil \(feat\. Emma Peters\)](https://open.spotify.com/album/0O9qHe6RGZ2mc6tRfZfI33) | 3:26 |
 | 3 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 |
 | 4 | [Corporate Sunset](https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm) | [Corporate Sunset](https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM) | 5:03 |
 | 5 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Am I A Fool ?](https://open.spotify.com/track/4LFitgMfDKkO9ffcDmIetz) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever Melodies](https://open.spotify.com/album/6m0x1fumKRq1gV9ssXIF8d) | 4:30 |
 | 50 | [When She's Gone](https://open.spotify.com/track/4vJfsc95OA87AhNghRsVHo) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [When She's Gone](https://open.spotify.com/album/76qqQq9zbjxdCDWfKMps1D) | 3:29 |
 
-Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDY5YTRlZDZjNmVhOGE1NTMzYTcxYWM3MTI1NDUzZjU3`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDkwNDk5Njg5OTZhZGU4ZjFkODFhZTgxZWNjZTcyOWJl`

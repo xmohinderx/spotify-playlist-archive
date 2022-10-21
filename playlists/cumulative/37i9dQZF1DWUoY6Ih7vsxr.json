@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "First Invasion",
+        "url": "https://open.spotify.com/album/2owdMeDAA6ahK6OE7xSKD8"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Come Back Again",
+      "url": "https://open.spotify.com/track/5m6yaiNQ3VxeVmITSTBGvQ"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/6Eqd0eQ19NHqkjI17ISfnu"
       },
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 193587,
       "name": "Darling",
       "url": "https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH"

@@ -6996,6 +6996,24 @@
     },
     {
       "album": {
+        "name": "Resistance",
+        "url": "https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394319,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5"
+    },
+    {
+      "album": {
         "name": "Responsibility",
         "url": "https://open.spotify.com/album/2vv1dZfMsNi7Af8Hflo52X"
       },

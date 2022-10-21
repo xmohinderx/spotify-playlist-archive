@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Joe Flizzow
 
-105 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+106 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Hal Hebat](https://open.spotify.com/track/2AgdGjC0oatOoVa8jEjTRZ) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Hal Hebat](https://open.spotify.com/album/1jG6zrzssLdWlKvGfl0FhY) | 5:22 | 2022-07-27 |  |
 | [Hal Hebat](https://open.spotify.com/track/0FE59fpqBysKEsp2NPeBcM) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Hal Hebat](https://open.spotify.com/album/2F92waWafUCISVLk06k4y5) | 5:22 | 2022-07-27 | 2022-07-29 |
 | [Hanya Kita Dua](https://open.spotify.com/track/2Fi39kk6zyviOXCpfaHk6E) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Hanya Kita Dua](https://open.spotify.com/album/5dTUIVSmrN4hMr8BqCC4IT) | 3:21 | 2022-08-10 |  |
-| [Hanya Mahukan Bye](https://open.spotify.com/track/3ZabJw9TfTN7w7ofCWOAfO) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Hanya Mahukan Bye](https://open.spotify.com/album/0HNyC70qPjhOZWOKQBlpDZ) | 2:50 | 2022-09-21 |  |
+| [Hanya Mahukan Bye](https://open.spotify.com/track/3ZabJw9TfTN7w7ofCWOAfO) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Hanya Mahukan Bye](https://open.spotify.com/album/0HNyC70qPjhOZWOKQBlpDZ) | 2:50 | 2022-09-21 | 2022-10-21 |
 | [Harum Sundal Malam](https://open.spotify.com/track/5Y5A2d8zVU62bONx0pck5o) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Harum Sundal Malam](https://open.spotify.com/album/2z7a3zoAL6BuzF7rypiCp5) | 3:33 | 2022-05-25 | 2022-07-28 |
 | [HATI](https://open.spotify.com/track/7qUclEieAYxZH07yl9BnnF) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [HATI](https://open.spotify.com/album/2ZjFUUNd76Fm1tInQHNF3N) | 3:26 | 2022-07-27 | 2022-09-01 |
 | [Hati Lain Di Hatimu](https://open.spotify.com/track/1KXucjuiiz2NN2888Y132A) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/5pJwDtvqjOBNT3qUbsBfvd) | 4:18 | 2022-10-05 |  |
@@ -67,6 +67,7 @@
 | [LESTARI MERDU](https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [+62](https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk) | 4:47 | 2022-08-31 | 2022-09-29 |
 | [Lip Lap Raya](https://open.spotify.com/track/6HQEMPg896heLMLpcU4d9Z) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Lip Lap Raya](https://open.spotify.com/album/5Yc5oRuIzlUzcL9ZhG38mO) | 2:38 | 2022-05-25 | 2022-06-01 |
 | [LOTUS](https://open.spotify.com/track/4CdSVeRvrteDBAyHD4Cruc) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [LOTUS](https://open.spotify.com/album/4KKqYg6lKN5AVI81JyJH5D) | 4:58 | 2022-05-25 | 2022-09-22 |
+| [LUKAKU \(feat\. Quai\)](https://open.spotify.com/track/1sAKfmljlUdzXAQWVaZrQu) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV), [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c) | [LUKAKU \(feat\. Quai\)](https://open.spotify.com/album/4HrkoTSYeJ6xigRys3tGV5) | 3:46 | 2022-10-20 |  |
 | [Mainan](https://open.spotify.com/track/22kK0vT2SplI4UhEaC828t) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mainan](https://open.spotify.com/album/6dPgorGiH8T02YZfFoqvwm) | 3:54 | 2022-05-25 | 2022-08-11 |
 | [Malam Semakin Dingin](https://open.spotify.com/track/5ChJqcOG8z9NgSlFwmfYql) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Malam Semakin Dingin](https://open.spotify.com/album/5f0mJV2GE6xbYVyRm3nowB) | 4:42 | 2022-05-25 |  |
 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 | 2022-05-25 | 2022-09-16 |

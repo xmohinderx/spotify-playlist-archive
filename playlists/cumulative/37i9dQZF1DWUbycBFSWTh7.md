@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-116 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+117 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Tension](https://open.spotify.com/track/0qZPmHc2U0iseqxaiwJNpj) | [Leeman Brothers](https://open.spotify.com/artist/6jFrCZ2nJ8iEBdtgZpMRLV) | [Tension ep](https://open.spotify.com/album/1Scr29TOev6JrqO4oo29sH) | 6:09 | 2022-09-15 |  |
 | [Testify \- Kerri Chandler's Feel Dub](https://open.spotify.com/track/6OoSUHpYGzf7fDEgzE0czB) | [Byron Stingily](https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Testify \(Kerri Chandler's Unreleased Dub Mixes\)](https://open.spotify.com/album/2l2DxnCiaURMKeSjdDULE0) | 5:45 | 2022-09-15 |  |
 | [The Bang](https://open.spotify.com/track/3rrFrL5DP2VCW95bAs3xWT) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [PIV ADE Sampler '21, Pt\. 1](https://open.spotify.com/album/76J8TgiOYrMzM4vVucMK9O) | 5:05 | 2022-09-15 |  |
+| [The Compass Jawn \- Studio Version](https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5) | [Charlie Soul Clap](https://open.spotify.com/artist/4R1FbGcLzUd1poeNQXIb8o), [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [The Compass Jawn](https://open.spotify.com/album/3GRkliKarE23yqJyW1aBky) | 6:04 | 2022-10-20 |  |
 | [The Funky Sound](https://open.spotify.com/track/4BAc4ieGddheTr1qTUz3FK) | [Rob Stillekens](https://open.spotify.com/artist/7x69Nz9Wi6fX7wwJZ9snI7) | [Shake It On Down](https://open.spotify.com/album/6QMkLzfvYHhuCNrE0xhCNd) | 6:05 | 2022-09-15 |  |
 | [The Grinder](https://open.spotify.com/track/4qaMfI2sVxlxKgRXF9oQsK) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [The Grinder](https://open.spotify.com/album/4kJwmSsuILkU5XQ86TipJA) | 6:56 | 2022-09-15 |  |
 | [The Observer](https://open.spotify.com/track/6QoVPPIRdkiNCVcCUJOzbI) | [Kasper Koman](https://open.spotify.com/artist/2fjKKBOOCTqkDTRC7wH6dO) | [The Observer](https://open.spotify.com/album/1VhXkL2qIGFwQH8hWANTOy) | 8:12 | 2022-09-15 |  |

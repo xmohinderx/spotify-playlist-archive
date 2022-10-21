@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-550 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+551 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Reise](https://open.spotify.com/track/3aJ2lOHSNiBbRXzqk46L2M) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Reise](https://open.spotify.com/album/2CEAeWAWXNfQdHH3eSFQIt) | 2:58 | 2022-08-02 | 2022-09-07 |
 | [Remedy](https://open.spotify.com/track/5JVA0t7r2Y7m9NaHmgaeiC) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/4nKguZWie1WQuxFspIwHOY) | 2:27 | 2022-02-01 | 2022-03-08 |
 | [REMIND ME](https://open.spotify.com/track/3sQwXoHktwhzOKT2rFBo9Z) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [REMIND ME](https://open.spotify.com/album/084HROOXCRrykD5zzuGXZ1) | 5:32 | 2022-09-06 | 2022-10-05 |
+| [Resistance](https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Resistance](https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit) | 6:34 | 2022-10-04 |  |
 | [Responsibility](https://open.spotify.com/track/5cHkCpN56atbhlSC1fsaae) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Responsibility](https://open.spotify.com/album/2vv1dZfMsNi7Af8Hflo52X) | 3:43 | 2022-01-04 | 2022-02-02 |
 | [Rhododendron](https://open.spotify.com/track/4C6b2z8CSgTwQPJzqtG7mL) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rhododendron](https://open.spotify.com/album/55vdqbro2KfmHm8zxkCpli) | 3:06 | 2022-08-02 | 2022-09-07 |
 | [Richtig scheisse](https://open.spotify.com/track/0oyDOgIZctdbbvofsFNm7J) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Richtig scheisse](https://open.spotify.com/album/5eZaeqOz2uL7Mm6jNEj0KB) | 2:21 | 2022-04-05 | 2022-05-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,301 likes - 69 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,311 likes - 69 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 39 | [Dark Side of Love](https://open.spotify.com/track/6EbzWtH5vZb9gq39Ql8XYI) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [How I Go](https://open.spotify.com/album/4eCuv1pfX4HHc1pl2uKcCg) | 4:20 |
 | 40 | [Honey Forgive Me](https://open.spotify.com/track/3R4pTT2d7T4oWdDvU3jV4N) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/7ga1H9kXK01LOnwDGiRRNE) | 2:22 |
 | 41 | [Sun up Sun Down](https://open.spotify.com/track/6AbF06onnnYVZHk0QPVNF8) | [Roosevelt Collier](https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9) | [Exit 16](https://open.spotify.com/album/02n4Aj3cImlUQe70gdTX43) | 5:27 |
-| 42 | [Long Coal Train](https://open.spotify.com/track/2geemXTDk9V6Dazk9RyCfw) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [New World Arisin'](https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj) | 3:51 |
+| 42 | [Long Coal Train](https://open.spotify.com/track/0S9mn8M7ZTfwXxPLxsdLOJ) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [New World Arisin'](https://open.spotify.com/album/2Kf2bhjzeCBhv2oT7ErMD4) | 3:51 |
 | 43 | [Love Is](https://open.spotify.com/track/0Q8GkrbDpLqAls58k0K2Tu) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 4:40 |
 | 44 | [Stronger](https://open.spotify.com/track/0WhojPt9MxY3BCvs1j8QFn) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 3:50 |
 | 45 | [The Damned](https://open.spotify.com/track/7wl9VAQmGJcWTStbeKhKHf) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [The Damned](https://open.spotify.com/album/5z3dlL97c6PnI8I0kZDNeo) | 4:39 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 68 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 |
 | 69 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 |
 
-Snapshot ID: `MTY0NTE2MDQ2MCwwMDAwMDAwMGM3ZDMzYzRiMTRjNWU2NmQzNWI5YTFmNDUyYWVmZTQw`
+Snapshot ID: `MTY0NTE2MDQ2MCwwMDAwMDAwMGUzY2QzNWJlZWIzMGQzNDAwNGJiOGJlNjk4ZWE2MGE0`

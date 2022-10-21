@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: Tedashii
 
-694 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+695 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [FIELDHOUSE FREESTYLE](https://open.spotify.com/track/2HPVgwLLVYsnwkrywsmFAh) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [LOWERCASE TAPE.](https://open.spotify.com/album/4r8c1dnHiTKnZSgzx9ae9L) | 3:19 | 2021-12-11 | 2021-12-30 |
 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 | 2022-10-05 |  |
 | [Fight For Me \(Blue Miracle Version\)](https://open.spotify.com/track/4rbnjXcHkDTT7miUKydhy6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Blue Miracle \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/3KSgRyydGWpbSyrmP7kZHF) | 3:22 | 2021-12-11 | 2022-01-25 |
-| [Fight Of Your Life](https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Fight Of Your Life](https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL) | 3:09 | 2022-06-03 |  |
+| [Fight Of Your Life](https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Fight Of Your Life](https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL) | 3:09 | 2022-06-03 | 2022-10-21 |
 | [Finally Smile](https://open.spotify.com/track/1m2PB0gt2YsrTM04bNj4P3) | [K\-Drama](https://open.spotify.com/artist/1PXBwNCd6LaX8iJTDwdC30) | [Both Sides of the Blessing](https://open.spotify.com/album/5bNyxZapPsghiCtX9kvmkJ) | 3:07 | 2021-12-11 | 2022-01-31 |
 | [Firestick \(feat\. Parris Chariz\)](https://open.spotify.com/track/3w9dvOygKRnYSTd0ungAN4) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [Firestick \(feat\. Parris Chariz\)](https://open.spotify.com/album/66sohgXiWHo8DkTsqegJiu) | 2:56 | 2021-12-11 | 2022-02-04 |
 | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/track/0yiFuQgmMRhl5hVIZLMBGh) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/album/0HVwrQkPvA6sjjC9TDNoVI) | 2:19 | 2021-12-11 | 2022-02-02 |
@@ -287,6 +287,7 @@
 | [hypocrite](https://open.spotify.com/track/39E71UWps0SMyYo8UcUUao) | [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [hypocrite](https://open.spotify.com/album/7FPDVGbmotDd0Jm6UKnSyP) | 2:57 | 2022-02-04 | 2022-04-29 |
 | [I Can't Explain It](https://open.spotify.com/track/3ik7GJDS05vxigLItkZUQ6) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill \(Deluxe\)](https://open.spotify.com/album/6DIrDW8OgvBr1B0tItaTxm) | 2:25 | 2022-08-06 | 2022-08-26 |
 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 | 2022-10-01 |  |
+| [I Did It](https://open.spotify.com/track/46WvgmhHE4OE3g4oDAVrex) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [F'rael](https://open.spotify.com/artist/1bjGUP5zjge68RaUaBSPvW), [Nino Salas](https://open.spotify.com/artist/1VEG5CVdjFpXLzDAs3sEhP) | [I Did It](https://open.spotify.com/album/0UO9j7kRuJF2I4MiEniHTb) | 3:12 | 2022-10-14 |  |
 | [I GET THIS?](https://open.spotify.com/track/5eFvHwmGYSPuJogHddWqKI) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [I GET THIS?](https://open.spotify.com/album/0MwCux4d1pQUooFfGvr9A3) | 2:45 | 2022-02-04 | 2022-07-26 |
 | [I LIKE THAT](https://open.spotify.com/track/3LLV32YyC64BtS9Bp0vnlD) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [I LIKE THAT](https://open.spotify.com/album/3R2JrfvI1bFbK3VUTBxIIx) | 3:37 | 2021-12-11 | 2022-04-27 |
 | [I Made It \(feat\. Xay Hill\)](https://open.spotify.com/track/7BMvXcjawgV2IYhflUhJZs) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [I Made It \(feat\. Xay Hill\)](https://open.spotify.com/album/5uH5AXivCEdRwtBmvsTY5w) | 2:48 | 2021-12-11 | 2022-04-28 |

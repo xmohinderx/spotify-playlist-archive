@@ -849,10 +849,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 264066,
       "name": "Quisiera Ser",
       "url": "https://open.spotify.com/track/4aL15aDa545Dc8E313rIEb"
+    },
+    {
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7vhda7TSmOXiGlLtmVFS6c"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177480,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/2ZXdTXVbAfNde0xbzAOkcr"
     },
     {
       "album": {

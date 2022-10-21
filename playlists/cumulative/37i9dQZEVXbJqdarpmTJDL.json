@@ -8919,7 +8919,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 150918,
       "name": "Kokaina",
       "url": "https://open.spotify.com/track/0mBpzm8OfmBouihZ54biML"
@@ -15175,7 +15175,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 196457,
       "name": "Selfmade",
       "url": "https://open.spotify.com/track/2ZrtlDFHOqPVN3fBJyvoaH"
@@ -16581,6 +16581,24 @@
       "duration_ms": 250902,
       "name": "TAPA",
       "url": "https://open.spotify.com/track/34GYj6pjdt0AbIbz3RNGEt"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
+      },
+      "artists": [
+        {
+          "name": "GMARK",
+          "url": "https://open.spotify.com/artist/1bf3cUHhTcwmhtGWKxLttn"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203454,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
     },
     {
       "album": {
@@ -18609,7 +18627,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 155000,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/1ABRIGG2YqY5uLDLLfIBgx"

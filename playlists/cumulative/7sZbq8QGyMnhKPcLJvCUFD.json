@@ -1988,6 +1988,32 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt"
+      },
+      "artists": [
+        {
+          "name": "SPIRIT LINK",
+          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
+        },
+        {
+          "name": "Swole Sauce",
+          "url": "https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT"
+        },
+        {
+          "name": "Tom The Gaffer",
+          "url": "https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25"
       },

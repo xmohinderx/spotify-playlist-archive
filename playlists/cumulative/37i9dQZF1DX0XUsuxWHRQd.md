@@ -4,7 +4,7 @@
 
 > New music from Lil Baby, Juice WRLD and Lil Yachty.
 
-1,393 songs - 2 day 23 hr 39 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,394 songs - 2 day 23 hr 46 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Money Now \(feat\. Tyga & Johnny Yukon\)](https://open.spotify.com/track/2P88a8aJtNJtlZBJhCCzOB) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Money Now \(feat\. Tyga & Johnny Yukon\)](https://open.spotify.com/album/06weT7kZGocnCTooonm2UQ) | 2:38 | 2020-07-18 | 2020-07-24 |
 | [MONEY ON ME](https://open.spotify.com/track/681ZlxQVB8XBPRZD1Wk4oi) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [MONEY ON ME](https://open.spotify.com/album/2Vp1RasgkrsG8iDul3p7OE) | 2:23 | 2021-07-24 | 2021-08-07 |
 | [Money Talk](https://open.spotify.com/track/2YwC2IM0ykBxtMBH9aMe5m) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Money Talk](https://open.spotify.com/album/7BdXFwf9b2bnQ8w9A7GYwE) | 2:54 | 2020-01-17 | 2020-02-07 |
+| [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2022-10-20 |  |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-21 | 2022-05-14 |
 | [Mood Swings](https://open.spotify.com/track/2xE16muNCmhZwSOv3i1d1H) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Mood Swings](https://open.spotify.com/album/0ewO3paYhoJwMGX1Yjyebw) | 2:36 | 2019-09-13 | 2019-12-13 |
 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 | 2020-08-07 | 2020-08-14 |

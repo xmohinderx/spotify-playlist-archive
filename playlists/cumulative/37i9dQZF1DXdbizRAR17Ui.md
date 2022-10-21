@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-216 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
+217 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Impressions](https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 3:44 | 2022-09-05 |  |
 | [In Your Sleep](https://open.spotify.com/track/38OX7TwpsBbC4zaiDOF7S3) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 3:53 | 2021-11-24 | 2022-07-04 |
 | [In Youth](https://open.spotify.com/track/7BuM7wiAeFCUUP0UoL92X5) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [In Youth](https://open.spotify.com/album/2idBmIRuFo2mqjINOqh4DQ) | 5:24 | 2021-11-24 | 2022-07-28 |
-| [Intimate Fantasy](https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy](https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9) | 8:13 | 2022-09-05 |  |
+| [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 | 2022-09-05 |  |
+| [Intimate Fantasy](https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy](https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9) | 8:13 | 2022-09-05 | 2022-10-21 |
 | [Into Indigo \- Single Edit](https://open.spotify.com/track/0dg6bakFeSs6k8TKMb9SFo) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Into Indigo](https://open.spotify.com/album/2Sdc39ulnlZ0XCAIS7TmLx) | 3:36 | 2021-11-24 | 2022-04-28 |
 | [It's All Over](https://open.spotify.com/track/17Fs4ppqv9Kd3WWAlziwjZ) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [It's All Over](https://open.spotify.com/album/5kYbFyNcC89ebGzeEluMzh) | 4:10 | 2021-11-24 | 2022-07-21 |
 | [It's Gunna Hurt Me](https://open.spotify.com/track/7j66mn3uZxJ17CYipQ49cy) | [Evan Miles](https://open.spotify.com/artist/13cCyqArWrwa6aq9enBy8l) | [It's Gunna Hurt Me](https://open.spotify.com/album/6bov4AqIH3zkhQHrEhsu0Q) | 3:04 | 2021-11-24 | 2022-07-28 |

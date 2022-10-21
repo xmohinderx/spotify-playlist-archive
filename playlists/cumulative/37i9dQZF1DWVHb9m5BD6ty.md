@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-104 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+105 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [The Florist](https://open.spotify.com/track/6XWtPJdsl08S7g5h23PCX7) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 3:21 | 2021-10-26 | 2022-03-17 |
 | [Tiger Woods](https://open.spotify.com/track/3HHBP8kxvTdtVPLtJK3hr3) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Demon Time Freestyle](https://open.spotify.com/album/7BuF8m5k6KLfucwp3T7X9e) | 3:51 | 2022-03-17 | 2022-07-29 |
 | [Tiger Woods](https://open.spotify.com/track/3TP4es7Z8PL11XHNExj0aB) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Tiger Woods](https://open.spotify.com/album/3kWPB2Q3oYywGaqW018mCB) | 3:51 | 2022-03-17 |  |
-| [Time](https://open.spotify.com/track/5BJcisTgPFGiDRNsVFfufn) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Stride](https://open.spotify.com/album/4bHJFI5vP4Tybub7xxd9ak) | 3:00 | 2022-03-17 |  |
+| [Time](https://open.spotify.com/track/5BJcisTgPFGiDRNsVFfufn) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Stride](https://open.spotify.com/album/4bHJFI5vP4Tybub7xxd9ak) | 3:00 | 2022-03-17 | 2022-10-21 |
+| [Time](https://open.spotify.com/track/68hfxlFbZqcZQm0hw92T5n) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Stride](https://open.spotify.com/album/7zZ9ryXdhx3ysVppy5Z5CE) | 3:00 | 2022-03-17 |  |
 | [Too Good](https://open.spotify.com/track/2aSrgexC5pyhwgjUu6pHeo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:41 | 2021-10-26 | 2022-03-17 |
 | [Trapped](https://open.spotify.com/track/44aOl91V0gvzcW2gBS4WCs) | [Panch](https://open.spotify.com/artist/4559cnfJUfk6DFLNt9ENpO) | [Trapped](https://open.spotify.com/album/1hKsgvyuvtOAD0SA9iwBXQ) | 2:57 | 2022-03-17 |  |
 | [UPSET](https://open.spotify.com/track/2NgpzS0GuklWDHLqVNU0OY) | [Celaviedmai](https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO), [Alan Mckee](https://open.spotify.com/artist/1ven00RWCJ5Z6aUgzNBHCA) | [UPSET](https://open.spotify.com/album/5zazGrbNSITSFc2vBS3a7J) | 2:31 | 2022-03-17 |  |

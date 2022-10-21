@@ -110,6 +110,28 @@
     },
     {
       "album": {
+        "name": "Belle vie",
+        "url": "https://open.spotify.com/album/7vd5hWrQ3VwtAobES8qsvM"
+      },
+      "artists": [
+        {
+          "name": "Xabi",
+          "url": "https://open.spotify.com/artist/2SW5KCyAv9bOynnjdJvoVj"
+        },
+        {
+          "name": "Ladam",
+          "url": "https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Belle vie",
+      "url": "https://open.spotify.com/track/1GcRUhRtcmyK9Wj792TLUN"
+    },
+    {
+      "album": {
         "name": "Etoile Noire : N\u00e9buleuse",
         "url": "https://open.spotify.com/album/2ckXqM9XfrPuuKnN39oRvw"
       },
@@ -259,7 +281,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 162300,
       "name": "Comme \u00e7a",
       "url": "https://open.spotify.com/track/4bOdmHfgSw7e0ZrwgOHbqz"
@@ -281,6 +303,24 @@
       "duration_ms": 236712,
       "name": "COMPLIQU\u00c9",
       "url": "https://open.spotify.com/track/0OTmlCY3Ufhkjl5pmtlZXt"
+    },
+    {
+      "album": {
+        "name": "COUP\u00c9",
+        "url": "https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY"
+      },
+      "artists": [
+        {
+          "name": "TLZ Clan",
+          "url": "https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178290,
+      "name": "COUP\u00c9",
+      "url": "https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i"
     },
     {
       "album": {
@@ -821,7 +861,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 194668,
       "name": "La Fin",
       "url": "https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY"
@@ -1111,7 +1151,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 185106,
       "name": "New Flow",
       "url": "https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn"
@@ -1519,7 +1559,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 197200,
       "name": "Tapion",
       "url": "https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw"
@@ -1562,6 +1602,24 @@
     },
     {
       "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
+    },
+    {
+      "album": {
         "name": "\u00a52S \u00b06 : ZLM",
         "url": "https://open.spotify.com/album/0lJUtwW9eGdcbJYswcujWa"
       },
@@ -1577,6 +1635,24 @@
       "duration_ms": 134426,
       "name": "\u00a52S \u00b06 : ZLM",
       "url": "https://open.spotify.com/track/2gVBlMRlzAPjt6e4oljra4"
+    },
+    {
+      "album": {
+        "name": "Transparent",
+        "url": "https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm"
+      },
+      "artists": [
+        {
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "\u00c2mes perdues",
+      "url": "https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr"

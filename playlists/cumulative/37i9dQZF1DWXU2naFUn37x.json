@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Neima Ezza",
+  "description": "La casa dello street rap italiano. Cover: Vale Pain",
   "name": "Street Culto",
   "published_playlist_ids": [
     "2xFrA1gU60YSyblsw3BI3i"
@@ -885,6 +885,32 @@
       "duration_ms": 160615,
       "name": "Come Te",
       "url": "https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V"
+    },
+    {
+      "album": {
+        "name": "CANCUN",
+        "url": "https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe"
+      },
+      "artists": [
+        {
+          "name": "Cancun",
+          "url": "https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Compare (feat. Lazza & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK"
     },
     {
       "album": {
@@ -2406,6 +2432,28 @@
     },
     {
       "album": {
+        "name": "Purosangue (feat. Shiva)",
+        "url": "https://open.spotify.com/album/6qFCy6Umhqty9GB7QThBft"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Purosangue (feat. Shiva)",
+      "url": "https://open.spotify.com/track/5ZzDWDMYnWK8qwcOjVyoPv"
+    },
+    {
+      "album": {
         "name": "PYPPARE",
         "url": "https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U"
       },
@@ -2877,7 +2925,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 210570,
       "name": "Strade Unite (feat. Helmi sa7bi, emanuelino)",
       "url": "https://open.spotify.com/track/6PYMcSZlBqCgFOojTLMJgD"
@@ -3327,7 +3375,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 205074,
       "name": "X Sempre",
       "url": "https://open.spotify.com/track/69QHlK1wzGaY8M5QzB1fNx"

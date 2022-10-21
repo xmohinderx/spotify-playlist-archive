@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sany
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,340 likes - 91 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,365 likes - 91 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

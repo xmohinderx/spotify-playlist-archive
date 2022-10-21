@@ -12048,6 +12048,28 @@
     },
     {
       "album": {
+        "name": "Mitt i juni",
+        "url": "https://open.spotify.com/album/4rG6lspUIBAHRuKElGNzj3"
+      },
+      "artists": [
+        {
+          "name": "Metin",
+          "url": "https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR"
+        },
+        {
+          "name": "Louis",
+          "url": "https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175810,
+      "name": "Mitt i juni",
+      "url": "https://open.spotify.com/track/19sBWLGTeiYSFYJeOmI2RN"
+    },
+    {
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -13351,7 +13373,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 151900,
       "name": "PANG! BOOM!",
       "url": "https://open.spotify.com/track/5FTmPaZPNPL3RlxHBN0QID"

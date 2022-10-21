@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169487,
+  "num_followers": 169500,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDgwMjYyODBiYTcxNzYyNjY1Yzk1NmFjZGY5ZTJjNGNl",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDM5NjcwNTZmOWUyYjI4NmU2MzNhYWNiMzdlNTBjMmVh",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -771,22 +771,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
-        "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
       },
       "artists": [
         {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        },
-        {
-          "name": "Sam Morrow",
-          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Lodi",
-      "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -803,6 +799,26 @@
       "duration_ms": 289026,
       "name": "Unintended Consequence Of Love",
       "url": "https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
+        "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Lodi",
+      "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -839,22 +855,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 244429,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Throw Away Your Blues",
         "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Texas Hold 'Em",
-        "url": "https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui"
+        "name": "Woman Like Me",
+        "url": "https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa"
       },
       "artists": [
         {
-          "name": "Anni Piper",
-          "url": "https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 207640,
-      "name": "Love's Truly Blind",
-      "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"
+      "duration_ms": 244429,
+      "name": "Woman Like Me",
+      "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"
     }
   ],
   "unique_name": "EQUAL Blues",

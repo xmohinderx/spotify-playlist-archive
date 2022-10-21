@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 46239,
+  "num_followers": 46665,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDJlNDAzNzc5M2ZkZWY1NWNhZjBhMzY2MGNmNDUxNjhl",
+  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDVjY2U4YWRkM2MwOTkxOTQ5MDhmYWVhZDhkOTI4ODQ1",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
-      "added_at": "2022-10-20 01:36:35",
+      "added_at": "2022-10-21 01:35:49",
       "album": {
         "name": "Lonely Traveller",
         "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "In Trance",
-        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 357305,
-      "name": "In Trance",
-      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "In Trance",
+        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 357305,
+      "name": "In Trance",
+      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Light + Shadow Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 370750,
       "name": "Flash - Marco Faraone Remix",
       "url": "https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "duration_ms": 412498,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Sentinel",
         "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
       },
@@ -743,38 +759,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 412498,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
     },
     {
       "added_at": "2022-09-09 16:00:00",

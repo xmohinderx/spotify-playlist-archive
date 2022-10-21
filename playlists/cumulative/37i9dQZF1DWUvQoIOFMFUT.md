@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-137 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+138 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [In Uh Breeze](https://open.spotify.com/track/2pDVWbHyh5tIp2TlDhUBzG) | [Monica Riskey](https://open.spotify.com/artist/3JpHMpV3QOd4qrz7Jfkw7w) | [In Uh Breeze](https://open.spotify.com/album/4JTz2v69vN9CIJl2EuqpEr) | 2:18 | 2021-10-14 | 2022-07-29 |
 | [Innocent Fallacy](https://open.spotify.com/track/2P6KUtMod1AtEWqTzGMMJV) | [nuriveben](https://open.spotify.com/artist/1IIdVNdiJ3ooW3K3AW28tr) | [Innocent Fallacy](https://open.spotify.com/album/2brcj8KuBs3PiNRIouSyIJ) | 7:06 | 2021-10-14 |  |
 | [It’s All So Incredibly Loud](https://open.spotify.com/track/0H8LHYMi4hzbwSzxp7DOxR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [It’s All So Incredibly Loud](https://open.spotify.com/album/0YuU3tqK56d8UfewdAqCIl) | 4:19 | 2021-10-14 |  |
-| [Jealous](https://open.spotify.com/track/2i0AHHG97Cs8tRrBea2tH1) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/1aOr4fzpxI4I1MWzwtXKcl) | 3:36 | 2021-10-14 |  |
+| [Jealous](https://open.spotify.com/track/2i0AHHG97Cs8tRrBea2tH1) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/1aOr4fzpxI4I1MWzwtXKcl) | 3:36 | 2021-10-14 | 2022-10-21 |
+| [Jealous](https://open.spotify.com/track/4Z1JZSSUGZz0gPh3EuF9SU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 3:36 | 2021-10-14 |  |
 | [Jealous](https://open.spotify.com/track/5OfWbw2sIHfJnWP9kb3381) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Jealous](https://open.spotify.com/album/7yPMOeiZe1clMr90IvrvP2) | 3:36 | 2021-10-14 | 2022-07-29 |
 | [Just Asking](https://open.spotify.com/track/4LoMqgfxEbYZrnqxloUMAq) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/6k4YdfQ8Qe8RIRmKB5ReFn) | 2:29 | 2021-10-14 | 2022-10-13 |
 | [Just Asking](https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d) | 2:29 | 2021-10-14 |  |

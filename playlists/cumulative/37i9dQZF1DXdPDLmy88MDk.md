@@ -4,13 +4,14 @@
 
 > Gentle instrumental tunes.
 
-144 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
+145 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Visions: No\. 2, Summerland](https://open.spotify.com/track/1XJMRdFSgkrmw2cXLJOD0b) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Bruce Levingston](https://open.spotify.com/artist/7wJT2nMGzUmQQLSIHbDaXU) | [Citizen](https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE) | 4:53 | 2021-11-19 |  |
 | [A](https://open.spotify.com/track/1kHETSWzScobcs0K5JsVc0) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/6YCWEBR0SIdFS80qukpVHI) | 3:52 | 2021-11-19 | 2022-07-29 |
-| [A](https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf) | 3:52 | 2022-05-11 |  |
+| [A](https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf) | 3:52 | 2022-05-11 | 2022-10-21 |
+| [A](https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3) | 3:52 | 2022-09-19 |  |
 | [Alicia](https://open.spotify.com/track/0viMyHxBFaOE0pHu6wtwzk) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Fredrik Lindborg](https://open.spotify.com/artist/24j6pokEgGNNoSAgic8E40), [Kjell Öhman](https://open.spotify.com/artist/6zu51Bz8hwBfYzvqu8FUlK), [Kenji Rabson](https://open.spotify.com/artist/1r0bXRQ6z2ggJzKJgENUkD), [Moussa Fadera](https://open.spotify.com/artist/1WVCN6X1myUXbLPWuVqW78) | [Happening](https://open.spotify.com/album/3LIzch2M5SgoXJGls1MCRN) | 2:58 | 2021-11-19 | 2022-07-29 |
 | [Alicia](https://open.spotify.com/track/7oWt2fCsyMjSflhyrdX29V) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Fredrik Lindborg](https://open.spotify.com/artist/24j6pokEgGNNoSAgic8E40), [Kjell Öhman](https://open.spotify.com/artist/6zu51Bz8hwBfYzvqu8FUlK), [Kenji Rabson](https://open.spotify.com/artist/1r0bXRQ6z2ggJzKJgENUkD), [Moussa Fadera](https://open.spotify.com/artist/1WVCN6X1myUXbLPWuVqW78) | [Happening](https://open.spotify.com/album/6tdrLGWgElgj8ZCrtqIZeh) | 2:58 | 2022-05-11 |  |
 | [All This Will Happen Again](https://open.spotify.com/track/6u9kkqfjdZPxAxEtHmGl68) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave \(Bonus Track Version\)](https://open.spotify.com/album/5lR2OH2Mw2L1dwIBpM16GD) | 4:21 | 2021-11-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,476 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,526 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 134 | [About You](https://open.spotify.com/track/6qW2iEsBxiv3RTvvp4DAqf) | [Colleens](https://open.spotify.com/artist/7IqWbcEkaMGZrYj8q95K0Q) | [Wild Dreams](https://open.spotify.com/album/34ITF8R27buIyhWXUniDYE) | 3:24 |
 | 135 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 136 | [Very Exceptionary](https://open.spotify.com/track/2ktV30eIckWecoWn3pV1co) | [Steve Rice Combo](https://open.spotify.com/artist/6VG0tXZIupZGKZt7wIEEvR), [Stephanie Porter](https://open.spotify.com/artist/799kqlPeq62OCsr5x9KhRV) | [Jazz Cues](https://open.spotify.com/album/4jZ4j22mu43jbsrplmKjTz) | 3:39 |
-| 137 | [Wonderwall](https://open.spotify.com/track/0PA0FR2oN43uDOq0JtZxSV) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Wonderwall](https://open.spotify.com/album/0rRkr0xM7Z0TB3MmxMy8Qk) | 3:38 |
+| 137 | [Wonderwall](https://open.spotify.com/track/46LkK5bUVW9oEgyP2kDfkO) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Wonderwall](https://open.spotify.com/album/6yqk8V4J49DWYLJN4Iz28b) | 3:38 |
 | 138 | [Reality](https://open.spotify.com/track/0r9xLuCrdfkurTNWMhTdCy) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 2:25 |
 | 139 | [Where It Stays](https://open.spotify.com/track/2Kf7MWF2igvJTuGVhpyto1) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:38 |
 | 140 | [Hugging You \- Acoustic](https://open.spotify.com/track/7io1erAh1tMxG5VMBC8rVw) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:53 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDEyY2VmNTFkNjM5M2M3ZGRiZTkwYTZhNTg2MjFlNjEx`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDAyMzc5OGRlYzVhZDZlZjI2ZGFkYTJiZDllMzE1YjUy`

@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-114 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
+115 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Grass Grow](https://open.spotify.com/track/4yohulilOac5oAymyVOvaa) | [Dolphin Midwives](https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P) | [Grass Grow](https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl) | 4:29 | 2022-05-18 | 2022-07-28 |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-05-18 |  |
 | [Guiding Light](https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa), [Chris Lippincott](https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W) | [Guiding Light](https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE) | 3:14 | 2022-05-18 | 2022-07-26 |
-| [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 | 2022-05-18 | 2022-10-20 |
+| [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 | 2022-05-18 |  |
 | [Horoathea Mass of Aegorath](https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC) | [Halgrath](https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD) | [Out of Time](https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT) | 5:38 | 2022-07-01 | 2022-09-09 |
 | [Hymenaios](https://open.spotify.com/track/6SIZcquI0qu7GNisyDzcqm) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 2:56 | 2022-05-18 | 2022-07-26 |
 | [I Could Be Your Dog](https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 3:13 | 2022-07-01 |  |
@@ -85,7 +85,8 @@
 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 | 2022-05-18 |  |
 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 | 2022-05-18 |  |
 | [nine\-sum sorcery A](https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2) | [LABOUR](https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v), [Hani Mojtahedy](https://open.spotify.com/artist/4u6WezeJnoWI28umFSAU1M) | [nine\-sum sorcery](https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4) | 14:21 | 2022-05-18 | 2022-07-28 |
-| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 |  |
+| [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-10-10 |  |
+| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 | 2022-10-21 |
 | [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 | 2022-07-29 |
 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 | 2022-05-18 |  |
 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 | 2022-09-30 |  |
@@ -107,7 +108,7 @@
 | [Stranger](https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9) | [YL Hooi](https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY) | [Untitled](https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf) | 4:10 | 2022-05-18 | 2022-10-11 |
 | [Stretch Your Eyes \- Ambient Acapella](https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Stretch Your Eyes \(Ambient Acapella\)](https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp) | 6:07 | 2022-05-18 | 2022-07-09 |
 | [Strong, Calm, Slow](https://open.spotify.com/track/04hxiOfjtsfxidKASQX7dr) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Strong, Calm, Slow](https://open.spotify.com/album/5BElDhjtRPpJhkDp8cFeK0) | 3:58 | 2022-05-18 | 2022-07-28 |
-| [Strong, Calm, Slow](https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Cliodynamics](https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6) | 3:58 | 2022-05-18 |  |
+| [Strong, Calm, Slow](https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Cliodynamics](https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6) | 3:58 | 2022-05-18 | 2022-10-21 |
 | [Stöltzle](https://open.spotify.com/track/6g54j22O79y49NTtcPG6LV) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q), [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f) | [FRKWYS Vol\. 16: In a Word](https://open.spotify.com/album/4LzT4gnORzaNTIwAngpCgK) | 8:04 | 2022-05-18 | 2022-07-28 |
 | [Sudany](https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Sudany](https://open.spotify.com/album/3LAoQzv2tyJVNuf2amKTCp) | 4:20 | 2022-10-10 |  |
 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 | 2022-05-18 |  |

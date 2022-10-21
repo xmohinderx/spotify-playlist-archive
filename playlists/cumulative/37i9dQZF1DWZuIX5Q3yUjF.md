@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Orlvndo
+> Il meglio dell'R&B italiano\. Cover: thasup
 
-192 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+194 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [FUOCO \(LA NOTTE\)](https://open.spotify.com/track/53Hycm3y3MMRzXKfr1ZfVU) | [Vespro](https://open.spotify.com/artist/4TvAbp9oKmAALxGmLmXA8L) | [FUOCO \(LA NOTTE\)](https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub) | 3:13 | 2022-05-19 |  |
 | [Giorni che esplodono](https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx) | 3:04 | 2022-05-12 |  |
 | [Giovani](https://open.spotify.com/track/4r5AWNZpuNmAqMxFZ2cLCM) | [LocoLab](https://open.spotify.com/artist/0Z0q0SK9yVrufu1rAY3iOw), [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW), [Il III](https://open.spotify.com/artist/4gOxU8ykTDVpC7ErTI1Cv3) | [Giovani](https://open.spotify.com/album/5VSPR5wdl2yxoszGQaTaO5) | 3:20 | 2022-09-08 | 2022-10-14 |
-| [Grazie](https://open.spotify.com/track/0ZAIqhIbiIxIRCX3YahwK5) | [Tatomi](https://open.spotify.com/artist/0GZSD6FH5YD9xcTLFcqSxv) | [Grazie](https://open.spotify.com/album/6avdsvWmlitDikFWDECKiT) | 3:43 | 2022-08-05 |  |
+| [Grazie](https://open.spotify.com/track/0ZAIqhIbiIxIRCX3YahwK5) | [Tatomi](https://open.spotify.com/artist/0GZSD6FH5YD9xcTLFcqSxv) | [Grazie](https://open.spotify.com/album/6avdsvWmlitDikFWDECKiT) | 3:43 | 2022-08-05 | 2022-10-21 |
 | [Grido \(Di Notte\)](https://open.spotify.com/track/2Ly5ZoBeOeUaNGaXk3UKIR) | [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC), [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0), [Loris Gentile](https://open.spotify.com/artist/5N9gXQEL7vPr8hTQOAMmqY) | [Grido \(Di Notte\)](https://open.spotify.com/album/16aqA0wKV2jEwbeV50ffLw) | 3:51 | 2022-05-26 | 2022-10-07 |
 | [Hangover](https://open.spotify.com/track/2KYiGWhzTezhiurZpd8g4f) | [Nese Ikaro](https://open.spotify.com/artist/15JcKmQooq4qeUn6jdN8f0), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [Hangover](https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q) | 2:28 | 2022-05-12 | 2022-08-26 |
 | [Hot Thing](https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Hot Thing](https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF) | 2:56 | 2022-06-02 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [No Love](https://open.spotify.com/track/6BsRHAOiyM0EULpcTjf91l) | [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [No Love](https://open.spotify.com/album/3klV0mhxXPHdn2pq8gjNDo) | 2:56 | 2022-06-16 |  |
 | [non ci sta](https://open.spotify.com/track/4atRzLSh8tx0lsVsmgHTTu) | [Jess](https://open.spotify.com/artist/2frtodbBy4VwQlIkfZd0kw) | [non ci sta](https://open.spotify.com/album/6vQiCy1LkSCCfwESVLe5a0) | 3:03 | 2022-05-05 | 2022-07-29 |
 | [NON HO VOGLIA DI BERE](https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [LUCE](https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk) | 2:53 | 2022-05-12 | 2022-07-29 |
+| [non me ne frega un ca](https://open.spotify.com/track/4kMROmt7ObJhRNeSyMj7w7) | [Giuliana Cascone](https://open.spotify.com/artist/4JbDAuaFjmcMOmQJdiSLln) | [non me ne frega un ca](https://open.spotify.com/album/74dptIChCn0YkwejWlrFje) | 2:50 | 2022-10-20 |  |
 | [Non mi vuoi più bene](https://open.spotify.com/track/1JDLPzD8ZfFR1sQN6enws4) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY) | [Non mi vuoi più bene](https://open.spotify.com/album/0QRXE7xhIGxl70M1jIjOdC) | 3:27 | 2022-06-16 | 2022-09-23 |
 | [Non ti sento più](https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH) | [Non ti sento più](https://open.spotify.com/album/70poOsHGDl7urLq0sfhPKH) | 3:01 | 2022-06-09 |  |
 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 | 2022-09-01 |  |
@@ -143,6 +144,7 @@
 | [Plenilunio](https://open.spotify.com/track/6IZBQhT4RNSTreDogeiCfa) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Plenilunio](https://open.spotify.com/album/44715EEdXOjoBebHPBwoeh) | 2:58 | 2022-09-29 | 2022-10-14 |
 | [Poco Male](https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Originali](https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU) | 3:22 | 2022-05-05 |  |
 | [Podio](https://open.spotify.com/track/2qG3nVwV8MMy1aCWgxGpiF) | [Sara Mancini](https://open.spotify.com/artist/0A8DfrInGzOLf2froFT3rq) | [Podio](https://open.spotify.com/album/5mhVwiB3QNnqbk1A4BE2Cg) | 2:00 | 2022-05-05 | 2022-06-17 |
+| [Polistirene](https://open.spotify.com/track/0PM1zOjPPI6IZU2ZuvvBkp) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f) | [Polistirene](https://open.spotify.com/album/4hDtsThB2h0BjsIw0CcpFk) | 2:55 | 2022-10-20 |  |
 | [Qualcosa di Speciale](https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh) | [Qualcosa di speciale](https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde) | 2:53 | 2022-07-07 |  |
 | [Questi rottami](https://open.spotify.com/track/0Wx6wCWEEfPVS223ej9KWM) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [FUTURO3](https://open.spotify.com/album/2elscUEH1CWrdqLTyZGUxK) | 3:20 | 2022-07-14 |  |
 | [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/3vCa88ij0fqwttqJ7E7pQL) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:50 | 2022-09-29 |  |
@@ -180,7 +182,7 @@
 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 | 2022-07-07 |  |
 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 | 2022-07-14 | 2022-09-23 |
 | [supernova](https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [supernova](https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz) | 2:37 | 2022-09-22 |  |
-| [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 |  |
+| [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 | 2022-10-21 |
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 |  |
 | [Tra di noi](https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Tra di noi](https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO) | 3:26 | 2022-09-22 |  |
 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 | 2022-06-23 |  |

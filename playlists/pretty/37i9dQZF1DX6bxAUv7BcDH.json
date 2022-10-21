@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGY4Y2RmMTEzMTBiYjc3MWY4YWZmOTA4YzJiMzMwMDQw",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDI4MGJjOGI1NzBmMmNhMTdjOWI0MjMyMTBlODM4YTQy",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Complete Clapton",
-        "url": "https://open.spotify.com/album/1qcLcWUFHHFWe54IP7PN7j"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change The World",
-      "url": "https://open.spotify.com/track/463G7EJ5QLNSXzLIXRiY2g"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "80 Totally 80s Hits",
         "url": "https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 274866,
       "name": "Volare",
       "url": "https://open.spotify.com/track/10ULGvF4XQB1plDN0wnDo9"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
     },
     {
       "added_at": "2022-02-16 05:37:41",

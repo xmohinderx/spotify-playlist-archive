@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Oner y las mejores batallas\. Assista los clips y descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,873 likes - 70 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,876 likes - 70 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

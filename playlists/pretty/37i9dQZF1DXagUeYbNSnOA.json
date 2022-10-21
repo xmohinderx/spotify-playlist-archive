@@ -6,12 +6,12 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE3MzA3NiwwMDAwMDAwMGNiNmQ5MWZmYmU0ZjU5NTYwY2U1M2U4NmU3MDU0NDE1",
+  "snapshot_id": "MTY2NjE3MzA3NiwwMDAwMDAwMDU4ZTUwMjEyM2ZiNTgyMDI1NTFlNDA2MDdlMDMzZDRi",
   "tracks": [
     {
-      "added_at": "2022-10-20 01:50:28",
+      "added_at": "2022-10-21 01:49:53",
       "album": {
-        "name": "BRUTAL",
+        "name": "BRUTAL - Spotify Singles",
         "url": "https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW"
       },
       "artists": [
@@ -21,7 +21,7 @@
         }
       ],
       "duration_ms": 166904,
-      "name": "BRUTAL",
+      "name": "BRUTAL - Spotify Singles",
       "url": "https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw"
     },
     {
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
-        }
-      ],
-      "duration_ms": 253986,
-      "name": "Renacido",
-      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
-      },
-      "artists": [
-        {
-          "name": "Koi Pali",
-          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
-        }
-      ],
-      "duration_ms": 190755,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "POKITO",
         "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 252631,
       "name": "POKITO",
       "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
+      },
+      "artists": [
+        {
+          "name": "Koi Pali",
+          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
+        }
+      ],
+      "duration_ms": 190755,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
+        "name": "Yendo",
+        "url": "https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj"
+      },
+      "artists": [
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Yendo",
+      "url": "https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
         "name": "Flow Natty",
         "url": "https://open.spotify.com/album/0STCOjnotffOUHHmUnWzm7"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 186355,
       "name": "Flow Natty",
       "url": "https://open.spotify.com/track/7EDf9zG0Xan6ZT7QatIsYq"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
-        "name": "Yendo",
-        "url": "https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj"
-      },
-      "artists": [
-        {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Yendo",
-      "url": "https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
+      },
+      "artists": [
+        {
+          "name": "Matiu Colin",
+          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
         "name": "Todos Los Santos",
         "url": "https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 213433,
       "name": "Todos Los Santos",
       "url": "https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
-        "name": "Alegr\u00eda",
-        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
-      },
-      "artists": [
-        {
-          "name": "Matiu Colin",
-          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Curarire",
-        "url": "https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See"
-      },
-      "artists": [
-        {
-          "name": "puertoazul",
-          "url": "https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7"
-        },
-        {
-          "name": "Hilandera",
-          "url": "https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO"
-        }
-      ],
-      "duration_ms": 202154,
-      "name": "Curarire",
-      "url": "https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Hermanas",
         "url": "https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 201000,
       "name": "Es el Final Me Alejo",
       "url": "https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Curarire",
+        "url": "https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See"
+      },
+      "artists": [
+        {
+          "name": "puertoazul",
+          "url": "https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7"
+        },
+        {
+          "name": "Hilandera",
+          "url": "https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO"
+        }
+      ],
+      "duration_ms": 202154,
+      "name": "Curarire",
+      "url": "https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA"
     }
   ],
   "unique_name": "Fresh Finds Latin",

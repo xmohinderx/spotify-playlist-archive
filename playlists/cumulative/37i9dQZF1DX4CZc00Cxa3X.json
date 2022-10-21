@@ -958,6 +958,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Field",
+        "url": "https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv"
+      },
+      "artists": [
+        {
+          "name": "Suntapes",
+          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Forgotten Field",
+      "url": "https://open.spotify.com/track/0hmCr0Xc8E0RrA5Mf5fJXp"
+    },
+    {
+      "album": {
         "name": "\u671d",
         "url": "https://open.spotify.com/album/0Ky0C7LcSJ2HwsamzMuYKC"
       },
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 439333,
       "name": "Prue Lewarne",
       "url": "https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB"

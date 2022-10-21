@@ -1,12 +1,12 @@
 {
   "description": "A calm, instrumental reading playlist. ",
-  "num_followers": 167078,
+  "num_followers": 167113,
   "original_name": "Read & Unwind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc0NDQ3MiwwMDAwMDAwMDcyMmQwM2IyYjU4ZTMwYjA3OWNhNjNkNzU0ZTY2NzYw",
+  "snapshot_id": "MTY2NTc0NDQ3MiwwMDAwMDAwMGIxNzgyM2YxOThhYWRhZjVmMDVmZTI0YzI3YjNjZDAw",
   "tracks": [
     {
       "added_at": "2022-10-14 10:47:52",
@@ -964,25 +964,21 @@
       "added_at": "2022-10-14 10:47:52",
       "album": {
         "name": "Wandering Life",
-        "url": "https://open.spotify.com/album/3QBOI6Y9YxIKNQNPzcCz2U"
+        "url": "https://open.spotify.com/album/38yjAj3golsdwi8pMnRZ1I"
       },
       "artists": [
         {
+          "name": "Mat\u00edas Le\u00f3n",
+          "url": "https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I"
+        },
+        {
           "name": "Mat\u00edas Efra\u00edm Le\u00f3n",
           "url": "https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX"
-        },
-        {
-          "name": "Esther Dutch",
-          "url": "https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA"
-        },
-        {
-          "name": "Thomas Derry",
-          "url": "https://open.spotify.com/artist/03kJMjnglfUqv8ReOql96z"
         }
       ],
-      "duration_ms": 98602,
+      "duration_ms": 98661,
       "name": "Wandering Life",
-      "url": "https://open.spotify.com/track/765y9b98K1iekDiM1Pol0Q"
+      "url": "https://open.spotify.com/track/15mIfyHJT8lUGn8wutYlSr"
     },
     {
       "added_at": "2022-10-14 10:47:52",

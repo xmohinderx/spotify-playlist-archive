@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-311 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+312 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Scottie Pippen](https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Scottie Pippen](https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34) | 3:53 | 2021-10-22 | 2022-01-29 |
 | [SET IT OFF \(feat\. G Herbo\)](https://open.spotify.com/track/7bS2y45GZ47gyQL1bbZkPW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:37 | 2022-07-29 | 2022-10-15 |
 | [Shake That A$$ Baby](https://open.spotify.com/track/19FFPF7lBVOomxN59L7UUK) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Shake That A$$ Baby](https://open.spotify.com/album/5VcgQj0bTAhewQa9FhJyy5) | 2:31 | 2022-05-27 | 2022-06-04 |
-| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-09 |  |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-09 | 2022-10-21 |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-09-23 |  |
 | [Show Us Some](https://open.spotify.com/track/4MHv1Aj2VvfhueuCQ7HEro) | [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Show Us Some](https://open.spotify.com/album/1R5XkbkfbYyCQtozO9WeOE) | 1:55 | 2021-10-15 | 2022-02-19 |
 | [Showstopper](https://open.spotify.com/track/2jgvCXn0M81JnYRM5CkKju) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Showstopper](https://open.spotify.com/album/0sphY41zkKz25R3ZXnoV3X) | 1:53 | 2022-03-25 | 2022-06-04 |
 | [Sick of Y'all](https://open.spotify.com/track/2vRz2l7Ma7r5g3u1VAgIzH) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Sick of Y'all](https://open.spotify.com/album/3e0u3v8vK1gTiXCcs4HpnY) | 1:57 | 2022-05-13 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-522 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+523 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Self Immolation](https://open.spotify.com/track/3xmK6zT1DX5NUqRDZ9ESgG) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Self Immolation](https://open.spotify.com/album/4OEdPwbh91rcHKEs3ELGs7) | 2:57 | 2022-08-26 | 2022-10-07 |
 | [Selfish](https://open.spotify.com/track/7ltJoNGLmGC8lczqdFllhB) | [Chris Ayer](https://open.spotify.com/artist/2dLSvv3LuVtMdGeTwzgcTu) | [Endless Wonder](https://open.spotify.com/album/4HMmkaaCMTTCRlXmKOmnFo) | 3:37 | 2022-03-24 | 2022-04-15 |
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2022-03-17 | 2022-10-13 |
+| [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2022-10-14 |  |
 | [Seventeen Going Under](https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 5:02 | 2022-03-24 |  |
 | [Shame Shame](https://open.spotify.com/track/0wGv595Z2XDF9ZFbrbQqqH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Shame Shame](https://open.spotify.com/album/4bMgI05AysPH4EdwWaWORy) | 4:17 | 2022-03-24 | 2022-04-04 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-03-24 | 2022-06-23 |
@@ -446,7 +447,7 @@
 | [Take It Back](https://open.spotify.com/track/4DLiXw3uGMe45QwJtPNOVc) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Take It Back](https://open.spotify.com/album/6yk0QeDWJQJ4GGUGJbEWvy) | 2:28 | 2022-03-24 | 2022-04-13 |
 | [Take It or Leave It](https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Take It or Leave It](https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe) | 2:28 | 2022-04-14 | 2022-04-18 |
 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 | 2022-03-24 | 2022-04-18 |
-| [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 | 2022-06-16 |  |
+| [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 | 2022-06-16 | 2022-10-21 |
 | [Thank You For Everything](https://open.spotify.com/track/3laKLaDZ3qmTO5WgZov49X) | [Sunrise Avenue](https://open.spotify.com/artist/1osZFzamKEXNoYk7HzWbDe) | [Thank You For Everything](https://open.spotify.com/album/4KFOr7vYSYEvr3aeE7ombP) | 3:08 | 2022-03-24 | 2022-04-12 |
 | [The Beginning](https://open.spotify.com/track/3j7PY3taoRhl4bOH5v63pS) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [The Beginning](https://open.spotify.com/album/4NFlRDKAxE1QMwbrkziAV9) | 2:47 | 2022-03-24 | 2022-04-21 |
 | [The Best \(feat\. Alice Merton\)](https://open.spotify.com/track/5iReOl0OJPQjSIIndoYDMd) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [The Best \(feat\. Alice Merton\)](https://open.spotify.com/album/4LM2UkSNq1F0lIRbutfHMK) | 3:43 | 2022-03-24 | 2022-04-15 |

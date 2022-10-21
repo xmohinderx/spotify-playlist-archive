@@ -4,7 +4,7 @@
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-172 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/6qIZBPZs8Yd4O8AERVwgVK)
+173 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/6qIZBPZs8Yd4O8AERVwgVK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [La Pelikula \- Remix](https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Pelikula \(Remix\)](https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX) | 4:13 | 2022-10-09 |  |
 | [La Presión](https://open.spotify.com/track/0LXk0yWcGfACtMKX0igobq) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Presión](https://open.spotify.com/album/4wfAezGxcpg6I2sQHldZ0u) | 2:44 | 2022-05-10 | 2022-06-18 |
 | [La Sábana y los Pies](https://open.spotify.com/track/3DJkOQEj4u5vbPEavvbPT0) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Sábana y los Pies](https://open.spotify.com/album/2eE6yKFJH7qf9Ge0wmUdvD) | 3:06 | 2022-05-10 | 2022-07-29 |
-| [Las Cartas](https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu) | 3:32 | 2022-10-09 |  |
+| [Las Cartas](https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu) | 3:32 | 2022-10-14 |  |
+| [Las Cartas](https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu) | 3:32 | 2022-10-09 | 2022-10-21 |
 | [Llamarte \(Otra Vez\)](https://open.spotify.com/track/2OniRNhk6QLDZxq0i6FONv) | [Inti y Vicente](https://open.spotify.com/artist/4VVwBj04GbOfjT07az5SgD), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Llamarte \(Otra Vez\)](https://open.spotify.com/album/5tjRR32na5Z85xVaqIalxn) | 2:14 | 2022-05-10 | 2022-07-22 |
 | [Lo Volvería](https://open.spotify.com/track/2IOSyg0w81fJnQbpmoseRf) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Lo Volvería](https://open.spotify.com/album/0hOgrkaHadHhWSUi7NoipS) | 3:48 | 2022-05-10 | 2022-07-26 |
 | [LOCATION](https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LOCATION](https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR) | 4:25 | 2022-05-10 |  |

@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 206557,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/3EDw77uNVYQGAEtRiRfLCG"
@@ -1849,6 +1849,28 @@
       "duration_ms": 203731,
       "name": "Flash Drive",
       "url": "https://open.spotify.com/track/3gA35jxypCyQczOR5Tew9J"
+    },
+    {
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/3SU1UJpZqk15qVlYO6VyWk"
+      },
+      "artists": [
+        {
+          "name": "Marc Antonix",
+          "url": "https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco"
+        },
+        {
+          "name": "Revaeon",
+          "url": "https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3pUwFUuGgxrUwUaLFDlA8B"
     },
     {
       "album": {

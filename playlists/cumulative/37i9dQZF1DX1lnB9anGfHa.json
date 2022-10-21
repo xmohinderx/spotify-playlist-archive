@@ -542,6 +542,24 @@
     },
     {
       "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
@@ -1293,10 +1311,32 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 282320,
       "name": "Normal Is Boring",
       "url": "https://open.spotify.com/track/5V1YHTOjbVAoH4ppT2sI21"
+    },
+    {
+      "album": {
+        "name": "Everything Burns",
+        "url": "https://open.spotify.com/album/0IjZeZ1jjg3cguTdjhLhQP"
+      },
+      "artists": [
+        {
+          "name": "R.Y.F.",
+          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
+        },
+        {
+          "name": "So Beast",
+          "url": "https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282320,
+      "name": "Normal Is Boring",
+      "url": "https://open.spotify.com/track/7zBOPBfrGE165t4nKUXBs9"
     },
     {
       "album": {

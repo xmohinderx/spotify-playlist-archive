@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-199 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+200 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Who WIll You Love](https://open.spotify.com/track/4MBTvgTbF6ON2Kqdy2VBzA) | [Dead Heart Bloom](https://open.spotify.com/artist/4laLBLkaklgExgwq1u0WsW) | [Chelsea Diaries](https://open.spotify.com/album/5xYYt2Yzhrg8KSAAWjnuMB) | 3:27 | 2022-07-22 |  |
 | [Wish I Had the Why](https://open.spotify.com/track/68DIBWxKHHMqyzNFXR7Tkt) | [Shelly Fraley](https://open.spotify.com/artist/4qvh2HOvMUhnP7CeoJv9ND) | [Tides](https://open.spotify.com/album/1Ma6rv23MCDawBayO531dk) | 4:26 | 2022-07-22 |  |
 | [Woe Is Me](https://open.spotify.com/track/4kfENolM5UCOcswl2KZGzG) | [Josh Eagle and The Harvest City](https://open.spotify.com/artist/6dN2IgjlE0uwYPVK078qLX) | [Clockwork Radio](https://open.spotify.com/album/4kCZgWvwRL5ijO8XOgKSdS) | 3:44 | 2022-07-22 |  |
-| [Wonderwall](https://open.spotify.com/track/0PA0FR2oN43uDOq0JtZxSV) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Wonderwall](https://open.spotify.com/album/0rRkr0xM7Z0TB3MmxMy8Qk) | 3:38 | 2022-07-22 |  |
+| [Wonderwall](https://open.spotify.com/track/0PA0FR2oN43uDOq0JtZxSV) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Wonderwall](https://open.spotify.com/album/0rRkr0xM7Z0TB3MmxMy8Qk) | 3:38 | 2022-07-22 | 2022-10-21 |
+| [Wonderwall](https://open.spotify.com/track/46LkK5bUVW9oEgyP2kDfkO) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Wonderwall](https://open.spotify.com/album/6yqk8V4J49DWYLJN4Iz28b) | 3:38 | 2022-07-22 |  |
 | [World Spins Madly On](https://open.spotify.com/track/0bAM9qivrntXnHyklRRx39) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5), [Deb Talan](https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD), [Steve Tannen](https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td) | [Say I Am You](https://open.spotify.com/album/0ZF4upbGbPnqw6JApHiHQ1) | 2:45 | 2022-07-22 | 2022-07-29 |
 | [World Spins Madly On](https://open.spotify.com/track/6NSlOEEtWlqvEFrjQsry77) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5), [Deb Talan](https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD), [Steve Tannen](https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td) | [Say I Am You](https://open.spotify.com/album/17YOU9hgAgAOmjAFEimg1w) | 2:45 | 2022-07-22 |  |
 | [Wound](https://open.spotify.com/track/2bNTZTod1rwIHUpejmQTqG) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Wound](https://open.spotify.com/album/2iRJuWghMI2wfSHceD9QeD) | 3:42 | 2022-07-22 |  |

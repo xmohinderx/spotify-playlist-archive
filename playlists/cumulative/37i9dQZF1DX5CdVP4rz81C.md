@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Sadie Jean
 
-991 songs - 2 day 4 hr 17 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+992 songs - 2 day 4 hr 19 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-01-07 | 2022-01-20 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-11 | 2022-02-05 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-03-28 | 2022-04-23 |
+| [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 | 2022-10-20 |  |
 | [Animal](https://open.spotify.com/track/6IP8DMuxscj75wxTErFXoh) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Animal](https://open.spotify.com/album/3vwIJMoTuSDV8CfwRBoy3G) | 3:39 | 2021-08-07 | 2021-10-23 |
 | [Another Day](https://open.spotify.com/track/3EglIzKtf6hgUcPRuITBzK) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Another Day](https://open.spotify.com/album/5cP4INNMwj2Am8Su6KEnBS) | 2:33 | 2021-09-11 | 2021-10-30 |
 | [another guy](https://open.spotify.com/track/7GFVTeKjOqzUHFDleIKSg4) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [another guy](https://open.spotify.com/album/78o1cne21EKhzHTaMKu6q6) | 1:54 | 2021-12-04 | 2022-01-15 |
@@ -368,7 +369,7 @@
 | [Happy Fucking Birthday](https://open.spotify.com/track/6c7xkHPz5RHb19d8zl5iea) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Happy Fucking Birthday](https://open.spotify.com/album/0JZKPex9Offv9HIE7kTuEM) | 3:39 | 2022-03-18 | 2022-05-20 |
 | [Happy Now \(with Anna Hamilton\)](https://open.spotify.com/track/4o38WDNuYkVn4jn0WRH5QU) | [Joel Blackmon](https://open.spotify.com/artist/4XBNTfuiL1ful1Erm746lY), [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [Happy Now \(with Anna Hamilton\)](https://open.spotify.com/album/23K3udGw82T3uwuPQWlynS) | 2:52 | 2021-04-10 | 2021-06-19 |
 | [Hate Me If It Helps](https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Hate Me If It Helps](https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk) | 3:14 | 2022-02-11 | 2022-04-02 |
-| [Hate Me Love Me](https://open.spotify.com/track/3OKJAstFWfrwCBj5gfrmFn) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Hate Me Love Me](https://open.spotify.com/album/0O5cH8y61PgPeeMOiiUDu7) | 2:34 | 2022-07-27 |  |
+| [Hate Me Love Me](https://open.spotify.com/track/3OKJAstFWfrwCBj5gfrmFn) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Hate Me Love Me](https://open.spotify.com/album/0O5cH8y61PgPeeMOiiUDu7) | 2:34 | 2022-07-27 | 2022-10-21 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-06-25 |
 | [Haunt You](https://open.spotify.com/track/0ikj11vlWRTn6lxs5xMkOj) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Haunt You](https://open.spotify.com/album/16sm0PLHDeBVPQhNtpxLOC) | 2:46 | 2022-07-22 | 2022-08-20 |
 | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/track/3vgf7gtRKDFNqFRJm7nA0m) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/album/2tDuXTNCAmd5VQXh2Bi8Ry) | 2:47 | 2020-11-13 | 2021-04-24 |

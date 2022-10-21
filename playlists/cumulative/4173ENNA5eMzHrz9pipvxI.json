@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: O\u0308wnboss &amp; FAST BOY",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta &amp; MORTEN",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -626,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Better Safe Than Sorry",
+        "url": "https://open.spotify.com/album/7a7gT0AdLeQXLzlOp2s3Z9"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158104,
+      "name": "Better Safe Than Sorry",
+      "url": "https://open.spotify.com/track/4afdW2RH5IO4zTX1CWjRIZ"
+    },
+    {
+      "album": {
         "name": "Better Than Me (feat. Okafuwa)",
         "url": "https://open.spotify.com/album/0IcvgQKYYyvXOIhlMqpXqb"
       },
@@ -663,7 +681,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 155555,
       "name": "Bifrost",
       "url": "https://open.spotify.com/track/4B930MKVgJdW93LVq5xeBl"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 148096,
       "name": "Burn The House",
       "url": "https://open.spotify.com/track/3Jn8pHsJ0kBHHThwiEXppr"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 151729,
       "name": "But U (feat. Izzy Bizu)",
       "url": "https://open.spotify.com/track/4mAQv4VWJAtzYDRXU6ijCu"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 249128,
       "name": "Clear All Patterns",
       "url": "https://open.spotify.com/track/50UXg7yCe3Xsen1eXMfZSl"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 185624,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/6N64uP2GdgSjC1AAx4Y8J2"
@@ -1530,6 +1548,28 @@
     },
     {
       "album": {
+        "name": "Element",
+        "url": "https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs"
+    },
+    {
+      "album": {
         "name": "Empty City",
         "url": "https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy"
       },
@@ -1677,7 +1717,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 200119,
       "name": "Fall In",
       "url": "https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s"
@@ -1847,7 +1887,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 176660,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3ZFBPl6PJegBAVdvcz8DQf"
@@ -2239,7 +2279,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 175406,
       "name": "Heartbreak (D\u00d8BER Remix)",
       "url": "https://open.spotify.com/track/2wHbvqU3msYhGePL9daQNu"
@@ -2604,6 +2644,28 @@
     },
     {
       "album": {
+        "name": "I Can't Be (Volkan Uca Remix)",
+        "url": "https://open.spotify.com/album/13On69kvRM5KvNCC9XdSI5"
+      },
+      "artists": [
+        {
+          "name": "Hakan Akkus",
+          "url": "https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh"
+        },
+        {
+          "name": "Volkan Uca",
+          "url": "https://open.spotify.com/artist/0Qq5ObryXEZSAuOX6Ykqut"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "I Can't Be - Volkan Uca Remix",
+      "url": "https://open.spotify.com/track/0iaSDE44Xpw0nO6xExKuMF"
+    },
+    {
+      "album": {
         "name": "I Feel Love",
         "url": "https://open.spotify.com/album/228hFLATGeVTOzseVUg3uV"
       },
@@ -2785,7 +2847,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 196875,
       "name": "I Would Die For You (feat. NEVRMIND)",
       "url": "https://open.spotify.com/track/5qj4yrhqRnBUFA8UrBvCdo"
@@ -2899,7 +2961,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 250487,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/543Z89apRQXgXFj0R2yITx"
@@ -3115,7 +3177,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 163691,
       "name": "Juicy Flute",
       "url": "https://open.spotify.com/track/050Y5VPOnhoRWXN2GTQQZi"
@@ -3144,6 +3206,28 @@
     },
     {
       "album": {
+        "name": "Keep Me Around (feat. RIELL)",
+        "url": "https://open.spotify.com/album/4d9DbVBW8iWi7LqWT0K6dt"
+      },
+      "artists": [
+        {
+          "name": "GRY",
+          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
+        },
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198110,
+      "name": "Keep Me Around (feat. RIELL)",
+      "url": "https://open.spotify.com/track/4IgA4JiXJlfov90xt3omVo"
+    },
+    {
+      "album": {
         "name": "Keep On Dancing",
         "url": "https://open.spotify.com/album/3znwPAtGYz0jfQECIzB9Z2"
       },
@@ -3163,7 +3247,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 184021,
       "name": "Keep On Dancing",
       "url": "https://open.spotify.com/track/2uvgpxlSsPsYHmOVptgvWr"
@@ -4122,6 +4206,32 @@
     },
     {
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2sRQDlxevvjh2k5UotBfHy"
+      },
+      "artists": [
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "MUNZUR",
+          "url": "https://open.spotify.com/artist/7L5FIGZZIyvLD4JDDi1Nbc"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148837,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7Lk7d7nbtmqyT6GFJ4gnia"
+    },
+    {
+      "album": {
         "name": "My Mind (feat. Chacel)",
         "url": "https://open.spotify.com/album/56dO5cKAs9NdrT3uW779wl"
       },
@@ -4357,7 +4467,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 156774,
       "name": "Not Your Only One (feat. Becky Smith)",
       "url": "https://open.spotify.com/track/6KG0qI1fDqLgFf7eL7MbDq"
@@ -4749,6 +4859,24 @@
       "duration_ms": 175909,
       "name": "Play My Jam",
       "url": "https://open.spotify.com/track/4qxbNQHezyDhsVtoQmnPrw"
+    },
+    {
+      "album": {
+        "name": "Pop Like",
+        "url": "https://open.spotify.com/album/3tONEB9DrJhkEtJHqJjllc"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191112,
+      "name": "Pop Like",
+      "url": "https://open.spotify.com/track/6wMFggsnndSZepd6zXVRuz"
     },
     {
       "album": {
@@ -5144,6 +5272,28 @@
     },
     {
       "album": {
+        "name": "Same Man",
+        "url": "https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Same Man",
+      "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT"
       },
@@ -5405,7 +5555,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 142928,
       "name": "Snakes 2022",
       "url": "https://open.spotify.com/track/75bbJMLDvW4wYA6hJZkGpQ"
@@ -5497,6 +5647,24 @@
       "duration_ms": 164444,
       "name": "Somewhere (with Syn Cole)",
       "url": "https://open.spotify.com/track/53i9DQqHwjPFzHBIR5T4Q3"
+    },
+    {
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1s6eMcMkqCnqgPa9CnVzmm"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140992,
+      "name": "Soul Power",
+      "url": "https://open.spotify.com/track/2kCTL8MvQirdDltXqzBuv5"
     },
     {
       "album": {
@@ -5805,7 +5973,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 138181,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6lDWtYf106yyTHH1egFSAg"
@@ -6071,6 +6239,28 @@
       "duration_ms": 135483,
       "name": "The Club Is Jumpin'",
       "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
+    },
+    {
+      "album": {
+        "name": "The Devil You Know (feat. Micky Blue)",
+        "url": "https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Micky Blue",
+          "url": "https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "The Devil You Know (feat. Micky Blue)",
+      "url": "https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a"
     },
     {
       "album": {
@@ -6590,6 +6780,28 @@
     },
     {
       "album": {
+        "name": "Wahran (DJ Yo! Amapiano Mix)",
+        "url": "https://open.spotify.com/album/1MrBDK1giiSkEU4dARYJXc"
+      },
+      "artists": [
+        {
+          "name": "RANDALL",
+          "url": "https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr"
+        },
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Wahran - DJ Yo! Amapiano Mix",
+      "url": "https://open.spotify.com/track/1pReow33rQQUwuZBdCw4TS"
+    },
+    {
+      "album": {
         "name": "We Could Be Together (feat. Daddy DJ)",
         "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
       },
@@ -6816,6 +7028,28 @@
     },
     {
       "album": {
+        "name": "What Happens Here",
+        "url": "https://open.spotify.com/album/3y1kQEj8ApSJxWJlvSiJkv"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        },
+        {
+          "name": "DAMANTE",
+          "url": "https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138616,
+      "name": "What Happens Here",
+      "url": "https://open.spotify.com/track/5Phj9hxscqPRvHRlty5EOS"
+    },
+    {
+      "album": {
         "name": "What Ya Gonna Do",
         "url": "https://open.spotify.com/album/03g26TIOzoGnQu1skI4IbK"
       },
@@ -6831,6 +7065,28 @@
       "duration_ms": 158392,
       "name": "What Ya Gonna Do",
       "url": "https://open.spotify.com/track/1vmGV57xlWJqIFGephbSFu"
+    },
+    {
+      "album": {
+        "name": "When The Sun Is Gone (feat. RYVM)",
+        "url": "https://open.spotify.com/album/6NY31FrcTX2T0eDxFHgwNn"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "When The Sun Is Gone (feat. RYVM)",
+      "url": "https://open.spotify.com/track/6yTEcTUxWnY8RvUqR87Kpm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\.  Cover: Brett Eldredge
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,213 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,270 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 61 | [Winter Wonderland](https://open.spotify.com/track/4jbXHzjsepzaqixmuEz8r9) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Brad Paisley Christmas](https://open.spotify.com/album/1EpvicIkzXB7KM0EEmrrPh) | 3:30 |
 | 62 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3UOMKwvFdqulOff12uv3pr) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:02 |
 | 63 | [I Only Want You For Christmas](https://open.spotify.com/track/76n4IOwKqXfqbTecQcek7A) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [I Only Want You For Christmas](https://open.spotify.com/album/3Gr0io613JgAWJafV6NBdn) | 3:27 |
-| 64 | [Where Are You Christmas?](https://open.spotify.com/track/2uQyoVF3A2zqNJOtu5ubQI) | [Tigirlily](https://open.spotify.com/artist/7svOgAS4qeCt0uW0tgPckm) | [Where Are You Christmas?](https://open.spotify.com/album/3lIFUfi30FgC68vBPcFFr6) | 3:40 |
+| 64 | [Where Are You Christmas?](https://open.spotify.com/track/2uQyoVF3A2zqNJOtu5ubQI) | [Tigirlily Gold](https://open.spotify.com/artist/7svOgAS4qeCt0uW0tgPckm) | [Where Are You Christmas?](https://open.spotify.com/album/3lIFUfi30FgC68vBPcFFr6) | 3:40 |
 | 65 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 |
 | 66 | [O Come, All Ye Faithful](https://open.spotify.com/track/4l7Urm0cDWDrYyFdLxkSy3) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [O Come, All Ye Faithful](https://open.spotify.com/album/75utng9Gzb9cekZR3SLq77) | 4:04 |
 | 67 | [Home \(feat\. Michael Bublé\)](https://open.spotify.com/track/2uEVQb8FstYyxpd8Gy6ndR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 3:47 |

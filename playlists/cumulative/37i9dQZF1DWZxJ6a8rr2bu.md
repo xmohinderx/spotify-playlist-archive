@@ -4,13 +4,14 @@
 
 > A <a href="http://www.womeninmusic.org">Women in Music</a> curated list of barrier\-breaking talent impacting the music world\. Features songs from artists directly from our WIM Community \| Cover: Flo Milli
 
-41 songs - 2 hr 0 min - [published](https://open.spotify.com/playlist/6fwhtl1cWEqu4PNGxsBW0E)
+42 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/6fwhtl1cWEqu4PNGxsBW0E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2021](https://open.spotify.com/track/5KTX2DzpMC3CaOPUUqcnZS) | [Tamara Kumbula](https://open.spotify.com/artist/0UX16aLcy0oMwn4Tnnydf0), [Kalcatraz](https://open.spotify.com/artist/0KOoXNEBWvDwqcyzn400aQ) | [2021](https://open.spotify.com/album/3d2KbmqejpYTVz5YhXyyPV) | 2:33 | 2022-03-08 |  |
 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 | 2022-03-08 |  |
-| [Big Fish Theory](https://open.spotify.com/track/2ncMj2NVad6z51PD6xhp0M) | [Chrxstal Sarah](https://open.spotify.com/artist/2JZL2IaH2OajY3wO8ztidA) | [Big Fish Theory](https://open.spotify.com/album/0o1K4Ax8YryKGeNc48nrAG) | 2:35 | 2022-03-08 |  |
+| [Big Fish Theory](https://open.spotify.com/track/2ncMj2NVad6z51PD6xhp0M) | [Chrxstal Sarah](https://open.spotify.com/artist/2JZL2IaH2OajY3wO8ztidA) | [Big Fish Theory](https://open.spotify.com/album/0o1K4Ax8YryKGeNc48nrAG) | 2:35 | 2022-03-08 | 2022-10-21 |
+| [Big Fish Theory](https://open.spotify.com/track/4RKeJ1txwwNM6NKvndsbez) | [Chrxstal Sarah](https://open.spotify.com/artist/2JZL2IaH2OajY3wO8ztidA) | [Big Fish Theory](https://open.spotify.com/album/3PYGYjPc2bIcvpZrkOY4v8) | 2:35 | 2022-03-08 |  |
 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 | 2022-03-08 |  |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2022-03-08 |  |
 | [Dark Skinned](https://open.spotify.com/track/358NH6zt0bZCCqrL0bMQZ6) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Dark Skinned](https://open.spotify.com/album/1SR9fPVtVwQ37dryvXAowV) | 3:00 | 2022-03-08 |  |

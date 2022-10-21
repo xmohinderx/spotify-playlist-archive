@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,709 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,749 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 69 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 70 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 |
 | 71 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 72 | [Homicide](https://open.spotify.com/track/3bMkX7fBy3yTmZVKY8ko6B) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Homicide](https://open.spotify.com/album/10voDa9fbZTOyzhEg5mw2T) | 2:49 |
+| 72 | [Homicide](https://open.spotify.com/track/76aBnnUC1ksgbDeuAw0dbK) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Homicide](https://open.spotify.com/album/4BTmM11yHK9nhriAQ0uztQ) | 2:49 |
 | 73 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 |
 | 74 | [Invisible](https://open.spotify.com/track/0YTd0e23mpFKNXd9JA9OBv) | [Ryder James](https://open.spotify.com/artist/2DaMc4JNZLk2qPRDNXIk6Q) | [Invisible](https://open.spotify.com/album/32O1iaeWbvtXX9JTYmhkOA) | 3:20 |
 | 75 | [WAKEUPNEXT2U](https://open.spotify.com/track/0QQIwU7QxB2lfXYvm3JA4A) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [WAKEUPNEXT2U](https://open.spotify.com/album/2yiE8oVwt7RNsVEg9IQdAz) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [EMPATHY](https://open.spotify.com/track/5csiTZbWuNHlU6kkqElpad) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7dwjYiomQezxXA6Gwd0fUE) | 3:15 |
 | 100 | [See Me Now](https://open.spotify.com/track/4DqxKIhAKHwiHk5WwBbXzU) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [See Me Now](https://open.spotify.com/album/60SPKbQofyJ9aqlWe6ugHr) | 3:04 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGJkN2MxNDcxZjFlMmJkZmZiZTEzMGRkY2U5MjBiY2Ez`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGU4M2MzNjU4OTNiNWQ1YjhiYzI1ZmNlMjNkZGM2NTQw`

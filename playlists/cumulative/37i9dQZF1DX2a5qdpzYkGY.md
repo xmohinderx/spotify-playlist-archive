@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-193 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+194 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 | 2022-05-18 |  |
 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 | 2022-09-15 |  |
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2022-10-01 |  |
-| [Chameleon](https://open.spotify.com/track/5Ib3iCORnC0QBjNpkVnUva) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO) | 4:59 | 2021-10-06 | 2022-10-20 |
+| [Chameleon](https://open.spotify.com/track/5Ib3iCORnC0QBjNpkVnUva) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO) | 4:59 | 2021-10-06 |  |
 | [Chameleon](https://open.spotify.com/track/6WX84e2SacFICy3HoWjYaH) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 4:59 | 2021-10-06 | 2022-09-15 |
 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2021-10-06 |  |
 | [Charlier](https://open.spotify.com/track/55ZzaH20npWGDLevSLWSWJ) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Charlier](https://open.spotify.com/album/1GdfpqOYJGO0QONj1ccSyD) | 3:51 | 2021-10-06 | 2022-07-29 |
@@ -66,7 +66,8 @@
 | [En Plein Air](https://open.spotify.com/track/0WpKHdlpxAiyHlbGyXz8s7) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Natura Morta](https://open.spotify.com/album/2id7gpZfzmQYQRymRazBpQ) | 2:42 | 2021-10-06 |  |
 | [Enter \(Reworked\)](https://open.spotify.com/track/4sKhjrm1dht7ZYelxwoIws) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [2020 Reworked](https://open.spotify.com/album/3HmI6KMwS5to2IzuQUW1mm) | 3:28 | 2022-01-07 | 2022-07-29 |
 | [Entropy](https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b) | 4:49 | 2022-01-07 |  |
-| [Enviada](https://open.spotify.com/track/48uTgKxNsCGG4LZc2gk1Iz) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Enviada](https://open.spotify.com/album/6fTRT9hUtP1tmLpDKdfcA6) | 4:03 | 2022-09-29 |  |
+| [Enviada](https://open.spotify.com/track/48uTgKxNsCGG4LZc2gk1Iz) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Enviada](https://open.spotify.com/album/6fTRT9hUtP1tmLpDKdfcA6) | 4:03 | 2022-09-29 | 2022-10-21 |
+| [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 | 2022-09-29 |  |
 | [Exile on Ærø](https://open.spotify.com/track/09SB3jpDTJfA1NRnmce5G5) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Exile on Ærø](https://open.spotify.com/album/2t7ONVWjlbhga1TPLj2q1t) | 4:25 | 2022-05-24 | 2022-07-29 |
 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 | 2022-05-24 |  |
 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 | 2022-05-24 | 2022-09-06 |
@@ -94,7 +95,7 @@
 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 | 2021-10-06 | 2022-09-01 |
 | [In Select Everlight](https://open.spotify.com/track/3WwqIyIL1LinO784i5CyGv) | [G.S\. Schray](https://open.spotify.com/artist/4PQMNbMO9wHRTui4lIi57z) | [The Changing Account](https://open.spotify.com/album/2y04cN2fakdqvC0kfFfUhs) | 4:17 | 2021-10-06 | 2022-07-29 |
 | [Innumerabilia](https://open.spotify.com/track/2Ps9LDSSSdXcnNX7cLpMXK) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Sunbathing Through A Glass Screen](https://open.spotify.com/album/73m26m4c0E7EH40WKUdPNz) | 4:56 | 2021-10-06 | 2022-07-29 |
-| [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 |  |
+| [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 | 2022-10-21 |
 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 | 2021-10-06 |  |
 | [Just Wrong](https://open.spotify.com/track/20B96sgEcofUFcwtvWxXfK) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Just Wrong](https://open.spotify.com/album/17YsrMtHDv5KmqLWeqcAVd) | 4:44 | 2021-10-06 | 2022-09-19 |
 | [Kandaiki](https://open.spotify.com/track/1jsnIb8rHk5GgsN3oUNB6O) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/5yelbd379vJVsYZH2A9yYF) | 5:15 | 2021-10-06 |  |

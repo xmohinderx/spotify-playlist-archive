@@ -4,7 +4,7 @@
 
 > We hear you.
 
-495 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+496 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-04-01 | 2022-07-20 |
 | [Free With You](https://open.spotify.com/track/37KYM3zuGyozpEwDuO2OVw) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Free With You](https://open.spotify.com/album/1MXwnwrBqGVgu9UsnqLnLl) | 2:48 | 2021-04-02 | 2022-04-16 |
 | [Friends](https://open.spotify.com/track/0q0fJWjbiK5DSKCSN1GKsK) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/2ylgkcYanTrAeBdqQSSDBE) | 3:06 | 2021-04-02 | 2022-04-21 |
+| [Friends Don't Keep Secrets](https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Friends Don't Keep Secrets](https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr) | 2:10 | 2022-10-14 |  |
 | [From Me, the Moon](https://open.spotify.com/track/0gDKiMAurqJFzRKEKUOVbE) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [From Me, the Moon](https://open.spotify.com/album/0IE0MxJKt1oM6YeXsg5mLN) | 3:55 | 2021-04-02 | 2022-04-20 |
 | [fuckboy](https://open.spotify.com/track/7bHPn0RHLGSuR4PWiLsMiR) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [fuckboy](https://open.spotify.com/album/0ZKTeYihwEGqJsYxbIA7Zs) | 2:37 | 2021-04-02 | 2022-06-16 |
 | [FUNERAL](https://open.spotify.com/track/37UUsGW1KK3Cindm8Rqlu9) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FUNERAL](https://open.spotify.com/album/7gI0fMPJM42rMt5TWZwEyA) | 3:53 | 2022-01-27 | 2022-05-22 |
@@ -294,7 +295,7 @@
 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 | 2021-04-02 | 2022-07-28 |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2022-10-14 |  |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2021-10-08 | 2022-10-13 |
-| [Meant to Be](https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx) | 1:50 | 2022-07-15 |  |
+| [Meant to Be](https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx) | 1:50 | 2022-07-15 | 2022-10-21 |
 | [Meant to Be](https://open.spotify.com/track/45FYSVH7wTmZuOhsAB9YPI) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/5E53mh8xDf1jICNTfHmquE) | 1:50 | 2021-04-02 | 2022-06-27 |
 | [Michelle](https://open.spotify.com/track/3sa1wUB8FAkoH95MGPGBWI) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Michelle](https://open.spotify.com/album/4TEkdmWgOV6ys0LJjcpAiV) | 3:34 | 2021-04-02 | 2022-04-21 |
 | [Middle Man](https://open.spotify.com/track/2if8XzDccK6q3e6NBCxj1o) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Middle Man](https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD) | 2:58 | 2022-03-23 | 2022-04-18 |

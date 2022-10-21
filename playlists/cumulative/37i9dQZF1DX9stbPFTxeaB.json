@@ -881,7 +881,7 @@
     {
       "album": {
         "name": "New World Arisin'",
-        "url": "https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj"
+        "url": "https://open.spotify.com/album/2Kf2bhjzeCBhv2oT7ErMD4"
       },
       "artists": [
         {
@@ -892,6 +892,24 @@
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231760,
+      "name": "Long Coal Train",
+      "url": "https://open.spotify.com/track/0S9mn8M7ZTfwXxPLxsdLOJ"
+    },
+    {
+      "album": {
+        "name": "New World Arisin'",
+        "url": "https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj"
+      },
+      "artists": [
+        {
+          "name": "Big Head Todd and The Monsters",
+          "url": "https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
       "duration_ms": 231760,
       "name": "Long Coal Train",
       "url": "https://open.spotify.com/track/2geemXTDk9V6Dazk9RyCfw"

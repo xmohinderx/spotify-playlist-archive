@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,064 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,096 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 59 | [Johanna \(From "Sweeney Todd 2012 London Cast Recording"\)](https://open.spotify.com/track/3G87kJWKE9ZLgGvheG3V4d) | [Luke Brady](https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng) | [Sweeney Todd \(The 2012 London Cast Recording\)](https://open.spotify.com/album/23MgjBTkvG44KQ9u6mX456) | 1:58 |
 | 60 | [It Only Takes a Moment](https://open.spotify.com/track/3NbAGwqTdqR1iFQxFeYSl1) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa), [Gavin Creel](https://open.spotify.com/artist/1jYpJw3SwzAvRKqmGQalrm), [Hello, Dolly! Ensemble \(2017\)](https://open.spotify.com/artist/5N5nt5smNdmXFhkoePG5Lv) | [Hello, Dolly! \(New Broadway Cast Recording\)](https://open.spotify.com/album/3qhwBPlrGTFOmsLRhnnc6t) | 3:12 |
 | 61 | [On the Street Where You Live](https://open.spotify.com/track/6vt39YXHTwUkEVjJsztr6x) | [Jordan Donica](https://open.spotify.com/artist/2NrfAs6msmsiqK4LPxb3sR), [Linda Mugleston](https://open.spotify.com/artist/2XNH9AdvUwkRQ4Njg8C4WD) | [My Fair Lady \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/51698aTAgp4hUSqBc6dima) | 3:53 |
-| 62 | [I'd Rather Be Sailing](https://open.spotify.com/track/2UiBDVEGAWTEvas95hjdwL) | [Aaron Lazar](https://open.spotify.com/artist/6ETQCRI940NdLTF9wqAZhh), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [A New Brain \(2015 New York Cast Recording\)](https://open.spotify.com/album/6vsRhoxMNFQBUhRIZ3Ocr9) | 3:02 |
-| 63 | [I Could Have Danced All Night](https://open.spotify.com/track/1r834EF69ac3n4roRFX0fm) | [Lauren Ambrose](https://open.spotify.com/artist/3A0KDCVy46KwrkFz5Xivnz), [Linda Mugleston](https://open.spotify.com/artist/2XNH9AdvUwkRQ4Njg8C4WD), [My Fair Lady Ensemble](https://open.spotify.com/artist/3RXldiyYG9Lg67lrbf4RqO) | [My Fair Lady \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/51698aTAgp4hUSqBc6dima) | 3:48 |
+| 62 | [I Could Have Danced All Night](https://open.spotify.com/track/1r834EF69ac3n4roRFX0fm) | [Lauren Ambrose](https://open.spotify.com/artist/3A0KDCVy46KwrkFz5Xivnz), [Linda Mugleston](https://open.spotify.com/artist/2XNH9AdvUwkRQ4Njg8C4WD), [My Fair Lady Ensemble](https://open.spotify.com/artist/3RXldiyYG9Lg67lrbf4RqO) | [My Fair Lady \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/51698aTAgp4hUSqBc6dima) | 3:48 |
+| 63 | [I'd Rather Be Sailing](https://open.spotify.com/track/2UiBDVEGAWTEvas95hjdwL) | [Aaron Lazar](https://open.spotify.com/artist/6ETQCRI940NdLTF9wqAZhh), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [A New Brain \(2015 New York Cast Recording\)](https://open.spotify.com/album/6vsRhoxMNFQBUhRIZ3Ocr9) | 3:02 |
 | 64 | [Unworthy of Your Love](https://open.spotify.com/track/6fnMAKwPMYt1F204YW6rGu) | [Greg Germann](https://open.spotify.com/artist/57aHcccTKIBihdbiIBaWr1), [Annie Golden](https://open.spotify.com/artist/0zZCudK3BJR5TxxexmPTT6) | [Assassins \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2YhmmaSqQpHrx1XmVW3TpV) | 3:31 |
 | 65 | [Three Little Words](https://open.spotify.com/track/0UJxiPj0fSk91EKZX2FNZl) | [Original Cast Recording](https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw) | [Ghost \- The Musical](https://open.spotify.com/album/0KUHaO8OBXXvyrag5kxdF5) | 3:40 |
 | 66 | [You Walk with Me](https://open.spotify.com/track/1kwrtoiuvnRAn1vg34pTyV) | [Jason Danieley](https://open.spotify.com/artist/0WZeAgkdC5N2uTCrTBUttb), [Romain Frugé](https://open.spotify.com/artist/20fhOCaUNLHcUXia9ysfHT) | [The Full Monty \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ryQjSxXsdtphq71mCKf9z) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 69 | [I'll Be Here](https://open.spotify.com/track/6BmTGKJDphlIUEwGTUVBIG) | [Taye Diggs](https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT) | [The Wild Party \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/4XKzW9Ykl81o6LnAR12xkc) | 2:33 |
 | 70 | [Unusual Way](https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Nine: The Musical \(New Broadway Cast Recording\)](https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe) | 5:00 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDgyYTcxMDVkMThiYzcwNTljOTA0MTk1ZTI1YmIzZjVi`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDRlZjhiMjM3ZWFlMWZiMDYxYWVlZTJhYjc5NTc5Yjkz`

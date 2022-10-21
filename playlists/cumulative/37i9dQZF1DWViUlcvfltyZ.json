@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: M\u00e5neskin",
+  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: Gazebo Penguins",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 249626,
       "name": "around my neck",
       "url": "https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 202213,
       "name": "Canzone 9",
       "url": "https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b"
@@ -1189,6 +1189,24 @@
     {
       "album": {
         "name": "Fiesta",
+        "url": "https://open.spotify.com/album/0YVnkqNYaSrz2YFffWz2BG"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186580,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/1PMoaqAqVRQdZuBzACqcPw"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
         "url": "https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp"
       },
       "artists": [
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 186580,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV"
@@ -2020,6 +2038,32 @@
     },
     {
       "album": {
+        "name": "Lucida",
+        "url": "https://open.spotify.com/album/7oGLgcoV0yrJJACgWZsKZZ"
+      },
+      "artists": [
+        {
+          "name": "RAGAZZAcd",
+          "url": "https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp"
+        },
+        {
+          "name": "Alessandro Baronciani",
+          "url": "https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u"
+        },
+        {
+          "name": "Giungla",
+          "url": "https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212955,
+      "name": "Lucida",
+      "url": "https://open.spotify.com/track/4qR3eEUxdJWsV47UM1xlzs"
+    },
+    {
+      "album": {
         "name": "Book Of Hate For Good People",
         "url": "https://open.spotify.com/album/4gr5qXeIHW3uRpYvqBbYSo"
       },
@@ -2053,6 +2097,24 @@
       "duration_ms": 200518,
       "name": "Matador",
       "url": "https://open.spotify.com/track/5g0aCS1VkUjInpKZJ5sqZw"
+    },
+    {
+      "album": {
+        "name": "Matilde",
+        "url": "https://open.spotify.com/album/1jiH9g4LEdeyBK4eGyXZKa"
+      },
+      "artists": [
+        {
+          "name": "Le Larve",
+          "url": "https://open.spotify.com/artist/27NQeT6snHm4r7ksireZOI"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175625,
+      "name": "Matilde",
+      "url": "https://open.spotify.com/track/3rNc1D4Jc2N5idptQxURFa"
     },
     {
       "album": {
@@ -2165,7 +2227,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 218146,
       "name": "My Best",
       "url": "https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd"
@@ -2205,6 +2267,28 @@
       "duration_ms": 204610,
       "name": "Neanche un'ora sveglio",
       "url": "https://open.spotify.com/track/5uIlaWEQjpztXgax3dhUWs"
+    },
+    {
+      "album": {
+        "name": "Non ci avranno mai",
+        "url": "https://open.spotify.com/album/2uaDhcy5ty67ZrISRt3cFr"
+      },
+      "artists": [
+        {
+          "name": "Il Corpo Docenti",
+          "url": "https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p"
+        },
+        {
+          "name": "Uolfgang",
+          "url": "https://open.spotify.com/artist/2XltGObUBQdNTkAFIR0Av4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150366,
+      "name": "Non ci avranno mai",
+      "url": "https://open.spotify.com/track/69rYYzgRz9STrOZ7aARRLY"
     },
     {
       "album": {
@@ -2259,6 +2343,24 @@
       "duration_ms": 168705,
       "name": "Noon",
       "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
+    },
+    {
+      "album": {
+        "name": "Nubifragio",
+        "url": "https://open.spotify.com/album/5L9oWRa76veQN7AFo0KQhX"
+      },
+      "artists": [
+        {
+          "name": "Gazebo Penguins",
+          "url": "https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231613,
+      "name": "Nubifragio",
+      "url": "https://open.spotify.com/track/2I3pXS5CzCm8sfgdMJYaTQ"
     },
     {
       "album": {
@@ -2497,6 +2599,24 @@
       "duration_ms": 212526,
       "name": "Prigionia",
       "url": "https://open.spotify.com/track/1zAim4kAlqGntjUw6P6Sov"
+    },
+    {
+      "album": {
+        "name": "Monstrum",
+        "url": "https://open.spotify.com/album/0vKnHM72zHmy0NONDrls5i"
+      },
+      "artists": [
+        {
+          "name": "Il Giardino Degli Specchi",
+          "url": "https://open.spotify.com/artist/20ftPqYNYr79uuQF6XfWA6"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313060,
+      "name": "Pripyat",
+      "url": "https://open.spotify.com/track/4nj2V5hIvuDqC3naDe6JA2"
     },
     {
       "album": {
@@ -3011,7 +3131,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 187510,
       "name": "Storia",
       "url": "https://open.spotify.com/track/0iqB0jQVH03FWjvoKcQkJg"

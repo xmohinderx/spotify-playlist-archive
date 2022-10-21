@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 317098,
+  "num_followers": 317147,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDNkNGE1NjAxODhiOTEyYmY5NGZiOTFlODU3NDYzNTQ5",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDgzZGQzNDU4MTNiMGQzOTcwMjg4MWI5NGY0NzI1MTNl",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "In Breath",
-        "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
-      },
-      "artists": [
-        {
-          "name": "Luke Gajdus",
-          "url": "https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Ephemera",
-      "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Ave",
         "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 128000,
       "name": "Ave",
       "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "In Breath",
+        "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
+      },
+      "artists": [
+        {
+          "name": "Luke Gajdus",
+          "url": "https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Quintessence",
-        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 102515,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -936,7 +936,7 @@
       "added_at": "2022-09-20 13:39:53",
       "album": {
         "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 130459,
-      "name": "poetry in touch",
-      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1120,7 +1120,7 @@
       "added_at": "2022-09-20 13:39:53",
       "album": {
         "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+        "name": "night walk",
+        "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
       },
       "artists": [
         {
-          "name": "The Masked Pianoman",
-          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+          "name": "Vontmer",
+          "url": "https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI"
         }
       ],
-      "duration_ms": 129209,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
+      "duration_ms": 194517,
+      "name": "night walk",
+      "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
     },
     {
       "added_at": "2022-09-20 13:39:53",

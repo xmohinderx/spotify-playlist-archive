@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dance Gavin Dance
 
-552 songs - 2 day 0 hr 9 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+553 songs - 2 day 0 hr 14 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Abandoned](https://open.spotify.com/track/72VhOwh87q8c5RBoI10q73) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Abandoned](https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI) | 5:27 | 2022-07-13 |  |
 | [Abomination](https://open.spotify.com/track/41qbzmASxiYV8zgpkt2O9g) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Obsidian](https://open.spotify.com/album/6QRURYmqe56BojUuWgTpX6) | 4:10 | 2022-04-22 |  |
 | [Above Inhumanity](https://open.spotify.com/track/1h1d89D976cZnLidtSw4SM) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [Above Inhumanity](https://open.spotify.com/album/2wwjBIvFRXDExM2hwabGU7) | 4:33 | 2021-12-17 | 2022-07-29 |
+| [Above Inhumanity](https://open.spotify.com/track/53GitIARlTjjskpBOarbnO) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [SOMA SEMA](https://open.spotify.com/album/6DaAgBz5ypKXg7QZEF8xMU) | 4:33 | 2022-10-07 |  |
 | [Abyss](https://open.spotify.com/track/6ovlhMH6yaDcEUyM2Ggfxv) | [Atomic Symphony](https://open.spotify.com/artist/3LX11DL1d2GULjP82kQJ7p) | [Redemption](https://open.spotify.com/album/4BVIM7wC2uahNAOjMwc0ha) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [ACCELERATOR](https://open.spotify.com/track/0dccQvzPhrZJvU8mmHbGuR) | [Pain of Salvation](https://open.spotify.com/artist/1uRpg2s2jNaxbmoNiJDGfd) | [ACCELERATOR](https://open.spotify.com/album/0MGMdmteGofN9WXxc7sPt8) | 5:31 | 2021-12-17 | 2022-07-29 |
 | [Acid Rain](https://open.spotify.com/track/7D1wLtyGaUppoqMleM6VqT) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v), [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1), [Mike Portnoy](https://open.spotify.com/artist/0tXHekFgHjeLensP3Uf2b9), [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH), [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Liquid Tension Experiment 2](https://open.spotify.com/album/25JdFEbKXocMQyJdlBzD5d) | 6:36 | 2021-12-17 | 2022-01-29 |
@@ -64,7 +65,7 @@
 | [Blind Lead the Blind \- Instrumental](https://open.spotify.com/track/6VuJjoD1aYAgiXCVnE3EWb) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Blind Lead the Blind](https://open.spotify.com/album/2V7CF3U5UTrmbB6AoZOEiW) | 2:53 | 2022-07-13 | 2022-07-31 |
 | [Blind Me](https://open.spotify.com/track/2TKD4Yy8HvVqfLCTkM8BYV) | [For All We Know](https://open.spotify.com/artist/7MLlLV2nHeD1PDjGRNpqfV) | [For All We Know](https://open.spotify.com/album/0jkOvjIAH0ny7cSfCSrWD5) | 4:08 | 2021-12-17 | 2022-01-25 |
 | [Blindfolded](https://open.spotify.com/track/5ZUl1TfNTIppUKzLIUsLma) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Blindfolded](https://open.spotify.com/album/2SeDZbNzFiHvFTMhCrYIgh) | 4:13 | 2022-04-29 | 2022-05-21 |
-| [Blood Eagle](https://open.spotify.com/track/76ZcAxDSaB8UIcY3cfC1zv) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/4b8Wu8BFcryfjXnVI5tTU0) | 5:58 | 2022-07-13 |  |
+| [Blood Eagle](https://open.spotify.com/track/76ZcAxDSaB8UIcY3cfC1zv) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/4b8Wu8BFcryfjXnVI5tTU0) | 5:58 | 2022-07-13 | 2022-10-21 |
 | [Blood Eagle](https://open.spotify.com/track/77Dj9s0W077FDWgEUpzQhu) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Blood Eagle](https://open.spotify.com/album/3ewFn7Jr3XY7qidzb3ImVd) | 5:58 | 2022-07-13 | 2022-07-27 |
 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 | 2021-12-17 |  |
 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 | 2022-02-11 |  |

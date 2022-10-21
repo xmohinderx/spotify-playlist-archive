@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "A Night Out",
+        "url": "https://open.spotify.com/album/3pf8npoEpia2ddbJGF4dH1"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Underground",
+          "url": "https://open.spotify.com/artist/4WyvUTY8OXpek6GksJh8wl"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89600,
+      "name": "A Night Out",
+      "url": "https://open.spotify.com/track/1boAUmAbD0w5fkMn8HYEYu"
+    },
+    {
+      "album": {
         "name": "A Noite",
         "url": "https://open.spotify.com/album/5EYUC5jzo0MC8XU8p6df7H"
       },
@@ -17486,6 +17504,24 @@
     },
     {
       "album": {
+        "name": "Flat",
+        "url": "https://open.spotify.com/album/03IQreElOwScF3E5Tt8z96"
+      },
+      "artists": [
+        {
+          "name": "Philphonic",
+          "url": "https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172009,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/4Lxh3lRm24bFhsmQyQsRMe"
+    },
+    {
+      "album": {
         "name": "Flava In Ya Ear",
         "url": "https://open.spotify.com/album/3wEQx78nfcmoSty7Clv7XA"
       },
@@ -28727,7 +28763,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 148267,
       "name": "Lazy Sunday Jazz",
       "url": "https://open.spotify.com/track/3BhVabAMobIIhp2NlDc9hn"
@@ -39725,7 +39761,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 102009,
       "name": "Pangea",
       "url": "https://open.spotify.com/track/3WBYqPLJjBxGYMDHjpGS6C"

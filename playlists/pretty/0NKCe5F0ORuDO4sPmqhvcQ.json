@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwMjAsNDRmZjJhOTM2OWZiYjQ3ODZhMzAwMzk4OWRlZTdlZWYwZGM5YTA1OQ==",
+  "snapshot_id": "MTAwMjEsYzU1NjJhNTYzN2IwNDkzMWEyNmE4MzUzMDNkYTg4OTI5ZTBmMzUyNA==",
   "tracks": [
     {
       "added_at": "2022-10-14 16:55:26",
@@ -2139,6 +2139,22 @@
       "duration_ms": 193548,
       "name": "Spirit On Mine - feat. Luck",
       "url": "https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE"
+    },
+    {
+      "added_at": "2022-10-20 01:53:00",
+      "album": {
+        "name": "Joan",
+        "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Joan",
+      "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
     }
   ],
   "unique_name": "Moving Castle Monthly",

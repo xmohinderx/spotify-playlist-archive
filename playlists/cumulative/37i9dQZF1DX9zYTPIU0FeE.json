@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui-WWOzA\">The Brother Moves On</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ\">Xhanthi Nokwali</a> ",
   "name": "Jazz NXT",
   "published_playlist_ids": [
     "0ANwIIMXAUMCahITjRSDWI"
@@ -860,6 +860,24 @@
     },
     {
       "album": {
+        "name": "Intlokomo",
+        "url": "https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG"
+      },
+      "artists": [
+        {
+          "name": "Xhanti Nokwali",
+          "url": "https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418785,
+      "name": "Intlokomo",
+      "url": "https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du"
+    },
+    {
+      "album": {
         "name": "Finish The Sun",
         "url": "https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD"
       },
@@ -937,6 +955,24 @@
       "duration_ms": 403741,
       "name": "Komani",
       "url": "https://open.spotify.com/track/20493T1klNTt4VFVIQFosr"
+    },
+    {
+      "album": {
+        "name": "Umthombo",
+        "url": "https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV"
+      },
+      "artists": [
+        {
+          "name": "Xhanti Nokwali",
+          "url": "https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389939,
+      "name": "Konakele",
+      "url": "https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9"
     },
     {
       "album": {

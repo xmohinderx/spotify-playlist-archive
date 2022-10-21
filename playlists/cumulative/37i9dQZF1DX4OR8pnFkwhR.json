@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Dekoboko",
+        "url": "https://open.spotify.com/album/3ZpHQYtjqNJcdoRa1c0Yiv"
+      },
+      "artists": [
+        {
+          "name": "monje",
+          "url": "https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "Dekoboko",
+      "url": "https://open.spotify.com/track/4wgl4FI8jkDYmXO2LP5RMx"
+    },
+    {
+      "album": {
         "name": "TIME TO SHINE",
         "url": "https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK"
       },
@@ -4957,6 +4975,24 @@
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+    },
+    {
+      "album": {
+        "name": "yurari",
+        "url": "https://open.spotify.com/album/4GDsYeXUrL7rGXcc42OnfU"
+      },
+      "artists": [
+        {
+          "name": "Quw",
+          "url": "https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "yurari",
+      "url": "https://open.spotify.com/track/65eOpQXaCOmtC5qkSZBdnW"
     },
     {
       "album": {

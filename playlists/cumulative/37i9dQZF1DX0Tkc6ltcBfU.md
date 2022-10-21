@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Finesse2tymes
 
-445 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+446 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,8 @@
 | [Shackles to Diamonds](https://open.spotify.com/track/5e3gWKvlWtGLy5wh7tg1KY) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Teaser](https://open.spotify.com/album/01aYWhU8KqQKOEKAzFrUOm) | 2:56 | 2022-03-18 | 2022-04-29 |
 | [Shake Em Off \(feat\. Babyface Ray\)](https://open.spotify.com/track/7JkFYCGtKLrpXMkLuzGCfh) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Truth Season: The United Streets of America](https://open.spotify.com/album/2fdB12wI8rq06FOkwz2YRc) | 3:22 | 2022-02-11 | 2022-03-26 |
 | [She Luv Me](https://open.spotify.com/track/7FVLHsRf12tO36rfeD2mXr) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [She Luv Me](https://open.spotify.com/album/3WtDxiYCu5F2fLaSinmpgF) | 2:02 | 2022-02-11 | 2022-04-02 |
-| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-09 |  |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-09 | 2022-10-21 |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-09-09 |  |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-24 | 2022-07-16 |
 | [Silent \(feat\. Blac Youngsta\)](https://open.spotify.com/track/5A8KtfonuRHv6EHr5Ofekq) | [Unfoonk](https://open.spotify.com/artist/2f6hqWBFjqS1EUHMS1JOFB), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Silent \(feat\. Blac Youngsta\)](https://open.spotify.com/album/2GyvzytHS3KJ3E9HZmtViD) | 2:27 | 2021-12-17 | 2022-01-08 |
 | [SIN \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/0NtyaNXukC4yLz00xhLcCp) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Trick City \(Extended\)](https://open.spotify.com/album/5dnlF1iZDxqv0btALnQvqE) | 2:29 | 2022-09-30 |  |

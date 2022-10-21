@@ -4,7 +4,7 @@
 
 > Los sonidos de Belén.
 
-141 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+142 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Este Es Mi Año](https://open.spotify.com/track/7iCUX9L2e5kIo0TvOkbeRb) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Es Navidad](https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H) | 3:17 | 2021-12-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/2hdJtqzOWv1nW7rWF0qZfU) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Christmas](https://open.spotify.com/album/645ozutUaH38FjkWojIaFk) | 3:03 | 2021-12-24 | 2022-07-29 |
 | [Feliz Navidad](https://open.spotify.com/track/7jqWEJ1ntANspPX7rgUObr) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Christmas](https://open.spotify.com/album/1WrFOvNRLq3A6NqpL9yfEn) | 3:03 | 2021-12-24 |  |
-| [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 | 2021-12-24 |  |
+| [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 | 2021-12-24 | 2022-10-21 |
+| [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 | 2021-12-24 |  |
 | [Gloria En Las Alturas](https://open.spotify.com/track/1NJv6N1KYgXqEdigbltaQl) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:00 | 2021-12-24 |  |
 | [Gloria En Las Alturas](https://open.spotify.com/track/3lNc3Z1Lei2yQ1NMzFARMi) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:00 | 2021-12-24 | 2022-07-29 |
 | [Hosanna \- Nació el Salvador](https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Hosanna \(Nació el Salvador\)](https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy) | 3:53 | 2021-12-24 |  |

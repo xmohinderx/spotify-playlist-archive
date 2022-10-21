@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 177842,
+  "num_followers": 177935,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMGY0NmM3NTNiODFlMzQ5Yjk3MjNiMmU4YmU3ZDAxNTI2",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMGIyYjFkZjY0NmNkNTk2YTgyNmYwNzA0ZTViYzkwZWIx",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "duration_ms": 195558,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Thugs",
         "url": "https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 217142,
       "name": "Hard Baller",
       "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 195558,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
     },
     {
       "added_at": "2022-09-23 15:03:03",

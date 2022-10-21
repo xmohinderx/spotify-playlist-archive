@@ -2,9 +2,9 @@
 
 ### [Belgo\-Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXdynNwVeJMs)
 
-> Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
+> Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-122 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+123 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Absolution of a French Fry](https://open.spotify.com/track/2zab7PHAybogB0HTOkUAxv) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 5:31 | 2022-09-15 |  |
 | [Absolution of a French Fry](https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Absolution Of A French Fry](https://open.spotify.com/album/1hzmwwYPpyNSXJ87K9PrQX) | 5:31 | 2022-09-08 | 2022-09-25 |
 | [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 |  |
+| [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 | 2022-10-20 |  |
 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 | 2022-09-08 |  |
 | [An Arp in Tunisia](https://open.spotify.com/track/13GMwEv7D26ltljKaWoHoV) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 4:34 | 2022-09-29 |  |
 | [An Arp in Tunisia](https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 4:34 | 2022-09-08 | 2022-10-02 |

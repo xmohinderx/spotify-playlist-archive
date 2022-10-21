@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Elect the Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz"
+      },
+      "artists": [
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Empty Walls",
+      "url": "https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m"
+    },
+    {
+      "album": {
         "name": "Enemies",
         "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
       },
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 202838,
       "name": "Movies",
       "url": "https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT"

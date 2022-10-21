@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:LEE CHANHYUK\(이찬혁\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,485 likes - 406 songs - 23 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,628 likes - 406 songs - 23 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 10 | [With You](https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Mental Coach Jegal, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5fcdcwpZpn3LBTNHXQcMgh) | 3:09 |
 | 11 | [HIGH FIVE](https://open.spotify.com/track/0Wgt6BQyPHOz9uqXFUKzj4) | [DanJerous](https://open.spotify.com/artist/3EJKyukc1SHQBvdZEVb1dx) | [HIGH FIVE](https://open.spotify.com/album/49xXhS6udfuKKbpsY7EahD) | 3:02 |
 | 12 | [2022 영등포](https://open.spotify.com/track/5jd8Wfz0TDW1gbYqBXmZIR) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [2022 영등포](https://open.spotify.com/album/72H3VJ137uGZVZ5xFKggXj) | 2:29 |
-| 13 | [Pandilla](https://open.spotify.com/track/4Pj1dst4iDwGCYsYxm5X4r) | [JENNA SUHL](https://open.spotify.com/artist/04oBqtAI20Od3heQFBowaH) | [BRAT](https://open.spotify.com/album/3lHfVs7dsuxQRF51fu7w6f) | 3:12 |
+| 13 | [Pandilla](https://open.spotify.com/track/4Pj1dst4iDwGCYsYxm5X4r) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [BRAT](https://open.spotify.com/album/3lHfVs7dsuxQRF51fu7w6f) | 3:12 |
 | 14 | [500억 \(50 Milli\) \(feat\. Don Mills\)](https://open.spotify.com/track/5Z2uo65TBhhrzAFP1Fn9cz) | [44MAGNUMB](https://open.spotify.com/artist/66u2mp8mtMEOUH2TWWr98O), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [500억 \(50 Milli\) \(feat\. Don Mills\)](https://open.spotify.com/album/2zhV1CVKTKbYWrMOsoSEdg) | 2:32 |
 | 15 | [RINGING](https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn) | [Mi Joo Lee](https://open.spotify.com/artist/0aATviqzHMSQHDengVEH74) | [Cheer Up \(Original Soundtrack Part.3\)](https://open.spotify.com/album/5ycHYSK1rnY4YDCPGczxYH) | 3:31 |
 | 16 | [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 |

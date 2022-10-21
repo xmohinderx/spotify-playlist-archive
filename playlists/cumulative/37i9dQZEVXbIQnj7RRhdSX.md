@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-943 songs - 2 day 0 hr 26 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+944 songs - 2 day 0 hr 28 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Hustle](https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:36 | 2022-06-04 | 2022-06-06 |
 | [hype](https://open.spotify.com/track/4FipWtfZ60Q7unvzHrcSMZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [hype](https://open.spotify.com/album/51W8AL5xZAydRYxoTMU0xr) | 2:53 | 2021-05-15 | 2021-06-06 |
 | [hype](https://open.spotify.com/track/5TpiEQwR25UTdvIGh6Zdz1) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [hype](https://open.spotify.com/album/5b4P4B4k2DE8GLCuidczVT) | 2:53 | 2021-03-30 | 2021-05-15 |
+| [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-10-20 |  |
 | [I can fly](https://open.spotify.com/track/1cNIztmmKX7L8hrmV9cUz1) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dolce vita](https://open.spotify.com/album/10ysCPqsSLVv3SBqGbLaHS) | 3:18 | 2021-06-13 | 2021-06-14 |
 | [I love you baby](https://open.spotify.com/track/1v9ABGLSpdhPDEWyQ10NFD) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [Mediterraneo](https://open.spotify.com/album/2PPHtMDuk5L0lMdxuXkn5w) | 3:32 | 2022-04-19 | 2022-09-27 |
 | [I soldi degli altri \(feat\. Jake La Furia & Montenero\)](https://open.spotify.com/track/2ll2BFFW0QbQJ5MGhAXZr2) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Montenero](https://open.spotify.com/artist/5oGHd7AZ8Sr05S5MP5SnYC) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:56 | 2021-07-25 | 2021-07-26 |
@@ -846,7 +847,7 @@
 | [TARANTELLE](https://open.spotify.com/track/29DqUutD7L3OEy3Og8Yyss) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [TARANTELLE](https://open.spotify.com/album/0rN3nLra0OmI3Z7gA5d6YU) | 2:08 | 2022-02-12 | 2022-04-03 |
 | [TAXI DRIVER](https://open.spotify.com/track/6LbluAYZw4tTjLPyucyH5I) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:48 | 2021-05-03 | 2021-05-09 |
 | [Te Quiero](https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Te Quiero](https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j) | 2:43 | 2022-07-23 | 2022-10-02 |
-| [Te Quiero](https://open.spotify.com/track/6wIcKY5pAYyhaVXQ8FCCZy) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 2:43 | 2022-10-15 |  |
+| [Te Quiero](https://open.spotify.com/track/6wIcKY5pAYyhaVXQ8FCCZy) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 2:43 | 2022-10-15 | 2022-10-21 |
 | [TEMPORALE \(feat\. Ketama126, Izi & Luche\)](https://open.spotify.com/track/6CSNzPgC41ttk0RERlfr3f) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:16 | 2022-01-08 | 2022-01-24 |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-12-25 | 2021-12-27 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-03-27 |

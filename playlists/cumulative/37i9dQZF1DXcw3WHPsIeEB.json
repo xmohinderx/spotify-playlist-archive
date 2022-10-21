@@ -1153,6 +1153,28 @@
     {
       "album": {
         "name": "SHEEESH",
+        "url": "https://open.spotify.com/album/2qZgdOJBiJya3nTfV5YF9s"
+      },
+      "artists": [
+        {
+          "name": "MXXWLL",
+          "url": "https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU"
+        },
+        {
+          "name": "JD Beck",
+          "url": "https://open.spotify.com/artist/2APVc83SqqVOHrVm4dkGZF"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87076,
+      "name": "UHHH",
+      "url": "https://open.spotify.com/track/1xgdTvPbscOAIvJnBomt2y"
+    },
+    {
+      "album": {
+        "name": "SHEEESH",
         "url": "https://open.spotify.com/album/5wNnktpNWZH4W4BxpB7nN5"
       },
       "artists": [
@@ -1167,7 +1189,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 87076,
       "name": "UHHH",
       "url": "https://open.spotify.com/track/4qb7gDVi5je7MLDCRClqmX"

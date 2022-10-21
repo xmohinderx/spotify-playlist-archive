@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Kriss Reeve
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,431 likes - 100 songs - 5 hr 6 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,429 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 96 | [Eyes Low](https://open.spotify.com/track/0X2tErMEQ4JT5OYQiU6QlP) | [NILVO](https://open.spotify.com/artist/0GzzvvQz8SOHQs8vUBgpwt) | [Eyes Low](https://open.spotify.com/album/2ExbEfHDIqhkwgyXMLcjfE) | 2:22 |
 | 97 | [Let It Be Me \- Sondr Remix](https://open.spotify.com/track/2v3DuCVBbopteJqdM7aKQK) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc) | [Let It Be Me \(Remixes\)](https://open.spotify.com/album/097kyycr5ZuLS2cPwwUHwt) | 3:05 |
 | 98 | [Do It! \- Dimitri Vegas Radio Edit](https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Do It!](https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2) | 2:37 |
-| 99 | [Take Control](https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Take Control](https://open.spotify.com/album/5Lm6ONdbKjUFkM4h4Stgu7) | 2:47 |
-| 100 | [Run Free](https://open.spotify.com/track/1oIdcFtf58sZbS7QyZQJ2P) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [IVIE](https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN) | [Run Free](https://open.spotify.com/album/37QAucQUcm3aCvRLxjtwKj) | 2:50 |
+| 99 | [Run Free](https://open.spotify.com/track/1oIdcFtf58sZbS7QyZQJ2P) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [IVIE](https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN) | [Run Free](https://open.spotify.com/album/37QAucQUcm3aCvRLxjtwKj) | 2:50 |
+| 100 | [Take Control](https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Take Control](https://open.spotify.com/album/5Lm6ONdbKjUFkM4h4Stgu7) | 2:47 |
 
-Snapshot ID: `MTQ5MiwzOWYxZDM2YjM4YzZlZDZiYzA5YTg4ODVlMTU4YzQ0ODUwMmQxZGY5`
+Snapshot ID: `MTQ5Myw2YjE5Zjc1OTBkYTdiNzFlYWNmMGQ3ODVhNWFkOTcwMzdjYmU2MDhi`

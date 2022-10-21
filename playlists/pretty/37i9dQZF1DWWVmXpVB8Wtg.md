@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 30 | [Say Good Bye](https://open.spotify.com/track/28wpHGozJtShA2FNy6wLU1) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Say Good Bye](https://open.spotify.com/album/6VjmQihXEP1KPPsOZkBS2b) | 2:27 |
 | 31 | [LOVE SUNSHINE \- Radio Mix](https://open.spotify.com/track/1bfrKEytru65i7Q1mn9YZl) | [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [Shion](https://open.spotify.com/artist/67isecgMVenjxJ3jipKDnQ) | [LOVE SUNSHINE feat.SHiON](https://open.spotify.com/album/6ULQgSPnKhY6a2oA2LPmSn) | 3:55 |
 | 32 | [Feels Right](https://open.spotify.com/track/0ntQOeCxfO9wuGJXFv5D6d) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [Feels Right \(Radio Edit\)](https://open.spotify.com/album/27Mt9d7Kd3EhQpK9MxO0qf) | 3:19 |
-| 33 | [Butterfly](https://open.spotify.com/track/4PicxfQvmRzTJjlLJpd5UF) | [Kryoman](https://open.spotify.com/artist/3eFV1Kz5RElOgNs7QG8775), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Fenner](https://open.spotify.com/artist/1vXQyBwSEmCLdSr6w2CuWr), [Dan Sweezy](https://open.spotify.com/artist/1nF5BnGUpglQRX7YE1WrYh), [Lost Chameleon](https://open.spotify.com/artist/4ct0Lml9CSOcrehSHHJArO) | [Butterfly](https://open.spotify.com/album/56vtihWmmdYxuI7tAetNfn) | 4:57 |
+| 33 | [Butterfly](https://open.spotify.com/track/27Yid3kRkTsZM5EnCYJVvD) | [Kryoman](https://open.spotify.com/artist/2SQ1tSS4VYusXGC4qqVcpD), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Fenner](https://open.spotify.com/artist/1vXQyBwSEmCLdSr6w2CuWr), [Dan Sweezy](https://open.spotify.com/artist/1nF5BnGUpglQRX7YE1WrYh), [Lost Chameleon](https://open.spotify.com/artist/4ct0Lml9CSOcrehSHHJArO) | [Butterfly](https://open.spotify.com/album/5VWpuIHrhdjXK2Qv0gJjmu) | 4:57 |
 | 34 | [F bounce](https://open.spotify.com/track/35O8zEXyhh1SuJIQ8DkY4o) | [Hakey!](https://open.spotify.com/artist/47PUGhRs62FkExtYhQdRq9) | [ONE & ONLY](https://open.spotify.com/album/4i6d1tI5HvydJUhROb1aci) | 2:35 |
 | 35 | [MOAB](https://open.spotify.com/track/20yjVD5V9XT87BhgmScgxG) | [GLDN](https://open.spotify.com/artist/6a4KLb4BJJNm3uJVKNEvWP), [Mykris](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC) | [MOAB](https://open.spotify.com/album/55M9ApHxvAbAGvG5lbWyj0) | 3:02 |
 | 36 | [All We Are](https://open.spotify.com/track/3ve9uFSUtkEhk22tmcHHuK) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Wicked Fever](https://open.spotify.com/album/24AO60xtlSOo98ZobfTRqI) | 4:13 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 47 | [Be Strong](https://open.spotify.com/track/3HYlMMRwGfDtbJBTA5XJ5c) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Be Strong / Feel So Alive](https://open.spotify.com/album/56MfOl25QadLcpTnGND4p0) | 3:20 |
 | 48 | [Matured Gentility](https://open.spotify.com/track/75qHcAAqzajbzKV9WLmdbk) | [Dj Void](https://open.spotify.com/artist/53Cd2RdnIpJIjiSNBSz7GQ) | [Matured Gentility](https://open.spotify.com/album/37ew4eBhDg3RXKCOHlr2Zn) | 12:55 |
 
-Snapshot ID: `MTY2MzIyMzA4MywwMDAwMDAwMDBhZjJhMDQ5NmQxMWI3YWRjNDAxZGVkODE5YTk5MTY2`
+Snapshot ID: `MTY2MzIyMzA4MywwMDAwMDAwMGY5OTM1ZGJjM2I0MmU2NTAxMTJmYjJjMTMzYzA5NTRl`

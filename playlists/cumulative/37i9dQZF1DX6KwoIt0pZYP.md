@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-384 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+385 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Faith](https://open.spotify.com/track/3Eyxdb616hFs6RvXSMijws) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Faith](https://open.spotify.com/album/39F1cSVHjpRIB5cCfOR2ou) | 3:08 | 2022-01-28 | 2022-07-23 |
 | [Fallin'](https://open.spotify.com/track/0LA7XyhWglv7vHExijgDrG) | [Lrud](https://open.spotify.com/artist/1O65EnuGsrQ99GOb6VqFXj) | [Fallin'](https://open.spotify.com/album/4ryuxbVRInCXKFVIrxaGWk) | 3:24 | 2022-03-29 | 2022-04-20 |
 | [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-08-12 | 2022-10-13 |
+| [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2022-10-14 |  |
 | [Fantasy](https://open.spotify.com/track/0QMCxc6dP8ObzoJExJd5oc) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Summer Is Like a Dream](https://open.spotify.com/album/1G3b6b8cpsmT4JRQCz49md) | 2:50 | 2022-01-28 |  |
 | [Far Away](https://open.spotify.com/track/567AU1vnmc6VP5uCdAizzU) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Far Away](https://open.spotify.com/album/5sNO9BM1cxaqk5ZuHnNwyb) | 3:39 | 2022-03-11 | 2022-04-18 |
 | [Favorite](https://open.spotify.com/track/5sIuWppHRdZjvvc7qssyz5) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Favorite](https://open.spotify.com/album/5rrntYKYrTBlAKTT310sDE) | 3:25 | 2022-02-11 | 2022-07-10 |
@@ -296,7 +297,7 @@
 | [Sociopath](https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:15 | 2022-01-28 |  |
 | [SOL FA MI](https://open.spotify.com/track/2X2HXezW02Nhhmo7j2fQSf) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Tintin](https://open.spotify.com/artist/79dBBbf22bLsxtklqr9x6y) | [SOL FA MI](https://open.spotify.com/album/0743x9H3c0sXCD5aXykWux) | 3:04 | 2022-03-29 | 2022-04-20 |
 | [Solace](https://open.spotify.com/track/237S0tOk45SdG23Oh0bZBA) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Solace](https://open.spotify.com/album/0lTOcKW3sqR56ym8qK4m9h) | 3:34 | 2022-02-11 | 2022-07-03 |
-| [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 | 2022-01-28 |  |
+| [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 | 2022-01-28 | 2022-10-21 |
 | [SOMEBODY](https://open.spotify.com/track/0HeiYo9WwMT8ujirrWzarf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [SOMEBODY](https://open.spotify.com/album/5aGeJx3pPmu3uAiX3tP5D5) | 2:44 | 2022-01-28 | 2022-07-29 |
 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 | 2022-07-22 |  |
 | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA) | 4:10 | 2022-01-28 | 2022-07-29 |

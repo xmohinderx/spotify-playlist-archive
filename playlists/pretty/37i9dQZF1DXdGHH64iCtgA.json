@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 54068,
+  "num_followers": 54106,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMGU0YzkzY2YwMTlhMmI5MmM3OTcyZTRjZjZmYmMzYjk4",
+  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMGM3YzZjMzg3MTlkMjhjNTQ1MTY0Mjk2N2JlMGJjMTkz",
   "tracks": [
     {
       "added_at": "2022-09-27 18:54:27",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 349693,
+      "name": "oh baby",
+      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 221813,
       "name": "La Rua Madureira",
       "url": "https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 349693,
-      "name": "oh baby",
-      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "No Hay Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        },
-        {
-          "name": "COCO-PALOMA",
-          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
-        }
-      ],
-      "duration_ms": 423601,
-      "name": "No Hay Ma\u00f1ana - Club Mix",
-      "url": "https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "No Hay Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "COCO-PALOMA",
+          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
+        }
+      ],
+      "duration_ms": 423601,
+      "name": "No Hay Ma\u00f1ana - Club Mix",
+      "url": "https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Sharevari",
-        "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
-      },
-      "artists": [
-        {
-          "name": "Aidan Noell",
-          "url": "https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm"
-        },
-        {
-          "name": "Nancy Whang",
-          "url": "https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B"
-        }
-      ],
-      "duration_ms": 351306,
-      "name": "Sharevari",
-      "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Sharevari",
+        "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
+      },
+      "artists": [
+        {
+          "name": "Aidan Noell",
+          "url": "https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm"
+        },
+        {
+          "name": "Nancy Whang",
+          "url": "https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B"
+        }
+      ],
+      "duration_ms": 351306,
+      "name": "Sharevari",
+      "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Iron 2021",
-        "url": "https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt"
-      },
-      "artists": [
-        {
-          "name": "Woodkid",
-          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
-        }
-      ],
-      "duration_ms": 523453,
-      "name": "Iron 2021",
-      "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Pick Up (Even Shorter Version)",
         "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Iron 2021",
+        "url": "https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "duration_ms": 523453,
+      "name": "Iron 2021",
+      "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "ANIMA",
         "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 317986,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Boylife in EU",
+      "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Boylife in EU",
-      "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Romance Noire",
         "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 312466,
       "name": "Romance Noire",
       "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "F*ck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "F*ck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Pain In The Ass",
-        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
       },
       "artists": [
         {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
         }
       ],
-      "duration_ms": 400373,
-      "name": "Pain In The Ass - Original Mix",
-      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
+      "duration_ms": 174677,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1163,6 +1147,22 @@
       "duration_ms": 397266,
       "name": "Famous Monsters",
       "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Pain In The Ass",
+        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 400373,
+      "name": "Pain In The Ass - Original Mix",
+      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -1299,6 +1283,38 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Burner",
+        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 308858,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "Burner",
-        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 308858,
-      "name": "Burner",
-      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Working Class Woman",
-        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 306187,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Young Lies",
         "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 230839,
       "name": "Young Lies",
       "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Working Class Woman",
+        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 306187,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Cataclysmic",
-        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
-      },
-      "artists": [
-        {
-          "name": "Jordan Gill",
-          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
-        }
-      ],
-      "duration_ms": 491652,
-      "name": "White Lights",
-      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Price of Highest Consciousness",
         "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 368404,
       "name": "Price of Highest Consciousness",
       "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Cataclysmic",
+        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Gill",
+          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
+        }
+      ],
+      "duration_ms": 491652,
+      "name": "White Lights",
+      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
     },
     {
       "added_at": "2022-09-27 18:54:27",

@@ -1,13 +1,29 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 83512,
+  "num_followers": 83549,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMGM0MTgwMGMwYzQ2MTY3MDFmMDJjMDE0MjQzNzkyOWVh",
+  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMGM0Njc5MzEyNWEyNjUyZmVhZmZmZWJmNjNjYzViYmU1",
   "tracks": [
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "9 Pieces",
+        "url": "https://open.spotify.com/album/4gsWRHhTuxJv3GUHcvXoF9"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 314573,
+      "name": "Duduk",
+      "url": "https://open.spotify.com/track/3KAfIjS78qcY55SPShJall"
+    },
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
@@ -340,17 +356,81 @@
       "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "Authentic Central America, Vol. 1: Costa Rica",
-        "url": "https://open.spotify.com/album/6JzzPMVWSt8yR1r2AgaVsk"
+        "url": "https://open.spotify.com/album/4TwgNC9WkLcXg0maEZeSqB"
       },
       "artists": [
         {
-          "name": "Hernesto Miranda",
-          "url": "https://open.spotify.com/artist/3CoARtbnYJB4OtxvCLwfdw"
+          "name": "Antony Badilla Vargas",
+          "url": "https://open.spotify.com/artist/31RBbk4IQBf7liNMnqRmry"
+        },
+        {
+          "name": "Carlos Andrey Badilla",
+          "url": "https://open.spotify.com/artist/1PtMza9kPXs0GF4E882ufy"
+        },
+        {
+          "name": "Manuel Monestel",
+          "url": "https://open.spotify.com/artist/7kVrt1w4bBBAeiFpcNf0jk"
+        },
+        {
+          "name": "Carlos Cartin Gulubay",
+          "url": "https://open.spotify.com/artist/0iD4XYIMwNbtTEPhJIeo5P"
+        },
+        {
+          "name": "Manuel Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/4pjEnhgIpsFGA3ohFyEdGy"
+        },
+        {
+          "name": "Sergio Chaves Salazar",
+          "url": "https://open.spotify.com/artist/6Cy3M1sDtwUlm9FyFTdlGM"
+        },
+        {
+          "name": "Juvenul Orlando Obando",
+          "url": "https://open.spotify.com/artist/5DUceCmiknYEqYwLZOSUKn"
+        },
+        {
+          "name": "Luis Daniel Chavarria",
+          "url": "https://open.spotify.com/artist/5EKAEazzw3WX92c3yBXE8J"
+        },
+        {
+          "name": "Isaac Quiras Irigaray",
+          "url": "https://open.spotify.com/artist/1DXzfAmacXRu5zgzCkfcvn"
+        },
+        {
+          "name": "Luis Gerardo Chavarria",
+          "url": "https://open.spotify.com/artist/0uS5qKSBt459dnW4j6N5sn"
+        },
+        {
+          "name": "Esteban Gonzalez Alvarez",
+          "url": "https://open.spotify.com/artist/01wrZTAiaoCCA6NbPhq26v"
+        },
+        {
+          "name": "Esteban Rojas Castillo",
+          "url": "https://open.spotify.com/artist/6RHOrXW23YUdFTvaFqJWRB"
+        },
+        {
+          "name": "Junior E. Alvarez",
+          "url": "https://open.spotify.com/artist/3frAdlUtnaomDQhDEzgsvy"
+        },
+        {
+          "name": "Jose \"Momo\" Valverde",
+          "url": "https://open.spotify.com/artist/1AIlH6H6nfqEcJDp4u3QkW"
+        },
+        {
+          "name": "Pablo Gonzalez Alvarez",
+          "url": "https://open.spotify.com/artist/6I92GLtf8NTRwqQpiL9jDF"
+        },
+        {
+          "name": "Luis Vega Briceno",
+          "url": "https://open.spotify.com/artist/5be5WRkrQRH9jGvxm2b3Iy"
+        },
+        {
+          "name": "Gerardo Zuniga Villareal",
+          "url": "https://open.spotify.com/artist/3kIF9KT606fHobxHLf8jvB"
         }
       ],
       "duration_ms": 82348,
       "name": "Punto Guanacasteco",
-      "url": "https://open.spotify.com/track/0XUIYVLAEkr2osN7wrjD7p"
+      "url": "https://open.spotify.com/track/6IrTnV7B5xS31KRjSN9b2a"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -14815,8 +14895,8 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Chichas Inolvidables, Vol. 1",
-        "url": "https://open.spotify.com/album/5UmGYBk5rrWfdnTQMSRAwW"
+        "name": "Cumbia Beat Volume 3",
+        "url": "https://open.spotify.com/album/4p7P9jzmYkTbzRFRNcATcd"
       },
       "artists": [
         {
@@ -14824,9 +14904,9 @@
           "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
         }
       ],
-      "duration_ms": 199368,
-      "name": "Sue\u00f1o Hippie",
-      "url": "https://open.spotify.com/track/1mo44xz8L6dAjKlGul3kCc"
+      "duration_ms": 199000,
+      "name": "Sue\u00f1o hippie",
+      "url": "https://open.spotify.com/track/5WfYFmRD9hdeMmCyf0Mm4J"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -18067,8 +18147,8 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Un Silbido Amoroso",
-        "url": "https://open.spotify.com/album/3tqk1zxZedRxvOzhGgKVOK"
+        "name": "Cumbia Beat Volume 1",
+        "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
       },
       "artists": [
         {
@@ -18076,9 +18156,9 @@
           "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
         }
       ],
-      "duration_ms": 156600,
+      "duration_ms": 155013,
       "name": "Un Silbido Amoroso",
-      "url": "https://open.spotify.com/track/0QOWZ2Iqb36FFecUmLdUTy"
+      "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
     },
     {
       "added_at": "2022-09-29 22:01:00",

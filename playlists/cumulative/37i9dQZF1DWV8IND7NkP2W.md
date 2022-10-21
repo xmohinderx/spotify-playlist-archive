@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-509 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+510 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Cotton Candy](https://open.spotify.com/track/5w7XacxJ4965FbRgydbz1E) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#2](https://open.spotify.com/album/0q6V3w8SbFmH9XeLAjTyxT) | 1:48 | 2021-12-23 | 2022-07-13 |
 | [Cows In The Distance](https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Dissociation](https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy) | 1:56 | 2022-01-13 | 2022-07-05 |
 | [Cream Brule](https://open.spotify.com/track/1qjGH6vFN04hVzwBEy1880) | [Aru\-2](https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Hot Pants](https://open.spotify.com/album/56iNspJ3bN66WkfpjOGF5v) | 3:54 | 2022-03-17 | 2022-06-22 |
+| [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 |  |
 | [Cruisin](https://open.spotify.com/track/1GZxk4b3eaucDlcaAAs8cJ) | [MeS The Funk](https://open.spotify.com/artist/6h2bl2LD56yaah3wzvLKRe) | [Cruisin](https://open.spotify.com/album/1OOt6UGoO3GI6lprfutvDO) | 3:45 | 2022-03-24 | 2022-09-15 |
 | [Cumulonimbus](https://open.spotify.com/track/0TWfmcz5fsrRvaD01Yf5eM) | [Takayuki Hashiguchi](https://open.spotify.com/artist/18eJdTU5Sepx9LX7KHZv1k), [Michiaki Shirata](https://open.spotify.com/artist/3B6nen9hs1iq9MGAy4aCBL) | [The Sun Rises Everywhere \#1](https://open.spotify.com/album/411a5hlbXHUm6r1ipYABjd) | 2:12 | 2021-12-23 | 2022-07-10 |
 | [Curiosity](https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [coyolate](https://open.spotify.com/artist/0EvzMWIv5MlTboNHIVDtmJ) | [Curiosity](https://open.spotify.com/album/6eeJBJnn3HPMSrAJToQLoZ) | 2:43 | 2021-12-23 | 2022-07-29 |
@@ -384,7 +385,7 @@
 | [sakura](https://open.spotify.com/track/3lgIJDGKrpEAmzcZ8KwjIa) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [scat](https://open.spotify.com/album/4Ys3tmuEwecgFxmnCSKLlK) | 3:35 | 2021-12-23 | 2022-07-29 |
 | [SAKURA \(SOUND TOUR\)](https://open.spotify.com/track/0ZbCIFHHkC4pOBxD1qJUJX) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [SAKURA \(SOUND TOUR\)](https://open.spotify.com/album/65hKXJu0KmXrQ7Skss7sXN) | 1:36 | 2022-04-14 | 2022-07-11 |
 | [Samui](https://open.spotify.com/track/02vMiqjglGHUt0poNcIf5v) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Samui](https://open.spotify.com/album/6elgJt4O7fsS80BDj992CN) | 1:24 | 2022-03-24 | 2022-04-19 |
-| [Samui](https://open.spotify.com/track/74bdadCpSCzqFBZ4XuQaCQ) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Samui](https://open.spotify.com/album/3DcZEHiHT7uPkd5Bs8ynn9) | 1:24 | 2022-07-28 |  |
+| [Samui](https://open.spotify.com/track/74bdadCpSCzqFBZ4XuQaCQ) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Samui](https://open.spotify.com/album/3DcZEHiHT7uPkd5Bs8ynn9) | 1:24 | 2022-07-28 | 2022-10-21 |
 | [Saudade Ouchi Jikan](https://open.spotify.com/track/652GwT3h3p21uW8VROFBGp) | [NASSO](https://open.spotify.com/artist/66sr7J88vUI5GteXcgL5AJ) | [CLUBE DA OUCHINA](https://open.spotify.com/album/1TkPZxYESG1GVLE24oVpyH) | 3:21 | 2021-12-23 | 2022-01-28 |
 | [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 | 2022-07-29 |
 | [sea birth](https://open.spotify.com/track/4XXcR2WtL63vIchwSyuy20) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [sea birth](https://open.spotify.com/album/2VrDUcY0fGBOoLi7g4khGa) | 2:38 | 2022-01-06 | 2022-01-09 |

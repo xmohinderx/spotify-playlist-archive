@@ -1100,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Lost Illusions",
+        "url": "https://open.spotify.com/album/5eG6jjphigPxaofS0PAI0T"
+      },
+      "artists": [
+        {
+          "name": "Sloan Peterson",
+          "url": "https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184989,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/27lFSJ4Pn4MOQLWqgrbC35"
+    },
+    {
+      "album": {
         "name": "Bla Bli Blu",
         "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
       },
@@ -3323,6 +3341,24 @@
       "duration_ms": 195953,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2JMFhHqiGQGyHqlfrpLJSO"
+    },
+    {
+      "album": {
+        "name": "frog",
+        "url": "https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "frog",
+      "url": "https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn"
     },
     {
       "album": {

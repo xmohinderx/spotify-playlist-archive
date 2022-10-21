@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: emlyn, Paty B, Avenoir, Blondshell
 
-2,539 songs - 5 day 19 hr 33 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
+2,540 songs - 5 day 19 hr 37 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Broken Hearted](https://open.spotify.com/track/1WbpgbgkufmiAknqCjcyeH) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Background Songs For Your Boring Life](https://open.spotify.com/album/3EJOfz2Kr0lvGvtlVOo52Z) | 3:12 | 2022-05-25 | 2022-06-09 |
 | [Brooklyn](https://open.spotify.com/track/3EWWdLJCxKcPqt20g27cBq) | [Berel](https://open.spotify.com/artist/1Sizk6ZBxTmddJGLGOtJjS) | [Cure For Leisure](https://open.spotify.com/album/4b6TIF1YNGsXhPHiT9C6X5) | 3:05 | 2022-01-12 | 2022-01-20 |
 | [bruise](https://open.spotify.com/track/2CGPvXNk1pY3JzfFylv3lY) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [bruise](https://open.spotify.com/album/1vZ6lqBIrEUx3J6bA0zFXa) | 2:08 | 2022-09-07 | 2022-09-15 |
-| [BRUTAL](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-19 |  |
+| [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-19 |  |
 | [BUCKLE UP](https://open.spotify.com/track/1O7cBHLXgkhH81A5Jax0mk) | [CROOK](https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv) | [BUCKLE UP](https://open.spotify.com/album/38xoZjwstC5LlgHLTpoBQN) | 2:24 | 2022-07-06 | 2022-07-21 |
 | [Buen Augurio](https://open.spotify.com/track/7FWeN4YU7zAmvhMpoDBvyO) | [Ciudad Mansa](https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2) | [Buen Augurio](https://open.spotify.com/album/1gD6tIXd27FADb1IthoNfL) | 4:02 | 2022-07-20 | 2022-07-28 |
 | [Buffalo Skank](https://open.spotify.com/track/3tKisiH1mTIdHCGdEUCzwk) | [Frankel & Harper](https://open.spotify.com/artist/02G23wiVWJ9W9DRNL2plup) | [Buffalo Skank](https://open.spotify.com/album/14R9jffCTCcGOpapb4f9yw) | 5:32 | 2022-08-31 | 2022-09-09 |
@@ -618,6 +618,7 @@
 | [Dont Know](https://open.spotify.com/track/7imwOacEwo1uCGacu8lw2A) | [Elijah Seabrook](https://open.spotify.com/artist/4xtLpQ6VUR3djxL9FjcKT7) | [Pressure Rising](https://open.spotify.com/album/5mbrEXGcSjZYaUbTmMWYyi) | 2:53 | 2022-02-16 | 2022-02-24 |
 | [DONT TRUST EM](https://open.spotify.com/track/1J4mWlkB9pWVEEXpiBwlwW) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DONT TRUST EM](https://open.spotify.com/album/5mFfGGuALPOKq9NNPN0fxZ) | 3:16 | 2022-06-29 | 2022-07-07 |
 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 | 2022-02-16 | 2022-04-07 |
+| [doubts](https://open.spotify.com/track/1Ur4CR2gD4Foa5i7WVutK8) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [doubts](https://open.spotify.com/album/3kEnFT44CdWVwOoDYsUj5J) | 4:04 | 2022-10-19 |  |
 | [Douchebag](https://open.spotify.com/track/3Z9tTtoCgQDUPzQerBg1jv) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Douchebag](https://open.spotify.com/album/1EeCf52PdUbgMKCpbbV9Pk) | 2:58 | 2022-02-09 | 2022-02-17 |
 | [dougie jones](https://open.spotify.com/track/1cxf0uqgT8mrRUryRj2GCx) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [dougie jones](https://open.spotify.com/album/7txL4P1ciH1FRiyzjWJSy9) | 3:36 | 2022-03-09 | 2022-03-17 |
 | [Down](https://open.spotify.com/track/48OpQTaivLR29s3jBLkhLV) | [Lawn](https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh) | [Down](https://open.spotify.com/album/6IWpaOAYnh2VkWlEad7nSR) | 3:16 | 2022-05-18 | 2022-05-26 |

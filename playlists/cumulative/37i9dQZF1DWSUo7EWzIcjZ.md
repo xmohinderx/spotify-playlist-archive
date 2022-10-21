@@ -4,10 +4,11 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-345 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+346 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Donde Vayas](https://open.spotify.com/track/0TjzFXuvwu0cOytRilofzz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 4:27 | 2021-02-02 |  |
 | [A Donde Vayas](https://open.spotify.com/track/2p74Vv7mdDKwtHjpg3E5OV) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5) | 4:27 | 2021-02-02 | 2022-10-15 |
 | [A Donde Vayas](https://open.spotify.com/track/3MYeMhq8WOlIwv2PlFQJeQ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7bsw0uld3wQioChBQcnED8) | 4:27 | 2021-02-02 | 2022-07-29 |
 | [A Donde Vayas](https://open.spotify.com/track/64UoPaVdLy0lOc2bJOMVrt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [El Jardín Prohibido](https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM) | 4:33 | 2021-02-02 | 2022-07-29 |
@@ -192,7 +193,7 @@
 | [Lo Que Mas Queria](https://open.spotify.com/track/7yqAnJxzmpFWPR6zIMbfE7) | [El Zafiro](https://open.spotify.com/artist/6PucQLslaiTOWJpCLPRLkL) | [Antologia del Merengue](https://open.spotify.com/album/5cQNAWN11hosq6e8uO6UGT) | 4:25 | 2021-02-02 | 2022-09-22 |
 | [Lo Que Mas Quería](https://open.spotify.com/track/5owjrItInEpNGHrROUV9LQ) | [Carlos Manuel 'El Zafiro'](https://open.spotify.com/artist/4zonLJKAX1W7yrQZcGxRqo) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:23 | 2021-02-02 | 2022-07-24 |
 | [Locamente Enamorado](https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Noches Latinas](https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d) | 4:24 | 2021-02-02 |  |
-| [Los Caminos De La Vida](https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Me Equivoque](https://open.spotify.com/album/4zXyOR4Y3Bas2anvleiOGZ) | 5:00 | 2021-02-02 |  |
+| [Los Caminos De La Vida](https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Me Equivoque](https://open.spotify.com/album/4zXyOR4Y3Bas2anvleiOGZ) | 5:00 | 2021-02-02 | 2022-10-21 |
 | [Los Diseñadores](https://open.spotify.com/track/4M3lLVVdXVA6DCn4Ywt71C) | [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Queriendote y Adorandote!](https://open.spotify.com/album/4j2o2tw7SJNJDIMJzejwLW) | 4:28 | 2021-02-02 |  |
 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 | 2021-02-02 | 2022-07-29 |
 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 | 2021-02-02 | 2022-07-29 |
@@ -268,7 +269,7 @@
 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 | 2021-02-02 |  |
 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5Rh9q9im3Ib4saOkJsg2B8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 | 2021-02-02 |  |
 | [Secretos](https://open.spotify.com/track/2KserR4WEVdrloo5eHsic6) | [Peter Cruz](https://open.spotify.com/artist/624La0EtrGIQnHyM76BkIq) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 4:05 | 2021-02-02 | 2022-07-26 |
-| [Secretos](https://open.spotify.com/track/2X4xABS94IDT6n880ec1uV) | [Peter Cruz](https://open.spotify.com/artist/624La0EtrGIQnHyM76BkIq) | [30 Merengues Clasicos Pal' Pueblo](https://open.spotify.com/album/6NPXa6NKhHQRw4bMbBaqwQ) | 4:05 | 2021-02-02 |  |
+| [Secretos](https://open.spotify.com/track/2X4xABS94IDT6n880ec1uV) | [Peter Cruz](https://open.spotify.com/artist/624La0EtrGIQnHyM76BkIq) | [30 Merengues Clasicos Pal' Pueblo](https://open.spotify.com/album/6NPXa6NKhHQRw4bMbBaqwQ) | 4:05 | 2021-02-02 | 2022-10-21 |
 | [Si Algun Dia la Ves](https://open.spotify.com/track/6RiDziyC7ycj1wCmAWr808) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo) | 4:44 | 2021-02-02 | 2022-07-29 |
 | [Si Algún Día la Ves](https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf) | 4:44 | 2021-02-02 |  |
 | [Si Algún Día la Ves](https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7) | 4:44 | 2021-02-02 | 2022-10-14 |
@@ -316,7 +317,7 @@
 | [Todo Me Gusta de Ti](https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Exitos](https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya) | 4:28 | 2021-02-02 | 2022-07-29 |
 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6yplI5s12Y8oaJYFaPRdAq) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Éxitos](https://open.spotify.com/album/2C6hgkhy5dfcLlMENGzeAP) | 4:28 | 2021-02-02 |  |
 | [Tu Belleza](https://open.spotify.com/track/4roKlRZk5enTut8zILUw32) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Antologia del Merengue](https://open.spotify.com/album/5cQNAWN11hosq6e8uO6UGT) | 3:39 | 2021-02-02 | 2022-09-22 |
-| [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 | 2021-02-02 | 2022-07-28 |
+| [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 | 2021-02-02 |  |
 | [Tu Eres Mi Embra](https://open.spotify.com/track/7xaIDbXG8PpotUv7ym2V2N) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Capricho](https://open.spotify.com/album/6rByF9R6prjXdNFwawHP3q) | 4:49 | 2021-02-02 |  |
 | [Tu Eres Mi Hembra](https://open.spotify.com/track/4eHIBgC7bpDHt5FEX9VusR) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:49 | 2021-02-02 | 2022-07-23 |
 | [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 | 2021-02-02 |  |

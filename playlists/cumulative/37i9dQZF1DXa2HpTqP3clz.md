@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-377 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+378 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Keys](https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG) | [Clyde and the Milltailers](https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA) | [Gone](https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ) | 3:00 | 2022-06-17 | 2022-06-26 |
 | [Kill the Snake](https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Kill the Snake](https://open.spotify.com/album/4XgxQ7cWdvzEkBebsD2fbV) | 3:18 | 2022-04-15 | 2022-06-28 |
-| [Last Chance](https://open.spotify.com/track/21TryieQX3eY96LemAyX28) | [Trout Steak Revival](https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd) | [Spirit to the Sea](https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC) | 3:59 | 2021-12-17 |  |
+| [Last Chance](https://open.spotify.com/track/21TryieQX3eY96LemAyX28) | [Trout Steak Revival](https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd) | [Spirit to the Sea](https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC) | 3:59 | 2021-12-17 | 2022-10-21 |
 | [Leather Britches](https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t) | [Curtis McPeake](https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi), [Andy May](https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO) | [The Good Things \(Outweigh the Bad\)](https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE) | 1:24 | 2022-02-18 | 2022-07-23 |
 | [Leaving Cleveland](https://open.spotify.com/track/6TML2tjO2PYeQzOQLpO6ZE) | [Tim Raybon Band](https://open.spotify.com/artist/5uvZdQTX9FuYQu0shFfGm3) | [Leaving Cleveland](https://open.spotify.com/album/58eCalfeSBGTaVJ0GOaq7i) | 2:39 | 2022-02-04 | 2022-07-24 |
 | [Let It Go](https://open.spotify.com/track/0TcysHAySwIDFgxatmqgO2) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [North Country](https://open.spotify.com/album/2QoAumKB1qK202raGU4xqr) | 3:01 | 2021-12-17 | 2021-12-24 |
@@ -215,6 +215,7 @@
 | [More Than I Am](https://open.spotify.com/track/2Ayvf4LEGkXWSRk429AzuO) | [Mountain Heart](https://open.spotify.com/artist/0V6tfevNowzUPFTrEQTJE8) | [More Than I Am](https://open.spotify.com/album/1F5KFF0ydZKl2jHH3V07Nx) | 3:34 | 2021-12-17 | 2022-07-29 |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2021-12-17 |  |
 | [Mountain Pass](https://open.spotify.com/track/211gDdOBKAqGbfMi0C0Vfc) | [Gabriel Wiseman](https://open.spotify.com/artist/7MTxvc84kUIqu8ddhPcMFW) | [Mountain Pass](https://open.spotify.com/album/2PUpurApzR0lkhFvv4RPdr) | 2:58 | 2021-12-31 | 2022-07-05 |
+| [Mountain Rosalie](https://open.spotify.com/track/1t3Ecv2C0bmTr29vhykXDQ) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Mountain Rosalie](https://open.spotify.com/album/3b0b40cTHQKgbOOqhLYwnZ) | 2:33 | 2022-10-14 |  |
 | [Mountains In Mississippi](https://open.spotify.com/track/2NwjxAXoM2CeFrHpMSXpJv) | [Darin and Brooke Aldridge](https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK) | [Faster and Farther](https://open.spotify.com/album/0bXt4Yl3c0XS3l4Ds0QsHr) | 3:23 | 2021-12-17 | 2022-02-15 |
 | [Mountainside](https://open.spotify.com/track/6ICiYEIgVm3u6EdTITOJJZ) | [Colebrook Road](https://open.spotify.com/artist/6FHPdJ9BsxkT8O6FwD5Dom) | [Hindsight is 2020](https://open.spotify.com/album/4jsatmWSPpe4X9GflJroEv) | 4:16 | 2022-03-11 | 2022-06-06 |
 | [Mr\. Charlie](https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE), [Josh Shilling](https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE) | [Mr\. Charlie](https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz) | 4:33 | 2022-04-15 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-96 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
+97 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [EMINENT SLEAZE](https://open.spotify.com/track/0eAdGn6Eltul066nbNPpua) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES](https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol) | 3:52 | 2022-05-20 |  |
 | [EMINENT SLEAZE](https://open.spotify.com/track/0W9jxYrpe2iNedGr8fyAqQ) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [EMINENT SLEAZE](https://open.spotify.com/album/0ueqTF8GgMi9U9mAxCxJFs) | 3:52 | 2022-05-20 | 2022-07-29 |
 | [Eyes](https://open.spotify.com/track/1k4I5nWbRFlaQgSbH8oLZ3) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/3CnGtq3GtDW0rm0Qx3NdgR) | 4:52 | 2022-05-20 | 2022-10-19 |
-| [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-05-20 |  |
+| [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-05-20 | 2022-10-21 |
+| [Eyes](https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 4:52 | 2022-05-20 |  |
 | [Fantastic Corps](https://open.spotify.com/track/7oYcf6HhEAIkUT0sqITjo7) | [Kaleidobolt](https://open.spotify.com/artist/5UbTeitV10l7GIxsXglE9r) | [This One Simple Trick](https://open.spotify.com/album/2nHH8FJgi3ZiBWCgPHCAzK) | 5:25 | 2022-05-20 |  |
 | [Follow The Fool](https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Follow The Fool](https://open.spotify.com/album/1RdlpTc1kCOCr0mHfTdXu1) | 3:45 | 2022-05-20 |  |
 | [Fountainhead](https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Fountainhead](https://open.spotify.com/album/188WgRHkVrDZKdu0MqSQSw) | 3:41 | 2022-05-20 | 2022-07-29 |

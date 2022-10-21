@@ -3431,7 +3431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
@@ -4083,6 +4083,24 @@
       "duration_ms": 178285,
       "name": "Mountain Pass",
       "url": "https://open.spotify.com/track/211gDdOBKAqGbfMi0C0Vfc"
+    },
+    {
+      "album": {
+        "name": "Mountain Rosalie",
+        "url": "https://open.spotify.com/album/3b0b40cTHQKgbOOqhLYwnZ"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153384,
+      "name": "Mountain Rosalie",
+      "url": "https://open.spotify.com/track/1t3Ecv2C0bmTr29vhykXDQ"
     },
     {
       "album": {

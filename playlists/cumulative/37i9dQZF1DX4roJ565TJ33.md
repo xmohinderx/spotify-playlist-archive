@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-113 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+115 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Singel](https://open.spotify.com/track/0z6ZJJu9yDl0sfPcTUWDvy) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Gammal Kärlek](https://open.spotify.com/album/6X8vM6cdvDAKDyRemTllQW) | 3:27 | 2022-06-22 |  |
 | [Singel](https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Singel](https://open.spotify.com/album/61Gmop5nZOlXu37SlKixHw) | 3:27 | 2021-11-08 | 2022-07-29 |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |
+| [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 | 2022-10-20 |  |
 | [Som vanligt](https://open.spotify.com/track/2x8BetKgW0IRTnlbKxwTiZ) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Det kanske händer](https://open.spotify.com/album/1HqtUBTmtekqIZzptARlO5) | 2:54 | 2021-11-08 |  |
 | [Stablemates](https://open.spotify.com/track/0e2qoYX2fvzOKw1WztN0Il) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Stablemates](https://open.spotify.com/album/3lqaHDcGbtoXOJOf4OCv4K) | 5:03 | 2022-05-26 |  |
 | [Stay Now](https://open.spotify.com/track/7hC1pSoxiMsK5pUqZGiyrV) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 2:49 | 2022-01-27 |  |
@@ -120,6 +121,7 @@
 | [Winterpoem](https://open.spotify.com/track/26ObAFYbpsN1l5Cq2DdvNc) | [Tommy Kotter Trio](https://open.spotify.com/artist/4BBORrvVDzZFAA54IZ04JO), [Tommy Kotter](https://open.spotify.com/artist/52Y2n1SPSTH6e4Qz1Qe6OX), [Yasuhito Mori](https://open.spotify.com/artist/0gSsRQJ7tNMmQv7yT2KRFv), [David Sundby](https://open.spotify.com/artist/40gguU9UmxYcqyLnEVk7hz) | [Improvisation](https://open.spotify.com/album/3XUusOZ3SM8gvOfEfvoXFo) | 4:29 | 2021-11-08 |  |
 | [Wish You Were Gay](https://open.spotify.com/track/4S5d8XmM81odJDBC3laDJT) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:07 | 2022-06-22 |  |
 | [Wish You Were Gay](https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Wish You Were Gay](https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb) | 3:07 | 2021-11-08 | 2022-07-29 |
+| [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-20 |  |
 | [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/track/2uZ7GgNqVTjIqKnrqjm9vh) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/album/6RivCAP4ZkDbbNY3wA7wU1) | 3:40 | 2021-11-08 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

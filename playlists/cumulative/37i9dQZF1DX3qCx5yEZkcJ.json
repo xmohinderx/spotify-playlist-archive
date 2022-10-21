@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "Bike Ride in Osaka",
+        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
+      },
+      "artists": [
+        {
+          "name": "tecashi",
+          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120014,
+      "name": "Bike Ride in Osaka",
+      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
+    },
+    {
+      "album": {
         "name": "aura collis",
         "url": "https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00"
       },
@@ -917,7 +935,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 133333,
       "name": "Camberwell",
       "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
@@ -1333,6 +1351,24 @@
       "duration_ms": 112804,
       "name": "Crooklyn",
       "url": "https://open.spotify.com/track/0kfpJ6L0Ipw5crz3AaMt5C"
+    },
+    {
+      "album": {
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
     },
     {
       "album": {
@@ -7377,7 +7413,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 127760,
       "name": "Undercurrent",
       "url": "https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd"

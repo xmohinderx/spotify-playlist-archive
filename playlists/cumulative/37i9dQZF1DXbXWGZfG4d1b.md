@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-377 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+379 songs - 22 hr 32 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Año Viejo](https://open.spotify.com/track/59kbsKYSbQmVOZDDBuDKAI) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [Año Viejo](https://open.spotify.com/album/78aEkXgwwwoEY6764Saus9) | 5:10 | 2022-07-01 | 2022-07-29 |
 | [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 |  |
 | [Bajo las Sombras](https://open.spotify.com/track/2GLwpugztC0QylwpvtIbnB) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:46 | 2022-07-01 | 2022-07-12 |
+| [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2022-10-12 |  |
 | [Baño de Sangre](https://open.spotify.com/track/3lLPcfcroqpDCZjdmJ4EBT) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Baño de Sangre](https://open.spotify.com/album/3zPf7FxukN1hfrpa1m4Cdb) | 2:40 | 2022-07-01 | 2022-07-27 |
 | [Berlín](https://open.spotify.com/track/2dvEMEPUednUH9Fo01HcXT) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Andyno Plex](https://open.spotify.com/artist/1v0Gf4vVNpD2tfOruHapzp) | [Berlín](https://open.spotify.com/album/4yajrPmBYJYZ4V2zpZVaVx) | 2:45 | 2022-06-03 |  |
 | [Besos](https://open.spotify.com/track/0vXphAWlo0nUx7c9h6KLHf) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Sué Mon Mont](https://open.spotify.com/album/5RFteyK1jE7qCYDDYRyzOK) | 2:38 | 2022-07-01 | 2022-07-29 |
@@ -65,7 +66,7 @@
 | [Chico Mundo](https://open.spotify.com/track/3FvUA3c6HFAumhoY0XCDco) | [La Liga Matriz](https://open.spotify.com/artist/7JRKq341yLpVm8aRqrm9qB) | [Chico Mundo](https://open.spotify.com/album/1Tv1ze8gJuK358tiAmaZl5) | 2:56 | 2022-06-03 | 2022-07-20 |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-06-03 |  |
 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 | 2022-06-03 |  |
-| [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-06-03 |  |
+| [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-06-03 | 2022-10-21 |
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-07-01 | 2022-07-14 |
 | [Claromecó](https://open.spotify.com/track/4nhd6jQVWquaKEYWyQaQQy) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Claromecó](https://open.spotify.com/album/7nq2LaAFsFDwY9974wcLiG) | 2:19 | 2022-06-03 | 2022-07-02 |
 | [Clases de Yoga](https://open.spotify.com/track/0wGG4ftGlg0QavPQzEYSFo) | [Los Nuevos Creyentes](https://open.spotify.com/artist/5ppNJsPcJKIqaUib1wq3Tc) | [Planta Musical](https://open.spotify.com/album/2gJKZfvQOnEMqeUIInrwuk) | 3:57 | 2022-07-01 | 2022-07-23 |
@@ -165,6 +166,7 @@
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-07-01 | 2022-07-18 |
 | [Hojas de Sombra](https://open.spotify.com/track/7koV9ojFGsDXkZMBxfEmWZ) | [Pájaro](https://open.spotify.com/artist/4nmLAzSOQNI1YZKhGqmHwP) | [Hojas de Sombra](https://open.spotify.com/album/2ir033W52DI2aqS7n50nFO) | 7:17 | 2022-07-01 | 2022-07-24 |
 | [Hombre Paloma](https://open.spotify.com/track/33MjnTrlEgYbra2prv0l5i) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Hombre Paloma](https://open.spotify.com/album/2yZ4h4VN6iWBjseopIbsS7) | 3:02 | 2022-07-01 | 2022-07-16 |
+| [Huele amarillo](https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Huele amarillo](https://open.spotify.com/album/4XH65quBLvAln0tbp265qx) | 4:34 | 2022-10-12 |  |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-06-03 | 2022-07-29 |
 | [Incendio](https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm) | [Surfeadores Rosa](https://open.spotify.com/artist/6BecaP398CIWCEHspNCxQh) | [Incendio](https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd) | 2:52 | 2022-07-01 | 2022-07-22 |
 | [Inhumano](https://open.spotify.com/track/2BA2tCyrlMuoyacTadYQa5) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Telescopios](https://open.spotify.com/album/71hxwc4qWEP4Sfe5QGYqmV) | 2:19 | 2022-06-03 | 2022-07-28 |
@@ -271,7 +273,7 @@
 | [Pana](https://open.spotify.com/track/2DKrHjjGpq9mWY6iYRsbCW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/29UXysLuX1kpykutqConIc) | 3:48 | 2022-06-03 | 2022-07-29 |
 | [Pana](https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N) | 3:48 | 2022-07-15 |  |
 | [Para Renacer \(Lado V\)](https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0xUtJQzRNWrQurHiYzXLF7) | 3:35 | 2022-07-01 | 2022-07-27 |
-| [Para Ver Mejor](https://open.spotify.com/track/7egYJTped8k8NooizYEJVl) | [LIMON](https://open.spotify.com/artist/3bOCNWtgHz0rLE1j5bfR72) | [En Una Ola Desfasada](https://open.spotify.com/album/1QV9sHmGWSpjr6vAMaWs8H) | 2:52 | 2022-07-01 |  |
+| [Para Ver Mejor](https://open.spotify.com/track/7egYJTped8k8NooizYEJVl) | [LIMON](https://open.spotify.com/artist/3bOCNWtgHz0rLE1j5bfR72) | [En Una Ola Desfasada](https://open.spotify.com/album/1QV9sHmGWSpjr6vAMaWs8H) | 2:52 | 2022-07-01 | 2022-10-21 |
 | [Pastillas Para Dormir Mejor](https://open.spotify.com/track/4slGmHvchtV9vgtYpiSzM0) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [SUPERSAD](https://open.spotify.com/album/0yRGn3oGpSAi41lV9RVBnP) | 4:00 | 2022-06-03 | 2022-07-29 |
 | [Patagonia](https://open.spotify.com/track/5lepYM9RnUYWjanPa4ylUP) | [Sombrero](https://open.spotify.com/artist/3hmB86ilZyAyOWuihKkILI) | [Patagonia](https://open.spotify.com/album/32ZoEaVwxcFftVErcCyLfA) | 5:13 | 2022-07-01 | 2022-07-25 |
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-07-01 | 2022-07-24 |

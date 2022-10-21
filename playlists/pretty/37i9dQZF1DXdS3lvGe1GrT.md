@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Junaco \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,218 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,292 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 67 | [Quiet Conversation](https://open.spotify.com/track/6hl4W9aK5lG6gOpOEtIHMc) | [Jacob Humber](https://open.spotify.com/artist/4JJspL8i1Sz6CsowjvNlmL) | [Quiet Conversation](https://open.spotify.com/album/6WxQslCQx5PxOHeO774ltB) | 5:47 |
 | 68 | [Pretty, Pretty](https://open.spotify.com/track/0NkomCaAB2nVipVGxsTUoy) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Pretty, Pretty](https://open.spotify.com/album/2UaDtdFOC01NAP7U4H34fC) | 3:38 |
 | 69 | [Stick & Poke](https://open.spotify.com/track/7gJQ5uNScK7qN4vIsBYAvP) | [Derek Ted](https://open.spotify.com/artist/2cDJHHxiQrVfSLebJNDPXJ) | [Stick & Poke](https://open.spotify.com/album/1jr3zXAdpYry92sLxJLwtK) | 3:42 |
-| 70 | [Graceland](https://open.spotify.com/track/1Ovg3xEE7gMlg1mP6rpC7I) | [Bailey Tomkinson](https://open.spotify.com/artist/3SIJnnckGx5KwXlmFGfKSI) | [Graceland](https://open.spotify.com/album/50B5Qp9incWgkaXO2PmNYf) | 3:48 |
+| 70 | [Graceland](https://open.spotify.com/track/2YS5KA12iUxgFvB6ELvbIF) | [Bailey Tomkinson](https://open.spotify.com/artist/3SIJnnckGx5KwXlmFGfKSI) | [Graceland](https://open.spotify.com/album/3Umkco18vB5hzg9xbVrUQL) | 3:48 |
 | 71 | [Lavender](https://open.spotify.com/track/4de2JSToOh98pnNxgDier8) | [Gemma Laurence](https://open.spotify.com/artist/2sNPTD3BelCCJaH18PmeKm) | [Lavender](https://open.spotify.com/album/7bhq8QWXhDkmRnP0WX5LK0) | 3:36 |
 | 72 | [You Can Get It](https://open.spotify.com/track/77fryhqaIysuzQd5NeBdbc) | [Milan McAlevey](https://open.spotify.com/artist/55u8of9GwGn1eDbjQWlzlb) | [You Can Get It](https://open.spotify.com/album/2eINcfqrLeIu6b7AWzuy9d) | 4:20 |
 | 73 | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/track/7E3gvkRgBkjsGQr2N4bjIq) | [Jake Bardin](https://open.spotify.com/artist/6au2CHviUD4hfqI9UAPLgo) | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/album/4v1cJPYanw5ODSVbsC9Oum) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 |
 | 100 | [Walk The Streets On Sunrise](https://open.spotify.com/track/4ntU4sdYYE3j0I8qLeEHAx) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Impermanence](https://open.spotify.com/album/43KzRiTjzUvIGSbmSx1J3C) | 3:55 |
 
-Snapshot ID: `MTY2NjE2MDU5NiwwMDAwMDAwMGE2YmI1N2MxMmZiMWMzNTc3ODMwYTRkOWIzYjgyNjFh`
+Snapshot ID: `MTY2NjE2MDU5NiwwMDAwMDAwMDZhZmYyNDIxNTQxZmUyMDkxODhjZjBlN2Y4YmI4ZTM0`

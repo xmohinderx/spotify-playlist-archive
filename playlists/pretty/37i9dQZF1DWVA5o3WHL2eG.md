@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,376 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,376 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Where Did You Sleep?](https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5) | [Lisa Pac](https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE) | [Where Did You Sleep?](https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv) | 3:28 |
 | 25 | [Baby Blue](https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Baby Blue](https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV) | 2:55 |
 | 26 | [Lonely](https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Lonely](https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR) | 2:19 |
-| 27 | [Delikat](https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Delikat](https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO) | 2:36 |
-| 28 | [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 |
+| 27 | [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 |
+| 28 | [Delikat](https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Delikat](https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO) | 2:36 |
 | 29 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 |
 | 30 | [Irgendwo In Dieser Stadt](https://open.spotify.com/track/4zpN7E64DLc5oWkYaNnZ6P) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Irgendwo In Dieser Stadt](https://open.spotify.com/album/0i2xhfLlTRmKS37YkFyyeR) | 2:45 |
 | 31 | [Auryn](https://open.spotify.com/track/6qW39YyjxKzO5wp4JhIcnu) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Auryn](https://open.spotify.com/album/0bzlmX6llFoqRXXLHS0Tvp) | 5:50 |
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 47 | [Sleeper](https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj) | [Anna Aaron](https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F) | [Sleeper](https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy) | 2:36 |
 | 48 | [Eudaimonia](https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7) | [KOKA](https://open.spotify.com/artist/6YlsQwumQkkbfsADHeYC2m) | [Eudaimonia](https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm) | 3:23 |
 | 49 | [I Thought I Could Swim](https://open.spotify.com/track/1wbZ4Q4MXPyXMOnOYJVOK0) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [I Thought I Could Swim](https://open.spotify.com/album/1ZEohi9YHX7ysT9gBMLFwc) | 5:35 |
+| 50 | [Resistance](https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Resistance](https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit) | 6:34 |
 
-Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMDIwYmEwM2MyYmNmMzcwMDE0Njg1NTA1Mjg3MjI1NTMw`
+Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMGIwOTMxODM2ZGIzMDM0ZDMwNjM0N2JjM2M5NDI5MTBj`

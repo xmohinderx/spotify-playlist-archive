@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-347 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+348 songs - 18 hr 38 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [CORSA](https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [CORSA](https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d) | 3:09 | 2022-06-17 | 2022-10-16 |
 | [CRITIQUA](https://open.spotify.com/track/6h9atUDhTFazxUSgXywDzS) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp5000](https://open.spotify.com/album/2NbXyRbMzqaiE548rmj9qW) | 1:49 | 2022-02-04 | 2022-04-14 |
 | [Crystal Ball](https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Crystal Ball](https://open.spotify.com/album/79N96g4sh8QwGGp09VMJZN) | 1:58 | 2021-09-03 | 2022-07-20 |
-| [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 | 2022-08-12 |  |
+| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-10-07 |  |
+| [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 | 2022-08-12 | 2022-10-21 |
 | [Dangerookipawaa Freestyle](https://open.spotify.com/track/0yL0He951vlMYygPzSEEJ0) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Dangerookipawaa Freestyle](https://open.spotify.com/album/3f53BJvrCgMNXuyju8EBUi) | 3:47 | 2021-09-03 | 2022-07-20 |
 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 | 2022-09-23 |  |
 | [DEATHFAME](https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM) | [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Deathfame](https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW) | 3:25 | 2022-06-10 | 2022-07-26 |

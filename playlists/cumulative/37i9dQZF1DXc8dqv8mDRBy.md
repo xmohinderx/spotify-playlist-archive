@@ -4,7 +4,7 @@
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-72 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
+73 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 | 2021-11-12 |  |
 | [Por Amarte Así](https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 4:32 | 2021-11-12 |  |
 | [Prefiero Vivir Sin Ti](https://open.spotify.com/track/0gKTjLgXQYvjvlNpg79WbW) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Prefiero Vivir Sin Ti](https://open.spotify.com/album/746Xil1G50G3eKr4yUrfod) | 3:52 | 2021-11-12 |  |
-| [Quisiera Ser](https://open.spotify.com/track/4aL15aDa545Dc8E313rIEb) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:24 | 2021-11-12 |  |
+| [Quisiera Ser](https://open.spotify.com/track/4aL15aDa545Dc8E313rIEb) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:24 | 2021-11-12 | 2022-10-21 |
+| [Salvavidas](https://open.spotify.com/track/2ZXdTXVbAfNde0xbzAOkcr) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Salvavidas](https://open.spotify.com/album/7vhda7TSmOXiGlLtmVFS6c) | 2:57 | 2022-10-21 |  |
 | [Ser Amigos](https://open.spotify.com/track/1JbwzCItfaWEaCWkgUfrSw) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Estilo Libre](https://open.spotify.com/album/66dvunbgSWOguy0ZJV653Z) | 3:26 | 2021-11-12 |  |
 | [Si Tú Existieras](https://open.spotify.com/track/2MIuZxR2C5DvQhNWdcc3ob) | [Cepeda](https://open.spotify.com/artist/5AMBCoLbNgVCbA3XYMRlks) | [Si Tú Existieras](https://open.spotify.com/album/2RANXNE4W5tRDF90Pn1w22) | 3:57 | 2021-11-12 |  |
 | [Souvenir](https://open.spotify.com/track/2tXJEJyLeG4Ea9E4ntdyt9) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:58 | 2022-01-21 |  |

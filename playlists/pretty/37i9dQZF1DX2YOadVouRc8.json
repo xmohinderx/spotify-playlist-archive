@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8101,
+  "num_followers": 8130,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDY5MTg4MWY2NWYzOGQ4M2M0MzZjMTNjMjMzYWYyYjc3",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDY5NjdjMWNjYzFiZjcwZmJmZjY0NjBkZGJhNzBmZTRk",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Water & Garri",
-        "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Tales By Moonlight (Ft Amaarae)",
-      "url": "https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Bordeaux",
         "url": "https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 198555,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Water & Garri",
+        "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Tales By Moonlight (Ft Amaarae)",
+      "url": "https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1117,24 +1117,20 @@
       "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
     },
     {
-      "added_at": "2022-09-30 06:26:52",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+        "name": "My WorlD With U",
+        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
       },
       "artists": [
         {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Naomi Achu",
-          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
         }
       ],
-      "duration_ms": 208896,
-      "name": "Fight For You",
-      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+      "duration_ms": 170666,
+      "name": "SAME AS YOU",
+      "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1153,20 +1149,24 @@
       "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-09-30 06:26:52",
       "album": {
-        "name": "My WorlD With U",
-        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
       },
       "artists": [
         {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
         }
       ],
-      "duration_ms": 170666,
-      "name": "SAME AS YOU",
-      "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
       "added_at": "2022-06-09 23:00:00",

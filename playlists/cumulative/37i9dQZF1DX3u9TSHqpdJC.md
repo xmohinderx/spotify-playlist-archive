@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: emlyn Artwork: Paola Saliby
 
-2,613 songs - 5 day 13 hr 37 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
+2,614 songs - 5 day 13 hr 40 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Back to You](https://open.spotify.com/track/3Ux69l62Dupzz6dWK13AfS) | [jules](https://open.spotify.com/artist/1OsVfaqK7kVA73NJOdsoVQ) | [Back to You](https://open.spotify.com/album/2TKAkCwHPeffc2LLykwZKi) | 3:30 | 2021-01-28 | 2021-02-25 |
 | [Backbone](https://open.spotify.com/track/0UOmbgxsIPF3lxN2Z0vc08) | [Emily Nance](https://open.spotify.com/artist/10piV0XBjZRajqgaa8tZP1) | [Eunoia](https://open.spotify.com/album/5obJgeXyTYKMPIoeUH6lfF) | 3:21 | 2022-01-12 | 2022-02-24 |
 | [Background Noise](https://open.spotify.com/track/1lbHkhQ2J7XZvWqrg3Npwn) | [Casey Conroy](https://open.spotify.com/artist/7elB9Pjvsisg4hKILUjaUr) | [Background Noise](https://open.spotify.com/album/3w0xvbfLNFG37oFQIpQ7Wb) | 2:42 | 2021-04-15 | 2021-05-13 |
-| [Backhanded](https://open.spotify.com/track/3LQ4KHDjqaej9DknFBEuqG) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/5aUUXP3DYYnjHo8GxNfCHq) | 2:29 | 2022-09-28 |  |
+| [Backhanded](https://open.spotify.com/track/3LQ4KHDjqaej9DknFBEuqG) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/5aUUXP3DYYnjHo8GxNfCHq) | 2:29 | 2022-09-28 | 2022-10-21 |
+| [Backhanded](https://open.spotify.com/track/5vKdtldfyyyPUuFryTsPSQ) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/3eR5nOr2jDxMfzr7zqmYCJ) | 2:29 | 2022-09-29 |  |
 | [Backseat](https://open.spotify.com/track/4VrnJv9vwURz9jHOePqDKu) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Backseat](https://open.spotify.com/album/3QpKWHxH82k9vW71K6Z4Tr) | 3:07 | 2021-11-19 | 2021-12-01 |
 | [Bad](https://open.spotify.com/track/4K8kQJgRM1eeNOlIJQ7CDK) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [Bad](https://open.spotify.com/album/1lljdIyrduCFvpLLJYjwQn) | 2:44 | 2021-03-06 | 2021-04-01 |
 | [Bad At Parties](https://open.spotify.com/track/4jCLdCkeE7Y1GvmYtdmAA4) | [Helena Mayer](https://open.spotify.com/artist/3Cgfb3YtMWmIqo4I1BmCCU) | [Bad At Parties](https://open.spotify.com/album/4KnGjU2WGBhf3clbp68bjt) | 2:20 | 2022-01-12 | 2022-02-10 |

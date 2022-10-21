@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-230 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+231 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Blinker](https://open.spotify.com/track/0KrMPgjnEpeV19n7liI59i) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:35 | 2021-11-19 | 2022-07-29 |
 | [Braincase](https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Braincase](https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r) | 3:12 | 2022-02-01 |  |
 | [Break of Dawn \- Duke & Jones Remix](https://open.spotify.com/track/0pbuqDgYF9EdakzDzbUwj1) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Danger Days \(The Remixes\)](https://open.spotify.com/album/7mPmXPYUBtYQ4wAGUUR57t) | 2:55 | 2021-11-19 | 2022-01-09 |
+| [Breath](https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/55wW59sZIugEKDbbATNigk) | 3:21 | 2022-09-30 |  |
 | [Breath](https://open.spotify.com/track/0peDcDwrKV0LEeoQuSQVLG) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/1bj4mGXjlOkfZZ5Lv3WcOB) | 3:21 | 2022-02-01 | 2022-10-15 |
 | [Buck](https://open.spotify.com/track/4eydbGI5QpRXs0Tua5m2c1) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Buck](https://open.spotify.com/album/2TtKVJdubkLQ7OrxU5GuHE) | 2:41 | 2022-05-13 | 2022-10-18 |
 | [Bust Out](https://open.spotify.com/track/7bXODu5FcCot1HiqVGZHQo) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC) | [Bust Out](https://open.spotify.com/album/5MTJNbFNMlNzFUMzwdULYL) | 2:43 | 2021-11-19 | 2022-02-02 |
@@ -160,7 +161,7 @@
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-02-02 |
 | [NO TOMORROW](https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr) | 2:54 | 2022-07-14 |  |
 | [NO TOMORROW](https://open.spotify.com/track/0dLHJRrBKfLM3OwLHvrmEd) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3) | 2:54 | 2021-11-19 | 2022-07-29 |
-| [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 |  |
+| [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 | 2022-10-21 |
 | [O.G.](https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [O.G.](https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv) | 2:50 | 2022-07-14 |  |
 | [Oblivion](https://open.spotify.com/track/1YbYFYLlJvqcuEnawPyxlD) | [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Oblivion](https://open.spotify.com/album/4ePrBbPSL2DoSyjqfH4aKX) | 2:55 | 2021-11-19 | 2022-01-24 |
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-19 | 2022-02-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55160,
+  "num_followers": 55159,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMDA2NDU2NWRmMzFhMDUyMTYzMzkwZDIwOTlkNGQ5NWJj",
+  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMDJhYWVmMTdkMjc4NjRjMjg0ODAyNWY3ODFmNDRmOWYw",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
+        "name": "Imperio",
+        "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
       },
       "artists": [
         {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+      "duration_ms": 222000,
+      "name": "Imperio",
+      "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -243,18 +243,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Imperio",
-        "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
+        "name": "Equivocado",
+        "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
       "artists": [
         {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Imperio",
-      "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
+      "duration_ms": 246780,
+      "name": "Equivocado",
+      "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -307,26 +311,6 @@
       "duration_ms": 127264,
       "name": "Uy K Raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Equivocado",
-        "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 246780,
-      "name": "Equivocado",
-      "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "La Oportunidad - Spotify Singles",
+        "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 207499,
+      "name": "La Oportunidad - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Ya No Somos",
         "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 189152,
       "name": "Ya No Somos",
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "La Oportunidad - Spotify Singles",
-        "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 207499,
-      "name": "La Oportunidad - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -571,26 +555,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        }
-      ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Webcam",
         "url": "https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3"
       },
@@ -611,6 +575,26 @@
       "duration_ms": 180000,
       "name": "Webcam",
       "url": "https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -743,22 +727,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 170494,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -799,22 +783,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "\u00daltima Cena",
-        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
-      },
-      "artists": [
-        {
-          "name": "Bernal\u00fa",
-          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "\u00daltima Cena",
-      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Pa' Siempre",
         "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
       },
@@ -827,6 +795,22 @@
       "duration_ms": 139026,
       "name": "Pa' Siempre",
       "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "\u00daltima Cena",
+        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
+      },
+      "artists": [
+        {
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "\u00daltima Cena",
+      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -903,22 +887,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Shot de Tequila",
-        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 211809,
-      "name": "Shot de Tequila",
-      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
       },
@@ -935,6 +903,22 @@
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Shot de Tequila",
+        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 211809,
+      "name": "Shot de Tequila",
+      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1011,22 +995,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Otra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 220202,
-      "name": "Otra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
       },
@@ -1047,6 +1015,38 @@
       "duration_ms": 171690,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Otra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 220202,
+      "name": "Otra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8"
+      },
+      "artists": [
+        {
+          "name": "Luxxo",
+          "url": "https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ"
     }
   ],
   "unique_name": "Urbano Fresh",

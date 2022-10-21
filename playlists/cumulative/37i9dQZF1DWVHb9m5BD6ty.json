@@ -1719,10 +1719,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 180386,
       "name": "Time",
       "url": "https://open.spotify.com/track/5BJcisTgPFGiDRNsVFfufn"
+    },
+    {
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/7zZ9ryXdhx3ysVppy5Z5CE"
+      },
+      "artists": [
+        {
+          "name": "Jafaris",
+          "url": "https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/68hfxlFbZqcZQm0hw92T5n"
     },
     {
       "album": {

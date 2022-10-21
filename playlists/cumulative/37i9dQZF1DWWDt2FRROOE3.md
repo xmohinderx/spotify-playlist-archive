@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-53 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
+55 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,11 +33,12 @@
 | [Get Lucky](https://open.spotify.com/track/2bDhqkRWUpEVXHFJzJ780i) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:01 | 2021-07-28 |  |
 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 |  |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 2:45 | 2021-07-28 |  |
+| [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 |  |
 | [Hotel California](https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd) | [Mariachi Espiritus](https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7) | [Hotel California](https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K) | 5:21 | 2021-07-28 |  |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/19OQ0JOUYNRaZVjI2cS0YR) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:17 | 2021-07-28 | 2022-10-19 |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jBkwecH1M6L2M0LhrJZyw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 |  |
 | [Killer Queen \- Instrumental](https://open.spotify.com/track/3L9bPBxPhitnEzTZI0YeU0) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:55 | 2021-07-28 |  |
-| [La Cucaracha](https://open.spotify.com/track/5fCCJgB3XbG5mqVZBYLqOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 2:45 | 2021-07-28 |  |
+| [La Cucaracha](https://open.spotify.com/track/5fCCJgB3XbG5mqVZBYLqOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 2:45 | 2021-07-28 | 2022-10-21 |
 | [Lithium](https://open.spotify.com/track/3az8lXrRXqUZPzWJ30UOfw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 4:06 | 2021-07-28 | 2022-10-19 |
 | [Livin' On a Prayer](https://open.spotify.com/track/3Gz5Eih3pFCSXuVvAFGNxf) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:55 | 2021-07-28 |  |
 | [Man in the Box](https://open.spotify.com/track/5zrZCsmEfd6wJrgGk80nWj) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:22 | 2021-07-28 |  |
@@ -53,9 +54,10 @@
 | [Somebody That I Used To Know](https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 4:41 | 2021-07-28 |  |
 | [Surfin' U.S.A.](https://open.spotify.com/track/03Fwph4h6NoEBM2TXykIqQ) | [Mariachi La Playa](https://open.spotify.com/artist/63QiMM7xCSzwYUvDuIcBHP) | [Surfin' U.S.A.](https://open.spotify.com/album/4o7MiBZ4O9X6FCRigl8mq9) | 2:17 | 2021-07-28 |  |
 | [Sweet Caroline](https://open.spotify.com/track/1qvshK9S8bSNnsHxDhYhiJ) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:58 | 2021-07-28 |  |
-| [Tequila](https://open.spotify.com/track/13g2NasYoNmLlzXpesH48Z) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 3:18 | 2021-07-28 |  |
+| [Tequila](https://open.spotify.com/track/13g2NasYoNmLlzXpesH48Z) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 3:18 | 2021-07-28 | 2022-10-21 |
 | [The Final Countdown](https://open.spotify.com/track/1vLw8Ns5fqzXzkPQYhmR6i) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:18 | 2021-07-28 |  |
 | [The Fool on the Hill \- Instrumental](https://open.spotify.com/track/7HBsdQUoEtTKmPfOEZdd9o) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:56 | 2021-07-28 |  |
+| [The Moon \(from "Duck Tales"\)](https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:44 | 2021-07-28 |  |
 | [Thunderstruck](https://open.spotify.com/track/5lytAucRHbRuQMJ8udxehD) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Tres](https://open.spotify.com/album/7gn4wimMjqxFD4Qd6JuKCw) | 5:03 | 2021-07-28 |  |
 | [Vega \[Street Fighter II\]](https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX), [The OneUps](https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp) | [Vega \[Street Fighter II\]](https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv) | 2:39 | 2021-07-28 |  |
 | [Viva La Vida](https://open.spotify.com/track/4hI8sKg524kUczaWwFYp9r) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:06 | 2021-07-28 |  |

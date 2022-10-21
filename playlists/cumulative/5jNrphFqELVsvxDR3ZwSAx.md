@@ -4,7 +4,7 @@
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-91 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/2GIyLBqiwY9OvCNmdmNGIL)
+92 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2GIyLBqiwY9OvCNmdmNGIL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Don’t Let Me Down \- First Rooftop Performance](https://open.spotify.com/track/3CzwTMrxcrEWwDWJpOd8fg) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(2021 Mix\)](https://open.spotify.com/album/0rkNp9nLkAPIoLArGQnjZ8) | 3:29 | 2022-05-18 |  |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 | 2022-05-18 |  |
 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/2sXp9Qmvc7mRaDBjBgcGGi) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity](https://open.spotify.com/album/7yDxJXFPl88Dt9kBo0dDD6) | 4:13 | 2022-05-18 |  |
+| [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-20 |  |
 | [Fever Dog](https://open.spotify.com/track/5TGHd1XiwkNSBIMWmhNQ6v) | [Still Water](https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9) | [Almost Famous \(Music From The Motion Picture\)](https://open.spotify.com/album/3oNY3UpmcQQ4TAicUcKkdf) | 3:09 | 2022-05-18 |  |
 | [Fields Of Gold](https://open.spotify.com/track/5Y9Hqg5Z3EHUDDwd54FDQb) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ) | 3:42 | 2022-05-18 |  |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2022-05-18 |  |

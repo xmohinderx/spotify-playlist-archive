@@ -4,7 +4,7 @@
 
 > ملتقي أصوات النساء العربيات! الغلاف: أصيل هميم
 
-187 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+188 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Fil Lail](https://open.spotify.com/track/64kEs3TmxItCXxNWtoEhco) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Fil Lail](https://open.spotify.com/album/2fb3xGUCZ3yLQ0wX4mg7bv) | 4:13 | 2022-04-08 |  |
 | [Galbi](https://open.spotify.com/track/1TB1bCnz4Q50H17LdzBpJR) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Galbi](https://open.spotify.com/album/0H9U0Wg0iY1oGjk3BWwJ47) | 3:07 | 2022-04-08 | 2022-07-28 |
 | [Galbi Tlef](https://open.spotify.com/track/75uPMqyybZN0jPzfV93a9E) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Galbi Tlef](https://open.spotify.com/album/02dB6JX78mIrKolDkwiS9q) | 3:04 | 2022-04-08 |  |
-| [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-04-08 |  |
+| [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-04-08 | 2022-10-21 |
 | [Go\-Ahead](https://open.spotify.com/track/7dJ90WUWkUhVftovR92Zjs) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Go\-Ahead](https://open.spotify.com/album/59bUsavlETDylQVUQhXYcA) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-09-22 |  |
 | [Haga Wahda](https://open.spotify.com/track/2ZTvXg1K0WkXdrpByVVjhf) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [Haga Wahda](https://open.spotify.com/album/0dsTRGZYG07RdME01EuVXs) | 3:03 | 2022-04-08 | 2022-07-29 |
@@ -194,6 +194,7 @@
 | [غيمة الميلاد](https://open.spotify.com/track/58fSybHxwDX4WVdahmBAOe) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [غيمة الميلاد](https://open.spotify.com/album/6okaq6XaTINkWyWjHR25Hk) | 4:02 | 2022-04-08 | 2022-07-29 |
 | [مسيطره](https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4) | 2:48 | 2022-07-21 | 2022-08-18 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2022-04-08 | 2022-07-29 |
+| [مغرومة بمين](https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [مغرومة بمين](https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM) | 3:11 | 2022-10-21 |  |
 | [نساى](https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:17 | 2022-04-08 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

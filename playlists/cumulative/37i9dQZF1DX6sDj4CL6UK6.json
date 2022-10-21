@@ -2206,6 +2206,24 @@
     },
     {
       "album": {
+        "name": "That Guy",
+        "url": "https://open.spotify.com/album/2mIp846Cag0BsUsUVQEH1N"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234750,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2RC78RMiwvHtZV2OP8CK2h"
+    },
+    {
+      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/7pT89w7mNXavMZjUZOz7qn"
       },

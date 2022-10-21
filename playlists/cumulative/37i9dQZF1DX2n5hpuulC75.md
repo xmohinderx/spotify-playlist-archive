@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-110 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+111 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 | 2018-12-11 |  |
 | [Frozen Away](https://open.spotify.com/track/4hboEacHpNTLg2xPmAfjR3) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [Blur // Frozen Away](https://open.spotify.com/album/2fqV2w0MSDUocsbpI0OSaa) | 2:48 | 2018-12-11 | 2022-07-29 |
 | [Get Light](https://open.spotify.com/track/3VGqj3ZkIKE6dZCqXZQdIk) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Get Light](https://open.spotify.com/album/2PUSsWHPs1h48a7DaFYvY7) | 3:28 | 2018-12-11 | 2022-07-26 |
-| [Get Light](https://open.spotify.com/track/5uxT7O4QHNbGCjaqhn4cq6) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/3nhkZgFk1Ta7qtuOOdMJbK) | 3:28 | 2018-12-11 |  |
+| [Get Light](https://open.spotify.com/track/5uxT7O4QHNbGCjaqhn4cq6) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/3nhkZgFk1Ta7qtuOOdMJbK) | 3:28 | 2018-12-11 | 2022-10-21 |
 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 | 2018-12-11 | 2022-07-28 |
 | [Holiday \- Kyson Remix](https://open.spotify.com/track/3EsqrnNfJ9CgKtmqM8dJPN) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/13suTnGeieJJA5mF9ivLH2) | 4:41 | 2019-05-24 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/0BgY4FS807k1sfs4ncUxJd) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home](https://open.spotify.com/album/5jGmagbLNTCg0PvFJxXkyC) | 3:18 | 2018-12-11 | 2022-07-29 |
@@ -68,6 +68,7 @@
 | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0) | 3:20 | 2018-12-11 |  |
 | [INT.](https://open.spotify.com/track/0PkdPVAAf35WruJQsj9OSb) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP](https://open.spotify.com/album/7nONNWbe5d7OrhVPzivguN) | 1:27 | 2018-12-11 | 2022-07-29 |
 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 | 2018-12-11 |  |
+| [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 | 2018-12-11 |  |
 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2018-12-11 | 2022-10-14 |
 | [Loss](https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Loss](https://open.spotify.com/album/5p9mx2AX05jn6rzjzKUYNX) | 3:39 | 2018-12-11 | 2022-07-29 |
 | [Medication](https://open.spotify.com/track/2p2xu7jiPzZG0W7IvXhEY7) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Broken Clinic](https://open.spotify.com/album/3ifqH567bhxDsguSelvA6m) | 3:50 | 2018-12-11 |  |

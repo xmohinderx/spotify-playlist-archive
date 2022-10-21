@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,883 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,028 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 73 | [Nimbus](https://open.spotify.com/track/0GNEGCkJMiC6vxeoc0Qc4M) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [CRAS & KLiJN: Nimbus](https://open.spotify.com/album/7BKBnKZcR9tM0u63pexWcE) | 2:46 |
 | 74 | [Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, "Mélodie" \(arr\. I\. Friedman for piano\)](https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8) | [Ignaz Friedman](https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg), [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b) | 4:11 |
 | 75 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 |
-| 76 | [A](https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf) | 3:52 |
+| 76 | [A](https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3) | 3:52 |
 | 77 | [Tröstevisa](https://open.spotify.com/track/68EjEEyGv2FcTVv9wsrJdT) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp) | [Piano](https://open.spotify.com/album/3YGh4CN0JocLK0SwvJgMWc) | 3:33 |
 | 78 | [DANCE: I\. when you're broken open](https://open.spotify.com/track/3Y0EbmwdJNP7dgVqSD8vRW) | [Anna Clyne](https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j), [Inbal Segev](https://open.spotify.com/artist/67cc5bwnsHBViTmOk3GjRj), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Anna Clyne: DANCE \- Edward Elgar: Cello Concerto](https://open.spotify.com/album/2dDYUzvLOjEXbQh0i9i1p4) | 4:44 |
 | 79 | [Saving Daylight](https://open.spotify.com/track/1PAqkhjrgQboGgUJILMuBv) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Oak & Ivory](https://open.spotify.com/album/4R9G7hookynSEaFCVohEPS) | 2:50 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 102 | [Crisantemi for string orchestra](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 103 | [Infinité](https://open.spotify.com/track/4rMf7O7IA7M8Aly99i3GSd) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx) | [Silent Moves \- Music by Dan Evmark](https://open.spotify.com/album/4pmY5rkR1S9OgZ8EYcKO4g) | 4:22 |
 
-Snapshot ID: `MTY2MzU4OTgxMCwwMDAwMDAwMGNmYjU2ZWM5NTNiN2Y2NTdjNTc3NjNjMmRiZDYyMzEx`
+Snapshot ID: `MTY2MzU4OTgxMCwwMDAwMDAwMDhjOWVjYjBmMTQ3MjBlYTVhMmEwOWIxYWRlYzdhNDc3`

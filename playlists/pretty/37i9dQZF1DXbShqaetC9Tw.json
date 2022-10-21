@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 71226,
+  "num_followers": 71313,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzMwNiwwMDAwMDAwMDVjNmNhNTAzYWFlODM1YzM3MTA0MTIzOTU1MWY4ODQ0",
+  "snapshot_id": "MTY2NTExNzMwNiwwMDAwMDAwMGIxN2ZiODM3OTcyYTM2NTIzY2JmMzFhMGQ5MjAxYzdh",
   "tracks": [
     {
       "added_at": "2022-10-06 05:29:10",
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb"
     },
     {
-      "added_at": "2022-10-20 01:52:10",
+      "added_at": "2022-10-21 01:51:03",
       "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-06 05:29:10",
       "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Blue Candle",
+      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
+    },
+    {
+      "added_at": "2022-10-06 05:29:10",
+      "album": {
         "name": "Sool",
         "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 230560,
       "name": "Sool (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
-    },
-    {
-      "added_at": "2022-10-06 05:29:10",
-      "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Blue Candle",
-      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
     },
     {
       "added_at": "2022-10-06 05:29:10",
@@ -887,22 +887,18 @@
     {
       "added_at": "2022-10-06 05:29:10",
       "album": {
-        "name": "EASY (feat. ELO)",
-        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
+        "name": "Do Not Want To Do It",
+        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
       },
       "artists": [
         {
-          "name": "Kass",
-          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 165106,
-      "name": "EASY (feat. ELO)",
-      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
+      "duration_ms": 232318,
+      "name": "Do Not Want To Do It",
+      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

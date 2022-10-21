@@ -4,7 +4,7 @@
 
 > Den perfekta mixade spellistan för träningspasset.
 
-130 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/417Ys8x8Iow3PJfqFACoes)
+131 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/417Ys8x8Iow3PJfqFACoes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-07-15 |  |
 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 | 2021-08-19 |  |
 | [Hold On \(feat\. Michel Zitron\)](https://open.spotify.com/track/22zxLxXlXrBIm7XaazHNrg) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Michel Zitron](https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw) | [Hold On \(feat\. Michel Zitron\)](https://open.spotify.com/album/2BxWklE9D6hPhvPgcvLWtZ) | 4:04 | 2021-08-19 |  |
-| [Home](https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laeko](https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT) | [Home](https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW) | 2:17 | 2021-08-19 |  |
+| [Home](https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laeko](https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT) | [Home](https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW) | 2:17 | 2021-08-19 | 2022-10-21 |
 | [Home](https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [Home](https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg) | 3:18 | 2021-08-19 |  |
 | [How Can I Forget Her](https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [How Can I Forget Her](https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ) | 2:48 | 2021-08-19 |  |
 | [Hypnotize \(feat\. Gia Koka\)](https://open.spotify.com/track/0LyrSQgF6gZfWAyt24LsfU) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Hypnotize \(feat\. Gia Koka\)](https://open.spotify.com/album/0koiPedJfp8HRR8G1TYnLh) | 2:41 | 2022-07-15 | 2022-10-16 |
@@ -96,6 +96,7 @@
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2021-08-19 |  |
 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 | 2021-08-19 |  |
 | [One Last Time](https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [One Last Time](https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX) | 4:00 | 2021-08-19 |  |
+| [Ones You Miss](https://open.spotify.com/track/31rl8e7IEpHtt3mkjOU4FW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss](https://open.spotify.com/album/6attcIq1peIGvUC29hoaFA) | 2:13 | 2022-10-10 |  |
 | [Ones You Miss](https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss](https://open.spotify.com/album/1OEEVoyaZUt6yCncONcQZr) | 2:13 | 2021-08-19 | 2022-10-13 |
 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 | 2022-07-15 |  |
 | [Party To Survive](https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI) | [TADROS](https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN) | [Party To Survive](https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH) | 2:24 | 2022-07-15 |  |

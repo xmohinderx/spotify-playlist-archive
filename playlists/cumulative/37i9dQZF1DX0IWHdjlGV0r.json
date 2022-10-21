@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "PAIN",
+        "url": "https://open.spotify.com/album/41grqs0jslpaOFto4UghCq"
+      },
+      "artists": [
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/1OMlasYCHuDJ6aVJeL4Lnr"
+    },
+    {
+      "album": {
         "name": "A TE",
         "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
       },
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 159711,
       "name": "TE STESSO",
       "url": "https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,819 likes - 247 songs - 12 hr 36 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,820 likes - 248 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,5 +255,6 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 245 | [C.E.S.](https://open.spotify.com/track/4nIFr8MXAVUDwRjBwDYRju) | [Jasper Harris](https://open.spotify.com/artist/57B9ghF6pGxBzFfOYLAcRA) | [Themes](https://open.spotify.com/album/2G7NUNmDhytHouxNVwAfUm) | 2:13 |
 | 246 | [Bang Bang \(feat\. Donna Missal\) \- Eden Prince Remix](https://open.spotify.com/track/2Ps3sfQyPCCD9exqWqNMM8) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\) \[Eden Prince Remix\]](https://open.spotify.com/album/7zkTu2FTVevWUZdTifJwfr) | 3:04 |
 | 247 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 |
+| 248 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 |
 
-Snapshot ID: `NDg2OSw1MTI2ZGZhYWZmYjJlNWY5ZDAxOGQ2NjM4ZjM2YzdkZDUxM2JkZmI4`
+Snapshot ID: `NDg3MCxmYzgxMDI2ZjdkYjg3YTUwZWUwYmQwMzE2NmI4NmQ1Y2EzZWRjN2E2`

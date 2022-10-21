@@ -2873,10 +2873,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 142093,
       "name": "United",
       "url": "https://open.spotify.com/track/0CBvwwGhoTFdLCC5NWHvUi"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/4l0P2zDa1oDFYo6HVH2ee7"
+      },
+      "artists": [
+        {
+          "name": "BAWK",
+          "url": "https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142093,
+      "name": "United",
+      "url": "https://open.spotify.com/track/0DS8B90joPpSLNrozQvHhe"
     },
     {
       "album": {

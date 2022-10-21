@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,611 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,676 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 26 | [i got what i asked for](https://open.spotify.com/track/73zlBhD7TDSIFrmcdUYoH3) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [i got what i asked for](https://open.spotify.com/album/7uHrq6RsMnfWJOkgwGoftj) | 3:11 |
 | 27 | [Phenomenal](https://open.spotify.com/track/21GoVUM73Z197lokQtCXdF) | [L'FREAQ](https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ) | [Phenomenal](https://open.spotify.com/album/4lUMfqrmNTmPQXVRB0VR3Y) | 4:00 |
 | 28 | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/track/1Hlg1LF0oJ1UBxyVCJcP5i) | [Shitney Beers](https://open.spotify.com/artist/17ghMPiifubfyIujm3sEBa), [Elena Steri](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/album/2pXP6FJsvQNbTzY0PNUCX7) | 1:57 |
-| 29 | [Alibi](https://open.spotify.com/track/0g2p9dssyIrbWCAE3pETd4) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/6CuEN2Gr3nnJXydEOuE3q3) | 2:57 |
+| 29 | [Alibi](https://open.spotify.com/track/7wK9sB7hjnUSoCnWRyVzlu) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/5RAFq2PS8L0tiww2yeQzJj) | 2:57 |
 | 30 | [Change](https://open.spotify.com/track/5D95THOJ7BQkpn5nw9Tu1p) | [Waterfall Strainer](https://open.spotify.com/artist/5gWUTKme7fVrzfstMZ9bkj) | [Change](https://open.spotify.com/album/1wkiyC3XX3rTvMtBUwyoDV) | 2:33 |
 | 31 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 |
 | 32 | [Lemondrops \(Radio Edit\)](https://open.spotify.com/track/2ICmsEANA3oxUfWVr86PR4) | [Blair Gun](https://open.spotify.com/artist/3Zo3lxLN17TNyV910OMiZT) | [Lemondrops \(Radio Edit\)](https://open.spotify.com/album/3YDwBV7WkyrbpwCVF9JNOq) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Frankie's Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankie's Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 |
 | 100 | [Pickles](https://open.spotify.com/track/650TMfLZY2yMvYXlCY7kup) | [Foyer Red](https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF) | [Pickles](https://open.spotify.com/album/2eXBMvHUDIx8NNJi1XZS0h) | 3:54 |
 
-Snapshot ID: `MTY2NjE1MjAwMCwwMDAwMDAwMDdiNTBmMDAyNmIyYTkwMThmYjZlMjk3Y2JiZjNjNWMz`
+Snapshot ID: `MTY2NjE1MjAwMCwwMDAwMDAwMDVjZTk0YTgyMmZiMzBjMWE5NmNmMDRhMTc5NDVmNzY5`

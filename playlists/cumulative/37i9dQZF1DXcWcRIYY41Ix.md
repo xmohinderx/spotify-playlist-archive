@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Silvana Estrada.
 
-302 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+303 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Para Vencer](https://open.spotify.com/track/3ttxFaEM3dB1Et9QNpxCnA) | [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Basta de Música](https://open.spotify.com/album/5gLwEInVNphcUsjYQzoTRQ) | 2:55 | 2021-12-24 | 2022-04-24 |
 | [Parque Chas](https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Parque Chas](https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b) | 3:54 | 2022-03-04 | 2022-04-21 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |
-| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 |  |
+| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 | 2022-10-21 |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 |  |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
 | [Pequeñito](https://open.spotify.com/track/1d73Yo9pEc4mfaZG7Z1zCZ) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [Pequeñito](https://open.spotify.com/album/0zfPmtmMrsV2qVGtoA0Pse) | 3:37 | 2022-04-01 | 2022-04-21 |
@@ -234,6 +234,7 @@
 | [Recordarte](https://open.spotify.com/track/2UKW3RttwFxadMfhUpFyfW) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Recordarte](https://open.spotify.com/album/4A3YmQtJWc47KCXQ5zd9KQ) | 3:40 | 2022-10-15 |  |
 | [Recuérdame](https://open.spotify.com/track/7zpVwSOoFqDa1c42D6EzwF) | [Lena Carrilero](https://open.spotify.com/artist/4w7xZndYz2tIKdflbxPFu9) | [Cenizas en el aire](https://open.spotify.com/album/5wTCsh7UUqLRfH146aAgAl) | 4:38 | 2022-07-22 | 2022-07-29 |
 | [Relieve](https://open.spotify.com/track/4KAWkrPuZ4bkpjS799ZHaw) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Delfina Mancardo](https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q) | [Relieve](https://open.spotify.com/album/7i0jP7k6WFshAcXTVz8sNR) | 2:27 | 2022-07-22 | 2022-07-25 |
+| [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 | 2022-10-10 |  |
 | [Respiración](https://open.spotify.com/track/7DUE1MoTbfmTYgjGuSYxGM) | [Kike M](https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9) | [Respiración](https://open.spotify.com/album/1Zg0cgFR4YMkJ4f8eNR2P1) | 3:12 | 2022-04-01 | 2022-04-08 |
 | [Resurgiré](https://open.spotify.com/track/2jRyj7njfqgDh6xYZHR5mz) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Resurgiré](https://open.spotify.com/album/2PPlk816eHbyJdUE8O53vJ) | 3:25 | 2021-12-24 | 2022-07-28 |
 | [Rie Chinito](https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Perotá Chingó](https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s) | 5:09 | 2022-07-22 |  |

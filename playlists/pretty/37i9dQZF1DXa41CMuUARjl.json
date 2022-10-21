@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Charlotte de Witte.",
-  "num_followers": 404814,
+  "num_followers": 405002,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGE3NDk2MDk4YmU2M2NmM2M0NjUzMDdiODZhZGVjY2M1",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDc2ZTc0ODA3MGUyYjU0Y2JlZGVkMjNhNjU4ZTM5YzJh",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Forever In My Mind",
+        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        }
+      ],
+      "duration_ms": 152610,
+      "name": "Forever In My Mind",
+      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Myriad",
         "url": "https://open.spotify.com/album/4I2XNQakcuBrCmvPb9VSDc"
       },
@@ -707,26 +727,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Forever In My Mind",
-        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "LPW",
-          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
-        }
-      ],
-      "duration_ms": 152610,
-      "name": "Forever In My Mind",
-      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Party Girl",
         "url": "https://open.spotify.com/album/5s1TJf6zpI073x4X6mLdLR"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 175452,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/3ixvutjcI6IsGQ6Qehe1Po"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -783,26 +767,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "All On Me (feat. Dotter)",
-        "url": "https://open.spotify.com/album/4MLtwTrYUpZ0eGlHYMXG3y"
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Mangoo",
-          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
-        },
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         }
       ],
-      "duration_ms": 168565,
-      "name": "All On Me (feat. Dotter)",
-      "url": "https://open.spotify.com/track/7nulK6AZKACR2dxLCbQz6S"
+      "duration_ms": 175714,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -835,22 +811,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Talkin",
-        "url": "https://open.spotify.com/album/4lVS9OPZ5WVCR4FVNmBKus"
+        "name": "All On Me (feat. Dotter)",
+        "url": "https://open.spotify.com/album/4MLtwTrYUpZ0eGlHYMXG3y"
       },
       "artists": [
         {
-          "name": "DJ Hanzel",
-          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
         },
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Mangoo",
+          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
+        },
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
         }
       ],
-      "duration_ms": 211831,
-      "name": "Talkin",
-      "url": "https://open.spotify.com/track/7LPgv7LJ4AgBLsamOzsBh0"
+      "duration_ms": 168565,
+      "name": "All On Me (feat. Dotter)",
+      "url": "https://open.spotify.com/track/7nulK6AZKACR2dxLCbQz6S"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -875,22 +855,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ambush",
-        "url": "https://open.spotify.com/album/2dG3rIL78fn3vWa4ehW9HK"
+        "name": "Talkin",
+        "url": "https://open.spotify.com/album/4lVS9OPZ5WVCR4FVNmBKus"
       },
       "artists": [
         {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+          "name": "DJ Hanzel",
+          "url": "https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC"
         },
         {
-          "name": "Robbie Mendez",
-          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Ambush",
-      "url": "https://open.spotify.com/track/3MjhqvELJKX433TQS2zsQF"
+      "duration_ms": 211831,
+      "name": "Talkin",
+      "url": "https://open.spotify.com/track/7LPgv7LJ4AgBLsamOzsBh0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -907,6 +887,26 @@
       "duration_ms": 145573,
       "name": "Restless Bones",
       "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Ambush",
+        "url": "https://open.spotify.com/album/2dG3rIL78fn3vWa4ehW9HK"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Robbie Mendez",
+          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Ambush",
+      "url": "https://open.spotify.com/track/3MjhqvELJKX433TQS2zsQF"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "People & Machines",
-        "url": "https://open.spotify.com/album/2Gx1VlTIyHQl3jSeP85n9K"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 299935,
-      "name": "People & Machines",
-      "url": "https://open.spotify.com/track/2dZAzMi2sx4yF3VMbh2FHg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/2ap51cMDdkW0IlqDhxx7Tb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 168750,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/5W6JPtcMVsiHvFg9f9Oy5S"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "People & Machines",
+        "url": "https://open.spotify.com/album/2Gx1VlTIyHQl3jSeP85n9K"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 299935,
+      "name": "People & Machines",
+      "url": "https://open.spotify.com/track/2dZAzMi2sx4yF3VMbh2FHg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1087,38 +1087,42 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Look Back",
-        "url": "https://open.spotify.com/album/4WptQuxLSAczoyQXrwZWFW"
+        "name": "Sunday Night",
+        "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         }
       ],
-      "duration_ms": 222295,
-      "name": "Look Back",
-      "url": "https://open.spotify.com/track/56arOopqj8V928baND3phD"
+      "duration_ms": 150131,
+      "name": "Sunday Night",
+      "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
     },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I'll Be There (feat. Zak Abel)",
-        "url": "https://open.spotify.com/album/0reRI4AAdQO3WrKuyrhJ04"
+        "name": "Move My Feet",
+        "url": "https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6"
       },
       "artists": [
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
         }
       ],
-      "duration_ms": 201680,
-      "name": "I'll Be There (feat. Zak Abel)",
-      "url": "https://open.spotify.com/track/2TqbwCtOHqTwwtYxTDNake"
+      "duration_ms": 198095,
+      "name": "Move My Feet",
+      "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1143,22 +1147,58 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Move My Feet",
-        "url": "https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6"
+        "name": "I'll Be There (feat. Zak Abel)",
+        "url": "https://open.spotify.com/album/0reRI4AAdQO3WrKuyrhJ04"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
         },
         {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Move My Feet",
-      "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
+      "duration_ms": 201680,
+      "name": "I'll Be There (feat. Zak Abel)",
+      "url": "https://open.spotify.com/track/2TqbwCtOHqTwwtYxTDNake"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Look Back",
+        "url": "https://open.spotify.com/album/4WptQuxLSAczoyQXrwZWFW"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 222295,
+      "name": "Look Back",
+      "url": "https://open.spotify.com/track/56arOopqj8V928baND3phD"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 192401,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1191,26 +1231,6 @@
       "duration_ms": 154285,
       "name": "Supersized",
       "url": "https://open.spotify.com/track/0wf7CoS7wZ7ioivLZuyFYZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "This Is The Sound",
-        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 192401,
-      "name": "This Is The Sound",
-      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1275,22 +1295,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Never Wanna Let Go",
-        "url": "https://open.spotify.com/album/3ygnuPmnNn8v5JyKm6EG7w"
-      },
-      "artists": [
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Never Wanna Let Go",
-      "url": "https://open.spotify.com/track/6Bddn8Iyy56psY24T7sUOf"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Se Va",
         "url": "https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S"
       },
@@ -1347,6 +1351,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Never Wanna Let Go",
+        "url": "https://open.spotify.com/album/3ygnuPmnNn8v5JyKm6EG7w"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Never Wanna Let Go",
+      "url": "https://open.spotify.com/track/6Bddn8Iyy56psY24T7sUOf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Cooperville",
         "url": "https://open.spotify.com/album/0HjtqE2jFrzuqwB4rYyyMZ"
       },
@@ -1375,22 +1395,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "So Right",
-        "url": "https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
       },
@@ -1403,6 +1407,22 @@
       "duration_ms": 246333,
       "name": "Dream - Edit",
       "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "So Right",
+        "url": "https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1511,22 +1531,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Yabaal to London",
-        "url": "https://open.spotify.com/album/3gyKWj2kDnH9Q22076oGe4"
+        "name": "Can You Move To The Beat",
+        "url": "https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi"
       },
       "artists": [
         {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        },
-        {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+          "name": "RETNA",
+          "url": "https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz"
         }
       ],
-      "duration_ms": 228565,
-      "name": "Yabaal to London",
-      "url": "https://open.spotify.com/track/3uX7klLzTUPEfVyOVHabOQ"
+      "duration_ms": 186190,
+      "name": "Can You Move To The Beat",
+      "url": "https://open.spotify.com/track/7rljiHdUyJWOx7bY57FMFn"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1551,18 +1567,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Can You Move To The Beat",
-        "url": "https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi"
+        "name": "Yabaal to London",
+        "url": "https://open.spotify.com/album/3gyKWj2kDnH9Q22076oGe4"
       },
       "artists": [
         {
-          "name": "RETNA",
-          "url": "https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz"
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        },
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
         }
       ],
-      "duration_ms": 186190,
-      "name": "Can You Move To The Beat",
-      "url": "https://open.spotify.com/track/7rljiHdUyJWOx7bY57FMFn"
+      "duration_ms": 228565,
+      "name": "Yabaal to London",
+      "url": "https://open.spotify.com/track/3uX7klLzTUPEfVyOVHabOQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1671,22 +1691,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Noodle King",
-        "url": "https://open.spotify.com/album/5tb8kPpioXHHLCUIpvc9QO"
-      },
-      "artists": [
-        {
-          "name": "Jesse Bru",
-          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
-        }
-      ],
-      "duration_ms": 353134,
-      "name": "Noodle King",
-      "url": "https://open.spotify.com/track/6SiPSZYFJYnYWD3o0NRMTZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Keeping Strong",
         "url": "https://open.spotify.com/album/78KzSdWVdX7uleTgTgsUTI"
       },
@@ -1723,6 +1727,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Noodle King",
+        "url": "https://open.spotify.com/album/5tb8kPpioXHHLCUIpvc9QO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bru",
+          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
+        }
+      ],
+      "duration_ms": 353134,
+      "name": "Noodle King",
+      "url": "https://open.spotify.com/track/6SiPSZYFJYnYWD3o0NRMTZ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "JUST A GIRL",
         "url": "https://open.spotify.com/album/0c5rNOiudvnMeCK0hbvzni"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 205714,
       "name": "JUST A GIRL",
       "url": "https://open.spotify.com/track/2CXto8yeqRjDc1b02UoTDZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Sunday Night",
-        "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 150131,
-      "name": "Sunday Night",
-      "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "On and On",
-        "url": "https://open.spotify.com/album/5BygbcOtANsFg6WBNdnM9E"
-      },
-      "artists": [
-        {
-          "name": "Wally Lopez",
-          "url": "https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/3aTkw79f3uawxAJXE9KXP1"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Seran's Harp",
         "url": "https://open.spotify.com/album/3LIgUgTag5FzdcvBAFX1t8"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 320000,
       "name": "Seran's Harp",
       "url": "https://open.spotify.com/track/0FU3cNMUISYdzNrzZTKC5V"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "On and On",
+        "url": "https://open.spotify.com/album/5BygbcOtANsFg6WBNdnM9E"
+      },
+      "artists": [
+        {
+          "name": "Wally Lopez",
+          "url": "https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/3aTkw79f3uawxAJXE9KXP1"
     },
     {
       "added_at": "2022-10-14 04:00:00",

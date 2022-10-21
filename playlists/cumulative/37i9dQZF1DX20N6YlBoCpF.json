@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=Y6nyRHD_R-CqSzTJ5G7YRA\">Wikus Botma</a>",
+  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj?si=OrAs6Y8TRA-bdlraKjBqcA\">Il\u00e1n van Staden</a>",
   "name": "Nuwe Afrikaans",
   "published_playlist_ids": [
     "0RKP7WChEoliblztnGqALh"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "As die Plaas Byt",
+        "url": "https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213734,
+      "name": "As die Plaas Byt",
+      "url": "https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK"
+    },
+    {
+      "album": {
         "name": "Beheer Verloor",
         "url": "https://open.spotify.com/album/3AO17da9Gz9djPWZf8XoJC"
       },
@@ -77,6 +95,24 @@
       "duration_ms": 181715,
       "name": "Beheer Verloor",
       "url": "https://open.spotify.com/track/0f875VUlQ6bv1yoma2TYUZ"
+    },
+    {
+      "album": {
+        "name": "Aansteeklik",
+        "url": "https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253757,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/2laH6IayV3wrHxjjsFawOK"
     },
     {
       "album": {
@@ -99,10 +135,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 190171,
       "name": "BETER DAT DIT STIL IS",
       "url": "https://open.spotify.com/track/0V8nod51VGfo5PA0V9IhzA"
+    },
+    {
+      "album": {
+        "name": "Bloemfontein Brandewyn",
+        "url": "https://open.spotify.com/album/5xSEfEttemZ6L8LywnEta3"
+      },
+      "artists": [
+        {
+          "name": "Tizel",
+          "url": "https://open.spotify.com/artist/5GxWSg5bans5XQW52qCqSn"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "Bloemfontein Brandewyn",
+      "url": "https://open.spotify.com/track/7lEyvahKa3pC0Miv8pUvDE"
     },
     {
       "album": {
@@ -223,7 +277,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 163125,
       "name": "Dit is wat dit is",
       "url": "https://open.spotify.com/track/5crNC07MyZHDh1tWHg6nNY"
@@ -263,7 +317,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 145684,
       "name": "EEN TWEE",
       "url": "https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2"
@@ -455,7 +509,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 197797,
       "name": "Jy Moet Weet",
       "url": "https://open.spotify.com/track/5Xm5GGCHsfRFU2lEvzuBDy"
@@ -513,7 +567,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 222533,
       "name": "Klippe",
       "url": "https://open.spotify.com/track/3tkMr1BytrdWlZjcDxPBk9"
@@ -582,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Koue Pizza",
+        "url": "https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181884,
+      "name": "Koue Pizza",
+      "url": "https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV"
+    },
+    {
+      "album": {
         "name": "Kwaaitjie",
         "url": "https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z"
       },
@@ -647,7 +719,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 226687,
       "name": "Letsels",
       "url": "https://open.spotify.com/track/4C2RjO0cQTgfH25OnExF8j"
@@ -843,7 +915,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 224516,
       "name": "Nes Ons Kan",
       "url": "https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh"
@@ -865,6 +937,24 @@
       "duration_ms": 159494,
       "name": "Nie Alleen Nie",
       "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
+    },
+    {
+      "album": {
+        "name": "O My Vy",
+        "url": "https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209891,
+      "name": "O My Vy",
+      "url": "https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf"
     },
     {
       "album": {
@@ -1081,7 +1171,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 236288,
       "name": "SKATTE",
       "url": "https://open.spotify.com/track/4QxosSPj1Sft96oEstnH7I"
@@ -1121,7 +1211,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 292860,
       "name": "Skildery (Remix)",
       "url": "https://open.spotify.com/track/4Sy3SykXit0psixwPq0KtO"
@@ -1186,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Sonskyn",
+        "url": "https://open.spotify.com/album/11xQmc2iXHJMcJ9pL8CPVL"
+      },
+      "artists": [
+        {
+          "name": "Georic Lomas",
+          "url": "https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176860,
+      "name": "Sonskyn",
+      "url": "https://open.spotify.com/track/1qCuSf3gbjZ1A7msPrpcMx"
+    },
+    {
+      "album": {
         "name": "Spicy",
         "url": "https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf"
       },
@@ -1226,6 +1334,42 @@
     },
     {
       "album": {
+        "name": "Terug In Tyd",
+        "url": "https://open.spotify.com/album/3EXtRvuiaCMkuC47sz3ADI"
+      },
+      "artists": [
+        {
+          "name": "Legkaart",
+          "url": "https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192395,
+      "name": "Terug In Tyd",
+      "url": "https://open.spotify.com/track/6p5cS6M9DSYee45WcXMi3l"
+    },
+    {
+      "album": {
+        "name": "Tweegesig",
+        "url": "https://open.spotify.com/album/0rREb9j3NzNCXRSmBNDK8r"
+      },
+      "artists": [
+        {
+          "name": "Lliam Meredith",
+          "url": "https://open.spotify.com/artist/4sPxPaCiavoNQIVjvXqJG9"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Tweegesig",
+      "url": "https://open.spotify.com/track/4ocISX46WBEfML6wNG4Bos"
+    },
+    {
+      "album": {
         "name": "Vanaand",
         "url": "https://open.spotify.com/album/0iwYj6LKFLhSUVDXF5vygz"
       },
@@ -1262,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "Voel Jy My",
+        "url": "https://open.spotify.com/album/1Zc7U6baYLrCXX2WUrRC02"
+      },
+      "artists": [
+        {
+          "name": "Coenie Naude",
+          "url": "https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223177,
+      "name": "Voel Jy My",
+      "url": "https://open.spotify.com/track/5hh0AnEUkgTxDt3T2kjySl"
+    },
+    {
+      "album": {
         "name": "Want Ek Mis Jou Hier",
         "url": "https://open.spotify.com/album/0LsDg7W3tWktgsRuOPKk3q"
       },
@@ -1291,7 +1453,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 192182,
       "name": "Was Dit Jou Plan?",
       "url": "https://open.spotify.com/track/5KPEiJ9vUlB9KdJmtWshvF"
@@ -1349,6 +1511,24 @@
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO"
+    },
+    {
+      "album": {
+        "name": "Woorde in my Dagboek",
+        "url": "https://open.spotify.com/album/7gYORwa2NQqegNZBCywnUK"
+      },
+      "artists": [
+        {
+          "name": "Inspirasie Veelvoud",
+          "url": "https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275488,
+      "name": "Woorde in my Dagboek",
+      "url": "https://open.spotify.com/track/5W6JnYqM94mrq4FcM9yAiG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF"

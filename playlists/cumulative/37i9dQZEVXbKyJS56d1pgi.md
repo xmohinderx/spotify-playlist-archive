@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-599 songs - 1 day 9 hr 17 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
+600 songs - 1 day 9 hr 19 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Mds](https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Mds](https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX) | 2:05 | 2021-03-27\* | 2021-06-09 |
 | [Melhor de Mim](https://open.spotify.com/track/08PxO0Ip7jChiYQHmOEyjq) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA) | [Melhor de Mim](https://open.spotify.com/album/3Q0bfOJ7tzT9xMivui4WfU) | 3:42 | 2021-10-19 | 2022-01-06 |
 | [Melhor De Mim](https://open.spotify.com/track/7MEDcLf5GnKbAZilveql59) | [Lupambo Produções](https://open.spotify.com/artist/21jubjQ9J5zyNTcO9EzOWK) | [Melhor De Mim](https://open.spotify.com/album/1HU1IPpg4qpPrUAX7AsetQ) | 3:42 | 2021-09-19 | 2021-10-19 |
-| [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-06 |  |
+| [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-06 | 2022-10-21 |
 | [Menina Se Prepara](https://open.spotify.com/track/2aqqXrjrPdRHU9uSeRmL3C) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Menina Se Prepara](https://open.spotify.com/album/3Lm13mfUcBeFGDitToszX5) | 3:30 | 2021-09-09 | 2021-11-19 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-25 | 2021-12-27 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2021-12-25 | 2021-12-27 |
@@ -456,6 +456,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-03 | 2021-12-27 |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2022-06-28 | 2022-07-04 |
 | [Romance de Cinema](https://open.spotify.com/track/0WmSoWksyfhCME62WhkP2U) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Romance de Cinema](https://open.spotify.com/album/6AyRf8Z2gkBsZBKmvnoWM2) | 3:55 | 2021-03-27\* | 2021-08-28 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-20 |  |
 | [Ronaldo](https://open.spotify.com/track/1O3ehXYHBBK0dYben12YVM) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [E Agora Como É Que É](https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ) | 3:02 | 2021-12-16 | 2022-02-23 |
 | [Ronaldo](https://open.spotify.com/track/3p30VbnAdQwm513v182GXt) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [E Agora Como É Que É](https://open.spotify.com/album/6GWMRBJ3DrcvocAGYhgSLh) | 3:02 | 2021-11-20 | 2021-12-16 |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 | 2021-12-25 | 2021-12-27 |

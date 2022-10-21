@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-316 songs - 1 day 11 hr 33 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+317 songs - 1 day 11 hr 37 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Hometown](https://open.spotify.com/track/1h02kZbe0SEv76QU6qeLMS) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Hometown](https://open.spotify.com/album/25qK1PW9UQuQ0zoGx43Z11) | 8:30 | 2019-05-26\* | 2019-06-21 |
 | [Honestly, did you listen to the MP3 player?](https://open.spotify.com/track/6PG19dPCnNQ2BigIejgDlM) | [Sebastian Mullaert](https://open.spotify.com/artist/5cKPK8DCxX1R5PwQOU1huv) | [Who? \(Part Two\)](https://open.spotify.com/album/03OY2x7Q17JgZzBEG26hoO) | 8:12 | 2020-01-05 | 2021-11-27 |
 | [House Of Lights](https://open.spotify.com/track/26jkWXrQRsWHKPxEX2Ahg3) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [House Of Lights EP](https://open.spotify.com/album/2LHoUIWO6Q8SgnbkjzqYVF) | 8:36 | 2019-11-08 | 2022-04-21 |
-| [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 | 2022-06-24 |  |
+| [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 | 2022-06-24 | 2022-10-21 |
 | [Human](https://open.spotify.com/track/27VwsDL2mAveZzILCY9e8N) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Human EP](https://open.spotify.com/album/77SgoQ8FnoPpNkquUrgxE9) | 6:07 | 2019-06-22 | 2022-04-21 |
 | [Human Failure \- Aves Volare Remix](https://open.spotify.com/track/42DrQ0vbP0U4CZWBgJhefw) | [Joe Fisher](https://open.spotify.com/artist/2Xb3eFPBkGd3W7GnwKPE4g), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [Fishing Box V](https://open.spotify.com/album/7hsAFlOCmGn9xCsMIn9tkn) | 7:33 | 2020-01-28 | 2022-04-21 |
 | [Hummus](https://open.spotify.com/track/3Z3yuBapu1e1wAJ22fYP9x) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Mind Palace](https://open.spotify.com/album/6BYmpD53nIeCHVzgVqIp6J) | 6:58 | 2019-05-26\* | 2019-06-21 |
@@ -254,6 +254,7 @@
 | [Sacred](https://open.spotify.com/track/6znwCsfcyoHIrNRJj3RE72) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Sacred / Cyril's Garden](https://open.spotify.com/album/2kxPYN3PjGq9FhRkrNkTqC) | 6:48 | 2019-05-26\* | 2020-06-07 |
 | [Saturn Storm \- Alberto Ruiz Remix](https://open.spotify.com/track/78CYhVunRrzBlbPAtgi5mQ) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [Alberto Ruiz](https://open.spotify.com/artist/7cihMJoqTkaVG6BZqwImB8) | [Saturn Storm](https://open.spotify.com/album/2sBg2mjjHy0ZLr1MP6MLPs) | 6:55 | 2019-05-26\* | 2020-03-11 |
 | [Second Chance](https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 7:45 | 2021-05-09 | 2022-05-07 |
+| [Second Sun](https://open.spotify.com/track/0vgIkHFK8wpogVc1XCi18F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/4J8Pj9kUO58eoafjZlHiLf) | 3:44 | 2022-09-30 |  |
 | [Second Sun](https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z) | 3:44 | 2020-01-12 | 2022-10-18 |
 | [Seige](https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Seige](https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M) | 7:13 | 2021-07-10 |  |
 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 | 2021-12-17 |  |

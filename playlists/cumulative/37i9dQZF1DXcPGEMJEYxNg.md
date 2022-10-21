@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-111 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
+112 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2022-07-12 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-05-18 | 2022-07-13 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-05-18 | 2022-07-13 |
-| [Nice Things](https://open.spotify.com/track/4WPXpZVM5jcnFpf5PVF448) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Nice Things](https://open.spotify.com/album/1UzIHc7t8ZyEuuziBjjk0E) | 3:36 | 2022-05-18 |  |
+| [Nice Things](https://open.spotify.com/track/0Gfcf1RU1Q8eY8F3D0KAaz) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Nice Things](https://open.spotify.com/album/6xtYWI1XN7q3siqgL1OVLW) | 3:36 | 2022-07-12 |  |
+| [Nice Things](https://open.spotify.com/track/4WPXpZVM5jcnFpf5PVF448) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Nice Things](https://open.spotify.com/album/1UzIHc7t8ZyEuuziBjjk0E) | 3:36 | 2022-05-18 | 2022-10-21 |
 | [No 3 2](https://open.spotify.com/track/4JZBsaQYzt6AVMp4eRtohK) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL), [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj) | [No 32](https://open.spotify.com/album/6aq5adlwvaslju7Za2Eb0i) | 2:25 | 2022-05-18 |  |
 | [Nobody Like U](https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 2:40 | 2022-05-18 | 2022-07-13 |
 | [OMG](https://open.spotify.com/track/1nLtR8vhySvat85DR0W1Zt) | [Annalé](https://open.spotify.com/artist/7A3a8XrIxL8NZgqaKlnPrW) | [OMG](https://open.spotify.com/album/7wpAiiFQAADL1pLwH0iCf8) | 2:43 | 2022-07-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 324965,
+  "num_followers": 325041,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGUwNDIzNDc3OTllNjNjMDhkMmY1NTFkMjZjZGQ4ZDkw",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDljMjQ0ZTRhYzdiZWZmOGM1NWI0NTc1ZWE2OTFhNmVi",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
-      "added_at": "2022-10-20 01:51:01",
+      "added_at": "2022-10-21 01:49:56",
       "album": {
         "name": "El pavo real",
         "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
-      "added_at": "2022-10-20 01:51:01",
+      "added_at": "2022-10-21 01:49:56",
       "album": {
         "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
         "url": "https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4"
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Balnear",
+        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Solitario",
+      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "De Aqu\u00ed Hasta Aqu\u00ed",
         "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Balnear",
-        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         }
       ],
-      "duration_ms": 213386,
-      "name": "Solitario",
-      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -379,18 +395,34 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
       },
       "artists": [
         {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -411,22 +443,6 @@
       "duration_ms": 239417,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ma\u00f1ana Tepotzlan",
-      "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Conciencia",
         "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Sonido Campechano",
         "url": "https://open.spotify.com/album/4yCDTz9oDmbOTGnoT2VjT2"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 271128,
       "name": "Sonido Campechano",
       "url": "https://open.spotify.com/track/77KdCvsETlcP0DcVesil1U"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Enter the San",
-        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
-      },
-      "artists": [
-        {
-          "name": "SUPERSAN",
-          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "The Corsican",
-      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Enter the San",
+        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
+      },
+      "artists": [
+        {
+          "name": "SUPERSAN",
+          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "The Corsican",
+      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -907,26 +907,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Tribo",
-        "url": "https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa"
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
       },
       "artists": [
         {
-          "name": "De Juepuchas",
-          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
-        },
-        {
-          "name": "Raissa Fayet",
-          "url": "https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x"
-        },
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         }
       ],
-      "duration_ms": 203294,
-      "name": "Tribo",
-      "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -947,6 +939,50 @@
       "duration_ms": 348009,
       "name": "Pua",
       "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Sutileza",
+        "url": "https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Coladera",
+          "url": "https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ"
+        }
+      ],
+      "duration_ms": 220725,
+      "name": "Sutileza",
+      "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Tribo",
+        "url": "https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa"
+      },
+      "artists": [
+        {
+          "name": "De Juepuchas",
+          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+        },
+        {
+          "name": "Raissa Fayet",
+          "url": "https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "Tribo",
+      "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1007,26 +1043,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Sutileza",
-        "url": "https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1"
-      },
-      "artists": [
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Coladera",
-          "url": "https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ"
-        }
-      ],
-      "duration_ms": 220725,
-      "name": "Sutileza",
-      "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Desierto",
         "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 206148,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
     },
     {
       "added_at": "2022-04-15 04:56:09",

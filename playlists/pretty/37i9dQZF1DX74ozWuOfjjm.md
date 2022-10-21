@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,101 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,088 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 33 | [La La La Love](https://open.spotify.com/track/2svrVAJhef3q6Kqy8q30KM) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Happy, Sad](https://open.spotify.com/album/3hwWU4b9A75bvwG67Sv8lY) | 2:52 |
 | 34 | [When It Rains It Pours](https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [When It Rains It Pours](https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV) | 4:13 |
 | 35 | [World of You](https://open.spotify.com/track/3bQzbPfA6SB4hxtkSEvLBm) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 2:18 |
-| 36 | [CPU](https://open.spotify.com/track/7Ms26T0fqmSPPKl3Qpr7sj) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [CPU](https://open.spotify.com/album/3YMnkY1T5Ba0BToUSDgv95) | 2:49 |
+| 36 | [CPU](https://open.spotify.com/track/1Z0TyWFdx3Eyza1fz2uIRg) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [CPU](https://open.spotify.com/album/4Ivuy4kOEWD8NCWfwzKFIx) | 2:49 |
 | 37 | [Burn All The Time Machines](https://open.spotify.com/track/2MqnYGbLwrZF10O09mKgfO) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Inhuman](https://open.spotify.com/album/3Fqaivn7mMHNTR9K5OENWJ) | 2:50 |
 | 38 | [Karamata](https://open.spotify.com/track/5qUMqzVJew3mhZxoN7JZB5) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Karamata](https://open.spotify.com/album/3ATbcnGmSoHJm0ZhPWKuBt) | 3:41 |
 | 39 | [Alone](https://open.spotify.com/track/5nTpXk3qblGyziiRbu3TVd) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [AACACIA](https://open.spotify.com/album/3Nj1iPvgZ2bj8bGIZ7I3yx) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Feeling Good Feeling Great](https://open.spotify.com/track/2BeTDiDs3ttu9BXdDe3smE) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/6KJ5b8kHrWLKv7Fs2pjZJ3) | 1:57 |
 | 100 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 |
 
-Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMGMzZTVjMjc3ZmJiZWNjZjA1NjlhMGI3ZWExMTc2YzZj`
+Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMGFkNGUwMTEzNzc4ZjlhYWNkNjE4NjkyMjRiNjEwYzY1`

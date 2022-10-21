@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-228 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+229 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Don't Blame It on the Timing](https://open.spotify.com/track/70uSL3jEqP1yOGgq8nNDTJ) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Don't Blame It on the Timing](https://open.spotify.com/album/3QNADEr51LFBbTpvHYTFxf) | 3:53 | 2020-11-20 | 2022-04-09 |
 | [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 | 2022-04-08 |  |
 | [Don't Leave Me on Read](https://open.spotify.com/track/11diXJtSS2XZUimNMl6Wgo) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP) | [Don't Leave Me on Read](https://open.spotify.com/album/7jUwZ8HVfJOIQJ35PfWgqZ) | 3:48 | 2020-11-20 | 2022-04-09 |
-| [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib) | 3:23 | 2022-09-02 |  |
+| [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib) | 3:23 | 2022-09-02 | 2022-10-21 |
+| [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/7Fk2ITEI0s2Y6oiust9UKl) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/7zsHBrfvL0hk321iiagyAD) | 3:23 | 2022-09-02 |  |
 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 | 2020-11-20 | 2022-01-29 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
 | [Ease Your Mind](https://open.spotify.com/track/0uwXneXFLt47MlgvoQDouq) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Ease Your Mind](https://open.spotify.com/album/7B5n3tOUAIyahj8TwwPLcN) | 4:44 | 2021-03-12 | 2022-05-20 |

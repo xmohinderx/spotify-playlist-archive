@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127207,
+  "num_followers": 127210,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzcxNSw1OTI2Mzc1NDhmZTY2OGU1ZWViNmU3NmM4ODYyY2VhMTEyMWM0YjAy",
+  "snapshot_id": "MzcxOCw4MWRjYmM5MmQ4ZjA2ZjFiOTJmYmM2M2EwYTI2Y2Q3MDhjNWRjNzdl",
   "tracks": [
+    {
+      "added_at": "2022-10-20 18:54:42",
+      "album": {
+        "name": "SLEEPER / SICKO",
+        "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "SLEEPER",
+      "url": "https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q"
+    },
+    {
+      "added_at": "2022-10-20 18:54:33",
+      "album": {
+        "name": "SLEEPER / SICKO",
+        "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "SICKO",
+      "url": "https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO"
+    },
     {
       "added_at": "2022-10-19 19:17:41",
       "album": {
@@ -1063,42 +1095,6 @@
       "duration_ms": 229859,
       "name": "Here For Now",
       "url": "https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W"
-    },
-    {
-      "added_at": "2022-10-07 16:48:43",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT"
-      },
-      "artists": [
-        {
-          "name": "Forty Cats",
-          "url": "https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ"
-        },
-        {
-          "name": "Ra5im",
-          "url": "https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5"
-    },
-    {
-      "added_at": "2022-10-07 16:48:43",
-      "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc"
-      },
-      "artists": [
-        {
-          "name": "Leah Culver",
-          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-128 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/3Cfws2NIwPEctch5DfP3Jy)
+129 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/3Cfws2NIwPEctch5DfP3Jy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Hymn](https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Chain Reaction at Dusk](https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP) | 7:28 | 2022-03-08 | 2022-07-28 |
 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 | 2022-03-08 | 2022-07-29 |
 | [I'll Look for You in Others](https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [I'll Look For You In Others](https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6) | 6:33 | 2022-05-18 | 2022-07-27 |
-| [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 | 2022-03-08 |  |
+| [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 | 2022-03-08 | 2022-10-21 |
 | [Ingrid](https://open.spotify.com/track/2rEEQZzotPv8knXJxJBEkA) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt) | [Ingrid](https://open.spotify.com/album/7renot42MHAlSDvO2NbmYG) | 20:14 | 2022-03-08 | 2022-03-18 |
 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 | 2022-03-08 | 2022-07-29 |
 | [Intro \- Space Privet for Cosmonauts](https://open.spotify.com/track/2Mm9hlYzCgXyBcoDL4s4uO) | [Dasha Rush](https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4) | [Sleepstep\. Sonar Poems for my sleepless friends](https://open.spotify.com/album/5ovHVxNuBJgiX94yZBQJQI) | 1:01 | 2022-03-25 | 2022-07-19 |
@@ -109,6 +109,7 @@
 | [Stratus](https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4) | 3:04 | 2022-03-08 | 2022-07-29 |
 | [Sugar And Air](https://open.spotify.com/track/2CKOPEwdSZtjRxSytQjqyw) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ) | 4:51 | 2022-03-08 | 2022-03-18 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2022-03-08 |  |
+| [Sun \- Midnight Version](https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf) | 19:28 | 2022-10-04 |  |
 | [Sun \- Midnight Version](https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK) | 19:28 | 2022-03-11 | 2022-10-13 |
 | [Sweet Nocturne](https://open.spotify.com/track/1VMcO4mSgMRTHkUvIQeP12) | [Under the Stars](https://open.spotify.com/artist/6p1G6IzT5hRsjq7pwCkOqI) | [Sweet Nocturne](https://open.spotify.com/album/1HroLY3LjVaWrw4qZC5DCA) | 3:14 | 2022-03-18 | 2022-07-20 |
 | [The Boy Who Wakes The Universe](https://open.spotify.com/track/1U1UOjCmCXrAqPBdUHnP4H) | [Natalie Beridze](https://open.spotify.com/artist/0oRqH3Y13xmPoJecs64wVr) | [The Boy Who Wakes the Universe](https://open.spotify.com/album/7aAC2vRHEGgylMfXxeP4WP) | 9:05 | 2022-03-25 | 2022-07-24 |

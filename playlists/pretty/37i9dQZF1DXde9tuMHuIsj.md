@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511,111 likes - 118 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,210 likes - 118 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

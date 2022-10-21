@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-436 songs - 1 day 11 hr 3 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+437 songs - 1 day 11 hr 7 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Instant Immortal](https://open.spotify.com/track/4Zaewkno1T6Re2ioLjo9WQ) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:25 | 2022-03-31 | 2022-04-06 |
 | [Interlude \- Aus Remix](https://open.spotify.com/track/1Y7OYD17uDkT3JzcXhDRY5) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [ReCollected](https://open.spotify.com/album/0MmPGvc6mRDaNlluvrpgi6) | 5:18 | 2022-03-31 | 2022-04-12 |
 | [Into the Forest](https://open.spotify.com/track/6Y3EdMqGUxIwRIYg0s5sEm) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Short Stories](https://open.spotify.com/album/4R2jkhCGF1SBOzjUQNAFJi) | 6:06 | 2022-04-07 | 2022-04-15 |
+| [Invisible Contact](https://open.spotify.com/track/5Vqf1k1WvHqV5B8XoZSPgY) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/388UNVPQUypC1EiLCvp6gg) | 4:04 | 2022-10-20 |  |
 | [Invitation](https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [Where the Sidewalk Ends](https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT) | 6:32 | 2022-03-30 | 2022-04-04 |
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-04 |  |
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |
@@ -251,7 +252,7 @@
 | [ohayashi](https://open.spotify.com/track/0kuHELP9kPhXOZ5oEurNUQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [アダンの風](https://open.spotify.com/album/0clp0SFljD12UGPDOP0kN4) | 3:44 | 2022-03-31 | 2022-07-28 |
 | [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 | 2022-07-28 |  |
 | [Omoide](https://open.spotify.com/track/5LveNCy5ojSj09DJ8QIh3I) | [Teams](https://open.spotify.com/artist/3ksZVVBYMpLo14U1yVhkAl), [Noah](https://open.spotify.com/artist/2zJRv1ws89WKwU7Q8dwPsm), [Repeat Pattern](https://open.spotify.com/artist/6M3usM8OOsGkcoC0LovBZR) | [Kwaidan](https://open.spotify.com/album/7jZ8Dj4E2wXvdFtO4pwfQe) | 1:46 | 2022-03-30 | 2022-04-01 |
-| [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 | 2022-03-31 |  |
+| [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 | 2022-03-31 | 2022-10-21 |
 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 |  |
 | [Ongoromochi Souji](https://open.spotify.com/track/1peJy95lggmSY04Nh9LotF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [yOrUkOrU](https://open.spotify.com/album/4j0Q1bfGdSdCPUbftm18gv) | 2:59 | 2022-04-07 | 2022-04-17 |
 | [Opaque](https://open.spotify.com/track/28T3vVyYZejl6mImsSHRtK) | [濱瀬元彦](https://open.spotify.com/artist/1fHhTpHGhai17LCu0I4hGA) | [テクノドローム](https://open.spotify.com/album/08wNWKk2GS5Vg28ipiYPix) | 5:49 | 2022-03-31 | 2022-07-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Il Ghost",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Kid Yugi",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -1040,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Cattiva",
+        "url": "https://open.spotify.com/album/4SojCxiP6r4CrbvDGPYai8"
+      },
+      "artists": [
+        {
+          "name": "Spender",
+          "url": "https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124054,
+      "name": "Cattiva",
+      "url": "https://open.spotify.com/track/7BHI7SNL8iY40x1IWJQQkK"
+    },
+    {
+      "album": {
         "name": "Cavalli",
         "url": "https://open.spotify.com/album/3angzNAWDDXzzsHbaNeiGC"
       },
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 164571,
       "name": "Dream Team",
       "url": "https://open.spotify.com/track/5Cv7syuN0JoYSCzj4Ow2mi"
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 135241,
       "name": "HO PERSO LA TESTA",
       "url": "https://open.spotify.com/track/4AwTAhmlFlrco1blyGFKdR"
@@ -2696,6 +2714,28 @@
     },
     {
       "album": {
+        "name": "BLK",
+        "url": "https://open.spotify.com/album/2lKYVgw0G8FChnrXbFmYWs"
+      },
+      "artists": [
+        {
+          "name": "Security",
+          "url": "https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw"
+        },
+        {
+          "name": "Gengar",
+          "url": "https://open.spotify.com/artist/6QeMwZYfi1MkcKcQadFK05"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "IN PI\u00d9",
+      "url": "https://open.spotify.com/track/4qanxGjKd2ts4MvOkcDTIp"
+    },
+    {
+      "album": {
         "name": "Vero Liricista",
         "url": "https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF"
       },
@@ -2821,6 +2861,24 @@
       "duration_ms": 180750,
       "name": "Kabuki",
       "url": "https://open.spotify.com/track/7kCVDY7Cq1ybLjLs7nwJTI"
+    },
+    {
+      "album": {
+        "name": "Karim Benzema",
+        "url": "https://open.spotify.com/album/0740FKjdHRQntZFme30P5T"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162456,
+      "name": "Karim Benzema",
+      "url": "https://open.spotify.com/track/1hMmlFWT0QteZkuYuCLZHu"
     },
     {
       "album": {
@@ -3003,7 +3061,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 309650,
       "name": "La Famiglia (feat. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, N\u00e9za & Nabi)",
       "url": "https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV"
@@ -3891,7 +3949,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 188031,
       "name": "NON MI VA",
       "url": "https://open.spotify.com/track/47VdKYEREq0LtxxHr12nUw"

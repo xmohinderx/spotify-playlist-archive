@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: G Herbo
 
-533 songs - 1 day 1 hr 6 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+534 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-04-15 | 2022-05-20 |
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip) | 2:41 | 2021-09-03 | 2022-01-29 |
 | [She Know It](https://open.spotify.com/track/07L33zaQbYewmYsNSSOxtf) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [She Know It](https://open.spotify.com/album/1ICFfoob3eAfkiKtSWyZfx) | 3:02 | 2022-04-08 | 2022-07-02 |
-| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-16 |  |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-16 | 2022-10-21 |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-09-23 |  |
 | [Shotta](https://open.spotify.com/track/3kiPgcu1xOJ7FK4IfCkrW8) | [Noodah05](https://open.spotify.com/artist/16uhNmbZpVmy71NUwOk1DJ) | [The Biggest](https://open.spotify.com/album/5eJQKfrMgX6vePQnKl6C82) | 2:12 | 2022-02-25 | 2022-04-29 |
 | [Show Us Some](https://open.spotify.com/track/4MHv1Aj2VvfhueuCQ7HEro) | [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Show Us Some](https://open.spotify.com/album/1R5XkbkfbYyCQtozO9WeOE) | 1:55 | 2021-10-15 | 2022-03-05 |
 | [Sick of Y'all](https://open.spotify.com/track/2vRz2l7Ma7r5g3u1VAgIzH) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Sick of Y'all](https://open.spotify.com/album/3e0u3v8vK1gTiXCcs4HpnY) | 1:57 | 2022-05-13 | 2022-07-23 |

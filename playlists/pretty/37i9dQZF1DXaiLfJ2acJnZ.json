@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35070,
+  "num_followers": 35087,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDk2Mjc4NjE2NGJhNGZiMTRkMjUxNjgwOWM4MThiOTY4",
+  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMGE4NzY3ZTczZGVhMGQ3NDYwMjI0NmNiZmY2ODY5NGM4",
   "tracks": [
     {
       "added_at": "2022-09-23 17:33:09",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
-        "name": "Welcome To The Madhouse",
-        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Girls Like Us",
-        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Cloudy Day",
         "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 185303,
       "name": "Cloudy Day",
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Evering Road (Special Edition)",
-        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Don't Break the Heart",
-      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 164202,
       "name": "imagine",
       "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Evering Road (Special Edition)",
+        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Don't Break the Heart",
+      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Something in the Water",
         "url": "https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 166160,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Sister Ray",
-        "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
-      },
-      "artists": [
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 219865,
-      "name": "Sister Ray",
-      "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "When The Lights Go Out",
         "url": "https://open.spotify.com/album/22E1CsB9Z9uhqvGmjKftrj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 186053,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/5mYMdRqCm3pgs4Cubi96Pu"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Sister Ray",
+        "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
+      },
+      "artists": [
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 219865,
+      "name": "Sister Ray",
+      "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "good thing",
-        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
-      },
-      "artists": [
-        {
-          "name": "emie nathan",
-          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
-        }
-      ],
-      "duration_ms": 142480,
-      "name": "good thing",
-      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "East End Coast",
         "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4"
+        "name": "good thing",
+        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
       },
       "artists": [
         {
-          "name": "Tayo Sound",
-          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+          "name": "emie nathan",
+          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
         }
       ],
-      "duration_ms": 212503,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
+      "duration_ms": 142480,
+      "name": "good thing",
+      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1211,6 +1195,22 @@
       "duration_ms": 193346,
       "name": "Champagne Butterflies",
       "url": "https://open.spotify.com/track/62lF2bafMX9NkXjAoc0nuR"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4"
+      },
+      "artists": [
+        {
+          "name": "Tayo Sound",
+          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+        }
+      ],
+      "duration_ms": 212503,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e"
       },
       "artists": [
         {
-          "name": "Wild Youth",
-          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
+      "duration_ms": 178470,
+      "name": "You Give Me More",
+      "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Meet You There",
-        "url": "https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e"
+        "name": "City That I'm Lost In",
+        "url": "https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi"
       },
       "artists": [
         {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "Nathan Grisdale",
+          "url": "https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l"
         }
       ],
-      "duration_ms": 178470,
-      "name": "You Give Me More",
-      "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"
+      "duration_ms": 191838,
+      "name": "1982",
+      "url": "https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas"
     }
   ],
   "unique_name": "Wholesome",

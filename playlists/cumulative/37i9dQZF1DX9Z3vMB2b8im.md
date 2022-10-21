@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-130 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+131 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 | 2021-12-10 | 2022-10-14 |
 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-08-19 |  |
 | [I'm Kissing You](https://open.spotify.com/track/3dRDxa4STStR3mVU80S1Vb) | [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [bshp](https://open.spotify.com/album/5ZKuFLAWxdSwlMVhiryCC1) | 4:53 | 2021-12-10 | 2022-04-02 |
-| [If I Met Your Shadow](https://open.spotify.com/track/5ruq5kWHENUzVNoclz1UtJ) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [If I Met Your Shadow](https://open.spotify.com/album/33upVlBPSnf3oSjK0e9RCF) | 2:14 | 2021-12-10 |  |
+| [If I Met Your Shadow](https://open.spotify.com/track/37uHPhQ2cYnVU7RcjayRuo) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [Legacy](https://open.spotify.com/album/3FHzq09sinM2wOmILgwuDg) | 2:14 | 2022-10-14 |  |
+| [If I Met Your Shadow](https://open.spotify.com/track/5ruq5kWHENUzVNoclz1UtJ) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [If I Met Your Shadow](https://open.spotify.com/album/33upVlBPSnf3oSjK0e9RCF) | 2:14 | 2021-12-10 | 2022-10-21 |
 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 | 2021-12-10 |  |
 | [JOY \(Not Sure What I'm Going Through\)](https://open.spotify.com/track/1uy6RVUC2Qb70rlrmr9ZFh) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Human Again](https://open.spotify.com/album/2aiablb9OlYooQGVNylgid) | 3:17 | 2021-12-10 |  |
 | [Jump](https://open.spotify.com/track/6zqgrY3jXBSMx3WuNErdTB) | [REUNIØN](https://open.spotify.com/artist/0xGQO6SPjYCzbeDgjpfJ5n) | [Jump](https://open.spotify.com/album/1ytsYG5T02plyHuYfIyw1w) | 4:16 | 2021-12-10 | 2022-06-11 |

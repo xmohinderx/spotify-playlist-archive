@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Junaco \| Visual Artist: Bailey Elder
 
-234 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+235 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Good Stuff](https://open.spotify.com/track/4Tfvz7BRWnLYqlja4jUAsy) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [Good Stuff](https://open.spotify.com/album/1Rgpj3IAACl9M48bmefYqC) | 3:43 | 2022-10-19 |  |
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-10-12 |  |
 | [Grace](https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM) | [quiet thrill](https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl), [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Grace](https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp) | 2:53 | 2022-05-25 | 2022-06-16 |
-| [Graceland](https://open.spotify.com/track/1Ovg3xEE7gMlg1mP6rpC7I) | [Bailey Tomkinson](https://open.spotify.com/artist/3SIJnnckGx5KwXlmFGfKSI) | [Graceland](https://open.spotify.com/album/50B5Qp9incWgkaXO2PmNYf) | 3:48 | 2022-08-24 |  |
+| [Graceland](https://open.spotify.com/track/1Ovg3xEE7gMlg1mP6rpC7I) | [Bailey Tomkinson](https://open.spotify.com/artist/3SIJnnckGx5KwXlmFGfKSI) | [Graceland](https://open.spotify.com/album/50B5Qp9incWgkaXO2PmNYf) | 3:48 | 2022-08-24 | 2022-10-21 |
+| [Graceland](https://open.spotify.com/track/2YS5KA12iUxgFvB6ELvbIF) | [Bailey Tomkinson](https://open.spotify.com/artist/3SIJnnckGx5KwXlmFGfKSI) | [Graceland](https://open.spotify.com/album/3Umkco18vB5hzg9xbVrUQL) | 3:48 | 2022-09-28 |  |
 | [Ha Ha](https://open.spotify.com/track/5moiK59CizbbCoVYoqD8ZS) | [Tom Calder](https://open.spotify.com/artist/1n6FM0vzQGwjAkDEyoqiNQ), [Daggy Man](https://open.spotify.com/artist/4nlx8JC05qQU06qyOFo6Kg) | [Ha Ha](https://open.spotify.com/album/1wgoARttTcLpYQiiB2BjZM) | 3:32 | 2022-07-20 |  |
 | [Hand Me Down Heart](https://open.spotify.com/track/1a8UNyXbcnw9AyRZOdRDVJ) | [Szlachetka](https://open.spotify.com/artist/5W1NyzTRgZn8sG1Wza45cL) | [Hand Me Down Heart](https://open.spotify.com/album/26Z4IiZEvJtd1n4gagQ8qu) | 3:07 | 2022-05-25 | 2022-06-16 |
 | [Hard Feelings](https://open.spotify.com/track/68MbMKn42dsBU9bgzHaRXw) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Hard Feelings](https://open.spotify.com/album/6JG9cpogbueo7J6AWLhl6T) | 4:24 | 2022-08-24 |  |

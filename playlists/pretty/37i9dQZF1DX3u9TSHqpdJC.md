@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: emlyn Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,101 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,175 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 56 | [Futility of Existence](https://open.spotify.com/track/2ktXoFJf2yNzdxDWHUZkWs) | [RIIVA](https://open.spotify.com/artist/77uqQoezJs1O18E7TYk00J) | [Futility of Existence](https://open.spotify.com/album/6zfPmPpQXCZN4dRS27VLyj) | 3:06 |
 | 57 | [By Tomorrow](https://open.spotify.com/track/5M6FXkGtaTHo1MWO8cRYtm) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [By Tomorrow](https://open.spotify.com/album/7cY6BKyCbQwJCWEs8WtFN6) | 3:18 |
 | 58 | [arizona](https://open.spotify.com/track/6d5OKyBLb3fSSKGqwxopy6) | [gcmayn](https://open.spotify.com/artist/3n24tWtdvGsJFqsQcm9ujR) | [arizona](https://open.spotify.com/album/2IK5juKkSO13bAAlXTUtS4) | 2:44 |
-| 59 | [Backhanded](https://open.spotify.com/track/3LQ4KHDjqaej9DknFBEuqG) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/5aUUXP3DYYnjHo8GxNfCHq) | 2:29 |
+| 59 | [Backhanded](https://open.spotify.com/track/5vKdtldfyyyPUuFryTsPSQ) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Forced Extrovert](https://open.spotify.com/album/3eR5nOr2jDxMfzr7zqmYCJ) | 2:29 |
 | 60 | [Hours](https://open.spotify.com/track/04Kgh5iZqiCndi9hczohXv) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Hours](https://open.spotify.com/album/1LM0uwJtE5VgibzkNF1K7O) | 4:13 |
 | 61 | [life you lead](https://open.spotify.com/track/2WYxFmuGz6Wj2vXlgLuHke) | [niceboy ed](https://open.spotify.com/artist/72IB1qSk51wyeLceXNypqR) | [life you lead](https://open.spotify.com/album/4lqDk4LT58Tbp7CCFuN8OD) | 3:19 |
 | 62 | [Off The Edge](https://open.spotify.com/track/7JuLymV0sWOQZauGwtCn7y) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Off The Edge](https://open.spotify.com/album/6tJ0cCZAiqAGro9nQqnnyk) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Wild Things](https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Wild Things](https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj) | 3:39 |
 | 100 | [More Than Friends](https://open.spotify.com/track/7rGd1xAX5A7fz5NDhgIq6X) | [Laura Gomes](https://open.spotify.com/artist/4otLEIeqdTrM0mgj9oPobm) | [More Than Friends](https://open.spotify.com/album/4Gz11cvWtWUZSVfHhaYY9T) | 3:18 |
 
-Snapshot ID: `MTY2NjE3MzAyMSwwMDAwMDAwMDU1Y2NkYjk4ZTEzMGIyNTE1YTUxMWE2MWNlODUyNmM0`
+Snapshot ID: `MTY2NjE3MzAyMSwwMDAwMDAwMDdkZmM2NmY2NzEzMGVjZTYzMmU2MDc2MWNmNWU3YmI1`

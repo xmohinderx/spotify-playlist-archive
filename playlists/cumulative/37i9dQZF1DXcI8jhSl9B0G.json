@@ -575,7 +575,7 @@
     {
       "album": {
         "name": "Kinder",
-        "url": "https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir"
+        "url": "https://open.spotify.com/album/7re2kB1LFDctQqwQhodsIy"
       },
       "artists": [
         {
@@ -586,6 +586,24 @@
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Kinder",
+      "url": "https://open.spotify.com/track/15qbB1N6kGsNyCJp5C282W"
+    },
+    {
+      "album": {
+        "name": "Kinder",
+        "url": "https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir"
+      },
+      "artists": [
+        {
+          "name": "Isaac Jensen",
+          "url": "https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
       "duration_ms": 206538,
       "name": "Kinder",
       "url": "https://open.spotify.com/track/3laEqX58fkjwQQeftYWtfu"

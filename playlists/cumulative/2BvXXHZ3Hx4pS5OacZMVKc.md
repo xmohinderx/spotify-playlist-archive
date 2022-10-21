@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-201 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+202 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 | 2022-08-06 |
 | [Station 2](https://open.spotify.com/track/04SPo2Vjc1vmBl0oUs8GV5) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Station 2](https://open.spotify.com/album/4FjGUXNhRKcZl7ZoWUD24R) | 3:04 | 2022-02-03 | 2022-09-15 |
 | [Stay](https://open.spotify.com/track/2DLAMyPI1bMMwA7ivt9f0F) | [SirensCeol](https://open.spotify.com/artist/4MLO0CjZZIw0FgBDGnj3K4) | [Stay](https://open.spotify.com/album/1p9OIoJ2weRDXxxrKEtdHi) | 2:52 | 2022-02-03 | 2022-09-15 |
+| [Stay With Me](https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc), [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Tom The Gaffer](https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN) | [Stay With Me](https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt) | 2:45 | 2022-10-20 |  |
 | [Stay With Me \- Krys Talk Remix](https://open.spotify.com/track/1lGZ4rEgUHclwnH1F507pz) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg) | [Stay With Me \(Krys Talk Remix\)](https://open.spotify.com/album/3VyApZmu3LiVucSbGZH9TX) | 4:11 | 2022-02-03 | 2022-09-15 |
 | [Street Lights \(Ft\. Axollo\)](https://open.spotify.com/track/3LY0XACljWypc5f0gui0Jp) | [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G), [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI) | [Street Lights \(Ft\. Axollo\)](https://open.spotify.com/album/1rqM4QGUKjWUobLDw22AZq) | 2:27 | 2022-02-03 | 2022-09-15 |
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2022-07-12 |

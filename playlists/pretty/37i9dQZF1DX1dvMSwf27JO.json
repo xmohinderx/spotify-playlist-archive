@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 469447,
+  "num_followers": 469425,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNDkyMCwwMDAwMDAwMDUxNGFiZGRjNmQxM2VmYjFmNTlmZjE5OWY3MWFhMjUz",
+  "snapshot_id": "MTY2NTcyNDkyMCwwMDAwMDAwMDQ5YTY1NzRlZWU1ZDBjZjlkOTk4NTE3ZTg1Nzg3NmMw",
   "tracks": [
     {
       "added_at": "2022-10-08 01:04:52",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
     },
     {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
       "added_at": "2022-10-12 23:08:44",
       "album": {
         "name": "Crystal Castles",
@@ -503,22 +519,6 @@
       "duration_ms": 163944,
       "name": "You Was Right",
       "url": "https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -779,38 +779,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Lately EP",
-        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 157303,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "Portamento",
-        "url": "https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 233655,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0vAb3U3NJhiuib2B7sJdeJ"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Kauai",
         "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
@@ -827,6 +795,22 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
+        "name": "Lately EP",
+        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 157303,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
         "name": "striptease",
         "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 160659,
       "name": "striptease",
       "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Portamento",
+        "url": "https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 233655,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0vAb3U3NJhiuib2B7sJdeJ"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "NICE OUT",
         "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
         "name": "Nike",
         "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+        "name": "The Essential Electric Light Orchestra",
+        "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+      "duration_ms": 252373,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1351,22 +1367,6 @@
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
-        "name": "The Essential Electric Light Orchestra",
-        "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
     },
     {
       "added_at": "2022-10-08 01:04:52",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "Hot Space",
-        "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Cool Cat",
-      "url": "https://open.spotify.com/track/1xD8LOLKZTBWp7SXQrUANX"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Sad B!tch",
         "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 135069,
       "name": "Sad B!tch",
       "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "Hot Space",
+        "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Cool Cat",
+      "url": "https://open.spotify.com/track/1xD8LOLKZTBWp7SXQrUANX"
     },
     {
       "added_at": "2022-10-07 18:33:44",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-10-07 18:33:44",
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/7EiK3aqMyyjhldF3Kih152"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/0NF8WXHL65nMVslHdZ1AgU"
-    },
-    {
-      "added_at": "2022-10-07 18:33:44",
-      "album": {
         "name": "Free Form Mixtape",
         "url": "https://open.spotify.com/album/73rCTj22iO75ygdt5uoj31"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 147666,
       "name": "Baby Pillz",
       "url": "https://open.spotify.com/track/1PVH01aOkNQ6PzxT4Lqtfm"
+    },
+    {
+      "added_at": "2022-10-07 18:33:44",
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/7EiK3aqMyyjhldF3Kih152"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 183012,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/0NF8WXHL65nMVslHdZ1AgU"
     },
     {
       "added_at": "2022-10-07 18:33:44",

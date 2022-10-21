@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-296 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+297 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [DRAG](https://open.spotify.com/track/1E7ziN1yrE18pJ55ech2XR) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [DRAG](https://open.spotify.com/album/6qItSBH2995bdjIe0qdoZx) | 3:15 | 2022-04-15 | 2022-07-28 |
 | [DREADED NOTE](https://open.spotify.com/track/0ysOmEVVYJjenh64P5dN3l) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [DREADED NOTE](https://open.spotify.com/album/3yhKVJspZP2p9T76PPQxTp) | 3:19 | 2022-02-11 | 2022-07-16 |
 | [Dream Drop](https://open.spotify.com/track/4OFTfnxRCK5qfzLwCyf7I2) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Love Power A\-to\-Z](https://open.spotify.com/album/0CZO5xaavRYy16D5sB30S8) | 2:54 | 2022-07-14 | 2022-08-06 |
-| [Dream State](https://open.spotify.com/track/3EDw77uNVYQGAEtRiRfLCG) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Dream State](https://open.spotify.com/album/13kGJmiEER9cetocHPdYr7) | 3:26 | 2022-03-11 |  |
+| [Dream State](https://open.spotify.com/track/3EDw77uNVYQGAEtRiRfLCG) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Dream State](https://open.spotify.com/album/13kGJmiEER9cetocHPdYr7) | 3:26 | 2022-03-11 | 2022-10-21 |
 | [Dreamer](https://open.spotify.com/track/4PZSK9emDiCzkvT3yMWtOT) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Dreamer](https://open.spotify.com/album/5ij6BBKCq60e6EFh3bGUC0) | 3:36 | 2022-05-13 |  |
 | [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 | 2022-09-16 |  |
 | [Dreams](https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Dreams](https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC) | 4:17 | 2022-01-07 |  |
@@ -98,6 +98,7 @@
 | [Fire](https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Ethereal](https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ) | 3:41 | 2022-02-25 | 2022-07-29 |
 | [Flare](https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Mirrors](https://open.spotify.com/album/6rPIY9dx2jNh9VFsX86ErA) | 3:10 | 2022-01-07 | 2022-07-28 |
 | [Flash Drive](https://open.spotify.com/track/3gA35jxypCyQczOR5Tew9J) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0), [B▲BY](https://open.spotify.com/artist/5xJ32qIdXRe84ETWIv2RDA) | [Flash Drive](https://open.spotify.com/album/2eaTv2nNOFNPjmlPP21Fdg) | 3:23 | 2022-03-11 |  |
+| [Flashback](https://open.spotify.com/track/3pUwFUuGgxrUwUaLFDlA8B) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco), [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC) | [Flashback](https://open.spotify.com/album/3SU1UJpZqk15qVlYO6VyWk) | 3:26 | 2022-10-07 |  |
 | [Flight](https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Flight](https://open.spotify.com/album/6mOUQ523znFWPykhV0uvfa) | 3:39 | 2022-03-11 |  |
 | [Forever Till The End Of Time](https://open.spotify.com/track/4ZzKw1gXBYEhG65jKayPbC) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Forever Till The End Of Time](https://open.spotify.com/album/3Q5dfZXifl3WoG4irg5wqj) | 2:34 | 2022-01-07 | 2022-07-10 |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 |  |

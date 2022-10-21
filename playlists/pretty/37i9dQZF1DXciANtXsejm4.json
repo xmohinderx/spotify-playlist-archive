@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 139730,
+  "num_followers": 139899,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDA0NTNjNTJhYzA4NDY2MTY1MzMxODlkZDcwZjkyYzk2",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGY1Mzc4OWU3OTk3NTA2MjY0ZTZlMDBjOWUwMmI0NzBl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "No Voy a Cambiar",
         "url": "https://open.spotify.com/album/5FW6eQ0rOSFJm822GLtYOv"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 202213,
       "name": "No la Beses",
       "url": "https://open.spotify.com/track/0i8Ri3yOkErzAX8eOGfRH1"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Cree En Ti",
-        "url": "https://open.spotify.com/album/1DEulkr2WxK5KbZlsP5elb"
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
       "artists": [
         {
-          "name": "La contr\u00e0",
-          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
+          "name": "Mario Luis con los Angeles Colombianos",
+          "url": "https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy"
         }
       ],
-      "duration_ms": 212626,
-      "name": "Y t\u00fa te vas",
-      "url": "https://open.spotify.com/track/6X4fk1YMYQNIwDaVnVD3Ut"
+      "duration_ms": 220840,
+      "name": "Cosas del amor",
+      "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
     }
   ],
   "unique_name": "Cumbia Santafesina",

@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 203000,
       "name": "Amalobolo",
       "url": "https://open.spotify.com/track/11wimQmyafLaiXvGsgUv0q"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 269310,
       "name": "Bayethe",
       "url": "https://open.spotify.com/track/15fGJ4Qqs3QEbDAvsx992v"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 212893,
       "name": "Kilimanjaro",
       "url": "https://open.spotify.com/track/05gIBRBUXH9bCGGheDVZro"
@@ -2201,6 +2201,24 @@
       "duration_ms": 269583,
       "name": "KOKHALABANTU",
       "url": "https://open.spotify.com/track/1LdodHeIoK2eBxlCW1UZ2M"
+    },
+    {
+      "album": {
+        "name": "Umthombo",
+        "url": "https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV"
+      },
+      "artists": [
+        {
+          "name": "Xhanti Nokwali",
+          "url": "https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389939,
+      "name": "Konakele",
+      "url": "https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9"
     },
     {
       "album": {
@@ -3757,7 +3775,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 174000,
       "name": "Ntombazana",
       "url": "https://open.spotify.com/track/6fJlDSuDWB6YEtY9GwtUr4"
@@ -3779,6 +3797,24 @@
       "duration_ms": 207348,
       "name": "Ntsoare Moo",
       "url": "https://open.spotify.com/track/0wKUAe9I3MUpkH25xE9Etb"
+    },
+    {
+      "album": {
+        "name": "Usiba Lwe Gazi",
+        "url": "https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd"
     },
     {
       "album": {
@@ -3877,7 +3913,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 193173,
       "name": "OWAMI (feat. Msaki)",
       "url": "https://open.spotify.com/track/79XTMk8TGJZYpYEvLv0DHq"
@@ -4337,7 +4373,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 319793,
       "name": "Simbonga Ngothando",
       "url": "https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB"
@@ -5306,6 +5342,36 @@
     },
     {
       "album": {
+        "name": "Usisthandwa Sami (feat. Cnethemba Gonelo)",
+        "url": "https://open.spotify.com/album/2QLLIxooWubamhqnWZPt9d"
+      },
+      "artists": [
+        {
+          "name": "A-Toidd",
+          "url": "https://open.spotify.com/artist/37QUtAv3IYjCQVGHh2UxnA"
+        },
+        {
+          "name": "Maas",
+          "url": "https://open.spotify.com/artist/5LEvb9cSiPZGoNWbVbYFJc"
+        },
+        {
+          "name": "Thando Simelane",
+          "url": "https://open.spotify.com/artist/6QNGMCBlnd90WjDhYX5aog"
+        },
+        {
+          "name": "Cnethemba Gonelo",
+          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224417,
+      "name": "Usisthandwa Sami (feat. Cnethemba Gonelo)",
+      "url": "https://open.spotify.com/track/48dRoLcBWnagYHROIK7Ehe"
+    },
+    {
+      "album": {
         "name": "My Yoki Yoki",
         "url": "https://open.spotify.com/album/50lepWTYKwzj8o02iPRFrV"
       },
@@ -5365,7 +5431,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 215041,
       "name": "Uyadlala",
       "url": "https://open.spotify.com/track/3s35eJ95LxZV70WRqHxnHk"
@@ -5601,7 +5667,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 247337,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"

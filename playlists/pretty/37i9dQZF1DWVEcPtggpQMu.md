@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5?si=xsgxChjCRya87hLza\_FLvw">DJ Sliqe</a> , <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=ww0kbUyXSG2YbDOi3Wx4MA">Maglera Doe Boy</a> and <a href="https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=\-w0WXrX3Tli0DjW4yhGlkg">25K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,872 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 27 | [FACTS](https://open.spotify.com/track/2QuO7HB7xqRKtbslL1TeET) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [FACTS](https://open.spotify.com/album/3hw38HwRJeFzzq1Tg4hxV0) | 3:12 |
 | 28 | [God Is A Black Woman](https://open.spotify.com/track/08rcbLs7BrwOMFSGASlLgs) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [KayGizm](https://open.spotify.com/artist/7zZJ8uMyYLA5IXhjf1wlw2) | [God Is A Black Woman](https://open.spotify.com/album/2gEToWe7xbkYqQUERfGkG4) | 2:58 |
 | 29 | [God Save The King](https://open.spotify.com/track/2PiCTC0IUYPZNx3UFei1DO) | [Logical Rhymez](https://open.spotify.com/artist/34U9SaAmcwFw644qQLr6Ie), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [The Three Musketeers](https://open.spotify.com/album/208XAyolLlLHOaLVEAQY9n) | 3:12 |
-| 30 | [Believe It](https://open.spotify.com/track/2ietildFwSxGXyElt6XR9D) | [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k), [Kd Summerz](https://open.spotify.com/artist/2PT9Fr4N5fIFNCjVkfgxbf), [Fruit Vendor](https://open.spotify.com/artist/5ZxUCUrr17aeyCqxNbwB9P), [DSB](https://open.spotify.com/artist/4zMYJFMNR4K69sAMJiVBQK) | [Believe It](https://open.spotify.com/album/5wFdsHn5A4iHHsSnfze3ls) | 3:47 |
+| 30 | [Believe It](https://open.spotify.com/track/2ietildFwSxGXyElt6XR9D) | [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k), [Kd Summerz](https://open.spotify.com/artist/2PT9Fr4N5fIFNCjVkfgxbf), [Fruit Vendor](https://open.spotify.com/artist/5ZxUCUrr17aeyCqxNbwB9P), [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [DSB](https://open.spotify.com/artist/4zMYJFMNR4K69sAMJiVBQK) | [Believe It](https://open.spotify.com/album/5wFdsHn5A4iHHsSnfze3ls) | 3:47 |
 | 31 | [LUNA F BABY](https://open.spotify.com/track/2p9HNlv5Qskquj3ynhi57H) | [Luna Florentino](https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS) | [22:22](https://open.spotify.com/album/4pcdSzWn1uJiMbqZJxIH5g) | 3:02 |
 | 32 | [INVASION OF DRILL](https://open.spotify.com/track/03DVqPdZQa65UNXyGGvwts) | [Breeze Zulu Bass King](https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q), [808RSA](https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz) | [INVASION OF DRILL](https://open.spotify.com/album/1CBthDD0B9ovr72AoNKmTw) | 3:12 |
 | 33 | [Zakudala](https://open.spotify.com/track/26PiExq4MHgajgDhg141A7) | [Ma E](https://open.spotify.com/artist/6OwN3S1Mx86QkRQIaTBiZm), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [Namanje & Forever Ever](https://open.spotify.com/album/5PQ8GkuF9QnrtkXn4RMBro) | 3:10 |

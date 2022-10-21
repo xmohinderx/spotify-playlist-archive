@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-282 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+283 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Come Back](https://open.spotify.com/track/0h6DULTf27FjGyKmxL8h0U) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [Mi\-kaisha](https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr) | [Blak Matriarchy](https://open.spotify.com/album/3dLQOZizfKZIFw7VBXLpGL) | 2:41 | 2022-02-03 | 2022-04-06 |
 | [complacent](https://open.spotify.com/track/7I1qkuYOk8sT9LNcT4uiK0) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [complacent](https://open.spotify.com/album/67Cmb6tbnATAVS1PGSgOTi) | 3:14 | 2022-02-03 | 2022-07-04 |
 | [Congratulations](https://open.spotify.com/track/0ZoUXwjbV6eetZmiEWEf3T) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Congratulations](https://open.spotify.com/album/0T2tUhoUEv04RQBCc1qjAh) | 2:50 | 2022-09-05 |  |
-| [CPU](https://open.spotify.com/track/7Ms26T0fqmSPPKl3Qpr7sj) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [CPU](https://open.spotify.com/album/3YMnkY1T5Ba0BToUSDgv95) | 2:49 | 2022-09-05 |  |
+| [CPU](https://open.spotify.com/track/1Z0TyWFdx3Eyza1fz2uIRg) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [CPU](https://open.spotify.com/album/4Ivuy4kOEWD8NCWfwzKFIx) | 2:49 | 2022-10-02 |  |
+| [CPU](https://open.spotify.com/track/7Ms26T0fqmSPPKl3Qpr7sj) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [CPU](https://open.spotify.com/album/3YMnkY1T5Ba0BToUSDgv95) | 2:49 | 2022-09-05 | 2022-10-21 |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-03-01 | 2022-10-03 |
 | [Crying At This Party \(feat\. bby ivy\)](https://open.spotify.com/track/1Af7leoKf8dkatsECOVhs6) | [Jordie Ireland](https://open.spotify.com/artist/1fTCSmuwhEaa6J6Hjq8xmi), [bby ivy](https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R) | [Crying At This Party \(feat\. bby ivy\)](https://open.spotify.com/album/7fyaZQbIbfPr7gQltTzTa5) | 3:25 | 2022-05-02 |  |
 | [Crying in the Club](https://open.spotify.com/track/1yd6p44qOsY1B2zspMA7WA) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Crying in the Club](https://open.spotify.com/album/36x7iB3fS5Rb1tEiOh2egW) | 3:11 | 2022-02-03 | 2022-08-01 |

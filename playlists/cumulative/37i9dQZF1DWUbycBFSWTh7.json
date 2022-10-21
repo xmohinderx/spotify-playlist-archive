@@ -1846,6 +1846,28 @@
     },
     {
       "album": {
+        "name": "The Compass Jawn",
+        "url": "https://open.spotify.com/album/3GRkliKarE23yqJyW1aBky"
+      },
+      "artists": [
+        {
+          "name": "Charlie Soul Clap",
+          "url": "https://open.spotify.com/artist/4R1FbGcLzUd1poeNQXIb8o"
+        },
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "The Compass Jawn - Studio Version",
+      "url": "https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5"
+    },
+    {
+      "album": {
         "name": "Shake It On Down",
         "url": "https://open.spotify.com/album/6QMkLzfvYHhuCNrE0xhCNd"
       },

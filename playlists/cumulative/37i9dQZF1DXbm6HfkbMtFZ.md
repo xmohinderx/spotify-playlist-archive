@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-447 songs - 1 day 3 hr 6 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+448 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Out Of Love](https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:50 | 2021-12-16 |  |
 | [Outside](https://open.spotify.com/track/00NLANlysX9yJpOD3mfshw) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Good Vibes](https://open.spotify.com/album/238NQAxbtkQF1QaiMfcRSE) | 2:00 | 2022-03-30 | 2022-04-20 |
 | [Over My Shoulder](https://open.spotify.com/track/4kdtYwv0fOnljcuku3dHQl) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Over My Shoulder](https://open.spotify.com/album/7s7VbGl21bvAadTQLxkJH2) | 4:00 | 2022-03-30 | 2022-04-20 |
+| [Over My Shoulder](https://open.spotify.com/track/5Km446B950EyLF0zAy1FhP) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Over My Shoulder](https://open.spotify.com/album/5AhdDufRrLozZ9aMEExLia) | 4:00 | 2022-10-14 |  |
 | [Palladium](https://open.spotify.com/track/3j3vtKJrih52kOC88jfOkB) | [Ronesh](https://open.spotify.com/artist/7xtZSl7LM8fNiUir2UZiPK) | [Stone Groove](https://open.spotify.com/album/2usKtboTSPUPsHztdWAlfm) | 1:42 | 2021-12-16 | 2022-07-29 |
 | [Paradise \- Boehm Remix](https://open.spotify.com/track/5VUl17rW74R67xbxOppPl8) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [Paradise \(Boehm Remix\)](https://open.spotify.com/album/1pNKxOEbz4mHqoiHV4Lr7Y) | 3:17 | 2022-03-30 | 2022-04-21 |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2021-12-16 |  |
@@ -347,7 +348,7 @@
 | [Something Beautiful](https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Closer](https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE) | 3:58 | 2022-06-21 |  |
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-26 |  |
 | [Something Right](https://open.spotify.com/track/5Ec88SE65sNRZrcmVm6Qi8) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Maybe It's All We Dreamed Of](https://open.spotify.com/album/6yHHY9XFGfpGXlHfpm3ISF) | 4:04 | 2022-03-30 | 2022-04-21 |
-| [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 |  |
+| [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 | 2022-10-21 |
 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 | 2022-03-30 | 2022-04-13 |
 | [Spread Lurve \- Original Mix](https://open.spotify.com/track/4clEDm1xBMwAl4uKo3wCFt) | [Pools](https://open.spotify.com/artist/4CVKH0jR8E2EjMGYN2Wi21) | [Innertubes](https://open.spotify.com/album/3ESWPoVJbo3tj9feBOhLD2) | 5:06 | 2021-12-16 | 2022-07-20 |
 | [Still Feel Like Your Man](https://open.spotify.com/track/3pdWCmUno1bWzYIdYwoiMM) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything \- Wave Two](https://open.spotify.com/album/0i6oIJ53snlnCd7f2J5dJy) | 3:56 | 2022-03-30 | 2022-04-20 |

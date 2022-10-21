@@ -1,15 +1,31 @@
 {
-  "description": "The best French indie tracks right now. Cover: Bon Entendeur, Emma Peters.",
-  "num_followers": 310921,
+  "description": "The best French indie tracks right now. Cover: blond.",
+  "num_followers": 311026,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDY5YTRlZDZjNmVhOGE1NTMzYTcxYWM3MTI1NDUzZjU3",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDkwNDk5Njg5OTZhZGU4ZjFkODFhZTgxZWNjZTcyOWJl",
   "tracks": [
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Pour la vie enti\u00e8re",
+        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Pour la vie enti\u00e8re",
+      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Le coup d'soleil (feat. Emma Peters)",
         "url": "https://open.spotify.com/album/0O9qHe6RGZ2mc6tRfZfI33"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/1J8BB10crN7uZc42kZiALR"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Pour la vie enti\u00e8re",
-        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
-      },
-      "artists": [
-        {
-          "name": "blond",
-          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Pour la vie enti\u00e8re",
-      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Paris en Ao\u00fbt",
         "url": "https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Corporate Sunset",
         "url": "https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "11 mai 2020",
         "url": "https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": ":):",
         "url": "https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "minuit",
         "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Lipstick Stains",
         "url": "https://open.spotify.com/album/3S098IH93lC7aphwd4XlXC"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/3aKNonAXtkjbcqP35vc8pl"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Le Tuto",
         "url": "https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "JTM",
         "url": "https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "rien dire",
         "url": "https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/3X05hKeB0CHnRKjhwd0nLD"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/2uRnFJyQ3OGk9Z1WzrPU9c"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Septembre",
         "url": "https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/6DizoLGqfn6IXI4xk3yDwU"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/7jkJWgGqpS8QrkibLlfMhz"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Tandem",
         "url": "https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "La vitesse",
         "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "chanson triste",
         "url": "https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/2AhOvs6A2RVg3IoVtCeMI1"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/4b0fiEZg92FBFYze5uEx0l"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Construire un feu",
         "url": "https://open.spotify.com/album/5ohn4rsXCl5TyIOKT6vxW6"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/06fPgubILYvUlNHW9MzBuS"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Crush (feat. Ana\u00efs Demoustier)",
         "url": "https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Nusky, Vaati and Friends",
         "url": "https://open.spotify.com/album/7kXW4E6tdFIPvQWHl5krcV"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/2MLIOj1RXlVYWbSlG7FODB"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Misunderstood",
         "url": "https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Y tu te vas",
         "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/196KcyXjX9vkmXOhGw5YBu"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/51uQCk3qeta0zegvbnpgTQ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Septembre",
         "url": "https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Hiroshima",
         "url": "https://open.spotify.com/album/5DGO0wF5Sn3uXMTModz4p9"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/6FOcmhnINLjPcsMbbwUzVA"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Pas d'ici",
         "url": "https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "1901 - Part II",
         "url": "https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Chifoumi",
         "url": "https://open.spotify.com/album/3Wfi96jmFxSxBdv510bSar"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/6lKs1pXjZvGQHNky3qD6qz"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Keep Running",
         "url": "https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "En ce moment",
         "url": "https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Vid\u00e9odrome",
         "url": "https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/3GGs5TGfMh675Tvg08VjLQ"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Your Type",
         "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "I'll Think About It",
         "url": "https://open.spotify.com/album/5cnqcRrObA48AfCvSxH54G"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0RLKhd3wbu8733GCu03nNn"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Masque d'or",
         "url": "https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Vitesse",
         "url": "https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Voyage I",
         "url": "https://open.spotify.com/album/2lKQPMov6YiNbdI5xmpbiP"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/3gqGa4qbSoYVHDfaTUdkEA"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "By the beach (piano)",
         "url": "https://open.spotify.com/album/7xtkUWqbhctrNvZ9eTO0IC"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/3K94ZgWTPl5KVOMxysvbRF"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Je reste cool",
         "url": "https://open.spotify.com/album/5vRvczFRaV4KYk0e3fwJr4"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/6FDJmxbrJLBM1ODvP1I3MU"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Molitor 3",
         "url": "https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "La Lune",
         "url": "https://open.spotify.com/album/6bK58gR6Koh8O94W9qevFm"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/69UYh1FffcoJcadeOiIpOt"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "Forever Melodies",
         "url": "https://open.spotify.com/album/6m0x1fumKRq1gV9ssXIF8d"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/4LFitgMfDKkO9ffcDmIetz"
     },
     {
-      "added_at": "2022-10-13 22:00:00",
+      "added_at": "2022-10-20 22:00:00",
       "album": {
         "name": "When She's Gone",
         "url": "https://open.spotify.com/album/76qqQq9zbjxdCDWfKMps1D"

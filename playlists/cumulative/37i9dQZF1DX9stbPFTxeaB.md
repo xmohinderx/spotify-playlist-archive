@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-97 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
+98 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Life On The Outside](https://open.spotify.com/track/2iufE5GZ6UobPZgMU8Qh5A) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1) | 3:47 | 2020-08-21 |  |
 | [Lives That Don't Exist](https://open.spotify.com/track/0X4vLevfEeJIgjVpKedbgK) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Blind for Love](https://open.spotify.com/album/6l5J6OqjFMWGhv9132gs83) | 3:55 | 2020-08-21 |  |
 | [Living In A Burning House](https://open.spotify.com/track/0dXY4cKAKXZ74B41vclGlu) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Living In A Burning House](https://open.spotify.com/album/0iZ7zjxkdJVCaImg2EJZzB) | 4:08 | 2020-08-21 |  |
-| [Long Coal Train](https://open.spotify.com/track/2geemXTDk9V6Dazk9RyCfw) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [New World Arisin'](https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj) | 3:51 | 2020-08-21 |  |
+| [Long Coal Train](https://open.spotify.com/track/0S9mn8M7ZTfwXxPLxsdLOJ) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [New World Arisin'](https://open.spotify.com/album/2Kf2bhjzeCBhv2oT7ErMD4) | 3:51 | 2020-08-21 |  |
+| [Long Coal Train](https://open.spotify.com/track/2geemXTDk9V6Dazk9RyCfw) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [New World Arisin'](https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj) | 3:51 | 2020-08-21 | 2022-10-21 |
 | [Love Ain't a Love Song](https://open.spotify.com/track/50ttL5XmiGyYscxnJKJy2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/3g3H58t89gy5HS6e9oaIos) | 3:48 | 2020-08-21 |  |
 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 | 2020-08-21 | 2022-07-29 |
 | [Love Is](https://open.spotify.com/track/0Q8GkrbDpLqAls58k0K2Tu) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 4:40 | 2020-08-21 |  |

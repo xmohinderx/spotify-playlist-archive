@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Bad Boys Running Wild",
+      "url": "https://open.spotify.com/track/6UWWzTU1NgKf7vHbOeO17p"
+    },
+    {
+      "album": {
         "name": "Savage Amusement",
         "url": "https://open.spotify.com/album/3iYSGTBKc5DDUQV1lwvhgl"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 324160,
       "name": "Believe In Love",
       "url": "https://open.spotify.com/track/3T8I6Fdb6sUvIQqCaXK98b"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 228266,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu"
@@ -725,6 +743,24 @@
       "duration_ms": 197041,
       "name": "Roots In My Boots",
       "url": "https://open.spotify.com/track/4LWxZ4E5BPimogTZdi5CrB"
+    },
+    {
+      "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "Ruby Tuesday",
+      "url": "https://open.spotify.com/track/7utyUj2Clh0t5M77IA78u0"
     },
     {
       "album": {

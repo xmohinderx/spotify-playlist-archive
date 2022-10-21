@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 3154,
+  "num_followers": 3171,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDVkY2U5YzUxOTJiMGM0NDVkYWNjMDAyMTA0NTE1Y2Ri",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGE4MjZhMjI3MWI4ODIxZWEyOGJiYTBkOWIzZTNhNGFh",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Solar System",
-        "url": "https://open.spotify.com/album/3xPjq2CgQ1pVPcopuTd7Z5"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Solar System",
-      "url": "https://open.spotify.com/track/1o09rPw5I0M9W9AD1z0Qoz"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Christopher",
         "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 140921,
       "name": "Where The Love Go?",
       "url": "https://open.spotify.com/track/6AcH0LfJlSzhHQqzWaxU5Y"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Solar System",
+        "url": "https://open.spotify.com/album/3xPjq2CgQ1pVPcopuTd7Z5"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/1o09rPw5I0M9W9AD1z0Qoz"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Nothin to Do with It",
-        "url": "https://open.spotify.com/album/1yY41P2uR08Ymc14y4j4Jj"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Nothin to Do with It",
-      "url": "https://open.spotify.com/track/0Topatv6lvMQE8DKtETF3e"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
       },
@@ -1059,26 +1043,38 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "HOLY SMOKE!",
-        "url": "https://open.spotify.com/album/6C05PIU1wMUQzudzjqjU5O"
+        "name": "Nothin to Do with It",
+        "url": "https://open.spotify.com/album/1yY41P2uR08Ymc14y4j4Jj"
       },
       "artists": [
         {
-          "name": "indie tribe",
-          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
         }
       ],
-      "duration_ms": 196250,
-      "name": "HOLY SMOKE!",
-      "url": "https://open.spotify.com/track/0nOFQTgf87Hf9TDFPJsm62"
+      "duration_ms": 149508,
+      "name": "Nothin to Do with It",
+      "url": "https://open.spotify.com/track/0Topatv6lvMQE8DKtETF3e"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Not for Sale",
+        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 222916,
+      "name": "1994 (feat. Aaron Cole)",
+      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1103,22 +1099,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Not for Sale",
-        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
+        "name": "HOLY SMOKE!",
+        "url": "https://open.spotify.com/album/6C05PIU1wMUQzudzjqjU5O"
       },
       "artists": [
         {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
         },
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
         }
       ],
-      "duration_ms": 222916,
-      "name": "1994 (feat. Aaron Cole)",
-      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
+      "duration_ms": 196250,
+      "name": "HOLY SMOKE!",
+      "url": "https://open.spotify.com/track/0nOFQTgf87Hf9TDFPJsm62"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Pastor Monty",
+        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Pastor Monty",
+      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Marty For President 2",
         "url": "https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 201578,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Pastor Monty",
-        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Pastor Monty",
-      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Mind",
-        "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Christopher",
         "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 171196,
       "name": "9th Grade",
       "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 158399,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "i'm back",
-        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "i'm back",
-      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "My Bruddas",
         "url": "https://open.spotify.com/album/2ijkyNFFJUHG4g8eBaarQS"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 176076,
       "name": "Be Gone (feat. Mike Teezy)",
       "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "i'm back",
+        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
+      },
+      "artists": [
+        {
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        }
+      ],
+      "duration_ms": 161101,
+      "name": "i'm back",
+      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1951,26 +1951,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Heard Not Seen III",
-        "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
+        "name": "Tru Talk Tony, Vol. 1",
+        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
       },
       "artists": [
         {
-          "name": "theBeatbreaker",
-          "url": "https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "TNED",
-          "url": "https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 195927,
-      "name": "Striking Matches (feat. 1K Phew & TNED)",
-      "url": "https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5"
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     }
   ],
   "unique_name": "Blessings",

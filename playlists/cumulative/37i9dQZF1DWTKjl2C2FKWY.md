@@ -4,7 +4,7 @@
 
 > Soft acoustic sounds for your massage session.
 
-110 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/34qPnDmQysY09FJqV1fj00)
+111 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/34qPnDmQysY09FJqV1fj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-08-29 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2022-08-29 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-08-29 |  |
-| [Mountains](https://open.spotify.com/track/5mGZXXvMw7LzOAWWoVC3Vf) | [Robbie Wadge](https://open.spotify.com/artist/4kLNypIZnb0dYilQZTIHVq) | [Mountains](https://open.spotify.com/album/71fPp5qxA3u0SCdFwoqQAe) | 4:47 | 2022-08-29 |  |
+| [Mountains](https://open.spotify.com/track/3f7rnCS8YUMOK0YE9olnoA) | [Robbie Wadge](https://open.spotify.com/artist/4kLNypIZnb0dYilQZTIHVq) | [Mountains](https://open.spotify.com/album/7MILm8aG1st3tp8Uk0XtNP) | 4:47 | 2022-10-14 |  |
+| [Mountains](https://open.spotify.com/track/5mGZXXvMw7LzOAWWoVC3Vf) | [Robbie Wadge](https://open.spotify.com/artist/4kLNypIZnb0dYilQZTIHVq) | [Mountains](https://open.spotify.com/album/71fPp5qxA3u0SCdFwoqQAe) | 4:47 | 2022-08-29 | 2022-10-21 |
 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 | 2022-10-14 |  |
 | [New Slang](https://open.spotify.com/track/4zYHZg9c9KHkX2jQrZ24qe) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/7Jrjpc2NmWTypspUUm8t0y) | 4:00 | 2022-08-29 |  |
 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 | 2022-08-29 |  |

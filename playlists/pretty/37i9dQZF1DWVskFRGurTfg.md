@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica, con Blessd, De La Ghetto y Darell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,695,636 likes - 116 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,696,231 likes - 116 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

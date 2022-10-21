@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-195 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+198 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [All Through The Day](https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP) | [Las Los](https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1) | [All Through The Day](https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS) | 3:02 | 2022-10-06 |  |
 | [Aplomb](https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR) | [Mt\. Mountain](https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4) | [Centre](https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7) | 4:40 | 2021-10-06 |  |
 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 | 2022-08-19 |  |
-| [Atemporal](https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:07 | 2022-07-19 |  |
+| [Atemporal](https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:07 | 2022-07-19 | 2022-10-21 |
+| [Atemporal](https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:07 | 2022-07-19 |  |
 | [Ba Sing Se](https://open.spotify.com/track/48cnlcfe8AjLDYfUj5w41R) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Ba Sing Se](https://open.spotify.com/album/5ipx9NCdjrY02yzzqkjQaK) | 4:06 | 2022-04-26 | 2022-08-13 |
 | [BabyBack](https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Double Dinners](https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ) | 5:09 | 2022-01-13 | 2022-09-07 |
 | [Behind The Sun](https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG) | 3:29 | 2021-10-06 |  |
@@ -40,7 +41,8 @@
 | [Crosswalk](https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:26 | 2022-09-12 |  |
 | [Daffodils](https://open.spotify.com/track/2rlBLY6Iy6dRy3X0Epkt3W) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 2:48 | 2022-03-04 | 2022-09-29 |
 | [Desire](https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Desire](https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj) | 5:01 | 2022-04-23 | 2022-09-04 |
-| [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 | 2022-08-31 |  |
+| [Dicen](https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 2:44 | 2022-08-31 |  |
+| [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 | 2022-08-31 | 2022-10-21 |
 | [Dirt on the Bed](https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:28 | 2022-02-08 |  |
 | [Dirt on the Bed](https://open.spotify.com/track/731ZLJPbdc9iXmoHxafgDO) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/7ljPxYHtc8GrLdFuXGJw1X) | 4:28 | 2022-02-08 | 2022-07-29 |
 | [Dogma](https://open.spotify.com/track/2ldqnO15Wz4U6JJQrb8kMy) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Dogma](https://open.spotify.com/album/1ZLybGNOMGNF4spedn49Om) | 3:24 | 2021-10-06 | 2022-09-13 |
@@ -117,7 +119,8 @@
 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 | 2022-07-29 | 2022-09-01 |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-13 |  |
 | [Nisemono](https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Nisemono](https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ) | 3:01 | 2022-09-09 |  |
-| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 |  |
+| [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-08-02 |  |
+| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 | 2022-10-21 |
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-09-03 |  |
 | [Ocean noir](https://open.spotify.com/track/0JWtd6oSI8wlvMz4Tvctts) | [SKYGGE](https://open.spotify.com/artist/4aGSoPUP1v4qh7RfBlvgbR), [Benoît Carré](https://open.spotify.com/artist/3CmH9mzBhbcOu7ugWxFW5V) | [Ocean noir](https://open.spotify.com/album/6loTihjQ0lHtEFxjOcPjC3) | 3:57 | 2022-02-15 | 2022-08-04 |
 | [Oil on Troubled Waters](https://open.spotify.com/track/7mj9kYMykOPsuDDI2Qm5s2) | [Martin Thulin](https://open.spotify.com/artist/0wEgzu3Y9aQ5mVdliG4L8l) | [Oil on Troubled Waters](https://open.spotify.com/album/0NxnBrqJ0PC0Gg4bfcLfch) | 3:26 | 2022-03-09 | 2022-09-22 |

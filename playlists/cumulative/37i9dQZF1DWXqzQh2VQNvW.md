@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-180 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+181 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-09-05 |  |
 | [Hold On](https://open.spotify.com/track/14wHKX7gSF6cgICuakSte9) | [Future Boyfriend](https://open.spotify.com/artist/6WgbfyAIroFv9OUhPbdqr8) | [Hold On](https://open.spotify.com/album/7dMBbDTMgB1H4xIZdQmVWz) | 3:50 | 2022-10-14 | 2022-10-18 |
 | [Hold On](https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36) | [Hold On](https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv) | 4:14 | 2022-02-25 |  |
-| [Homicide](https://open.spotify.com/track/3bMkX7fBy3yTmZVKY8ko6B) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Homicide](https://open.spotify.com/album/10voDa9fbZTOyzhEg5mw2T) | 2:49 | 2022-01-25 |  |
+| [Homicide](https://open.spotify.com/track/3bMkX7fBy3yTmZVKY8ko6B) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Homicide](https://open.spotify.com/album/10voDa9fbZTOyzhEg5mw2T) | 2:49 | 2022-01-25 | 2022-10-21 |
+| [Homicide](https://open.spotify.com/track/76aBnnUC1ksgbDeuAw0dbK) | [Ani Brava](https://open.spotify.com/artist/5nSfjpspE3LUNZyQFw5Xj4) | [Homicide](https://open.spotify.com/album/4BTmM11yHK9nhriAQ0uztQ) | 2:49 | 2022-10-14 |  |
 | [Hood Baby](https://open.spotify.com/track/5au5NgWCdev4WeLRB3YEOR) | [KBFR](https://open.spotify.com/artist/0JFjWic1b9Mvv7WcNYhDvZ) | [Hood Baby](https://open.spotify.com/album/7HLkzMiiS4TbJEH70MooXW) | 1:50 | 2022-01-25 | 2022-03-18 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-01-25 |  |
 | [I Built A Friend \(2020\)](https://open.spotify.com/track/68XhCrBajUR64h6wv4eYYW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Built A Friend \(2020\)](https://open.spotify.com/album/31s5CRYvua6xU9c2n7H8PJ) | 2:56 | 2022-01-25 | 2022-03-18 |

@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-67 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
+68 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Elton](https://open.spotify.com/track/0uNuTlq0XzBWfL0l3nkhFO) | [Horatio Pollard](https://open.spotify.com/artist/10WwJv9V8m2Gc2zUgWuiZZ) | [Trade & Distribution Almanac Vol\. 3](https://open.spotify.com/album/5WbHAkJWmXSU3r80MpYiJk) | 3:33 | 2022-07-08 |  |
 | [Everything I've Seen Needs Rearranging](https://open.spotify.com/track/1YeXGnob9wmikne7THZoJU) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 8:08 | 2022-07-08 |  |
 | [extraterrestrial orbit](https://open.spotify.com/track/5WZ3gEgjpmFaVEjoZD6r5L) | [aeroxone](https://open.spotify.com/artist/1RfT7VjWufW7BOVCG3MLOa), [seerz](https://open.spotify.com/artist/2eOoy2ipjoT2BrjPatcHeC) | [space communication](https://open.spotify.com/album/7Ceu9xRo2Dj1Ml5NquM510) | 2:14 | 2022-07-08 |  |
-| [Fight\-or\-Flight](https://open.spotify.com/track/0Sq5Zef1vc81suJNuPkZPF) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl) | [The Entire City](https://open.spotify.com/album/43D95bqqCiwSPZNG6QjtZ8) | 1:00 | 2022-07-08 |  |
+| [Fight\-or\-Flight](https://open.spotify.com/track/0Sq5Zef1vc81suJNuPkZPF) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl) | [The Entire City](https://open.spotify.com/album/43D95bqqCiwSPZNG6QjtZ8) | 1:00 | 2022-07-08 | 2022-10-21 |
+| [Fight\-or\-Flight](https://open.spotify.com/track/2AYiblpMSBmqEJhcSRoGZf) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl) | [The Entire City](https://open.spotify.com/album/6uhSnKyoxmUdwCX80KViIx) | 1:00 | 2022-10-04 |  |
 | [Flak Bib](https://open.spotify.com/track/5pbcc4LJ1jDHjjmQVsUnuc) | [Mokira](https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7) | [Chill Out](https://open.spotify.com/album/6whOrMCaRQmUiJ8DggfT6U) | 5:02 | 2022-07-08 |  |
 | [forever passing](https://open.spotify.com/track/42iqOnsQRXY8cAFyP8mpep) | [Byelti](https://open.spotify.com/artist/6bdFkBtj91aLGfeMzRzXOQ) | [Threads](https://open.spotify.com/album/47mzmxt5k3rXC2Jz2Dj5pU) | 3:20 | 2022-07-08 |  |
 | [frankie the fish](https://open.spotify.com/track/0TPjyLshWX2dZ40OnaEceN) | [Glass Rivers](https://open.spotify.com/artist/5qQvSeMMwzvjZlw1pqmAC6) | [songs to live your life to](https://open.spotify.com/album/2v0p9MioK7YT1jIwQivVe1) | 2:30 | 2022-07-08 |  |

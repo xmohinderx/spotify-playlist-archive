@@ -9146,6 +9146,24 @@
     },
     {
       "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "album": {
         "name": "Gone Are The Days (feat. James Gillespie)",
         "url": "https://open.spotify.com/album/5yyKH8wCNqJxPKSQLzhkKy"
       },
@@ -12623,7 +12641,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 198367,
       "name": "Laisse tomber",
       "url": "https://open.spotify.com/track/2whrZu1OVT5c1QJerSO0Jr"
@@ -15959,7 +15977,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 147360,
       "name": "Mood - RAF Camora Remix",
       "url": "https://open.spotify.com/track/08mqF80M4AvAF0pGbR2ETA"
@@ -16491,7 +16509,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3"
@@ -18565,7 +18583,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -21224,6 +21242,28 @@
     },
     {
       "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/2bNwgIud5bfPXXTUyZeARc"
+      },
+      "artists": [
+        {
+          "name": "Krazymut",
+          "url": "https://open.spotify.com/artist/0mJXVw5EeYaDNz0tIzFXzp"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/6YPluiefKitCHNBfaPQUCC"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192287,
+      "name": "Sky's The Limit",
+      "url": "https://open.spotify.com/track/5L8Getah1kSjGwRwLRcbiV"
+    },
+    {
+      "album": {
         "name": "SL",
         "url": "https://open.spotify.com/album/0tWAJasl4Zmda3msMtMnJ9"
       },
@@ -22017,7 +22057,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 159360,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
@@ -22079,7 +22119,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"

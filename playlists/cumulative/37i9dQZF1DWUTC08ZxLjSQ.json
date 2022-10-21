@@ -414,6 +414,28 @@
     },
     {
       "album": {
+        "name": "Here and There",
+        "url": "https://open.spotify.com/album/2dEjij0eIdYLr90152L734"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123530,
+      "name": "Hamdulilah",
+      "url": "https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg"
+    },
+    {
+      "album": {
         "name": "Hamdulilah",
         "url": "https://open.spotify.com/album/014GFV5SvxywYplmNGON2c"
       },
@@ -429,7 +451,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 123530,
       "name": "Hamdulilah",
       "url": "https://open.spotify.com/track/55AuNDR0b8EZCeCqMeKPRP"

@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-153 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
+154 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Path To Truth](https://open.spotify.com/track/0R8MuYcefByzYmdyxzuTqx) | [Michael Spreitzer](https://open.spotify.com/artist/0jzAvFtyoSpHWy0XLaVKP6), [John Boecklin](https://open.spotify.com/artist/7dCwFv18oKHu6sV2XQBV8P), [Jeffrey Kendrick](https://open.spotify.com/artist/6WX5ctm79NwhKNyjOZPTiP), [Carl Bensley](https://open.spotify.com/artist/3TWStVknoPHw3tEf2Jm4Fj) | [Terror Metal](https://open.spotify.com/album/0b9AcnezKScs42fsq1Jyqb) | 2:08 | 2022-01-07 |  |
 | [Pelicans](https://open.spotify.com/track/2fuKzSeYauXKyz2fyrlL4H) | [E.G.O.](https://open.spotify.com/artist/7BTbMWAtRG6B6wRuGsztNU), [JF](https://open.spotify.com/artist/2jHzwqnp8ghpB7QpnnWNKu), [Noir](https://open.spotify.com/artist/43Q1i8pwT3uRuxJYr8AYRG) | [Pelicans](https://open.spotify.com/album/6AJuZuzvVu2N2JHKOwnL9z) | 2:56 | 2022-01-07 |  |
 | [Perm](https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:30 | 2022-01-07 |  |
-| [Pioneer](https://open.spotify.com/track/4nwpJ3Z6aPakk0EibboPdc) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Pioneer](https://open.spotify.com/album/2RDDgJdJR5bZlPJ0qv6afl) | 3:52 | 2022-01-07 |  |
+| [Pioneer](https://open.spotify.com/track/1WEGo5CZafSDrtAmkuK7Qu) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Pioneer](https://open.spotify.com/album/0dWFb0mT7OSSuEZr6X5WMm) | 3:52 | 2022-01-07 |  |
+| [Pioneer](https://open.spotify.com/track/4nwpJ3Z6aPakk0EibboPdc) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Pioneer](https://open.spotify.com/album/2RDDgJdJR5bZlPJ0qv6afl) | 3:52 | 2022-01-07 | 2022-10-21 |
 | [Play With Fire](https://open.spotify.com/track/3OgLpMNvRbbR7ef9a7EUi5) | [Daniel Farrant](https://open.spotify.com/artist/59oUlUYF0ef44qArSKQBgK), [Paul Rawson](https://open.spotify.com/artist/0ui5Du1TnlznRNTSP1psZ8) | [Glam Rock](https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh) | 3:28 | 2022-01-06 |  |
 | [Playing with the Boys \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:59 | 2022-09-09 |  |
 | [Queen Cobra](https://open.spotify.com/track/6M4gicYnR0VwEOYZvyr4aa) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 2:17 | 2022-01-11 |  |

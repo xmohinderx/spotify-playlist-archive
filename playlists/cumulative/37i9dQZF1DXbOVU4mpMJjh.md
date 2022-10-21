@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-419 songs - 1 day 10 hr 42 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+420 songs - 1 day 10 hr 45 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Dear Old Stockholm](https://open.spotify.com/track/6q79ug6e5EVGmkeEuJtDQu) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 9:56 | 2022-04-14 | 2022-07-29 |
 | [Dear Old Thing](https://open.spotify.com/track/0pZzAYPfcYXXHkflWkV0rB) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Awakening](https://open.spotify.com/album/1H8iVgSGr10YYPGxjp0kt6) | 6:28 | 2022-08-29 | 2022-09-22 |
 | [Dear Old Thing](https://open.spotify.com/track/4hxj5xy0RFnMlV2gEkR3Vo) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Dear Old Thing](https://open.spotify.com/album/6tHI7rtkHvUHedrPq6xOMT) | 6:28 | 2022-04-14 | 2022-07-29 |
-| [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 | 2022-06-30 |  |
+| [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 | 2022-06-30 | 2022-10-21 |
 | [Dim](https://open.spotify.com/track/50ma4LjaP5XDL1BsHrZ1D9) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/0GiNCOob4dZtBafvM8JrHG) | 6:05 | 2022-04-14 | 2022-07-28 |
 | [Dim](https://open.spotify.com/track/7M2CYOlGuAC73LnWPPbNGA) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx) | 6:05 | 2022-08-29 | 2022-09-23 |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/2k9INO4dSLTfEDRz7aorQC) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/5ybWzNgRuOpY4vFoIGdsDk) | 4:41 | 2022-04-14 | 2022-06-09 |
@@ -196,6 +196,7 @@
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2022-04-14 | 2022-10-19 |
 | [Jump for Joy \- 2007 Remaster](https://open.spotify.com/track/3xAXSXOjOGs8Uk8Djp2BAw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Divine One](https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx) | 2:27 | 2022-04-14 | 2022-10-01 |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-11 |  |
+| [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-13 |  |
 | [Killer Joe](https://open.spotify.com/track/0aEcArQsqTpErHdixEVaHj) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Terminal 1](https://open.spotify.com/album/3z7cxxCXvRmOav4DiOI3mP) | 6:53 | 2022-04-14 | 2022-09-16 |
 | [L.A\. 58](https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:06 | 2022-04-14 | 2022-10-08 |
 | [La fin justifie les moyens](https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ) | [Joran Cariou Trio](https://open.spotify.com/artist/0EmoB83lbpEcH9Eh77Sp9K), [Damien Varaillon](https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M), [Stéphane Adsuar](https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2) | [The Path Up](https://open.spotify.com/album/54mnf1vkHCoNfWDP0Hu3dG) | 7:13 | 2022-04-14 | 2022-09-23 |

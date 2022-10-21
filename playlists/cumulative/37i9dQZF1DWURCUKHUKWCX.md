@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-161 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+162 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Triptych 1 for Piano](https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6) | 2:39 | 2022-07-22 |  |
 | [Triptych III for Piano](https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych III for Piano](https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4) | 3:21 | 2022-05-25 |  |
 | [Tuesday](https://open.spotify.com/track/2GuchYit1FmdtXTxl6SbUE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Tuesday](https://open.spotify.com/album/34NwQqEqmAFJW30p70psIt) | 3:11 | 2021-12-10 |  |
-| [United](https://open.spotify.com/track/0CBvwwGhoTFdLCC5NWHvUi) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [United](https://open.spotify.com/album/6dsM7g1KZFLamGuezt9wvs) | 2:22 | 2021-12-10 |  |
+| [United](https://open.spotify.com/track/0CBvwwGhoTFdLCC5NWHvUi) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [United](https://open.spotify.com/album/6dsM7g1KZFLamGuezt9wvs) | 2:22 | 2021-12-10 | 2022-10-21 |
+| [United](https://open.spotify.com/track/0DS8B90joPpSLNrozQvHhe) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [United](https://open.spotify.com/album/4l0P2zDa1oDFYo6HVH2ee7) | 2:22 | 2022-10-14 |  |
 | [Vale](https://open.spotify.com/track/66rQOJEJDAxUUdOBxFE8FM) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Vol 2](https://open.spotify.com/album/5StgabD99z9jFfWMpBlOrY) | 2:20 | 2021-12-10 |  |
 | [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/49s3cG4RJNxpnTcptWjihX) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter \(Music For Theatre\)](https://open.spotify.com/album/4dCJnf1ZWcYOrqdfWEsmL9) | 3:09 | 2021-12-10 |  |
 | [Wavering Heart](https://open.spotify.com/track/01Obe4SWMXoUKak13Uue71) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Wavering Heart](https://open.spotify.com/album/6Te7V9eLNY1300KEYrosRk) | 2:21 | 2021-12-10 |  |

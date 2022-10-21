@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 21006,
+  "num_followers": 21010,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzk0MjI4OCwwMDAwMDAwMDZkNDg1YTFhYTgxMzUxMzIzNGQxMTk3MjhlYmMyNTRi",
+  "snapshot_id": "MTY1Mzk0MjI4OCwwMDAwMDAwMDVjNDYzNDdkY2E1ODgwYjYxYTllOGYxOGExMzQ5MmJm",
   "tracks": [
     {
       "added_at": "2021-04-09 06:45:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "A Day At The Races (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 173173,
       "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
       "url": "https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Suzi Quatro",
         "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
       },
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "The Very Best Of Sting And The Police",
         "url": "https://open.spotify.com/album/6UB8pBE0K3je0ePso0OmCi"
       },
@@ -1463,6 +1431,22 @@
       "duration_ms": 180693,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/39ZC8fZuLGJfpoaTST7vw3"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Dandy In The Underworld",
-        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "I Love To Boogie",
-      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Best Of Sweet",
         "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
       },
@@ -1611,6 +1579,38 @@
       "duration_ms": 195533,
       "name": "Little Willy",
       "url": "https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Single Trax 1970-1981",
+        "url": "https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi"
+      },
+      "artists": [
+        {
+          "name": "Dave Edmunds",
+          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Girls Talk",
+      "url": "https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Dandy In The Underworld",
+        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "I Love To Boogie",
+      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
     }
   ],
   "unique_name": "70s Summer Rock",

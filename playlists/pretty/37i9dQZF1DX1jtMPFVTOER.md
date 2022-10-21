@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Adam Blackstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,482 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,547 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 63 | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/track/7k7644SNGKVmveIR99RlAB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/album/64289Z7VZZvOMyjr7yBeG7) | 3:18 |
 | 64 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 |
 | 65 | [Baby, I'm Shining and Free](https://open.spotify.com/track/6Pua9XVHra6m0uP8DPqpOe) | [Apollo Bebop](https://open.spotify.com/artist/5Ar4PuRM6i2krbQ8QduUFG) | [Baby, I'm Shining and Free](https://open.spotify.com/album/61xSPhkZd8KYBAzWtjs9bB) | 2:24 |
-| 66 | [Slhick Tawlk \- Jazz Mix](https://open.spotify.com/track/5PcNgg8RU9hTyYD1Niw8z1) | [K\-Natural](https://open.spotify.com/artist/0EVzPAj4toto8VpCcXls76), [Slimkid3](https://open.spotify.com/artist/0So8Xye3CXwNVfv1EFa6gA), [Fatlip](https://open.spotify.com/artist/2rjcywjNOv7KNRGktTYLbR), [IMANI](https://open.spotify.com/artist/2E4kJWVWvWA11NNt1kkfw3) | [Slhick Tawlk \(Jazz Mix\)](https://open.spotify.com/album/3AIzRMjVe3PXRGYvDIuViN) | 3:37 |
+| 66 | [Slhick Tawlk \- Jazz Mix](https://open.spotify.com/track/0FdY14Ht681lBOo0QElRxB) | [K\-Natural](https://open.spotify.com/artist/0EVzPAj4toto8VpCcXls76), [Slimkid3](https://open.spotify.com/artist/0So8Xye3CXwNVfv1EFa6gA), [Fatlip](https://open.spotify.com/artist/2rjcywjNOv7KNRGktTYLbR), [IMANI](https://open.spotify.com/artist/2E4kJWVWvWA11NNt1kkfw3) | [Slhick Tawlk \(Jazz Mix\)](https://open.spotify.com/album/62OujrOukMEl4OkljFUqEo) | 3:37 |
 | 67 | [Carte Blanche](https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Carte Blanche](https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62) | 3:14 |
 | 68 | [Tall Tales](https://open.spotify.com/track/144pmLno2ywO6gBAkMjBf7) | [Kennebec](https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc), [Hemlock Ernst](https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa), [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Tall Tales](https://open.spotify.com/album/0bPflIDZ3RpZ23QsQKBfTE) | 3:13 |
 | 69 | [Encino](https://open.spotify.com/track/0K3nJxtfCeySaUxBXPOjub) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu), [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [Encino](https://open.spotify.com/album/6rUpYBSc9ntbJg4nmwOJe3) | 3:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 98 | [dimples](https://open.spotify.com/track/33A3P7DydxJYHkKfbglWwO) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [dimples](https://open.spotify.com/album/3QBCwMQRAUXQ87OJB9rSlS) | 2:40 |
 | 99 | [Imagine That](https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Imagine That](https://open.spotify.com/album/569WNyO5TCXAmsdEGJ8RLx) | 3:19 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGI5YmQ4ZDA0ZDBhMWMyNjZmYjgyYTRmMzgzOWFhYThh`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGI5Njg0YzMzYjgxNzQ1MjcxOWM2ZTNhODkzY2Q1MWVm`

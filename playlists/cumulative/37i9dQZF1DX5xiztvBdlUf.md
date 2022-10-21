@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-277 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+278 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz) | 3:30 | 2021-11-26 |  |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-04-04 |  |
 | [Amethyst](https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m) | [Stefanie Raschke](https://open.spotify.com/artist/6IJSvFITTxANPakKiCYyl7) | [Triation, Vol\. II](https://open.spotify.com/album/3CBYYnnmwIIJmWdPlvzfSy) | 6:24 | 2021-11-26 | 2022-07-23 |
-| [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 | 2022-06-24 |  |
+| [Anything Else Feat\. Alix Edwards](https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Carlito Archives](https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg) | 6:03 | 2022-06-24 | 2022-10-21 |
 | [Arc De Triomphe \- Brandt Brauer Frick Remix](https://open.spotify.com/track/1uiwyqzS8UMVExmJus9wn2) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Ludwig \(Club Versions\)](https://open.spotify.com/album/6mtPPsbdZXFaGSpdoDgQvJ) | 6:48 | 2022-01-14 | 2022-07-22 |
 | [Atlantis](https://open.spotify.com/track/3N0Bk8zkKxuGHQslbFMmEk) | [Den Maar](https://open.spotify.com/artist/1AXeLwBPyiLoOXRLCHa4ic), [Off Night](https://open.spotify.com/artist/5qDJioeKV9r17pP8MybZoe) | [Atlantis](https://open.spotify.com/album/6upiYrO59qPQGyHgHqMkdZ) | 7:27 | 2022-05-13 | 2022-07-24 |
 | [Auriol \- Bondi Remix](https://open.spotify.com/track/5otyAwp1rylIyQOFjkPFnZ) | [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe), [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk) | [Auriol \(Bondi Remix\)](https://open.spotify.com/album/5HN2RJ0aquwMYhkk1rVjia) | 7:06 | 2021-11-26 | 2022-04-20 |
@@ -115,6 +115,7 @@
 | [I hear you](https://open.spotify.com/track/3c7hLN3vJlB8lGP3b4qMGo) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J), [youANDme](https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG), [Black Soda](https://open.spotify.com/artist/4DIbWYMpiH7S0Zw3PjUT3k) | [I hear you feat\. Black Soda](https://open.spotify.com/album/5Ntg5OczGoT9QLJzIwXDpc) | 8:03 | 2021-11-26 | 2022-04-20 |
 | [I Want It All \(feat\. Elderbrook\) \- Route 94 Remix](https://open.spotify.com/track/0LjpThe4YPL9VG0MFozbwE) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [I Want It All \(feat\. Elderbrook\) \[Remixes\]](https://open.spotify.com/album/0c7jQkV3HG2b6KhG7P0gfc) | 3:31 | 2021-11-26 | 2022-04-05 |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-02-18 | 2022-10-13 |
+| [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 | 2022-09-30 |  |
 | [Ichika](https://open.spotify.com/track/4xc2aA7RZzHjrPPZcdReAW) | [Jozef K](https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0) | [Ichika](https://open.spotify.com/album/0CDKmNcvCdFba1QhtWBVkh) | 8:05 | 2021-11-26 | 2022-07-29 |
 | [If We Only Had](https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [If We Only Had](https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R) | 5:05 | 2021-11-26 |  |
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-08-12 |  |

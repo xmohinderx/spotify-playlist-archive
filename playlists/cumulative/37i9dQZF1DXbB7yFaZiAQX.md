@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-399 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+400 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [People Are People \- 2006 Remaster](https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 3:52 | 2018-12-12 |  |
 | [Perfect Skin](https://open.spotify.com/track/4YnHY5YzUWMBY8fRLTooKC) | [Lloyd Cole and the Commotions](https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp) | [Rattlesnakes](https://open.spotify.com/album/4OfGDQC3Z2CdHMknAQMdig) | 3:16 | 2021-04-13 | 2022-07-29 |
 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 | 2019-08-02 | 2022-07-29 |
+| [Play for Today \- 2006 Remaster](https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva) | 3:40 | 2019-08-02 |  |
 | [Pocket Calculator \- 2009 Remaster](https://open.spotify.com/track/4xa1gzSKd6ihtVGd8dWs69) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Computer World \(2009 Remaster\)](https://open.spotify.com/album/42hCHiMtfs7mfBTVX3V6k7) | 4:56 | 2018-12-12 | 2022-07-26 |
 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 | 2018-12-12 |  |
 | [Private Revolution](https://open.spotify.com/track/5GD20Q0mvpsTCuNy9BHZbA) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE) | [Private Revolution](https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey) | 4:03 | 2020-01-26 | 2022-05-21 |
@@ -264,7 +265,7 @@
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 | 2018-12-12 |  |
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/7LwlTiFehCUVQQJKEUzF5Z) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/3VWF2zk0hXCcUmtprzF4zs) | 3:58 | 2018-12-12 | 2022-07-29 |
 | [Quiet Life](https://open.spotify.com/track/3vyzp6lqJbpZlDfwXan61J) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/0QOBJYviordwqHAgv5g9m3) | 4:48 | 2018-12-12 | 2022-07-27 |
-| [Quiet Life](https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 4:49 | 2018-12-12 |  |
+| [Quiet Life](https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 4:49 | 2018-12-12 | 2022-10-21 |
 | [Radio Free Europe](https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur \- Deluxe Edition](https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm) | 4:05 | 2018-12-12 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/3Od5XBElZqm5N6rr86LS5r) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 3:56 | 2018-12-12 |  |
 | [Rain](https://open.spotify.com/track/044Q9fAQQkXahoxtHJlJj7) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/28bzB67SoVNSMNcvHwiXlQ) | 3:56 | 2018-12-12 | 2022-07-28 |

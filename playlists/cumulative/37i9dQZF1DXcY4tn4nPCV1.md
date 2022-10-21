@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-286 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
+287 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Voyage á’louest](https://open.spotify.com/track/4C7ZY0HRPVn9G5bgYAertD) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Voyage à'louest](https://open.spotify.com/album/2AgVCRWI1Qpz3S7u05VHZu) | 2:55 | 2022-04-04 |  |
 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 | 2022-04-04 |  |
 | [Wandering Life](https://open.spotify.com/track/0oOXM7PiPK9BduPyCTEiYT) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I) | [Wandering Life](https://open.spotify.com/album/2z6SjaPPbE141LTrDcxS38) | 1:38 | 2022-09-20 | 2022-10-20 |
-| [Wandering Life](https://open.spotify.com/track/765y9b98K1iekDiM1Pol0Q) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Thomas Derry](https://open.spotify.com/artist/03kJMjnglfUqv8ReOql96z) | [Wandering Life](https://open.spotify.com/album/3QBOI6Y9YxIKNQNPzcCz2U) | 1:38 | 2022-09-20 |  |
+| [Wandering Life](https://open.spotify.com/track/765y9b98K1iekDiM1Pol0Q) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Thomas Derry](https://open.spotify.com/artist/03kJMjnglfUqv8ReOql96z) | [Wandering Life](https://open.spotify.com/album/3QBOI6Y9YxIKNQNPzcCz2U) | 1:38 | 2022-09-20 | 2022-10-21 |
+| [Wandering Life](https://open.spotify.com/track/15mIfyHJT8lUGn8wutYlSr) | [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I), [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX) | [Wandering Life](https://open.spotify.com/album/38yjAj3golsdwi8pMnRZ1I) | 1:38 | 2022-10-14 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-04 |  |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-04-04 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-04-04 | 2022-07-08 |

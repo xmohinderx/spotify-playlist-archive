@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 393789,
+  "num_followers": 393942,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc0Nzg5MSwwMDAwMDAwMDllOTE4MmMyNTNhMGRkZTQxODdjNmZiZGZhOTY1NTI2",
+  "snapshot_id": "MTY2NTc0Nzg5MSwwMDAwMDAwMGUxMzI5YmM1NDY4N2M3OTI5NDA0ZjliZTMyZjU2OTU3",
   "tracks": [
     {
       "added_at": "2022-10-14 11:44:51",
@@ -203,38 +203,6 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
-        "name": "Intimate Fantasy",
-        "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
-        "name": "Everytime EP",
-        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        }
-      ],
-      "duration_ms": 308269,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
         "name": "Super Good Times",
         "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
       },
@@ -267,6 +235,22 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
+        "name": "Everytime EP",
+        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
         "name": "Dun\u00e9",
         "url": "https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX"
       },
@@ -279,26 +263,6 @@
       "duration_ms": 158610,
       "name": "Dun\u00e9",
       "url": "https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
-        "name": "Nunca Mais",
-        "url": "https://open.spotify.com/album/7D3xxINz3rlq2of2T5AVb0"
-      },
-      "artists": [
-        {
-          "name": "Gayance",
-          "url": "https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic"
-        },
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Nunca Mais",
-      "url": "https://open.spotify.com/track/7aB7N3XsgHhkAb9sULXsdn"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -319,6 +283,26 @@
       "duration_ms": 251000,
       "name": "Vibrant Air",
       "url": "https://open.spotify.com/track/7ons5HsFQUnWu2x7dXNZAa"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Nunca Mais",
+        "url": "https://open.spotify.com/album/7D3xxINz3rlq2of2T5AVb0"
+      },
+      "artists": [
+        {
+          "name": "Gayance",
+          "url": "https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic"
+        },
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Nunca Mais",
+      "url": "https://open.spotify.com/track/7aB7N3XsgHhkAb9sULXsdn"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -355,6 +339,22 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+      },
+      "artists": [
+        {
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+        }
+      ],
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
         "name": "Spanish Steroids",
         "url": "https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 371205,
       "name": "Spanish Steroids",
       "url": "https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -443,22 +427,6 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
         "name": "The Small Room Sessions",
         "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 229835,
       "name": "morning groove",
       "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -571,22 +555,6 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
-        "name": "Pastis",
-        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
-      },
-      "artists": [
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "Pastis",
-      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
       },
@@ -607,6 +575,22 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Pastis",
+        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Pastis",
+      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -743,26 +727,6 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
-        "name": "LTDBLBL008",
-        "url": "https://open.spotify.com/album/3qPngaI3gHhdep7JeGVEsY"
-      },
-      "artists": [
-        {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Nephews",
-          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
-        }
-      ],
-      "duration_ms": 396501,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -799,54 +763,6 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
-        "name": "Ode to Ipse",
-        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 338997,
-      "name": "Ode to Ipse",
-      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
         "name": "Mellow Mornings",
         "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
       },
@@ -859,22 +775,6 @@
       "duration_ms": 154814,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
-    },
-    {
-      "added_at": "2022-10-14 11:44:51",
-      "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        }
-      ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -911,18 +811,66 @@
     {
       "added_at": "2022-10-14 11:44:51",
       "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+        "name": "Ode to Ipse",
+        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
       },
       "artists": [
         {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
         }
       ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+      "duration_ms": 338997,
+      "name": "Ode to Ipse",
+      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        }
+      ],
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -943,6 +891,22 @@
       "duration_ms": 312000,
       "name": "I Gotta Cry",
       "url": "https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
     },
     {
       "added_at": "2022-10-14 11:44:51",
@@ -1031,6 +995,38 @@
       "duration_ms": 516409,
       "name": "Godson of House",
       "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Alone Girl",
+        "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Alone Girl",
+      "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
+    },
+    {
+      "added_at": "2022-10-14 11:44:51",
+      "album": {
+        "name": "Back To My Place",
+        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 245863,
+      "name": "Back to My Place",
+      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
     }
   ],
   "unique_name": "Lo-Fi House",

@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui\-WWOzA">The Brother Moves On</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-84 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
+86 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,10 +50,12 @@
 | [Indawu](https://open.spotify.com/track/1nKWE1I0RRz5RgykyKPEDB) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Modes Of Communication: Letters From The Underworlds](https://open.spotify.com/album/6D5gR5dxP0iUeueQlwRQDe) | 8:34 | 2022-04-28 |  |
 | [Inkululeko](https://open.spotify.com/track/4qptyeqFHhN0TUUjFQO6c9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Inkululeko](https://open.spotify.com/album/2jaXRcmklOiLxffL337Ish) | 7:40 | 2022-06-23 |  |
 | [Interregnum](https://open.spotify.com/track/18xMi52U1688zPqQVvusMp) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Dialectic Soul](https://open.spotify.com/album/00aLg7RLt0Md1MQ8miFWBf) | 5:09 | 2022-04-28 |  |
+| [Intlokomo](https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Intlokomo](https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG) | 6:58 | 2022-10-20 |  |
 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 | 2022-05-12 |  |
 | [Joyous](https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC) | 6:43 | 2022-04-28 |  |
 | [Ke Nako](https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Ke Nako](https://open.spotify.com/album/5GUTl5jAJTcGaV7Sn54KPx) | 6:49 | 2022-04-28 |  |
 | [Komani](https://open.spotify.com/track/20493T1klNTt4VFVIQFosr) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Tshepo Tsotetsi](https://open.spotify.com/artist/1WePh4qMbrAyRrkTm8Pn7q) | [The Alchemy of Living](https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb) | 6:43 | 2022-04-28 |  |
+| [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 | 2022-10-20 |  |
 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 | 2022-04-28 |  |
 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 | 2022-04-28 |  |
 | [Log Out Shut Down \- Live in Studio](https://open.spotify.com/track/2zjanNO8418bIvxfu0FKfs) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Log out Shut Down \(Live in Studio\)](https://open.spotify.com/album/1UcfQoitK9uJQeGHTYaAls) | 6:19 | 2022-04-28 |  |

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Smino, J\. Cole
 
-740 songs - 1 day 19 hr 40 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+741 songs - 1 day 19 hr 44 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2020-07-24 | 2020-10-21 |
 | [Don't Wanna See You](https://open.spotify.com/track/6qyjr0RjKwLPR1rigpI1HZ) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Don't Wanna See You](https://open.spotify.com/album/1hfCLmpFaBuEt8STQPSpqK) | 3:27 | 2019-11-15 | 2020-02-01 |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-09-04 |  |
-| [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 | 2020-10-23 |  |
+| [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 | 2020-10-23 | 2022-10-21 |
 | [Down for You \- Remix](https://open.spotify.com/track/2Ucd1gHdGTBc90QgWgcUN5) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Down for You \(Remix\)](https://open.spotify.com/album/4XrzUp8eT1yeWAA4QM32Of) | 2:46 | 2021-10-11 | 2022-04-18 |
 | [Downhill \(7\-Inch\)](https://open.spotify.com/track/1zkjy33RfNhOk0MKi8SLsL) | [Nick Kurosawa](https://open.spotify.com/artist/1KhJeoBHUcDkcc5rudoWlK), [Ohtoro](https://open.spotify.com/artist/6ZZLqFuJgm4rdhWaPuiodW), [Maxmo](https://open.spotify.com/artist/0G2GQqRpPXGMyzbyir24Vp), [Neal Chin](https://open.spotify.com/artist/50ljmcpKFwjgX2vQ0Ux59A) | [Downhill EP](https://open.spotify.com/album/1u9CZjWQujbIwYnF59WNXj) | 2:02 | 2021-06-16 | 2022-07-29 |
 | [Dragonball Durag](https://open.spotify.com/track/62PclpoBFLl50PJpiJA5RT) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Dragonball Durag](https://open.spotify.com/album/63mrxbP4k9oZBR0LCfzZvo) | 3:01 | 2020-02-20 | 2020-03-20 |
@@ -257,6 +257,7 @@
 | [fxck it then](https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [fxck it then](https://open.spotify.com/album/5kNYmUqBUNBOvYhV6YqKhC) | 2:15 | 2021-02-25 | 2021-03-22 |
 | [Garage Rooftop](https://open.spotify.com/track/1dekstoglmqX3fq3K42sux) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 4:24 | 2020-12-11 | 2021-01-23 |
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2021-10-10 |  |
+| [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-14 |  |
 | [Get It Right](https://open.spotify.com/track/1u7WUgn5x2NySXESi7aLQX) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Get It Right / Elevate](https://open.spotify.com/album/5tiNRaFSzq2FreVcRJCWjC) | 3:27 | 2020-03-18 | 2020-04-24 |
 | [Get Sun \(feat\. Arthur Verocai\) \- Pocket Size Radio Edit](https://open.spotify.com/track/0xXis9GsPdbB1aBwlFRfV9) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX) | 4:40 | 2021-03-20 | 2022-07-29 |
 | [Get What's Yours](https://open.spotify.com/track/7lQf6F6IxEya4xGmSuwJMY) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Get What's Yours](https://open.spotify.com/album/1e7mgV2nUWgvYvcYT7mf1b) | 3:52 | 2020-04-05 | 2020-05-04 |

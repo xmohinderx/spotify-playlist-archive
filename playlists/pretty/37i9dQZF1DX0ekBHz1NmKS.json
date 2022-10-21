@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTgxMDYyMywwMDAwMDAwMGYxNjdlOTk5YWM3M2E0M2UwMjBlYWYzYTE3YzE1ODQx",
+  "snapshot_id": "MTY2NTgxMDYyMywwMDAwMDAwMDBhOTQ0ZWU0OGE4NjUwODhhMjNiMzkzZGIzMzQ2MDhi",
   "tracks": [
     {
       "added_at": "2022-10-15 05:10:23",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "N\u00e5t i vattnet",
+        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "N\u00e5t i vattnet",
+      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 129985,
       "name": "Samma gamla vanliga",
       "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "N\u00e5t i vattnet",
-        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "N\u00e5t i vattnet",
-      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
-        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 183764,
-      "name": "Heaven med dig",
-      "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "BRAND NEW BITCH",
         "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 196000,
       "name": "BRAND NEW BITCH",
       "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 183764,
+      "name": "Heaven med dig",
+      "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "P\u00e5 En L\u00f6rdag",
+        "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 152701,
+      "name": "P\u00e5 En L\u00f6rdag",
+      "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "Bleeding",
         "url": "https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 194759,
       "name": "What You Were Made For",
       "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 151816,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Ansvar (feat. Eye N'I)",
-        "url": "https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
       },
       "artists": [
         {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Eye N'I",
-          "url": "https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
         }
       ],
-      "duration_ms": 175535,
-      "name": "Ansvar (feat. Eye N'I)",
-      "url": "https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu"
+      "duration_ms": 151816,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1131,6 +1127,26 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
+        "name": "Ansvar (feat. Eye N'I)",
+        "url": "https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Eye N'I",
+          "url": "https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y"
+        }
+      ],
+      "duration_ms": 175535,
+      "name": "Ansvar (feat. Eye N'I)",
+      "url": "https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
         "name": "Once in a While [smile]",
         "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Santiago",
-        "url": "https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc"
-      },
-      "artists": [
-        {
-          "name": "GAMMAL",
-          "url": "https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Santiago",
-      "url": "https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "Too Late for Edelweiss",
         "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 183775,
       "name": "Metal Firecracker",
       "url": "https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Santiago",
+        "url": "https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc"
+      },
+      "artists": [
+        {
+          "name": "GAMMAL",
+          "url": "https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Santiago",
+      "url": "https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "P\u00e5 En L\u00f6rdag",
-        "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc"
       },
       "artists": [
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 152701,
-      "name": "P\u00e5 En L\u00f6rdag",
-      "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
+      "duration_ms": 81002,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 81002,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "S\u00e4g det som du menar det",
-        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "S\u00e4g det som du menar det",
-      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "MER",
         "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 153987,
       "name": "MER",
       "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "S\u00e4g det som du menar det",
+        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "S\u00e4g det som du menar det",
+      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-15 05:10:23",
       "album": {
-        "name": "Good Vibes Only",
-        "url": "https://open.spotify.com/album/6Oisuq5IPu9aTmfV9OhqJh"
-      },
-      "artists": [
-        {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
-        }
-      ],
-      "duration_ms": 183660,
-      "name": "Good Vibes Only",
-      "url": "https://open.spotify.com/track/1Dz6pFuwT29a9hQLnmi7kF"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
         "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
         "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 179268,
       "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
       "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Good Vibes Only",
+        "url": "https://open.spotify.com/album/6Oisuq5IPu9aTmfV9OhqJh"
+      },
+      "artists": [
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "duration_ms": 183660,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/1Dz6pFuwT29a9hQLnmi7kF"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1559,6 +1559,26 @@
       "duration_ms": 190454,
       "name": "Aldrig s\u00e4ga aldrig",
       "url": "https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU"
+    },
+    {
+      "added_at": "2022-10-15 05:10:23",
+      "album": {
+        "name": "Hela V\u00e4gen Upp",
+        "url": "https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Jaqe",
+          "url": "https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT"
+        }
+      ],
+      "duration_ms": 181448,
+      "name": "Hela V\u00e4gen Upp",
+      "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
     },
     {
       "added_at": "2022-10-15 05:10:23",
@@ -1639,26 +1659,6 @@
       "duration_ms": 195913,
       "name": "Poppis Visa",
       "url": "https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1"
-    },
-    {
-      "added_at": "2022-10-15 05:10:23",
-      "album": {
-        "name": "Hela V\u00e4gen Upp",
-        "url": "https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP"
-      },
-      "artists": [
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        },
-        {
-          "name": "Jaqe",
-          "url": "https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT"
-        }
-      ],
-      "duration_ms": 181448,
-      "name": "Hela V\u00e4gen Upp",
-      "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
     },
     {
       "added_at": "2022-10-15 05:10:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,125 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,118 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 15 | [Stay Safe](https://open.spotify.com/track/2OyUCgOQnG9n4FZCCk0XD7) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W) | [Bedroom Ice Age](https://open.spotify.com/album/2EqclbDgaBBTn0SSQfDmcl) | 1:55 |
 | 16 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 |
 | 17 | [Idiot Day](https://open.spotify.com/track/1Sizsyh5IFxCldO3vyNTn4) | [Antony Jeffares](https://open.spotify.com/artist/7iG6YfPIDZS6ZwbnCf56of) | [When Twilight Comes \(I Am Still Yearning\)](https://open.spotify.com/album/3z7s2nqsEcdmQiQzw5qaDm) | 2:36 |
-| 18 | [Kinder](https://open.spotify.com/track/3laEqX58fkjwQQeftYWtfu) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir) | 3:26 |
+| 18 | [Kinder](https://open.spotify.com/track/15qbB1N6kGsNyCJp5C282W) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/7re2kB1LFDctQqwQhodsIy) | 3:26 |
 | 19 | [Fairyland](https://open.spotify.com/track/6CVtLr3bbHUYaLrgBylLXZ) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy), [Holly](https://open.spotify.com/artist/0CYjis6hfG45tEhjGMNL33) | [The Night EP](https://open.spotify.com/album/3mZWoEDVRirGx81IpkwCrT) | 3:51 |
 | 20 | [Tattoos](https://open.spotify.com/track/2FVVu9NYYJcsJZyludnA5p) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Slow Mornings](https://open.spotify.com/album/4klmewvkTrB4zj1NuRohTZ) | 3:35 |
 | 21 | [Life Ain’t Fine](https://open.spotify.com/track/2kpLd6FEDxATYzeve3SXZT) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Life Ain't Fine](https://open.spotify.com/album/3cGwh7qmuvXOwx49k5qsCn) | 2:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 54 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 55 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 |
 
-Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMGNkOWE1M2NkM2U3ODE2MTljNTgzMTJmZWZiNTQ5Mjkx`
+Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMDJmMjU4OTZmZmI5ZmI5ZDkzZGE4OTEzMWExZWM4YzQw`

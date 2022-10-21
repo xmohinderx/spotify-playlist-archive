@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-56 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
+57 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [The Whales](https://open.spotify.com/track/5iehZDjs2sn4Z4FbgDjNpQ) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [Space Jams](https://open.spotify.com/album/5qy2VMCYitGsGpGSKRzIwf) | 2:28 | 2022-02-01 |  |
 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4Wt7ZGzelNDUZCCZxgLsuK) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [SOURCE ⧺ WE MOVE](https://open.spotify.com/album/7p1KmTe3TtMb7ojCYNmvpc) | 2:27 | 2022-02-01 |  |
 | [Transfiguration](https://open.spotify.com/track/1kcTf6tj0NZs44xar1UPGC) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Purest Form](https://open.spotify.com/album/0h8hdTiQpwZ49ZKrPo3P2j) | 4:00 | 2022-02-01 |  |
-| [UHHH](https://open.spotify.com/track/4qb7gDVi5je7MLDCRClqmX) | [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU), [JD Beck](https://open.spotify.com/artist/7GH8IBia953uxp4skeY7tl) | [SHEEESH](https://open.spotify.com/album/5wNnktpNWZH4W4BxpB7nN5) | 1:27 | 2022-02-01 |  |
+| [UHHH](https://open.spotify.com/track/1xgdTvPbscOAIvJnBomt2y) | [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU), [JD Beck](https://open.spotify.com/artist/2APVc83SqqVOHrVm4dkGZF) | [SHEEESH](https://open.spotify.com/album/2qZgdOJBiJya3nTfV5YF9s) | 1:27 | 2022-02-01 |  |
+| [UHHH](https://open.spotify.com/track/4qb7gDVi5je7MLDCRClqmX) | [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU), [JD Beck](https://open.spotify.com/artist/7GH8IBia953uxp4skeY7tl) | [SHEEESH](https://open.spotify.com/album/5wNnktpNWZH4W4BxpB7nN5) | 1:27 | 2022-02-01 | 2022-10-21 |
 | [Vacuum Lessons](https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Vacuum Lessons](https://open.spotify.com/album/0Uy7gJAelfoncRT7LvGkdC) | 3:03 | 2022-02-01 |  |
 | [Vibe Tribe](https://open.spotify.com/track/13ub3uDcsh7mqolvP2cTSc) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Vibe Central](https://open.spotify.com/album/2kUiNABc0dXtIuuf9kDQnA) | 4:29 | 2022-02-01 |  |
 | [Yipee](https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Yipee](https://open.spotify.com/album/65f6s3zvSKgc39bx0IsDJD) | 2:16 | 2022-02-01 |  |

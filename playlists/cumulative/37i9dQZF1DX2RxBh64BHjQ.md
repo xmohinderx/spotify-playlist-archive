@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-719 songs - 1 day 8 hr 47 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+720 songs - 1 day 8 hr 51 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,8 @@
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-04-15 | 2022-07-23 |
 | [She Knows](https://open.spotify.com/track/7rUc8Bxj6y2yLImSLm7FRy) | [Rocco](https://open.spotify.com/artist/7IjqLxpglRdDUYta4R82B0) | [She Knows](https://open.spotify.com/album/7evmRdQK32AVYuXoliPUsh) | 2:30 | 2022-08-12 |  |
 | [Shine](https://open.spotify.com/track/4p9iGjTGqgTNks4La7tujc) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Shine](https://open.spotify.com/album/2b1FUXrlpSfYE1Y5BPYM9B) | 3:10 | 2021-12-10 | 2022-02-12 |
-| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-09 |  |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-09 | 2022-10-21 |
+| [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-09-09 |  |
 | [Shotta](https://open.spotify.com/track/3kiPgcu1xOJ7FK4IfCkrW8) | [Noodah05](https://open.spotify.com/artist/16uhNmbZpVmy71NUwOk1DJ) | [The Biggest](https://open.spotify.com/album/5eJQKfrMgX6vePQnKl6C82) | 2:12 | 2022-02-25 | 2022-04-29 |
 | [Showstopper](https://open.spotify.com/track/2jgvCXn0M81JnYRM5CkKju) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Showstopper](https://open.spotify.com/album/0sphY41zkKz25R3ZXnoV3X) | 1:53 | 2022-03-25 | 2022-05-07 |
 | [Silent \(feat\. Blac Youngsta\)](https://open.spotify.com/track/5A8KtfonuRHv6EHr5Ofekq) | [Unfoonk](https://open.spotify.com/artist/2f6hqWBFjqS1EUHMS1JOFB), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Silent \(feat\. Blac Youngsta\)](https://open.spotify.com/album/2GyvzytHS3KJ3E9HZmtViD) | 2:27 | 2021-12-17 | 2021-12-26 |

@@ -1381,10 +1381,28 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 316000,
       "name": "Spring",
       "url": "https://open.spotify.com/track/0tQdCIVuX5FtbMzrRl5cqs"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/3TJlMqvBFIxMDJD8GADy1p"
+      },
+      "artists": [
+        {
+          "name": "Ola Szmidt",
+          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/17pxEWa1ro5iPHjjdnvjjU"
     },
     {
       "album": {
@@ -1653,7 +1671,7 @@
     {
       "album": {
         "name": "Tulpar",
-        "url": "https://open.spotify.com/album/2hcsvVURGEaPUL5BXCxNDZ"
+        "url": "https://open.spotify.com/album/0cxD4j3Zp1Q0wSZnPIBgO2"
       },
       "artists": [
         {
@@ -1664,6 +1682,24 @@
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205580,
+      "name": "Tulpar",
+      "url": "https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx"
+    },
+    {
+      "album": {
+        "name": "Tulpar",
+        "url": "https://open.spotify.com/album/2hcsvVURGEaPUL5BXCxNDZ"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
       "duration_ms": 205580,
       "name": "Tulpar",
       "url": "https://open.spotify.com/track/2O5bsifaBuEHnnsllXNKkw"

@@ -1245,6 +1245,24 @@
     {
       "album": {
         "name": "Riri",
+        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
+    },
+    {
+      "album": {
+        "name": "Riri",
         "url": "https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv"
       },
       "artists": [
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 215757,
       "name": "Riri",
       "url": "https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ"
