@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Ái Phương
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,783 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,845 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 36 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 |
 | 37 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 |
 | 38 | [3107 3](https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG) | [3107 3 \(feat\. Nâu, titie, Dươngg\)](https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb) | 4:00 |
-| 39 | [Có em](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 |
+| 39 | [Có em \(feat\. Low G\)](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em \(feat\. Low G\)](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 |
 | 40 | [Mascara](https://open.spotify.com/track/2Jaaw8PrdUfPlU6o6tL5dl) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Mascara](https://open.spotify.com/album/0u3o3ESS1rnXlpF3VDI3gj) | 4:53 |
 | 41 | [Muốn Nói Với Em](https://open.spotify.com/track/5Um995yUx3GSJ6uNOMaaP4) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/1D5q4yg90UnV6e4sMRuLzz) | 3:53 |
 | 42 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 |

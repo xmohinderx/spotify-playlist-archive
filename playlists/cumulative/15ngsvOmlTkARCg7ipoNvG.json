@@ -8804,6 +8804,24 @@
     },
     {
       "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/0bBM72Hu2XsZikGisnTizd"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61397,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/2jwqiLJRXd5XZgWtwAoyJp"
+    },
+    {
+      "album": {
         "name": "Mountain Light",
         "url": "https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU"
       },

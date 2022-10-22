@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-145 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
+146 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Self\-Service Laundry](https://open.spotify.com/track/2F3lFJtwn2a7VaEasMW5fp) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Provenance](https://open.spotify.com/album/03uwKDQx2mMQu43KxFK2y6) | 2:17 | 2022-05-11 |  |
 | [Shimmering Water](https://open.spotify.com/track/4Z4RbVmOpawdQSFLtTvZPB) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G) | [Silent Waves](https://open.spotify.com/album/2prO7Ke2ASXq9cDTvvVPUk) | 4:49 | 2022-05-11 |  |
 | [Shimmering Water](https://open.spotify.com/track/5tDvK8nHGn490K4mokboKC) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G), [Gothenburg Symphony Orchestra](https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2) | [Silent Waves](https://open.spotify.com/album/4YUHjJEz3YWglKA0Tv88zo) | 4:49 | 2021-11-19 | 2022-07-29 |
-| [Silence](https://open.spotify.com/track/4BZoYzYti7JySxL3yxZGfi) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/1q3F9PLbSvXiYvgwS6QoM7) | 2:29 | 2021-11-19 |  |
+| [Silence](https://open.spotify.com/track/4BZoYzYti7JySxL3yxZGfi) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/1q3F9PLbSvXiYvgwS6QoM7) | 2:29 | 2021-11-19 | 2022-10-22 |
+| [Silence](https://open.spotify.com/track/6OmC1B1EOQSbhQL6HP1cPn) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/6d8r1d7UpVOalcpby246Mc) | 2:29 | 2022-09-19 |  |
 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-05-11 |  |
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2021-11-19 | 2022-07-29 |
 | [Sonoran](https://open.spotify.com/track/7925XkbGxCdaj8CRht1pJt) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [MJ Cole Presents Madrugada](https://open.spotify.com/album/2BZVe7dId9BVvwziNOSQQT) | 4:09 | 2021-11-19 |  |

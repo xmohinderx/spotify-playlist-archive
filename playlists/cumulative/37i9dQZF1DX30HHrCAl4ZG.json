@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "French Blonde",
+        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200988,
+      "name": "All Day I Dream About",
+      "url": "https://open.spotify.com/track/3RdDhtBteHxiehIooekE8Z"
+    },
+    {
+      "album": {
         "name": "All Day I Dream About",
         "url": "https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn"
       },
@@ -441,7 +459,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 201667,
       "name": "All Day I Dream About",
       "url": "https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt"
@@ -1064,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Best of It",
+        "url": "https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128276,
+      "name": "Best of It",
+      "url": "https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0"
+    },
+    {
+      "album": {
         "name": "All The Ways We Are Together",
         "url": "https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC"
       },
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 137567,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh"
@@ -1940,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Cartoon Earthquake - Spotify Singles",
+        "url": "https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205429,
+      "name": "Cartoon Earthquake - Spotify Singles",
+      "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
+    },
+    {
+      "album": {
         "name": "Caviar",
         "url": "https://open.spotify.com/album/5VyfBBQi8Y8B20VTiS5ubz"
       },
@@ -2161,6 +2215,24 @@
       "duration_ms": 164610,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
+    },
+    {
+      "album": {
+        "name": "liminal spaces",
+        "url": "https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123579,
+      "name": "coldish",
+      "url": "https://open.spotify.com/track/5GidzN9AiIHoe3f1VgjBPk"
     },
     {
       "album": {
@@ -3169,7 +3241,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 310320,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS"
@@ -3500,6 +3572,24 @@
     },
     {
       "album": {
+        "name": "Empty Head",
+        "url": "https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313375,
+      "name": "Empty Head",
+      "url": "https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj"
+    },
+    {
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -3644,6 +3734,24 @@
     },
     {
       "album": {
+        "name": "Everybody's Saying Thursday's The Weekend",
+        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Everybody's Saying Thursday's The Weekend",
+      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
+    },
+    {
+      "album": {
         "name": "Everybody\u2019s Gonna Love Somebody",
         "url": "https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z"
       },
@@ -3727,7 +3835,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 128384,
       "name": "F.O.O.F.",
       "url": "https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9"
@@ -4113,7 +4221,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 161587,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6bE3rnhnlVNevaIuwvkiXF"
@@ -4841,7 +4949,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 183127,
       "name": "Hide from the World",
       "url": "https://open.spotify.com/track/3LKZ2F6N0Sju2rgXg8kpbj"
@@ -5101,6 +5209,24 @@
       "duration_ms": 220521,
       "name": "Hurting Kind",
       "url": "https://open.spotify.com/track/3uppnQKDEQkNUqRSSEXKfM"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "I Ain\u2019t Quite Where I Think I Am",
+      "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
     },
     {
       "album": {
@@ -5702,6 +5828,24 @@
     },
     {
       "album": {
+        "name": "Goldpark 2!",
+        "url": "https://open.spotify.com/album/1m0CePGZzIWQrfMUwCZJiB"
+      },
+      "artists": [
+        {
+          "name": "Goldpark",
+          "url": "https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242553,
+      "name": "If That's What You Want",
+      "url": "https://open.spotify.com/track/2xZYydlyLlFU6cbwofCLAD"
+    },
+    {
+      "album": {
         "name": "I AM JUST A BOY LEAVE ME ALONE !!!",
         "url": "https://open.spotify.com/album/7KKDPcNCaaVphHT1WbKEKZ"
       },
@@ -6091,7 +6235,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 188353,
       "name": "julia",
       "url": "https://open.spotify.com/track/3aDA7WmyFOJskT9HaY5Tba"
@@ -6275,6 +6419,24 @@
       "duration_ms": 216536,
       "name": "Kno Me",
       "url": "https://open.spotify.com/track/6XaMOKR9NHzIFIgNQrpYvU"
+    },
+    {
+      "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
     },
     {
       "album": {
@@ -7699,7 +7861,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 238266,
       "name": "No More Excuses",
       "url": "https://open.spotify.com/track/1HybEopwfFZcAWz0C0sjsp"
@@ -8291,7 +8453,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 180869,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/50I0tMy5eLxPzjLr4V4fBw"
@@ -8352,6 +8514,28 @@
     },
     {
       "album": {
+        "name": "Peach Fuzz (with Cybertrash)",
+        "url": "https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        },
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153337,
+      "name": "Peach Fuzz (with Cybertrash)",
+      "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
+    },
+    {
+      "album": {
         "name": "PEOPLE FUEL",
         "url": "https://open.spotify.com/album/1DnDtCSI0lfURV2P3cpcKQ"
       },
@@ -8363,7 +8547,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 173643,
       "name": "PEOPLE FUEL",
       "url": "https://open.spotify.com/track/4mos7PoOTESMcxKZqudrRe"
@@ -10315,6 +10499,24 @@
       "duration_ms": 149173,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD"
+    },
+    {
+      "album": {
+        "name": "Perpetual States of Boredom",
+        "url": "https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133567,
+      "name": "Sweet One",
+      "url": "https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL"
     },
     {
       "album": {

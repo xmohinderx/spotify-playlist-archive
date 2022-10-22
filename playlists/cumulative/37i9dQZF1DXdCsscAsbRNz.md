@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-319 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+320 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Il mio letto](https://open.spotify.com/track/2InugPJTdU4OHJ94OJvkzt) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Il mio letto](https://open.spotify.com/album/410x6BJpJrLSxbFvJfpIWm) | 2:50 | 2020-10-20\* |  |
 | [Immersed](https://open.spotify.com/track/1HZa1EjZeJDzQ7r6NwX6jW) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [In the Waiting](https://open.spotify.com/album/7tky9E0PLGbIFkgPzV5W1t) | 3:02 | 2020-10-20\* | 2022-08-13 |
 | [In Context](https://open.spotify.com/track/3VtwqVa4zccZMKIiFsMEtk) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Foreigner](https://open.spotify.com/album/1x6UF3Zkljn2tgf8juSF5I) | 2:34 | 2020-10-20\* | 2022-08-13 |
+| [In The Flow](https://open.spotify.com/track/6pIMPHYvfqfBeeuDkUbmu2) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [In The Flow](https://open.spotify.com/album/6bHR1V6UimjQDqRbG3QMKS) | 3:24 | 2022-10-21 |  |
 | [Infinity](https://open.spotify.com/track/7j0rOyP9heljOUoUuFTr1Z) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Infinity](https://open.spotify.com/album/3YPKwO0fyF9cXrmDvrIUtb) | 3:23 | 2020-10-20\* |  |
 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2020-10-20\* |  |

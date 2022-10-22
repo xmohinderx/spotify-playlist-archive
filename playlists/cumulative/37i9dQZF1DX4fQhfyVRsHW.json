@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Kokyu",
+        "url": "https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Hayashi Egnell",
+          "url": "https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246124,
+      "name": "Kokyu",
+      "url": "https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK"
+    },
+    {
+      "album": {
         "name": "O B E",
         "url": "https://open.spotify.com/album/5kTgZfxe4yXefwI9Q9Tby5"
       },

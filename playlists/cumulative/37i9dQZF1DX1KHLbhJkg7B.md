@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-266 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+267 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Holy \(Recovered & Reimagined\)](https://open.spotify.com/track/6rQb3fNfDUiWXyNgfS6g6o) | [Levi Kreis](https://open.spotify.com/artist/3MxSB2qv4d11PSgSVCSzJG) | [Holy \(Recovered & Reimagined\)](https://open.spotify.com/album/4doUVGnSbpEHavVg5888cb) | 2:50 | 2022-03-25 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 | 2021-12-10 | 2022-09-26 |
 | [Honky Tonk Man](https://open.spotify.com/track/0JH86boEDEXrREt6rOBac8) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:51 | 2022-01-07 | 2022-07-04 |
+| [How's It Going To Be](https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [How's It Going To Be](https://open.spotify.com/album/5i12HkZB9nh38tRvFXmyxS) | 3:51 | 2022-10-21 |  |
 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2022-03-25 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/2apXUUeJnEMB09oZHe8Ms7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:43 | 2022-03-25 | 2022-04-20 |
 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 | 2021-12-10 |  |
@@ -237,7 +238,7 @@
 | [This Is How We Roll](https://open.spotify.com/track/3skFJXP6IJK5VCHudwJFoB) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Down Home Sessions IV](https://open.spotify.com/album/63rAymY7yBFTCXWamkAO7U) | 3:36 | 2022-03-11 | 2022-04-19 |
 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 | 2021-12-10 |  |
 | [Three Times A Lady](https://open.spotify.com/track/4kNaVprADQDfWl18mCXxh7) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [After Dark](https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S) | 3:52 | 2022-03-25 | 2022-09-10 |
-| [Three Wooden Crosses \- The Bootlegger Sessions](https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Three Wooden Crosses \(The Bootlegger Sessions\)](https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d) | 3:14 | 2022-09-30 |  |
+| [Three Wooden Crosses \- The Bootlegger Sessions](https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Three Wooden Crosses \(The Bootlegger Sessions\)](https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d) | 3:14 | 2022-09-30 | 2022-10-22 |
 | [Through The Years](https://open.spotify.com/track/4IF4gdjiml2hVIJSqC4cYV) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 4:09 | 2021-12-10 | 2022-07-26 |
 | [Till I Get It Right](https://open.spotify.com/track/0EOBoPMSZEbgrR4BtIKsKi) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/1FReBhpmD1xZ8wzgWun0dj) | 4:05 | 2022-01-21 | 2022-07-25 |
 | [Time Marches On \- The Bootlegger Sessions](https://open.spotify.com/track/51KtRR2OILi7YGatm53jxV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Time Marches On \(The Bootlegger Sessions\)](https://open.spotify.com/album/5AhrX2VP17pnblF2ocPkgY) | 2:42 | 2022-09-09 | 2022-09-11 |

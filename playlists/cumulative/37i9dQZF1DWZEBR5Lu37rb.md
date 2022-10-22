@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-106 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
+107 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Uthando](https://open.spotify.com/track/1YM8eKv3LsaMOBpBI2kTc2) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [The Best Africa Album In The World...Ever!](https://open.spotify.com/album/3ZPCY10NmTf5etbsi0z89m) | 4:53 | 2022-02-10 | 2022-08-22 |
 | [Uthando](https://open.spotify.com/track/7vAXZOAlNeD6f7rg5qnkbh) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:53 | 2022-02-10 |  |
 | [Vaileti](https://open.spotify.com/track/3C9HNfpYE8IbTuwN8WtIBy) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Best of Tanzania Bongo Classics 2](https://open.spotify.com/album/3ZWfP82qw9qk6iCaaeiMir) | 4:49 | 2022-02-10 |  |
-| [Wangu \(feat\. Sanaipei Tande\)](https://open.spotify.com/track/71cps6SJrIIGQhZQRL2GLT) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [African Popstar EP](https://open.spotify.com/album/7qqcWtHS6aVvRUvmbATORH) | 3:06 | 2022-02-10 |  |
+| [Wangu](https://open.spotify.com/track/3SQZtURKuSTIAt15SVNHNP) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [African Popstar](https://open.spotify.com/album/4M32W80O9xZpNw9nYOcwmN) | 3:06 | 2022-02-10 |  |
+| [Wangu \(feat\. Sanaipei Tande\)](https://open.spotify.com/track/71cps6SJrIIGQhZQRL2GLT) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [African Popstar EP](https://open.spotify.com/album/7qqcWtHS6aVvRUvmbATORH) | 3:06 | 2022-02-10 | 2022-10-22 |
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2022-02-10 |  |
 | [Yes/No](https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt) | 4:07 | 2022-02-10 |  |
 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 | 2022-02-10 |  |

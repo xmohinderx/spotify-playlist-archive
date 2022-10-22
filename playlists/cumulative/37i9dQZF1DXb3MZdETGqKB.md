@@ -4,13 +4,13 @@
 
 > All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-159 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+161 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til This Pain Goes Away](https://open.spotify.com/track/0I6N0Vjf4AlSmB1E4rzeyM) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | ['Til This Pain Goes Away](https://open.spotify.com/album/1MA7kYhhBf655BbxahqTjo) | 2:29 | 2021-06-18 | 2022-06-19 |
 | [3AM in Chicago](https://open.spotify.com/track/5ojFJM8fhqK1Ktg69bPmPt) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [3AM in Chicago](https://open.spotify.com/album/23VUe5ASQwqXtLWhMQgTpe) | 3:36 | 2021-05-07 | 2022-05-07 |
-| [AIN'T ONE THING](https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [AIN'T ONE THING](https://open.spotify.com/album/3KeScJVC2iuPQiKKlAm8q8) | 4:38 | 2022-07-29 |  |
+| [AIN'T ONE THING](https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [AIN'T ONE THING](https://open.spotify.com/album/3KeScJVC2iuPQiKKlAm8q8) | 4:38 | 2022-07-29 | 2022-10-22 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-03-25 |  |
 | [Alafia Moon](https://open.spotify.com/track/70E86POsODghwNfyN2Rgh4) | [Damon Fowler](https://open.spotify.com/artist/6dsP618YZjWbcMvxhvW1ug) | [Alafia Moon](https://open.spotify.com/album/1WGCbDWr7aLtgzursVE3pK) | 4:34 | 2021-03-12 | 2022-03-26 |
 | [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 |  |
@@ -54,6 +54,7 @@
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [Follow Me](https://open.spotify.com/track/0sgSnT7ltGmbtDk6oYCORs) | [Jessarae](https://open.spotify.com/artist/6g09G6rt0abMMLVp4xyKx6) | [Follow Me](https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M) | 3:54 | 2021-04-09 | 2022-05-07 |
 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 | 2022-03-25 |  |
+| [Freedom on My Mind](https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [Freedom on My Mind](https://open.spotify.com/album/1eud6Bh9tfW68cYCw5xGqb) | 4:44 | 2022-10-21 |  |
 | [Give Praises](https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt) | [Give Praises](https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4) | 3:36 | 2022-09-02 |  |
 | [Gone](https://open.spotify.com/track/33hXeP9dCStIHmtUWNepnA) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Gone](https://open.spotify.com/album/2xheRzFSbejr9p1g18pQOu) | 3:02 | 2021-08-30 | 2022-06-19 |
 | [Good for Nothing](https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Good for Nothing](https://open.spotify.com/album/3uflPsxAFtm3IWLcb8yoY5) | 3:10 | 2021-12-17 | 2022-06-19 |
@@ -144,6 +145,7 @@
 | [Ten Toes Down](https://open.spotify.com/track/2oqOVs5FVAyMWQhT5Bpdsa) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Ten Toes Down](https://open.spotify.com/album/3quqmLko0E0EbZR9s3JDzf) | 4:21 | 2021-02-05 | 2022-03-26 |
 | [That's The Way I Feel About You](https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [That's The Way I Feel About You](https://open.spotify.com/album/01nRgsi6ofoo1HBxFwg6Ha) | 4:53 | 2021-07-02 | 2022-06-19 |
 | [The City Streets \(Ps.23\)](https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 4:32 | 2021-09-10 |  |
+| [The Lows](https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [The Lows](https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t) | 2:55 | 2022-10-21 |  |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 |  |
 | [The Mess I Made](https://open.spotify.com/track/0jgysibe0XfoEO4QF4txxo) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc), [Sarah Jory](https://open.spotify.com/artist/3vIXE7wvyCjfLhVU4PPs3a) | [The Mess I Made](https://open.spotify.com/album/09N5XzPUjGF2C88j0QWJPc) | 3:02 | 2021-04-16 | 2022-05-07 |
 | [The Message](https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [The Message](https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K) | 4:04 | 2022-09-09 |  |

@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: LA INDIA, Goyo.
 
-258 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/1b5XdfWrnBRPibFIU7IXEm)
+259 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/1b5XdfWrnBRPibFIU7IXEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-01-01 |  |
 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 | 2021-12-03 |  |
 | [Mala](https://open.spotify.com/track/4sLW4tfhCMYPfiN7u8r9DT) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Deluxe](https://open.spotify.com/album/3oUyYJZkXbamjwIaHjJO3l) | 3:23 | 2022-01-01 | 2022-02-06 |
-| [Matilde Lina](https://open.spotify.com/track/3np5gFTTf2SYxfW5zf0lQn) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Matilde Lina](https://open.spotify.com/album/1uHVJ9nYkGjoVNrSAeVV7C) | 3:50 | 2022-02-14 |  |
+| [Matilde Lina](https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Leandro Díaz Special Edition](https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns) | 3:47 | 2022-10-14 |  |
+| [Matilde Lina](https://open.spotify.com/track/3np5gFTTf2SYxfW5zf0lQn) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Matilde Lina](https://open.spotify.com/album/1uHVJ9nYkGjoVNrSAeVV7C) | 3:50 | 2022-02-14 | 2022-10-22 |
 | [Me Enamore](https://open.spotify.com/track/60VVaKgIJNftR2UWkLIYah) | [Michael Stuart](https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe) | [Me Enamore](https://open.spotify.com/album/3jM0m1h8r76o74B3EiYlCJ) | 4:03 | 2022-02-14 | 2022-07-20 |
 | [Me Enamoro Mas de Ti](https://open.spotify.com/track/11WuRl9efXTiWYtvB2y8X3) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Jean Rodriguez](https://open.spotify.com/artist/0AaeA0bBuFyAWdJ2W6597x) | [Mas De Mi](https://open.spotify.com/album/21Q82X4xEiZNbFHEmhZTX3) | 4:30 | 2021-12-03 | 2022-02-05 |
 | [Me Tengo Que Ir](https://open.spotify.com/track/6bum69IXoiGcZCb83ZtfGA) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Salsa Classics, Vol\. 1](https://open.spotify.com/album/41WgoKq8UltJA2tL7msFdt) | 4:43 | 2021-12-03 | 2022-02-15 |

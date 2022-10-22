@@ -4,7 +4,7 @@
 
 > Celebrating Latin Heritage Month con un poquito De TODO! Cover: Villano Antillano
 
-74 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
+75 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2022-09-14 |  |
 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 | 2022-09-20 |  |
 | [Colores](https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Colores](https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4) | 3:35 | 2022-09-14 |  |
-| [Commitment](https://open.spotify.com/track/64qmLY9DLw4hoUzIWh7bmS) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/0JpUzX4S0FePzeU8Iw871V) | 4:07 | 2022-09-14 |  |
+| [Commitment](https://open.spotify.com/track/64qmLY9DLw4hoUzIWh7bmS) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/0JpUzX4S0FePzeU8Iw871V) | 4:07 | 2022-09-14 | 2022-10-22 |
+| [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 | 2022-10-11 |  |
 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/4PUcIVtKlu3QXDraTWoleG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:09 | 2022-09-14 |  |
 | [control](https://open.spotify.com/track/7bYhDqKeVnyjQFiXHElXJy) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:31 | 2022-09-14 |  |
 | [Corre Corazón](https://open.spotify.com/track/25EepflJUZMuNIcsPp2tc0) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C) | [On My Diez](https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U) | 2:23 | 2022-09-14 |  |

@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Mafro
 
-632 songs - 1 day 17 hr 23 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+633 songs - 1 day 17 hr 27 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 | 2021-10-08 | 2022-04-21 |
 | [Breathing](https://open.spotify.com/track/4vKEzzWe1W1xYI5foZu15g) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Breathing](https://open.spotify.com/album/1OZYHN7RxP2o8zg45RFF5n) | 4:46 | 2022-07-08 | 2022-08-10 |
 | [Brooklyn Ballers](https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Brooklyn Ballers](https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9) | 4:22 | 2022-03-25 | 2022-04-18 |
-| [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-08-12 |  |
+| [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-08-12 | 2022-10-22 |
+| [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2022-09-09 |  |
 | [Buttercup](https://open.spotify.com/track/5d2KbiTK6AVaJeJC1oc8H3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Buttercup](https://open.spotify.com/album/6MzjAQSkgKKnJgvTAOda2k) | 4:38 | 2022-09-17 | 2022-10-06 |
 | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm) | 3:15 | 2021-05-14 |  |
 | [Butterfly Wings \- Franc Moody Remix](https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Butterfly Wings \(Franc Moody Remix\)](https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz) | 3:32 | 2022-04-29 | 2022-07-29 |

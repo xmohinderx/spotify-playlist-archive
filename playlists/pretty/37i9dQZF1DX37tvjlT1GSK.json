@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jose Manuel en portada. ",
-  "num_followers": 702831,
+  "num_followers": 702929,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGEyYjIyN2IyYjYwZmI5ZDRlNGY4MjNkZDM2YmEwZTVl",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDUwMGUyNWYyOTJiYzA3NzA3OWExN2I2OGI2MGQxMDA3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "El Carrito",
+        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 178812,
+      "name": "El Carrito",
+      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "El Carrito",
-        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "El Carrito",
-      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -939,18 +939,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
+      "duration_ms": 233096,
+      "name": "Pa Que Te Duela",
+      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -975,22 +979,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 233096,
-      "name": "Pa Que Te Duela",
-      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Qui\u00e9n Se Apunta",
-        "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
+        "name": "El Plumas (En Vivo)",
+        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
       },
       "artists": [
         {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 193539,
-      "name": "Qui\u00e9n Se Apunta",
-      "url": "https://open.spotify.com/track/5Dkh7EU3hI96fawhX1OE1n"
+      "duration_ms": 210617,
+      "name": "El Plumas - En Vivo",
+      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Plumas (En Vivo)",
-        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
+        "name": "Qui\u00e9n Se Apunta",
+        "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 210617,
-      "name": "El Plumas - En Vivo",
-      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
+      "duration_ms": 193539,
+      "name": "Qui\u00e9n Se Apunta",
+      "url": "https://open.spotify.com/track/5Dkh7EU3hI96fawhX1OE1n"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Hoy Voy a Olvidarte",
-        "url": "https://open.spotify.com/album/5AR4N8t3wpMmNEaIg90knJ"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 174286,
-      "name": "Hoy Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/4fb84fFWaOn5vA14XiUDTP"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "GXLE 3",
         "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 206000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Hoy Voy a Olvidarte",
+        "url": "https://open.spotify.com/album/5AR4N8t3wpMmNEaIg90knJ"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 174286,
+      "name": "Hoy Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/4fb84fFWaOn5vA14XiUDTP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "No Falta Mas Tiempo",
+        "url": "https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "No Falta Mas Tiempo",
+      "url": "https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "El JR 01",
         "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 242785,
       "name": "El JR 01",
       "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "No Falta Mas Tiempo",
-        "url": "https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "No Falta Mas Tiempo",
-      "url": "https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Vida Prestada",
+        "url": "https://open.spotify.com/album/67XIm7lVT0ZvCxs7YuJYun"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/086IbayM2Ya7pAXx3ojqp6"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Bla Bla Bla",
         "url": "https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Vida Prestada",
-        "url": "https://open.spotify.com/album/67XIm7lVT0ZvCxs7YuJYun"
-      },
-      "artists": [
-        {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/086IbayM2Ya7pAXx3ojqp6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "SRT",
         "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g"
-      },
-      "artists": [
-        {
-          "name": "Los De La Zona",
-          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Lo Que Tengo",
-      "url": "https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "A Cada Rato (En Vivo)",
         "url": "https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 185983,
       "name": "A Cada Rato (En Vivo)",
       "url": "https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g"
+      },
+      "artists": [
+        {
+          "name": "Los De La Zona",
+          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Lo Que Tengo",
+      "url": "https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro"
     },
     {
       "added_at": "2022-09-23 04:00:00",

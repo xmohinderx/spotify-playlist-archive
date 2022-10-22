@@ -4,7 +4,7 @@
 
 > ¡Bad Milk y más mujeres, a todo volumen!
 
-122 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+123 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [En un Mar](https://open.spotify.com/track/78NnWL4MdpDJhlUcIBhAIY) | [siempre perdida](https://open.spotify.com/artist/0qUAEJHNl1REkrePFbnEnT) | [En un Mar](https://open.spotify.com/album/5gxvjvg1VtOn2EmhNADKRb) | 3:57 | 2022-01-05 |  |
 | [ENMÚSAME](https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv) | [Gallardía](https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY) | [ENMÚSAME](https://open.spotify.com/album/1BwMM9VT7IO94E8ImUD9ys) | 2:29 | 2022-05-31 |  |
 | [Fashion Criminal](https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Fashion Criminal](https://open.spotify.com/album/2S6TKxlcxqreIKTckKQAcW) | 2:50 | 2022-01-05 |  |
-| [Florence](https://open.spotify.com/track/5ZBumKfXdJ84jIbCrKTo7Y) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN) | 3:30 | 2022-03-10 |  |
+| [Florence](https://open.spotify.com/track/5ZBumKfXdJ84jIbCrKTo7Y) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN) | 3:30 | 2022-03-10 | 2022-10-22 |
 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 | 2022-03-04 | 2022-03-15 |
 | [Flow Romántico](https://open.spotify.com/track/3eA8t1I6hL24GnFKThKZU3) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:55 | 2022-03-09 | 2022-07-30 |
 | [Fui y Volví](https://open.spotify.com/track/66tE6J4QvH59jTSajXcVXl) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Fui y Volví](https://open.spotify.com/album/3oDIB2jNRlhWJM7qcYa7LF) | 4:05 | 2022-01-05 | 2022-03-10 |
@@ -120,6 +120,7 @@
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-03-04 |  |
 | [Tú](https://open.spotify.com/track/0hyKDphP6TYK39ULPxy3vw) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/6t3NeikS5j2aSxWYDFFi7m) | 3:45 | 2022-01-05 | 2022-07-29 |
 | [Ubalauka](https://open.spotify.com/track/0BjB9sSJtvQdmoMGieswNw) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Ubalauka](https://open.spotify.com/album/4fMI5YS8cD4aDJGoKx0xZI) | 2:51 | 2022-01-05 |  |
+| [Uh yeah](https://open.spotify.com/track/1PaH6xUsycYE68nsXL4j3I) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Uh yeah](https://open.spotify.com/album/1ofnoofcnmiI5N1cGeXqJD) | 3:32 | 2022-10-21 |  |
 | [Un Reflejo Breve](https://open.spotify.com/track/7yIGfIHePWeHCDGA97Qorp) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Un Reflejo Breve](https://open.spotify.com/album/3NrGokjjouRQlWe0g1BxVT) | 3:00 | 2022-05-31 |  |
 | [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 | 2022-01-05 |  |
 | [Vamos por el Magdalena](https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Vamos por el Magdalena](https://open.spotify.com/album/32h1Oyjs5teGmctWjhjRsc) | 3:50 | 2022-01-05 |  |

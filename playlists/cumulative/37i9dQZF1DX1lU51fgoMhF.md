@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-280 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
+281 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 | 2022-08-18 |  |
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-08 | 2022-08-30 |
 | [Break Ice](https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Break Ice](https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm) | 2:56 | 2021-11-17 | 2022-08-13 |
-| [BYE \(feat\. Whee In\)](https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [BYE \(feat\. Whee In\)](https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx) | 3:08 | 2022-08-26 |  |
+| [BYE \(feat\. Whee In\)](https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [BYE \(feat\. Whee In\)](https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx) | 3:08 | 2022-08-26 | 2022-10-22 |
 | [California Dream](https://open.spotify.com/track/3ulIMvCtahvAmAQHcCbDFs) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:59 | 2022-07-11 |  |
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-06-30 | 2022-08-11 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-11-17 |  |
@@ -79,6 +79,7 @@
 | [Don't forget](https://open.spotify.com/track/3vUhplxWXZzRROaw3zmeag) | [SEULGI](https://open.spotify.com/artist/73Ag41hlRQlEj8wJloKccQ) | [Don't forget me](https://open.spotify.com/album/5o9y5DIHPh6zqlaPFUHFYX) | 3:14 | 2021-11-17 | 2022-07-24 |
 | [Down For You](https://open.spotify.com/track/5NcJGNuS275gu8yzagz3L1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:06 | 2021-11-17 | 2022-07-29 |
 | [DREAMLIKE](https://open.spotify.com/track/3Hpzmd4GsW2vqxNplwUL1r) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:46 | 2021-11-17 | 2022-07-29 |
+| [DREAMLIKE](https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:46 | 2022-09-05 |  |
 | [Drive Away](https://open.spotify.com/track/0AghOiiy5SQslFmbtb87O3) | [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [Drive Away](https://open.spotify.com/album/6XBlTQ8DNF7T69ohs9SxTq) | 3:03 | 2022-05-11 | 2022-07-09 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2021-11-17 |  |
 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:17 | 2022-07-27 |  |

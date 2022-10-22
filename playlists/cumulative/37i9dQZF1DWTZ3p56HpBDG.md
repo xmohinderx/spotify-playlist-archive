@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-161 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+162 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 | 2022-10-06 |  |
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-10-06 |  |
 | [Do You Love Her Now](https://open.spotify.com/track/13JjdKeIUy6P916p3MemXn) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:34 | 2021-11-10 | 2022-07-19 |
-| [Don't Let Go](https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/62zbZ4GgUDL4rqKdbQEjrA) | 2:38 | 2022-10-06 |  |
+| [Don't Let Go](https://open.spotify.com/track/222VjaQ6wUWhe3SnbNHJ2K) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/5WGtuS2pMdXz7WfOrM9vcN) | 2:38 | 2022-10-14 |  |
+| [Don't Let Go](https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/62zbZ4GgUDL4rqKdbQEjrA) | 2:38 | 2022-10-06 | 2022-10-22 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-10-06 |  |
 | [Down](https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Down](https://open.spotify.com/album/60BgpEaXzIBL91LhxeMgud) | 2:06 | 2021-11-10 | 2022-01-21 |
 | [Ex Xo](https://open.spotify.com/track/0BhATGCTPYpWry4D0aWZXD) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [SVDP 2](https://open.spotify.com/album/1Sd5W902T0uiG3wAcLqmso) | 2:41 | 2021-11-10 | 2022-07-19 |

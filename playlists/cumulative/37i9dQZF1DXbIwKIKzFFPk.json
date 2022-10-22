@@ -1284,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259191,
+      "name": "\u30b9\u30ab\u30fc",
+      "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30eb\u30ab\u30ab\u30ca\u30bf",
         "url": "https://open.spotify.com/album/2DEOIQFfsDtfByqp8TIRh8"
       },
@@ -1497,6 +1515,24 @@
       "duration_ms": 243666,
       "name": "\u65c5\u7acb\u3064\u30ad\u30df\u3078",
       "url": "https://open.spotify.com/track/30ek6jhxOGgxewmUlxU4SW"
+    },
+    {
+      "album": {
+        "name": "\u6700\u679c\u3066",
+        "url": "https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180319,
+      "name": "\u6700\u679c\u3066",
+      "url": "https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT"
     },
     {
       "album": {

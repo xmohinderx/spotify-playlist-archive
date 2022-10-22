@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-346 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+347 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [La Quiero a Morir / Si Algún Día la Vez](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 | 2021-02-02 |  |
 | [La Quiero A Morir.](https://open.spotify.com/track/49PNURIk7SExp5h7YN3t94) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [La Quiero A Morir](https://open.spotify.com/album/5N1sSgWCGXuvxr29dSOyba) | 5:05 | 2021-02-02 | 2022-07-29 |
 | [La Quiero A Morir/ Si Algun Dia La Vez/ Madre](https://open.spotify.com/track/7aWA0Q7pPHBJkQhshy9UEw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [El Hombre Y Su Merengue](https://open.spotify.com/album/5ubcotvfB75RUOxjSjHmYF) | 6:33 | 2021-02-02 | 2022-07-29 |
-| [La Radio](https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:05 | 2021-02-02 |  |
+| [La Radio](https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:05 | 2021-02-02 | 2022-10-22 |
 | [La Travesia](https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 | 2021-02-02 |  |
 | [La Varita](https://open.spotify.com/track/39wIxFjHfiqYqTyRhJZaZR) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [La Organizacion Secreta](https://open.spotify.com/album/1oX3sKhJkR1nkV6hjLz1AJ) | 4:09 | 2021-02-02 | 2022-07-26 |
 | [La Varita](https://open.spotify.com/track/2zp5lkyP0FPbCOxBdiYT4h) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Limpio](https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss) | 4:10 | 2021-02-02 |  |
@@ -266,6 +266,7 @@
 | [Quien Te Riza El Pelo](https://open.spotify.com/track/2a1YsVTT73sMg64KEDBPxK) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6) | 4:44 | 2021-02-02 | 2022-07-29 |
 | [Quiero Conocerte](https://open.spotify.com/track/0ND6bNzSwSmu2gv3ly5L2H) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6) | 4:58 | 2021-02-02 | 2022-07-26 |
 | [Qué Cara Más Bonita](https://open.spotify.com/track/2jMQbCgRL4mz99WnTuCOGn) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Alex & Orquesta Liberación](https://open.spotify.com/album/6ej4d6OF594jNX6VHz7n4y) | 5:02 | 2021-02-02 | 2022-10-15 |
+| [Qué Cara Más Bonita](https://open.spotify.com/track/2rHlBIvlUPHC1L8mK7FUfZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Alex & Orquesta Liberación](https://open.spotify.com/album/0SMJS2P1TWZ4thyVxFfcrk) | 5:02 | 2021-02-02 |  |
 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 | 2021-02-02 |  |
 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5Rh9q9im3Ib4saOkJsg2B8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 | 2021-02-02 |  |
 | [Secretos](https://open.spotify.com/track/2KserR4WEVdrloo5eHsic6) | [Peter Cruz](https://open.spotify.com/artist/624La0EtrGIQnHyM76BkIq) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 4:05 | 2021-02-02 | 2022-07-26 |

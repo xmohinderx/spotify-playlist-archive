@@ -4,7 +4,7 @@
 
 > Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-110 songs - 8 hr 40 min - not published yet
+111 songs - 8 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 | 2021-10-19 |  |
 | [Saibo \- Lofi Flip](https://open.spotify.com/track/1E16f7KcZmuXuhlenRwA2m) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Saibo \(Lofi Flip\)](https://open.spotify.com/album/4c9FRN0aGll1nzuNwQ68HU) | 2:26 | 2022-09-19 |  |
 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 | 2022-03-08 |  |
+| [Saiyyan \- Refresh](https://open.spotify.com/track/5BunhxKZvwCzg0F5In0aJS) | [Rishav Ishu](https://open.spotify.com/artist/7pHuH7gD7hpRLSHNDKUToe) | [Saiyyan \(Refresh\)](https://open.spotify.com/album/1NRvoa925tun83iznrONXZ) | 5:39 | 2022-10-21 |  |
 | [Salaam Aaya \(From "Veer"\)](https://open.spotify.com/track/2keR1GDTHre4qUTLoXe321) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Veer](https://open.spotify.com/album/1KV5xlkR07erroC3m7jz0W) | 4:53 | 2022-06-09 |  |
 | [Samjhawan](https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 4:29 | 2021-07-05 |  |
 | [Sanam Teri Kasam \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/5CUBl7fArpc1jJYeZ7jlxI) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Love \- From Him](https://open.spotify.com/album/2kjUMWW4I1jx0goTCa5Vxk) | 5:14 | 2022-06-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 164360,
+  "num_followers": 164671,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE1MjExNywwMDAwMDAwMDUxN2ZhYzdhNzJlYzAxOWI1YjAxZjIxMTkyMjhjMzhk",
+  "snapshot_id": "MTY1NDE1MjExNywwMDAwMDAwMDBmNTI4MDU3Njk4ZTM0MTg5MDc1MTc5Mzc3Y2U4ZDk3",
   "tracks": [
     {
       "added_at": "2022-05-11 12:45:34",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Ghost In The Machine (Remastered 2003)",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 260573,
       "name": "Every Little Thing She Does Is Magic",
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -855,6 +839,22 @@
       "duration_ms": 245466,
       "name": "Hip To Be Square",
       "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "The First & Second Album (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/15JQStE0eqKcRp2tYzDoRD"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 334600,
       "name": "You're My Heart, You're My Soul",
       "url": "https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Close (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "You Came - Single Version",
-      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
-    },
-    {
-      "added_at": "2022-05-11 12:45:34",
-      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 268373,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
+    },
+    {
+      "added_at": "2022-05-11 12:45:34",
+      "album": {
+        "name": "Close (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "You Came - Single Version",
+      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "'80s Pop Hits",
-        "url": "https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg"
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/05rSaDParyh27b5eomSA8P"
       },
       "artists": [
         {
-          "name": "Matthew Wilder",
-          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
         }
       ],
-      "duration_ms": 180240,
-      "name": "Break My Stride",
-      "url": "https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU"
+      "duration_ms": 171720,
+      "name": "You Drive Me Crazy",
+      "url": "https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW"
     },
     {
       "added_at": "2022-05-11 12:45:34",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-05-11 12:45:34",
       "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/05rSaDParyh27b5eomSA8P"
+        "name": "'80s Pop Hits",
+        "url": "https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg"
       },
       "artists": [
         {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+          "name": "Matthew Wilder",
+          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
         }
       ],
-      "duration_ms": 171720,
-      "name": "You Drive Me Crazy",
-      "url": "https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW"
+      "duration_ms": 180240,
+      "name": "Break My Stride",
+      "url": "https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU"
     },
     {
       "added_at": "2022-05-11 12:45:34",

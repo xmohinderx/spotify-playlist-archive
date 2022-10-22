@@ -2482,6 +2482,24 @@
     },
     {
       "album": {
+        "name": "Gauean",
+        "url": "https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp"
+      },
+      "artists": [
+        {
+          "name": "Darcie Roman",
+          "url": "https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236559,
+      "name": "Gauean",
+      "url": "https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ"
+    },
+    {
+      "album": {
         "name": "Soft Slow Sleep",
         "url": "https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK"
       },
@@ -2659,6 +2677,24 @@
       "duration_ms": 201000,
       "name": "Green Leaves",
       "url": "https://open.spotify.com/track/6BVWlugjV9uuDGA0SvD0R5"
+    },
+    {
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX"
+      },
+      "artists": [
+        {
+          "name": "Emil Fortini",
+          "url": "https://open.spotify.com/artist/1Ce1nbaoW2Uw18C21ES7QG"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155700,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR"
     },
     {
       "album": {
@@ -5359,7 +5395,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 190751,
       "name": "Relajaci\u00f3n espiritual",
       "url": "https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2"

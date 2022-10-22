@@ -2,7 +2,7 @@
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni da gridare ❤️‍🩹 con blame e yanomi in cover
+> canzoni da gridare ❤️‍🩹 con blame, yanomi e chakra in cover
 
 283 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 

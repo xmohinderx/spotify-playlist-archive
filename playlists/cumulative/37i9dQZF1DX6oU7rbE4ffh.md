@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-122 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
+124 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Before Sunrise](https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Before Sunrise](https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU) | 3:01 | 2022-05-25 |  |
 | [Binaural Rest](https://open.spotify.com/track/1wgXU7u4rGe7sBE2hBRLa7) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Binaural Dreamer](https://open.spotify.com/album/3CvxtluGSik0YCGeEtANJu) | 3:24 | 2022-05-25 |  |
 | [Bio\-logical](https://open.spotify.com/track/7bj6z4jBc4z0RSUv4lUoru) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Primary](https://open.spotify.com/album/2TGytgtyIdYTGLpKcTkXcU) | 2:59 | 2022-05-25 |  |
+| [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 | 2022-10-21 |  |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-05-25 |  |
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2022-05-25 |  |
 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 | 2022-05-25 |  |
@@ -83,12 +84,13 @@
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2022-05-25 |  |
 | [Monrovia](https://open.spotify.com/track/7JYgex93ldydsVqr6Um2nD) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Heliotropism](https://open.spotify.com/album/3MsuLztSUCisSA2S92hlaw) | 3:30 | 2022-05-25 | 2022-09-15 |
 | [Morning Mist Rising](https://open.spotify.com/track/62w7vY3oBAnoEe8YZVui50) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Morning Mist Rising](https://open.spotify.com/album/4FkVG3tMc2RDeycqAjNZM3) | 3:49 | 2022-05-25 |  |
+| [Motions 432 Hz](https://open.spotify.com/track/2y5ukbzq7muEOsdexH55NI) | [Hoja Rama](https://open.spotify.com/artist/4B1koovpVzlZQ4URtMTLvC) | [Motions 432 Hz](https://open.spotify.com/album/71h19HzaS1j93aVO7ygUAx) | 2:47 | 2022-10-21 |  |
 | [N70 Highway](https://open.spotify.com/track/2YTUV4dWw82qMXpwKaKY05) | [N70+](https://open.spotify.com/artist/3poyGkHeYfYGO2Sqsf21Ii) | [Paralaminata](https://open.spotify.com/album/1YqTLLecZITKItH1K1E8nI) | 3:12 | 2022-05-25 | 2022-09-07 |
 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-05-25 |  |
 | [Oblivion](https://open.spotify.com/track/676cCislDJ6X51j2mai6xD) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Oblivion](https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO) | 3:08 | 2022-05-25 |  |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-05-25 |  |
 | [One With You](https://open.spotify.com/track/6uFDXRgHLOWuzn8ulRJ2XW) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:43 | 2022-05-25 |  |
-| [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 | 2022-05-25 |  |
+| [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 | 2022-05-25 | 2022-10-22 |
 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 | 2022-05-25 |  |
 | [Panalipa Bisignatus](https://open.spotify.com/track/6LjyIMfDZkn2uY2sLM6Hdk) | [Sir Martin Walker](https://open.spotify.com/artist/5Bnqn1xdZlNk13QC9gc5Tu) | [Panalipa Bisignatus](https://open.spotify.com/album/77syYrRA3qfOI8bUmu1Hez) | 3:56 | 2022-05-25 |  |
 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 | 2022-05-25 |  |

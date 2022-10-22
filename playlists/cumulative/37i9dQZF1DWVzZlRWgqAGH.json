@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Smino, J. Cole",
+  "description": "Smooth joints. Cover: NxWorries (Anderson .Paak, Knxwledge)",
   "name": "BUTTER",
   "published_playlist_ids": [
     "6iBWJdwWthi80GH8IDHW0t"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 204005,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
@@ -6865,7 +6865,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 253306,
       "name": "Isolated",
       "url": "https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8"
@@ -9151,7 +9151,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq"
@@ -10047,6 +10047,24 @@
       "duration_ms": 294360,
       "name": "Pixies",
       "url": "https://open.spotify.com/track/1y78egw78t5qPe6FuagEIe"
+    },
+    {
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
     },
     {
       "album": {
@@ -13098,6 +13116,28 @@
     },
     {
       "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352253,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU"
+    },
+    {
+      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY"
       },
@@ -14543,6 +14583,36 @@
       "duration_ms": 157466,
       "name": "Where Did the Night Go",
       "url": "https://open.spotify.com/track/69lWznHbSlGRz7ZpW48rVt"
+    },
+    {
+      "album": {
+        "name": "Where I Go (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "Where I Go (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
       "album": {

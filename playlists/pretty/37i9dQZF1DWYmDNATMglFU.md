@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > bringing the punk home with when we were young festival ⛓ cover: 3OH!3
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,904 likes - 62 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,150 likes - 62 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

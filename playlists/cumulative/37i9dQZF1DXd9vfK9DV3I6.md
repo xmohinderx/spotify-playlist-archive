@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-213 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+214 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,13 +182,14 @@
 | [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 | 2021-07-31 |  |
 | [Schhh](https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh](https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1) | 3:05 | 2020-10-18\* |  |
 | [Sensiz](https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5) | [Lemurian](https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu), [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge) | [Prophecies of the Ancient Future](https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH) | 5:20 | 2020-10-18\* |  |
+| [Shibren \- El Búho Remix](https://open.spotify.com/track/4roiNsekTEbswR2eofsjFN) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 4:36 | 2022-10-14 |  |
 | [Shibren \- El Búho Remix](https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 4:36 | 2022-01-14 | 2022-10-13 |
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2020-10-18\* |  |
 | [Siwa](https://open.spotify.com/track/7xEKv9SP3WldWzSGOQ9S4A) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Siwa](https://open.spotify.com/album/1M6siSNyPYT0x4CK9nAl1T) | 6:44 | 2022-10-06 |  |
 | [Sophia](https://open.spotify.com/track/1cNpthOJnJS9fx79Q6ulIz) | [Mozkai](https://open.spotify.com/artist/7rWNHtHH7p8ymnKcXL35r1) | [Oriental Touch 2](https://open.spotify.com/album/4YPYXHxyV2J5ow1GDztdO8) | 6:17 | 2020-12-21 | 2022-07-29 |
 | [Sophia \- Mixed](https://open.spotify.com/track/4L2hIkevjljjccainHYjCR) | [Mozkai](https://open.spotify.com/artist/7rWNHtHH7p8ymnKcXL35r1) | [Cafe De Anatolia \- Oriental Touch 2 \(Compiled by Billy Esteban\) \[DJ Mix\]](https://open.spotify.com/album/6B5q4QqueqjRRjGIou3IDP) | 6:09 | 2022-06-27 |  |
 | [Sophonisbe \- Sahale Remix](https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L) | [Jugurtha](https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME), [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ) | [Sophonisbe](https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM) | 6:36 | 2020-10-18\* |  |
-| [Souq \- Bonus Track](https://open.spotify.com/track/4zME4qWOOXhtLlInSaBt1E) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Souq \(Bonus Track\)](https://open.spotify.com/album/2XIQUxyPIbFqTXlvuu0bzZ) | 6:21 | 2020-10-18\* |  |
+| [Souq \- Bonus Track](https://open.spotify.com/track/4zME4qWOOXhtLlInSaBt1E) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Souq \(Bonus Track\)](https://open.spotify.com/album/2XIQUxyPIbFqTXlvuu0bzZ) | 6:21 | 2020-10-18\* | 2022-10-22 |
 | [Stair at the light](https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Stair at the light](https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ) | 3:02 | 2020-10-18\* |  |
 | [Stop the Time](https://open.spotify.com/track/6JmAYUDf96VAP0jzHOcHdF) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Görkem Sala](https://open.spotify.com/artist/7dsJIPuXciM0pz4G7CA3ZC), [Basia Janyga](https://open.spotify.com/artist/3pNENhK1BGW2aQljN5xyUR) | [Stop the Time](https://open.spotify.com/album/23WqBmAtkeKhjzmxYpgVqu) | 3:01 | 2020-12-13 |  |
 | [Stories](https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Stories](https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG) | 3:13 | 2021-10-11 |  |

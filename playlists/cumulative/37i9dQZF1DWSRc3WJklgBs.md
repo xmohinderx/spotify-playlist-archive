@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,016 songs - 2 day 12 hr 4 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+1,017 songs - 2 day 12 hr 7 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [All For You](https://open.spotify.com/track/6arIkRYjnK8iO7wsSl0VW2) | [Rynx](https://open.spotify.com/artist/3v2NAsnsViisa2k0CNolXW), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [All For You](https://open.spotify.com/album/5GWY3fEmbeSlyjrDrc7Mpe) | 3:21 | 2019-08-20 | 2020-10-30 |
 | [All I Ever Wanted](https://open.spotify.com/track/149kdyQwLdqHBjXbbNS7FY) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Louie](https://open.spotify.com/artist/4gaw8pYdmbdMKsWfJcR4Ky) | [All I Ever Wanted](https://open.spotify.com/album/3Q6Una4GH38LwLUEiWEyxo) | 4:13 | 2019-08-09\* | 2019-08-27 |
 | [All I Got](https://open.spotify.com/track/1TOKaiIbpxknH9qvEv8F00) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [All I Got](https://open.spotify.com/album/0Weocbi7Y3FdP5WNOy2rDS) | 5:15 | 2019-08-09\* | 2020-03-29 |
+| [All I Need](https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [All I Need](https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix) | 3:06 | 2022-10-21 |  |
 | [All Mine](https://open.spotify.com/track/1MglEMsbD5zkQZz3qI0iDi) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [All Mine](https://open.spotify.com/album/7vlLGz5jUD3E6pGQrFUJVl) | 2:33 | 2021-09-25 | 2022-05-14 |
 | [All My Love](https://open.spotify.com/track/0toZdZzqRwF7BnT90E5Pua) | [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [All My Love](https://open.spotify.com/album/5yqKsyGFJpo9eoCpR66LTi) | 2:43 | 2019-08-09\* | 2020-03-29 |
 | [All My Love](https://open.spotify.com/track/3RAgAdJt10E68RQj6NcG7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/2p3AHorjKMnURWK4apzAYt) | 2:49 | 2021-10-23 | 2022-05-14 |

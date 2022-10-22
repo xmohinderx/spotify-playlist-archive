@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 358025,
+  "num_followers": 358513,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDUzYWRlMWVjM2NmZDI5Y2FkODk5YmJkODIzNmRmOGJh",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGQ0YWNhZDU5NjkzM2M5ODQwODRmM2EzODVmZDJhZWZi",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "4 da manh\u00e3",
+        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "4 da manh\u00e3",
+      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "4 da manh\u00e3",
-        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "4 da manh\u00e3",
-      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Pode Se Achegar",
         "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Lisboa-Madrid",
         "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
@@ -555,6 +539,50 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Dizeres",
+        "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Dizeres",
+      "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Mariana Nolasco Sessions 2",
         "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
@@ -587,26 +615,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "No Escuro",
-        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 238384,
-      "name": "No Escuro",
-      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -627,6 +635,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "No Escuro",
+        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 238384,
+      "name": "No Escuro",
+      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Quando Amanhecer",
         "url": "https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR"
       },
@@ -639,34 +667,6 @@
       "duration_ms": 171594,
       "name": "Quando Amanhecer",
       "url": "https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Dizeres",
-        "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 257644,
-      "name": "Dizeres",
-      "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -799,18 +799,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+        "name": "da primeira vez (from the first time)",
+        "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
       "artists": [
         {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
+      "duration_ms": 201183,
+      "name": "da primeira vez (from the first time)",
+      "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -831,22 +835,38 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "da primeira vez (from the first time)",
-        "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
         }
       ],
-      "duration_ms": 201183,
-      "name": "da primeira vez (from the first time)",
-      "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 152376,
+      "name": "TE AMO (em caixa alta)",
+      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -883,26 +903,6 @@
       "duration_ms": 229426,
       "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
       "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Melhor Agora",
-        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 152376,
-      "name": "TE AMO (em caixa alta)",
-      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
     },
     {
       "added_at": "2022-10-14 03:00:00",

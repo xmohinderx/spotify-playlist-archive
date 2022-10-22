@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-230 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+233 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [It Ain't Me](https://open.spotify.com/track/1ngOAftE7NfyGtfy5Fv3el) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [It Ain't Me](https://open.spotify.com/album/1jYLdSozplK2eI9fHLi2Gf) | 3:37 | 2022-05-13 | 2022-08-20 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-05-13 | 2022-08-20 |
 | [Jean Jackets](https://open.spotify.com/track/7scjbEORM6rWarLNN8fKbX) | [Poor Nameless Boy](https://open.spotify.com/artist/1dg1JkQ7rtDMlwAi19pTZp) | [Jean Jackets](https://open.spotify.com/album/2cvnqzZA3e0yHufeRx9E02) | 3:36 | 2022-05-13 | 2022-06-25 |
+| [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2022-10-21 |  |
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-10 | 2022-08-27 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 |  |
 | [Leave When You Go](https://open.spotify.com/track/0SXeE6kClNXeYd4o5blyZZ) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Big Hurt Boy](https://open.spotify.com/album/7h0oaV6ce42bamO6hkywcz) | 3:30 | 2022-05-13 | 2022-06-25 |
@@ -115,11 +116,11 @@
 | [Let Me Drown](https://open.spotify.com/track/62hBYWGwzo2fb4THTsNnKA) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:19 | 2022-05-13 | 2022-08-27 |
 | [Letting Go](https://open.spotify.com/track/6SmgLOxqcRtC6dbZqxkcuB) | [GLDMTH](https://open.spotify.com/artist/5XJso5hUb5gsZQvDiengNA) | [GLDMTH](https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo) | 4:43 | 2022-09-23 |  |
 | [Lost In The Water](https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Lost In The Water](https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4) | 3:10 | 2022-07-01 | 2022-08-31 |
-| [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 | 2022-05-13 |  |
+| [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 | 2022-05-13 | 2022-10-22 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-05-13 | 2022-09-17 |
 | [Love Wouldn't Take Me Back](https://open.spotify.com/track/5a4XN7YQHhgFN2Dbcu28od) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I](https://open.spotify.com/album/4c4wjCUhgmyR2nOGmd9gGl) | 3:59 | 2022-09-16 |  |
 | [Maybe \- Live Acoustic](https://open.spotify.com/track/3dHgx0EUuqsctUJOuPnaa8) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Maybe \(Live Acoustic\)](https://open.spotify.com/album/3Xj9GyEPyLKCL2jRSFfE0s) | 3:35 | 2022-09-30 | 2022-10-15 |
-| [Melbourne](https://open.spotify.com/track/3MKXWNCf5HuFnije8DleCS) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Melbourne](https://open.spotify.com/album/33RsBJcgXW6cIrBgoVfmWO) | 2:59 | 2022-08-26 |  |
+| [Melbourne](https://open.spotify.com/track/3MKXWNCf5HuFnije8DleCS) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Melbourne](https://open.spotify.com/album/33RsBJcgXW6cIrBgoVfmWO) | 2:59 | 2022-08-26 | 2022-10-22 |
 | [Midnight Man](https://open.spotify.com/track/5HyUsFzJ06qWYKW54KGw97) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Midnight Man](https://open.spotify.com/album/5Xhlkgcl7indPnmlVpQR12) | 3:09 | 2022-05-13 | 2022-07-23 |
 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 | 2022-09-23 |  |
 | [Minneapolis](https://open.spotify.com/track/0PSlL3XzReUiZWvH6PYait) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Minneapolis](https://open.spotify.com/album/5hfYMXjskluMkE8rRD5ZLD) | 5:12 | 2022-05-13 | 2022-06-25 |
@@ -146,6 +147,7 @@
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-05-13 | 2022-07-23 |
 | [Opening the Sky](https://open.spotify.com/track/3C5jENIYVwG38O0QkjlAA4) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Opening the Sky](https://open.spotify.com/album/0970umokFEUwY11RwYX7sE) | 4:17 | 2022-09-23 | 2022-10-15 |
 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 | 2022-10-14 |  |
+| [Other Rivers](https://open.spotify.com/track/1Y2Oah15zszzFVtCw0seA3) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Light the Candle, Hold the Mirror](https://open.spotify.com/album/2Z3mENqN7BRKOp8VGJyvwz) | 3:47 | 2022-10-21 |  |
 | [Paper Moth Flame](https://open.spotify.com/track/7Hi5HKcidYR1EdqIKLnVq1) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Paper Moth Flame](https://open.spotify.com/album/0RnFXtW6Xaz4S6AQSdmdaZ) | 3:30 | 2022-07-01 | 2022-07-30 |
 | [Part of Me](https://open.spotify.com/track/2Ru68Iv4ZT40sjxPB2XuSb) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Part of Me](https://open.spotify.com/album/67U9k8R3snre8EAnLbt7o0) | 3:43 | 2022-05-13 | 2022-07-29 |
 | [Part of Me](https://open.spotify.com/track/6yHqOUZB0NzzL2prJQmZdB) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt \(Deluxe\)](https://open.spotify.com/album/7pEhrrMcqjsQRLImLZNhCC) | 3:43 | 2022-07-22 | 2022-10-01 |
@@ -224,6 +226,7 @@
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2022-05-13 | 2022-09-17 |
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 | 2022-09-24 |
 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 |  |
+| [Waves](https://open.spotify.com/track/3jAYnFmQS0H5O4ShG14Ac7) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Waves](https://open.spotify.com/album/5q0GJoKde3ndLUxfTKNrFP) | 3:22 | 2022-10-21 |  |
 | [Westward](https://open.spotify.com/track/1P0IOG572jMDIXR4K0EGwX) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:22 | 2022-05-13 |  |
 | [What In The World](https://open.spotify.com/track/2tnP8nZxy6lx3qow73IZ7A) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [What In The World](https://open.spotify.com/album/36t9kuw9Y14nkK8aOceiFY) | 3:42 | 2022-05-13 | 2022-07-29 |
 | [What in the World](https://open.spotify.com/track/6Bt8N0YVzHZsQYqKIGwmEv) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 3:42 | 2022-07-22 | 2022-09-10 |

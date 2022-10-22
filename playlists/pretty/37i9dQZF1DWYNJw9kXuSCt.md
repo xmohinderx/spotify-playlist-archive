@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 
 > The 2022 nominees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,663 likes - 149 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706 likes - 149 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 | 19 | [Algo Es Mejor](https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:00 |
 | 20 | [Encontrarme](https://open.spotify.com/track/1gi4pwqe5jS2ttbV3lVXOX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 4:41 |
 | 21 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
-| 22 | [Camino Sin Rumbo](https://open.spotify.com/track/4sBmZReoyxYZLRYOd9tp2J) | [Angela Alvarez](https://open.spotify.com/artist/10JqA8e5aUTHSsdK6zRvoV) | [Angela Alvarez](https://open.spotify.com/album/3vfKoRXHpoDFBCpvVbsQin) | 4:02 |
+| 22 | [Camino Sin Rumbo](https://open.spotify.com/track/3lQ7QfmhD8bFxGpOZaiJvq) | [Angela Alvarez](https://open.spotify.com/artist/10JqA8e5aUTHSsdK6zRvoV) | [Angela Alvarez](https://open.spotify.com/album/04esNzQGGw8nrIIimriH0W) | 4:02 |
 | 23 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 |
 | 24 | [Tuyo](https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Tuyo](https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV) | 3:01 |
 | 25 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 | 148 | [¿Cómo Me Ves?](https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:03 |
 | 149 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
 
-Snapshot ID: `MTY2NTUxNzE3NSwwMDAwMDAwMGIzMDU3MTlmM2E1YWFiMzc0ZDYyMzYxMDkxNWY3NTAw`
+Snapshot ID: `MTY2NTUxNzE3NSwwMDAwMDAwMDczYjA3N2U2MmY3ODZjYWYyNTY1ZmUxODlmODhjNzgy`

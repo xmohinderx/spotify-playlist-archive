@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Miko Marks
+> A new shade of Country\. Cover: Shane Smith & the Saints
 
-341 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
+344 songs - 21 hr 12 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Everything She Ain’t](https://open.spotify.com/track/0ENB9P6WtUEKYjQ3dKnK23) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 2:31 | 2022-03-18 |  |
 | [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 | 2022-01-14 | 2022-03-18 |
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-03-25 | 2022-07-30 |
+| [Fire in the Ocean](https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Fire in the Ocean](https://open.spotify.com/album/7oxHI9icBzcPOsAYA0a7g4) | 3:58 | 2022-10-21 |  |
 | [Fire Line](https://open.spotify.com/track/2HMrDjNB4Qw3x28hlXVPJz) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Renewal](https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR) | 4:34 | 2021-12-17 |  |
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-03 |  |
 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 | 2021-12-17 | 2022-03-12 |
@@ -211,7 +212,7 @@
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-19 |  |
 | [Old Before My Time](https://open.spotify.com/track/1QaFCynmvTvyipCwY8d2s0) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [Old Before My Time](https://open.spotify.com/album/2x9OgHhWx59NIU7JV8iTd4) | 3:36 | 2022-10-07 |  |
 | [Old Enough to Know](https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g) | 3:28 | 2021-12-17 |  |
-| [On The Ranch](https://open.spotify.com/track/0mHgo4idHJkSRsv1z7Tuje) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [On The Ranch](https://open.spotify.com/album/5YTaHXkz05dmQdFVbB1JiS) | 2:48 | 2022-08-05 |  |
+| [On The Ranch](https://open.spotify.com/track/0mHgo4idHJkSRsv1z7Tuje) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [On The Ranch](https://open.spotify.com/album/5YTaHXkz05dmQdFVbB1JiS) | 2:48 | 2022-08-05 | 2022-10-22 |
 | [On the Roof](https://open.spotify.com/track/1E3anxRwTDfSt4ORRzugNi) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Moonriser](https://open.spotify.com/album/1bUNx1cbXakYu9pjfDbZsp) | 3:32 | 2022-03-04 | 2022-07-09 |
 | [Once in a Lifetime](https://open.spotify.com/track/68JRR2BErak063DjjCpdYx) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Once in a Lifetime](https://open.spotify.com/album/5V7IaCpGDPdYPoOSdIjyrY) | 4:00 | 2022-02-18 | 2022-04-09 |
 | [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 | 2022-08-26 |  |
@@ -220,7 +221,7 @@
 | [Other Than That](https://open.spotify.com/track/3YlHvC8fJhnQdbCbeEPsS2) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Other Than That](https://open.spotify.com/album/7jEbVyXKzcWE4rJXnES8JO) | 4:18 | 2022-07-08 |  |
 | [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 | 2021-12-17 | 2022-04-29 |
 | [Paint This Town](https://open.spotify.com/track/7vSdW9hmGF0YPbqYcaOnYS) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/16Hp4iMkBsGwu90l2QyYQo) | 3:57 | 2021-12-17 | 2022-04-09 |
-| [Panorama](https://open.spotify.com/track/0pmgZmtGIq5kfoGaOD5RGh) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Panorama](https://open.spotify.com/album/2MqgZPGy5XoByGtlsxYslL) | 3:25 | 2022-07-22 |  |
+| [Panorama](https://open.spotify.com/track/0pmgZmtGIq5kfoGaOD5RGh) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Panorama](https://open.spotify.com/album/2MqgZPGy5XoByGtlsxYslL) | 3:25 | 2022-07-22 | 2022-10-22 |
 | [Paradise](https://open.spotify.com/track/03oJ08eFsEOll82tHJNAY3) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:18 | 2021-12-17 |  |
 | [Paycheck to Paycheck](https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Paycheck to Paycheck](https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B) | 2:36 | 2021-12-17 | 2022-06-18 |
 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 | 2021-12-17 | 2022-04-09 |
@@ -309,13 +310,15 @@
 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 | 2022-02-18 | 2022-08-20 |
 | [Trouble](https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl) | [Sophie & The Broken Things](https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Trouble](https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7) | 3:47 | 2021-12-17 | 2022-01-29 |
 | [Two Timin'](https://open.spotify.com/track/0grVSIK1Dt81ZDMnBGeJ6O) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Two Timin'](https://open.spotify.com/album/404XRPTtRC0I56OL6lcACE) | 3:08 | 2022-05-20 | 2022-07-23 |
+| [Useless](https://open.spotify.com/track/1JHtHEe65WWFypjHAuXB6S) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Useless](https://open.spotify.com/album/29Cep4HZMEuokBgwiNSV6p) | 3:09 | 2022-10-21 |  |
 | [Vanlife](https://open.spotify.com/track/45VMPMgzOLjEc7XHcWXiJJ) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [Vanlife](https://open.spotify.com/album/1R1JBKJdMh57oGTmp37vuF) | 4:46 | 2022-06-17 | 2022-08-13 |
 | [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2021-12-17 | 2022-05-20 |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2021-12-17 | 2022-05-20 |
 | [Wasn't Her Own](https://open.spotify.com/track/35bixwNlqgab7vYz9ZEnAb) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Wasn't Her Own](https://open.spotify.com/album/5QACHd3nkQSDpX5OcVoO7o) | 4:51 | 2021-12-17 | 2022-01-22 |
 | [Wasted Time](https://open.spotify.com/track/5E53ij5aeq9B4HXDMuHh6w) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 2:35 | 2022-06-17 | 2022-07-30 |
 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 | 2022-08-12 |  |
-| [Wave Dancer](https://open.spotify.com/track/6CtAD61FXXrVBxa6ZpckHt) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Wave Dancer](https://open.spotify.com/album/78UZgsGs4m8Q8HD63Beglg) | 4:20 | 2022-02-11 |  |
+| [Wave Dancer](https://open.spotify.com/track/4hWtttxOCrlMZY954i4Kr9) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 4:20 | 2022-10-21 |  |
+| [Wave Dancer](https://open.spotify.com/track/6CtAD61FXXrVBxa6ZpckHt) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Wave Dancer](https://open.spotify.com/album/78UZgsGs4m8Q8HD63Beglg) | 4:20 | 2022-02-11 | 2022-10-22 |
 | [Waxahachie](https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:29 | 2022-04-29 |  |
 | [Way of the Triune God \- Jubilee Version](https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Can I Take My Hounds to Heaven?](https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi) | 3:27 | 2022-09-30 |  |
 | [Welcome 2 Club XIII](https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Welcome 2 Club XIII](https://open.spotify.com/album/5eEe392vaoKZOsVrEIyLsT) | 3:22 | 2022-04-15 | 2022-06-04 |

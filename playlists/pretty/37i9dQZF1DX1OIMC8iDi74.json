@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 866318,
+  "num_followers": 866409,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDE5NWYxODhjOTRiNTYzOTJlZjJlZGQzNTU0MTQ4MzYz",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGQ4NzQ3NzY1ZjZiYTU5Yzk3ZTcxYjVhYjBkYWVkOWE2",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Birdz (with Smokepurpp)",
-        "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Birdz (with Smokepurpp)",
-      "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
       },
@@ -367,38 +347,6 @@
       "duration_ms": 226000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Harlem Shake",
-        "url": "https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 196664,
-      "name": "Harlem Shake",
-      "url": "https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -423,22 +371,54 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+        "name": "Birdz (with Smokepurpp)",
+        "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
       },
       "artists": [
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+      "duration_ms": 162375,
+      "name": "Birdz (with Smokepurpp)",
+      "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Harlem Shake",
+        "url": "https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 196664,
+      "name": "Harlem Shake",
+      "url": "https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -463,6 +443,26 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Leisure Season Vol. 1",
-        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Tanglewood",
         "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 158961,
       "name": "Spanish Moss",
       "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Leisure Season Vol. 1",
+        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "People I Know",
         "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 216428,
       "name": "People I Know",
       "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/55wW59sZIugEKDbbATNigk"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "pronouncedyea",
+          "url": "https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83"
+        }
+      ],
+      "duration_ms": 201008,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "PHASE III",
         "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
       },
@@ -1911,22 +1931,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/55wW59sZIugEKDbbATNigk"
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "pronouncedyea",
-          "url": "https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 201008,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu"
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1943,22 +1959,6 @@
       "duration_ms": 161279,
       "name": "Casper",
       "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "REDloop",
-        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "REDloop",
-      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     },
     {
       "added_at": "2022-09-30 04:00:00",

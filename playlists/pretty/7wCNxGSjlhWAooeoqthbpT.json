@@ -6,7 +6,7 @@
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MTk0Myw1YjZmMzQxZjg4NzBjOTMyOWM0M2M3ZmNhZjBjOTA3NjY1Yzc0MjZh",
+  "snapshot_id": "MTk2MCxlOWE4ZWQyZWRjYzE3OWU5YzVjMWRiYmVkNDY4ZGY2MDg5ZDBiMmRl",
   "tracks": [
     {
       "added_at": "2022-10-07 14:20:01",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
+      "added_at": "2022-10-21 14:44:10",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
       "added_at": "2022-06-24 13:42:09",
       "album": {
         "name": "Give Or Take",
@@ -87,6 +103,22 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2022-10-21 14:40:23",
+      "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "247",
+      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
     },
     {
       "added_at": "2022-09-30 13:41:02",
@@ -139,6 +171,22 @@
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
+    },
+    {
+      "added_at": "2022-10-21 14:47:09",
+      "album": {
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC"
+      },
+      "artists": [
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        }
+      ],
+      "duration_ms": 130813,
+      "name": "Sex Symbol",
+      "url": "https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7"
     },
     {
       "added_at": "2022-04-08 14:53:04",
@@ -253,22 +301,6 @@
       "url": "https://open.spotify.com/track/2Ql8dkIZNyKwUAERBTSKhy"
     },
     {
-      "added_at": "2022-09-09 14:07:52",
-      "album": {
-        "name": "Don't I Make It Look Easy",
-        "url": "https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 154888,
-      "name": "Don't I Make It Look Easy",
-      "url": "https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO"
-    },
-    {
       "added_at": "2022-08-26 13:45:46",
       "album": {
         "name": "something worth working on",
@@ -323,6 +355,26 @@
       "duration_ms": 177073,
       "name": "Bulletproof Maybach (feat. Offset)",
       "url": "https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3"
+    },
+    {
+      "added_at": "2022-10-21 14:46:53",
+      "album": {
+        "name": "THIS IS NOT A DRILL",
+        "url": "https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg"
+      },
+      "artists": [
+        {
+          "name": "Melvoni",
+          "url": "https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 197593,
+      "name": "COUNTING SHEEP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar"
     },
     {
       "added_at": "2022-10-14 12:52:31",
@@ -413,46 +465,6 @@
       "url": "https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv"
     },
     {
-      "added_at": "2022-01-14 14:55:46",
-      "album": {
-        "name": "Do No Wrong (feat. Trippie Redd & PnB Rock)",
-        "url": "https://open.spotify.com/album/3SEsdycdg76Mxjf6o3rAiB"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 179389,
-      "name": "Do No Wrong (feat. Trippie Redd & PnB Rock)",
-      "url": "https://open.spotify.com/track/7CxH1tODk6zn4VrqXmJ0MF"
-    },
-    {
-      "added_at": "2022-09-16 13:34:54",
-      "album": {
-        "name": "CHROME 2",
-        "url": "https://open.spotify.com/album/66bJjMKjGWmuqNTJciStFd"
-      },
-      "artists": [
-        {
-          "name": "Melvoni",
-          "url": "https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA"
-        }
-      ],
-      "duration_ms": 151299,
-      "name": "CHROME 2",
-      "url": "https://open.spotify.com/track/6QrxMhG4AbuC6mQiowGvo9"
-    },
-    {
       "added_at": "2022-06-10 13:36:10",
       "album": {
         "name": "Only You",
@@ -471,6 +483,22 @@
       "duration_ms": 164865,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS"
+    },
+    {
+      "added_at": "2022-10-21 14:48:22",
+      "album": {
+        "name": "KU LO SA",
+        "url": "https://open.spotify.com/album/49t2yBtgMtTnSsFWRp19GO"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "KU LO SA",
+      "url": "https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO"
     },
     {
       "added_at": "2022-09-23 14:25:56",
@@ -523,30 +551,6 @@
       "duration_ms": 192134,
       "name": "Guitars and Drugs",
       "url": "https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD"
-    },
-    {
-      "added_at": "2022-03-25 14:27:51",
-      "album": {
-        "name": "TO THE MOON (Gunna Remix)",
-        "url": "https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 166797,
-      "name": "TO THE MOON - Gunna Remix",
-      "url": "https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx"
     },
     {
       "added_at": "2022-07-29 14:19:24",
@@ -953,26 +957,6 @@
       "url": "https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5"
     },
     {
-      "added_at": "2021-01-15 13:37:45",
-      "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
       "added_at": "2022-10-14 12:52:16",
       "album": {
         "name": "The Best Is Yet to Come",
@@ -1113,28 +1097,20 @@
       "url": "https://open.spotify.com/track/55b6Z85Gr14LgKeBlnJuiz"
     },
     {
-      "added_at": "2022-07-29 14:19:35",
+      "added_at": "2022-10-21 14:40:13",
       "album": {
-        "name": "Propeller (feat. Dave & BNXN)",
-        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+        "name": "COUNTRY TRAP",
+        "url": "https://open.spotify.com/album/3IEYwKGZtYATXBhauRa3n8"
       },
       "artists": [
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Propeller (feat. Dave & BNXN)",
-      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+      "duration_ms": 140487,
+      "name": "COUNTRY TO THE CITY",
+      "url": "https://open.spotify.com/track/1uoymmNEenD0E2jRoW2Zwq"
     }
   ],
   "unique_name": "EPIC VIBES",

@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-105 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/12kc3aOEIzE3ZnCYE8brGK)
+106 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/12kc3aOEIzE3ZnCYE8brGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 | 2020-10-06 |  |
 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 | 2020-10-06 |  |
 | [It's Just a Feeling \- Original 12" Mix](https://open.spotify.com/track/6vC83pgcZz1mO8d2O9Ou9o) | [Terrorize](https://open.spotify.com/artist/70WGcXsH1VPrgXz9kqPda3) | [It's Just a Feeling](https://open.spotify.com/album/4lSWcfjt86cZjznefKNKLs) | 6:52 | 2020-10-06 | 2022-07-05 |
+| [Keep The Fire Burning \- Original](https://open.spotify.com/track/0tehiE4ZCkJKyFN7iuAt8L) | [The House Crew](https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4) | [Ozomatli's Return, Pt\. 1](https://open.spotify.com/album/2cZM4pRGLs2lG5wTQskeAO) | 6:33 | 2020-10-06 |  |
 | [Keep The Fire Burning \- Original 12\-Inch Versions](https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej) | [The House Crew](https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4) | [Techno Party](https://open.spotify.com/album/2DSwIAQeu4bwSSgSplcFCW) | 6:31 | 2020-10-06 | 2022-07-27 |
 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 | 2020-10-06 |  |
 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 | 2020-10-06 |  |
@@ -67,7 +68,7 @@
 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 | 2020-10-06 |  |
 | [On a Ragga Tip '97 \- Original Mix](https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [On a Ragga Tip '97](https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI) | 5:09 | 2020-10-06 |  |
 | [On A Ragga Tip ‘97 \(original Mix\)](https://open.spotify.com/track/7LzePPG7eWPV5TBefnwwvP) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [On A Ragga Tip ‘97](https://open.spotify.com/album/4gXHhO7gttlHkNKIaiRHyX) | 5:09 | 2020-10-06 | 2022-07-29 |
-| [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm) | 5:19 | 2020-10-06 |  |
+| [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm) | 5:19 | 2020-10-06 | 2022-10-22 |
 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 | 2020-10-06 |  |
 | [Out of Space](https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:02 | 2020-10-06 |  |
 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 | 2020-10-06 | 2022-07-29 |

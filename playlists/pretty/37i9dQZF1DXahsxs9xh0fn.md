@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > autumn leaves falling like pieces into place
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,639 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,377 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 | 95 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 |
 | 96 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 |
 | 97 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
-| 98 | [A Dream I Had in My Past Life](https://open.spotify.com/track/5ressNYvOIWP7ofL9iYCoW) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/0QmuKbsoNn6GUxMJBTaQon) | 1:32 |
+| 98 | [A Dream I Had in My Past Life](https://open.spotify.com/track/01nLwmCA68K6rqlVQwV6bs) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/6TZ0b8gl6YLKGYGaeMGbRO) | 1:32 |
 | 99 | [Unofferable](https://open.spotify.com/track/0ApJqHui8iO5UKtg9f1R50) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/02AD7LT0DrQSEkzhmvN7mJ) | 4:06 |
 | 100 | [Give Me Love](https://open.spotify.com/track/7fWXTD51PQ2W9B2lyYlZCN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The A Team](https://open.spotify.com/album/6iBvt4DAGNEJwIvM4vLPms) | 5:23 |
 
-Snapshot ID: `MTY2Mzc5NzEzNSwwMDAwMDAwMDJlYzBjMDM3N2Q0ZTE2ZDEzZGYzN2JmZGM5OWE1NTk5`
+Snapshot ID: `MTY2Mzc5NzEzNSwwMDAwMDAwMGUwY2ViOWM5NzQwZGZjZjdmNjAwZDQyYjRhMmNhZWU5`

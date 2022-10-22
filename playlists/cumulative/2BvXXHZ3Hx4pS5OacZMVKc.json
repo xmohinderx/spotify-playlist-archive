@@ -1268,6 +1268,32 @@
     },
     {
       "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264834,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8"
+    },
+    {
+      "album": {
         "name": "Find You There",
         "url": "https://open.spotify.com/album/2xpDatXqJ7n62gtGutnhOP"
       },

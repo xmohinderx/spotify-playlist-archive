@@ -4,7 +4,7 @@
 
 > indie pop when ur crushing so hard it hurts
 
-247 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
+249 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 | 2021-04-30 | 2022-07-29 |
 | [I Don't Miss You at All](https://open.spotify.com/track/6ee7CHWggDCiHtZdgzqnJG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 2:08 | 2021-04-30 | 2022-07-29 |
 | [i don’t rly like u](https://open.spotify.com/track/4lNtXm1M1pLxMCDx75ad67) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [i don’t rly like u](https://open.spotify.com/album/22I4KbeJfNLOwuew2Rljz1) | 3:25 | 2021-04-30 | 2022-04-19 |
-| [I Just Want to Be the One You Love](https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU) | [Boxout](https://open.spotify.com/artist/45Sf6MYLYtpaoIebiLw1QB) | [I Just Want to Be the One You Love](https://open.spotify.com/album/5ZlnrUGPrJmpXynJwElBws) | 1:20 | 2022-10-06 |  |
+| [I Just Want to Be the One You Love](https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU) | [Boxout](https://open.spotify.com/artist/45Sf6MYLYtpaoIebiLw1QB) | [I Just Want to Be the One You Love](https://open.spotify.com/album/5ZlnrUGPrJmpXynJwElBws) | 1:20 | 2022-10-06 | 2022-10-22 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-05-28 | 2022-07-12 |
 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 | 2022-01-28 | 2022-02-12 |
 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2021-08-13 |  |
@@ -212,6 +212,7 @@
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2021-04-30 | 2022-09-09 |
 | [striptease](https://open.spotify.com/track/2g0Bmi3kYEntusDP6xlAGZ) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/6NhhRbU9p26mbn5byjZ34h) | 2:40 | 2021-09-15 | 2022-07-29 |
 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 | 2022-06-30 | 2022-10-14 |
+| [striptease](https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR) | 2:40 | 2022-10-17 |  |
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-05-25 | 2022-04-21 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-10-18 | 2022-04-21 |
 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 | 2021-04-30 |  |
@@ -233,9 +234,10 @@
 | [u suck](https://open.spotify.com/track/4s01RhVHZSp76UsZc9xbAR) | [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [u suck](https://open.spotify.com/album/4pf9DXu6ePDlQSM5IApkeN) | 3:19 | 2021-04-30 | 2022-04-17 |
 | [Unbothered](https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr) | 2:04 | 2021-04-30 | 2022-04-17 |
 | [voicemail](https://open.spotify.com/track/5CsdNmE7ESC2bZnRwgmiUt) | [DAVIN](https://open.spotify.com/artist/09RjELlXo48h84xDdXzvlP) | [voicemail](https://open.spotify.com/album/3fTVzf17JB0xuCcqj2W09g) | 2:23 | 2021-07-02 | 2022-07-11 |
-| [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2022-05-23 |  |
+| [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2022-05-23 | 2022-10-22 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-30 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-10-06 | 2022-10-21 |
+| [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-10-17 |  |
 | [We Met On The Internet](https://open.spotify.com/track/3GIZN6vaMVBt8euR2ZGFTV) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [We Met On The Internet](https://open.spotify.com/album/7gYD3jx2jeLdCE14S4DWQM) | 1:37 | 2021-04-30 | 2022-05-20 |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2021-04-30 | 2022-07-27 |
 | [what was the last thing u said](https://open.spotify.com/track/7j8Pum7QmJNtFR5mjniLMu) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 3:47 | 2022-01-28 | 2022-07-27 |

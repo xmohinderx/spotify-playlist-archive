@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,416 likes - 101 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,427 likes - 101 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 18 | [Có Hay Từ Bao Giờ?](https://open.spotify.com/track/3QXSennQGgTqhrQ0saHyN8) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Ed.Hast](https://open.spotify.com/artist/6tKesL0hlachfddWwq0Tzm), [KEI](https://open.spotify.com/artist/3TLujYTRHGq5M1Hh11vLYv) | [Có Hay Từ Bao Giờ?](https://open.spotify.com/album/6ogBJt0FJtE63RxCCtTI2Q) | 4:09 |
 | 19 | [OUT OF HOOD](https://open.spotify.com/track/2r10JAoXwARhesYFMEclLI) | [WoogieBoi](https://open.spotify.com/artist/6e96L3MFFvaPscjxZeyHVP), [NKiG](https://open.spotify.com/artist/6qEyZtwwSYgKrqVaI2nODr) | [OUT OF HOOD](https://open.spotify.com/album/6ZAR7EX2oHyUk6x2TkzMXF) | 2:44 |
 | 20 | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/track/27GEOac98FsLBpUNbuElqu) | [Côngg](https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf), [Flo](https://open.spotify.com/artist/5g7lYuYodpAnCItem79gWo), [Tấn Đạt](https://open.spotify.com/artist/282BXAqmQC17lPo9AQ3C0B) | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/album/69vYaI221x74ysstUMm0dO) | 3:53 |
-| 21 | [Hà Nội Đổi Sắc](https://open.spotify.com/track/4h3WMIF62pA9MUR9JnaCyv) | [LYAN](https://open.spotify.com/artist/5XxL3trG0x8T7rJeYHyEbQ), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Hà Nội Đổi Sắc](https://open.spotify.com/album/6I0ANjoQX2RcP6iEVsSm2Z) | 3:45 |
+| 21 | [Hà Nội Đổi Sắc](https://open.spotify.com/track/4h3WMIF62pA9MUR9JnaCyv) | [Lyan](https://open.spotify.com/artist/0ENZtFo3fQYpkOrWboLbIV), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Hà Nội Đổi Sắc](https://open.spotify.com/album/6I0ANjoQX2RcP6iEVsSm2Z) | 3:45 |
 | 22 | [Bạn Trai Tương Lai](https://open.spotify.com/track/78s2Jg7zQ4nDtmr6EaT8tW) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE), [d.khánh](https://open.spotify.com/artist/3cfTrF2z4x9PnGX1iORYk2) | [Bạn Trai Tương Lai](https://open.spotify.com/album/1EsCtnyXRxPyzdjISFlFxP) | 3:41 |
 | 23 | [Call Girl](https://open.spotify.com/track/597yJd30Qhy7ox80bNNw6x) | [Trung Tu](https://open.spotify.com/artist/6NmGVS8nPcqW6tnevWF3Zg) | [23](https://open.spotify.com/album/1ZuBZSGwfKOuXY4rXdTpb9) | 3:35 |
 | 24 | [Lying to myself](https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [sy](https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU) | [Lying to myself](https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N) | 2:56 |

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-214 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+215 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 | 2021-12-09 |  |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2021-12-09 |  |
 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2022-03-25 | 2022-09-13 |
+| [Rising Tide](https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Rising Tide](https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH) | 7:31 | 2022-10-22 |  |
 | [Rissa](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 4:42 | 2021-12-09 |  |
 | [rollacoasta](https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [rollacoasta](https://open.spotify.com/album/6oXbyjfKySarMAKjy6BCQr) | 2:42 | 2022-05-20 | 2022-07-22 |
 | [Romance](https://open.spotify.com/track/22wyV35EezfLo1x4ppf1dq) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Cheekybeefy](https://open.spotify.com/artist/1anJKb6IVtSwR7jAadjF3I) | [Romance](https://open.spotify.com/album/1924eD5uH2WOuyMmI1sYho) | 2:32 | 2021-12-09 | 2022-07-23 |
@@ -187,7 +188,7 @@
 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 | 2021-12-09 | 2022-01-05 |
 | [Svanur \(feat\. Rökkurró\)](https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Rökkurró](https://open.spotify.com/artist/3H5JhEkJ3IKuNT1elqCxQ4) | [Svanur](https://open.spotify.com/album/3g9O3lDO7O4AfW0CuCPKKa) | 4:56 | 2021-12-09 | 2022-05-21 |
 | [Swim](https://open.spotify.com/track/7qHfaAlihkWeA4Xu60v3Pi) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [Swim](https://open.spotify.com/album/5mNaZAGvS4jljaYgQxvYQs) | 2:07 | 2021-12-09 |  |
-| [Swimming Pool](https://open.spotify.com/track/5Dyzk48hvk3GhUzWuxBLTy) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Swimming Pool](https://open.spotify.com/album/6s0HYklZPfRLNtIMnYbli9) | 5:28 | 2022-10-07 |  |
+| [Swimming Pool](https://open.spotify.com/track/5Dyzk48hvk3GhUzWuxBLTy) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Swimming Pool](https://open.spotify.com/album/6s0HYklZPfRLNtIMnYbli9) | 5:28 | 2022-10-07 | 2022-10-22 |
 | [Sïstër](https://open.spotify.com/track/6dnNEVwVUG7hRwVYAyCcV1) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sïstër](https://open.spotify.com/album/6WhIiPn8rVCtFXfk4PBIuS) | 3:23 | 2021-12-09 |  |
 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 | 2021-12-09 | 2022-04-21 |
 | [The Lovers](https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Cathy Battistessa](https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO) | [The Lovers](https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11) | 3:24 | 2022-08-05 |  |

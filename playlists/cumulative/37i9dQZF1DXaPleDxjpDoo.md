@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-75 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
+77 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Izza Bella](https://open.spotify.com/track/04SBXh7gAhybrSgCADK81Y) | [Jacqueline Bain](https://open.spotify.com/artist/7BjP91EWRsme41uhXNRmNK) | [Izza Bella](https://open.spotify.com/album/0n9ruQ1Lw3qLfUDKKMkJwR) | 3:18 | 2022-09-15 |  |
 | [Kensho](https://open.spotify.com/track/5qjMM52Ija5FTDP3NKsRNI) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 4:10 | 2022-09-15 |  |
 | [Key Of Dreams \(Nature\)](https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Key Of Dreams](https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3) | 2:59 | 2022-09-15 |  |
+| [Kokyu](https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Kokyu](https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ) | 4:06 | 2022-10-21 |  |
 | [Leaves Breathing](https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Leaves Breathing](https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5) | 3:18 | 2022-09-15 |  |
 | [Linden Trees](https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Through the Trees](https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z) | 2:29 | 2022-09-15 |  |
 | [Little Forest](https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Little Forest](https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1) | 2:54 | 2022-09-15 |  |
@@ -69,6 +70,7 @@
 | [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 |  |
 | [Self Empathy \- Night Version](https://open.spotify.com/track/3M1zoke7AguNqJls0YVIGz) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Raphael Beaudon](https://open.spotify.com/artist/4XbEtxj5AxINGaASuk3KD6) | [Self Empathy](https://open.spotify.com/album/0F9UrVkjArSjtuLEpg4qiw) | 2:38 | 2022-10-14 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
+| [Sentiment \- Sound Bath](https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Sound Bath](https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j) | 2:42 | 2022-10-21 |  |
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2022-09-15 |  |
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-09-15 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-09-15 |  |

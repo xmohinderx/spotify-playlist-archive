@@ -621,10 +621,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 244346,
       "name": "Betray And Degrade",
       "url": "https://open.spotify.com/track/3XHnaUAFX8PfNMW1hHC75N"
+    },
+    {
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/1IT4YJNnRT4z6WYJarLL2I"
+      },
+      "artists": [
+        {
+          "name": "Betraying The Martyrs",
+          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231762,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4nJzTpnrmdSw6QuAXnZh4S"
     },
     {
       "album": {
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 241800,
       "name": "Elite",
       "url": "https://open.spotify.com/track/3jnYlchDDAiLzfkPPy12ig"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 224586,
       "name": "Funeral Derangements",
       "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
@@ -2155,6 +2173,24 @@
       "duration_ms": 245948,
       "name": "Ghost Shaped People",
       "url": "https://open.spotify.com/track/3DTBBooSCMAo2OcUQeNt2n"
+    },
+    {
+      "album": {
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
     },
     {
       "album": {
@@ -2671,7 +2707,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
@@ -3049,7 +3085,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198552,
       "name": "Let The Chaos Reign",
       "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
@@ -3157,7 +3193,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
@@ -3193,7 +3229,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 224929,
       "name": "Lost in a Wave",
       "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
@@ -3265,7 +3301,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 216760,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
@@ -3975,7 +4011,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 172758,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG"
@@ -4191,7 +4227,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 162866,
       "name": "Rickets",
       "url": "https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ"
@@ -4227,7 +4263,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
@@ -4851,7 +4887,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 289226,
       "name": "The Chapeltown Rag",
       "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
@@ -4977,7 +5013,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "The Heretic Anthem",
       "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
@@ -5111,7 +5147,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 208395,
       "name": "The Violence",
       "url": "https://open.spotify.com/track/0C5X8RJXZNuGO2CfQJumb5"
@@ -5331,7 +5367,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
@@ -5475,7 +5511,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 247693,
       "name": "Waking the Demon",
       "url": "https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT"

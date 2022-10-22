@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-481 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+482 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alameda](https://open.spotify.com/track/7h5VAXxxAm8lYi7vrTHRo6) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Alameda](https://open.spotify.com/album/7LgkvNyeL12xJmTVW6rfTX) | 2:41 | 2021-05-01 | 2022-04-13 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-05-01 | 2022-04-13 |
 | [All Day All Night](https://open.spotify.com/track/2gzKrevrRv9ihRiDItYPBJ) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [All Day All Night](https://open.spotify.com/album/1xZeArCxOOHs2UHWu9Gnzm) | 3:51 | 2022-04-13 | 2022-04-20 |
+| [All I Think About Now](https://open.spotify.com/track/3NfqN997u9A3YAAafgzhIa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/5F9YYEKDxenkRpyuovdqZe) | 3:07 | 2022-10-14 |  |
 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 | 2022-04-13 | 2022-10-13 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-05-01 | 2022-07-28 |
 | [All Or Nothin](https://open.spotify.com/track/1PmLZMYwFqOosXYoRypUuh) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [All Or Nothin](https://open.spotify.com/album/5mTIxr0fRYDGTbTrRyRzS1) | 2:28 | 2021-05-01 | 2022-04-14 |
@@ -305,7 +306,7 @@
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-22 |  |
 | [nightmares](https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [nightmares](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96) | 3:27 | 2021-05-01 | 2022-04-14 |
 | [No Going Back](https://open.spotify.com/track/4AKN68fSI8weZ1dbN35QLi) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/53n71tD6F4I1afwJtjZCVS) | 3:28 | 2021-05-01 | 2022-07-29 |
-| [No Time to Explain](https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [No Time to Explain](https://open.spotify.com/album/5wqULj0mJVw6VDfpOXRMPS) | 2:36 | 2022-10-07 |  |
+| [No Time to Explain](https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [No Time to Explain](https://open.spotify.com/album/5wqULj0mJVw6VDfpOXRMPS) | 2:36 | 2022-10-07 | 2022-10-22 |
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2022-07-22 | 2022-08-30 |
 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 | 2021-05-01 | 2022-04-21 |
 | [Nobody Gets Me \(Like You\)](https://open.spotify.com/track/6XjNM7KyApEaLwRZEZkb0X) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:37 | 2022-04-13 | 2022-04-19 |

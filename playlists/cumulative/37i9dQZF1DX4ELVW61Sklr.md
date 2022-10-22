@@ -4,7 +4,7 @@
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-93 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
+94 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Baby, It's Cold Outside](https://open.spotify.com/track/1lWBgerKZ76ruJf1N8k7wh) | [Timothy Bloom](https://open.spotify.com/artist/4LF6IqmnCvbErXH89NaMAI), [V\. Bozeman](https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI) | [Christmas Time on the Black Hand Side](https://open.spotify.com/album/4NdBLXkRMlGdZMugmm6NeI) | 2:59 | 2021-12-15 | 2022-07-24 |
 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 | 2021-12-15 | 2022-07-29 |
 | [Christmas Morn](https://open.spotify.com/track/6pDdJM1QjrJdnIBrDN00yX) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [My Christmas Album](https://open.spotify.com/album/3AXPIYkc039fwh2DIrWvgl) | 5:21 | 2021-12-15 | 2022-07-28 |
-| [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 | 2021-12-15 |  |
+| [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 | 2021-12-15 | 2022-10-22 |
 | [Christmas Time](https://open.spotify.com/track/2oGprSC13qf6z69Z0LHi5t) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Christmas Time](https://open.spotify.com/album/2t13RYrUWNVlXiUlPFBH2T) | 3:23 | 2021-12-15 | 2022-07-28 |
 | [Christmas Time Is Here](https://open.spotify.com/track/2BhqB61ZY7vrsE6sQ2W1XE) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/3ZaX7lHCPdIXpnOZBeTnKQ) | 4:11 | 2021-12-15 | 2022-07-28 |
 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 | 2021-12-15 |  |
@@ -64,6 +64,7 @@
 | [Messiah Has Come](https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [One Family](https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd) | 4:33 | 2021-12-15 | 2022-07-28 |
 | [Never Knew Christmas](https://open.spotify.com/track/4bEkJ9SO6WwPP42ac3mdD6) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Never Knew Christmas](https://open.spotify.com/album/4AL9Uq8VSBMtwopFHg8CDY) | 5:34 | 2021-12-15 | 2022-07-29 |
 | [Now Behold the Lamb](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 | 2021-12-15 |  |
+| [O Come](https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 5:08 | 2021-12-15 |  |
 | [O Come](https://open.spotify.com/track/4H0wgKjZ4BF1UlwR9f9RkK) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Leanne Palmore](https://open.spotify.com/artist/0bdS6SH2MU4DeXusRn0dxc) | [A Timeless Christmas](https://open.spotify.com/album/1fTjNHtdfcWAKLVqQAL5rs) | 5:08 | 2021-12-15 | 2022-07-29 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:37 | 2021-12-15 | 2022-07-28 |
 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 | 2021-12-15 |  |

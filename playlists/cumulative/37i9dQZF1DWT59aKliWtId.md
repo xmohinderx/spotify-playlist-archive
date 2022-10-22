@@ -4,7 +4,7 @@
 
 > The highest quality blend\. Cover: Local Natives
 
-523 songs - 1 day 7 hr 54 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+524 songs - 1 day 7 hr 58 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 | 2022-01-14 | 2022-05-14 |
 | [Brown Sugar Queen \[Feat\. Janice\]](https://open.spotify.com/track/4IBA7iay6sycCsopkXqpII) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Brown Sugar Queen \[Feat\. Janice\]](https://open.spotify.com/album/7gd3JStkef9zd2CV9Et7BF) | 3:28 | 2022-09-16 |  |
 | [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 | 2022-10-15 |
-| [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-08-19 |  |
+| [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-08-19 | 2022-10-22 |
+| [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2022-10-14 |  |
 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-10 | 2022-09-24 |
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2021-12-10 | 2022-04-09 |
 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 | 2022-02-04 | 2022-04-09 |

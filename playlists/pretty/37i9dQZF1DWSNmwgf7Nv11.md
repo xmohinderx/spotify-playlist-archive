@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,102 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,188 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 141 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 |
 | 142 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 |
 | 143 | [Heathering](https://open.spotify.com/track/6j8AX1UsEt4WQqK1IIVbgS) | [Your Friend](https://open.spotify.com/artist/0shSyn6H4T9cdmM3j0tTnA) | [Gumption](https://open.spotify.com/album/61cxehrTLtnviFkhATZ9mp) | 4:22 |
-| 144 | [Cherry Baby](https://open.spotify.com/track/6fQqDqpmwk55pNMiF0n5mL) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Cherry Baby](https://open.spotify.com/album/62MFHGpQ95ajeK0NfTrFms) | 5:26 |
+| 144 | [Cherry Baby](https://open.spotify.com/track/1BiazS694A1E7aIURdanmB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Cherry Baby](https://open.spotify.com/album/60BbO5iCynpny3YwRjAUq9) | 5:26 |
 | 145 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
 | 146 | [On the Radio](https://open.spotify.com/track/33uOm4KiN69SEZ4k2sKMu0) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Mutual Horse](https://open.spotify.com/album/77NBjLz7WofTazhriPT3X2) | 4:07 |
 | 147 | [Thorn in Your Side](https://open.spotify.com/track/7hp6kYxCzhKWFWJAVcjW0c) | [Mark Harding](https://open.spotify.com/artist/5MP9icTG77f2pjI8ZXlcPI) | [Thorn in Your Side](https://open.spotify.com/album/6NpoLHz7tx6MSqArSedTSP) | 3:37 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDJkOWMyMmVmYTU1MTMxN2I0YTdjZDYwYjRiZTljOTgw`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDY1MTMzZDkxMGU5YmI1Nzk2ZWQyNDkwNzE5OThmODU3`

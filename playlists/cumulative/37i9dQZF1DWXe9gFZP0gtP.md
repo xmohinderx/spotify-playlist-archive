@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-305 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+307 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Lago de Atitlán](https://open.spotify.com/track/08KQZAu0iL2E4CHwwmUIjS) | [Scarlet Becker](https://open.spotify.com/artist/2yLkuHA25r5rTMKZI6iLUN) | [Lago de Atitlán](https://open.spotify.com/album/2wd9XA2cXAZO4L6Wn6qNo2) | 3:12 | 2021-12-17 |  |
 | [Lagoons](https://open.spotify.com/track/47m7taVhh1ktgczbtWmbnG) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Lagoons](https://open.spotify.com/album/71kxOT2YEjtIhURhX8zoGi) | 2:43 | 2022-03-17 |  |
 | [Lahko noč](https://open.spotify.com/track/0djscTMVix3pGLzMJ3D9X8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Čudovita pomlad](https://open.spotify.com/album/14eJeVKMbuxGX0zQ1KI5Ok) | 2:57 | 2021-12-17 |  |
+| [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 |  |
 | [Landing on clouds](https://open.spotify.com/track/10UEnZDKuuAuQitOyVhS6Y) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 2:24 | 2022-07-15 |  |
 | [Last Night](https://open.spotify.com/track/0mEtQh163dmE6NjbaPqf6o) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:07 | 2021-12-17 | 2022-09-03 |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2021-12-17 |  |
@@ -296,6 +297,7 @@
 | [Unforgettable Moments](https://open.spotify.com/track/5lSPw2NndV5W0jQ4TeM3Z4) | [Garda Eulyssos](https://open.spotify.com/artist/0wYXxRlJDi8Z3wrQXwirlb) | [Unforgettable Moments](https://open.spotify.com/album/2cqml9Iy0nvwzcr51ys3YC) | 2:59 | 2022-09-30 |  |
 | [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 | 2022-04-21 |  |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2021-12-17 |  |
+| [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2022-10-21 |  |
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2021-12-17 |  |
 | [Voordat Je Gaat](https://open.spotify.com/track/7pRq9fPCrfEGbjPE5ENqWw) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Voordat Je Gaat](https://open.spotify.com/album/35gk0IOuEfg0d2pmuiZoN8) | 3:08 | 2021-12-17 |  |
 | [Waiting](https://open.spotify.com/track/4ZSGXijB26jEnbOknNDzTT) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Waiting](https://open.spotify.com/album/6VyRgVoqU92qlLzn67RsSJ) | 2:13 | 2021-12-17 |  |

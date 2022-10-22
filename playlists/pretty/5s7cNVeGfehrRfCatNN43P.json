@@ -1,256 +1,284 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10426,
+  "num_followers": 10427,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjQyNSw3MGMxYjYxMTgzYTAxN2JkMDAxN2ZjZGNkNTMzZWFhN2VkZWMzZGM3",
+  "snapshot_id": "MjQzNixjMjE3N2MwZjM4MTlkODFlMjkyNjg5MTdhYmEwNDNlMWU4MGQ4ZWI1",
   "tracks": [
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 13:07:51",
       "album": {
-        "name": "Double Denim",
-        "url": "https://open.spotify.com/album/1PD55j69sO0Ml0IwBi0GMD"
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/2nk5HLphr2POdEPUwpwSVy"
       },
       "artists": [
         {
-          "name": "SKYLAR",
-          "url": "https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA"
+          "name": "SIIGHTS",
+          "url": "https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n"
         }
       ],
-      "duration_ms": 154043,
-      "name": "Double Denim",
-      "url": "https://open.spotify.com/track/0a7IyCuWkmn0emE09Eppy1"
+      "duration_ms": 189758,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/3pKCMnO0A36oKIEIbknixC"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "Call On Me (with Tove Lo)",
-        "url": "https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi"
+        "name": "Delilah (pull me out of this)",
+        "url": "https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 250702,
+      "name": "Delilah (pull me out of this)",
+      "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
+    },
+    {
+      "added_at": "2022-10-21 06:11:06",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/4hlQ4k5nonfDppqRtpBP9p"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 166890,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067"
+    },
+    {
+      "added_at": "2022-10-21 08:09:51",
+      "album": {
+        "name": "Still Love You",
+        "url": "https://open.spotify.com/album/5189y8jvCapLfyfqARCTpK"
+      },
+      "artists": [
+        {
+          "name": "Protection",
+          "url": "https://open.spotify.com/artist/7ylzcNyL5o6XSn8iDuy8eu"
+        }
+      ],
+      "duration_ms": 218203,
+      "name": "Still Love You",
+      "url": "https://open.spotify.com/track/2Cs06D51RTItq33cpVRgKG"
+    },
+    {
+      "added_at": "2022-10-21 06:11:06",
+      "album": {
+        "name": "I Do You",
+        "url": "https://open.spotify.com/album/4kWOTPIUZS8Nf5ZO1lA4ah"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 224343,
+      "name": "I Do You",
+      "url": "https://open.spotify.com/track/3FYNkfnKO2sMK6Xsdt2BFf"
+    },
+    {
+      "added_at": "2022-10-21 06:11:06",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-10-21 06:11:06",
+      "album": {
+        "name": "Lionheart (Fearless)",
+        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 196314,
-      "name": "Call On Me (with Tove Lo)",
-      "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
+      "duration_ms": 186689,
+      "name": "Lionheart (Fearless)",
+      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "Thing For You",
-        "url": "https://open.spotify.com/album/4ABTbFxYXfuFCXmtjSLgsl"
+        "name": "I DON'T LIKE YA",
+        "url": "https://open.spotify.com/album/0uZI30awLCwvs7eeACAtVh"
       },
       "artists": [
         {
-          "name": "Zoe A'dore",
-          "url": "https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY"
+          "name": "kkbutterfly27xx",
+          "url": "https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Thing For You",
-      "url": "https://open.spotify.com/track/5suy4kzP9HFYs468dPVdRo"
+      "duration_ms": 58217,
+      "name": "I DON'T LIKE YA",
+      "url": "https://open.spotify.com/track/4uVTa1dafelhcl4DWuY1dX"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 07:45:22",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
+        "name": "realign",
+        "url": "https://open.spotify.com/album/3IFkgTx4UyMIKBH6tZFven"
       },
       "artists": [
         {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
         }
       ],
-      "duration_ms": 196682,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
+      "duration_ms": 227555,
+      "name": "realign",
+      "url": "https://open.spotify.com/track/5mVqxsl2BeRV0TBRKcWL6v"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 08:03:13",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X"
+        "name": "Dirty Rat",
+        "url": "https://open.spotify.com/album/2XU9aIVtstRYYSn8iJYQa5"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh"
+      "duration_ms": 316200,
+      "name": "Dirty Rat",
+      "url": "https://open.spotify.com/track/6XOQS0gTx1pjsBOeYTCT3P"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/03Ww1YlKYJhGxpMuwHRpEu"
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
       },
       "artists": [
         {
-          "name": "ETHAN",
-          "url": "https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 211525,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/2Wouns1zG20UnftOI29nMI"
+      "duration_ms": 168653,
+      "name": "Surrender My Heart",
+      "url": "https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "My Head",
-        "url": "https://open.spotify.com/album/1t49k729nvRVvD66IVMTbK"
+        "name": "This Is What They Meant",
+        "url": "https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq"
       },
       "artists": [
         {
-          "name": "Valerie Rose",
-          "url": "https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 144521,
-      "name": "My Head",
-      "url": "https://open.spotify.com/track/6pkTMYZwusxzfMomTLUBqw"
+      "duration_ms": 174986,
+      "name": "This Is What They Meant",
+      "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj"
       },
       "artists": [
         {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 210210,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
+      "duration_ms": 175737,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "Crazy Sexy Dream Girl",
-        "url": "https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz"
+        "name": "gold star",
+        "url": "https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G"
       },
       "artists": [
         {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+          "name": "\u016ala",
+          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
         }
       ],
-      "duration_ms": 146633,
-      "name": "Crazy Sexy Dream Girl",
-      "url": "https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT"
+      "duration_ms": 186947,
+      "name": "gold star",
+      "url": "https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI"
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/6BP5hnXVtL2M0mMgDhfp3h"
       },
       "artists": [
         {
-          "name": "lozeak",
-          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+          "name": "The Carmen Show",
+          "url": "https://open.spotify.com/artist/5z1PxeWFRjLp1rAAGtVps5"
+        },
+        {
+          "name": "Eylia",
+          "url": "https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30"
+        },
+        {
+          "name": "Lou Berry",
+          "url": "https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ"
         }
       ],
-      "duration_ms": 134226,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/3N0nHIHc4rXKF3p3lXzXYY"
+      "duration_ms": 231500,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/20yrzkgsfwLwam1G3V8PP1"
     },
     {
-      "added_at": "2022-10-14 09:45:44",
+      "added_at": "2022-10-21 06:11:06",
       "album": {
-        "name": "Only The Paranoid Survive",
-        "url": "https://open.spotify.com/album/1R2n148vqF8apdzHu8Bv9M"
+        "name": "2 Cool 2 Be Somebody",
+        "url": "https://open.spotify.com/album/2DnO2F70y4jUWMHC65awMe"
       },
       "artists": [
         {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
         }
       ],
-      "duration_ms": 182853,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/3ctTrV4zqFNcqsgv0pLskw"
-    },
-    {
-      "added_at": "2022-10-14 09:45:44",
-      "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/5xtihQxf4WD5yNCu1lVQ88"
-      },
-      "artists": [
-        {
-          "name": "Michael Aldag",
-          "url": "https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/1N8YH9HeCuIjdw1xhYtNa6"
-    },
-    {
-      "added_at": "2022-10-14 09:45:44",
-      "album": {
-        "name": "3034",
-        "url": "https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "ROMANCE",
-      "url": "https://open.spotify.com/track/6mgRTLsoOBz9JnBoJ7skl6"
-    },
-    {
-      "added_at": "2022-10-14 09:45:44",
-      "album": {
-        "name": "Last Thing On My Mind",
-        "url": "https://open.spotify.com/album/71oQkQ7jb1iU8HvAdXRwb7"
-      },
-      "artists": [
-        {
-          "name": "Liv Dawson",
-          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
-        }
-      ],
-      "duration_ms": 191499,
-      "name": "Last Thing on My Mind",
-      "url": "https://open.spotify.com/track/0WPEC0DNPVBGHgy8VuHblr"
-    },
-    {
-      "added_at": "2022-10-14 09:45:44",
-      "album": {
-        "name": "SHE SAID HE SAID SHE SAID",
-        "url": "https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 157325,
-      "name": "SHE SAID HE SAID SHE SAID",
-      "url": "https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi"
+      "duration_ms": 187183,
+      "name": "2 Cool 2 Be Somebody",
+      "url": "https://open.spotify.com/track/1KLEHZfhkCNpdhSXMGAGXW"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

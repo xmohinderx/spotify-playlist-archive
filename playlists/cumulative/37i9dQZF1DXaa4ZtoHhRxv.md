@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-123 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+124 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Every Little Thing \- Ruffian Remix](https://open.spotify.com/track/1uPdgOpPVUSoQLvm26XMTC) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Ruffian](https://open.spotify.com/artist/6UY2DjySuGLS8Rvdi8ArnM) | [Every Little Thing \(Ruffian Remix\)](https://open.spotify.com/album/1IKCSGDR1Mhdk9YP1LzeqT) | 3:07 | 2021-12-10 |  |
 | [Eyes on You \- Remix](https://open.spotify.com/track/3vLDkbqnlSwZNF4qka5lik) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(Remix\)](https://open.spotify.com/album/2BR7Zn9jvF7ebVPeGvTz25) | 3:01 | 2021-12-10 |  |
 | [F\-150 \- Remix](https://open.spotify.com/track/3x4bhkIZvvU5Fdlca11FxU) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [F\-150 \(Remix\)](https://open.spotify.com/album/4B6NbS6xeMxxFZatcQK898) | 2:42 | 2021-12-10 |  |
-| [Famous \- MCV Remix](https://open.spotify.com/track/5XKQjfQq9VjIx8jCuo5r0a) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [MCV](https://open.spotify.com/artist/1mjg68pupCgMtmyWbWqMUu) | [Famous: The Remixes](https://open.spotify.com/album/71SqrNbvR2AGkXYK19JhYw) | 3:11 | 2021-12-10 |  |
+| [Famous \- MCV Remix](https://open.spotify.com/track/0MHrkVWTuK6a0LudzTd3bR) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [MCV](https://open.spotify.com/artist/1mjg68pupCgMtmyWbWqMUu) | [Famous: The Remixes](https://open.spotify.com/album/1ELmvshGmYmdlQHlkZgAeN) | 3:11 | 2022-10-14 |  |
+| [Famous \- MCV Remix](https://open.spotify.com/track/5XKQjfQq9VjIx8jCuo5r0a) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [MCV](https://open.spotify.com/artist/1mjg68pupCgMtmyWbWqMUu) | [Famous: The Remixes](https://open.spotify.com/album/71SqrNbvR2AGkXYK19JhYw) | 3:11 | 2021-12-10 | 2022-10-22 |
 | [Fancy \- Dave Audé Remix](https://open.spotify.com/track/2ZuPfysUMPtXSGhFZ7W4Xt) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Rumor Has It \(30th Anniversary Edition\)](https://open.spotify.com/album/164LWFbi9ynXhbbYPOseKo) | 4:44 | 2021-12-10 |  |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-12-10 | 2022-04-29 |
 | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/track/1YW8olrB29icos92vsWPvd) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98) | 2:57 | 2021-12-10 |  |

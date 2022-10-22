@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 115634,
       "name": "1, 2, 3",
       "url": "https://open.spotify.com/track/7AHwKTtkqSYlKbWYa1okI4"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 204255,
       "name": "Amiga Talarica",
       "url": "https://open.spotify.com/track/0pCCkETY2IGljqYFvFESZR"
@@ -557,6 +557,24 @@
       "duration_ms": 150000,
       "name": "As Noites Voltaram",
       "url": "https://open.spotify.com/track/0zjIZQlGOZXRIQLwhp4EKi"
+    },
+    {
+      "album": {
+        "name": "Asas",
+        "url": "https://open.spotify.com/album/3Tx5GyvCxfXJJgJ0S4Wd7Z"
+      },
+      "artists": [
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194579,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/6AIqtpf4qtVWB2470AGEHs"
     },
     {
       "album": {
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 205770,
       "name": "Beethoven",
       "url": "https://open.spotify.com/track/7eLoke72WxoJ04sQZhRlSg"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 150618,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/6F9vbZwKLCvkeSPszuYJtu"
@@ -2082,6 +2100,28 @@
     },
     {
       "album": {
+        "name": "Danada",
+        "url": "https://open.spotify.com/album/2RgIF5HmCfiwQJ6fKHHHxz"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Danada",
+      "url": "https://open.spotify.com/track/1MnSWIkih7JVm1YwQbZYiK"
+    },
+    {
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/2ihHFDpcFRX54c0qzy7Gme"
       },
@@ -2141,7 +2181,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 149161,
       "name": "de volta ao in\u00edcio",
       "url": "https://open.spotify.com/track/5nXF7EEK5IPLmYfGveV5Ie"
@@ -3179,7 +3219,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 197083,
       "name": "Fases",
       "url": "https://open.spotify.com/track/6j33Zfy2COO1YH8v2LvCg7"
@@ -3227,6 +3267,32 @@
       "duration_ms": 183000,
       "name": "Favela",
       "url": "https://open.spotify.com/track/4j6PJ8ghqRvAbz1RyevPyb"
+    },
+    {
+      "album": {
+        "name": "Favela \u00c9 Lugar de Paz",
+        "url": "https://open.spotify.com/album/1OQhgau04fhhe5R8STp6HD"
+      },
+      "artists": [
+        {
+          "name": "indiozin",
+          "url": "https://open.spotify.com/artist/5YPdklXkKahm0Ii2GS6zDx"
+        },
+        {
+          "name": "Krok",
+          "url": "https://open.spotify.com/artist/5GcThTffePDaglozhrG89f"
+        },
+        {
+          "name": "DJ Denilson o cl\u00ednico",
+          "url": "https://open.spotify.com/artist/3AxhmSZxKQruKNmeLqsfQs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264849,
+      "name": "Favela \u00c9 Lugar de Paz (feat. Krok & DJ Denilson o cl\u00ednico)",
+      "url": "https://open.spotify.com/track/3b3EPQlSk0F5A9D0lVKitw"
     },
     {
       "album": {
@@ -4725,7 +4791,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 201081,
       "name": "Luxo & Crime - Remix",
       "url": "https://open.spotify.com/track/5fsa8uP3Iys3ugdbzNZNru"
@@ -5059,6 +5125,44 @@
       "duration_ms": 275312,
       "name": "Melhor Dia 8: Confia",
       "url": "https://open.spotify.com/track/3Qt1QuJ9lmKaY5zBpbrIAV"
+    },
+    {
+      "album": {
+        "name": "Melhor Dia 9 - Imprevis\u00edvel",
+        "url": "https://open.spotify.com/album/308uSWisVb98sne2qdrWo5"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216338,
+      "name": "Melhor Dia 9 - Imprevis\u00edvel",
+      "url": "https://open.spotify.com/track/7hx1k6RDaibeSPPVYHnOai"
     },
     {
       "album": {
@@ -5458,6 +5562,24 @@
     },
     {
       "album": {
+        "name": "Modo Kenner",
+        "url": "https://open.spotify.com/album/6Bs6eSGkuKXk7sJi4neJfN"
+      },
+      "artists": [
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116470,
+      "name": "Modo Kenner",
+      "url": "https://open.spotify.com/track/2yOZsxAJ8F1L9EcurpYb94"
+    },
+    {
+      "album": {
         "name": "Motel",
         "url": "https://open.spotify.com/album/0mEZwUuveHLCu8YAcqoE0w"
       },
@@ -5677,6 +5799,28 @@
       "duration_ms": 147500,
       "name": "N\u00e3o Conta Pra Ningu\u00e9m",
       "url": "https://open.spotify.com/track/1a9KMXtAxy8qDIyht1LQ2z"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Existe Mais Amor Em N\u00f3s",
+        "url": "https://open.spotify.com/album/3iB4WU0QNiJdlhbZfSmOzC"
+      },
+      "artists": [
+        {
+          "name": "Jhow",
+          "url": "https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "N\u00e3o Existe Mais Amor Em N\u00f3s",
+      "url": "https://open.spotify.com/track/4Durg47KFKNnJIRQE3HdNn"
     },
     {
       "album": {
@@ -6047,6 +6191,32 @@
       "duration_ms": 140360,
       "name": "P.I.M.P",
       "url": "https://open.spotify.com/track/5qGlQ9HCio1b1FNV5SjxCV"
+    },
+    {
+      "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/5pqmf3Li9QYilSYOypcT4f"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        },
+        {
+          "name": "Martinnz",
+          "url": "https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147242,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/0Zzn6K3cuKPyDMwmiui3c8"
     },
     {
       "album": {
@@ -6727,7 +6897,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 168781,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/2jsJS2Wg2OviUG1RNKhkD2"
@@ -7116,6 +7286,28 @@
     },
     {
       "album": {
+        "name": "REVERSE",
+        "url": "https://open.spotify.com/album/1YQJnUtRI7utiKvLx8H76m"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176979,
+      "name": "REVERSE",
+      "url": "https://open.spotify.com/track/6EVxMejp12otEEADDqwNbs"
+    },
+    {
+      "album": {
         "name": "Rick & Morty",
         "url": "https://open.spotify.com/album/6IQRWGeCg19DIhAaafXlAX"
       },
@@ -7415,7 +7607,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 126131,
       "name": "Segredo do Sucesso",
       "url": "https://open.spotify.com/track/7H7PLjlOs2cPt1xbUxValf"
@@ -8312,6 +8504,28 @@
     },
     {
       "album": {
+        "name": "Tubo de Lan\u00e7a",
+        "url": "https://open.spotify.com/album/3nP5nxztp0Pye1NzVcWA94"
+      },
+      "artists": [
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        },
+        {
+          "name": "SH1FT",
+          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "Tubo de Lan\u00e7a",
+      "url": "https://open.spotify.com/track/3npXPVCw42oIzh701YkM90"
+    },
+    {
+      "album": {
         "name": "Tudo Certo",
         "url": "https://open.spotify.com/album/12EgWIyU52xIr2Du1h9kUx"
       },
@@ -8575,7 +8789,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 146170,
       "name": "Vencemos Esse Mund\u00e3o",
       "url": "https://open.spotify.com/track/3aNSQtBncZcZh1XzuAqJPB"

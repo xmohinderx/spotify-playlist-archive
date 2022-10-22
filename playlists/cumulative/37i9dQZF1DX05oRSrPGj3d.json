@@ -1126,6 +1126,28 @@
     },
     {
       "album": {
+        "name": "Ragged Old Truck",
+        "url": "https://open.spotify.com/album/0huPK5t9hSCURDDBEk935f"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253803,
+      "name": "Ragged Old Truck (feat. Joshua Hedley)",
+      "url": "https://open.spotify.com/track/1iJ7Yi9Nx1F74WSHhNk38x"
+    },
+    {
+      "album": {
         "name": "Record High",
         "url": "https://open.spotify.com/album/0YORQmcUIWQ0tY8qUXryEg"
       },

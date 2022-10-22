@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-220 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+221 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [In My Room](https://open.spotify.com/track/0uyzIps7qIdNKOVIvR6Ex0) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [In My Room](https://open.spotify.com/album/2LPetL2iAG5jqVLPaKJPHc) | 2:45 | 2021-12-13 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [In Your Eyes](https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV) | 4:42 | 2021-12-13 | 2022-07-29 |
 | [Is This Love](https://open.spotify.com/track/68mzU8iAvNnF3PCidY66K0) | [Sye Elaine Spence](https://open.spotify.com/artist/0q1FB8NHOQ6hWMwMPxnf66) | [Bloom](https://open.spotify.com/album/29zRwYNrzdVkRra1P9aRix) | 3:43 | 2022-01-21 | 2022-07-19 |
-| [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 |  |
+| [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 | 2022-10-22 |
+| [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-14 |  |
 | [Jackson](https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD) | 3:32 | 2021-12-13 | 2022-08-30 |
 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 | 2021-12-13 |  |
 | [Jolene \- Live](https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Pine Hollow \(Live\)](https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j) | 4:13 | 2021-12-13 |  |

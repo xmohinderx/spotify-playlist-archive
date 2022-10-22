@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-224 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+225 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Nocturnal Vibes](https://open.spotify.com/track/5OhMr3bntCGijbYyib6rJp) | [Aron Joyce](https://open.spotify.com/artist/6KY3gZWJmTe3qIPaVoISYq) | [Nocturnal Vibes](https://open.spotify.com/album/4fFKwFxQkJ0uG3SzV5lkvt) | 3:18 | 2021-12-23 |  |
 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 | 2021-12-23 |  |
 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 | 2021-12-23 |  |
-| [O darkest night](https://open.spotify.com/track/529OV81Dqr98MG2TwH4hbq) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [O darkest night](https://open.spotify.com/album/1Unof6GFYGga11mb6pmyfi) | 3:42 | 2021-12-23 |  |
+| [O darkest night](https://open.spotify.com/track/529OV81Dqr98MG2TwH4hbq) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [O darkest night](https://open.spotify.com/album/1Unof6GFYGga11mb6pmyfi) | 3:42 | 2021-12-23 | 2022-10-22 |
 | [Oasis](https://open.spotify.com/track/3wSBG6keI8IMWvaqlEbugZ) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [For a Lifetime](https://open.spotify.com/album/4CIxHPyaHFbrbqh4k3QFPy) | 3:14 | 2021-12-23 |  |
 | [Ocean Deep](https://open.spotify.com/track/7uHM2BSftyHsPLIOGB9oY7) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:35 | 2021-12-23 | 2022-09-03 |
 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 | 2021-12-23 | 2022-07-29 |
@@ -207,6 +207,7 @@
 | [The Garden's Light](https://open.spotify.com/track/72cj11O7lJBQiLu3dXzKLV) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [New Ambitions](https://open.spotify.com/album/2pFPMeYVWjKFW85yCBuJ5Q) | 3:13 | 2022-07-22 | 2022-09-03 |
 | [The Garden's Light](https://open.spotify.com/track/7uLFo7WHyKjEKi5Rm6qe2o) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [New Ambitions](https://open.spotify.com/album/1trY6YX2PRPKp7ZvPKijz6) | 3:13 | 2021-12-23 | 2022-07-29 |
 | [The Gift](https://open.spotify.com/track/1GF0zNrSjuQiw2Y16cYqnW) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [The Gift](https://open.spotify.com/album/1UjHHH07JQoG48ng4746ku) | 2:53 | 2021-12-23 |  |
+| [The Light In Me](https://open.spotify.com/track/0QsrxoErYSFgokFKZ1Hyah) | [Zona Mantra](https://open.spotify.com/artist/0b2Q3tI1HhyAvShmOwCg2W) | [The Light In Me](https://open.spotify.com/album/1iEoSdUOYNQ6W5gtE6vAPq) | 2:43 | 2022-10-21 |  |
 | [The NIght Sky](https://open.spotify.com/track/74BilO0zChICzNl6bXBFWI) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 2:58 | 2021-12-23 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2021-12-23 |  |
 | [This Moment](https://open.spotify.com/track/435xpWs0hfZnFv9BrDvx6a) | [The Beautiful Star](https://open.spotify.com/artist/4V0NOMqZ61n2HOODkKvRrE) | [This Moment](https://open.spotify.com/album/6ZzY2FvGMt36JIfYhLXnsY) | 3:00 | 2021-12-23 |  |

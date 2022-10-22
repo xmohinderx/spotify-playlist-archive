@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-176 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+179 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Beacon](https://open.spotify.com/track/2nFNxlIt3Y6Gw5BAu4bsFg) | [Krell](https://open.spotify.com/artist/0D6r7KnJpwcCFIbxUGJLkX) | [Beacon](https://open.spotify.com/album/0Pty5PD7hYWQ0HGnxS5WxV) | 4:06 | 2022-07-15 |  |
 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 | 2022-09-13 |  |
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2022-07-15 |  |
+| [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 | 2022-10-21 |  |
 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2022-07-15 |  |
 | [Bring You Home](https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Bring You Home](https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1) | 2:41 | 2022-07-15 |  |
 | [By Midnight](https://open.spotify.com/track/5D8YiJqd8vNkBGO1ZSatnG) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [By Midnight](https://open.spotify.com/album/0WcxDmPWwofsGWR9o08WZx) | 2:20 | 2022-08-15 |  |
@@ -50,6 +51,7 @@
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-07-15 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-07-15 |  |
 | [Diem Vesper Commendat](https://open.spotify.com/track/5Kzm98GR30X1sEYWKE2eB9) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Diem Vesper Commendat](https://open.spotify.com/album/2o2NEHkvOll7w1FDD4FLCg) | 3:04 | 2022-07-15 |  |
+| [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 | 2022-10-21 |  |
 | [Dorado Brilla \- Ambient Meditation Music](https://open.spotify.com/track/2UztrDvXxwLaamIDFlDpcT) | [The Earth & I](https://open.spotify.com/artist/7E4rPNiqfq0hG54aXnRwvD) | [Mystic Peru](https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos) | 3:11 | 2022-07-15 | 2022-09-24 |
 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 | 2022-07-15 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-07-15 |  |
@@ -61,7 +63,7 @@
 | [Entering](https://open.spotify.com/track/3RAWbLYWWskUMQHJ12jJDA) | [Memoryan](https://open.spotify.com/artist/7qkMcHkUrGOE4FI4k12kVR) | [Entering](https://open.spotify.com/album/19hV2XAdZmVAU3xkSJ7ORo) | 3:00 | 2022-07-15 |  |
 | [Eternal Light](https://open.spotify.com/track/4wgNpOR7yEZhUoECFUsOzp) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Eternal Light](https://open.spotify.com/album/5szyFhtsLT6GDlqbcrHmzg) | 4:52 | 2022-07-15 |  |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2022-07-15 |  |
-| [Exhale](https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:36 | 2022-07-15 |  |
+| [Exhale](https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:36 | 2022-07-15 | 2022-10-22 |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-07-15 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
 | [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2022-07-15 |  |
@@ -96,6 +98,7 @@
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2022-07-15 |  |
 | [La Lune](https://open.spotify.com/track/2CaJTDQRm5mss61P0dm6OE) | [Cécile Theroux](https://open.spotify.com/artist/2t2cTHZOCw0iz30wBxeTyh) | [La Lune](https://open.spotify.com/album/5P9kFLcgUPazvp1sBXWCqs) | 2:52 | 2022-07-15 |  |
 | [Lakem](https://open.spotify.com/track/5gb5P8hzzC4l2PBMJl0FZF) | [Peaceful Peach](https://open.spotify.com/artist/7swB8qhjWa5PsRA90gjuWd) | [Lakem](https://open.spotify.com/album/2jFecqMEoEYYWCGXbsv4fF) | 3:36 | 2022-07-15 |  |
+| [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-07-15 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-07-15 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |

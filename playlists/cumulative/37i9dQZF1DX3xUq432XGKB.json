@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "BAD\u30e2\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219121,
+      "name": "Face My Fears (English Version)",
+      "url": "https://open.spotify.com/track/71vwMp0XFmCn0sWucZwews"
+    },
+    {
+      "album": {
         "name": "Condition",
         "url": "https://open.spotify.com/album/17Z3b3zcONkAQFS1GJ6AM4"
       },
@@ -599,6 +621,28 @@
       "duration_ms": 358760,
       "name": "Fresh Static Snow",
       "url": "https://open.spotify.com/track/1LikBIcmCec6zE64SHFcMK"
+    },
+    {
+      "album": {
+        "name": "Show Tracks",
+        "url": "https://open.spotify.com/album/6xKK037rfCf2f6gf30SpvL"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Alvin Risk",
+          "url": "https://open.spotify.com/artist/34PyHmCLNSwQGSH2AahyVN"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "Fuji Opener",
+      "url": "https://open.spotify.com/track/0tVv9FxhUjHrhF1DLsDUNH"
     },
     {
       "album": {

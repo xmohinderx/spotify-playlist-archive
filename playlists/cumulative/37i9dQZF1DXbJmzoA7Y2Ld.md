@@ -4,7 +4,7 @@
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-60 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
+61 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 | 2020-12-08 |  |
 | [Get Out of My Life Woman](https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI) | [Watermelon Slim](https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN) | [Church of the Blues](https://open.spotify.com/album/4Zy8gXmsSdNNeVjrmCIq3T) | 3:09 | 2020-12-08 |  |
 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 | 2020-12-08 |  |
-| [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 | 2020-12-08 |  |
+| [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 | 2020-12-08 |  |
+| [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 | 2020-12-08 | 2022-10-22 |
 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 | 2020-12-08 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/2cjmpXHMfblf5Z8Ddzav1w) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:22 | 2020-12-08 |  |
 | [Homemade Disaster](https://open.spotify.com/track/1Vg6Y0vdiBFp1EgF4z397j) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4QNZhx7sTpEWI8Bj5ZtPkH) | 3:14 | 2020-12-08 | 2022-07-29 |

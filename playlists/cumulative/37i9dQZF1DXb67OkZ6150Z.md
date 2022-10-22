@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-355 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+356 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 | 2021-03-12 |  |
 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 | 2021-08-27 |  |
 | [creep](https://open.spotify.com/track/0OcoZJjaHsYmYZhzT3F3oL) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [creep](https://open.spotify.com/album/7g8SNpeL6pJL8ZlFLQ9C27) | 3:30 | 2021-03-19 | 2022-07-16 |
+| [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 | 2022-09-03 |  |
 | [creep](https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:30 | 2021-03-19 | 2022-10-13 |
 | [Creep](https://open.spotify.com/track/1ksI21KXzwp3fY5dYPVAM2) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [The Space Between](https://open.spotify.com/album/22uGWZ5R9AZrLDkwudzHMv) | 3:52 | 2021-07-21 | 2022-04-20 |
 | [Dancing In The Dark](https://open.spotify.com/track/6xTB1RZS2BEsXjcMQSeXtu) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Dancing In The Dark](https://open.spotify.com/album/4Q8PbHWnZX8estrSD3Nt8b) | 3:26 | 2021-10-08 | 2022-07-29 |
@@ -248,7 +249,7 @@
 | [Redondo Beach \- Reprise by La Blogothèque](https://open.spotify.com/track/6TGXQWSWE7ViXgSeu6o8VZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Redondo Beach \(Reprise by La Blogothèque\)](https://open.spotify.com/album/7e86xeTCxPBd0YmnDsfJ3O) | 4:12 | 2021-04-19 | 2022-07-25 |
 | [Retrograde](https://open.spotify.com/track/54AcUipv7UlzaB8RjnqUw7) | [ZEMBU](https://open.spotify.com/artist/62VBDaxSQkTLYkKIXVItGr) | [Retrograde](https://open.spotify.com/album/69qccHRmhIoaVE8NZUUMNC) | 3:13 | 2021-03-12 | 2022-07-02 |
 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 | 2021-03-19 | 2022-07-26 |
-| [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-10-03 |  |
+| [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-10-03 | 2022-10-22 |
 | [Romeo and Juliet](https://open.spotify.com/track/2Qp8gzkYvzANKwLreWj40d) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Romeo and Juliet](https://open.spotify.com/album/2A27vmxWEHF8HZ7tNJ7x2P) | 5:32 | 2021-03-12 | 2022-07-29 |
 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 | 2021-03-12 |  |
 | [Safety Dance](https://open.spotify.com/track/41iyTkS7vxn5sOJTMjOrL8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Safety Dance](https://open.spotify.com/album/7rvR8Bfm6DbVDThl64aVD9) | 3:51 | 2021-08-20 | 2022-07-05 |

@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-193 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+194 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 |  |
 | [Bus Line 200](https://open.spotify.com/track/3M9yRhgrIHDa9SsKOHct9y) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Bus Line 200](https://open.spotify.com/album/3JlpbHB7MYn6VCZjerM9bk) | 2:47 | 2022-05-03 | 2022-07-29 |
 | [Cabin Fever](https://open.spotify.com/track/4P04T22VRDMfG7Yk0SMMxP) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Cabin Fever](https://open.spotify.com/album/5DfoMTrfErjlDnG79h6cKI) | 3:15 | 2021-08-05 | 2022-08-05 |
-| [California Girl](https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0) | 3:57 | 2021-08-05 |  |
+| [California Girl](https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0) | 3:57 | 2021-08-05 | 2022-10-22 |
 | [Can Someone Take Me Home?](https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V) | [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [Can Someone Take Me Home?](https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ) | 3:34 | 2022-02-25 |  |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-02-04 | 2022-07-16 |
 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 | 2021-08-05 |  |
@@ -134,6 +134,7 @@
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2021-10-21 | 2022-04-30 |
 | [Peur des filles \- Montmartre Remix](https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Peur des filles \(Montmartre Remix\)](https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO) | 2:46 | 2021-08-05 |  |
 | [PIE](https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB) | 2:56 | 2022-01-21 | 2022-10-09 |
+| [PIE](https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5) | 2:56 | 2022-10-06 |  |
 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2022-05-03 | 2022-07-02 |
 | [pretending](https://open.spotify.com/track/6JdsPCckuimQaRQgDhTpB9) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:38 | 2021-11-12 | 2022-07-22 |
 | [Pretty Face](https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Pretty Face](https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU) | 2:59 | 2022-06-03 |  |

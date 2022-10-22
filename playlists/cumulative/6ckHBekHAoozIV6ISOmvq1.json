@@ -555,7 +555,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 192133,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Planctus cigne",
       "url": "https://open.spotify.com/track/41oyolCorjqEA815BtB3f4"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 502666,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Virgines caste",
       "url": "https://open.spotify.com/track/48sYaVLf5VcnEMRW9Zg5t3"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 327493,
       "name": "Ahi, amours, con dure departie",
       "url": "https://open.spotify.com/track/6MdDeQdhTuwnzmeag47oAw"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 311266,
       "name": "Ahi, amours, con dure departie",
       "url": "https://open.spotify.com/track/3k4FgoOcjxuwJy7gnc0REZ"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 283160,
       "name": "Ama chi t'ama",
       "url": "https://open.spotify.com/track/6tHwzwMriU7xdwdWJLR6hn"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 242226,
       "name": "Amour, tenson et bataille",
       "url": "https://open.spotify.com/track/5jFqkkOkTQFZmicM2RyS7G"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 723506,
       "name": "Amours qui biens ses enchanter",
       "url": "https://open.spotify.com/track/4gHqdwqlZXoSSb0dwcIjct"
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 423933,
       "name": "Bietris est mes delis",
       "url": "https://open.spotify.com/track/5soicLhevzwE3Cwc3rJkCX"
@@ -3903,7 +3903,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 187800,
       "name": "Comment que, pour l'\u00e9loignance",
       "url": "https://open.spotify.com/track/0T1psUvL4tO0EEgpjJNDdr"
@@ -4443,7 +4443,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 249520,
       "name": "Danca Amorosa: Danca amorosa - Troto [Additional 29987]",
       "url": "https://open.spotify.com/track/0yTRIe6r1lmpy4hnAIMaWI"
@@ -4991,7 +4991,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 444800,
       "name": "Dilectus iste - Quoniam dominus - Os tuum inquiens - Milibus argenti",
       "url": "https://open.spotify.com/track/45NxpTZdtCINxmNtdgusZt"
@@ -5527,7 +5527,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 443693,
       "name": "En mai, quant li rossignolez (In May, when nightingales sing clear)",
       "url": "https://open.spotify.com/track/6q8MFib4qRWMWjAbbIwN0Q"
@@ -5603,6 +5603,28 @@
       "duration_ms": 276733,
       "name": "Entendez tuit ensemble",
       "url": "https://open.spotify.com/track/6vWAb1YPrRSblVUUJnHs90"
+    },
+    {
+      "album": {
+        "name": "Ave Eva: Chansons de femmes des XIIe et XIIIe si\u00e8cles",
+        "url": "https://open.spotify.com/album/0FHMk3rg0QyW65exdygbyd"
+      },
+      "artists": [
+        {
+          "name": "Gautier De Coincy",
+          "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
+        },
+        {
+          "name": "Brigitte Lesne",
+          "url": "https://open.spotify.com/artist/3IVY33qtUPVAdoprVjn69d"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269160,
+      "name": "Entendez tuit ensemble (Chanson mariale)",
+      "url": "https://open.spotify.com/track/59thyLhVo9zq8xmBVoa9z1"
     },
     {
       "album": {
@@ -6463,7 +6485,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 345026,
       "name": "Ghaetta [Italian, 14th Century]",
       "url": "https://open.spotify.com/track/3gOEGVAtrx6FG7aSdLPJKF"
@@ -6957,7 +6979,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 209493,
       "name": "I bei sembianti",
       "url": "https://open.spotify.com/track/0HpZeGHKOJ6zDP3TkjSfBP"
@@ -7375,7 +7397,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 402960,
       "name": "Isabella [Italian, 14th Century]",
       "url": "https://open.spotify.com/track/0sCIuwWVniLKYuKh1JvoDV"
@@ -8225,7 +8247,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 470230,
       "name": "La bella stella",
       "url": "https://open.spotify.com/track/3GvELTb0qMLxhn16hpPcS6"
@@ -8411,7 +8433,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 223213,
       "name": "La plus belle et doulce figure",
       "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
@@ -8441,7 +8463,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 194573,
       "name": "La plus jolie",
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
@@ -9559,7 +9581,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -11615,7 +11637,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -11671,7 +11693,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 198560,
       "name": "Pal\u00e4stinalied",
       "url": "https://open.spotify.com/track/7xSRVPjj7WfO2GYNontpeZ"
@@ -12431,7 +12453,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 673786,
       "name": "Principio di virtu [Additional 29987]",
       "url": "https://open.spotify.com/track/2E67gjhpVte8MyX2nAxuOS"
@@ -12699,7 +12721,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 366813,
       "name": "Quand l'herba fresca",
       "url": "https://open.spotify.com/track/3CWQsGWF09wgPQipTLrAF5"
@@ -12743,7 +12765,7 @@
       ],
       "date_added": "2020-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 295640,
       "name": "Quand'Amor - Canzone",
       "url": "https://open.spotify.com/track/0Wuvf9euZ42qRxjDG0KXXH"
@@ -13231,7 +13253,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 289800,
       "name": "Renverdie",
       "url": "https://open.spotify.com/track/6ZhiwvzK2VkKRtw426VMlC"
@@ -13567,7 +13589,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 326333,
       "name": "Sancti spiritus assit nobis gratia",
       "url": "https://open.spotify.com/track/6AhzFVGyUCw7HpdKorZ1k6"
@@ -14567,7 +14589,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 461186,
       "name": "Tre Fontane",
       "url": "https://open.spotify.com/track/7xWfcCfyNFHHK7eH7Ae5NU"
@@ -14935,7 +14957,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 381997,
       "name": "Under der Linden",
       "url": "https://open.spotify.com/track/0kmL21HzbwQAyhCjhaXp7p"

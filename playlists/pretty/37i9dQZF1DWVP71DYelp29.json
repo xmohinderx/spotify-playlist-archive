@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Harry Styles.",
-  "num_followers": 726439,
+  "num_followers": 726509,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMDFjMjJhMzVjYThlZGFhZWExMDc1ZDhhMDZjMGNmYjE3",
+  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMDUxZTc1NGFmZDUzMTcwMjVlNGQyYzllNzEzZTkzYWJm",
   "tracks": [
     {
       "added_at": "2022-09-01 18:43:04",
@@ -344,6 +344,38 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 202684,
+      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
       },
       "artists": [
@@ -408,38 +440,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 202684,
-      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL"
       },
       "artists": [
@@ -476,6 +476,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 231629,
+      "name": "I Fall Apart - Recorded At Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },
       "artists": [
@@ -491,22 +507,6 @@
       "duration_ms": 225005,
       "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 231629,
-      "name": "I Fall Apart - Recorded At Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -536,22 +536,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
       },
       "artists": [
@@ -563,6 +547,22 @@
       "duration_ms": 215281,
       "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -616,6 +616,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
       },
       "artists": [
@@ -663,22 +679,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -884,22 +884,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Beyond - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
       "artists": [
@@ -911,6 +895,22 @@
       "duration_ms": 192146,
       "name": "2002 - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Beyond - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1228,6 +1228,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 163398,
+      "name": "Buy U A Drank - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z"
       },
       "artists": [
@@ -1243,22 +1259,6 @@
       "duration_ms": 229040,
       "name": "Young Dumb & Broke - Recorded At The Colosseum, Caesars Palace, Las Vegas",
       "url": "https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 163398,
-      "name": "Buy U A Drank - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1376,6 +1376,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN"
       },
       "artists": [
@@ -1419,22 +1435,6 @@
       "duration_ms": 214750,
       "name": "Hunger - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1940,22 +1940,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1qDcShgiXVQuYfaauFlTCf"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 229478,
-      "name": "Irony - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/1ywnaTYLV3HRmF5PHhfgig"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG"
       },
       "artists": [
@@ -1972,6 +1956,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1qDcShgiXVQuYfaauFlTCf"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 229478,
+      "name": "Irony - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/1ywnaTYLV3HRmF5PHhfgig"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
       },
       "artists": [
@@ -1983,22 +1983,6 @@
       "duration_ms": 228478,
       "name": "Coloring Outside The Lines - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -2024,17 +2008,17 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
+        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
         }
       ],
-      "duration_ms": 163903,
-      "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
+      "duration_ms": 261586,
+      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -2051,6 +2035,22 @@
       "duration_ms": 184752,
       "name": "Oops (Oh My) - Spotify Singles",
       "url": "https://open.spotify.com/track/5qYEH8inKVQiNdkZWG9YZv"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 163903,
+      "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
     },
     {
       "added_at": "2022-05-27 17:31:46",

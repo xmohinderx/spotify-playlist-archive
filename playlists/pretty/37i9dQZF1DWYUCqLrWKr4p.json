@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 120015,
+  "num_followers": 120216,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDYwMDc0M2QxN2RjNjU1NGI1ZWVmNDA2NmNlMWU3YTZl",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDkwNzM1YzUzZTFlZThkYTc3NzY0YjY3MjU0OWUyYjQ4",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Maurice Williams and The Zodiacs",
         "url": "https://open.spotify.com/album/2TGFqDERcMklYUZiURnvll"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 99213,
       "name": "Stay - Rerecorded",
       "url": "https://open.spotify.com/track/4jtxk24eyUY3F9y3ucjxe0"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
     },
     {
       "added_at": "2022-05-30 13:02:24",

@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-275 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+276 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Observatory](https://open.spotify.com/track/03cokFHBxSgFZxfVJ0N8U6) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [Observatory](https://open.spotify.com/album/4LJiWGLyWHTGouMFDRVoom) | 2:14 | 2022-04-12 | 2022-07-29 |
 | [Observatory](https://open.spotify.com/track/6IbVND7VnLo5wVDAFZs5Tf) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [Observatory](https://open.spotify.com/album/0XuLa3kPxRlThLGCkNni0r) | 2:14 | 2022-09-09 |  |
 | [Octagonic](https://open.spotify.com/track/64Y0uVoqEkZ75mIRU8yxtC) | [Luwaks](https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr) | [Stupid Lies](https://open.spotify.com/album/0TOxF30glvIvhwJjTc6dJU) | 2:56 | 2022-04-12 |  |
-| [Oh!](https://open.spotify.com/track/6CJI4zpW77MHwmRo5DCsGk) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 4:08 | 2022-04-12 |  |
+| [Oh!](https://open.spotify.com/track/2yjRx5E794bHknceHZQdK0) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 4:08 | 2022-09-09 |  |
+| [Oh!](https://open.spotify.com/track/6CJI4zpW77MHwmRo5DCsGk) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 4:08 | 2022-04-12 | 2022-10-22 |
 | [On My Mind](https://open.spotify.com/track/5Use6EepmS9Z7wAUPy3Kp4) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [On My Mind](https://open.spotify.com/album/4ziUvPHpu8HcoepOdMEmzp) | 2:33 | 2022-04-12 |  |
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2022-04-12 |  |
 | [One Line](https://open.spotify.com/track/2DzL6LCF0GOxQIcbQitEOm) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [OTHERLiiNE](https://open.spotify.com/album/0XsqhKLzKCGw2q0VAT58Xj) | 5:24 | 2022-04-12 |  |

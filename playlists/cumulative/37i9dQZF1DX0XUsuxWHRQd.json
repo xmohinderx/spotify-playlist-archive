@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Lil Baby, Juice WRLD and Lil Yachty. ",
+  "description": "New music from Lil Uzi Vert, Roddy Ricch and A Boogie Wit da Hoodie.",
   "name": "RapCaviar",
   "published_playlist_ids": [
     "5P8tKmuueRelbQ17C8xRQo"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 182325,
       "name": "54321",
       "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
@@ -741,6 +741,28 @@
       "duration_ms": 159573,
       "name": "9 TIMES OUTTA 10",
       "url": "https://open.spotify.com/track/5bgbb8KMAZreVHzh3bRPS5"
+    },
+    {
+      "album": {
+        "name": "90 Proof (with J. Cole)",
+        "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208269,
+      "name": "90 Proof (with J. Cole)",
+      "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
     },
     {
       "album": {
@@ -1486,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
+    },
+    {
+      "album": {
         "name": "At The Top",
         "url": "https://open.spotify.com/album/7fQLpnEw13xochCUd776UZ"
       },
@@ -1845,6 +1885,24 @@
       "duration_ms": 156532,
       "name": "Back At It (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/07twUUK8jWUCVsrSoEgbLW"
+    },
+    {
+      "album": {
+        "name": "Back End",
+        "url": "https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165478,
+      "name": "Back End",
+      "url": "https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC"
     },
     {
       "album": {
@@ -8481,7 +8539,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 188059,
       "name": "FOR FUN",
       "url": "https://open.spotify.com/track/60PTOzcoFycWBICdumIsFQ"
@@ -10219,7 +10277,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 238333,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
@@ -12501,7 +12559,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -12711,6 +12769,24 @@
       "duration_ms": 174545,
       "name": "Just Say That (feat. OMB Bloodbath & BRS Kash)",
       "url": "https://open.spotify.com/track/2L0quvx4LOVp3KiSJBZc0V"
+    },
+    {
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "album": {
@@ -15539,7 +15615,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -17520,6 +17596,24 @@
     },
     {
       "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "album": {
         "name": "Only The Team (with Lil Mosey & Lil Tjay)",
         "url": "https://open.spotify.com/album/7oEKNLjZtm5UEIezuR2Hfy"
       },
@@ -18519,7 +18613,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 148571,
       "name": "Pimpin A Bitch",
       "url": "https://open.spotify.com/track/3gqTyw7JosxKm3eFMwOpk9"
@@ -19492,6 +19586,32 @@
     },
     {
       "album": {
+        "name": "SNOFALL",
+        "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116906,
+      "name": "Put The Minks Down (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/6hFAavE0EiilAXtubEpEW0"
+    },
+    {
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -19991,7 +20111,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 207306,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS"
@@ -24758,6 +24878,28 @@
     },
     {
       "album": {
+        "name": "Take Shots (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281985,
+      "name": "Take Shots (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
+      "album": {
         "name": "Lyf\u00eb",
         "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
       },
@@ -24769,7 +24911,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"

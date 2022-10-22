@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 27368,
+  "num_followers": 27424,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDE1MDkzYjJmMmM5MzNjNGY2ZTZhZTBiNzkzZWU1OTU3",
+  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDJkMDIwZjY4ODM1NTY5ODdlZGMzZmI4MTE4NmE0YzFj",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:11",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Nothing But the Blues (Live)",
-        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 430106,
-      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
-      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "The Complete Vanguard Recordings",
         "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
       },
@@ -295,18 +279,18 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+        "name": "Nothing But the Blues (Live)",
+        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 142800,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF"
+      "duration_ms": 430106,
+      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
+      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -323,6 +307,22 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Juice Head Baby",
-      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "All Blues",
         "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Juice Head Baby",
+      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
         "name": "Man of the World: The Anthology 1968-1988",
         "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
         }
       ],
-      "duration_ms": 208732,
-      "name": "It Serves Me Right to Suffer - Remastered",
-      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -651,18 +635,18 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Live At The Regal",
-        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 158333,
-      "name": "Help The Poor",
-      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
+      "duration_ms": 208732,
+      "name": "It Serves Me Right to Suffer - Remastered",
+      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -679,6 +663,22 @@
       "duration_ms": 224840,
       "name": "I Shall Know Him",
       "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Help The Poor",
+      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
     },
     {
       "added_at": "2022-08-19 17:36:11",

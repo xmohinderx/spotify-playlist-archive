@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,223 songs - 2 day 14 hr 37 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
+1,224 songs - 2 day 14 hr 40 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/5tmHc2HW2xaMkUmI4s15nC) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/7HQsaFGNwdn1DagZm6lfqV) | 2:46 | 2021-06-05 | 2021-06-06 |
 | [Lose Myself](https://open.spotify.com/track/4KpbD67QmMxvdSVGOGiqlj) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Lose Myself](https://open.spotify.com/album/6Ud9eHOMhGXYoYhWjavlDk) | 3:25 | 2020-01-27 | 2022-04-21 |
 | [Lose Somebody](https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Lose Somebody](https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc) | 3:19 | 2020-05-18 | 2022-07-29 |
+| [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 | 2022-10-06 |  |
 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2021-06-18 | 2022-07-29 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2022-04-07 | 2022-04-16 |
 | [Love \(Sweet Love\)](https://open.spotify.com/track/1kSfwOauMxFm9cgYiNfsiL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Love \(Sweet Love\)](https://open.spotify.com/album/6gDaHYlZ8e72yv6cNjxWMl) | 3:40 | 2021-10-10 | 2022-04-14 |
@@ -1019,7 +1020,7 @@
 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 | 2020-09-04 | 2022-04-18 |
 | [Sweet but Psycho](https://open.spotify.com/track/25sgk305KZfyuqVBQIahim) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho](https://open.spotify.com/album/7CdLU3GgPy1PH5FVsrPlyA) | 3:07 | 2019-07-31 | 2020-03-06 |
 | [Sweet Dreams](https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/7ihIr7mrNqtqqqSUG5Ts7I) | 2:18 | 2021-06-11 | 2022-04-21 |
-| [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-09-29 |  |
+| [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-09-29 | 2022-10-22 |
 | [Sweet Emotions](https://open.spotify.com/track/0YkUyHza80xODergtHM0jN) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Sweet Emotions](https://open.spotify.com/album/5izaJKAXuaphwyq8qxpGhk) | 3:18 | 2020-06-12 | 2020-09-04 |
 | [Sweet Melody](https://open.spotify.com/track/28xX6K8LnkZve4RiuEB3iK) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Sweet Melody](https://open.spotify.com/album/5GGIgiGtxIgcVJQnsKQW94) | 3:33 | 2020-10-24 | 2022-05-24 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-11-25 | 2022-07-29 |

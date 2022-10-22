@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,534 likes - 126 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,699 likes - 126 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 82 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 |
 | 83 | [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 |
 | 84 | [nirvana \(feat\. Phabo\)](https://open.spotify.com/track/66Sp0wdgH5gQyF98HsNXUc) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [nirvana \(feat\. Phabo\)](https://open.spotify.com/album/0oAh6hodhbQgqjIBviVJwX) | 2:33 |
-| 85 | [Say Yes](https://open.spotify.com/track/13fNMFyJlv5LoG69ZUzXmt) | [Precious](https://open.spotify.com/artist/1aL3SWgDCQMeJPFn8Yrp7e) | [Say Yes](https://open.spotify.com/album/42OUYVicZ4ATS29nlrsXb1) | 2:56 |
+| 85 | [Say Yes](https://open.spotify.com/track/13fNMFyJlv5LoG69ZUzXmt) | [Precious](https://open.spotify.com/artist/4bVL2bLOv1PLQXHDWXNMPE) | [Say Yes](https://open.spotify.com/album/42OUYVicZ4ATS29nlrsXb1) | 2:56 |
 | 86 | [Patience](https://open.spotify.com/track/04jHnmn1pYe9Pj8DzC0A7z) | [Kalenbree](https://open.spotify.com/artist/7hu8hEXPfDyrrVhlqt8Hyq) | [Patience](https://open.spotify.com/album/7hTxXBAtN2wlAqcd844IC0) | 2:46 |
 | 87 | [Blame Me](https://open.spotify.com/track/6SKkgrMcSnI2M6QIOt1xju) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Blame Me](https://open.spotify.com/album/2dXYAAZlYGkWTbhFeDrkvH) | 3:30 |
 | 88 | [H2O \(interlude\)](https://open.spotify.com/track/4ro4MdSpOToY9QipeppA1s) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [H2O \(interlude\)](https://open.spotify.com/album/7F7BtL68Fv5ZtIZ95V41v9) | 2:04 |

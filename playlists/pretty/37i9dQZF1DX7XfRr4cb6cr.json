@@ -1,12 +1,12 @@
 {
   "description": "Hymns for darker hours.",
-  "num_followers": 59732,
+  "num_followers": 59965,
   "original_name": "Dark Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MjgzMSwwMDAwMDAwMDllZDZlOTA4ZDVkYjE2NjVhYjdmNzg0ZWFmNTg0YTc4",
+  "snapshot_id": "MTY2NTc2MjgzMSwwMDAwMDAwMDRhYjNlZDBhYmM2MWE2NjlkYjNhN2YwNmRmOTY5NTA2",
   "tracks": [
     {
       "added_at": "2022-10-14 15:53:51",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 123003,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
         "name": "Dark Blood",
         "url": "https://open.spotify.com/album/1wks1CncRvFznFtAS1bjYU"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 338431,
       "name": "Hyna Ruje",
       "url": "https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 123003,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Erased Dreams",
-        "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 283267,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/0FmRg5WRovLobLLeUiMXwo"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
         "name": "In Light Of Blues",
         "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 187245,
       "name": "Melancholy Movement",
       "url": "https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "Erased Dreams",
+        "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 283267,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0FmRg5WRovLobLLeUiMXwo"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+        "name": "The Practice Of Surrender",
+        "url": "https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL"
       },
       "artists": [
         {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+          "name": "Orphan Ann",
+          "url": "https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK"
         }
       ],
-      "duration_ms": 103578,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/603qsBFMCGXburZt057Wv3"
+      "duration_ms": 300521,
+      "name": "Vi \u00e4r \u00f6verallt",
+      "url": "https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "The Practice Of Surrender",
-        "url": "https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL"
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
       "artists": [
         {
-          "name": "Orphan Ann",
-          "url": "https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK"
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
         }
       ],
-      "duration_ms": 300521,
-      "name": "Vi \u00e4r \u00f6verallt",
-      "url": "https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG"
+      "duration_ms": 103578,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/603qsBFMCGXburZt057Wv3"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Jonasson",
-          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
-        }
-      ],
-      "duration_ms": 260250,
-      "name": "Time Dilation",
-      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
         "name": "A Body Turns To Eden",
         "url": "https://open.spotify.com/album/3gYajjdwhAWF8Pzbl0xKAm"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Stumhetens toner",
-        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
       },
       "artists": [
         {
-          "name": "Isorinne",
-          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
+          "name": "Fredrik Jonasson",
+          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
         }
       ],
-      "duration_ms": 304832,
-      "name": "T\u00e5rl\u00f6s sorg",
-      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
+      "duration_ms": 260250,
+      "name": "Time Dilation",
+      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -867,18 +851,18 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Morals and Dogma",
-        "url": "https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z"
+        "name": "Stumhetens toner",
+        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
       },
       "artists": [
         {
-          "name": "Deathprod",
-          "url": "https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO"
+          "name": "Isorinne",
+          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
         }
       ],
-      "duration_ms": 1115023,
-      "name": "Dead People's Things",
-      "url": "https://open.spotify.com/track/26slB6pfz5F8T723pMq32K"
+      "duration_ms": 304832,
+      "name": "T\u00e5rl\u00f6s sorg",
+      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
+        "name": "Morals and Dogma",
+        "url": "https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z"
+      },
+      "artists": [
+        {
+          "name": "Deathprod",
+          "url": "https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO"
+        }
+      ],
+      "duration_ms": 1115023,
+      "name": "Dead People's Things",
+      "url": "https://open.spotify.com/track/26slB6pfz5F8T723pMq32K"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
         "name": "Reflection Of Light",
         "url": "https://open.spotify.com/album/2AjKlK9aWlC2DAZydHWfHO"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 153052,
       "name": "Trees",
       "url": "https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 333293,
+      "name": "Dandelion Heart",
+      "url": "https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Arborescence",
-        "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
-      },
-      "artists": [
-        {
-          "name": "\u00dalfur",
-          "url": "https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Serpentine",
-      "url": "https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH"
       },
@@ -963,34 +963,18 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Shadow Box",
-        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
+        "name": "Arborescence",
+        "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
       "artists": [
         {
-          "name": "Vanity Productions",
-          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
+          "name": "\u00dalfur",
+          "url": "https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi"
         }
       ],
-      "duration_ms": 518000,
-      "name": "Melts All Your Memories",
-      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
-        "name": "The Alias Sessions",
-        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 333293,
-      "name": "Dandelion Heart",
-      "url": "https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k"
+      "duration_ms": 221520,
+      "name": "Serpentine",
+      "url": "https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "It Should've Happened A Long Time Ago",
-        "url": "https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm"
+        "name": "Shadow Box",
+        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
       },
       "artists": [
         {
-          "name": "Paul Motian Trio",
-          "url": "https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw"
+          "name": "Vanity Productions",
+          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
         }
       ],
-      "duration_ms": 183066,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/4sOeCVCew7f63JaVnflu2U"
+      "duration_ms": 518000,
+      "name": "Melts All Your Memories",
+      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1043,6 +1027,22 @@
       "duration_ms": 176000,
       "name": "Floor Position",
       "url": "https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "It Should've Happened A Long Time Ago",
+        "url": "https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm"
+      },
+      "artists": [
+        {
+          "name": "Paul Motian Trio",
+          "url": "https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/4sOeCVCew7f63JaVnflu2U"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Gleam (Stilhed Rework)",
-        "url": "https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB"
+        "name": "Winter Ashes",
+        "url": "https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N"
       },
       "artists": [
         {
-          "name": "Infralyd",
-          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
-        },
-        {
-          "name": "Stilhed",
-          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
+          "name": "Anthony Linell",
+          "url": "https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS"
         }
       ],
-      "duration_ms": 241663,
-      "name": "Gleam - Stilhed Rework",
-      "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
+      "duration_ms": 318995,
+      "name": "H\u00e1vam\u00e1l",
+      "url": "https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Winter Ashes",
-        "url": "https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N"
+        "name": "Gleam (Stilhed Rework)",
+        "url": "https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB"
       },
       "artists": [
         {
-          "name": "Anthony Linell",
-          "url": "https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS"
+          "name": "Infralyd",
+          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+        },
+        {
+          "name": "Stilhed",
+          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
         }
       ],
-      "duration_ms": 318995,
-      "name": "H\u00e1vam\u00e1l",
-      "url": "https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m"
+      "duration_ms": 241663,
+      "name": "Gleam - Stilhed Rework",
+      "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1179,22 +1179,6 @@
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
-        "name": "Cast Of Mind",
-        "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 435276,
-      "name": "Bondage To Formula",
-      "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/05tgMikykkZ6h0jFyaRxvC"
-      },
-      "artists": [
-        {
-          "name": "4lienetic",
-          "url": "https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/3XRZYdGyThxKYPucHpLvVA"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
         "name": "Between Two Breaths",
         "url": "https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx"
       },
@@ -1255,86 +1223,34 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/0FAkEJQAINUzXCT0V4V2P4"
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/05tgMikykkZ6h0jFyaRxvC"
       },
       "artists": [
         {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "4lienetic",
+          "url": "https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk"
         }
       ],
-      "duration_ms": 254986,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/4X5TeiBCg2mpHQQnbozwGa"
+      "duration_ms": 212000,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3XRZYdGyThxKYPucHpLvVA"
     },
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Dokkaebi",
-        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
+        "name": "Cast Of Mind",
+        "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
       },
       "artists": [
         {
-          "name": "Ben Bertrand",
-          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 342173,
-      "name": "The Aurae Loops",
-      "url": "https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
-        "name": "Waves (Oliver Doerell & Helga Raimondi Rework)",
-        "url": "https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB"
-      },
-      "artists": [
-        {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        }
-      ],
-      "duration_ms": 314454,
-      "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
-      "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
-        "name": "DarkSonicTales",
-        "url": "https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG"
-      },
-      "artists": [
-        {
-          "name": "DarkSonicTales",
-          "url": "https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv"
-        }
-      ],
-      "duration_ms": 177971,
-      "name": "Info Pandemie",
-      "url": "https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL"
-    },
-    {
-      "added_at": "2022-10-14 15:53:51",
-      "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 307080,
-      "name": "The Edges",
-      "url": "https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO"
+      "duration_ms": 435276,
+      "name": "Bondage To Formula",
+      "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1359,18 +1275,70 @@
     {
       "added_at": "2022-10-14 15:53:51",
       "album": {
-        "name": "Pompeii",
-        "url": "https://open.spotify.com/album/3WGKBFVmZNW5Jt3bRheWev"
+        "name": "Dokkaebi",
+        "url": "https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU"
       },
       "artists": [
         {
-          "name": "4lienetic",
-          "url": "https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk"
+          "name": "Ben Bertrand",
+          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
         }
       ],
-      "duration_ms": 219413,
-      "name": "Insidious",
-      "url": "https://open.spotify.com/track/0j4jbuU1XL2ShDIE4OHqel"
+      "duration_ms": 342173,
+      "name": "The Aurae Loops",
+      "url": "https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/0FAkEJQAINUzXCT0V4V2P4"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/4X5TeiBCg2mpHQQnbozwGa"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "Waves (Oliver Doerell & Helga Raimondi Rework)",
+        "url": "https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB"
+      },
+      "artists": [
+        {
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        }
+      ],
+      "duration_ms": 314454,
+      "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
+      "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 307080,
+      "name": "The Edges",
+      "url": "https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO"
     },
     {
       "added_at": "2022-10-14 15:53:51",
@@ -1391,6 +1359,38 @@
       "duration_ms": 366825,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "DarkSonicTales",
+        "url": "https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG"
+      },
+      "artists": [
+        {
+          "name": "DarkSonicTales",
+          "url": "https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv"
+        }
+      ],
+      "duration_ms": 177971,
+      "name": "Info Pandemie",
+      "url": "https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL"
+    },
+    {
+      "added_at": "2022-10-14 15:53:51",
+      "album": {
+        "name": "Pompeii",
+        "url": "https://open.spotify.com/album/3WGKBFVmZNW5Jt3bRheWev"
+      },
+      "artists": [
+        {
+          "name": "4lienetic",
+          "url": "https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Insidious",
+      "url": "https://open.spotify.com/track/0j4jbuU1XL2ShDIE4OHqel"
     }
   ],
   "unique_name": "Dark Ambient",

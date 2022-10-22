@@ -564,6 +564,36 @@
     },
     {
       "album": {
+        "name": "Spirit & Joy",
+        "url": "https://open.spotify.com/album/384XmHwLaPIgg1KePxcaoV"
+      },
+      "artists": [
+        {
+          "name": "Jamie O'Neal",
+          "url": "https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe"
+        },
+        {
+          "name": "Jimmy Murphy",
+          "url": "https://open.spotify.com/artist/7g1izbn8iAcoFzdDztqYZd"
+        },
+        {
+          "name": "Aliyah Good",
+          "url": "https://open.spotify.com/artist/77mE2eFDQGBngt9hpFQFIm"
+        },
+        {
+          "name": "Melissa Murphey",
+          "url": "https://open.spotify.com/artist/5uWsCgm2lHUxQ893D9Do6i"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253230,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/2v94C40orSbaitYQMRzdrB"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/0BTkwI7ASnX64BA6iRtCCY"
       },

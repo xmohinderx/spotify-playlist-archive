@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157053,
+  "num_followers": 157044,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGUwZGQxYjMzOGVlODA1YzdmZDdmYzNmZGVhMWNhMjU5",
+  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGI5NmI5NGJhODAxMGZhY2E1OTM5ZjBmNDY0MmViNjA4",
   "tracks": [
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Fight Dirty",
+        "url": "https://open.spotify.com/album/51bTkbGwIOXalNW9rh8sdb"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Fight Dirty",
+      "url": "https://open.spotify.com/track/49081NhigGNTQ3QvZCirRz"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 187960,
       "name": "Return of the Mack (feat. Afrojack)",
       "url": "https://open.spotify.com/track/4Mghl1kqNADilBMsFVMWRK"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Fight Dirty",
-        "url": "https://open.spotify.com/album/51bTkbGwIOXalNW9rh8sdb"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Fight Dirty",
-      "url": "https://open.spotify.com/track/49081NhigGNTQ3QvZCirRz"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1459,6 +1459,42 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/5HQkMx3unrkhwyB3qJvG1p"
+      },
+      "artists": [
+        {
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/1Y6H3XEqOSTrqKFissnVGd"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Remember (David Guetta VIP Remix)",
         "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
       },
@@ -1495,42 +1531,6 @@
       "duration_ms": 136190,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/5HQkMx3unrkhwyB3qJvG1p"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/1Y6H3XEqOSTrqKFissnVGd"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Fast Forward",
+        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
+      },
+      "artists": [
+        {
+          "name": "Danny Avila",
+          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
+        }
+      ],
+      "duration_ms": 158854,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 147725,
       "name": "Kids",
       "url": "https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Fast Forward",
-        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
-      },
-      "artists": [
-        {
-          "name": "Danny Avila",
-          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
-        }
-      ],
-      "duration_ms": 158854,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Ones You Miss",
+        "url": "https://open.spotify.com/album/6attcIq1peIGvUC29hoaFA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 133669,
+      "name": "Ones You Miss",
+      "url": "https://open.spotify.com/track/31rl8e7IEpHtt3mkjOU4FW"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Revival (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
       },
@@ -2035,26 +2051,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "When Someone Leaves (Sofus Wiene Remix)",
-        "url": "https://open.spotify.com/album/3kZnLF4J0m8pENkcGjB0C4"
-      },
-      "artists": [
-        {
-          "name": "Electrick Village",
-          "url": "https://open.spotify.com/artist/6oY0rvFRUyykIvmVTwcAGb"
-        },
-        {
-          "name": "Sofus Wiene",
-          "url": "https://open.spotify.com/artist/4k57Zo2aYhZ1zydL5jeAno"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "When Someone Leaves - Sofus Wiene Remix",
-      "url": "https://open.spotify.com/track/6b1P0WPHCgKBa7Dl3GHceJ"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Survivors",
         "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
       },
@@ -2075,18 +2071,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Ones You Miss",
-        "url": "https://open.spotify.com/album/6attcIq1peIGvUC29hoaFA"
+        "name": "When Someone Leaves (Sofus Wiene Remix)",
+        "url": "https://open.spotify.com/album/3kZnLF4J0m8pENkcGjB0C4"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Electrick Village",
+          "url": "https://open.spotify.com/artist/6oY0rvFRUyykIvmVTwcAGb"
+        },
+        {
+          "name": "Sofus Wiene",
+          "url": "https://open.spotify.com/artist/4k57Zo2aYhZ1zydL5jeAno"
         }
       ],
-      "duration_ms": 133669,
-      "name": "Ones You Miss",
-      "url": "https://open.spotify.com/track/31rl8e7IEpHtt3mkjOU4FW"
+      "duration_ms": 179047,
+      "name": "When Someone Leaves - Sofus Wiene Remix",
+      "url": "https://open.spotify.com/track/6b1P0WPHCgKBa7Dl3GHceJ"
     },
     {
       "added_at": "2022-10-10 21:14:39",

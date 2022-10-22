@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,148 likes - 69 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,169 likes - 69 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 9 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 |
 | 10 | [Fight For You](https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Naomi Achu](https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl) | [Fight For You](https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67) | 3:28 |
 | 11 | [Bad Man Wicked](https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:51 |
-| 12 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 |
+| 12 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 |
 | 13 | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/album/16T88ND5mXBOVElDNieKZq) | 4:14 |
 | 14 | [Sondela \- Edit](https://open.spotify.com/track/0JSPN8S57bYOL3LSLm5yvN) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Sondela](https://open.spotify.com/album/5iTVgdXWbN2wticVSkTFsv) | 3:58 |
 | 15 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 |

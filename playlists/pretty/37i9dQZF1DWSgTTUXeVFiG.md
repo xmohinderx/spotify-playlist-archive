@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,045 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,089 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 22 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
 | 23 | [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 |
 | 24 | [Aguanile \- Live Version](https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 6:28 |
-| 25 | [Me Gusta El Son \- Live](https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 8:17 |
-| 26 | [La Cita](https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Lo Mejor de Alberto Barros, Vol\. 2](https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ) | 4:54 |
+| 25 | [La Cita](https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Lo Mejor de Alberto Barros, Vol\. 2](https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ) | 4:54 |
+| 26 | [Me Gusta El Son \- Live](https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 8:17 |
 | 27 | [Señora Ley \(En Vivo\)](https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0) | [Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL) | 5:12 |
 | 28 | [No Podrás Escapar de Mí \- En Vivo](https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:04 |
 | 29 | [Sueño Contigo \- En Vivo](https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Íntimamente Salsero \(En Vivo\)](https://open.spotify.com/album/1gRHLe75BJK2tqAbaSL30w) | 4:58 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 44 | [Medias Negras \- Live Version](https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 45 | [Tu Loco, Loco, Y Yo Tranquilo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
 | 46 | [Pedro Navaja \- Live](https://open.spotify.com/track/02JsgAcJTmrN9RXWjjhjH5) | [Ruben Blades y Seis del Solar](https://open.spotify.com/artist/0Rx4tJspA1e5V2TZFzy0d5) | [Todos Vuelven Live, Vol\. 2](https://open.spotify.com/album/1hFypiuMxAkEGse2l0JdsY) | 8:09 |
-| 47 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
-| 48 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
+| 47 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
+| 48 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
 | 49 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 |
 | 50 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDgyMTNhYTU4ODc5YTA5NTM1ODBkZjM5YTg2YTFhMWE3`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDgyNDQ3YWM2ZDBkOTVmOTAxYWIzMTAyMzM1M2U1OGY5`

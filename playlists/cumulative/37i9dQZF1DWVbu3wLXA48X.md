@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Tegan and Sara
 
-637 songs - 1 day 13 hr 51 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+639 songs - 1 day 13 hr 59 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [How Was Your Day?](https://open.spotify.com/track/5zcKakuuuuYR2VhWQWnhDo) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [How Was Your Day?](https://open.spotify.com/album/5GZHr6rYHXp6v0pYAc1HZm) | 2:32 | 2022-08-04 | 2022-08-27 |
 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-01 | 2022-08-05 |
 | [HUOY](https://open.spotify.com/track/6gE9RjMPBlUXQo4HVkYSEC) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [HUOY](https://open.spotify.com/album/6dR6kGtYcMAKFC0PJFBbic) | 3:22 | 2021-12-30 | 2022-02-11 |
-| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-20 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-20 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-20 | 2022-10-22 |
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-09-30 |  |
 | [I Don't Wanna Leave \(Demo\)](https://open.spotify.com/track/4LgIHBMxJolIteDhFMLBFs) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I Don't Wanna Leave \(Demo\)](https://open.spotify.com/album/6qlN31TVaynKvDw6vXslKt) | 3:12 | 2021-12-16 | 2022-01-29 |
 | [I Don’t Have Control Sometimes](https://open.spotify.com/track/4iuyaXj8B2WPjcqqbOSMB6) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [I Don’t Have Control Sometimes](https://open.spotify.com/album/1q6sKXBOqyDL5iv1A89wqa) | 2:33 | 2022-04-07 | 2022-04-29 |
@@ -498,6 +499,7 @@
 | [Slow Dance](https://open.spotify.com/track/4L23bFa7UjkhRpj3BwY7hu) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [Slow Dance](https://open.spotify.com/album/1qFwIewiyPab9oEBQUuWP9) | 3:05 | 2022-03-31 | 2022-06-10 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-16 | 2022-02-11 |
 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-20 |  |
+| [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-20 |  |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-04 | 2022-09-30 |
 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 | 2022-07-29 | 2022-09-10 |
 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 | 2022-07-15 | 2022-07-30 |

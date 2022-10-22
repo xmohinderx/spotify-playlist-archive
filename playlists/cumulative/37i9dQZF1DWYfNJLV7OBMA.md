@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- Dinesh Gamage
 
-151 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
+152 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Toyyo Bayyo](https://open.spotify.com/track/1AQpgplBRfllLbYEkmn2km) | [Funky Dirt](https://open.spotify.com/artist/4EmQAPX89Zg1TUUaQut1IC) | [Toyyo Bayyo](https://open.spotify.com/album/5r6hrTUJRGIMyoa6VB0PaS) | 5:06 | 2022-10-07 |  |
 | [Veralu Mal](https://open.spotify.com/track/7kCq23IvruljXm8fUevkaS) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Veralu Mal](https://open.spotify.com/album/1Ge3wJ0P2BTjj4mLND7RKS) | 2:52 | 2022-06-16 |  |
 | [Viramayak](https://open.spotify.com/track/53br07JUe0H1Sv9Opv0oaG) | [Bhashi Devanga](https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y) | [Viramayak](https://open.spotify.com/album/3rnACADrP5vCpFqo7hH4HM) | 3:42 | 2022-06-16 | 2022-07-16 |
-| [Wandana](https://open.spotify.com/track/11JnfWZ2B4mBvhMWSj8yiH) | [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13), [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Wandana](https://open.spotify.com/album/4Vji9lcrENuCgBwmeu7gpV) | 4:10 | 2022-06-16 |  |
+| [Wandana](https://open.spotify.com/track/11JnfWZ2B4mBvhMWSj8yiH) | [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13), [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Wandana](https://open.spotify.com/album/4Vji9lcrENuCgBwmeu7gpV) | 4:10 | 2022-06-16 | 2022-10-22 |
+| [Wandana](https://open.spotify.com/track/6xU7Czm0aM7jSNjcKWdhYF) | [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13), [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Wandana](https://open.spotify.com/album/01MwwZon3rRhj8mZvRnqwi) | 4:10 | 2022-10-07 |  |
 | [Wassanaye](https://open.spotify.com/track/0JxVQuwz6wjaIkkKS3MXG4) | [Cairo Rich](https://open.spotify.com/artist/0oWgjzc02oTszF4ltOifqS), [Rumeshi Dilhara](https://open.spotify.com/artist/3tLfv4MT32WibezDrTbMqr) | [Wassanaye](https://open.spotify.com/album/4069OTexdJWwEouV0P3M8f) | 3:46 | 2022-10-07 |  |
 | [Wiramayak](https://open.spotify.com/track/340dfMzZ1GCacVbtbaFJiC) | [Maduwa](https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV) | [Wiramayak](https://open.spotify.com/album/6E0ahoc7SAPrBSM0No3SrN) | 3:25 | 2022-06-16 | 2022-10-14 |
 | [Wiramayak](https://open.spotify.com/track/6FrqrsaUhbLAJI5deOlKZv) | [Maduwa](https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV) | [Wiramayak](https://open.spotify.com/album/1NQPWASqhsmdC26ZFOvwjO) | 3:25 | 2022-10-07 |  |

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-219 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+220 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 | 2022-06-11 |
 | [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 | 2022-06-11 |
-| [Help Me Now](https://open.spotify.com/track/3GBV8M2iOv6T5UD91Lok2y) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Help Me Now](https://open.spotify.com/album/2zf92DYqMqjqLeGbaMpxdl) | 3:41 | 2022-10-14 |  |
+| [Help Me Now](https://open.spotify.com/track/3GBV8M2iOv6T5UD91Lok2y) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Help Me Now](https://open.spotify.com/album/2zf92DYqMqjqLeGbaMpxdl) | 3:41 | 2022-10-14 | 2022-10-22 |
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-05-27 | 2022-08-20 |
 | [History Repeats](https://open.spotify.com/track/7u0FwjCZoc3uZA4OJtlUrB) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:04 | 2021-12-17 | 2022-07-27 |
 | [Hit 'Em Back](https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back](https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX) | 4:33 | 2022-01-28 |  |
@@ -120,7 +120,7 @@
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-12-17 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
 | [Love Again](https://open.spotify.com/track/3OKBGV9o5uVZ5Z8BZUkznb) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Love Again](https://open.spotify.com/album/54pG43tDpcI7ViKYSKSuPk) | 3:43 | 2021-12-17 | 2022-07-25 |
-| [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 | 2021-12-17 | 2022-10-20 |
+| [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 | 2021-12-17 |  |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 |  |
 | [Lovesick Blues](https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY) | [Annie Keating](https://open.spotify.com/artist/2xKlrRpBoX4Vgas5prEf1n) | [Lovesick Blues](https://open.spotify.com/album/0Fm9l5ccn4T7xYOiyx6Ul9) | 3:33 | 2022-09-16 | 2022-09-24 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2021-12-17 |  |
@@ -128,6 +128,7 @@
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2021-12-17 |  |
 | [Man On Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf) | 3:49 | 2021-12-17 |  |
 | [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 |  |
+| [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 | 2022-10-21 |  |
 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 | 2022-07-26 |  |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2021-12-17 |  |
 | [My Kentucky](https://open.spotify.com/track/353KDYzMxofC6davOZ1oH6) | [Kamara Thomas & the Ghost Gamblers](https://open.spotify.com/artist/7c4SDBbtEW9iX2MPBGhn4q) | [Earth Hero](https://open.spotify.com/album/6u5saPFGrin6Q16nQ5CvV3) | 7:01 | 2021-12-17 | 2022-06-11 |
@@ -197,7 +198,7 @@
 | [The Last Time](https://open.spotify.com/track/7MTUA6kke0Q1p86I2XQL34) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:35 | 2022-09-16 | 2022-10-08 |
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 |  |
 | [The Map](https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [The Map](https://open.spotify.com/album/2qabf6Z1Q1Bt1nXKoTunWd) | 3:35 | 2021-12-17 | 2022-07-29 |
-| [The Preacher Man](https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:48 | 2022-09-23 |  |
+| [The Preacher Man](https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:48 | 2022-09-23 | 2022-10-22 |
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |
 | [The Tools](https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 2:27 | 2022-03-18 | 2022-03-30 |
 | [These Hands](https://open.spotify.com/track/2LN7oMYv9m9xzDrCy4AMqu) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [The Sound Experiment 2 \- EP](https://open.spotify.com/album/2RVHro1akoqXxD5ZHB7mgO) | 3:21 | 2021-12-17 | 2022-06-12 |

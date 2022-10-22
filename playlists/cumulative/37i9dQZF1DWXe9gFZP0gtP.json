@@ -2752,6 +2752,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT"
+      },
+      "artists": [
+        {
+          "name": "Julian Nema",
+          "url": "https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155780,
+      "name": "Lana",
+      "url": "https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme"
+    },
+    {
+      "album": {
         "name": "Insomnia Tamer",
         "url": "https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2"
       },
@@ -5197,6 +5215,24 @@
       "duration_ms": 184250,
       "name": "Ut Ameris, Amabilis Esto",
       "url": "https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M"
+    },
+    {
+      "album": {
+        "name": "Vettvangur",
+        "url": "https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF"
+      },
+      "artists": [
+        {
+          "name": "V3rkefni 1",
+          "url": "https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154497,
+      "name": "Vettvangur",
+      "url": "https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d"
     },
     {
       "album": {

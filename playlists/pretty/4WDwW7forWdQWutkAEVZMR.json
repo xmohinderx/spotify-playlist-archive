@@ -1,13 +1,185 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!",
-  "num_followers": 8319,
+  "num_followers": 8317,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTYzNixiZTkzN2E4MTg0ZGM1NDhlN2U4ZThjYzZmZDgzYTViZGUxMzc4YTU1",
+  "snapshot_id": "NTY2Miw2ZTZhYTk1ODIyMDYwMTNiNDA5YjY4Y2M2MjJkZmVmOWMxNTlhMDRm",
   "tracks": [
+    {
+      "added_at": "2022-10-21 13:34:39",
+      "album": {
+        "name": "So Far So Good (lofi remixes)",
+        "url": "https://open.spotify.com/album/3Fpxa7OUrdGmqEebgoAF1E"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 154902,
+      "name": "Something Different - lofi remix",
+      "url": "https://open.spotify.com/track/58PLzRUABG9skJIKreuVdX"
+    },
+    {
+      "added_at": "2022-10-21 13:32:12",
+      "album": {
+        "name": "WDIA (Would Do It Again)",
+        "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "WDIA (Would Do It Again)",
+      "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
+    },
+    {
+      "added_at": "2022-10-21 13:30:01",
+      "album": {
+        "name": "A Feeling That Never Came",
+        "url": "https://open.spotify.com/album/4YKGoja0xZXazCOIDFeLsF"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "A Feeling That Never Came",
+      "url": "https://open.spotify.com/track/3fy2ILYi8upEuracr84cx0"
+    },
+    {
+      "added_at": "2022-10-21 13:31:43",
+      "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/7DLx088BMfXhRCvL6P7g6I"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 138073,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/4MuURuXNnHsh5ybOYDBVak"
+    },
+    {
+      "added_at": "2022-10-21 13:30:35",
+      "album": {
+        "name": "When It's All Over",
+        "url": "https://open.spotify.com/album/12eGNyf7bHMXLHtVQxq5ta"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "When It's All Over",
+      "url": "https://open.spotify.com/track/2ppcnvpjyPVUXcWpk7dFn1"
+    },
+    {
+      "added_at": "2022-10-21 13:29:47",
+      "album": {
+        "name": "Depression",
+        "url": "https://open.spotify.com/album/6O8efloF476sH5FzVzLYSw"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "duration_ms": 249259,
+      "name": "Depression",
+      "url": "https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5"
+    },
+    {
+      "added_at": "2022-10-21 13:31:59",
+      "album": {
+        "name": "4 Life",
+        "url": "https://open.spotify.com/album/2lQIJKXONro8Rywqdy4r0D"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "4 Life",
+      "url": "https://open.spotify.com/track/5gQQK8mx3L7n7foWEmJbEf"
+    },
+    {
+      "added_at": "2022-10-21 13:32:29",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1slqa0Str4QSzkzREBzud4"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7Bmcpb69GKXCmfHigdHuJO"
+    },
+    {
+      "added_at": "2022-10-21 13:32:47",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/7ySlZx8l59eRiX7WYOAofF"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/6jc7hcVqCDGjjeRokClILI"
+    },
+    {
+      "added_at": "2022-10-21 13:31:27",
+      "album": {
+        "name": "In The Shadows Of Ukraine (feat. The Rasmus)",
+        "url": "https://open.spotify.com/album/0kotfHFF8v0fWBfgoyX1ov"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        },
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "In The Shadows Of Ukraine (feat. The Rasmus)",
+      "url": "https://open.spotify.com/track/5dSOtyf70O6fG1xm4xFeTD"
+    },
     {
       "added_at": "2022-10-14 04:01:43",
       "album": {
@@ -25,22 +197,6 @@
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
     },
     {
-      "added_at": "2022-10-14 04:02:22",
-      "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
       "added_at": "2022-10-14 04:02:38",
       "album": {
         "name": "How Could You",
@@ -55,150 +211,6 @@
       "duration_ms": 187813,
       "name": "How Could You",
       "url": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
-    },
-    {
-      "added_at": "2022-10-14 04:02:56",
-      "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
-    },
-    {
-      "added_at": "2022-10-14 04:03:13",
-      "album": {
-        "name": "arsonists",
-        "url": "https://open.spotify.com/album/4UWjGBet8X9qC1geA1U8zw"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "arsonists",
-      "url": "https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7"
-    },
-    {
-      "added_at": "2022-10-14 04:03:29",
-      "album": {
-        "name": "hurricane",
-        "url": "https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "hurricane",
-      "url": "https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec"
-    },
-    {
-      "added_at": "2022-10-14 04:03:48",
-      "album": {
-        "name": "Unfinished (Acoustic)",
-        "url": "https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 247002,
-      "name": "Unfinished - Acoustic",
-      "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
-    },
-    {
-      "added_at": "2022-10-14 04:04:04",
-      "album": {
-        "name": "i hate waking up",
-        "url": "https://open.spotify.com/album/2TJYtkN6IE8nunpi5waisp"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        },
-        {
-          "name": "SadBoyProlific",
-          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
-        },
-        {
-          "name": "Alek Olsen",
-          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
-        }
-      ],
-      "duration_ms": 183942,
-      "name": "i hate waking up (feat. Rxseboy, SadBoyProlific & Alek Olsen)",
-      "url": "https://open.spotify.com/track/5ubG9w0UF7rCL5mkWVMcRJ"
-    },
-    {
-      "added_at": "2022-10-14 04:04:21",
-      "album": {
-        "name": "parachute (feat. Finding Hope)",
-        "url": "https://open.spotify.com/album/1BIE4nVzZLtQ6sZenFfvx7"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 153604,
-      "name": "parachute (feat. Finding Hope)",
-      "url": "https://open.spotify.com/track/3WaEyZXCEKX8TxmKciVNHm"
-    },
-    {
-      "added_at": "2022-10-14 04:04:44",
-      "album": {
-        "name": "Hiroshima",
-        "url": "https://open.spotify.com/album/5DGO0wF5Sn3uXMTModz4p9"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Hiroshima",
-      "url": "https://open.spotify.com/track/6FOcmhnINLjPcsMbbwUzVA"
-    },
-    {
-      "added_at": "2022-10-14 04:05:01",
-      "album": {
-        "name": "I Think I Do",
-        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 142438,
-      "name": "I Think I Do",
-      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
       "added_at": "2022-10-07 14:52:14",

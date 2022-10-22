@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-855 songs - 1 day 22 hr 25 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+856 songs - 1 day 22 hr 28 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Not Coming Up For Air](https://open.spotify.com/track/6GfT9HgCGD6eO0Vf3v7f9W) | [Nabiha](https://open.spotify.com/artist/0nYStwwY321ISCu6BGJq98) | [Not Coming Up For Air](https://open.spotify.com/album/7DXIltu6WpPf2RQN1uVl96) | 3:31 | 2019-07-05 | 2020-01-04 |
 | [Not My Party](https://open.spotify.com/track/3pM9zsW73bvLW05u2Cdog2) | [Strandels](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Not My Party](https://open.spotify.com/album/3isXW8OvhVcAcHahCB42qB) | 2:53 | 2020-06-12 | 2020-07-20 |
 | [not ur friend](https://open.spotify.com/track/5T9S5x5hEOvgGKWysm683a) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [not ur friend](https://open.spotify.com/album/6DmXViJkaMpvIJnQTohJXJ) | 2:54 | 2020-03-04 | 2021-05-22 |
+| [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-21 |  |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2021-12-17 | 2022-10-13 |
 | [Nothing's the Same](https://open.spotify.com/track/3NllHdYknM2F6UxxGevXWc) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Nothing's the Same](https://open.spotify.com/album/00yIpdpC0O5UFewLz6boJh) | 2:55 | 2020-12-11 | 2022-02-18 |
 | [Now That I Think About It](https://open.spotify.com/track/5wEyhhm1g4OgisejJBVP0z) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Now That I Think About It](https://open.spotify.com/album/2QNs1pYbkv0r5q3WWGwB6q) | 3:36 | 2019-06-25 | 2019-08-27 |
@@ -697,7 +698,7 @@
 | [Space Makes Me Sad](https://open.spotify.com/track/4CdAmV6qgACPWHxjCrf7fp) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/3nRdxGXdXuXlS8Is13f3DP) | 2:16 | 2019-07-07 | 2021-12-21 |
 | [Spaces](https://open.spotify.com/track/3S73WiRmw3nowr7ZC6Bmkp) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Spaces](https://open.spotify.com/album/2zleDyRZGgQR9MGVFgdVSO) | 3:47 | 2020-10-09 | 2020-10-30 |
 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 | 2021-05-22 | 2021-05-27 |
-| [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2019-12-24 |  |
+| [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2019-12-24 | 2022-10-22 |
 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 | 2020-06-12 | 2021-01-15 |
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/4Eyid2OjeyXZ2fQ8eELXMi) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties… Stay The Way I Left You](https://open.spotify.com/album/0dhxCW84HD7542YTTuxSce) | 2:12 | 2019-11-26 | 2020-10-21 |
 | [Stay with Me](https://open.spotify.com/track/1tl9Yzv1lypVXR5pyWrNrb) | [louw](https://open.spotify.com/artist/3LOWBENsEe0o5Ui5I0SIyW), [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH) | [Stay with Me](https://open.spotify.com/album/3vOTjomNmXa1lg1l3WfY5j) | 3:25 | 2019-06-21 | 2019-08-10 |

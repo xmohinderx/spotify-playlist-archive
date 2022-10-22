@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-177 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
+178 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,10 +164,11 @@
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2022-07-27 |
 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 | 2021-10-01 |  |
 | [The Distance](https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7) | 4:51 | 2021-10-01 | 2022-07-29 |
+| [The Last Dinosaur](https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [The Last Dinosaur](https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U) | 3:30 | 2022-10-14 |  |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-11 |  |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK) | 4:30 | 2021-09-24 | 2022-07-20 |
 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 | 2021-04-02 |  |
-| [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-30 |  |
+| [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-30 | 2022-10-22 |
 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 | 2022-06-17 |  |
 | [Toi et moi](https://open.spotify.com/track/5yzlBpUNflMjcwAryoo2zJ) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Toi Et Moi](https://open.spotify.com/album/72ykeilNg1F8LtbeZbmxs8) | 3:41 | 2021-04-02 | 2022-04-11 |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 | 2022-08-09 |

@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 129828,
       "name": "Aww Man",
       "url": "https://open.spotify.com/track/79Re7M6qqhCBIQYjexeXl4"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 180733,
       "name": "BBL",
       "url": "https://open.spotify.com/track/2ZNmJ4hISA6ANzoklFmwXE"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 123036,
       "name": "Black Angel (feat. Snow Banks)",
       "url": "https://open.spotify.com/track/02DxUOUGQu6SSMP53Jn6le"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 146991,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/27leakGsUzeTnIBNLbvqyC"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 167000,
       "name": "Chase Em Down (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 173014,
       "name": "Flashbacks (with Jeremih)",
       "url": "https://open.spotify.com/track/2azHQr3ADjofyT0NTGOPac"
@@ -2490,6 +2490,24 @@
     },
     {
       "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139265,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG"
+    },
+    {
+      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6"
       },
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 139265,
       "name": "Hell",
       "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
@@ -2763,7 +2781,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 223255,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/0NERHZ0a3KX3BUPHi88bUj"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 183829,
       "name": "India Me",
       "url": "https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc"
@@ -3510,6 +3528,24 @@
     },
     {
       "album": {
+        "name": "Matinee",
+        "url": "https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188658,
+      "name": "Matinee",
+      "url": "https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo"
+    },
+    {
+      "album": {
         "name": "Trip At Knight",
         "url": "https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q"
       },
@@ -3547,7 +3583,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 221468,
       "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
@@ -3838,6 +3874,24 @@
     },
     {
       "album": {
+        "name": "Nice Guy",
+        "url": "https://open.spotify.com/album/1qGq80zAWFFmOTXQ7Iqvh8"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/3zVBnFMVe9XMOLigMPjpsv"
+    },
+    {
+      "album": {
         "name": "No Cap 3",
         "url": "https://open.spotify.com/album/0tc1vOqCTrCOqVbhvcwCW9"
       },
@@ -3889,7 +3943,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 142315,
       "name": "No Mask",
       "url": "https://open.spotify.com/track/2LtEJz45md938bFkaB0osY"
@@ -4131,7 +4185,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 138870,
       "name": "Pac Man (with Bfb Da Packman)",
       "url": "https://open.spotify.com/track/3oKsLSqmRlS0QV4JgmRuns"
@@ -4171,7 +4225,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 163813,
       "name": "Paraphernalia",
       "url": "https://open.spotify.com/track/5o23T6d3E7bBkdLXZYGCPN"
@@ -4207,7 +4261,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 152878,
       "name": "PEP IN MY STEP",
       "url": "https://open.spotify.com/track/3nixei9buXWmxkA4BjX8k4"
@@ -4456,6 +4510,24 @@
     },
     {
       "album": {
+        "name": "Reel Em In",
+        "url": "https://open.spotify.com/album/4JNBTgwYusBL4RfduIShBZ"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144479,
+      "name": "Reel Em In",
+      "url": "https://open.spotify.com/track/50yCs2ldgkd0OJji21ZAAa"
+    },
+    {
+      "album": {
         "name": "Richer",
         "url": "https://open.spotify.com/album/48z2k3V6BZm4fsJSp6LjKg"
       },
@@ -4615,7 +4687,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 253335,
       "name": "Rock City (feat. Eminem)",
       "url": "https://open.spotify.com/track/6gGQP8fDwKi3MFP7asbU8c"
@@ -4877,6 +4949,28 @@
       "duration_ms": 187843,
       "name": "Shoot It Myself (feat. Future)",
       "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176588,
+      "name": "Shordie (with Gunna)",
+      "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
     },
     {
       "album": {
@@ -5747,7 +5841,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 177749,
       "name": "Ticket (feat. Money Man)",
       "url": "https://open.spotify.com/track/4BZj0FCSAOVFx5a5mm3Smr"
@@ -5787,7 +5881,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 135680,
       "name": "Tired of Mas",
       "url": "https://open.spotify.com/track/6pMoq3Ib8jiPsFo9FfQVjL"
@@ -6027,7 +6121,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 111428,
       "name": "Watch",
       "url": "https://open.spotify.com/track/38mNgoRMYSdg2n8Tt98R8L"

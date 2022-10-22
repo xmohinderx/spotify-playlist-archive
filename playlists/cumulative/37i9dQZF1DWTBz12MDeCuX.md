@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Rowli, Hank
 
-413 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+414 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-16 | 2022-07-15 |
 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-09 | 2022-09-16 |
 | [1999](https://open.spotify.com/track/0xCKssijRwBmRMmNtzEJ4r) | [elfi](https://open.spotify.com/artist/7ExW46qYts4PzOtTi9WB2p) | [1999](https://open.spotify.com/album/28UcaMqocxb9b7vjge7Ktt) | 2:45 | 2022-07-25 | 2022-08-02 |
+| [2 AM](https://open.spotify.com/track/1Agl3YCXpBcPspuXobCB2d) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [2 AM](https://open.spotify.com/album/4zh2bW9JufjawyuHocxmDj) | 2:13 | 2022-10-20 |  |
 | [2016](https://open.spotify.com/track/2pm9DcicKhfolnXZq4dUnk) | [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [2016](https://open.spotify.com/album/6KJFDu5yDuZeNTD7OGOWiU) | 2:38 | 2022-07-28 | 2022-10-21 |
 | [21](https://open.spotify.com/track/6PpQ53BTPsLxmrCVDSTxng) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [21](https://open.spotify.com/album/0YMBkYxL3Kjdoja3QOOfgz) | 2:31 | 2022-06-09 | 2022-07-12 |
 | [36Grad](https://open.spotify.com/track/5gDzYP14jAqWR4ckuFTVBu) | [2raumwohnung](https://open.spotify.com/artist/6BHpFo1cbGCGLWh28wa43x) | [36Grad](https://open.spotify.com/album/74P4cfmDHCAiOaplqaFMBy) | 3:50 | 2022-07-25 | 2022-08-02 |

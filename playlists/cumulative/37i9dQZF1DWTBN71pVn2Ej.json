@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 204012,
       "name": "Charlie Bronson",
       "url": "https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK"
@@ -1410,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Follow You Down",
+        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136435,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "album": {
         "name": "Front Line",
         "url": "https://open.spotify.com/album/7sKhbFYxVkFPTjFduWSbhk"
       },
@@ -1713,6 +1731,24 @@
       "duration_ms": 186465,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
+    },
+    {
+      "album": {
+        "name": "Stadium Dreams On A Bedroom Budget",
+        "url": "https://open.spotify.com/album/6r8Jingb2f6it20MpRLApT"
+      },
+      "artists": [
+        {
+          "name": "LOSER",
+          "url": "https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180497,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/3hwq4JBViOyfXQWbthdraz"
     },
     {
       "album": {
@@ -2733,7 +2769,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 216255,
       "name": "One Of A Million",
       "url": "https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj"
@@ -2751,7 +2787,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 200932,
       "name": "Only You Say It",
       "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
@@ -2967,7 +3003,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 215360,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/4nfqM6p3jcMF8ZLq91kywq"
@@ -3007,6 +3043,24 @@
       "duration_ms": 273569,
       "name": "Reckoning",
       "url": "https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm"
+    },
+    {
+      "album": {
+        "name": "Viv",
+        "url": "https://open.spotify.com/album/3f6VOD9iNGbxhcx0TURhba"
+      },
+      "artists": [
+        {
+          "name": "SPICE",
+          "url": "https://open.spotify.com/artist/23MtAa9EjUqsBwCsswOvcM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/3dH1e4TOl3zW6f24jIGIH7"
     },
     {
       "album": {
@@ -3608,6 +3662,28 @@
     },
     {
       "album": {
+        "name": "The Drugs",
+        "url": "https://open.spotify.com/album/2RsqX9br4REyvqsuFGDqRb"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        },
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118257,
+      "name": "The Drugs",
+      "url": "https://open.spotify.com/track/728FZzHPZ0vt6biYQYOOCz"
+    },
+    {
+      "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
       },
@@ -3771,6 +3847,24 @@
       "duration_ms": 200872,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6Vu4gc4ABD2KIBMLXgKSJn"
+    },
+    {
+      "album": {
+        "name": "Title Track",
+        "url": "https://open.spotify.com/album/1yP0qGCiMHxTX8eo3LqVO4"
+      },
+      "artists": [
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Title Track",
+      "url": "https://open.spotify.com/track/6IOm2HdES3uec7DIdy3oBJ"
     },
     {
       "album": {
@@ -4019,7 +4113,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 171182,
       "name": "We've Had Enough",
       "url": "https://open.spotify.com/track/3bs96NK6A91sCXUIJZjBpW"

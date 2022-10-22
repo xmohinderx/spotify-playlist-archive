@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-140 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+141 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Honouring the Promise](https://open.spotify.com/track/2TkTycXLW2EbeXeBIuPGU7) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Honouring the Promise](https://open.spotify.com/album/4XNXRAgmYCln4JkUE294Lc) | 3:29 | 2021-12-10 |  |
 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-12-10 |  |
 | [I'm Sorry](https://open.spotify.com/track/6bmyYlH5GVcYz6bJwurxxp) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [At First Light](https://open.spotify.com/album/6uuGLuTGd67p87E63DA8J5) | 2:10 | 2021-12-10 | 2022-07-29 |
-| [I'm Sorry](https://open.spotify.com/track/7rVVerTSC0AqlnWkB1AqJS) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [At First Light](https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0) | 2:10 | 2022-06-29 |  |
+| [I'm Sorry](https://open.spotify.com/track/7rVVerTSC0AqlnWkB1AqJS) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [At First Light](https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0) | 2:10 | 2022-06-29 | 2022-10-22 |
 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 | 2021-12-10 |  |
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-10 |  |
 | [Insua](https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Insua](https://open.spotify.com/album/5AUkwgbTPKrkYs6cyHadxv) | 2:41 | 2021-12-10 |  |
@@ -141,6 +141,7 @@
 | [Vitality \- Relaxing Music for Zen Meditation and Deep Breathing](https://open.spotify.com/track/2XEZOoJC9nu2o5k3DpDyC6) | [Spa Music Collective](https://open.spotify.com/artist/58yicdDBopSJkQdBVZqCbs) | [Mediterranea Spa Music \- Mediterranean Spa Music\. Relaxation Meditation Healing Music for Deep Meditation, Reiki, Massage, Chakra, Yoga and Tai Chi\. Relaxing Sounds from the Islands in the Sun](https://open.spotify.com/album/1SInC2a5j6Kyunocj3PEE2) | 5:38 | 2021-12-10 | 2022-08-13 |
 | [Voyage De La Nuit](https://open.spotify.com/track/24lJCQciPgJBhRrij2Faa5) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Voyage De La Nuit](https://open.spotify.com/album/0xbHriOJdjYspeBXZtQzwv) | 3:21 | 2021-12-10 | 2022-08-13 |
 | [Vrede en rust](https://open.spotify.com/track/4MLInfMhS1GoMiaYCFGlS6) | [Dries Wold](https://open.spotify.com/artist/7nUGsX8XXGenXjcE2ZLMEv) | [Vrede en rust \(Ambient Version\)](https://open.spotify.com/album/4XL60eMczS4oQssVRz0ExD) | 2:38 | 2021-12-10 |  |
+| [Within](https://open.spotify.com/track/6yy6c0Oy0fg69Zy0htgXsm) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Senses](https://open.spotify.com/album/42n9gHTqtCogUygsmvO49n) | 2:55 | 2022-10-21 |  |
 | [Yearning](https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:44 | 2021-12-10 | 2022-05-27 |
 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/3PQGFShoKzMowJlPgysF0Y) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/0AuCl70u1UOvujYyoAbMH3) | 3:53 | 2021-12-10 | 2022-07-29 |
 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/6btq4xcQtbnDMYgfR7LmAu) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/6hFUbfCDZaaWhnYzMkJs4T) | 3:53 | 2022-06-29 |  |

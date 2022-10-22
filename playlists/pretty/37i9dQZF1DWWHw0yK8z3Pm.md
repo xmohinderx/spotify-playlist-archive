@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Julian Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,558 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,568 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Caroline](https://open.spotify.com/track/3ME0oA0PvhyIabL6ZiDOea) | [Willie Stratton](https://open.spotify.com/artist/1vEiaSJR9xF1T2Ckp4oZwT) | [Caroline](https://open.spotify.com/album/2OyX6YzNKwM7C8dX6NOI5I) | 4:08 |
 | 100 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGMxNjc0MmI2NjJiNTgwNjIwNTA1OTE5N2VlNWU3YWNl`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDcwZTc2YmZlNWYwMTA1ODE4MzljNGFjMzRmNjgyOTRh`

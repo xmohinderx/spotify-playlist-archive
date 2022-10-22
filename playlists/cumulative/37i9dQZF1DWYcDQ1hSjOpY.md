@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-329 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+334 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bylgjur](https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Bylgjur](https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL) | 2:21 | 2021-11-10 |  |
 | [Cairns Fossils](https://open.spotify.com/track/7HeCLMhcYHRG5nfrd26v6C) | [Cloud Waves](https://open.spotify.com/artist/3awsbRupCUGnE0dw6U049n) | [Planetary Funnel](https://open.spotify.com/album/0oFdp4vvnuv17yLJAEz8M4) | 3:06 | 2021-11-10 |  |
 | [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 3:20 | 2021-11-10 |  |
+| [Calm Patient](https://open.spotify.com/track/78ZMJYYePMsMltUFFV3X8S) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Calm Patient](https://open.spotify.com/album/4KvtEcKitdJ2xnXhpsagP9) | 3:24 | 2022-10-21 |  |
 | [Capotain](https://open.spotify.com/track/3LWtE19kpqQemToWcKQ5Z8) | [Gentle Hat Club](https://open.spotify.com/artist/2mymvFlMFTVNqiCP2WAECS) | [Capotain](https://open.spotify.com/album/6fI5cLVUtJ1p3ZPogmMWHG) | 3:28 | 2021-11-10 |  |
 | [Cardboard Gadgets](https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0) | [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Cardboard Gadgets](https://open.spotify.com/album/2MzvZKJ9HAnFmTxQHTAqyH) | 3:36 | 2021-11-10 |  |
 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 | 2021-11-10 |  |
@@ -86,7 +87,7 @@
 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 | 2021-11-10 |  |
 | [Deep Sleeper](https://open.spotify.com/track/7lwl3ScD69HlJQtk7h49nw) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Deep Sleeper](https://open.spotify.com/album/4GD1oZku0kELvN5DzXWVJV) | 2:43 | 2021-11-10 |  |
 | [Deep Soul](https://open.spotify.com/track/3982hLjimRRPGIfInxlzyh) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [Deep Soul](https://open.spotify.com/album/7GjFApBQPjiEoZg1fvIXlr) | 2:43 | 2021-11-10 |  |
-| [Define](https://open.spotify.com/track/6D0lPIqjmSHGQHfXT0mm1L) | [Till Kahn](https://open.spotify.com/artist/1jvIJs7QNcP5Mepkcm5wG5) | [Light Haus](https://open.spotify.com/album/30RrXTMdvGTt5frB8wxuRg) | 3:28 | 2021-11-10 |  |
+| [Define](https://open.spotify.com/track/6D0lPIqjmSHGQHfXT0mm1L) | [Till Kahn](https://open.spotify.com/artist/1jvIJs7QNcP5Mepkcm5wG5) | [Light Haus](https://open.spotify.com/album/30RrXTMdvGTt5frB8wxuRg) | 3:28 | 2021-11-10 | 2022-10-22 |
 | [Delta Sinus Noise Pad](https://open.spotify.com/track/7sKPbqAPAP4llKXGEXqCaH) | [Wiser Noise](https://open.spotify.com/artist/0AVjqSe7ExlC8YpGYMXVfn) | [Delta Sinus Noise Pad](https://open.spotify.com/album/4tpiv36su2Y9b9BPAJgPNH) | 2:04 | 2021-11-10 |  |
 | [delta state](https://open.spotify.com/track/6D2fyFDu59UbQJO2rgcO9N) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [binaural beat delta states](https://open.spotify.com/album/3mErlO0lfjqgwGenHL5tdF) | 3:01 | 2021-11-10 |  |
 | [Des rêves sans fin](https://open.spotify.com/track/7vGRko4f6X3H4EfhwPsIJY) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [Des rêves sans fin](https://open.spotify.com/album/6x5YvwCzCxoLyME5L24xPL) | 3:02 | 2021-11-10 |  |
@@ -117,6 +118,7 @@
 | [Engel Stemme](https://open.spotify.com/track/1lwYE92fXWS6nebOLO5yTR) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Engel Stemme](https://open.spotify.com/album/6YEYVd0UNdA0JNFoc02YWx) | 3:50 | 2021-11-10 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-11-10 |  |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-14 |  |
+| [Erlaxatu](https://open.spotify.com/track/3ROErV7ENsyuiM8CYd4uNP) | [Aingeni](https://open.spotify.com/artist/0cUxB8x7iRbqVCgZmdBtk8) | [Erlaxatu](https://open.spotify.com/album/7CfQJT2XMbcy52URkSYap1) | 2:38 | 2022-10-21 |  |
 | [Eternal Drift](https://open.spotify.com/track/3F8dD3bpSN4MiQtZJ4TRS1) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Eternal Drift](https://open.spotify.com/album/59Yown2MHetdJBLUXqGdeq) | 1:33 | 2021-11-10 |  |
 | [Eternal Glow](https://open.spotify.com/track/6utIEcZZHk4AbF3fBVIlNM) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Eternal Glow](https://open.spotify.com/album/2sKXwQiIpJjRiUYnKF2OqV) | 2:47 | 2021-11-10 |  |
 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2021-11-10 |  |
@@ -131,6 +133,7 @@
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-02-17 |  |
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-02-09 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-11-10 |  |
+| [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 | 2022-10-21 |  |
 | [Giant Steps Tomorrow](https://open.spotify.com/track/2KiBZ6xU6dnj47aT71G28P) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Giant Steps Tomorrow](https://open.spotify.com/album/31cxoMZtA7p665UG7sEhew) | 3:15 | 2021-11-10 |  |
 | [Glaciers](https://open.spotify.com/track/77VlInzvpsNl69mz2bVB5W) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Glaciers](https://open.spotify.com/album/0BDgPFL7CTLC6t0IoyzwJS) | 2:53 | 2022-01-21 |  |
 | [Glauben](https://open.spotify.com/track/6A1rTs49C6c3KVyGoKG6el) | [Dax Wolf](https://open.spotify.com/artist/6FN6ymYKo21ZEKnL1wNa7w) | [Glauben](https://open.spotify.com/album/6qXnHbES4CXICBw8YIYxNx) | 3:16 | 2021-11-10 |  |
@@ -156,6 +159,7 @@
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-09 |  |
 | [Inner Space](https://open.spotify.com/track/1sEa9g6jEgVVN140C89gYl) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Inner Space](https://open.spotify.com/album/7jcI5TedzwecaRrogB2eGw) | 3:09 | 2022-04-07 |  |
 | [Inside Preciousness](https://open.spotify.com/track/2eelYEZLIgBo2teCZ1HoMg) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Continuum](https://open.spotify.com/album/1HRBd6bU9JxHmzGOHX2HJn) | 3:51 | 2021-11-10 |  |
+| [Intertwining Paths](https://open.spotify.com/track/02INgHwnAG8TWhv7Fx4r7E) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Intertwining Paths](https://open.spotify.com/album/3g9MGGzfJSEVZL1Wc23agj) | 3:03 | 2022-10-21 |  |
 | [Invicta](https://open.spotify.com/track/6dp53x1hi7iUSHsBI8oPMz) | [Ella Wass](https://open.spotify.com/artist/3eZTGNMGlHLHDZ5tSMsM2K) | [Somnium](https://open.spotify.com/album/5aty9Xj6OISEIv5Tn6Ik14) | 4:09 | 2022-09-30 |  |
 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 | 2022-07-01 |  |
 | [It's All Sound](https://open.spotify.com/track/5W9fgCmnO8iDyBGxNUfAMc) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [It's All Sound](https://open.spotify.com/album/6CxHLr8Gsrl7yylpnaYflH) | 3:18 | 2021-11-10 |  |
@@ -282,6 +286,7 @@
 | [Smile](https://open.spotify.com/track/0pQassNAXhd7OszdrhLrSF) | [Evah Linnet](https://open.spotify.com/artist/2BOqxhLZK8i0dICth5U9VH) | [Smile](https://open.spotify.com/album/2i8nDba3GDeI8HWDKNaJ4u) | 3:06 | 2021-11-10 |  |
 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 | 2021-11-10 |  |
 | [Snooze](https://open.spotify.com/track/29618YxnLp1lxnonnxjI46) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Snooze](https://open.spotify.com/album/3Hv8OJI0Cbwbm8ULXfCPFU) | 2:46 | 2021-11-10 |  |
+| [Softly](https://open.spotify.com/track/21qtqBROcwDDNJD8ppAuwB) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Softly](https://open.spotify.com/album/3eHldyd3B8vooLnelcDW8b) | 2:16 | 2022-10-21 |  |
 | [Somnium](https://open.spotify.com/track/13o8mCXKQvMhuuNErL4JZ2) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Somnium](https://open.spotify.com/album/6GGCSed3CmViPzJ244Wggg) | 3:30 | 2022-09-30 |  |
 | [somnus state](https://open.spotify.com/track/6mVQDQzb0msscfSVhVwp7g) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [somnus state](https://open.spotify.com/album/71t1pesucp5VobQLTKOqhI) | 4:40 | 2021-11-10 |  |
 | [Soul Connect](https://open.spotify.com/track/1EVG8oKkYocWnjot9oPZHB) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Soul Connect](https://open.spotify.com/album/4CA9koIi5G0oRNLrPxv6UL) | 3:16 | 2021-11-10 |  |

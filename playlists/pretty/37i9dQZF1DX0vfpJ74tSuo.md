@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,279 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,366 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 5 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
 | 6 | [Heart of Stone](https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:25 |
 | 7 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 |
-| 8 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
-| 9 | [Bring It On Home](https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:36 |
+| 8 | [Bring It On Home](https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:36 |
+| 9 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 10 | [Sweet Thang](https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 4:12 |
 | 11 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 |
 | 12 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 45 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
 | 46 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 |
 | 47 | [Devil Is Watching You](https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes](https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV) | 4:00 |
-| 48 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 |
-| 49 | [Every Morning](https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:59 |
+| 48 | [Every Morning](https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:59 |
+| 49 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 |
 | 50 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 |
 | 51 | [Bonnie](https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:37 |
 | 52 | [Rank Strangers](https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 2:27 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 71 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 |
 | 72 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
 | 73 | [Assossam](https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw) | 2:57 |
-| 74 | [The Moon Is Rising](https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:44 |
-| 75 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
+| 74 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
+| 75 | [The Moon Is Rising](https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:44 |
 | 76 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 |
 | 77 | [Pay Day](https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 4:21 |
 | 78 | [Blues Up The River](https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 2:34 |
 | 79 | [Money Talks](https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:56 |
 | 80 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 |
 
-Snapshot ID: `MTY2NTc2Mjk0NSwwMDAwMDAwMDYwYjk3YzNjMTY3MGI4MDIwN2E3MTNmYTQ4ZGYzYWVi`
+Snapshot ID: `MTY2NTc2Mjk0NSwwMDAwMDAwMDBkMGVjODNiZDg3ODM3ZjQxOTI4YzNjOGE5MjZmZmVm`

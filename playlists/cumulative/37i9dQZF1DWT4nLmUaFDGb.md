@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-192 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/0aBELbZxmQOYGlLTnkY2l0)
+193 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/0aBELbZxmQOYGlLTnkY2l0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [I´m a Fool to Want You](https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ), [Marcelo Kimura](https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP) | [I´m a Fool to Want You](https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5) | 4:06 | 2021-12-21 |  |
 | [Jimmy Jazz](https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 2:30 | 2021-12-21 |  |
 | [Just A Dream](https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 5:29 | 2022-03-31 |  |
+| [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 | 2022-10-20 |  |
 | [Just Like Chet](https://open.spotify.com/track/3JCFkb1gVqjIT0hLFyX0Dc) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:36 | 2022-08-29 | 2022-09-01 |
 | [Just Like Chet](https://open.spotify.com/track/7MUT6pSYjzAUJYSg3Hva02) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:36 | 2022-08-29 | 2022-10-13 |
 | [Just The Way You Are](https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Live In Paris](https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV) | 5:00 | 2022-09-01 |  |
@@ -109,7 +110,7 @@
 | [Koop Island Blues](https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg) | [Koop](https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Koop Islands](https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc) | 4:32 | 2021-12-21 | 2022-08-30 |
 | [L\-O\-V\-E](https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 2:08 | 2022-09-08 | 2022-10-08 |
 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 | 2021-12-21 | 2022-07-29 |
-| [La belle vie \- The Good Life](https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [La belle vie \- The Good Life](https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH) | 3:42 | 2021-12-21 |  |
+| [La belle vie \- The Good Life](https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [La belle vie \- The Good Life](https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH) | 3:42 | 2021-12-21 | 2022-10-22 |
 | [La Vie En Rose](https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Passion World](https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi) | 8:12 | 2021-12-21 | 2022-10-11 |
 | [Look Of Love](https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w) | [Tok Tok Tok](https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH) | [Love Again](https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX) | 3:50 | 2022-09-08 |  |
 | [Love of My Life](https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Eternal Beauty](https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx) | 2:51 | 2022-08-19 |  |

@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/0RiCMVj1fDLgP3TQwhgent)
+70 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0RiCMVj1fDLgP3TQwhgent)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Close Friend](https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アクセンティア](https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo) | 4:29 | 2022-06-09 |  |
 | [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 | 2022-06-09 |  |
 | [dear brightness](https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [INNOCENCE](https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI) | 4:39 | 2022-06-09 | 2022-10-12 |
+| [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 | 2022-10-21 |  |
 | [FROATIN'](https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 | 2022-06-09 | 2022-08-17 |
 | [frozen eyez](https://open.spotify.com/track/5JmkXY4tdcONIdXI1NDNjY) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:14 | 2022-06-30 | 2022-10-02 |
 | [GENESIS](https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:38 | 2022-06-09 |  |
@@ -28,7 +29,7 @@
 | [INNOCENCE](https://open.spotify.com/track/0N63llGavaESfPRIZkDkvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:37 | 2022-06-09 |  |
 | [KASUMI](https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:40 | 2022-06-09 |  |
 | [Lament](https://open.spotify.com/track/3ZbnAjOJxirsvgoq5Y9Op5) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:20 | 2022-06-09 |  |
-| [Lapse From Virtue](https://open.spotify.com/track/1J2A4InBPQcfXyf9mF5IG8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:34 | 2022-06-09 |  |
+| [Lapse From Virtue](https://open.spotify.com/track/1J2A4InBPQcfXyf9mF5IG8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:34 | 2022-06-09 | 2022-10-22 |
 | [Liar](https://open.spotify.com/track/2icFqeEOtiXscKh5FFyBVU) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:17 | 2022-06-09 |  |
 | [MEMORIA](https://open.spotify.com/track/6qpGlLv9MHaChP5hEx6Pni) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:48 | 2022-06-09 |  |
 | [MEMORIA orchestra ver.](https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:29 | 2022-06-09 |  |

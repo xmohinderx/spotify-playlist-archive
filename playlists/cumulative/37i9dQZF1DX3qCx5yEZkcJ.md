@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-410 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+411 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Cosmic Thoughts](https://open.spotify.com/track/4lSsjJQ7DPJkcnvLqiuRcs) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Cosmic Thoughts](https://open.spotify.com/album/0RIxRPbo7BrvTSfJlTFIXE) | 2:32 | 2019-05-26\* | 2019-06-15 |
 | [Cows In The Distance](https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Dissociation](https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy) | 1:56 | 2020-06-19 | 2022-07-07 |
 | [Crooklyn](https://open.spotify.com/track/0kfpJ6L0Ipw5crz3AaMt5C) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Crooklyn](https://open.spotify.com/album/0cPoqkLyH0M6HZmQf5wYzR) | 1:52 | 2020-08-30 | 2022-07-17 |
-| [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 |  |
+| [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 | 2022-10-20 |  |
+| [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 | 2022-10-22 |
 | [cruisin](https://open.spotify.com/track/5W9Mq15IiRgTdzebzrdmJe) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [cruisin](https://open.spotify.com/album/5dWnaOrXtnDxS8yxmCTiOu) | 1:30 | 2019-05-26\* | 2021-05-26 |
 | [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 | 2019-05-26\* | 2022-04-21 |
 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-09-19 |

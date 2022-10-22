@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Skullcrusher
 
-437 songs - 1 day 3 hr 23 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
+438 songs - 1 day 3 hr 26 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [In the Name Of \- The Garden Version](https://open.spotify.com/track/62kXHzyihU3TUxtViHjcUF) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [In the Name Of \(The Garden Version\)](https://open.spotify.com/album/78ShD7Ejt5Rj5kEfxmJ8D4) | 4:36 | 2022-04-13 | 2022-04-21 |
 | [Is / Was](https://open.spotify.com/track/4TWXHt2u1IXQWxEP1pkzzH) | [Pieta Brown](https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP), [JT Bates](https://open.spotify.com/artist/0Xyrv6l8nqOpC7SFsmtECP) | [Is / Was](https://open.spotify.com/album/20oMlx076DuKwUAs57M6tK) | 2:36 | 2021-10-22 | 2022-07-27 |
 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 | 2022-01-14 | 2022-07-25 |
-| [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 |  |
+| [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 | 2022-10-22 |
 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-10-22 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-06-24 |  |
@@ -430,6 +430,7 @@
 | [Wind on Tin](https://open.spotify.com/track/5puD6cc8BPlXu3feo5bafr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 3:06 | 2021-10-22 | 2022-07-29 |
 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 | 2021-10-22 | 2022-04-22 |
 | [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 | 2022-06-24 | 2022-10-13 |
+| [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2022-10-14 |  |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-10-22 |  |
 | [Without a Face](https://open.spotify.com/track/5AE8JSskG5qY6ZlZ0JvKHC) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Passerby](https://open.spotify.com/album/3YMi92E4Jwp6mKfdtI8gex) | 3:44 | 2022-04-13 | 2022-04-21 |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-10-22 |  |

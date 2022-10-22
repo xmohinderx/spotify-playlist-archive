@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "2 AM",
+        "url": "https://open.spotify.com/album/4zh2bW9JufjawyuHocxmDj"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133988,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/1Agl3YCXpBcPspuXobCB2d"
+    },
+    {
+      "album": {
         "name": "2016",
         "url": "https://open.spotify.com/album/6KJFDu5yDuZeNTD7OGOWiU"
       },

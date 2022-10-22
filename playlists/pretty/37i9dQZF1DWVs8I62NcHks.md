@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > All your favorite Disney classics, new and old\. Stream Pinocchio on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,882,701 likes - 81 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,882,929 likes - 81 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
+| 1 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 | 2 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 |
 | 3 | [We Don't Talk About Bruno](https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh), [Rhenzy Feliz](https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr), [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:36 |
 | 4 | [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 |

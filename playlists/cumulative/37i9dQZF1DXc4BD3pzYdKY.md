@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: Tedashii
 
-695 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+696 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [NOW OR LATER](https://open.spotify.com/track/4crJ7ROSNR6ej7GPDFCspX) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [NOW OR LATER](https://open.spotify.com/album/1RGWKAn8tGkKdPkAXbe8ZV) | 2:51 | 2022-06-25 | 2022-09-12 |
 | [OBJ](https://open.spotify.com/track/0hAnE1agFKDyJllMoxT3f1) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Mirror Talk](https://open.spotify.com/album/2oRFdjmAAE46TQTy4GWtGe) | 2:14 | 2022-03-12 | 2022-08-07 |
 | [Obvious](https://open.spotify.com/track/4IiFVaOYaKvQ8IDxIxdEkX) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Obvious](https://open.spotify.com/album/495qhvw3b9LR0MvoTcvJYQ) | 2:28 | 2022-02-27 | 2022-04-27 |
+| [Off the Backboard](https://open.spotify.com/track/1g6tuWP8l6QyqvefovKRTE) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Off the Backboard](https://open.spotify.com/album/6bjrtax6VVPlyrHiBpfWFJ) | 2:02 | 2022-10-14 |  |
 | [Okay](https://open.spotify.com/track/3W83exgQnWggvGqB0F6i35) | [Jay Scribe](https://open.spotify.com/artist/0j7Sg6xQXHEhywlC6UJBbl) | [Okay](https://open.spotify.com/album/1HmM7Zy0QP4IIpVrKMTSGB) | 2:33 | 2022-06-25 | 2022-07-01 |
 | [Okay](https://open.spotify.com/track/3wCmNjOiXyDRNXFpLiPgFP) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [BIRDS](https://open.spotify.com/album/5XrOSKh3JxXCQQzxw5r9ag) | 2:59 | 2021-12-11 | 2022-02-02 |
 | [Old Me](https://open.spotify.com/track/1CYddBLXud7wVxcM2en4e3) | [5ive](https://open.spotify.com/artist/3mQZ0BGNOmrrl2Vv0FJXSY), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Old Me](https://open.spotify.com/album/0ebvKdwj1s5MqbWXnkwK76) | 3:31 | 2022-04-29 | 2022-07-30 |
@@ -463,7 +464,7 @@
 | [Past That \(feat\. V.Rose\)](https://open.spotify.com/track/4RAZVw5hRhcbO9RSD68C89) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Less Is More](https://open.spotify.com/album/5o5sGCSVgd723x2SiAXnww) | 3:08 | 2021-12-11 | 2022-04-29 |
 | [Pastor Monty](https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pastor Monty](https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j) | 2:22 | 2022-04-29 | 2022-08-07 |
 | [Patek](https://open.spotify.com/track/6cxg5uaRx7AAZQWTcDOH28) | [Throne Seekers](https://open.spotify.com/artist/4iAFsQhcfEPlwVIuETKC8J) | [Patek](https://open.spotify.com/album/4U2gvMpmY4vHDq7yzBI4xs) | 2:52 | 2021-12-11 | 2022-05-28 |
-| [Peace](https://open.spotify.com/track/1UCsw9heXjAk1EyawkJt1o) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Peace](https://open.spotify.com/album/69lua5UL1lNlvdCTRRfBI9) | 1:40 | 2022-10-07 |  |
+| [Peace](https://open.spotify.com/track/1UCsw9heXjAk1EyawkJt1o) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Peace](https://open.spotify.com/album/69lua5UL1lNlvdCTRRfBI9) | 1:40 | 2022-10-07 | 2022-10-22 |
 | [Peace](https://open.spotify.com/track/61cmqwreoBbGl2RsyBzhog) | [Drup](https://open.spotify.com/artist/6z8R3AsU5ECOFPbCjw5T3l), [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [Peace](https://open.spotify.com/album/7d6yz1HP5UrdQyd1lmzjPv) | 2:32 | 2022-09-11 | 2022-09-17 |
 | [PEACE OF MIND](https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [PEACE OF MIND](https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ) | 3:27 | 2022-07-17 |  |
 | [Perfect](https://open.spotify.com/track/0q52LXX8XHQdSrm0nbKHxd) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC), [Jay Parker](https://open.spotify.com/artist/3Kqx0JRUCjIKgi09wjceLL) | [Perfect](https://open.spotify.com/album/5KiupqyhTeIG0RIwDSKwbO) | 3:05 | 2022-02-04 | 2022-07-29 |

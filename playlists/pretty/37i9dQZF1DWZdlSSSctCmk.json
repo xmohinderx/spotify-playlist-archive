@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 80234,
+  "num_followers": 80261,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMGViZTIwODI2YTYyNmJlODI3MWQzOTg2YjNhYjEwNjM3",
+  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMDFlMjI4MWNmYjU4OTczNDhiM2JkNGFiMGIzOGIxNjk3",
   "tracks": [
     {
       "added_at": "2022-09-05 16:17:05",
@@ -295,6 +295,26 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5sS4svCxwZw2vPUJUdMw6z"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -999,6 +999,26 @@
       "duration_ms": 232194,
       "name": "Night Jaguars",
       "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "The Best Of Cheryl Lynn: Got To Be Real",
+        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
+      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1055,26 +1075,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "The Best Of Cheryl Lynn: Got To Be Real",
-        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
-      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Wandering",
         "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 226000,
       "name": "Mutual Feelin' - Edit",
       "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "Keep Smiling [Remastered] (Remastered Version)",
-        "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 512080,
-      "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
-      "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1155,6 +1139,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Keep Smiling [Remastered] (Remastered Version)",
+        "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 512080,
+      "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
+      "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/6oL8GBIZvqBrzmMm0l5S8O"
       },
       "artists": [
         {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
         }
       ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+      "duration_ms": 332820,
+      "name": "Tropicololo",
+      "url": "https://open.spotify.com/track/3oHpnrupsyl38Q1QL1fc66"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1343,22 +1359,6 @@
       "duration_ms": 295989,
       "name": "Verbana (feat. Hush Forever)",
       "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/6oL8GBIZvqBrzmMm0l5S8O"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 332820,
-      "name": "Tropicololo",
-      "url": "https://open.spotify.com/track/3oHpnrupsyl38Q1QL1fc66"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/4lz9XAbb1eRlrQ4uAvh6eg"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer - Edit",
+      "url": "https://open.spotify.com/track/3G7SL29sPxI9Nyw96Awvdt"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Mendes & Mendes",
         "url": "https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4"
       },
@@ -1491,6 +1507,30 @@
       "duration_ms": 329440,
       "name": "Mitamiyo",
       "url": "https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Fidelity Radio Club (Toy Tonics Remixes)",
+        "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
+      },
+      "artists": [
+        {
+          "name": "S. Fidelity",
+          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
+        },
+        {
+          "name": "\u00c0b\u00e1se",
+          "url": "https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba"
+        },
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 257321,
+      "name": "Me at the Zoo - Cody Currie Remix",
+      "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1527,30 +1567,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Fidelity Radio Club (Toy Tonics Remixes)",
-        "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
-      },
-      "artists": [
-        {
-          "name": "S. Fidelity",
-          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
-        },
-        {
-          "name": "\u00c0b\u00e1se",
-          "url": "https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba"
-        },
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 257321,
-      "name": "Me at the Zoo - Cody Currie Remix",
-      "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Old Graffiti",
         "url": "https://open.spotify.com/album/40phn9ROeEnZZYBRRc8DoZ"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 208853,
       "name": "Old Graffiti",
       "url": "https://open.spotify.com/track/1nlSd6Rqq5pL7BE3yfO6QF"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/4lz9XAbb1eRlrQ4uAvh6eg"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer - Edit",
-      "url": "https://open.spotify.com/track/3G7SL29sPxI9Nyw96Awvdt"
     },
     {
       "added_at": "2022-09-05 16:17:05",

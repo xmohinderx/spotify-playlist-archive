@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-193 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+195 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,9 +79,11 @@
 | [From The Inside](https://open.spotify.com/track/1HaaEn0RbBCWCjyd1pXy2o) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Anna's Waltz](https://open.spotify.com/album/1OnOLXhfMvWq65EGVDgDPw) | 2:21 | 2022-02-18 |  |
 | [Fyna](https://open.spotify.com/track/6l0hNEgi62kkGZ69RuVblp) | [Sundale](https://open.spotify.com/artist/3LFFYvQWGZPeQPOJcqKXfi) | [Fyna](https://open.spotify.com/album/0jvaidHFliZFQ7u1yETVRg) | 2:38 | 2022-09-13 |  |
 | [Galaxy River](https://open.spotify.com/track/4qoE30s1SzfR9aylJwSULq) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Galaxy River](https://open.spotify.com/album/3TzMmfxAKMqkRFAShdma9u) | 3:37 | 2022-02-18 |  |
+| [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 | 2022-10-21 |  |
 | [Gelborn Heights](https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Soft Slow Sleep](https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK) | 3:13 | 2022-02-18 | 2022-09-15 |
 | [Giant Steps Tomorrow](https://open.spotify.com/track/2KiBZ6xU6dnj47aT71G28P) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Giant Steps Tomorrow](https://open.spotify.com/album/31cxoMZtA7p665UG7sEhew) | 3:15 | 2022-02-18 | 2022-06-17 |
 | [Glemt Perle](https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Glemt Perle](https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ) | 4:13 | 2022-03-08 |  |
+| [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Emil Fortini](https://open.spotify.com/artist/1Ce1nbaoW2Uw18C21ES7QG) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 | 2022-10-21 |  |
 | [Haze](https://open.spotify.com/track/4hv0YrKRtGmsDghhkURaNJ) | [Anima](https://open.spotify.com/artist/3XM6Pf9Qxz0xdPZV1SEGjd) | [Haze](https://open.spotify.com/album/1D9Ik1SIjR9YVi8BeY8JQr) | 3:38 | 2022-02-18 |  |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-04-13 |  |
 | [Hermosa](https://open.spotify.com/track/5Qg04tWgRG0Yv8VNRUKs9k) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [Hermosa](https://open.spotify.com/album/5lLEiFsDZ1OexGJOxxfQnp) | 2:58 | 2022-02-18 |  |

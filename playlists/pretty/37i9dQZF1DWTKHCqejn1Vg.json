@@ -1,15 +1,15 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 9619,
+  "num_followers": 9697,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGMyY2U1MWEyNzAzZmJkNGRlYmNhM2ZmY2ZlM2EyMjU5",
+  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGQyYjEzYjJjOTFhZjhjMTUwYTc3YTM3NmYxM2I4MTUx",
   "tracks": [
     {
-      "added_at": "2022-10-21 01:16:52",
+      "added_at": "2022-10-22 01:23:47",
       "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
-        "name": "waves",
-        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
-      },
-      "artists": [
-        {
-          "name": "Risso",
-          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
-        "name": "VELVETMOTH",
-        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
       },
       "artists": [
         {
-          "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
         }
       ],
-      "duration_ms": 196250,
-      "name": "CANTSAY",
-      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
     },
     {
       "added_at": "2022-10-04 14:56:03",
@@ -893,7 +877,23 @@
       "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
     },
     {
-      "added_at": "2022-10-21 01:16:52",
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
+        "name": "VELVETMOTH",
+        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
+      },
+      "artists": [
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "CANTSAY",
+      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
+    },
+    {
+      "added_at": "2022-10-22 01:23:47",
       "album": {
         "name": "Be there",
         "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"

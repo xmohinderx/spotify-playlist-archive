@@ -1,13 +1,29 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: hope tala",
-  "num_followers": 940960,
+  "num_followers": 941210,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjA0MDEwNSwwMDAwMDAwMGI0MWE2Y2YxYzJkOGM4YWVjZjY3YWVjMWY4MTZiZWU2",
+  "snapshot_id": "MTY2NjMzODY5NSwwMDAwMDAwMGU2OGM0NDA2NDcyMDUwMTVhMThmNjZmNGEwYzI5ZjQw",
   "tracks": [
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -25,20 +41,44 @@
       "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
     },
     {
       "added_at": "2022-09-28 01:24:44",
@@ -57,20 +97,176 @@
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
-      "added_at": "2022-10-11 16:52:48",
+      "added_at": "2022-10-14 16:15:15",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 320186,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Right Person, Wrong Time (feat. Umi & Yeek)",
+        "url": "https://open.spotify.com/album/7qPAIypukW56UbtxsSyJmz"
+      },
+      "artists": [
+        {
+          "name": "MMC",
+          "url": "https://open.spotify.com/artist/65yp9O1OaiVDmD2hZ4YIl5"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "Right Person, Wrong Time (feat. Umi & Yeek)",
+      "url": "https://open.spotify.com/track/2m1joPV2mS8CjqxFs7EGMb"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "means to an end (not enough)",
+        "url": "https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT"
+      },
+      "artists": [
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "duration_ms": 280243,
+      "name": "means to an end (not enough)",
+      "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+    },
+    {
+      "added_at": "2022-10-14 17:53:21",
+      "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "You're Nobody",
+        "url": "https://open.spotify.com/album/2Oee5a8bjVqgcLgYNTnH6D"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 181747,
+      "name": "You're Nobody",
+      "url": "https://open.spotify.com/track/4uxC5r5XJTPVEdl1N8ljLI"
+    },
+    {
+      "added_at": "2022-09-27 22:47:26",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "stranded (feat. angelus)",
+        "url": "https://open.spotify.com/album/4yAZzAMHd6AnEJtN0gglFm"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        },
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "stranded (feat. angelus)",
+      "url": "https://open.spotify.com/track/4ybA4RmMlEjU83umFZnTVj"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/49aUKXpJ9U0llET9mhgOqI"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 227209,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/7A3uhvZBmoLzCCFQT14lGU"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 148781,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW"
     },
     {
       "added_at": "2022-10-12 03:48:39",
@@ -89,20 +285,104 @@
       "url": "https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev"
     },
     {
-      "added_at": "2022-10-14 17:53:21",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "i haunt ur dreams",
-        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4JPTBzG9A9HqkS0dscsM6H"
       },
       "artists": [
         {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
         }
       ],
-      "duration_ms": 216665,
-      "name": "i haunt ur dreams",
-      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
+      "duration_ms": 172242,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "frog",
+        "url": "https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "frog",
+      "url": "https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "da da song",
+        "url": "https://open.spotify.com/album/7CeAUizDRDfQuI42JGMlTS"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 203448,
+      "name": "da da song",
+      "url": "https://open.spotify.com/track/1PcK6cDH0Cq3h4etrY3QIw"
+    },
+    {
+      "added_at": "2022-10-08 00:30:12",
+      "album": {
+        "name": "SYT",
+        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "SYT",
+      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
+    },
+    {
+      "added_at": "2022-10-11 16:52:48",
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "OPEN LETTER (feat. Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 246935,
+      "name": "OPEN LETTER (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -123,18 +403,18 @@
     {
       "added_at": "2022-10-14 16:15:15",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "wide eyed",
+        "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+      "duration_ms": 214068,
+      "name": "wide eyed",
+      "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
     },
     {
       "added_at": "2022-09-22 17:26:08",
@@ -169,26 +449,6 @@
       "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "OPEN LETTER (feat. Teezo Touchdown)",
-        "url": "https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW"
-      },
-      "artists": [
-        {
-          "name": "MIA GLADSTONE",
-          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 246935,
-      "name": "OPEN LETTER (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI"
-    },
-    {
       "added_at": "2022-08-04 04:00:00",
       "album": {
         "name": "Live at Electric Lady",
@@ -205,22 +465,6 @@
       "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
     },
     {
-      "added_at": "2022-10-14 16:15:15",
-      "album": {
-        "name": "wide eyed",
-        "url": "https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 214068,
-      "name": "wide eyed",
-      "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Crazy Sexy Dream Girl",
@@ -235,22 +479,6 @@
       "duration_ms": 146633,
       "name": "Crazy Sexy Dream Girl",
       "url": "https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT"
-    },
-    {
-      "added_at": "2022-10-08 00:30:12",
-      "album": {
-        "name": "SYT",
-        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "SYT",
-      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
     },
     {
       "added_at": "2022-10-08 01:34:01",
@@ -299,22 +527,6 @@
       "duration_ms": 196964,
       "name": "Matador",
       "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
-    },
-    {
-      "added_at": "2022-09-27 22:47:26",
-      "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2022-09-23 04:00:00",

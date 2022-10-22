@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 118325,
       "name": "BLADE CHOICE",
       "url": "https://open.spotify.com/track/48hJrG5HKu5HoN0THsUs7t"
@@ -471,6 +471,24 @@
       "duration_ms": 124878,
       "name": "BLAST",
       "url": "https://open.spotify.com/track/6m5tfUg4wyg3zKcKVutJGA"
+    },
+    {
+      "album": {
+        "name": "BLAST EM'",
+        "url": "https://open.spotify.com/album/0Q4i0Jg3nPZMILctz4pwDJ"
+      },
+      "artists": [
+        {
+          "name": "Aega",
+          "url": "https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "BLAST EM'",
+      "url": "https://open.spotify.com/track/6EhLg6CkMso3gmN6XbA1zH"
     },
     {
       "album": {
@@ -799,6 +817,24 @@
     {
       "album": {
         "name": "COURAGE",
+        "url": "https://open.spotify.com/album/07Q4VYf7jvAftXoj2jcYHj"
+      },
+      "artists": [
+        {
+          "name": "Phonk Killer",
+          "url": "https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "COURAGE",
+      "url": "https://open.spotify.com/track/6Yh78OTsqdERLpivX8hcN5"
+    },
+    {
+      "album": {
+        "name": "COURAGE",
         "url": "https://open.spotify.com/album/7GRSvHSXrLcOqw4SlUVqFz"
       },
       "artists": [
@@ -809,7 +845,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 129032,
       "name": "COURAGE",
       "url": "https://open.spotify.com/track/56kfvPwk9KARklFwz5jwjJ"
@@ -1117,7 +1153,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 123130,
       "name": "DEAD OR ALIVE",
       "url": "https://open.spotify.com/track/4SWGqW67ZHIAb1tSFsYABA"
@@ -1914,6 +1950,24 @@
     },
     {
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/1vmjfk4HCzEsqqgq7vwl03"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131384,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/0MTBiPyJ4u3XoS1JKBktdb"
+    },
+    {
+      "album": {
         "name": "FIGHT!",
         "url": "https://open.spotify.com/album/16EYI6lvNPfq5lSYQySqTW"
       },
@@ -2483,7 +2537,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 125538,
       "name": "HEART RATE",
       "url": "https://open.spotify.com/track/2ht13ee9lxkXCMOxVQo0jB"
@@ -3109,7 +3163,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 150164,
       "name": "LAST ONE",
       "url": "https://open.spotify.com/track/6XH0taXenGnqJ4qdlElbDe"
@@ -5772,6 +5826,28 @@
     },
     {
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq"
+      },
+      "artists": [
+        {
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        },
+        {
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN"
+    },
+    {
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x"
       },
@@ -6205,6 +6281,28 @@
       "duration_ms": 164839,
       "name": "WORTH NOTHING - Instrumental",
       "url": "https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq"
+    },
+    {
+      "album": {
+        "name": "WRAITH KING",
+        "url": "https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys"
+      },
+      "artists": [
+        {
+          "name": "D4C",
+          "url": "https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq"
+        },
+        {
+          "name": "HRXSTAL",
+          "url": "https://open.spotify.com/artist/7rVlpWZjzkvYT7Ge8hffMZ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123840,
+      "name": "WRAITH KING",
+      "url": "https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m"
     },
     {
       "album": {

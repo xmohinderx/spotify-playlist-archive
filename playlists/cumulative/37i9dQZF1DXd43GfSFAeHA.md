@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: ElGrandeToto
 
-160 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+162 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Gazra](https://open.spotify.com/track/1MfMQGqZwuYRMuiKHISLLB) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [Gazra](https://open.spotify.com/album/14ytgvdfVopFLzc8BLk5or) | 3:12 | 2022-05-08 | 2022-08-24 |
 | [Ghaba](https://open.spotify.com/track/45GbniNGdKE7vSgggfcBWl) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Ghaba](https://open.spotify.com/album/3dllHmcOIukOlPcbo5i6mJ) | 3:04 | 2022-05-08 | 2022-07-29 |
 | [Ghaba](https://open.spotify.com/track/4Zpg4neFtdTJJF4wsrTJRa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:04 | 2022-07-28 | 2022-08-24 |
+| [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-21 |  |
 | [Go There](https://open.spotify.com/track/30JrbvrpnPM14nTKrY4Dkt) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Go There](https://open.spotify.com/album/52CoO1Dl01eN1hfEDOPUP9) | 3:07 | 2022-05-08 | 2022-06-18 |
 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 | 2022-10-04 |  |
 | [Ha3](https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Ha3](https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r) | 2:11 | 2022-10-04 |  |
@@ -127,6 +128,7 @@
 | [TOO BAD](https://open.spotify.com/track/1AnrtxsCuT4NhqCZGAF1KI) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [TOO BAD](https://open.spotify.com/album/1l9g8CblI5U64euEuJFFE3) | 2:39 | 2022-10-04 |  |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-08 | 2022-10-04 |
 | [Tuxedo](https://open.spotify.com/track/5HlG2nrqhheXniOhZ7NPLU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Tuxedo](https://open.spotify.com/album/1JmKxlWqIvNTqpGjCPM05e) | 2:51 | 2022-05-08 | 2022-08-24 |
+| [VFX](https://open.spotify.com/track/3m9TzZ3tnaeMRC4dIrdrk9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:43 | 2022-10-21 |  |
 | [Vide](https://open.spotify.com/track/3vg7v3qKyjAWsBYwJlRa11) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Vide](https://open.spotify.com/album/1bgPSa6kgOFUa3LCkcjdsL) | 2:48 | 2022-10-04 |  |
 | [Vodka](https://open.spotify.com/track/1j7klmum7rHzQ5IaBHdJbd) | [Mc Mego](https://open.spotify.com/artist/7zWFK5lCZczH8rUiPHosJD) | [Vodka](https://open.spotify.com/album/0WzA8Bs7gxzjzFSRp5IWDf) | 4:22 | 2022-07-28 | 2022-10-04 |
 | [Vodka](https://open.spotify.com/track/2Ch765beJ2P1cAxEM6QiNT) | [Mc Mego](https://open.spotify.com/artist/7zWFK5lCZczH8rUiPHosJD) | [Vodka](https://open.spotify.com/album/0y4hGWO2xM9bHa5wOx72im) | 4:22 | 2022-05-08 | 2022-07-29 |

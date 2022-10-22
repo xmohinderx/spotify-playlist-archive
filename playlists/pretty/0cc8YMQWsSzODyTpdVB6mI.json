@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43784,
+  "num_followers": 43810,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk4MywwMmM4YjI1OWUyMmUwMWQ0NWM1NDI2NmNlOWRkZjZmMDk0ODI0ZTJh",
+  "snapshot_id": "Mjk4NSw2ZjI2YzY4NTA4YzlmYTFiY2QxNDY4MGU0MGFmMWJmMmU0YWMxYzEy",
   "tracks": [
+    {
+      "added_at": "2022-10-21 08:08:38",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/2p3hX6CPLy6Sbk7SExyrq4"
+      },
+      "artists": [
+        {
+          "name": "Mateyo",
+          "url": "https://open.spotify.com/artist/0B0O3zN1qA3VmxGoF7sHiE"
+        },
+        {
+          "name": "Rashaad Dailey",
+          "url": "https://open.spotify.com/artist/44jle8k8LxfWM00MnfUbQA"
+        }
+      ],
+      "duration_ms": 171206,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/6eowOvcJ7v9OAMzzt9HhPG"
+    },
     {
       "added_at": "2022-10-17 08:13:22",
       "album": {
@@ -407,22 +427,6 @@
       "duration_ms": 216553,
       "name": "HIGH HOPES",
       "url": "https://open.spotify.com/track/5C9KruKQHBLDMA9E45i47Y"
-    },
-    {
-      "added_at": "2022-07-25 08:22:58",
-      "album": {
-        "name": "Salute",
-        "url": "https://open.spotify.com/album/2XrG6Uje2PSI1O8uFhIBbZ"
-      },
-      "artists": [
-        {
-          "name": "YOU LOVE HER",
-          "url": "https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c"
-        }
-      ],
-      "duration_ms": 252241,
-      "name": "Salute",
-      "url": "https://open.spotify.com/track/6CnEBsHGd2njYxN7brrmd7"
     },
     {
       "added_at": "2021-11-05 15:47:43",

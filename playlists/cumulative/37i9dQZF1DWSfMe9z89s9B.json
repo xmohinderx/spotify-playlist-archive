@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "R&B without boundaries. Cover: Paulade",
+  "description": "R&B without boundaries. Cover: Nick Hakim",
   "name": "Alternative R&B",
   "published_playlist_ids": [
     "5LTt78znSTM3vwYtfHo5Kh"
@@ -1310,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "best",
+      "url": "https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX"
+    },
+    {
+      "album": {
         "name": "IN THE AIR/BILL$ (SPED UP)",
         "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
       },
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 204440,
       "name": "Bitches Be (with Jst Ray)",
       "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 205536,
       "name": "Cherie",
       "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
@@ -3522,6 +3540,24 @@
     },
     {
       "album": {
+        "name": "Feeling Myself",
+        "url": "https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -4021,7 +4057,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 175810,
       "name": "Garden",
       "url": "https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP"
@@ -4257,7 +4293,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
@@ -6596,6 +6632,28 @@
     },
     {
       "album": {
+        "name": "Circmvnt",
+        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220781,
+      "name": "Luvaroq",
+      "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
+    },
+    {
+      "album": {
         "name": "macrodosing - Spotify Singles",
         "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
       },
@@ -6629,6 +6687,24 @@
       "duration_ms": 197153,
       "name": "Mad",
       "url": "https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t"
+    },
+    {
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "album": {
@@ -9735,6 +9811,24 @@
       "duration_ms": 208000,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
+    },
+    {
+      "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
       "album": {

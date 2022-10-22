@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-353 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+354 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Chauma](https://open.spotify.com/track/46U7cjUbIwsMr6XwlEcE35) | [pothOles](https://open.spotify.com/artist/4FsQtPo1pvWq2GKKcKXyRH) | [Chauma](https://open.spotify.com/album/38umTMbcj2n8RB7COoIr18) | 4:50 | 2022-02-04 |  |
 | [Choose Love \- Gerd Janson Remix](https://open.spotify.com/track/6v5cHVwMYQMDvAIlfr2Kwa) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Choose Love \(Gerd Janson Remix\)](https://open.spotify.com/album/4zYngChJ5qPNtbxb6Z3MSo) | 3:44 | 2022-04-01 | 2022-04-16 |
 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 | 2022-07-29 |  |
+| [Classique](https://open.spotify.com/track/767a2JIsUhYYxrDLSWAs5e) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Classique](https://open.spotify.com/album/4Uj6HHrgN4YRNIq5R2fZTM) | 3:52 | 2022-10-21 |  |
 | [Closer](https://open.spotify.com/track/6pB59ef67FGX7zALUxATo4) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Closer](https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve) | 4:59 | 2022-07-29 |  |
 | [Coming Alive](https://open.spotify.com/track/3TBC8LrdpJCQ1yn07K1yMV) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [JODA](https://open.spotify.com/album/5QoX8eEaLS9XKFFzYcFC6B) | 4:45 | 2022-08-26 |  |
 | [Communication](https://open.spotify.com/track/4C9lZarwkYUM0eQZysI4lI) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Communication](https://open.spotify.com/album/6sIU7SxKLLjjXkZ0jn33WO) | 3:17 | 2021-10-15 | 2022-07-29 |
@@ -248,7 +249,7 @@
 | [Part Time God](https://open.spotify.com/track/14juitXdt9JqvBQAQP3i5L) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 3:37 | 2021-10-15 | 2022-04-02 |
 | [Party at Kitty & Stud's](https://open.spotify.com/track/3THa36K3k5UzEQREL9w9Xx) | [80s Stallone](https://open.spotify.com/artist/1kbrY3DkdlVnrp4NCTPCpx) | [Party At Kitty & Stud's](https://open.spotify.com/album/2n4shhAODxZT9SxXWVtG0G) | 4:20 | 2022-04-01 |  |
 | [Past Present](https://open.spotify.com/track/6NWqbfviq3zwoGqIlSnzuR) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Asutenki](https://open.spotify.com/artist/14BiKqKsX9hV5nvNNHA5Xo) | [Past Present](https://open.spotify.com/album/1fQWDkBdjgUsbYiuNDu9Ig) | 4:10 | 2021-10-15 | 2022-03-22 |
-| [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 |  |
+| [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 | 2022-10-22 |
 | [Pelée](https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Fundamentals, Vol\. III](https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh) | 5:16 | 2022-02-04 |  |
 | [Peripheral Vision](https://open.spotify.com/track/7JjpqTuimad5QSRyw2X4xT) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Peripheral Vision](https://open.spotify.com/album/6Ldmn3CqdXYp38q0thv2RO) | 4:10 | 2022-04-01 | 2022-04-20 |
 | [Power Light](https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ) | [Æ7](https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO) | [Power Light](https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg) | 4:21 | 2022-06-10 | 2022-08-26 |

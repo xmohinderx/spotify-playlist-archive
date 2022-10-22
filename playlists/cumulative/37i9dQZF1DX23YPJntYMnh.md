@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-105 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
+106 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 | 2022-08-20 |
 | [Preacher](https://open.spotify.com/track/7LX79SGY8tO1iJz2S0xUMJ) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Preacher](https://open.spotify.com/album/4SyVePkSezv4jAwvV4HBxQ) | 3:43 | 2022-02-04 | 2022-04-20 |
 | [Promenade](https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 2:31 | 2020-01-08 |  |
-| [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 | 2020-01-08 |  |
+| [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 | 2020-01-08 | 2022-10-22 |
 | [Renegades Of Funk](https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 4:34 | 2020-01-08 |  |
 | [Set Me Free](https://open.spotify.com/track/5WUfeLKM62vFVd0SxBCtxj) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Set Me Free](https://open.spotify.com/album/2aGGCoiMtFv8pJI5AQvVRN) | 4:40 | 2022-09-23 |  |
 | [Sever](https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Soundsystem](https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ) | 4:43 | 2020-01-08 |  |
@@ -102,6 +102,7 @@
 | [Tobacco Road](https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best of Eric Burdon & War](https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc) | 3:57 | 2022-02-04 |  |
 | [Tommy The Cat](https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:14 | 2020-01-08 |  |
 | [Tones Of Home](https://open.spotify.com/track/5Cr8DxrjyP2fS93XjGXlFl) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 4:26 | 2020-01-08 |  |
+| [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/track/734WIZHSCzLUpxAjeE0J7K) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD) | [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/album/4l1PiVwpjTQTruBUTcnfBR) | 2:27 | 2022-10-21 |  |
 | [Truth'll Set You Free](https://open.spotify.com/track/1U3jCQJNm86HQh04TWqdFD) | [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [Another Mother Further](https://open.spotify.com/album/6OQBoCdyg4yk67bIVgZqnF) | 4:22 | 2020-01-08 | 2022-07-29 |
 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 | 2020-01-08 |  |
 | [Vinnie](https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5) | [Screaming Headless Torsos](https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb) | [1995](https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN) | 4:24 | 2020-01-08 |  |

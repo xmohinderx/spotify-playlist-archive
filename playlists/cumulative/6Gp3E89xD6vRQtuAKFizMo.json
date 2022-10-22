@@ -224,6 +224,28 @@
     },
     {
       "album": {
+        "name": "Chain Reaction (feat. GiGi Grombacher)",
+        "url": "https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Chain Reaction (feat. GiGi Grombacher)",
+      "url": "https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC"
+    },
+    {
+      "album": {
         "name": "Check This (with Kuhlosul)",
         "url": "https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k"
       },
@@ -448,6 +470,28 @@
     },
     {
       "album": {
+        "name": "Dramatic",
+        "url": "https://open.spotify.com/album/0QuSvdYztrOUUPE5E6WKpP"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "PLAYDED",
+          "url": "https://open.spotify.com/artist/2bVDBU5YmauWpiN1LJ8ZkL"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Dramatic (prod. PLAYDED)",
+      "url": "https://open.spotify.com/track/2KIJSmiVOO0Obh6h1rx8ti"
+    },
+    {
+      "album": {
         "name": "DROP",
         "url": "https://open.spotify.com/album/18V8UhRyjkIdJJ6giY7J9F"
       },
@@ -593,7 +637,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 164765,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U"
@@ -863,7 +907,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 147200,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/6zBmmiGwTPmiYS6Xz3rAm3"

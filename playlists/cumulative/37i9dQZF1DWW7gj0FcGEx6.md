@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-184 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+185 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Themyscira](https://open.spotify.com/track/4C7lKHNYzm9c8ywpGNlAc9) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Wonder Woman 1984 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S6PQvbIyUIS9P6Cxu9lmO) | 3:51 | 2022-07-22 | 2022-08-20 |
 | [There'll Always Be Another Monster](https://open.spotify.com/track/277m7fiKpjfeMgGLDzlqEO) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz), [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 2:44 | 2021-12-20 |  |
 | [This Was a Poet](https://open.spotify.com/track/1znN76aRFFQGNINWqsYOWB) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7), [Ian Hultquist](https://open.spotify.com/artist/2KcLrCao2zAX5Ez6gZzgW9) | [Dickinson: Season Three \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/5DBAk2UBKmnZVNDR0NT1Yf) | 2:14 | 2021-12-20 |  |
-| [Thrinos](https://open.spotify.com/track/3Ma4JDl9bU1UInwwCiVIfU) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Edicius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ABYH0nH2gLfbibEAK8dvq) | 2:07 | 2022-01-07 |  |
+| [Thrinos](https://open.spotify.com/track/1BLhw0Jg5xhXxqsuk32IMN) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Edicius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FmuIHK69zVRiQYVfnnYIv) | 2:07 | 2022-10-07 |  |
+| [Thrinos](https://open.spotify.com/track/3Ma4JDl9bU1UInwwCiVIfU) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Edicius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ABYH0nH2gLfbibEAK8dvq) | 2:07 | 2022-01-07 | 2022-10-22 |
 | [Together Again](https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 2:53 | 2021-12-20 | 2022-08-20 |
 | [Toss A Coin To Your Witcher](https://open.spotify.com/track/7iQM9DQUFKUSNjVt8GQZV2) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [Toss A Coin To Your Witcher](https://open.spotify.com/album/2zC7zR2MR9AvpM1hQCzGNG) | 3:10 | 2021-12-20 | 2022-10-08 |
 | [Towels on the Field](https://open.spotify.com/track/7ytvaFgYfja2E6ISXFoBWj) | [Mark Orton](https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A), [John Hancock](https://open.spotify.com/artist/0teVTDtWrhqfHAJO2vlSRr), [Carla Kihlstedt](https://open.spotify.com/artist/3YCyK8NZhGV3lFNX12DfA9) | [12 Mighty Orphans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/43KlBaixriwA0gib6ljzdB) | 3:00 | 2021-12-20 |  |

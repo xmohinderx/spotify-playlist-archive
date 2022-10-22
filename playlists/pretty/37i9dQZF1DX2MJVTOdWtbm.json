@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Ramon Vega",
-  "num_followers": 100918,
+  "num_followers": 100938,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NjgzMiwwMDAwMDAwMGQ3MWM5YTA3Nzk1NDg4NjY5ZmNkNThiZTQ1MjI1OTNl",
+  "snapshot_id": "MTY2Mzk0NjgzMiwwMDAwMDAwMDg4ODI5Nzc5YzFmNjEwMzFkYTZlYTAyM2RhYWEzZmZj",
   "tracks": [
     {
       "added_at": "2022-09-23 15:27:11",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 169161,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
+    },
+    {
+      "added_at": "2022-09-23 15:27:11",
+      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 230787,
       "name": "diario",
       "url": "https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c"
-    },
-    {
-      "added_at": "2022-09-23 15:27:11",
-      "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 169161,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2022-09-23 15:27:11",

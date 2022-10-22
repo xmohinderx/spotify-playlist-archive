@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: piri & tommy
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,858 likes - 120 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,982 likes - 120 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 10 | [Shimmer](https://open.spotify.com/track/6NzCy1aUFe3VOWRdnbmQN1) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie / Shimmer](https://open.spotify.com/album/2Jv8NoXc5iLVXVpCoUiB6t) | 5:10 |
 | 11 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 |
 | 12 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 |
-| 13 | [Kammy \(like i do\)](https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS) | 3:58 |
+| 13 | [Kammy \(like i do\)](https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/3hYksFQ1oq8EGadqmU0sOi) | 3:58 |
 | 14 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
 | 15 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 16 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 119 | [FYA FYA](https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [FYA FYA](https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R) | 3:41 |
 | 120 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 
-Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMDQ5Y2M0NmExN2I2ZGIwYmE0YzFkMzAzZDIzYmIyYzI4`
+Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMDQ1MjY2ZmY4Nzk4ZmI4ZTJlY2Q3MTg3NmVlMjgyN2U1`

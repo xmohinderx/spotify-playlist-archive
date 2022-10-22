@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 35669,
+  "num_followers": 35685,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDEzOWVhNTBiOTQwZjliOTg5OTUwNDI0MTBiNTBhMGJl",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMGY1MDhmMTQyYjI3NzQ3YzAyMWMwMDZkZGZjNzEzMDBh",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -207,26 +207,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Nothing Changed",
-        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Nothing Changed",
-      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "My Friends (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 158167,
       "name": "My Friends (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Ay Caramba",
-        "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 164436,
-      "name": "Ay Caramba",
-      "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "Lyricist Lounge Volume 2",
         "url": "https://open.spotify.com/album/3ZpoX3ij0YBUeJoGfbVH0Q"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 239933,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/3tC8SJpOwJhDg8WGG1NKGR"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Ay Caramba",
+        "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 164436,
+      "name": "Ay Caramba",
+      "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/6ULznds6F3HJlHA5dIWIuW"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 170654,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/400CcnDumUGLEJLleSzMKj"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/6ULznds6F3HJlHA5dIWIuW"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 170654,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/400CcnDumUGLEJLleSzMKj"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "CAP",
-        "url": "https://open.spotify.com/album/7uHEBlrPdIxnZDgJObWCW7"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 156627,
-      "name": "CAP",
-      "url": "https://open.spotify.com/track/58Wf7PV3D0ZP7Z3raGXLa2"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
       },
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "CAP",
+        "url": "https://open.spotify.com/album/7uHEBlrPdIxnZDgJObWCW7"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 156627,
+      "name": "CAP",
+      "url": "https://open.spotify.com/track/58Wf7PV3D0ZP7Z3raGXLa2"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "Bad For Me",
         "url": "https://open.spotify.com/album/76P0Wtel19KTU0nrKiecim"
       },
@@ -1875,26 +1875,6 @@
       "duration_ms": 144978,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/5igBmMvQ0kJ6rShqSUAIHq"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "RUN [Feat. Young Thug]",
-      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1915,6 +1895,26 @@
       "duration_ms": 192417,
       "name": "ANOTHER ONE",
       "url": "https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "RUN [Feat. Young Thug]",
+      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 309570,
-      "name": "AMERICAN HORROR STORY",
-      "url": "https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "Green Juice (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 174136,
       "name": "Green Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 309570,
+      "name": "AMERICAN HORROR STORY",
+      "url": "https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Bodboy",
-        "url": "https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz"
-      },
-      "artists": [
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Whole Brick",
-      "url": "https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "Troubles [Feat. T-Pain]",
         "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 160000,
       "name": "Troubles [Feat. T-Pain]",
       "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Bodboy",
+        "url": "https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz"
+      },
+      "artists": [
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Whole Brick",
+      "url": "https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar"
     }
   ],
   "unique_name": "No corre",

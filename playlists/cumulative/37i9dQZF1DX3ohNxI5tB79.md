@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-149 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+150 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 | 2022-10-10 |  |
 | [All That I Can Say](https://open.spotify.com/track/0rEVw979CI6wMZb3snSE7K) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb) | [The Lost and Found](https://open.spotify.com/album/0zf7XCW761Gswh5sxQBduz) | 3:17 | 2021-12-13 | 2022-07-29 |
 | [All That I Can Say](https://open.spotify.com/track/3hGWCIY6m0jTQlTS9cB0Wn) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb) | [The Lost and Found](https://open.spotify.com/album/4fZx2cNk1Vod8jZkPSWBpv) | 3:17 | 2022-07-05 | 2022-10-01 |
-| [ALTITUDE](https://open.spotify.com/track/1vfY3iOZQ2mFvx0uh2iQrL) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/1vggI3ABSj32lXYyfBQdXc) | 3:32 | 2022-07-05 |  |
+| [ALTITUDE](https://open.spotify.com/track/1vfY3iOZQ2mFvx0uh2iQrL) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/1vggI3ABSj32lXYyfBQdXc) | 3:32 | 2022-07-05 | 2022-10-22 |
+| [ALTITUDE](https://open.spotify.com/track/2kzLWBBaDKDEvwKPavAZE3) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/3R60RBBdRiUEy4M1jZOVZN) | 3:32 | 2022-10-14 |  |
 | [ALTITUDE](https://open.spotify.com/track/5zUd51f2ARySiVvA1J43B9) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/0OuulKxtN62xqKGGmH3f9I) | 3:32 | 2021-12-13 | 2022-07-29 |
 | [Another Day](https://open.spotify.com/track/65N5mnAk0WOubXkCryAxEe) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 3:48 | 2021-12-13 |  |
 | [Back for More](https://open.spotify.com/track/5XMO90auPHxUwZtTmWaCP5) | [Cool Million](https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG), [Eugene Wilde](https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv) | [Back for More](https://open.spotify.com/album/7Ebqd2aKNcelzNbTvG9glF) | 4:32 | 2021-12-13 | 2022-01-11 |

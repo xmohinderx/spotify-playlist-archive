@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3?si=Xv5EZXQ5R4OtBgobLBjTxA">Afrotraction</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,162 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,222 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 14 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 |
 | 15 | [Tsoko Tsoko](https://open.spotify.com/track/3QeJWe5eXndTvwlopskZhf) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr), [Airburn Sounds](https://open.spotify.com/artist/2LkaC9qdFjuAWym0SCTHZ4) | [Tsoko Tsoko](https://open.spotify.com/album/6QWn8GtRDwQTY8PVCDsty2) | 4:06 |
 | 16 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 |
-| 17 | [Number 1](https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh) | 4:17 |
+| 17 | [Number 1](https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 4:17 |
 | 18 | [Amagents](https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Amagents](https://open.spotify.com/album/0rgt2gSlZTttcQTg2xsvGK) | 3:43 |
 | 19 | [Langa Linye](https://open.spotify.com/track/56OeFbi7h1lX31zXpLc5yh) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Zamo Cofi](https://open.spotify.com/artist/3NvuFbzWW4pgjO4L7uUEPv) | [Langa Linye](https://open.spotify.com/album/5SmgVjY1nTnyK8wil50fLx) | 4:53 |
 | 20 | [Ngifuna Ukuba](https://open.spotify.com/track/1XW3hfd2u94eSgetTjjO5h) | [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [nolly m](https://open.spotify.com/artist/1TL9pBRVj4qKOszCfIoyVZ), [Inkosi Yamagcokama](https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M) | [Uzuka](https://open.spotify.com/album/58GJD0Zy1H4cA6FLC0RFhk) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Wena Wedwa](https://open.spotify.com/track/5xjVGlEkaEiPsJWWFuauQX) | [Lungi Naidoo](https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz), [Ndumiso](https://open.spotify.com/artist/5O4KfmVQIaSPiD8FIIRMXr) | [Wena Wedwa](https://open.spotify.com/album/5SRlHZifEc85pKM1RfjmJ0) | 3:22 |
 | 50 | [Ngihlanyiswa Nguwe](https://open.spotify.com/track/3pH9FBTVk2jhI0AK9xyNam) | [Amanda Mo](https://open.spotify.com/artist/4xv9nOCqcmMbgl9RLatYJC) | [Ngihlanyiswa Nguwe](https://open.spotify.com/album/0aqd2lSJaA4Aw8s0hwiqKC) | 4:11 |
 
-Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMGRjNTJhMGRlZjJjODU5MDEwMWQyOTI4MjFkYjQyNTdl`
+Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMDIyODhlM2M2YmFjOGZkOTI4YTVhMzU4ODM1M2I0ZDgx`

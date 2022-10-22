@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,683 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,722 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 9 | [Tez & Tone 1](https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Tez & Tone 1](https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd) | 3:50 |
 | 10 | [On 10 \(feat\. EST Gee\)](https://open.spotify.com/track/5QUd0OsjBoPDrNMUlovc7y) | [SipTee](https://open.spotify.com/artist/31rh41TZtR4OpDLeWa4muz), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [On 10](https://open.spotify.com/album/4kgelPL8DSWJdhG3sOtLgq) | 3:12 |
 | 11 | [Rumors](https://open.spotify.com/track/5HmhRq9DfQy66F27HzxIor) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Black Heart](https://open.spotify.com/album/2csQIiTU3v9xEQKsKIfv1z) | 4:05 |
-| 12 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 |
+| 12 | [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 |
 | 13 | [Rekindle 23](https://open.spotify.com/track/0DRK4uoktTTD9W72ZO4ObW) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Rekindle 23](https://open.spotify.com/album/0mWeL65r9hJVpFX8KvUSX4) | 3:23 |
 | 14 | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 |
 | 15 | [Rollin](https://open.spotify.com/track/6PnLDjMT0PtVIZ1kLNcZYv) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Rollin](https://open.spotify.com/album/0nPWn9ChLKYaqLOiCh58uR) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Last One Left](https://open.spotify.com/album/136JKS8joUGUiReq11D03P) | 3:15 |
 | 50 | [Shackles to Diamonds](https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:56 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGJlZTRmMjkwMWM3YmVmYWUzMWE0OTRjNDcxZGY2Y2E5`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDQxYjU3M2IyM2RhZDkzYWFhNjUwNzRjNzVhN2Y1MDYx`

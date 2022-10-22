@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-180 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+181 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Sin Señal](https://open.spotify.com/track/5M3Vn0DW4NtHNoo3Gmo1PT) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Sin Señal](https://open.spotify.com/album/7uXeWwjpTHrDTCjF4cVrZX) | 3:38 | 2022-05-20 | 2022-10-15 |
 | [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 | 2022-09-06 |  |
 | [Sola \- Remix](https://open.spotify.com/track/0RaHJJEltK9qqXPVuxhrwq) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sola \(Remix\)](https://open.spotify.com/album/0USMnz3z3Mwgw8VonkL9x5) | 3:43 | 2022-05-20 | 2022-10-13 |
+| [Sola \- Remix](https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sola \(Remix\)](https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB) | 3:43 | 2022-09-06 |  |
 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 | 2022-05-20 |  |
 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 | 2022-09-06 |  |
 | [Somos Nada](https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Somos Nada](https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl) | 3:06 | 2022-05-20 |  |
@@ -181,7 +182,7 @@
 | [Una Noche \- Unplugged](https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Una Noche \(Unplugged\)](https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu) | 3:58 | 2022-05-20 |  |
 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 | 2022-05-20 |  |
 | [Vibe](https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vibe](https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan) | 3:10 | 2022-05-20 |  |
-| [Vida](https://open.spotify.com/track/38uY6EFyAAKeBLw23s4r9j) | [Pranz](https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av), [Maul On The Mix](https://open.spotify.com/artist/0SiGpCFq4K4uQXoNr69aUn) | [Vida](https://open.spotify.com/album/2aWANtSLYshGYqbXndAIFZ) | 3:03 | 2022-05-20 |  |
+| [Vida](https://open.spotify.com/track/38uY6EFyAAKeBLw23s4r9j) | [Pranz](https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av), [Maul On The Mix](https://open.spotify.com/artist/0SiGpCFq4K4uQXoNr69aUn) | [Vida](https://open.spotify.com/album/2aWANtSLYshGYqbXndAIFZ) | 3:03 | 2022-05-20 | 2022-10-22 |
 | [Visa](https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Visa](https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o) | 3:07 | 2022-05-20 |  |
 | [Volar](https://open.spotify.com/track/6JsI9FfeTLUFsK08WitciR) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [Vuelvo a Mí](https://open.spotify.com/album/6AL35H5gM4P2y6774XmQ5Y) | 4:49 | 2022-05-20 |  |
 | [Wu Wu](https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Wu Wu](https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0) | 3:27 | 2022-05-20 |  |

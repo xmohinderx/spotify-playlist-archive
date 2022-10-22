@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,848 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,859 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 25 | [Las colinas del priorato](https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q) | [Lopez Ciendra](https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT) | [Las colinas del priorato](https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot) | 1:31 |
 | 26 | [La Paloma \- Yradier](https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 3:15 |
 | 27 | [Tres Palabras](https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 4:43 |
-| 28 | [Tropicana](https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX) | [Trio From Rio](https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH) | [Tropicana](https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP) | 3:32 |
-| 29 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
+| 28 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
+| 29 | [Tropicana](https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX) | [Trio From Rio](https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH) | [Tropicana](https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP) | 3:32 |
 | 30 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 |
 | 31 | [Suavecito / En Manzanillo Se Baila el Son \(Sones\)](https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w) | [Enrique Chia](https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9), [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Sones y Tradiciones \(feat\. Cachao\)](https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte) | 6:18 |
 | 32 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 43 | [Palabras De Mujer\-Hojas Secas](https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:23 |
 | 44 | [Gran Pilastro](https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Gran Pilastro](https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa) | 1:05 |
 | 45 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 |
-| 46 | [Pensativa](https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw) | [Sara Florence](https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8) | [Green In Blue EP](https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ) | 5:12 |
-| 47 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
+| 46 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
+| 47 | [Pensativa](https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw) | [Sara Florence](https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8) | [Green In Blue EP](https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ) | 5:12 |
 | 48 | [Señor Danzon](https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ) | [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [Bernardo Sassetti](https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf) | [Cuba Cuba](https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX) | 3:28 |
 | 49 | [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 |
 | 50 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 |
 
-Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMGE0YjQ5ZGFlMmNlMzI0NjU0M2Q1N2JjYTQ5OTI2NGJh`
+Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDdkZjU2YTFlNmY4MWIyZDkwNjI0N2EyOTNjNDhlMTJj`

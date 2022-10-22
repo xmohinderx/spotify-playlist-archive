@@ -1,6 +1,6 @@
 {
   "description": "The home of the best new alternative music. Cover: Biig Piig",
-  "num_followers": 167902,
+  "num_followers": 167945,
   "original_name": "The Other List",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "MTY2NjMwNjgwMCwwMDAwMDAwMGQ4YzBiYzk3M2E2MGQyZjgwNjk1ZDk5NDAzZTlhNTY5",
   "tracks": [
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {

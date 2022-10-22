@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-187 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+188 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 | 2022-04-22 |  |
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 |  |
 | [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-03-04 |  |
-| [Mná Na H'Eireann](https://open.spotify.com/track/6KoZAaWjCwWDMHWHpNf8J6) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/1aZyHBKzHRHuR2C9HqbZIe) | 2:33 | 2022-10-07 |  |
+| [Mná Na H'Eireann](https://open.spotify.com/track/5InWJK8aUznloFHTNH3Yza) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/0INDZxABsPxB7JxTjYjmEy) | 2:33 | 2022-10-14 |  |
+| [Mná Na H'Eireann](https://open.spotify.com/track/6KoZAaWjCwWDMHWHpNf8J6) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/1aZyHBKzHRHuR2C9HqbZIe) | 2:33 | 2022-10-07 | 2022-10-22 |
 | [More Than Yesterday](https://open.spotify.com/track/2rdQdrAeQkyO5X6kfwfWO5) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [More Than Yesterday](https://open.spotify.com/album/27MZUFtc98oIebovnNxmVp) | 2:34 | 2022-10-07 |  |
 | [Morning to Do List](https://open.spotify.com/track/0wlkGWrxewjWnvbbCC8DP1) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Easy Escapes](https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn) | 2:53 | 2022-08-05 |  |
 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 | 2022-06-10 | 2022-09-17 |

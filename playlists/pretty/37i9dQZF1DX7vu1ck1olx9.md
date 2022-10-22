@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,254 likes - 82 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,289 likes - 82 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 6 | [Ji\-Eun's Sunset](https://open.spotify.com/track/0DvqAXyoA7zRB8wgH0DjRO) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Neon Impasse](https://open.spotify.com/album/3M1CEjZiljxpfxoHFHoqNP) | 2:48 |
 | 7 | [Dreams](https://open.spotify.com/track/7lRsXfGnY0PBSxVMIxuHME) | [Joakim Karud](https://open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF) | [Dreams](https://open.spotify.com/album/38TJ5X61VQmV0jPkiE786Q) | 3:10 |
 | 8 | [The Burn Marks on My Epiano Wont Go Away](https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 1](https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD) | 1:36 |
-| 9 | [Wish You Were Mine](https://open.spotify.com/track/1BvSkVrXtnjTuyTR4Qa8be) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:01 |
-| 10 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 |
-| 11 | [makeitliveforever](https://open.spotify.com/track/1RgopjbTCADvcFRe7dDav2) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:50 |
+| 9 | [makeitliveforever](https://open.spotify.com/track/1RgopjbTCADvcFRe7dDav2) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:50 |
+| 10 | [Wish You Were Mine](https://open.spotify.com/track/1BvSkVrXtnjTuyTR4Qa8be) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:01 |
+| 11 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 |
 | 12 | [Smoking at Midnight](https://open.spotify.com/track/5t9xjVR1jxhgIiutBVARQb) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 1:35 |
 | 13 | [A World at Peace](https://open.spotify.com/track/7dStBhN0AbvcisUF2IePZg) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [A World at Peace](https://open.spotify.com/album/3Z2Q8BNUFsZbUlUk2FhBbU) | 3:06 |
 | 14 | [BUS RIDE](https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:13 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 48 | [Heart Ache](https://open.spotify.com/track/1fUtnylny4kCekSRCTYqnl) | [GurtyBeats](https://open.spotify.com/artist/5uho8NPQ2MAnDKEVhBdsJ8) | [Heart Ache](https://open.spotify.com/album/1oeoiDkblHaCEdZi6GA7AS) | 2:07 |
 | 49 | [Lofi Jazz Beat](https://open.spotify.com/track/5eIHjYXJqCYHgTWqd5boz1) | [Dan Dinero](https://open.spotify.com/artist/0KM3ubPiglpZ7jsJsvywps), [letmechill](https://open.spotify.com/artist/3MruTrdkzhB7TlstDmRhF6), [Lofi Radio](https://open.spotify.com/artist/0MQ5Kh5Tg64RUWtucOB965) | [Lofi Jazz Beat](https://open.spotify.com/album/6tD9gk6nNl9GOJW3YLtJjZ) | 1:40 |
 | 50 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 |
-| 51 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 |
-| 52 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 |
+| 51 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 |
+| 52 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 |
 | 53 | [Inn](https://open.spotify.com/track/2hEgmgkHVDFf52Sxpc3Nh2) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Inn](https://open.spotify.com/album/4Lh05HrYs2QKvRIaNN9oQG) | 2:11 |
 | 54 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 |
 | 55 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 62 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 |
 | 63 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
 | 64 | [Act I](https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [Act I](https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO) | 2:28 |
-| 65 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 |
-| 66 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
+| 65 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
+| 66 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 |
 | 67 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 |
 | 68 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 |
 | 69 | [Spirits](https://open.spotify.com/track/5NZcq9i9Ni9NXMXYVy3fnK) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Spirits](https://open.spotify.com/album/67J6mvJgOvaRxRL4x8mQQa) | 2:24 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 |
 | 82 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMGViYTJlYjU3ZjBmNDIyNzM3MGVhZDA3MTk3YmY2MTA5`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDIyNzg1MzRiZjc3MWI0YWU1ZmRiMzI5ZTQ5YzAyNjhl`

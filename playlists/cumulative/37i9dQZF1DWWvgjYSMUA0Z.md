@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-119 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+120 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-07-08 |  |
 | [Bansuri](https://open.spotify.com/track/4Cy9EEXAjmzjIa2hBYJa7R) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Bansuri](https://open.spotify.com/album/1os3PzBysPuwHUOAJIQlHs) | 2:50 | 2021-12-22 |  |
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2022-05-05 |  |
-| [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2021-12-22 |  |
+| [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2021-12-22 | 2022-10-22 |
 | [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-04-21 |  |
 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 | 2022-03-09 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2022-07-22 |  |
@@ -91,6 +91,7 @@
 | [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2022-05-05 |  |
 | [Seiza](https://open.spotify.com/track/3LthWqBoIUpReucHmhf4Zr) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Singing Bowls And Music Meditation](https://open.spotify.com/album/039njQFCznTzhINn5jN1aa) | 2:22 | 2022-02-04 |  |
 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 | 2022-04-21 |  |
+| [Sentiment \- Yoga Version](https://open.spotify.com/track/0xknACiHrVed7KEML5oNuU) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Yoga Version](https://open.spotify.com/album/7deF5Xp7ctwSJb85ZWFPaG) | 2:45 | 2022-10-21 |  |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2021-12-22 |  |
 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 | 2022-09-30 |  |
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2021-12-22 |  |

@@ -4,7 +4,7 @@
 
 > A dose of high\-energy, feel\-good rock tunes.
 
-202 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/31BtjWZOch0vZk8cRSyrqF)
+203 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/31BtjWZOch0vZk8cRSyrqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Bored To Death](https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:55 | 2022-06-28 |  |
 | [Born For Greatness](https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Born For Greatness](https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ) | 3:47 | 2020-08-20 | 2022-07-24 |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-10-05 |  |
-| [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-10-05 |  |
+| [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-10-05 | 2022-10-22 |
+| [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2022-10-05 |  |
 | [Bury Me](https://open.spotify.com/track/62wJuHJ28SLRLem8XMUS8b) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Bury Me](https://open.spotify.com/album/7FoQtty0uxiFSqH0DqYFxT) | 2:58 | 2020-08-20 | 2022-07-29 |
 | [Captivate You](https://open.spotify.com/track/7msUsozEfRrk9ZDvk1ncgR) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [The Weird And Wonderful Marmozets](https://open.spotify.com/album/0g6Yixfp4y0wlDCY8ukhfp) | 4:00 | 2020-08-20 | 2022-01-15 |
 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2020-08-20 |  |

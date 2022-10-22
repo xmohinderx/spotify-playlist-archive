@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-177 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+178 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 | 2022-02-18 |  |
 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 | 2022-02-18 |  |
 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2022-06-03 |  |
-| [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 | 2022-06-24 |  |
+| [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 | 2022-06-24 | 2022-10-22 |
 | [Other Side](https://open.spotify.com/track/20LfGhxnRtlpfaYKv0hhs2) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2PKQcwEl6dvMbu4mfz8yUF) | 4:15 | 2022-02-18 | 2022-07-29 |
 | [Other Side](https://open.spotify.com/track/23PpvHwxa535ru2yN69Oly) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 4:15 | 2022-07-22 | 2022-10-16 |
 | [Over the Moon](https://open.spotify.com/track/4zJHWlJRhgIXCZ1B7a1Egu) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Over the Moon](https://open.spotify.com/album/731CeqLpZMYbPQotXv9aKi) | 3:28 | 2022-02-18 | 2022-05-07 |
@@ -121,6 +121,7 @@
 | [Problems \(feat\. Grady\)](https://open.spotify.com/track/4GbZ9vQSgE3lmQ5dcxpKSl) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Problems \(feat\. Grady\)](https://open.spotify.com/album/78R8twPAoAHiix5OspTCPp) | 3:23 | 2022-02-18 | 2022-07-29 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2022-02-18 |  |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2022-02-18 |  |
+| [Ready to Go](https://open.spotify.com/track/74LRQ6073VpLGX6F0bTcUG) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:07 | 2022-10-21 |  |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-02-18 | 2022-04-09 |
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2022-02-18 | 2022-07-29 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-07-22 |  |

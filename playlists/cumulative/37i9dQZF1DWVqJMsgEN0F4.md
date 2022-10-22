@@ -2,7 +2,7 @@
 
 ### [Alt NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Red Hot Chili Peppers along with the top Alternative songs of today.
+> The 1975 along with the top Alternative songs of today.
 
 209 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
 

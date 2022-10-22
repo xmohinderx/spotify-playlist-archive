@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,665 likes - 472 songs - 1 day 21 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,657 likes - 472 songs - 1 day 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -330,7 +330,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 | 320 | [Conversation](https://open.spotify.com/track/0dobtasKf4GX9WjRipDfe9) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to French Vocabulary](https://open.spotify.com/album/7fLV8qjAOFvB0Ta4pGYlSt) | 7:15 |
 | 321 | [Numbers](https://open.spotify.com/track/2lYGtY0dpemVMTwJqZNc5X) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to French Vocabulary](https://open.spotify.com/album/7fLV8qjAOFvB0Ta4pGYlSt) | 6:24 |
 | 322 | [Relations](https://open.spotify.com/track/509k60htLczobVfcTririA) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to French Vocabulary](https://open.spotify.com/album/7fLV8qjAOFvB0Ta4pGYlSt) | 2:00 |
-| 323 | [Directions](https://open.spotify.com/track/0bk55ZiJbLbP7w0JWfuMSc) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to Italian Vocabulary](https://open.spotify.com/album/5kZKxCwGGHB74CVbuHbk6f) | 2:18 |
+| 323 | [Directions](https://open.spotify.com/track/11XUBmmyAmlfN4eq8RvVkk) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to Spanish Vocabulary](https://open.spotify.com/album/2yq2IuXw6xOMYZwh33Gg29) | 2:18 |
 | 324 | [Rooms, Buildings](https://open.spotify.com/track/7bxXMyNZF579HN4IrPAyyO) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to French Vocabulary](https://open.spotify.com/album/7fLV8qjAOFvB0Ta4pGYlSt) | 7:51 |
 | 325 | [Transport](https://open.spotify.com/track/3xiH7Nx6mDW5uV5udJkNYL) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to French Vocabulary](https://open.spotify.com/album/7fLV8qjAOFvB0Ta4pGYlSt) | 6:07 |
 | 326 | [Places](https://open.spotify.com/track/0DY8Yg6NAQtS4D05q4laJC) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to French Vocabulary](https://open.spotify.com/album/7fLV8qjAOFvB0Ta4pGYlSt) | 2:28 |
@@ -481,4 +481,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 | 471 | [Verlaine](https://open.spotify.com/track/4JpqixxCcDjCQiEDnHuZuj) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 1:06 |
 | 472 | [Baudelaire](https://open.spotify.com/track/45gRfu45Bn6FX49CC3ATdH) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 5:19 |
 
-Snapshot ID: `MTUwMjkwOTQwMywwMDAwMDAwMDkzMWRmNWI3YWY0MWFlMjI0NzdlZjg5NjBiZjRhNjli`
+Snapshot ID: `MTUwMjkwOTQwMywwMDAwMDAwMDFjZDI2Zjc4ZjM0ZDk5N2I2ZjgwZjIzYjllMmY3ZDEy`

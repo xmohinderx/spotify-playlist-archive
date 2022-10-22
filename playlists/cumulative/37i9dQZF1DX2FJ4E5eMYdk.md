@@ -4,7 +4,7 @@
 
 > groovy.
 
-114 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
+115 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [The Roundabout](https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6) | 4:41 | 2022-07-22 |  |
 | [The Roundabout](https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8) | 4:41 | 2021-10-08 | 2022-07-29 |
 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 | 2021-10-08 |  |
-| [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2022-04-15 |  |
+| [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2022-04-15 | 2022-10-22 |
+| [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 | 2022-10-21 |  |
 | [Waiting for an Invitation](https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j) | [Benji Hughes](https://open.spotify.com/artist/1w4UUVXVsk63VT2vTwx1e1) | [A Love Extreme](https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18) | 4:15 | 2022-04-15 |  |
 | [Washed Out](https://open.spotify.com/track/3tPJ5lnVg2dT3NqGCoOnOX) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/1Te304pis78wXeMCIawVuz) | 4:44 | 2022-07-22 | 2022-09-03 |
 | [Washed Out](https://open.spotify.com/track/6eRWiC37qNFG4p3IsLrst6) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/67M0ktUMgHOrZqDVdZLOfl) | 4:44 | 2021-10-08 | 2022-04-21 |

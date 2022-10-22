@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,133 likes - 93 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,236 likes - 93 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 82 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
 | 83 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
 | 84 | [The Ballad](https://open.spotify.com/track/1U0pbxsCfQdy7f4XQ1cdYB) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Rudi Creswick](https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG) | [The Ballad](https://open.spotify.com/album/3T5WVhwAhBCF6M2ucACkka) | 4:34 |
-| 85 | [ALTITUDE](https://open.spotify.com/track/1vfY3iOZQ2mFvx0uh2iQrL) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/1vggI3ABSj32lXYyfBQdXc) | 3:32 |
+| 85 | [ALTITUDE](https://open.spotify.com/track/2kzLWBBaDKDEvwKPavAZE3) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/3R60RBBdRiUEy4M1jZOVZN) | 3:32 |
 | 86 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 87 | [In Your River](https://open.spotify.com/track/4lQc6sLF9a6SWeDpdQ7CSv) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 3:54 |
 | 88 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 92 | [Toxic Love Affair](https://open.spotify.com/track/1l1oUS33fGuK1YKThB1bWD) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Sanguita](https://open.spotify.com/artist/596Z7VqyKPIb7kRE4hHjma) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:33 |
 | 93 | [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 3:16 |
 
-Snapshot ID: `MTY2NTczOTA3OCwwMDAwMDAwMGY4YmUzNGU3MDNhZGNhZWQ3ZmQ2OGNlMDVhZGE4Y2Nj`
+Snapshot ID: `MTY2NTczOTA3OCwwMDAwMDAwMDQyYzZmNDU1MjhlZmFiYmYyZTM5MzRmZGNiZDFmMjE1`

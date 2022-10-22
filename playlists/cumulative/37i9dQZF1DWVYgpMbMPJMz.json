@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  UPPERROOM",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Matt Maher",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 414375,
       "name": "Ask Seek Pray",
       "url": "https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ"
@@ -247,6 +247,24 @@
       "duration_ms": 237466,
       "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
       "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
+    },
+    {
+      "album": {
+        "name": "ALL AGES ADMITTED",
+        "url": "https://open.spotify.com/album/2MLykMg4A3Xurzk8kwjyNs"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380964,
+      "name": "Beautiful (Hidden Worlds) - Live",
+      "url": "https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE"
     },
     {
       "album": {
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 707149,
       "name": "I'm Gonna Worship (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc"
@@ -2259,6 +2277,28 @@
       "duration_ms": 324000,
       "name": "In The Hands Of Christ My King - Edit",
       "url": "https://open.spotify.com/track/2TJ4z4dZh9vGzOwngU5EPE"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288706,
+      "name": "In the Room (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
     },
     {
       "album": {
@@ -2798,6 +2838,32 @@
     },
     {
       "album": {
+        "name": "Live At The Manor",
+        "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
+      },
+      "artists": [
+        {
+          "name": "Manor Collective",
+          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+        },
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        },
+        {
+          "name": "Tertia May",
+          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274666,
+      "name": "Let Go - Live",
+      "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "album": {
         "name": "Let The River Flow (Live)",
         "url": "https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2"
       },
@@ -3303,7 +3369,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 380000,
       "name": "Not By Might",
       "url": "https://open.spotify.com/track/5BfOrVf48F0mq4DfNlgKud"
@@ -3523,6 +3589,36 @@
       "duration_ms": 444566,
       "name": "Onipotente / Omnipotent",
       "url": "https://open.spotify.com/track/48tVLdRrcrUmX5lx0G1aAa"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/3UnE167OVsZRrpookBftI5"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624840,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC"
     },
     {
       "album": {
@@ -3811,6 +3907,24 @@
       "duration_ms": 224573,
       "name": "Rest On Us - Single Version",
       "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
+    },
+    {
+      "album": {
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256329,
+      "name": "Resurrection Day",
+      "url": "https://open.spotify.com/track/4EHzPA0YxBw6YyvGceqK0T"
     },
     {
       "album": {
@@ -4547,7 +4661,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
@@ -4707,7 +4821,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 238134,
       "name": "There Is Freedom",
       "url": "https://open.spotify.com/track/2Ae6WmxlGEIH7m4lOCrUyN"

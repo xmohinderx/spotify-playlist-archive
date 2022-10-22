@@ -4,11 +4,12 @@
 
 > autumn leaves falling like pieces into place
 
-107 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2OpSbK6iQOXEIaFpfFSyeZ)
+108 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2OpSbK6iQOXEIaFpfFSyeZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Dream I Had in My Past Life](https://open.spotify.com/track/5ressNYvOIWP7ofL9iYCoW) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/0QmuKbsoNn6GUxMJBTaQon) | 1:32 | 2022-09-21 |  |
+| [A Dream I Had in My Past Life](https://open.spotify.com/track/01nLwmCA68K6rqlVQwV6bs) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/6TZ0b8gl6YLKGYGaeMGbRO) | 1:32 | 2022-09-21 |  |
+| [A Dream I Had in My Past Life](https://open.spotify.com/track/5ressNYvOIWP7ofL9iYCoW) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/0QmuKbsoNn6GUxMJBTaQon) | 1:32 | 2022-09-21 | 2022-10-22 |
 | [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 | 2022-09-21 |  |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-09-21 |  |
 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:29 | 2022-09-21 |  |

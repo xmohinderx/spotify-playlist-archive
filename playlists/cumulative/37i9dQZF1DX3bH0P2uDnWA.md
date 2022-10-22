@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-236 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+237 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Whoopsy Daisy \(Club Mix\)](https://open.spotify.com/track/6oomEes8hP95cWb8S898xF) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Sebastian Daws](https://open.spotify.com/artist/2o2Kdw5v8ULbhq4QGvN8mD) | [Whoopsy Daisy](https://open.spotify.com/album/3n0dklujjRxJFkfUNRSMBi) | 4:33 | 2020-10-30 | 2022-07-28 |
 | [Why Don't You](https://open.spotify.com/track/2FOPJIJvirxmqIVeAqeTx2) | [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc) | [Why Don't You](https://open.spotify.com/album/4ZfqRwgb84jZYv6SVTYT6X) | 2:51 | 2020-10-30 | 2022-05-14 |
 | [Why Don't You \- Radio Edit](https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29) | [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc) | [Why Don't You](https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P) | 2:50 | 2020-10-30 | 2022-10-13 |
+| [Wicked Evil \- Spooky Swing Mix](https://open.spotify.com/track/4DPZKhVUVQmYkVyLzb01q9) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Wicked Evil](https://open.spotify.com/album/3FaAsnvQqJuwgtfyxMgbb7) | 3:09 | 2022-10-21 |  |
 | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/track/6oFrnNtYCU1oswN3sz5cP4) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Hans Wachsmann](https://open.spotify.com/artist/4FNI6ZBXPuSt2HghuTeZmT) | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU) | 3:02 | 2020-10-30 | 2022-08-06 |
 | [Worldwide](https://open.spotify.com/track/5sjmBbBBXMo5g8GyMTvGm0) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Worldwide](https://open.spotify.com/album/7MzUsDka8FtsPLFn941toY) | 3:03 | 2020-10-30 | 2022-07-01 |
 | [You Rascal You](https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Both Sides of the Moon](https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK) | 2:45 | 2022-07-05 | 2022-10-13 |

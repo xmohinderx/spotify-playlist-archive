@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-175 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
+176 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Hate Like Me](https://open.spotify.com/track/5iwwHtW8mghDtFh42V4ZyR) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:15 | 2022-07-01 |  |
 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 | 2022-07-01 |  |
 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 | 2022-08-12 |  |
-| [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 | 2022-08-12 |  |
+| [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 | 2022-08-12 | 2022-10-22 |
 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 | 2022-07-01 |  |
 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 | 2022-07-01 |  |
 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/6jc5gHCmrZW1XLcRM3wFlC) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/1iQvERlM75GnoUABxlk6nA) | 5:14 | 2022-07-01 | 2022-07-29 |
@@ -91,6 +91,7 @@
 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 | 2022-07-01 |  |
 | [In the Void](https://open.spotify.com/track/5AsHysrBAAPMusL0WUHsCl) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Johannes Persson](https://open.spotify.com/artist/3xV1nzks756iynRSEAN2ux), [Final Light](https://open.spotify.com/artist/4Uiua0tWypGcttzUkddFMH) | [In the Void](https://open.spotify.com/album/5aiIy9BVEoDh7AdP3PoDbf) | 8:58 | 2022-07-01 | 2022-10-08 |
 | [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 | 2022-07-01 | 2022-09-17 |
+| [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 | 2022-10-21 |  |
 | [Into the Void](https://open.spotify.com/track/3rz3sJDO0t0sTqaN2cAood) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into the Void](https://open.spotify.com/album/1qqlfNmX52dUuFFtrO7i05) | 5:16 | 2022-07-01 | 2022-07-29 |
 | [Into the Void](https://open.spotify.com/track/6Q12JjOHsE9kTGVshxrm3F) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into the Void](https://open.spotify.com/album/3ij353MTGCDCftSBF9GLVm) | 5:16 | 2022-07-01 | 2022-10-17 |
 | [ISN’T EVERYONE](https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:14 | 2022-09-16 |  |

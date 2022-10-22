@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Lufthaus
 
-292 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+293 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Jungle Ego](https://open.spotify.com/track/3VzHfnFmyK1s8KCHSD7UTC) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [Jungle Ego](https://open.spotify.com/album/2ZcqNhcbJf0ywc3fxgGHiR) | 4:31 | 2022-06-30 | 2022-08-12 |
 | [Just Sayin' \- Les Bisous Remix](https://open.spotify.com/track/6flZ5DFOWsnJmFILTcGHhg) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a), [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Just Sayin' \(Les Bisous Remix\)](https://open.spotify.com/album/04anhNki5epB9ihwbFDXuS) | 3:23 | 2022-09-08 | 2022-10-14 |
 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 | 2022-09-22 |  |
+| [Kiss And Make Up](https://open.spotify.com/track/39edP1ljLSEv3UgTpqpldx) | [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Westerlund](https://open.spotify.com/artist/2E2I4XqkMhd2eoJv7ExGlO), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Kiss And Make Up](https://open.spotify.com/album/4vkJ2xtvdwMolRCSMWMNdI) | 2:41 | 2022-10-21 |  |
 | [Kitchen Party](https://open.spotify.com/track/4v9HnuZRub3kBt4krLQpH8) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Kitchen Party](https://open.spotify.com/album/78ME64M8qj3AtRF1QXUbP2) | 3:27 | 2022-06-20 | 2022-07-08 |
 | [Latching Onto You \- T.U.R.F\. & Tensnake Noir Mix](https://open.spotify.com/track/14Jxde0UjdtbmRVuz4HJ4A) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ), [T.U.R.F.](https://open.spotify.com/artist/6sKG2ZnKVbH5kiCtWUwEVo) | [L.A\. Noir](https://open.spotify.com/album/1jKmCmE82FvDJFIub9Afzc) | 3:16 | 2022-06-09 | 2022-07-01 |
 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 | 2022-06-09 |  |

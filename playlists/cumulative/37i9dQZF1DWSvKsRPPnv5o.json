@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
+    },
+    {
+      "album": {
         "name": "Ay Caramba",
         "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
       },
@@ -1332,6 +1350,28 @@
     },
     {
       "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231818,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
+    },
+    {
+      "album": {
         "name": "Do It Up",
         "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
       },
@@ -1725,6 +1765,24 @@
       "duration_ms": 176850,
       "name": "Every Good Girl",
       "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
+    },
+    {
+      "album": {
+        "name": "Face no Book",
+        "url": "https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145057,
+      "name": "Face no Book",
+      "url": "https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2"
     },
     {
       "album": {
@@ -2707,7 +2765,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 159130,
       "name": "In My Pockets",
       "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
@@ -4030,6 +4088,28 @@
     },
     {
       "album": {
+        "name": "Rodney Brown Jr",
+        "url": "https://open.spotify.com/album/1vnYinE0S5ozezv7FVM0lI"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Roddy Rich",
+          "url": "https://open.spotify.com/artist/0wAtXnbE4dgmdsqEZLkdb5"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192450,
+      "name": "On My Way Up (feat. Roddy Rich)",
+      "url": "https://open.spotify.com/track/7IPmY6ICbq3fgESalaC3An"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/4bSCnj5Mlp6fixSnzYQTmq"
       },
@@ -4893,7 +4973,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 140214,
       "name": "Sign Language",
       "url": "https://open.spotify.com/track/4wGAMAf3eUM0TKY4CbGvvT"
@@ -5061,7 +5141,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 175200,
       "name": "Social Media (feat. BlueBucksClan)",
       "url": "https://open.spotify.com/track/3RcnvAxmNhR67asCbmFWsh"
@@ -5335,7 +5415,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 225350,
       "name": "Talk To Me Nice (Feat. Meek Mill, Moneybagg Yo & Blxst)",
       "url": "https://open.spotify.com/track/1FayZGI8Bm3R0sKWNsm1gV"
@@ -5539,6 +5619,44 @@
       "duration_ms": 112625,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
+    },
+    {
+      "album": {
+        "name": "Too Big",
+        "url": "https://open.spotify.com/album/77WHbTPnyLH0KsuySzGavm"
+      },
+      "artists": [
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216100,
+      "name": "Too Big",
+      "url": "https://open.spotify.com/track/5MqvzE1pneAGrzscbXOv9u"
     },
     {
       "album": {
@@ -5761,7 +5879,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 156674,
       "name": "What's Luv",
       "url": "https://open.spotify.com/track/5S65yNSBJyZL4pAMtz0XG8"

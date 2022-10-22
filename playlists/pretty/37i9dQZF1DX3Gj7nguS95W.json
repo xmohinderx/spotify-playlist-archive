@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 766191,
+  "num_followers": 766402,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMGY1OWU1MzliNmI1Y2JkMmFlY2NiNDY1MWY1MTg3NjNh",
+  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDY0MzJmNDBjYWYyMWE3YTZhMDllMmQwZDhjMzYxM2M3",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -571,6 +571,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Manic Monday",
+      "url": "https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Setting Sons (Super Deluxe)",
         "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 281453,
       "name": "99 Red Balloons - Club Mix",
       "url": "https://open.spotify.com/track/4R6oOgh523J4M1I0XYe14f"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Different Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Manic Monday",
-      "url": "https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -699,6 +699,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 257825,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Different Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
     },
     {
       "added_at": "2020-01-14 21:16:41",

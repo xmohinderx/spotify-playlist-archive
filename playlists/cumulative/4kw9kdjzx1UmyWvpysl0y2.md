@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-293 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+294 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
+| [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 |  |
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 |  |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 | 2022-08-12 |  |
@@ -229,7 +230,7 @@
 | [Shadowblade](https://open.spotify.com/track/6tyfFtThdu7pYvDs2uRcjT) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Shadowblade](https://open.spotify.com/album/1aX6eK8WqLSwPh7LTbgLJz) | 4:15 | 2022-01-27 | 2022-04-08 |
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
-| [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 |  |
+| [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 | 2022-10-22 |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 |  |
 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 | 2022-10-20 |  |

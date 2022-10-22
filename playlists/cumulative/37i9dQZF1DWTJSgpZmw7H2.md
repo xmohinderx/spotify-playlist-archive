@@ -4,7 +4,7 @@
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
 
-526 songs - 2 day 2 hr 3 min - [published](https://open.spotify.com/playlist/5R3KrUkJZ2AeBVtgG0KSp5)
+527 songs - 2 day 2 hr 6 min - [published](https://open.spotify.com/playlist/5R3KrUkJZ2AeBVtgG0KSp5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Descartes](https://open.spotify.com/track/1HM6tkE2MFMa21Lq6ugUMs) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 1:52 | 2014-03-09 |  |
 | [Describing a Person in French](https://open.spotify.com/track/5kBuYsOvumqyNNnSaPPUw9) | [Global Publishers Canada Inc.](https://open.spotify.com/artist/26F0RxUxwCswnFxX3gecaD) | [Learn to Speak French: English\-French Phrase and Word Audio Book](https://open.spotify.com/album/3uF1zTCBm6uuXZrz6ZNyNF) | 5:15 | 2014-01-26 |  |
 | [Diderot](https://open.spotify.com/track/1ouiZkaCNzfYdRAVpmnveO) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 3:34 | 2014-03-09 |  |
-| [Directions](https://open.spotify.com/track/0bk55ZiJbLbP7w0JWfuMSc) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to Italian Vocabulary](https://open.spotify.com/album/5kZKxCwGGHB74CVbuHbk6f) | 2:18 | 2014-01-26 |  |
+| [Directions](https://open.spotify.com/track/0bk55ZiJbLbP7w0JWfuMSc) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to Italian Vocabulary](https://open.spotify.com/album/5kZKxCwGGHB74CVbuHbk6f) | 2:18 | 2014-01-26 | 2022-10-22 |
 | [Directions](https://open.spotify.com/track/6ITKTQS1Hh0BMQRasvpc5r) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to French Vocabulary](https://open.spotify.com/album/1vkgbte9VsLGeGozflrYp9) | 2:18 | 2014-01-26 | 2022-10-21 |
+| [Directions](https://open.spotify.com/track/11XUBmmyAmlfN4eq8RvVkk) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [The Lounge Lizard's Guide to Spanish Vocabulary](https://open.spotify.com/album/2yq2IuXw6xOMYZwh33Gg29) | 2:18 | 2014-01-26 |  |
 | [Directions](https://open.spotify.com/track/03aLWl2fCbSiftJjKztBR8) | [Lounge Lizard Publications Limited](https://open.spotify.com/artist/3L0goPPZtJGDhJYM0DutzR) | [Learn French Words](https://open.spotify.com/album/2YkiLytlHFPxxdYm3m3j67) | 2:20 | 2014-01-26 | 2022-10-19 |
 | [Doing Business in French](https://open.spotify.com/track/78zprQLUEUlYGILb6qWGAv) | [Global Publishers Canada Inc.](https://open.spotify.com/artist/26F0RxUxwCswnFxX3gecaD) | [Learn to Speak French: English\-French Phrase and Word Audio Book](https://open.spotify.com/album/3uF1zTCBm6uuXZrz6ZNyNF) | 15:34 | 2014-01-26 |  |
 | [Easy Conversations in French \- Gustave Chouquet](https://open.spotify.com/track/14HMsGcMw9oyRTOSPMteTn) | [DBS Audiobooks](https://open.spotify.com/artist/0AGYqur7KNfaJwyzMvIuRz) | [Easy Conversations in French \- Gustave Chouquet](https://open.spotify.com/album/7x2snlefRubYulD1V1oPDT) | 39:48 | 2014-01-22 |  |

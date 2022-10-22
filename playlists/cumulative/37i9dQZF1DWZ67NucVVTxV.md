@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-149 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+150 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-07-25 |  |
 | [It's Plenty](https://open.spotify.com/track/3PEkfP69a7aMMb8yI7PD88) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:36 | 2022-07-25 | 2022-07-29 |
 | [Jara Joro](https://open.spotify.com/track/1HZd6S5XRpOqUTqQI4yH0Y) | [Mo'Believe](https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW) | [Odù](https://open.spotify.com/album/6qzkMjuDOVxqdYv9bYqPIS) | 2:50 | 2022-09-30 | 2022-10-14 |
+| [Jeun To Da \(JTD\)](https://open.spotify.com/track/4UTlr8oltvsDUBzrnDDWB1) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Jeun To Da \(JTD\)](https://open.spotify.com/album/1cFo2kuDypXH2ujRWGf7Bk) | 2:42 | 2022-10-21 |  |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-22 |  |
 | [Ko Kanye](https://open.spotify.com/track/3qhUBf7PpxwrrxbUzQu6ab) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Tip of the Iceberg II](https://open.spotify.com/album/4If9OxtQxATU8XuumuqPRZ) | 2:48 | 2022-09-01 | 2022-09-10 |
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-07-23 |
@@ -105,7 +106,7 @@
 | [Oba](https://open.spotify.com/track/07nOYCGwTIeNVp7HcY83en) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/4RuSx7uURK2Dsqq11bKMJx) | 3:08 | 2022-02-24 |  |
 | [Oluwa](https://open.spotify.com/track/5I6b23Rrp08h9oNDX1rBnz) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 1:28 | 2021-10-28 |  |
 | [ONIPA](https://open.spotify.com/track/2KKwU8ObJcEGD5pnFZzbcI) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/7CG7pUu4tJwzO20syeUcrb) | 2:55 | 2022-07-22 | 2022-08-06 |
-| [ONIPA \- Acoustic Version](https://open.spotify.com/track/4cpBKUEOatwGt5Z7L5ywFY) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/33eyXj6JBjWBiulTICXGg8) | 2:49 | 2022-10-13 |  |
+| [ONIPA \- Acoustic Version](https://open.spotify.com/track/4cpBKUEOatwGt5Z7L5ywFY) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/33eyXj6JBjWBiulTICXGg8) | 2:49 | 2022-10-13 | 2022-10-22 |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 |  |
 | [Oro Aje 2](https://open.spotify.com/track/7EOmj8A1Hfg26dUVE5isPc) | [Oritse Femi](https://open.spotify.com/artist/01ukVEa5Q8UkHjqgiFZsIW), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Oro Aje 2](https://open.spotify.com/album/5Z6lUHzNnX21K3t2ZSz00k) | 3:48 | 2022-08-12 | 2022-09-10 |
 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 | 2022-09-09 |  |

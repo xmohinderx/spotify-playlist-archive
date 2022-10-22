@@ -1,12 +1,12 @@
 {
   "description": "los tenis bien limpios y la bocina retumbando",
-  "num_followers": 13880,
+  "num_followers": 13966,
   "original_name": "sneakerhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU4NTU1NiwwMDAwMDAwMDYyMTBjNDBmOWIwYzczMDExOTdiZWVjOGMzMmI3Njhh",
+  "snapshot_id": "MTY2MjU4NTU1NiwwMDAwMDAwMDI3OGNmOGVmMDlhOWViZDM5MzdlOTk5MWIyNTM2MTY1",
   "tracks": [
     {
       "added_at": "2022-09-07 21:19:16",
@@ -316,7 +316,7 @@
       "added_at": "2022-09-07 21:19:16",
       "album": {
         "name": "PE$OS",
-        "url": "https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG"
+        "url": "https://open.spotify.com/album/6nq2dKQDxHmjzD9sNWFsST"
       },
       "artists": [
         {
@@ -324,12 +324,12 @@
           "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
         },
         {
-          "name": "Pek",
-          "url": "https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW"
-        },
-        {
           "name": "Aleman",
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Pek",
+          "url": "https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW"
         },
         {
           "name": "8onthebeat",
@@ -338,7 +338,7 @@
       ],
       "duration_ms": 185107,
       "name": "PE$OS",
-      "url": "https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf"
+      "url": "https://open.spotify.com/track/1Sa3MemoARhrFmIttLd6N8"
     },
     {
       "added_at": "2022-09-07 21:19:16",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2022-09-07 21:19:16",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Mi T\u00edo Snoop",
-      "url": "https://open.spotify.com/track/0LO25x6ME7wcnafsnObpDL"
-    },
-    {
-      "added_at": "2022-09-07 21:19:16",
-      "album": {
         "name": "Todo Va a Estar Bien",
         "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 267796,
       "name": "Todo Va Estar Bien",
       "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
+    },
+    {
+      "added_at": "2022-09-07 21:19:16",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Mi T\u00edo Snoop",
+      "url": "https://open.spotify.com/track/0LO25x6ME7wcnafsnObpDL"
     },
     {
       "added_at": "2022-09-07 21:19:16",

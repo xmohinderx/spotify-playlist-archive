@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 367724,
+  "num_followers": 367747,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDcyOWViNjZhNDMxNDY4MTk1ZTgyYmUyNmE2MmJhMzM0",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGRhZDg1YmMzY2Q3NDg5OWU3YTBhYmE0ZTE0MTYxYzNj",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Light Switch (Instrumental)",
-        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Light Switch (Instrumental)",
+        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 202356,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 202356,
+      "name": "Teach Me How To Love",
+      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Lychee",
-        "url": "https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 192694,
-      "name": "Beach Boy",
-      "url": "https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 177886,
       "name": "i can't help it",
       "url": "https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Lychee",
+        "url": "https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 192694,
+      "name": "Beach Boy",
+      "url": "https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1535,6 +1535,26 @@
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "this is what falling in love feels like (Leon Leiden Remix)",
+        "url": "https://open.spotify.com/album/38YCTpZRsvYQtCRe4uGM4I"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 120157,
+      "name": "this is what falling in love feels like - Leon Leiden Remix",
+      "url": "https://open.spotify.com/track/0T2zPVlS2Oyy0BXlmvYKTe"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 208333,
       "name": "ok on your own",
       "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "this is what falling in love feels like (Leon Leiden Remix)",
-        "url": "https://open.spotify.com/album/38YCTpZRsvYQtCRe4uGM4I"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 120157,
-      "name": "this is what falling in love feels like - Leon Leiden Remix",
-      "url": "https://open.spotify.com/track/0T2zPVlS2Oyy0BXlmvYKTe"
     },
     {
       "added_at": "2022-10-14 05:00:00",

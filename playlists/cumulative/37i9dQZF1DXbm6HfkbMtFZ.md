@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-448 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+449 songs - 1 day 3 hr 14 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Hanoï Café](https://open.spotify.com/track/7f0MMJGwQKtt4ZPu0Y6Vwu) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami \- EP](https://open.spotify.com/album/5AuC9w0bmEFtdgLkg7Jrz8) | 3:14 | 2022-03-30 | 2022-04-19 |
 | [Happy](https://open.spotify.com/track/6Xodd3wwjgU8FRqIX5fkgH) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Mark Foster](https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV) | [Mecury Rising](https://open.spotify.com/album/4d2j7pkXqc2EmAVOqgPQWU) | 2:48 | 2022-03-30 |  |
 | [He Can Only Hold Her](https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:46 | 2022-03-30 | 2022-10-04 |
-| [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2022-01-21 |  |
+| [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2022-01-21 | 2022-10-22 |
 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2022-03-30 |  |
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1bTzErckylA7bBIrBfOgRI) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Hold On \(I Was Wrong\)](https://open.spotify.com/album/1sGQGH1CSRn0888zYxz8EB) | 3:43 | 2022-03-30 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 | 2021-12-16 | 2022-07-29 |
@@ -311,6 +311,7 @@
 | [Pretty Dirty \(In the Fading Light\)](https://open.spotify.com/track/2eAtxc1L97UPkxDf4LFtrK) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Produce the Juice](https://open.spotify.com/album/2AWk4Vwrxfr0Ueso81gVLy) | 5:43 | 2022-01-07 | 2022-07-25 |
 | [Red Cassette](https://open.spotify.com/track/7g5fV2xoWHuLcTl78M3tGO) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Cheap Hotel](https://open.spotify.com/album/3brZD4dpegCaKmFdJagMoz) | 3:56 | 2022-03-30 | 2022-04-21 |
 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 | 2022-03-30 | 2022-10-19 |
+| [Reminiscing \- Remastered](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2022-10-14 |  |
 | [Rico](https://open.spotify.com/track/47Q3RLDX27XVeuQYicgLRj) | [Wild Front](https://open.spotify.com/artist/2NArEZZRL1k5UK5p1PBife) | [Rico](https://open.spotify.com/album/0XoPNR2f5hkCDe7YNNVlqV) | 3:30 | 2022-03-30 | 2022-04-20 |
 | [Ride with Me](https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:52 | 2021-12-16 | 2022-10-20 |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-01-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 157987,
+  "num_followers": 158008,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDE5OWY2YWNiMTY5YjAyN2Y3ODZjMzdjNDA3MDkyZTE3",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDk4NmRiNGYyNTE2MmIyODUyMTg4NTZiNGU1YWMyN2Qw",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "L'Imboscata",
-        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
-      },
-      "artists": [
-        {
-          "name": "Franco Battiato",
-          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Le cose che non ho",
         "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 169520,
       "name": "Ti ho voluto bene veramente",
       "url": "https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "L'Imboscata",
+        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
+      },
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
     },
     {
       "added_at": "2021-09-26 18:38:53",

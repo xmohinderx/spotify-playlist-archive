@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-222 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+223 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-06-10 |  |
 | [Composure](https://open.spotify.com/track/3Qfj2BgymJSXY4zDrBCo3g) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [Composure](https://open.spotify.com/album/2hIiYYXi0R7qJ9cIG4I4P5) | 3:04 | 2020-01-31 | 2022-07-23 |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2022-06-10 | 2022-10-14 |
+| [Corduroy Dreams](https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 3:26 | 2022-09-02 |  |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-06-10 | 2022-07-29 |
 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 | 2020-01-31 | 2022-06-12 |
 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 | 2022-06-10 |  |
@@ -96,7 +97,7 @@
 | [How Do I Cry?](https://open.spotify.com/track/4nrkr6IA1mPqLOU4Co67Vc) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [How Do I Cry?](https://open.spotify.com/album/7B6DIZbDBAWNJ5vTSp1vkj) | 3:01 | 2022-06-10 | 2022-07-27 |
 | [Hunnybee](https://open.spotify.com/track/3DPFmwFtV5ElQaTniLOdgk) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:28 | 2020-01-31 | 2022-07-13 |
 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 | 2022-06-10 |  |
-| [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2022-06-10 |  |
+| [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2022-06-10 | 2022-10-22 |
 | [I Want It All](https://open.spotify.com/track/7cSJqE5ZUqtqy7is4A3qLn) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Want It All](https://open.spotify.com/album/4UXqRHcf4yBpuFxIpQe1wV) | 2:51 | 2020-01-31 | 2022-07-29 |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2022-06-10 | 2022-07-16 |
 | [I'll Call You Mine](https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:21 | 2022-06-10 | 2022-07-29 |

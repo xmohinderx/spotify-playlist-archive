@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Royal & The Serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,360 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,527 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 9 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
 | 10 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 |
 | 11 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
-| 12 | [HAPPY](https://open.spotify.com/track/4QVrlDWojIq4vYJ6kYJVFc) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/65xNkuvhf5iEmGsKxdU6fQ) | 2:27 |
+| 12 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 |
 | 13 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 |
 | 14 | [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 |
 | 15 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [ANXIETY](https://open.spotify.com/track/2OBWPvxRkPHw898IApdrwe) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ANXIETY](https://open.spotify.com/album/7kbCg4mVLUrbiVlEgDA3wM) | 3:14 |
 | 100 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 |
 
-Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGQ0MTNjZTc2NWU2NzhjZTg4M2NkZjUxNjdkYWFlNzBl`
+Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGY2ZDcwYmNiY2FmZjhiZDcxMDQ4MGVhZjAzYjIxZWMz`

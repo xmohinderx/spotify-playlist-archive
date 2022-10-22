@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Volbeat
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Stryper
 
-661 songs - 2 day 1 hr 18 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+663 songs - 2 day 1 hr 25 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 | 2022-07-08 |  |
 | [Arise](https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 3:18 | 2022-08-19 |  |
 | [Armed To The Teeth](https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Armed To The Teeth](https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn) | 4:26 | 2021-12-17 | 2022-07-29 |
+| [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-21 |  |
 | [Astorolus \- the Great Octopus](https://open.spotify.com/track/7v6DwMJy1kPV874CfuN1mY) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Astorolus \- the Great Octopus](https://open.spotify.com/album/4XrIy3GrY9wdXMgiBEmj37) | 6:42 | 2022-01-14 | 2022-06-27 |
 | [At the End of the Rainbow](https://open.spotify.com/track/1dPLUFDn4ZnmCQRslS6vMm) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [At the End of the Rainbow](https://open.spotify.com/album/3JYX12KjroniwQ9KN9ChAw) | 3:21 | 2021-12-17 | 2022-07-28 |
 | [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 |  |
@@ -204,6 +205,7 @@
 | [For All](https://open.spotify.com/track/1vcY5TSpuiiEPWArqn7wIQ) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [For All](https://open.spotify.com/album/2hkCeycrUERP2LabySZ1Hj) | 5:23 | 2021-12-17 | 2022-07-29 |
 | [For No Reason](https://open.spotify.com/track/03vyanFcfUmZAwsZC5Ni1S) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [For No Reason](https://open.spotify.com/album/6a2JPdIQjb9egT8EI492OO) | 4:44 | 2021-12-17 | 2022-07-13 |
 | [Force Majeure](https://open.spotify.com/track/4w6GKkwtaw8x5MQ3l3cPPn) | [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O), [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Force Majeure](https://open.spotify.com/album/5eTz3POhcf7hVr2kh47dP0) | 3:59 | 2021-12-17 | 2022-07-23 |
+| [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 |  |
 | [Forever Lost](https://open.spotify.com/track/2sJeFaKMzEMmwiBbL8x0H6) | [Silver Bullet](https://open.spotify.com/artist/0ppFsYRZGoGYxL12PSjS2q) | [Mooncult](https://open.spotify.com/album/6mv1NleoKi67NUgHU4Q9b8) | 4:45 | 2021-12-17 | 2022-07-25 |
 | [Forged in Metal](https://open.spotify.com/track/1IMU0K1z2oFPfPQzlxSx4X) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Forged in Metal](https://open.spotify.com/album/6k1HronIE7vIrxWoLccq93) | 3:43 | 2021-12-17 | 2022-07-29 |
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2022-08-19 |  |
@@ -231,7 +233,7 @@
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-08-19 |  |
 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 | 2022-08-19 |  |
 | [Hammer Of Dawn](https://open.spotify.com/track/4CSGVziAkUelYOIlOPNu6G) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer Of Dawn](https://open.spotify.com/album/7ABUtIO7hLB17LftkAUml0) | 4:02 | 2021-12-17 | 2022-07-29 |
-| [Hammer of Dawn](https://open.spotify.com/track/6shAaOP9wwqJfiLHRqv4UV) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer of Dawn](https://open.spotify.com/album/2nTZtQxxBz0XiwEktLO0MM) | 4:02 | 2022-07-08 |  |
+| [Hammer of Dawn](https://open.spotify.com/track/6shAaOP9wwqJfiLHRqv4UV) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer of Dawn](https://open.spotify.com/album/2nTZtQxxBz0XiwEktLO0MM) | 4:02 | 2022-07-08 | 2022-10-22 |
 | [Hammer Smashed Face](https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Tomb Of The Mutilated](https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb) | 4:02 | 2022-08-19 |  |
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-12-17 |  |
 | [Hardwired](https://open.spotify.com/track/01JszWYuKqRjddPQ4creVF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired](https://open.spotify.com/album/4MQxwNLnVePt7CYmLE50kC) | 3:11 | 2022-03-22 | 2022-04-14 |
@@ -534,7 +536,7 @@
 | [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 | 2022-07-24 |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 |  |
-| [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 |  |
+| [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2022-10-22 |
 | [Tears of a Mandrake](https://open.spotify.com/track/3rjLNQoQltUK2IH9EHz5Wu) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Monuments](https://open.spotify.com/album/0FqbEsI2QXEaDVGMxslJoa) | 7:14 | 2021-12-17 | 2022-04-21 |
 | [Temples And Towers](https://open.spotify.com/track/6jNJY9mDWROqXDJmU6AXnj) | [Magnus Karlsson’s Free Fall](https://open.spotify.com/artist/44xWxpnL7VA4R3bziyzvfh) | [We Are The Night \(Japan Edition\)](https://open.spotify.com/album/62M2HHDi2MgWE9e2eyUgwX) | 5:37 | 2022-01-07 | 2022-04-18 |
 | [Terial the Hawk](https://open.spotify.com/track/2LmpC836unPeiSTnkiaRm5) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Terial the Hawk](https://open.spotify.com/album/0njaRtKvDSwT5zvW1HBiJf) | 4:49 | 2021-12-17 | 2022-07-29 |

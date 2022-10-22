@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-300 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
+301 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 | 2022-02-07 | 2022-07-29 |
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/52duG8ozTHVfGR87UGuqUt) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/2pAGZOhOB3tYMQiU0SJSkb) | 5:19 | 2021-11-05 | 2022-07-12 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-11-05 |  |
-| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2021-11-05 |  |
+| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2021-11-05 | 2022-10-22 |
 | [Dreamer](https://open.spotify.com/track/4bqeBWlKwz8PoEjI4v7ggz) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Dreamer](https://open.spotify.com/album/5vfbxg7vfVJaT9pXHfoqQc) | 3:40 | 2022-02-21 | 2022-07-29 |
 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 | 2022-02-21 | 2022-08-03 |
 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2e9FxyGISHtOxXdKHTw8QP) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:31 | 2022-07-22 | 2022-09-10 |
@@ -152,6 +152,7 @@
 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 | 2022-07-22 |  |
 | [Love Brought Weight](https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/4sRSCsGsXFMeOTmQ2G6sPV) | 3:05 | 2021-11-05 | 2022-07-29 |
 | [Love Brought Weight](https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20) | 3:05 | 2022-07-22 |  |
+| [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 | 2022-08-02 |  |
 | [Love Flew Away](https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/7yNnjSXqGCF3H1hEwJMwa5) | 2:27 | 2021-11-05 | 2022-07-28 |
 | [Love Flew Away](https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U) | 2:27 | 2022-07-22 | 2022-10-13 |
 | [May](https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:58 | 2021-11-05 | 2022-07-29 |

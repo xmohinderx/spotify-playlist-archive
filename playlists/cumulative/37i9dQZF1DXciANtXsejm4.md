@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-176 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
+177 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Convenceme](https://open.spotify.com/track/3EKvl4YOsLWYmTLLhXYwjZ) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Convenceme](https://open.spotify.com/album/71feC1wlpkAOQQSKfds8Ga) | 3:40 | 2022-06-03 | 2022-07-09 |
 | [Corazon Mentiroso](https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/5VHWH5EkRf5brffwBiBw3q) | 2:59 | 2022-06-03 | 2022-07-28 |
 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 | 2022-07-15 |  |
-| [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 | 2022-04-15 |  |
+| [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 | 2022-04-15 | 2022-10-22 |
 | [Culpable](https://open.spotify.com/track/2jOBay9vG5Za3c4fgTd70V) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Ustedes Lo Hicieron Posible, Gracias!](https://open.spotify.com/album/4N1yJatkYhl9ErFagjQZp9) | 4:09 | 2022-06-03 | 2022-07-18 |
 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 | 2022-07-15 |  |
 | [Cómo Pude Amarla](https://open.spotify.com/track/5Sc4aKJpElEE4s8573uBgz) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:25 | 2022-04-15 | 2022-07-29 |
@@ -120,6 +120,7 @@
 | [No Me Dolió](https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Abrázame](https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw) | 2:55 | 2022-06-03 | 2022-07-21 |
 | [No Puedo Olvidarla](https://open.spotify.com/track/0UMJUEcsyYcFWOH6ojKnM9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Tropi Feats](https://open.spotify.com/album/7hKApke1KBIFq0neCSVPGk) | 4:23 | 2022-06-10 | 2022-07-25 |
 | [Ojalá Que No Puedas](https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [La Gorda Me Quiere](https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63) | 3:12 | 2022-04-15 |  |
+| [Olvida Tus Penas](https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Olvida Tus Penas](https://open.spotify.com/album/323fnUvQnG6FT26KcRTfMS) | 2:38 | 2022-10-22 |  |
 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 | 2022-04-15 |  |
 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 | 2022-04-15 |  |
 | [Otra Noche](https://open.spotify.com/track/5eZWyVkvdMAJjzu6YrPvYw) | [Diana Rios](https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi), [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Otra Noche](https://open.spotify.com/album/3VAs3vXhocwoGQqZ5doGrI) | 3:09 | 2022-06-17 | 2022-07-10 |

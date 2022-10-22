@@ -4,7 +4,7 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Flo Milli
 
-150 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
+152 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Could've Just Left Me Alone](https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Could've Just Left Me Alone](https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW) | 2:17 | 2022-06-03 |  |
 | [Crocs](https://open.spotify.com/track/7L652Sm9c1PBnBPqdCA8RW) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Crocs](https://open.spotify.com/album/3C2d37lrSS6lCxJQSm0eE0) | 2:14 | 2022-06-03 |  |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-06-03 |  |
+| [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2022-10-21 |  |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 |  |
 | [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/3xRFepeq4ID4s2sSETT55F) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [DIY \(From “American Song Contest”\)](https://open.spotify.com/album/3Z7YIniLsNjCyhKDqPyUph) | 2:39 | 2022-06-03 |  |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2022-06-03 |  |
@@ -87,6 +88,7 @@
 | [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 | 2022-06-17 |  |
 | [Melody \- KAAZE Remix](https://open.spotify.com/track/5MhNlA8VfrLddV0pZIStxJ) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Melody \(KAAZE Remix\)](https://open.spotify.com/album/06uIdB1qABA36RuhYcId26) | 3:00 | 2022-06-03 |  |
 | [Messy Love](https://open.spotify.com/track/7kktQmvJ8xLjHzHrBVo8tH) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Messy Love](https://open.spotify.com/album/5i8nyVa8L6o87WqHRRKCPz) | 3:35 | 2022-06-03 |  |
+| [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-21 |  |
 | [My Sister \(feat\. Jorja Smith\)](https://open.spotify.com/track/5QoE67qe8LwdXwW6Sh0Tqg) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [My Sister \(feat\. Jorja Smith\)](https://open.spotify.com/album/6MrFdSJ6KgE2NMjngBLR3z) | 3:45 | 2022-06-03 |  |
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-06-03 |  |
 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 | 2022-06-03 |  |

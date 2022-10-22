@@ -4,7 +4,7 @@
 
 > make it pop! cover: joan
 
-458 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+461 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Dry Spell](https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Dry Spell](https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK) | 3:27 | 2022-05-27 | 2022-08-27 |
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-23 |  |
 | [DUMP HIM](https://open.spotify.com/track/3uCz1ghL2RM8rDWDKSbH0Z) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [DUMP HIM](https://open.spotify.com/album/1i4qNVq9Bjr5Zu58J1BIw0) | 2:35 | 2022-09-16 |  |
+| [Dumpster Fire](https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Dumpster Fire](https://open.spotify.com/album/556wDyg1w9UwoivJ3bg3TI) | 3:16 | 2022-10-21 |  |
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-05 | 2022-02-26 |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 |  |
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 |  |
@@ -143,6 +144,7 @@
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-10-29 | 2021-12-25 |
 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 | 2022-04-08 | 2022-07-30 |
 | [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2022-10-14 |  |
+| [Good Grief!](https://open.spotify.com/track/2NM1xnjA3rV2vVlbRobkIH) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Good Grief!](https://open.spotify.com/album/014sDuoL5qu3jviq8vBi63) | 3:00 | 2022-10-21 |  |
 | [Good Time](https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2) | [Leland Blue](https://open.spotify.com/artist/4TgfkZEpcjkYgRBKeqy1Mh) | [Good Time](https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm) | 2:56 | 2022-02-11 | 2022-02-26 |
 | [Gotta Do Something](https://open.spotify.com/track/7gYZ17ahhZZZ0KraoQZonQ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:27 | 2022-05-06 | 2022-07-30 |
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2021-12-10 | 2022-02-26 |
@@ -205,6 +207,7 @@
 | [I Was a Fool](https://open.spotify.com/track/5TCSMWZow9lzc7jr8WscVD) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:24 | 2022-04-01 | 2022-04-09 |
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2022-07-29 | 2022-10-08 |
 | [I'll Call You Mine](https://open.spotify.com/track/0RQoxryvRJZD9CShaRLASb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:21 | 2022-02-18 | 2022-04-29 |
+| [Iced Coffee](https://open.spotify.com/track/0zH2HR19fqhvxCBzBPi6H2) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Iced Coffee](https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj) | 2:35 | 2022-10-21 |  |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2022-01-28 | 2022-02-26 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-18 | 2022-05-28 |
 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 | 2022-07-29 |  |

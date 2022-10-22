@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-198 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+199 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Long Haul \- Stripped](https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul \(Stripped\)](https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq) | 4:02 | 2021-12-17 |  |
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-12-17 | 2022-04-16 |
 | [Love Like I Drink](https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH) | 3:15 | 2021-12-17 |  |
-| [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 |  |
+| [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-10-22 |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |
 | [Magic \- Acoustic Live In Studio](https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic \(Acoustic Live In Studio\)](https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf) | 3:00 | 2022-08-12 | 2022-09-09 |
@@ -175,6 +175,7 @@
 | [Thought This Through](https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Thought This Through](https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC) | 2:52 | 2021-12-17 |  |
 | [Tired of Flying](https://open.spotify.com/track/0KwQzDrdpYsXLPsEJ0d5bj) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Tired of Flying](https://open.spotify.com/album/6PEIJVqo2koMRHcpaSNdKf) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Truth About You \- Piano Version](https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You \(Piano Version\)](https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM) | 3:25 | 2021-12-17 |  |
+| [Turning Stones](https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Turning Stones](https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE) | 2:26 | 2022-10-21 |  |
 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 | 2021-12-17 |  |
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD) | 3:05 | 2022-07-15 |  |
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5jZgXhm2cSQmOTDJQENojy) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/7216gXKQDpH8s38HJasmhS) | 3:05 | 2021-12-17 | 2022-07-29 |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,275 likes - 129 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,310 likes - 129 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marylin M.](https://open.spotify.com/track/6uw8FVNAFNNpdXtd0AZl6m) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Moriresti per vivere con me?](https://open.spotify.com/album/61eM5wzEw3GQyN1X1yV4ut) | 2:00 |
 | 2 | [Lulu \- Acoustic Version](https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/4GYQvU9WiBi4NkA0ZpPpsp) | [Un bacio \(Deluxe Edition\)](https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh) | 3:26 |
-| 3 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 |
+| 3 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 |
 | 4 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
-| 5 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
-| 6 | [Acqua salata](https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua salata](https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv) | 3:49 |
-| 7 | [Come noi](https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Come noi](https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG) | 2:09 |
+| 5 | [Acqua salata](https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua salata](https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv) | 3:49 |
+| 6 | [Come noi](https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Come noi](https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG) | 2:09 |
+| 7 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 |
 | 8 | [Paranoie](https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Io Sono](https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK) | 2:43 |
 | 9 | [È Andata Così](https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [È Andata Così](https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B) | 3:52 |
-| 10 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 |
-| 11 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 |
+| 10 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
+| 11 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 |
 | 12 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 |
 | 13 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 |
 | 14 | [Soli assieme](https://open.spotify.com/track/6W8sIhqfWYgwzYvwRUQ9iG) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Soli assieme](https://open.spotify.com/album/747G8oEEwQcHz1alvW6Rpv) | 2:42 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 128 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
 | 129 | [frantumi](https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC) | [junksleep](https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m) | [frantumi](https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU) | 1:30 |
 
-Snapshot ID: `MTY2NjMwMzI2MCwwMDAwMDAwMDg0Yjc2ZWI4MGFjMWFlOTA3MjUyOGQzNzY5MmE4MDAx`
+Snapshot ID: `MTY2NjM1MzIzMCwwMDAwMDAwMDgzMWEzNTIzNDQxNGQ2MTU1NGY3Zjg1MTk0YzdlMTY0`

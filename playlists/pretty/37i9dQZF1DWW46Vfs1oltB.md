@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: LILBOI\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 릴보이\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,862 likes - 109 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,994 likes - 109 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 4 | [Cassie \($\) \(prod\. PEEJAY\)](https://open.spotify.com/track/5WpbLx20bl49MQkgIZPDRr) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Cassie \($\)](https://open.spotify.com/album/15koRgGCVhinzEUlcMGGaG) | 3:00 |
 | 5 | [TIPSY](https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:20 |
 | 6 | [sleep tight](https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:49 |
-| 7 | [Away \(Feat\. Taylor, YANU\)](https://open.spotify.com/track/2m9Jh2JxW05ZZ6ua7MNvuN) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Taylor](https://open.spotify.com/artist/7FYjn4nNgjskhNaWoWl8uy), [YANU](https://open.spotify.com/artist/48Q1BLc37oKBmolQuIApXs) | [Meantime](https://open.spotify.com/album/73Qw2FLdzCRM6lCIbk9tSQ) | 3:21 |
+| 7 | [Away \(Feat\. Taylor, YANU\)](https://open.spotify.com/track/2m9Jh2JxW05ZZ6ua7MNvuN) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj), [YANU](https://open.spotify.com/artist/48Q1BLc37oKBmolQuIApXs) | [Meantime](https://open.spotify.com/album/73Qw2FLdzCRM6lCIbk9tSQ) | 3:21 |
 | 8 | [Gone](https://open.spotify.com/track/2kUmf1T7B8ZpfRhBxEJCbL) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Re: Tired.](https://open.spotify.com/album/0qR9lMfsaunrGQNaIm6l2K) | 3:06 |
 | 9 | [Moshpit Only \(Feat\. Paul Blanco\)](https://open.spotify.com/track/14J3fFtcGjaGqReC9bnQAz) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 2:21 |
 | 10 | [Nike Shoes](https://open.spotify.com/track/4qkLMfY5sczhls5VDdsrT1) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [24:26 \(5th Anniversary Remaster Edition\)](https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU) | 4:31 |

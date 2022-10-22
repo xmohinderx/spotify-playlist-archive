@@ -4,7 +4,7 @@
 
 > Experience the best live performances.
 
-182 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2sS4qkEiXB06QFdcBpO2nu)
+183 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/2sS4qkEiXB06QFdcBpO2nu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Good \- Live at Subfrantic](https://open.spotify.com/track/2uf2ou3vOuT0AirGmxQIpG) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Good \(Live at Subfrantic\)](https://open.spotify.com/album/5Fz0oDUdl5x6w8tIcSAvQo) | 3:12 | 2022-02-10 | 2022-07-12 |
 | [Good Morning Heartache \(feat\. Jill Scott\) \- Live Audio from The Wilshire Theatre](https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Live With Orchestra And Special Guests](https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7) | 5:31 | 2022-02-10 |  |
 | [Grow \- Live](https://open.spotify.com/track/6pIka0SZY51UfSPnxuuBps) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/5hx3IYGZNWMV9NgVBOFWZd) | 3:02 | 2022-02-10 | 2022-10-13 |
+| [Grow \- Live](https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL) | 3:02 | 2022-02-10 |  |
 | [Heart Of The City \(Ain't No Love\) \- Live On MTV Unplugged / 2001](https://open.spotify.com/track/4xyPqgnOnH076SJEW2QUwF) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Jay\-Z Unplugged \(Live On MTV Unplugged / 2001\)](https://open.spotify.com/album/7ctCScnWG0nMedlfUiauOk) | 4:05 | 2022-02-10 |  |
 | [Hey Laura \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 3:40 | 2022-02-10 |  |
 | [Hold On, I'm Comin' \- Live in London](https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Stax/Volt Revue: Live In London, Vol\. 1](https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66) | 3:55 | 2022-02-10 | 2022-07-26 |
@@ -158,7 +159,7 @@
 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 | 2022-02-10 |  |
 | [The World \(Is Going up in Flames\) \- Live from Spotify House SXSW '16](https://open.spotify.com/track/3Hy45zVyIpdk9BozbS4PU3) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/4fhvCJ9ddgfRcKvubAxZxu) | 3:11 | 2022-02-10 | 2022-07-29 |
 | [There's Nothing Like This \- Live](https://open.spotify.com/track/2kMf9K6k20Ab19RQpUspEj) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [QCBA](https://open.spotify.com/artist/37B0KQjcPVSWjLpOO8ChBb) | [There's Nothing Like This \(Live\)](https://open.spotify.com/album/3P8vrRhCKHoITLLXiwe1iH) | 7:50 | 2022-02-10 | 2022-07-29 |
-| [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 | 2022-02-10 |  |
+| [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 | 2022-02-10 | 2022-10-22 |
 | [Time Is On My Side \- Live At Slim's, San Francisco, CA / 8\-30\-1990 & 8\-31\-1990](https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Simply The Best: Live!](https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w) | 2:38 | 2022-02-10 | 2022-07-24 |
 | [Tired of Being Alone \- Live](https://open.spotify.com/track/4ZEP6AlYmtx43qQdr5cwcx) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 5:17 | 2022-02-10 | 2022-07-29 |
 | [To Be Young, Gifted and Black \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/6zLWH5tkCUU6k5nlBzM8z8) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 8:22 | 2022-02-10 | 2022-07-28 |

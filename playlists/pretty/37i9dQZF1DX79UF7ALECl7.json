@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee.",
-  "num_followers": 115117,
+  "num_followers": 115124,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDZlYTBkMzk0YjgxNTM1MWFkMzlmNmIzMDUzNTc0MTFj",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGYxNjA1ZGQ4ZTU5NmY2YmRhZjgzZGFlYTU1NjczN2Vi",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7CdYw2gg1xzgfrFkaAtZbL"
-      },
-      "artists": [
-        {
-          "name": "Southern Shores",
-          "url": "https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Aerie",
-      "url": "https://open.spotify.com/track/3VfnEFPZEngbEB5Qb6TeB4"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Edits 001",
         "url": "https://open.spotify.com/album/7KVQivbhzpMiRbQj4mNw4g"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 131764,
       "name": "Midnight - Ambient Edit",
       "url": "https://open.spotify.com/track/6zWkS1HDW9k91fSvYsBheY"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7CdYw2gg1xzgfrFkaAtZbL"
+      },
+      "artists": [
+        {
+          "name": "Southern Shores",
+          "url": "https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "Aerie",
+      "url": "https://open.spotify.com/track/3VfnEFPZEngbEB5Qb6TeB4"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 223682,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 168977,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/1Z6uwcyE8ffTTpaPhBwDTx"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 223682,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+        "name": "Big Sur",
+        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
       },
       "artists": [
         {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+      "duration_ms": 192909,
+      "name": "Big Sur",
+      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Big Sur",
-        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 192909,
-      "name": "Big Sur",
-      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Uncrazy",
         "url": "https://open.spotify.com/album/1MbtuGudZpomEnpHJhbecV"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 231920,
       "name": "Uncrazy",
       "url": "https://open.spotify.com/track/6IW8l6Uq0232scKqo1rLeR"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
-      },
-      "artists": [
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Ruby Veil",
+        "url": "https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Hokum",
+          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
+        }
+      ],
+      "duration_ms": 485006,
+      "name": "Blues On",
+      "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Just for a Moment",
         "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Ruby Veil",
-        "url": "https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN"
-      },
-      "artists": [
-        {
-          "name": "Daniel Hokum",
-          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
-        }
-      ],
-      "duration_ms": 485006,
-      "name": "Blues On",
-      "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/59qFQKextrHGWvevo8az3R"
       },
@@ -887,6 +887,46 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "No Color (Reimagined)",
+        "url": "https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK"
+      },
+      "artists": [
+        {
+          "name": "Mayer Malik",
+          "url": "https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        }
+      ],
+      "duration_ms": 179969,
+      "name": "No Color (Reimagined)",
+      "url": "https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Arturia",
         "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
       },
@@ -899,30 +939,6 @@
       "duration_ms": 331960,
       "name": "Company",
       "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Somewhere In Nirvana",
-        "url": "https://open.spotify.com/album/4V3ClACArpBjii3B7f5xwr"
-      },
-      "artists": [
-        {
-          "name": "LONO",
-          "url": "https://open.spotify.com/artist/49LIV2bIzzfbBbP1qL6UMP"
-        },
-        {
-          "name": "AVY X",
-          "url": "https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px"
-        },
-        {
-          "name": "Kid On The Block",
-          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
-        }
-      ],
-      "duration_ms": 138169,
-      "name": "Somewhere In Nirvana",
-      "url": "https://open.spotify.com/track/6bZFIemcJk5aTAlscgz6T9"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -951,6 +967,30 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Somewhere In Nirvana",
+        "url": "https://open.spotify.com/album/4V3ClACArpBjii3B7f5xwr"
+      },
+      "artists": [
+        {
+          "name": "LONO",
+          "url": "https://open.spotify.com/artist/49LIV2bIzzfbBbP1qL6UMP"
+        },
+        {
+          "name": "AVY X",
+          "url": "https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        }
+      ],
+      "duration_ms": 138169,
+      "name": "Somewhere In Nirvana",
+      "url": "https://open.spotify.com/track/6bZFIemcJk5aTAlscgz6T9"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
       },
@@ -963,26 +1003,6 @@
       "duration_ms": 211071,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1003,22 +1023,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Toledo",
-        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "What We Witness",
-      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "V\u00edn",
         "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
       },
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "No Color (Reimagined)",
-        "url": "https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK"
+        "name": "Toledo",
+        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
       "artists": [
         {
-          "name": "Mayer Malik",
-          "url": "https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc"
-        },
-        {
-          "name": "Boaz van de Beatz",
-          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
         }
       ],
-      "duration_ms": 179969,
-      "name": "No Color (Reimagined)",
-      "url": "https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m"
+      "duration_ms": 301909,
+      "name": "What We Witness",
+      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 415903,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Such It Goes",
-        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
+        "name": "Tell Me Who I Am",
+        "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
       },
       "artists": [
         {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 482595,
-      "name": "Such It Goes",
-      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
+      "duration_ms": 217948,
+      "name": "Tell Me Who I Am",
+      "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Such It Goes",
+        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        }
+      ],
+      "duration_ms": 482595,
+      "name": "Such It Goes",
+      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Voyage Direct (2020 Remaster)",
         "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 277899,
       "name": "Lost in the Streets of NYC - 2020 Remaster",
       "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Tell Me Who I Am",
-        "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 217948,
-      "name": "Tell Me Who I Am",
-      "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1651,30 +1651,6 @@
       "duration_ms": 370006,
       "name": "Dub 002",
       "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Hachi",
-        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
-      },
-      "artists": [
-        {
-          "name": "Stym",
-          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
-        },
-        {
-          "name": "Terizo",
-          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
-        },
-        {
-          "name": "Casual Chill",
-          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Hachi",
-      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1715,6 +1691,30 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Hachi",
+        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
+      },
+      "artists": [
+        {
+          "name": "Stym",
+          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
+        },
+        {
+          "name": "Terizo",
+          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
+        },
+        {
+          "name": "Casual Chill",
+          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Hachi",
+      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
     },
     {
       "added_at": "2022-10-13 22:00:00",

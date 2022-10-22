@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da riascoltare in loop. Cover: Marracash",
-  "num_followers": 146115,
+  "num_followers": 146277,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzODY0MywwMDAwMDAwMGI0NGE1OTY2ZTJiMzg3MTE3NTJlOTkyZDg2MWJiMzg4",
+  "snapshot_id": "MTY2NTEzODY0MywwMDAwMDAwMDMxN2Q3ZjM2NGZkMDlhMjBkYTIwMzUwM2M2NGUzNzk4",
   "tracks": [
     {
       "added_at": "2022-10-07 10:30:43",
@@ -603,22 +603,18 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Italiano Anthem",
-        "url": "https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx"
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
       },
       "artists": [
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 135934,
-      "name": "Italiano Anthem",
-      "url": "https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8"
+      "duration_ms": 187573,
+      "name": "Visiera A Becco",
+      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -751,18 +747,22 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+        "name": "Italiano Anthem",
+        "url": "https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx"
       },
       "artists": [
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Visiera A Becco",
-      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
+      "duration_ms": 135934,
+      "name": "Italiano Anthem",
+      "url": "https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Thick (feat. MamboLosco) [Remix]",
-        "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
-      },
-      "artists": [
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 131697,
-      "name": "Thick (feat. MamboLosco) - Remix",
-      "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
         "name": "Davide",
         "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 206211,
       "name": "Davide (feat. Coez)",
       "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
+        "name": "Thick (feat. MamboLosco) [Remix]",
+        "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 131697,
+      "name": "Thick (feat. MamboLosco) - Remix",
+      "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Lunga Vita a Sto",
-        "url": "https://open.spotify.com/album/5tKy8HZ7mRWib6Tuv54rcf"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Dende",
-      "url": "https://open.spotify.com/track/0GaWvzS26hjyY3HGwjJ9YW"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
         "name": "Kepler",
         "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 187615,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
+        "name": "Lunga Vita a Sto",
+        "url": "https://open.spotify.com/album/5tKy8HZ7mRWib6Tuv54rcf"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Dende",
+      "url": "https://open.spotify.com/track/0GaWvzS26hjyY3HGwjJ9YW"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
         "name": "Allenamento #2",
         "url": "https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 151421,
       "name": "Allenamento #2",
       "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Pookie (feat. Capo Plaza) [Remix]",
-        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Pookie (feat. Capo Plaza) - Remix",
-      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
         "name": "Dilemme (with tha Supreme & Mara Sattei)",
         "url": "https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 231333,
       "name": "Dilemme (with tha Supreme & Mara Sattei)",
       "url": "https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
+        "name": "Pookie (feat. Capo Plaza) [Remix]",
+        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Pookie (feat. Capo Plaza) - Remix",
+      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1975,30 +1975,22 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Non Lo So",
-        "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
       },
       "artists": [
         {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
         },
         {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Linch",
-          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
-        },
-        {
-          "name": "Bovychulo",
-          "url": "https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 142718,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
+      "duration_ms": 184304,
+      "name": "Centro (feat. Coez)",
+      "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
     }
   ],
   "unique_name": "Hit Rap Italiane",

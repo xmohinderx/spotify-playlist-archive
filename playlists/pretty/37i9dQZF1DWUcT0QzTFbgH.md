@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,738 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,758 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 8 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 |
 | 9 | [Booty\-Whop](https://open.spotify.com/track/1nMTBjKdCNPQoZdxsxzTLE) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Booty\-Whop](https://open.spotify.com/album/0e6OBPayhe2ljUVUk2T3Py) | 3:38 |
 | 10 | [Pull Up](https://open.spotify.com/track/6h2nENjlo0GOIpVurs98EY) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [English Dubbed](https://open.spotify.com/album/0gD720TRNfVewJlAe31Kyr) | 3:30 |
-| 11 | [Walls to Build \- Mall Grab Remix](https://open.spotify.com/track/1A8LrZ15bbYIEzCslhnuiD) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Walls to Build Remix](https://open.spotify.com/album/0RPdqpRcPfvT6VmeyAPkkT) | 6:16 |
+| 11 | [Walls to Build \- Mall Grab Remix](https://open.spotify.com/track/1A8LrZ15bbYIEzCslhnuiD) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz), [Mall Grab](https://open.spotify.com/artist/5IjbZHHQexZVqj7DA75psa) | [Walls to Build Remix](https://open.spotify.com/album/0RPdqpRcPfvT6VmeyAPkkT) | 6:16 |
 | 12 | [Sunshine \- Wookie Main Mix](https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Rise](https://open.spotify.com/album/2R6V1HDBBgRxfu469y6V6R) | 4:26 |
 | 13 | [Strike a Pose \(feat\. Aitch\)](https://open.spotify.com/track/23GvTfcGK454ppLsts3W44) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Strike a Pose \(feat\. Aitch\)](https://open.spotify.com/album/4VHqJxJ3wZ9znAPhgcwYwa) | 3:34 |
 | 14 | [Mr Sheeen \- Digga D x Russ Millions](https://open.spotify.com/track/5AiRANsO9d93VQh4jaumuM) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Mr Sheeen \(Digga D x Russ Millions\)](https://open.spotify.com/album/06gDG846xWXiMdTo6moNPu) | 3:36 |

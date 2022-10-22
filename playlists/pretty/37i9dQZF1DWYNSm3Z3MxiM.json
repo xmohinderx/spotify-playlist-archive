@@ -1,12 +1,12 @@
 {
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
-  "num_followers": 622007,
+  "num_followers": 622250,
   "original_name": "Classic Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMDY1ZDlmOGZhMGRiYjBmOTQzZDA2ZjFkMWFjNzRkNWUy",
+  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMGE3Y2MwYjZmY2FmNWY0ODBjYjQ1ZmI1ZDkzZmY1NDli",
   "tracks": [
     {
       "added_at": "2021-12-14 20:27:19",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Don't Say No",
-        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
-      },
-      "artists": [
-        {
-          "name": "Billy Squier",
-          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "The Stroke - Remastered",
-      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
-    },
-    {
       "added_at": "2022-05-31 17:29:22",
       "album": {
         "name": "Smashes Thrashes & Hits",
@@ -839,6 +823,22 @@
       "duration_ms": 228560,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Don't Say No",
+        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
+      },
+      "artists": [
+        {
+          "name": "Billy Squier",
+          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "The Stroke - Remastered",
+      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
       "added_at": "2021-12-14 20:27:19",

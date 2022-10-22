@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26629,
+  "num_followers": 26630,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDI4MGJjOGI1NzBmMmNhMTdjOWI0MjMyMTBlODM4YTQy",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGI5NTYzNmMyYWJiMDFkYWQwYjI2NDIxNzc4ZDE0MDc2",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Rush (Music from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 162373,
       "name": "Michelle - Remastered 2009",
       "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Rush (Music from the Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 271760,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "What Kind Of Fool Am I & Other Show Stoppers",
         "url": "https://open.spotify.com/album/52FNvUtEGZv8HoeT8V7E0H"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 274866,
       "name": "Volare",
       "url": "https://open.spotify.com/track/10ULGvF4XQB1plDN0wnDo9"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Complete Clapton",
-        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
     },
     {
       "added_at": "2022-02-16 05:37:41",

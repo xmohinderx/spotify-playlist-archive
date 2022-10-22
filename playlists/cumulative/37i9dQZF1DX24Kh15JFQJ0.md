@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-160 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+161 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |
+| [Ready As I'll Never Be](https://open.spotify.com/track/3ClP57EQSyJyWLpYgGD131) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ready As I'll Never Be](https://open.spotify.com/album/5H0SF6b6zNFQ5GF6ixsZV1) | 4:01 | 2022-10-21 |  |
 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 | 2021-10-15 |  |
 | [Road to Abilene](https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [100 Proof Neon](https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG) | 4:00 | 2022-07-29 |  |
 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 | 2021-10-15 |  |

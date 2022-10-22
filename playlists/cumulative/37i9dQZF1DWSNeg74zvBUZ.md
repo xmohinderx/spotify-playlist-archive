@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-127 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
+128 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [AT THE RIVERS EDGE](https://open.spotify.com/track/3Cf908nBvfqqH7rzAi8KbM) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 4:31 | 2021-09-10 | 2022-07-29 |
 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 | 2021-09-10 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/1dUJSg35YhhEeG9potM4Cv) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/3VT8eoRaoFsqjVcSu1GFfB) | 6:16 | 2021-09-10 | 2022-04-20 |
-| [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-03 |  |
+| [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 | 2022-09-03 |  |
+| [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-03 | 2022-10-22 |
 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 | 2021-09-10 |  |
 | [Black Is The Color Of My True Love's Hair](https://open.spotify.com/track/35HX8z7O4MaVVrT40YEujJ) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Bass Desires](https://open.spotify.com/album/3ENSb9BRGFVzNinQh8cFhg) | 7:07 | 2021-09-10 | 2022-04-20 |
 | [Blonde](https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:10 | 2021-09-10 | 2022-07-29 |

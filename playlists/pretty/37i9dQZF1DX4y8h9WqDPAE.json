@@ -1,12 +1,12 @@
 {
-  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Mariah The Scientist",
-  "num_followers": 1751181,
+  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Babyface",
+  "num_followers": 1751258,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc5MzIwMywwMDAwMDAwMGQ2MjBjNzI3N2ZhNjU0ZDNmZTg0MDRhZDRkNTM2NTQ3",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGIwNTA1YmUwNDFkZmFlMjAxMDcyMmI1NWY1Yzg4ZGQw",
   "tracks": [
     {
       "added_at": "2022-10-03 18:11:06",
@@ -43,6 +43,26 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 201528,
+      "name": "Girls Night Out (with Doechii)",
+      "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
     },
     {
       "added_at": "2022-09-30 04:06:29",
@@ -185,6 +205,26 @@
       "url": "https://open.spotify.com/track/3dGJPLnc2YlXVvcgwW47Mn"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Take Shots (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 281985,
+      "name": "Take Shots (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
       "added_at": "2022-09-23 04:07:20",
       "album": {
         "name": "Ain\u2019t No Love (feat. 2 Chainz)",
@@ -203,6 +243,22 @@
       "duration_ms": 184976,
       "name": "Ain\u2019t No Love (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Lost In Melody",
+        "url": "https://open.spotify.com/album/5T3IUCaNX06cTAk38oZlIj"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 185282,
+      "name": "Empty Stomach",
+      "url": "https://open.spotify.com/track/0SqvXRAk5lKwHNkp1aUfHo"
     },
     {
       "added_at": "2022-08-26 04:05:41",
@@ -439,6 +495,26 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 214396,
+      "name": "One Good Thing (with Amaarae)",
+      "url": "https://open.spotify.com/track/2sbshpiL1KReNfPHsW4b6k"
     },
     {
       "added_at": "2022-09-16 04:00:00",

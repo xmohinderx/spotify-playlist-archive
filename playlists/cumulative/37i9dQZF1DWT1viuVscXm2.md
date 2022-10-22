@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Sergio Dalma & La K'onga.
 
-165 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+166 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [De Amor Voy a Morirme](https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [De Amor Voy a Morirme](https://open.spotify.com/album/0tXY3rHWyKS2VD3hpEbXOK) | 3:07 | 2021-12-24 |  |
 | [De un Tiempo a Esta Parte](https://open.spotify.com/track/5Iyp4ikp4LdVXDnb45lstv) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Javier Ortega](https://open.spotify.com/artist/6jGIY0FDKLEWixfXTgh8wI) | [De un Tiempo a Esta Parte](https://open.spotify.com/album/62t8oGmohX5zc3gzgDZN2R) | 4:44 | 2021-12-24 |  |
 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-12-24 |  |
+| [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/track/1yKxctyjh6CdDmJd9LaRNb) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [CUMBIALANDIA](https://open.spotify.com/artist/6NLMDsPCHLd5s6BEGBYCIP) | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/album/4JtNGqrJtfeIquW3svl1bh) | 3:06 | 2022-10-22 |  |
 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 | 2021-12-24 |  |
 | [El Campanero](https://open.spotify.com/track/5G4g6BDM5hdleQF99Hq8nK) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/5DUClhRJXZW2RqHd8jlwmj) | 4:33 | 2022-01-11 | 2022-10-11 |
 | [El Campanero](https://open.spotify.com/track/6YF8AXgrIDJu7IjQAixYtD) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/4DRXD5RyV4aaOyW0RNXU0V) | 4:33 | 2022-09-23 |  |

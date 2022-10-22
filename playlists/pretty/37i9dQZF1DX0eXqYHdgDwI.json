@@ -1,12 +1,12 @@
 {
   "description": "it's ok not to be ok :'( ",
-  "num_followers": 92661,
+  "num_followers": 92732,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5NzI2MCwwMDAwMDAwMGNhYTgyNjhlOTQ4ZmFkNmQ4MDI0ODFmMmUwZmNjOGQ2",
+  "snapshot_id": "MTY2NTA5NzI2MCwwMDAwMDAwMDc2OGE4YzU0OTkyZTljMjFhMmE2MjkzY2Y3MWQzMjhm",
   "tracks": [
     {
       "added_at": "2022-08-03 11:02:55",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
+      "added_at": "2022-10-22 01:37:45",
+      "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
       "added_at": "2022-08-03 11:02:55",
       "album": {
         "name": "Narrated For You",
@@ -103,22 +119,6 @@
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
-    },
-    {
-      "added_at": "2022-10-21 01:31:41",
-      "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2022-08-03 11:02:55",

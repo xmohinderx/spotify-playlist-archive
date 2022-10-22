@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-132 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
+133 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Ballongen](https://open.spotify.com/track/7t6y7KQoyTlxo3yXqAwSU3) | [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Sole Gipp Ossler](https://open.spotify.com/artist/4W6WFc9Q6Zx4SkrfO94D9W) | [Ballongen](https://open.spotify.com/album/3IdofACTDhIZLRqeAT9rxe) | 3:24 | 2022-07-29 |  |
 | [Being Outside Being](https://open.spotify.com/track/4Vxs0CpT7C5ENZ9DxQZtb5) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [When You Are](https://open.spotify.com/album/0foarjbOjwt6MHqKi3wJMH) | 2:55 | 2022-07-27 |  |
 | [Beyond Breath \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/3juW67GUopzqRZegUIHq7I) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Beyond Breath \(Alexandra Hamiton\-Ayres Rework\)](https://open.spotify.com/album/4bj8Pczx5TtSBRqMolcaZe) | 4:13 | 2022-09-14 |  |
-| [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-14 |  |
+| [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 | 2022-10-04 |  |
+| [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-14 | 2022-10-22 |
 | [Black White Felt](https://open.spotify.com/track/5n1HBXOeeKzEfdlEMJ6Tmm) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Arnold Kasar](https://open.spotify.com/artist/700im8kgUAWwcvUOAqrTWm) | [Einfluss](https://open.spotify.com/album/3UNzfV1VqrqTBTHLa3flUd) | 4:01 | 2022-01-05 |  |
 | [Blooming Again](https://open.spotify.com/track/1p27Xeye9MXeHm1YMebfHg) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Blooming Again](https://open.spotify.com/album/1g3OerHruRT9KmL5gk8N3S) | 3:54 | 2022-04-13 |  |
 | [By the Ash Tree](https://open.spotify.com/track/2UviNaDp85KGHFRx7Fupap) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [By the Ash Tree](https://open.spotify.com/album/5Y3fQLDpT5O6pau6vOzyT8) | 3:16 | 2022-01-05 | 2022-07-29 |

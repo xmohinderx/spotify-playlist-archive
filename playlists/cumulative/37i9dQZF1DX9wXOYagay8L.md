@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3?si=Xv5EZXQ5R4OtBgobLBjTxA">Afrotraction</a>
 
-273 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+274 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Ntokazi](https://open.spotify.com/track/1cOR2ZdjaTN9Yj0WrlzcvU) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [MTB](https://open.spotify.com/artist/2OX6ctm7zzFiwOBC0fgK2Q) | [Ntokazi](https://open.spotify.com/album/2CBWOFD0acarYjYz1aaPOL) | 3:33 | 2022-03-03 | 2022-07-01 |
 | [Ntombazana](https://open.spotify.com/track/6fJlDSuDWB6YEtY9GwtUr4) | [Hassan Mangete](https://open.spotify.com/artist/49MtwqGzcDiLnZ5JnsczYH), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Azmo Nawe](https://open.spotify.com/artist/2KtuL7JwOuuMqjTiAOj75I) | [Ntombazana](https://open.spotify.com/album/3weAjQvgtPGA4XmTeIQDIV) | 2:54 | 2022-09-15 | 2022-10-21 |
 | [Ntsoare Moo](https://open.spotify.com/track/0wKUAe9I3MUpkH25xE9Etb) | [Irysh Da Princess](https://open.spotify.com/artist/1Vhxd4Vp4qL039MHLynbnm) | [Honour Array EP](https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T) | 3:27 | 2022-05-26 | 2022-07-01 |
-| [Number 1](https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh) | 4:17 | 2022-10-20 |  |
+| [Number 1](https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh) | 4:17 | 2022-10-20 | 2022-10-22 |
+| [Number 1](https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 4:17 | 2022-10-20 |  |
 | [Nzwakazi](https://open.spotify.com/track/7qoqQWKWYZTuHjJuqvwe5t) | [Bonga Kwana](https://open.spotify.com/artist/60Wka611vbfLW4IG31w99x) | [New faces to old problems](https://open.spotify.com/album/6dppQTbTIWldHxHF8zJOAO) | 3:55 | 2021-11-04 | 2022-03-25 |
 | [Ooh Lala](https://open.spotify.com/track/1CB29KyAf2lI2UgSYEhPgK) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ooh Lala](https://open.spotify.com/album/5fW2Q1xwB4dHEL5b99xfxD) | 3:22 | 2021-11-18 | 2022-03-25 |
 | [Othanda Mina](https://open.spotify.com/track/7CBGbm4zPNGe0sbCEf1SA5) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Othanda Mina](https://open.spotify.com/album/0OILOtl8viER0JAkRKiORB) | 4:43 | 2021-10-21 | 2022-02-18 |

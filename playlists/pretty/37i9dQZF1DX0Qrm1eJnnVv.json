@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 2859,
+  "num_followers": 2862,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDY4OWZjYmExYzYyMDU3MjE4YjBiM2Y2YmMzY2JiMjJm",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGZmNzRhM2U2MzZhZGU0ZmJkMjNkMWQ5MTAwNmU5ZmIz",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -179,18 +179,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
-        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
+        "name": "Ol' Muddy",
+        "url": "https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe"
       },
       "artists": [
         {
-          "name": "Martin Spitznagel",
-          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
+          "name": "Sue Keller",
+          "url": "https://open.spotify.com/artist/1LjB5pWtBa02kIACdPb6tx"
         }
       ],
-      "duration_ms": 228000,
-      "name": "The Easy Winners",
-      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
+      "duration_ms": 210253,
+      "name": "Castle House Rag (James Reese Europe, 1914)",
+      "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -231,18 +231,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ol' Muddy",
-        "url": "https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe"
+        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
+        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
       },
       "artists": [
         {
-          "name": "Sue Keller",
-          "url": "https://open.spotify.com/artist/1LjB5pWtBa02kIACdPb6tx"
+          "name": "Martin Spitznagel",
+          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Castle House Rag (James Reese Europe, 1914)",
-      "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
+      "duration_ms": 228000,
+      "name": "The Easy Winners",
+      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ragtime Oriole",
-      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+      "duration_ms": 200000,
+      "name": "Bohemia Rag",
+      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Bohemia Rag",
-      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
+      "duration_ms": 210000,
+      "name": "Ragtime Oriole",
+      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The Complete Piano Works of Scott Joplin",
-        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
-      },
-      "artists": [
-        {
-          "name": "Knocky Parker",
-          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
-        }
-      ],
-      "duration_ms": 85889,
-      "name": "The Nonpareil",
-      "url": "https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime Classics, 1901-1919",
         "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
+      },
+      "artists": [
+        {
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
+        }
+      ],
+      "duration_ms": 85889,
+      "name": "The Nonpareil",
+      "url": "https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Takes Two",
         "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 165040,
       "name": "Possum and Taters",
       "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Hilarity",
+        "url": "https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4"
+      },
+      "artists": [
+        {
+          "name": "Jazzou Jones",
+          "url": "https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "Patricia Rag",
+      "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -643,22 +659,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Hilarity",
-        "url": "https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4"
-      },
-      "artists": [
-        {
-          "name": "Jazzou Jones",
-          "url": "https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Patricia Rag",
-      "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "50 Ragtime Classics: The Best of Scott Joplin",
         "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
-      },
-      "artists": [
-        {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Rag Sentimental",
-      "url": "https://open.spotify.com/track/3bG4me64hbVIVO0zAIkohe"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Complete Piano Music Of Scott Joplin",
         "url": "https://open.spotify.com/album/1Ylmy8lsNu3LIlGqYCdUhZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 206600,
       "name": "Felicity Rag",
       "url": "https://open.spotify.com/track/3qyqMVspq0B4f3MGZwVG2G"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "Rag Sentimental",
+      "url": "https://open.spotify.com/track/3bG4me64hbVIVO0zAIkohe"
     },
     {
       "added_at": "2020-08-19 17:18:36",

@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 311680,
+  "num_followers": 311887,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMGJiMDMxZDczMzdmMzI1MDI3Y2FkNTA1MGU1OTJiNzUz",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDBhMjMwZGJjOGM2MGU2OGQ4YTJhMWVkZDAwMmRkY2U0",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 215925,
+      "name": "Vida Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Cerca Est\u00e1s",
         "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 203516,
       "name": "Si Sabes Donde Hallarlo (feat. Marcos Vidal)",
       "url": "https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Vida Encontr\u00e9",
-        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 215925,
-      "name": "Vida Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 234399,
-      "name": "Soy Tu Dios",
-      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 270920,
       "name": "No Hay Pero Va a Sobrar",
       "url": "https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 234399,
+      "name": "Soy Tu Dios",
+      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 256464,
-      "name": "Se Nota En Tus Ojos",
-      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Fierce (Studio Version)",
         "url": "https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 222186,
       "name": "Fierce - Studio Version",
       "url": "https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Fragmentos del Cielo",
+        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 212806,
+      "name": "Mi Roca",
+      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Fragmentos del Cielo",
-        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 212806,
-      "name": "Mi Roca",
-      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
+      "duration_ms": 256464,
+      "name": "Se Nota En Tus Ojos",
+      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Cielo Gobierna",
-        "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
-      },
-      "artists": [
-        {
-          "name": "David Scarpeta",
-          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
-        }
-      ],
-      "duration_ms": 265280,
-      "name": "El Cielo Gobierna",
-      "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "En Esto Creo (Live)",
         "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 220862,
       "name": "Tiempo Para Perder",
       "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Cielo Gobierna",
+        "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
+      },
+      "artists": [
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        }
+      ],
+      "duration_ms": 265280,
+      "name": "El Cielo Gobierna",
+      "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
     },
     {
       "added_at": "2021-05-21 19:19:27",

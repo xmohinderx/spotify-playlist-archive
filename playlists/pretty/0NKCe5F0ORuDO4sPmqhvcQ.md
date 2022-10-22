@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,213 likes - 113 songs - 6 hr 25 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,212 likes - 113 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 109 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 |
 | 110 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
 | 111 | [Like Me \(feat\. Hooli\)](https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Hooli](https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW) | [Like Me \(feat\. Hooli\)](https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH) | 2:23 |
-| 112 | [Spirit On Mine \- feat\. Luck](https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE) | [Venessa Michaels](https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC), [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/album/6AuypIwd3phed9BaarcGk2) | 3:13 |
+| 112 | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE) | [Venessa Michaels](https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC), [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/album/6AuypIwd3phed9BaarcGk2) | 3:13 |
 | 113 | [Joan](https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Joan](https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3) | 5:18 |
 
 Snapshot ID: `MTAwMjEsYzU1NjJhNTYzN2IwNDkzMWEyNmE4MzUzMDNkYTg4OTI5ZTBmMzUyNA==`

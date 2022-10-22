@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,210 likes - 60 songs - 3 hr 20 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,198 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 |
-| 2 | [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 |
-| 3 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 |
-| 4 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 |
+| 1 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 |
+| 2 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 |
+| 3 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 |
+| 4 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 |
 | 5 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 |
 | 6 | [Collide](https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy) | [Yula](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Collide](https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ) | 3:43 |
 | 7 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 59 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 |
 | 60 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 |
 
-Snapshot ID: `MzcxOCw4MWRjYmM5MmQ4ZjA2ZjFiOTJmYmM2M2EwYTI2Y2Q3MDhjNWRjNzdl`
+Snapshot ID: `MzcyMyw4NTczYjkzYzM2YjFiYjhkOGJjMGVlZWNiZmQ3YzUxMDNlOTU0ZWYw`

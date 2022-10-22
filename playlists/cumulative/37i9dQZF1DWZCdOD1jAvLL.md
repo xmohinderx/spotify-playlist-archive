@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Catz 'n Dogz, myst milano.
 
-324 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+325 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Age of Love \- ARTBAT Rave Mix](https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB) | [Age of Love \(ARTBAT Rave Mix\)](https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK) | 7:25 | 2022-01-14 | 2022-03-12 |
 | [Aguila ft\. Cumbiafrica](https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila ft\. Cumbiafrica](https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs) | 2:48 | 2022-08-05 |  |
 | [Alive](https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Alive](https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u) | 3:40 | 2022-06-10 | 2022-07-23 |
-| [All Around The World](https://open.spotify.com/track/4EVzwXDKm3YW3KgF9imoco) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [EASTON](https://open.spotify.com/artist/1C8AF3HUn2d2rRz1z4Ukv1) | [All Around The World](https://open.spotify.com/album/34UTPB520XN8llrFjLmV3A) | 3:17 | 2022-09-09 |  |
+| [All Around The World](https://open.spotify.com/track/4EVzwXDKm3YW3KgF9imoco) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [EASTON](https://open.spotify.com/artist/1C8AF3HUn2d2rRz1z4Ukv1) | [All Around The World](https://open.spotify.com/album/34UTPB520XN8llrFjLmV3A) | 3:17 | 2022-09-09 | 2022-10-22 |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 | 2022-08-27 |
 | [Alright](https://open.spotify.com/track/0erkfOrhEHd40xipSC8vqi) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Alright](https://open.spotify.com/album/30c5njwDLzLB83s407ZAkj) | 3:53 | 2022-07-15 |  |
 | [Alter Ego](https://open.spotify.com/track/5s2lyz1qrRbrMQB9vIejn2) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Eleventh Wave](https://open.spotify.com/album/1oFWND9JlKsHBJc5fNfg3S) | 6:26 | 2022-06-03 | 2022-07-16 |
@@ -58,6 +58,7 @@
 | [California Dreamin’ \(feat\. High Jinx\) \(Vintage Culture Remix\)](https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin’ \(feat\. High Jinx\) \(Vintage Culture Remix\)](https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK) | 3:03 | 2022-01-14 | 2022-07-23 |
 | [Child](https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Child](https://open.spotify.com/album/4nz18DILyysoglGaV015Cq) | 3:03 | 2022-04-29 | 2022-06-25 |
 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 | 2022-07-22 |  |
+| [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 | 2022-10-21 |  |
 | [CLOSE2ME](https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [CLOSE2ME](https://open.spotify.com/album/4XjJwCh6Ox1SlMZmIPmr6B) | 3:08 | 2022-01-14 | 2022-01-22 |
 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 | 2022-10-07 |  |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-04 | 2022-06-25 |

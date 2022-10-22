@@ -2397,7 +2397,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 80842,
       "name": "I Just Want to Be the One You Love",
       "url": "https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU"
@@ -3756,6 +3756,24 @@
     },
     {
       "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "album": {
         "name": "SUGARCOATED",
         "url": "https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX"
       },
@@ -4173,7 +4191,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 220588,
       "name": "Was It Something I Said",
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
@@ -4213,6 +4231,24 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "album": {

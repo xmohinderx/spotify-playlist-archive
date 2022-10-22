@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Avolia  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,182 likes - 56 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,185 likes - 56 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 22 | [Leave Me By Myself](https://open.spotify.com/track/4uCmvzteDkIEXOqj3bgwYQ) | [Fareeq Angkasa](https://open.spotify.com/artist/0kwTVA3G8zcGbxtOs5SBUT) | [Leave Me By Myself](https://open.spotify.com/album/4A2fU8o5FJiKKMFNNf8qkw) | 3:16 |
 | 23 | [Layar Rasa](https://open.spotify.com/track/1tCQ8H0n7RJpN7uADW3SxK) | [Shelly Trisna](https://open.spotify.com/artist/6pIJaHEYfDU1DmbDVwg1yU) | [Dua Sisi](https://open.spotify.com/album/503qw5JzKVwKJkeYAze52b) | 3:43 |
 | 24 | [You Know](https://open.spotify.com/track/0GCp8RAu7oMn94orcNacEX) | [Tobias Hosea](https://open.spotify.com/artist/7cPc3OavyjUwdMjfugxoAp) | [You Know](https://open.spotify.com/album/6X77QJCb00DChZbbJ7FPTA) | 3:24 |
-| 25 | [Lotta Blessins](https://open.spotify.com/track/6IB22x2bPZQlW2emrCntcA) | [BIG8ABY](https://open.spotify.com/artist/25GSKmGddgl7g07VSgToJZ), [Cika Asyarani](https://open.spotify.com/artist/5mXeknVmrFpNxCVSo1Dsef) | [Lotta Blessins](https://open.spotify.com/album/1ljYQ59KhaqrFb28GTIF7N) | 3:13 |
+| 25 | [Lotta Blessins](https://open.spotify.com/track/6IB22x2bPZQlW2emrCntcA) | [BIG8ABY](https://open.spotify.com/artist/25GSKmGddgl7g07VSgToJZ), [Cika Asyarani](https://open.spotify.com/artist/5gIogGZGH03TdvqwHDTcJa) | [Lotta Blessins](https://open.spotify.com/album/1ljYQ59KhaqrFb28GTIF7N) | 3:13 |
 | 26 | [Red Tulip](https://open.spotify.com/track/5GqjZbQd7YZVNVIGDiQmql) | [Nicholas Yoel](https://open.spotify.com/artist/2O2WjTnwb3Yl61kvuJYhxU) | [Red Tulip](https://open.spotify.com/album/1YWjWxur5zSjcfHloIMalb) | 3:42 |
 | 27 | [PERHAPS](https://open.spotify.com/track/01y3OabHdhWuIftpTRnBop) | [Jordie Yose](https://open.spotify.com/artist/6VywJDkajUQLLBojKT4C4L) | [PERHAPS](https://open.spotify.com/album/4Bpo3M80eDEaeMZcpIJCKu) | 3:11 |
 | 28 | [Semesta](https://open.spotify.com/track/3Tw6Mwla9toM6ReGQY4OsJ) | [Yuka Tamada](https://open.spotify.com/artist/71Q5NOxxX2y2yldpYUmEvK) | [Semesta](https://open.spotify.com/album/0KsKt2PFBOUhwzURw00SXC) | 3:51 |

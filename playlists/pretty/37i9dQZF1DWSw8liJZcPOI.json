@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 395087,
+  "num_followers": 395314,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDZkNDQzYzFmNTc0ZTEwOTY5MGQxOTlkY2NmZWE1ODVl",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGQ4YzJjZjQ0OTkyODA1ZDY3MGM3YjgyYjQ5ZjgzOTRl",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -131,30 +131,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Muku",
-        "url": "https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        },
-        {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Muku",
-      "url": "https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Still / Sound \u2014 piano reworks",
         "url": "https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 166000,
       "name": "Blund",
       "url": "https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Muku",
+        "url": "https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Muku",
+      "url": "https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -423,46 +423,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Niemand bringt Marten um",
-        "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Niemand bringt Marten um - Lambert Rework",
-      "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Big Wide World (Reimagined for Piano)",
-        "url": "https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        },
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        }
-      ],
-      "duration_ms": 293405,
-      "name": "Big Wide World (Reimagined for Piano)",
-      "url": "https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Sigur R\u00f3s: Flj\u00f3tav\u00edk",
         "url": "https://open.spotify.com/album/5lTDQh05XStGCWjbEuKW45"
       },
@@ -491,6 +451,62 @@
       "duration_ms": 248692,
       "name": "Flj\u00f3tav\u00edk",
       "url": "https://open.spotify.com/track/6hkOAdgduiWe3jCV3PjPKJ"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Niemand bringt Marten um",
+        "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "Niemand bringt Marten um - Lambert Rework",
+      "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Cloud Memory",
+        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        }
+      ],
+      "duration_ms": 117585,
+      "name": "Cloud Memory",
+      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Big Wide World (Reimagined for Piano)",
+        "url": "https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        },
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "duration_ms": 293405,
+      "name": "Big Wide World (Reimagined for Piano)",
+      "url": "https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -527,22 +543,6 @@
       "duration_ms": 201774,
       "name": "Humming Bird Rework",
       "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Cloud Memory",
-        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        }
-      ],
-      "duration_ms": 117585,
-      "name": "Cloud Memory",
-      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -743,6 +743,30 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Du Nord",
         "url": "https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp"
       },
@@ -779,22 +803,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
@@ -811,42 +819,18 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
       },
       "artists": [
         {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -867,6 +851,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 232040,
       "name": "In Cold Light",
       "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "LYR",
+        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
+      },
+      "artists": [
+        {
+          "name": "Aeden Azora",
+          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LYR",
+      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -955,18 +971,18 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "LYR",
-        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
       },
       "artists": [
         {
-          "name": "Aeden Azora",
-          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 180250,
-      "name": "LYR",
-      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
+      "duration_ms": 125437,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Parliament Of Owls",
         "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
       },
@@ -1035,34 +1035,18 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 125437,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+      "duration_ms": 350974,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1083,18 +1067,34 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
       },
       "artists": [
         {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 350974,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "October",
-      "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "October",
+      "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
+        "url": "https://open.spotify.com/album/5EVLlgLBEpVKPuu9LOGeN3"
+      },
+      "artists": [
+        {
+          "name": "Frances Shelley",
+          "url": "https://open.spotify.com/artist/0oUU96ZHc648yvAP9JrQ9d"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 254117,
+      "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
@@ -1275,6 +1295,22 @@
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1315,42 +1351,6 @@
       "duration_ms": 374662,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
-        "url": "https://open.spotify.com/album/5EVLlgLBEpVKPuu9LOGeN3"
-      },
-      "artists": [
-        {
-          "name": "Frances Shelley",
-          "url": "https://open.spotify.com/artist/0oUU96ZHc648yvAP9JrQ9d"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 254117,
-      "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw"
     },
     {
       "added_at": "2022-10-14 04:01:00",

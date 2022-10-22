@@ -4,13 +4,14 @@
 
 > Press play and dance away to your favorite electronic hits\. Featuring Major Lazer.
 
-203 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+204 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7 \(feat\. JC Stewart\)](https://open.spotify.com/track/6J1mnTM2yGV7FsShNcCXB0) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [24/7 \(feat\. JC Stewart\)](https://open.spotify.com/album/30zhkm14VV1Llw59uYFt3G) | 2:55 | 2022-06-03 |  |
 | [Adicto \(feat\. Gigolo y La Exce\)](https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:20 | 2022-07-01 |  |
 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 | 2022-06-24 |  |
+| [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 | 2022-10-21 |  |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-07 |  |
 | [All I Need](https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [All I Need](https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix) | 3:06 | 2022-09-16 |  |
 | [All These Nights \- Fred V Remix](https://open.spotify.com/track/7vuvlQMfe6xvZemyXy61Y5) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [All These Nights \(Fred V Remix\)](https://open.spotify.com/album/7atPB0QMX88r7Jakax8WlU) | 3:31 | 2022-08-26 |  |

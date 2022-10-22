@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Meet Me @ The Altar",
+  "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Knuckle Puck",
   "name": "The Scene",
   "published_playlist_ids": [
     "4Z9TvdiaBBwAHoM8rp9lOU"
@@ -4675,7 +4675,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 180472,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
@@ -5521,7 +5521,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 154680,
       "name": "GOOD MOOD (feat. grandson)",
       "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
@@ -5579,6 +5579,24 @@
       "duration_ms": 179733,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/32dLBG6JrsCaq7L6GeIKd7"
+    },
+    {
+      "album": {
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217989,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
     },
     {
       "album": {
@@ -15665,6 +15683,24 @@
       "duration_ms": 151265,
       "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
       "url": "https://open.spotify.com/track/6DvNarTGaQFkWpYM7CtqbC"
+    },
+    {
+      "album": {
+        "name": "\u2022I WON'T DIE\u2022",
+        "url": "https://open.spotify.com/album/3Oe9hZ049Pdpk7opuhYKb8"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123183,
+      "name": "\u2022I WON'T DIE\u2022",
+      "url": "https://open.spotify.com/track/2SOVWeeZlyhPLy9F33QN3Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZkHEX2YHpDV"

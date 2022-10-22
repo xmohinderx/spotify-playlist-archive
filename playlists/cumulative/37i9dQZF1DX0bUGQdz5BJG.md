@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Avery Anna
 
-902 songs - 2 day 0 hr 15 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+907 songs - 2 day 0 hr 33 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Better Off](https://open.spotify.com/track/4PJEiDyv7qDI7fPhDJ0iM3) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Better Off](https://open.spotify.com/album/224QxJ9UhjffWDuFleATFz) | 2:44 | 2022-07-22 | 2022-10-08 |
 | [Better Off](https://open.spotify.com/track/0rZe1HbAwBWPOY4fnX6sgF) | [Zach Thomas](https://open.spotify.com/artist/0qJEfRnU91wq9sbWfbW2ar) | [Better Off](https://open.spotify.com/album/1KYETvIFZGfHrpkDOlEbR7) | 3:07 | 2022-03-11 | 2022-04-29 |
 | [Better On Me](https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Better On Me](https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf) | 2:29 | 2021-12-31 | 2022-02-05 |
+| [Better Strangers](https://open.spotify.com/track/6mALHRSTWCtTsAmdpaxIXa) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Better Strangers](https://open.spotify.com/album/63ef7l5xAFP03Uusprs2ni) | 3:46 | 2022-10-21 |  |
 | [Better With A Broken Heart \(feat\. TJ Osborne\)](https://open.spotify.com/track/2jYCFNo30hKtPxzCg9P5R5) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [TJ Osborne](https://open.spotify.com/artist/6QiL03acy4FWqgWiS2sLhw) | [Better With A Broken Heart \(feat\. TJ Osborne\)](https://open.spotify.com/album/2eS1dFa5sd2K4b4ezXSDZb) | 3:07 | 2022-04-08 | 2022-06-11 |
 | [Between You & Me](https://open.spotify.com/track/6Caou05cO2GvexExMTuUFK) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Between You & Me](https://open.spotify.com/album/3nnAeeHSrzKpAs2foSrChm) | 2:32 | 2022-09-16 |  |
 | [Between You and Me](https://open.spotify.com/track/6zwhdilvFhS3oHnUlCgBn5) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Between You and Me](https://open.spotify.com/album/11S4FX9upaqdyrMG6IvsSC) | 3:32 | 2022-09-30 |  |
@@ -227,6 +228,7 @@
 | [Fade Away](https://open.spotify.com/track/71GB6W5KXctH0v4h6W5EM4) | [Blayne Clower](https://open.spotify.com/artist/6PfDM1s5UNL6FZKGq0q2vU) | [Fade Away](https://open.spotify.com/album/7mBHhfvphdTCItOKbIkVxH) | 4:06 | 2021-12-31 | 2022-01-08 |
 | [Faded On Me](https://open.spotify.com/track/2yn1m3R7ShYGPsHKuvgbEJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Faded On Me](https://open.spotify.com/album/5yJmWyimljNuXghn37qDSS) | 3:04 | 2022-06-03 | 2022-09-03 |
 | [Falling Out Of Love](https://open.spotify.com/track/2UZcmXpjnfFkFh0jCPIliW) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Falling Out Of Love](https://open.spotify.com/album/6ZAnWDNvLToLEP1MusduC4) | 3:14 | 2022-04-01 | 2022-04-16 |
+| [Family](https://open.spotify.com/track/6yZw0mZwk4n3G9MZmXYqnQ) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Family](https://open.spotify.com/album/6gn0PJBY4nJ1x8LirxeAu4) | 2:52 | 2022-10-21 |  |
 | [Feel Good](https://open.spotify.com/track/2kH5KD0eUomWpiUFpQQCqj) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/26JNFifNHZuO5Xe3fKhepz) | 2:49 | 2022-07-22 | 2022-08-13 |
 | [Feel Good](https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA) | 2:49 | 2022-05-06 | 2022-07-29 |
 | [Fill 'Er Up](https://open.spotify.com/track/6BfPaiVZQGXTfnVUXdp2en) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Fill 'Er Up](https://open.spotify.com/album/1PjGGtIiF0fOkYSDYlOFsu) | 2:47 | 2022-05-13 | 2022-05-20 |
@@ -689,6 +691,7 @@
 | [Someone](https://open.spotify.com/track/2bfHqHI0q8HilVfyyVJ8QD) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 3:59 | 2022-01-28 | 2022-04-23 |
 | [Someone Else's Radio](https://open.spotify.com/track/4RGcCaJPeBIxmD8nWm7vV1) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 2:55 | 2022-06-17 | 2022-09-03 |
 | [Someone New In Town](https://open.spotify.com/track/71kMhsGYvifUYH42om9o9Y) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am \(Repack\)](https://open.spotify.com/album/3D6sOqU3M5mTEX8o7DFFSw) | 3:41 | 2021-12-31 | 2022-02-26 |
+| [Something Beautiful](https://open.spotify.com/track/0KkMTW1h89HvgBAH8uPA7e) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Something Beautiful](https://open.spotify.com/album/2uhRs2YpUau1DJloTfu5Ad) | 4:17 | 2022-10-21 |  |
 | [Something Else Tonight](https://open.spotify.com/track/5Gon2vLFHAGRksvNm61KCe) | [Buck Twenty](https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq) | [Something Else Tonight](https://open.spotify.com/album/2hAbjhKIiaEIiL6NGKoVyH) | 2:55 | 2022-02-25 | 2022-05-28 |
 | [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 | 2021-12-31 | 2022-02-26 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-04-22 | 2022-05-07 |
@@ -832,6 +835,7 @@
 | [We Were Cowboys](https://open.spotify.com/track/5Nbq6BNkf5gedpzWeNIH8e) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/6C8xaLNV3IpwwtOFUqLKsC) | 3:39 | 2022-07-08 | 2022-09-03 |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 | 2022-04-02 |
 | [We’ve Never Danced](https://open.spotify.com/track/0kHAc1CqVguXkbxhEXZpaa) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Tony Evans Jr.](https://open.spotify.com/album/5dxhrIBcP8E8AKkiUDN601) | 3:24 | 2022-05-20 | 2022-09-17 |
+| [What A High](https://open.spotify.com/track/26DYLCTNnjpUvpP4vKI8jB) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [What A High](https://open.spotify.com/album/4VyHzfWj6WkAnf70iZyZa6) | 3:45 | 2022-10-21 |  |
 | [What Colour You Drive](https://open.spotify.com/track/5Zp4gbFOTHdzuTCdiTbRdn) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [What Colour You Drive](https://open.spotify.com/album/0pcnBEavBIxMwpz7Oi46Ro) | 3:48 | 2022-09-30 |  |
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 | 2022-07-23 |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-05 | 2022-09-03 |
@@ -880,6 +884,7 @@
 | [winner.](https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [winner.](https://open.spotify.com/album/1kWyKD40f10OOX1w68su1O) | 2:58 | 2022-06-17 | 2022-07-23 |
 | [Wish](https://open.spotify.com/track/1Orx6DriPPZeC0EjItYzaD) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Wish](https://open.spotify.com/album/1WHkEPHmQTnraFQ1QYiOES) | 2:32 | 2022-05-20 | 2022-07-02 |
 | [Wish You The Best](https://open.spotify.com/track/4ICE8oMW6yVIqsveda2Srr) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Through The Madness Vol\. 1](https://open.spotify.com/album/5N9ZHay9lZWfle8m5mTPiK) | 2:59 | 2022-02-11 | 2022-06-18 |
+| [Wish You Were The One](https://open.spotify.com/track/7350LOdDNax72K821W4oQF) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Wish You Were The One](https://open.spotify.com/album/2f56Ld9gl7DKGk8liDuOZn) | 3:03 | 2022-10-21 |  |
 | [With A Woman You Love](https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [With A Woman You Love](https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71) | 2:47 | 2021-12-31 | 2022-01-22 |
 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 | 2022-09-16 |  |
 | [Without Tennessee](https://open.spotify.com/track/1OYFKHdmktpYWUY8VqgVLQ) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Without Tennessee](https://open.spotify.com/album/4GWr6C4AZvS3DyjFiJR7Bh) | 3:34 | 2022-04-15 | 2022-07-02 |

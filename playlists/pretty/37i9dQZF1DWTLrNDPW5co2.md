@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,680 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,691 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 37 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 |
 | 38 | [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 |
 | 39 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 |
-| 40 | [Str8 Acting](https://open.spotify.com/track/2NWlqkcCLOnDTuKVvSwLgN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:55 |
+| 40 | [Str8 Acting](https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:55 |
 | 41 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
 | 42 | [Hip Hop Spa](https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Genre\-Specific Xperience](https://open.spotify.com/album/3SHUtCuskxWnDgBHhupzaF) | 4:24 |
 | 43 | [He Is the Voice I Hear](https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [He Is the Voice I Hear](https://open.spotify.com/album/76LFRQ0iWwIJLvdyxL6CzK) | 10:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 59 | [No Idol \- Remix](https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/6ODJBf2C5LXJGIcB9QHU7p) | 2:36 |
 | 60 | [Uyang'khumbula](https://open.spotify.com/track/06RtgiZpMOkPpVevTWdKFh) | [Faka](https://open.spotify.com/artist/7qnN27UrAjCwesCsBHeadM) | [Amaqhawe](https://open.spotify.com/album/6cA5w26FmQnhw9i9YH8vOq) | 5:54 |
 
-Snapshot ID: `MTY2MDQ0MDcxMSwwMDAwMDAwMDUxMjQ4YWM3ZjQ4N2I4MTY5ZTViY2Y0YmJmMWY4ODM3`
+Snapshot ID: `MTY2MDQ0MDcxMSwwMDAwMDAwMDkzY2E4OWM1ZGU2ZjJmNTNhZTAwNTY3ZDM3MzI5Yjdj`

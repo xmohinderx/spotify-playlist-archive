@@ -4,7 +4,7 @@
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-167 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/77F99slL8XuYqo0FuKXNMN)
+168 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/77F99slL8XuYqo0FuKXNMN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bottomless Mimosas](https://open.spotify.com/track/1pAwto1TwLjGVC11CY6XS1) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Tenderheart](https://open.spotify.com/album/3Wx7SJbPGyMrTuiBf4U3QU) | 3:46 | 2019-06-07 | 2022-07-11 |
 | [Bubbles in My Beer](https://open.spotify.com/track/2B3mWAyrWbOfCjvO6kkMAg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:31 | 2019-06-07 | 2022-06-09 |
 | [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 3:13 | 2019-06-07 | 2022-07-29 |
+| [Call Me in the Afternoon](https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 3:13 | 2019-06-07 |  |
 | [Call Me in the Afternoon](https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg) | 3:13 | 2019-06-07 | 2022-10-13 |
 | [Call Me In The Afternoon](https://open.spotify.com/track/5vVHhJr6OpVuHMt1TuHT35) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/5PI71sEmCdBM238mbnFQjq) | 3:13 | 2019-06-07 | 2022-07-23 |
 | [Can’t Let Go, Juno](https://open.spotify.com/track/0eM4CcU3AaE7m4FGH8vgql) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Sonderlust](https://open.spotify.com/album/73RHozbfNLbyab3XnYN7f5) | 4:22 | 2019-06-07 |  |
@@ -126,7 +127,7 @@
 | [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 | 2019-06-07 | 2022-10-13 |
 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 | 2019-06-07 |  |
 | [Rivers and Roads](https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:44 | 2019-06-07 | 2022-07-29 |
-| [Rye Whiskey](https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Antifogmatic](https://open.spotify.com/album/2C37EWVmuBXjXqxhGwJM5c) | 3:29 | 2019-06-07 |  |
+| [Rye Whiskey](https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Antifogmatic](https://open.spotify.com/album/2C37EWVmuBXjXqxhGwJM5c) | 3:29 | 2019-06-07 | 2022-10-22 |
 | [Sedona](https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:59 | 2019-06-07 | 2022-07-29 |
 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 | 2019-06-07 |  |
 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2019-06-07 |  |

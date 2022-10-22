@@ -1238,6 +1238,28 @@
     },
     {
       "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Purgatory",
+      "url": "https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28"
+    },
+    {
+      "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },

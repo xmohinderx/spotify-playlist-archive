@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 371,
+  "num_followers": 395,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMGVkYzMyNjAzMzhkNmUwOWMzZGZmMzUxOGE3MjE0MTIw",
+  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMGJkZjgwYjIwNGVlOWVmMTljMzc4ZmFkMTgwNDRmZjhi",
   "tracks": [
     {
       "added_at": "2022-10-02 02:05:19",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "Best of Old School Hip-Hop, Vol. 1",
+        "url": "https://open.spotify.com/album/1BfzKtCK9WVOl1Isxl4DL9"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 263095,
+      "name": "Who Am I (What's My Name)",
+      "url": "https://open.spotify.com/track/1csGNtAIZYcLxhA68Y5jTc"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "Amazing (feat. DJ Khaled)",
         "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 160017,
       "name": "Amazing (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "Best of Old School Hip-Hop, Vol. 1",
-        "url": "https://open.spotify.com/album/1BfzKtCK9WVOl1Isxl4DL9"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 263095,
-      "name": "Who Am I (What's My Name)",
-      "url": "https://open.spotify.com/track/1csGNtAIZYcLxhA68Y5jTc"
     },
     {
       "added_at": "2022-10-02 02:05:19",

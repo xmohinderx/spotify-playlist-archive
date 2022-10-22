@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,023 likes - 117 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,022 likes - 117 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 49 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
 | 50 | [Fancy \- Dave Audé Remix](https://open.spotify.com/track/2ZuPfysUMPtXSGhFZ7W4Xt) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Rumor Has It \(30th Anniversary Edition\)](https://open.spotify.com/album/164LWFbi9ynXhbbYPOseKo) | 4:44 |
 | 51 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 |
-| 52 | [Famous \- MCV Remix](https://open.spotify.com/track/5XKQjfQq9VjIx8jCuo5r0a) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [MCV](https://open.spotify.com/artist/1mjg68pupCgMtmyWbWqMUu) | [Famous: The Remixes](https://open.spotify.com/album/71SqrNbvR2AGkXYK19JhYw) | 3:11 |
+| 52 | [Famous \- MCV Remix](https://open.spotify.com/track/0MHrkVWTuK6a0LudzTd3bR) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [MCV](https://open.spotify.com/artist/1mjg68pupCgMtmyWbWqMUu) | [Famous: The Remixes](https://open.spotify.com/album/1ELmvshGmYmdlQHlkZgAeN) | 3:11 |
 | 53 | [Rumor \(StreetRunner Remix\)](https://open.spotify.com/track/7rfL98jHRRhuV8qhPwBCtO) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Streetrunner](https://open.spotify.com/artist/2dUY04atdeTa15JqWeGnfr) | [Rumor \(Remixes\)](https://open.spotify.com/album/0htPXn3wIk2tOAGxxMTLGK) | 3:31 |
 | 54 | [Drunk Me \- R3HAB Remix](https://open.spotify.com/track/3kwL8x4afaomYsX3d4cmPL) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Drunk Me \(R3HAB Remix\)](https://open.spotify.com/album/33Fyd6by0ZBwbrvRYv2iSQ) | 2:33 |
 | 55 | [F\-150 \- Remix](https://open.spotify.com/track/3x4bhkIZvvU5Fdlca11FxU) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [F\-150 \(Remix\)](https://open.spotify.com/album/4B6NbS6xeMxxFZatcQK898) | 2:42 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 116 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 117 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDgzZWJjMzhmNjE0MTYyMjlmNjU0MmVkNjZiNjZmMjA1`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDZlNzViNGY1MmQzOTE4NDNlOWY2NDg2N2E2ZjM3MTZh`

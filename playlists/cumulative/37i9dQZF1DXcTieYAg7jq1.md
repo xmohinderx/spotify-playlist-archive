@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Ashe
 
-261 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+263 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Do Re Mi](https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Do Re Mi](https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq) | 2:41 | 2022-01-28 | 2022-07-29 |
 | [Do That for You](https://open.spotify.com/track/6nxRxeYjAKJfwtWGO1CtjO) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Life In Colour](https://open.spotify.com/album/36zNWjjmLyBcqEGGmKuO5O) | 3:23 | 2021-12-03 | 2022-10-15 |
 | [Does Anybody Know](https://open.spotify.com/track/5VFStg36hHvBLBs1Bk52Sb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Does Anybody Know](https://open.spotify.com/album/6RUMsYj6QVzmiQ2LPa5LLk) | 3:28 | 2021-12-03 | 2022-07-29 |
-| [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 | 2021-12-03 | 2022-10-19 |
+| [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 | 2021-12-03 |  |
 | [Don't Ask Why](https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Don't Ask Why](https://open.spotify.com/album/2dV6Cph8TmEvU7qApCq5Ze) | 3:15 | 2022-03-04 | 2022-07-22 |
 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 | 2022-09-09 |  |
 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 | 2022-05-06 |  |
@@ -72,7 +72,7 @@
 | [Dry Bones](https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Troy Miller](https://open.spotify.com/artist/5JM4WCkJO9f1jZK3ZdxovQ) | [Dry Bones](https://open.spotify.com/album/4fbOSnKV77GDqa54vORMym) | 3:09 | 2021-12-03 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 |  |
 | [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 | 2022-07-22 |  |
-| [Face The River](https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/0ZMHcAWJPzZuNhk8R3UOi9) | 3:36 | 2022-04-15 |  |
+| [Face The River](https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/0ZMHcAWJPzZuNhk8R3UOi9) | 3:36 | 2022-04-15 | 2022-10-22 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 |  |
 | [Feels So Good](https://open.spotify.com/track/3fwIiZvKoNG9q4KcNv9XQK) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Feels So Good](https://open.spotify.com/album/5aOPGphgzI9EocL6qcBNkB) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Final Days](https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:10 | 2021-12-03 |  |
@@ -95,7 +95,7 @@
 | [Gotta Be Lovin Me](https://open.spotify.com/track/0GN7hYVgkvzVgGs6fO8dj6) | [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Watch The Ton3s \- EP](https://open.spotify.com/album/6YVSAUnKDj3xq7tIjtbadH) | 4:19 | 2021-12-03 | 2022-06-04 |
 | [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2022-04-18 |
 | [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 | 2022-05-20 | 2022-10-20 |
-| [Grow](https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1) | 3:00 | 2021-12-03 |  |
+| [Grow](https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1) | 3:00 | 2021-12-03 | 2022-10-22 |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-03 | 2022-10-13 |
 | [Hero](https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 3:19 | 2021-12-03 |  |
 | [Hey Dreamer](https://open.spotify.com/track/69CMvfnwh6nfmxJDWHWCTN) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Let Yourself Be Loved \(Deluxe Edition\)](https://open.spotify.com/album/7ByoyhgJv2ZtItu6gvLRjM) | 3:39 | 2021-12-03 | 2022-07-29 |
@@ -115,6 +115,7 @@
 | [Hypotheticals \- Edit](https://open.spotify.com/track/2qP9lVJb52SRLVOLxm3lzN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Hypotheticals](https://open.spotify.com/album/7ez1oWCcQAg6iXFJnjUpSP) | 3:10 | 2021-12-03 | 2022-07-29 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-12-03 |  |
 | [I Don't Really Care For You](https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [I Don't Really Care For You](https://open.spotify.com/album/2WVqGcJwbqBQxJCeytGbvx) | 4:03 | 2021-12-03 | 2022-07-29 |
+| [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 | 2021-12-03 |  |
 | [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2021-12-03 | 2022-10-13 |
 | [I Don't Wanna Lie](https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:01 | 2021-12-03 |  |
 | [I Feel Fine](https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [I Feel Fine](https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX) | 3:07 | 2022-05-27 | 2022-08-04 |
@@ -157,6 +158,7 @@
 | [Love Is A Game](https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-12-03 | 2022-10-01 |
 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 | 2021-12-03 |  |
 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 | 2022-09-10 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 |  |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 |  |
 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 | 2021-12-03 | 2022-10-01 |
 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 | 2022-10-07 |  |

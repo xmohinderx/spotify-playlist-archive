@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Sleeping With Sirens",
+  "description": "The hardest songs, loud. Very loud. Cover: Architects",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 219906,
       "name": ".intoodeep.",
       "url": "https://open.spotify.com/track/0BWv3O0ouhfmc2aAPezRGu"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 185578,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/1Fl5pNT0nM667ugiC08mPd"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 168669,
       "name": "Cage",
       "url": "https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa"
@@ -1816,6 +1816,24 @@
     },
     {
       "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "album": {
         "name": "Dark Days (feat. Jeris Johnson)",
         "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
       },
@@ -2164,6 +2182,24 @@
     },
     {
       "album": {
+        "name": "The Mourning",
+        "url": "https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203555,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW"
+    },
+    {
+      "album": {
         "name": "Devil That You Know / Lazy Eyes",
         "url": "https://open.spotify.com/album/6cpjKpQiWtvoDV4gWqARFb"
       },
@@ -2236,6 +2272,24 @@
     },
     {
       "album": {
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227821,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI"
+    },
+    {
+      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -2291,6 +2345,24 @@
       "duration_ms": 252890,
       "name": "Divided",
       "url": "https://open.spotify.com/track/4X5wQ6IHdm37cOR7ZBBozz"
+    },
+    {
+      "album": {
+        "name": "Divine Attack - Shingeki -",
+        "url": "https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218661,
+      "name": "Divine Attack - Shingeki -",
+      "url": "https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ"
     },
     {
       "album": {
@@ -3092,6 +3164,24 @@
     },
     {
       "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+    },
+    {
+      "album": {
         "name": "Full Disclosure",
         "url": "https://open.spotify.com/album/3rKQ2d40swe7pq2nHgaTdI"
       },
@@ -3121,7 +3211,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 145200,
       "name": "FXXKFXXKFXXK",
       "url": "https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0"
@@ -5053,7 +5143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 193240,
       "name": "Mind Right",
       "url": "https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC"
@@ -5454,6 +5544,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants to Die",
+        "url": "https://open.spotify.com/album/4AWOxOI6D5iH8VuVWY1Fbe"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "Nobody Wants to Die",
+      "url": "https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx"
+    },
+    {
+      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
       },
@@ -5589,6 +5697,24 @@
       "duration_ms": 271417,
       "name": "Our Time Is Now",
       "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
+    },
+    {
+      "album": {
+        "name": "Out",
+        "url": "https://open.spotify.com/album/7tf1eM1QJIJ9ZvmpURBlF2"
+      },
+      "artists": [
+        {
+          "name": "Robot Monster",
+          "url": "https://open.spotify.com/artist/5hUuP1ezGGEm6JSUdFcA9t"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Out",
+      "url": "https://open.spotify.com/track/6qaIFzZNuTJE2oD3seVat2"
     },
     {
       "album": {
@@ -6723,7 +6849,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 200489,
       "name": "Saviour II",
       "url": "https://open.spotify.com/track/14FP9BNWHekbC17tqcppOR"
@@ -7730,6 +7856,24 @@
     },
     {
       "album": {
+        "name": "Taunt Me",
+        "url": "https://open.spotify.com/album/1DOLXGRrzOfSEGelL71udE"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Taunt Me",
+      "url": "https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77"
+    },
+    {
+      "album": {
         "name": "tear gas",
         "url": "https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL"
       },
@@ -7741,10 +7885,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 257903,
       "name": "tear gas",
       "url": "https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257903,
+      "name": "tear gas",
+      "url": "https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW"
     },
     {
       "album": {
@@ -7965,7 +8127,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
@@ -8209,7 +8371,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 231286,
       "name": "The Void Stares Back",
       "url": "https://open.spotify.com/track/5V2okh49WkuGz0IvnRuqWL"
@@ -9217,7 +9379,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 205731,
       "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
       "url": "https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS"
@@ -9329,6 +9491,24 @@
       "duration_ms": 223800,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/12emOqzCBWE74T63XjZYF2"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/5sWrfb9vKQUnm2rSBbOSO4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-121 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/79xUevvuTQnyCBirNlp86S)
+122 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/79xUevvuTQnyCBirNlp86S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 | 2021-10-06 |  |
 | [A Minha Menina](https://open.spotify.com/track/3CCGsOj2efotChiScMmCWg) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0gUoiZk9aWpg3HXaygDNp6) | 4:44 | 2021-10-06 | 2022-07-29 |
 | [A Whiter Shade Of Pale](https://open.spotify.com/track/3qitymULqEibr7yknRMKU4) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade Of Pale](https://open.spotify.com/album/2WcfgOosdw0bN9g9twoA4K) | 4:08 | 2021-10-06 | 2022-07-29 |
-| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 | 2021-10-06 |  |
+| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade of Pale](https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO) | 4:08 | 2021-10-06 |  |
+| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 | 2021-10-06 | 2022-10-22 |
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2021-10-06 |  |
 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 | 2021-10-06 |  |
 | [All Day and All of the Night](https://open.spotify.com/track/5gmMa8nwzrkcPbHzSW3azN) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/0fT3ySwzj1bPUWINB07MoI) | 2:22 | 2021-10-06 | 2022-07-29 |

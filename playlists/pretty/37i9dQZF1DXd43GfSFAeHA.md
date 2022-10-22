@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > Hip\-Hop tracks from the Arab world\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,423 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,474 likes - 42 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 15 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 |
 | 16 | [Vide](https://open.spotify.com/track/3vg7v3qKyjAWsBYwJlRa11) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Vide](https://open.spotify.com/album/1bgPSa6kgOFUa3LCkcjdsL) | 2:48 |
 | 17 | [L’allemagne \- Bonus](https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01) | 3:01 |
-| 18 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
-| 19 | [Ha3](https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Ha3](https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r) | 2:11 |
+| 18 | [Ha3](https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Ha3](https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r) | 2:11 |
+| 19 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
 | 20 | [Pateras](https://open.spotify.com/track/1O0PIA7k79x4z8d5liFZbC) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Genetics 2](https://open.spotify.com/album/0jH9xoByUW07n2ZgcKyR8y) | 3:00 |
 | 21 | [Autonome](https://open.spotify.com/track/5u827fD1CqybRYsvR6APzE) | [Skorap](https://open.spotify.com/artist/4nNmuXpMzX0V6sFKn8YWc7), [IZM Music](https://open.spotify.com/artist/2sRxgF61QuiihbPucdNiAQ) | [Autonome](https://open.spotify.com/album/1NhN71WJiQJbA98gnNf3OR) | 3:03 |
 | 22 | [Theeb](https://open.spotify.com/track/1LiiKjHg9vlk3592zUThYM) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Theeb](https://open.spotify.com/album/4G7QlmmtmBm8MZSZ0FgNbQ) | 2:06 |
@@ -34,19 +34,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 24 | [Hana](https://open.spotify.com/track/1Yx2hUJcUoWhAPUlBd7Ipx) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Hana](https://open.spotify.com/album/3CyCOSe9Ir0vLkhoQ5VMTm) | 3:45 |
 | 25 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 |
 | 26 | [Le 9abli Le Ba3di](https://open.spotify.com/track/6D6ahOAuLcDrVGZsB1L1Gg) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Le 9abli Le Ba3di](https://open.spotify.com/album/3zb2lM9hkdXTM1x5OIHmIq) | 2:51 |
-| 27 | [Wa9tech \- وقتاش](https://open.spotify.com/track/7vfWvg7NVrjm2O9wdCgqa5) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wa9tech \(وقتاش\)](https://open.spotify.com/album/0nzPY0Th9NXUoeC5DvmXgR) | 3:11 |
-| 28 | [Napoli](https://open.spotify.com/track/5l37BFLcOujPniSPbmiIzy) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Zedk](https://open.spotify.com/artist/5eDzQ1aF3AyCoQC9uNTwzE) | [Napoli](https://open.spotify.com/album/62DlWYJwVkY82WK17OFdQl) | 3:36 |
+| 27 | [Napoli](https://open.spotify.com/track/5l37BFLcOujPniSPbmiIzy) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Zedk](https://open.spotify.com/artist/5eDzQ1aF3AyCoQC9uNTwzE) | [Napoli](https://open.spotify.com/album/62DlWYJwVkY82WK17OFdQl) | 3:36 |
+| 28 | [Wa9tech \- وقتاش](https://open.spotify.com/track/7vfWvg7NVrjm2O9wdCgqa5) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wa9tech \(وقتاش\)](https://open.spotify.com/album/0nzPY0Th9NXUoeC5DvmXgR) | 3:11 |
 | 29 | [TOO BAD](https://open.spotify.com/track/1AnrtxsCuT4NhqCZGAF1KI) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [TOO BAD](https://open.spotify.com/album/1l9g8CblI5U64euEuJFFE3) | 2:39 |
 | 30 | [أهل العمار](https://open.spotify.com/track/5w4ei3ImB3MjVIhyXWDbYU) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار](https://open.spotify.com/album/7jCvs21LFCE7FrXFgs7vv9) | 3:47 |
 | 31 | [Jack](https://open.spotify.com/track/4uWUAz8oZPGjj3Ly2YVx6q) | [Skorap](https://open.spotify.com/artist/4nNmuXpMzX0V6sFKn8YWc7) | [Jack](https://open.spotify.com/album/6iNgrxZ8DvQOXxTaW17Ly1) | 2:30 |
-| 32 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 |
-| 33 | [2028](https://open.spotify.com/track/0dcfAtl0El9e9grlFUBBdb) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 2:49 |
-| 34 | [Hamdulilah](https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Here and There](https://open.spotify.com/album/2dEjij0eIdYLr90152L734) | 2:03 |
+| 32 | [Hamdulilah](https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Here and There](https://open.spotify.com/album/2dEjij0eIdYLr90152L734) | 2:03 |
+| 33 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 |
+| 34 | [2028](https://open.spotify.com/track/0dcfAtl0El9e9grlFUBBdb) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 2:49 |
 | 35 | [Khataf](https://open.spotify.com/track/14bqqHlCGigtTWDEYkgyvv) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Khataf](https://open.spotify.com/album/291zy8iPVZVVUFIu4BTmwQ) | 3:14 |
 | 36 | [فشينك](https://open.spotify.com/track/020CGpSRDSHbvvC9vlHSaq) | [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randarofficial](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [فشينك](https://open.spotify.com/album/4z67IwnZAfeTaWJmD9ZvO4) | 2:14 |
 | 37 | [Doos](https://open.spotify.com/track/10p9dAdwouu6jqsb0vzeJg) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/6TpjzgthHnWlyejxMPBinW) | 1:41 |
 | 38 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
 | 39 | [Sami Khedira](https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op) | [El Batsh](https://open.spotify.com/artist/0bDjrJ7Jy8Dx0vumq98wTk), [8ight](https://open.spotify.com/artist/0R6EyWUEFnAzrWvDat1mgO) | [3al Zamer](https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g) | 3:30 |
-| 40 | [Najem Leil](https://open.spotify.com/track/0XGjH4TgvARhLq5s2tPMHU) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Najem Leil](https://open.spotify.com/album/487keg0yGJnNq6feYj7psr) | 3:25 |
+| 40 | [VFX](https://open.spotify.com/track/3m9TzZ3tnaeMRC4dIrdrk9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:43 |
+| 41 | [Najem Leil](https://open.spotify.com/track/0XGjH4TgvARhLq5s2tPMHU) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Najem Leil](https://open.spotify.com/album/487keg0yGJnNq6feYj7psr) | 3:25 |
+| 42 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 |
 
-Snapshot ID: `MTY2NDgzMDgwMCwwMDAwMDAwMDYxYTdiZGE3OWFmMTRmMmE1ZmViMjk3Y2M0Mjc1MDhj`
+Snapshot ID: `MTY2NjM4ODY4NiwwMDAwMDAwMDc3MTg3ZGM0YWZhNWQ3MTc2ZTI2OTdjOWEyODJiNjg5`

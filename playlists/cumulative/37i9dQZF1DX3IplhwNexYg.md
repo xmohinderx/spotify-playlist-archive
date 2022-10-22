@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Wunderhorse
 
-310 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+316 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2022-04-01 | 2022-09-23 |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-01 | 2022-07-29 |
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-10 | 2022-09-23 |
+| [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 | 2022-10-21 |  |
 | [anyway](https://open.spotify.com/track/3egmebMbMAFYAjCw8gV8SW) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [anyway](https://open.spotify.com/album/5TaH4wLzrMgEhd1KMcXiwE) | 3:36 | 2021-06-25 | 2022-03-11 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 4:07 | 2022-09-01 | 2022-10-14 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-08-18 | 2022-09-04 |
@@ -39,6 +40,7 @@
 | [Be the Hook](https://open.spotify.com/track/4yNIKmXxa8TmFR1LSziKTC) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Be the Hook](https://open.spotify.com/album/0CpSfuO3HmUuZUHqJ5qEGD) | 2:45 | 2022-01-17 | 2022-08-19 |
 | [Beaches](https://open.spotify.com/track/2h5reg3Cwkeh8JIoxNX9ID) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Beaches](https://open.spotify.com/album/0nXGm6KHzEnE0J06vAxQ3z) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [Belicoso](https://open.spotify.com/track/2miicbSi3pZwm6Jzgw6AjF) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Belicoso](https://open.spotify.com/album/4UCn67JtIgzPMCnmU5NinV) | 2:49 | 2021-03-09 | 2022-01-17 |
+| [Best of It](https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Best of It](https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v) | 2:08 | 2022-10-21 |  |
 | [Bet My Blood](https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Bet My Blood](https://open.spotify.com/album/6G5IHNBlR3Ac0fSRwUgFFn) | 2:59 | 2021-05-21 | 2022-02-04 |
 | [Bet My Brains](https://open.spotify.com/track/293L4QqPp9XAyYAO32VJpp) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Bet My Brains](https://open.spotify.com/album/63UCoFVtwXykTLnEk5vMiP) | 3:53 | 2021-03-09 | 2022-01-17 |
 | [Between The Rocks](https://open.spotify.com/track/2FK5khW8jinlrJOy0TWVxM) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Between The Rocks](https://open.spotify.com/album/3JDZzKj3R9MGJEncZLi5ZQ) | 3:31 | 2022-08-18 |  |
@@ -96,6 +98,7 @@
 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-18 |  |
 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 | 2022-10-13 |  |
 | [End of the World](https://open.spotify.com/track/3kMn5466igLcIipucTOrSt) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [End of the World](https://open.spotify.com/album/14DWK40JwAG6to2t1KpEGK) | 4:15 | 2022-10-13 |  |
+| [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 | 2022-10-21 |  |
 | [Everything](https://open.spotify.com/track/6SXnYD0f96UJAtLTRWwSbK) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Everything at Once](https://open.spotify.com/album/38WlVvrvwOSJURYOKvAILE) | 4:25 | 2021-03-09 | 2022-01-17 |
 | [Exploding House](https://open.spotify.com/track/5pynE1WnRqLPCTlLbrpDyi) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:04 | 2021-10-29 | 2022-08-19 |
 | [Eyes Closed for the Winter](https://open.spotify.com/track/5PxLKWMLJUGD3pugHV5Gc9) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Eyes Closed for the Winter](https://open.spotify.com/album/5LFXtJVjIXrEv1R5PaloR6) | 3:06 | 2022-04-01 | 2022-08-19 |
@@ -112,6 +115,7 @@
 | [Float Away](https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Float Away](https://open.spotify.com/album/1EZHlWMrnooR3AaKX7CojR) | 3:00 | 2021-07-16 | 2022-08-19 |
 | [FML](https://open.spotify.com/track/46Nr71GAHoSO5aqtUMUXT6) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Keep On Truckin'](https://open.spotify.com/album/4nl662iBk0IbnefmRYBGcI) | 2:49 | 2021-10-15 | 2022-08-19 |
 | [Focus](https://open.spotify.com/track/6bE3rnhnlVNevaIuwvkiXF) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Focus](https://open.spotify.com/album/69QkIjxgLwRUFibhVxRKpA) | 2:41 | 2022-09-29 |  |
+| [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 | 2022-10-21 |  |
 | [Forever](https://open.spotify.com/track/2cmDPqRq97ivaQcjUo8erq) | [Repenter](https://open.spotify.com/artist/4sFVHlvgogxZ41szbq6wip) | [Forever](https://open.spotify.com/album/5AGEqq97zCOGgd0PfjbujC) | 4:10 | 2021-03-09 | 2022-01-17 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-04 | 2022-04-02 |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2022-08-18 | 2022-10-07 |
@@ -131,6 +135,7 @@
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-04-01 | 2022-08-19 |
 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 | 2022-08-18 | 2022-10-07 |
 | [Handle](https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Handle](https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6) | 3:25 | 2022-10-13 |  |
+| [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-10-21 |  |
 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 | 2022-02-18 | 2022-08-19 |
 | [Hard to Hold On](https://open.spotify.com/track/6sBfW1MvCJnMK7pqHJr2zH) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Hard to Hold On](https://open.spotify.com/album/6DrlsSumD7fJUyuNoWV2AO) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Hard to Kill](https://open.spotify.com/track/7bU1WWo32oscVeFfZBzbCu) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Hard to Kill](https://open.spotify.com/album/10NTFSIWsBXA9zKJ4fMuxb) | 3:26 | 2021-03-09 | 2022-01-17 |
@@ -241,6 +246,7 @@
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Say It](https://open.spotify.com/track/6gvLsy6dkUJyPqBDhzEgtc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Banshee](https://open.spotify.com/album/5KKwrFNlCb3XcjGxnxdA8Y) | 3:14 | 2022-08-18 | 2022-09-30 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 |  |
+| [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 | 2022-10-21 |  |
 | [Security](https://open.spotify.com/track/1IyNQIczrOabSeU3HEJNwT) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/7BbLKYoBNvPRnHnFQq1Fkt) | 3:47 | 2021-07-30 | 2022-07-29 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-04-01 | 2022-08-19 |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2022-09-29 |  |

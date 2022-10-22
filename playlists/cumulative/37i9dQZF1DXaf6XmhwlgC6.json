@@ -1194,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Rest Assured",
+        "url": "https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72"
+      },
+      "artists": [
+        {
+          "name": "La Acacia",
+          "url": "https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164536,
+      "name": "Rest Assured",
+      "url": "https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn"
+    },
+    {
+      "album": {
         "name": "Rings",
         "url": "https://open.spotify.com/album/5r3wmyRZO5S2mq8a1frTAq"
       },

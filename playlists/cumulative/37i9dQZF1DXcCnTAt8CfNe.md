@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-233 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+234 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Watching Traffic](https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Compositions for Piano](https://open.spotify.com/album/5Sx8y2k3MGCYhic1Dwe3dc) | 2:50 | 2021-12-09 |  |
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-01-06 |  |
 | [When All Else Fades](https://open.spotify.com/track/3ykoePqyJr7ihzmfqgtoV0) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [When All Else Fades](https://open.spotify.com/album/7uZbZk1XTjloyl6ky04uzo) | 3:08 | 2021-12-09 | 2022-03-22 |
+| [Where Oceans Meet](https://open.spotify.com/track/2l45eiUjUBKjzqvnwhPPRa) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Where Oceans Meet](https://open.spotify.com/album/7KP4To4HwppaAxXM5FfJHk) | 3:01 | 2022-10-21 |  |
 | [While You Were Sleeping](https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 1:45 | 2022-07-27 |  |
 | [While You Were Sleeping](https://open.spotify.com/track/6qX3f7gWEPGK3TVSoCLT4j) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/4XBlcBU2srxJEXFgToYOTi) | 1:45 | 2021-12-09 | 2022-07-29 |
 | [Whistling Straits](https://open.spotify.com/track/3B3t69tUxJMrsmlUahjDIW) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Whistling Straits](https://open.spotify.com/album/61dVUb5m3COoMSQmlngnGD) | 4:28 | 2021-12-09 |  |

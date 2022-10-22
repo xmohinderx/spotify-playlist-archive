@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQQIA+ artists\. Cover: serpentwithfeet
 
-152 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
+153 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-06-22 | 2022-10-13 |
 | [Lost](https://open.spotify.com/track/0D9FOgEG9uZm8EsE5q2Y6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Lost](https://open.spotify.com/album/14ecs1rWP4SrH5rT8sU6Ox) | 3:34 | 2021-06-22 | 2022-06-01 |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2021-06-22 | 2022-06-01 |
+| [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 | 2022-06-06 |  |
 | [Lovestained](https://open.spotify.com/track/5I67IXwHIMi0svzyp7GxUe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/1aOr4fzpxI4I1MWzwtXKcl) | 2:55 | 2021-06-22 | 2022-10-21 |
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-06-22 |  |
 | [Madonna](https://open.spotify.com/track/0ocqOdnVSxojdhFEodwjl0) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:53 | 2022-06-24 |  |
@@ -146,7 +147,7 @@
 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 | 2022-06-01 |  |
 | [Time I Love to Waste](https://open.spotify.com/track/7v6rH68U9wPAzRzYNmgtCx) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love to Waste](https://open.spotify.com/album/70RPD5nHqcFwQMJFs6hBsU) | 3:17 | 2021-06-22 | 2022-06-01 |
 | [True Love](https://open.spotify.com/track/4P8ZXHQkYsHpmz6MDMtoQd) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:45 | 2021-06-22 | 2022-06-01 |
-| [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-22 |  |
+| [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-22 | 2022-10-22 |
 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 | 2021-06-22 |  |
 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 | 2022-06-01 |  |
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2022-06-24 |  |

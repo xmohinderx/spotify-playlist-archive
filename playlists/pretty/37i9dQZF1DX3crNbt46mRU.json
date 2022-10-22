@@ -1,15 +1,31 @@
 {
-  "description": "This week's top new releases. ",
-  "num_followers": 34486,
+  "description": "This week's top new releases. Cover: Taylor Swift",
+  "num_followers": 34490,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzI2MCwwMDAwMDAwMGViOWU0NjkwNzgyZTE5MzkyZDIzYzdmOGI3NzRmOWJj",
+  "snapshot_id": "MTY2NjM0Njg1MiwwMDAwMDAwMDRiNTgyNGNmNjU5NDcwOGU2ZTM1OWQyY2E5YTc4ODNh",
   "tracks": [
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Verliebt",
         "url": "https://open.spotify.com/album/4Hg2pKlhdmSWB52NKSDeLg"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/5AcVJGTTLGM78ncDcFsNuf"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Zukunft Pink (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Weinst du",
         "url": "https://open.spotify.com/album/1ztBBLPehkF0sGu8CJWqHK"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/4djlVYFizR8zKmKGDlLcn7"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Better Safe Than Sorry",
         "url": "https://open.spotify.com/album/7a7gT0AdLeQXLzlOp2s3Z9"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/4afdW2RH5IO4zTX1CWjRIZ"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Medizin (feat. Jamule)",
         "url": "https://open.spotify.com/album/6pKa9ZwiXrysumGnan5sFS"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3fAz5OBCj54Ar8vzps112y"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Clean Break",
         "url": "https://open.spotify.com/album/5P5zoDRaqk5X3wZvcuZdYK"
@@ -137,7 +153,23 @@
       "url": "https://open.spotify.com/track/4d1WoQ6dW7feMW9dGchNyL"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
+      "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
+    },
+    {
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Don't Leave Me Lonely",
         "url": "https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW"
@@ -148,8 +180,8 @@
           "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Elley Duhe",
-          "url": "https://open.spotify.com/artist/4VqcTx4dNkID7EqdPCjumJ"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
       "duration_ms": 173093,
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Delilah (pull me out of this)",
         "url": "https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW"
@@ -173,7 +205,7 @@
       "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "I Ain't Quite Where I Think I Am",
         "url": "https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Memories & Stories",
         "url": "https://open.spotify.com/album/0sDWl6hNtOY10BLmA9RMdc"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/11HzKYViVu0bIbegyYu4Ba"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Lionheart (Fearless)",
         "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "MADE IN WIEDIKE (Deluxe)",
         "url": "https://open.spotify.com/album/4lRIuVj3NuybLrPUmO8IVn"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/22fZ94fJ7bW3Oni3pJdd7Q"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Jennifer",
         "url": "https://open.spotify.com/album/3liMvG4eUJiRc3lMyo3jmY"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/77M47FwpTxJ8jhDpA2l5Dt"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "WDIA (Would Do It Again)",
         "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
@@ -281,7 +313,27 @@
       "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
@@ -301,7 +353,7 @@
       "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Berlin City Girl 22",
         "url": "https://open.spotify.com/album/1MX7w6Ekym9Z88py45Za3O"
@@ -317,7 +369,7 @@
       "url": "https://open.spotify.com/track/3HgvrXJl41JADesTsf7nIR"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "To Love You",
         "url": "https://open.spotify.com/album/75XQkvZc9NkmMqJvNu46pS"
@@ -333,7 +385,7 @@
       "url": "https://open.spotify.com/track/6VIwh7DAOiO453jDxFPPQD"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0dAr3cTHszFbTktMvmHfk7"
@@ -349,7 +401,7 @@
       "url": "https://open.spotify.com/track/26IQcxNMKmGiUbJtNiRrZ7"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Cooped Up / Return Of The Mack",
         "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "touch grass (feat. Yung Gravy)",
         "url": "https://open.spotify.com/album/6rscC4TLB1aVFCCuQBdCaG"
@@ -393,7 +445,7 @@
       "url": "https://open.spotify.com/track/4nQIUTM9flNEET2Pwq8DLn"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Life Of Lies",
         "url": "https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM"
@@ -409,10 +461,10 @@
       "url": "https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
-        "name": "Gone (Da Da Da)",
-        "url": "https://open.spotify.com/album/75wRhQ9XRuhG4efEaWyHQN"
+        "name": "Gone (Da da Da)",
+        "url": "https://open.spotify.com/album/23ByeCiWrIBymzs7G05gh5"
       },
       "artists": [
         {
@@ -425,27 +477,11 @@
         }
       ],
       "duration_ms": 163880,
-      "name": "Gone (Da Da Da)",
-      "url": "https://open.spotify.com/track/07vuu2dIJ4e0WVsXafOP1l"
+      "name": "Gone (Da da Da)",
+      "url": "https://open.spotify.com/track/4TPn8ZBClUUWlU2ZP7DXa6"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
-      "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/4hlQ4k5nonfDppqRtpBP9p"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 166890,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067"
-    },
-    {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Solo (feat. Tayc)",
         "url": "https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj"
@@ -465,7 +501,39 @@
       "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/4hlQ4k5nonfDppqRtpBP9p"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 166890,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067"
+    },
+    {
+      "added_at": "2022-10-21 10:07:32",
+      "album": {
+        "name": "SOLANG DIE MUSIG LAUFT",
+        "url": "https://open.spotify.com/album/2D3y4ieKZjFlRGZ0eFGKON"
+      },
+      "artists": [
+        {
+          "name": "Larry F",
+          "url": "https://open.spotify.com/artist/3wAHalfyo2Z3mGmd4kdSHz"
+        }
+      ],
+      "duration_ms": 187859,
+      "name": "SOLANG DIE MUSIG LAUFT",
+      "url": "https://open.spotify.com/track/54lnLSCxPVQh3UdN51gpUC"
+    },
+    {
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Happy People (feat. Da\u00f0i Freyr)",
         "url": "https://open.spotify.com/album/12SKG69BvyXNQ2y6Dmk59Q"
@@ -485,7 +553,7 @@
       "url": "https://open.spotify.com/track/2u7zMp2o6phdzeuSVLxbcM"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "VUOTO DENTRO (feat. Mara Sattei & Bresh)",
         "url": "https://open.spotify.com/album/25LukES8zDfPWFqiAJBsqa"
@@ -509,7 +577,7 @@
       "url": "https://open.spotify.com/track/4zhLA5weCGODvT86i05DZL"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Porzellan",
         "url": "https://open.spotify.com/album/4ZkJQUnGX42yOp2W46idGr"
@@ -525,7 +593,7 @@
       "url": "https://open.spotify.com/track/5uvqpb8kL1YXtD08Uu3TMo"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw"
@@ -541,7 +609,7 @@
       "url": "https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Br\u00fbler le feu",
         "url": "https://open.spotify.com/album/3RnEujmDh33OhHidA423Go"
@@ -557,7 +625,7 @@
       "url": "https://open.spotify.com/track/2DZE7aPbYLAJZUV3N9KAqC"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "BELLA MADONNA",
         "url": "https://open.spotify.com/album/1F1i05JzoaozYumoqXvcPO"
@@ -573,7 +641,7 @@
       "url": "https://open.spotify.com/track/6RINSCuT99TYt1UoJ3R8Ac"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/1WmOLe2SZmsQ0XOqs2tRRM"
@@ -589,7 +657,7 @@
       "url": "https://open.spotify.com/track/72I2N7r0e27cEkt9iIC0Ux"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "WIE OFT",
         "url": "https://open.spotify.com/album/1kok3OVXiy0VGwvgwNKeD8"
@@ -605,10 +673,10 @@
       "url": "https://open.spotify.com/track/6OD0h2OomJNJxgLykiXBS5"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/5RyE9QKcgWEwuJgciSC5zm"
+        "name": "Enchant\u00e9 (feat. Malik Harris & Minelli)",
+        "url": "https://open.spotify.com/album/4jaxHWOhhGEcw5GvfRnsie"
       },
       "artists": [
         {
@@ -620,20 +688,20 @@
           "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         },
         {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
           "name": "Malik Harris",
           "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
         }
       ],
       "duration_ms": 146643,
-      "name": "Enchant\u00e9",
-      "url": "https://open.spotify.com/track/7J9i21SEAAxoLmKDPxIua7"
+      "name": "Enchant\u00e9 (feat. Malik Harris & Minelli)",
+      "url": "https://open.spotify.com/track/29FsvGQ7sXYk55hoBLDPys"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
         "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
@@ -653,7 +721,7 @@
       "url": "https://open.spotify.com/track/4wjEJULVdwTFlSDPlhdkRa"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Purosangue (feat. Shiva)",
         "url": "https://open.spotify.com/album/6qFCy6Umhqty9GB7QThBft"
@@ -673,7 +741,7 @@
       "url": "https://open.spotify.com/track/5ZzDWDMYnWK8qwcOjVyoPv"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/3kabJ8VLBN7hqZioMAbC9o"
@@ -689,7 +757,7 @@
       "url": "https://open.spotify.com/track/1ba7nODzS6VRXngsygl1nU"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "superhuman",
         "url": "https://open.spotify.com/album/0johO4xlYDXem8iYmjKoha"
@@ -705,7 +773,7 @@
       "url": "https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Scheine! (feat. viko63)",
         "url": "https://open.spotify.com/album/1dE5Sg9RGOJQTFZW95P3od"
@@ -725,7 +793,7 @@
       "url": "https://open.spotify.com/track/66JrBzraw2Ra91LqOhsyZy"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
@@ -753,7 +821,7 @@
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "UBER (feat. reezy)",
         "url": "https://open.spotify.com/album/6rE5errMqargWX71B3yYwU"
@@ -773,7 +841,7 @@
       "url": "https://open.spotify.com/track/1kkMqXh3utANcRM3PTgM6n"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Winter Solstice",
         "url": "https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0"
@@ -789,7 +857,7 @@
       "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Back To The Future - Part II (Live)",
         "url": "https://open.spotify.com/album/0rB7HIUL4eW1BfY79eWSyk"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/2DleWxNtENitkkrJapxUyv"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj"
@@ -821,7 +889,7 @@
       "url": "https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "hugo",
         "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
@@ -837,7 +905,7 @@
       "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Ein bisschen mehr",
         "url": "https://open.spotify.com/album/5RK9GvfMMAKonikZ28xs5a"
@@ -853,7 +921,7 @@
       "url": "https://open.spotify.com/track/6ev51SZgdnYIBvwycZXW90"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/1DpF83ld572jojmymv9J8P"
@@ -869,7 +937,7 @@
       "url": "https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "UNI",
         "url": "https://open.spotify.com/album/2kMG44yBYjvrA9RKzVwv0O"
@@ -885,7 +953,7 @@
       "url": "https://open.spotify.com/track/2aA0qbQcyjoiQndtFI8xBE"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "wo bin ich",
         "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
@@ -901,7 +969,7 @@
       "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Defender",
         "url": "https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy"
@@ -917,7 +985,7 @@
       "url": "https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Paper Boat",
         "url": "https://open.spotify.com/album/4g7ZqzoPOiNbMkUbzOS1ad"
@@ -933,7 +1001,23 @@
       "url": "https://open.spotify.com/track/34ll9ZjzO8W0JQfViJYRxQ"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
+      "album": {
+        "name": "2 AM",
+        "url": "https://open.spotify.com/album/4zh2bW9JufjawyuHocxmDj"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 133988,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/1Agl3YCXpBcPspuXobCB2d"
+    },
+    {
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Reputation",
         "url": "https://open.spotify.com/album/19gLqW0o4f8Ua9l9ajQyxT"
@@ -949,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2pvFQudKtJTEeiL6FIlqsy"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Jupiterring",
         "url": "https://open.spotify.com/album/6RgXMGyCMJs98ydTxUZRvO"
@@ -965,7 +1049,7 @@
       "url": "https://open.spotify.com/track/2VrJLawJS6gr7HJiCPcn5j"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Declan J Donovan",
         "url": "https://open.spotify.com/album/2Cs94ATEIzIciZdTaL5igc"
@@ -981,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6nQ4uA4YZSqBhz1BnUOQkp"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "A Feeling That Never Came",
         "url": "https://open.spotify.com/album/4YKGoja0xZXazCOIDFeLsF"
@@ -997,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3fy2ILYi8upEuracr84cx0"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Du bist eine Bank",
         "url": "https://open.spotify.com/album/7E9mKo1PgJKMS4OnFcMVwX"
@@ -1013,7 +1097,7 @@
       "url": "https://open.spotify.com/track/3imp1q812UFiYHjhzCn5kE"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "driftwood",
         "url": "https://open.spotify.com/album/5SzNwQe4mi3TIDUK74IvAr"
@@ -1029,7 +1113,7 @@
       "url": "https://open.spotify.com/track/65mRTmlterPZhhPDivsycK"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Smoking Weed Alone",
         "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
@@ -1045,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Pangaea (with blackbear)",
         "url": "https://open.spotify.com/album/3shwqKaPqDxZnhlrv7Fte8"
@@ -1065,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6zYJeYNqyZvwlMNSeOP64Q"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Ghost in My Bed",
         "url": "https://open.spotify.com/album/6IWPmmrOiwFINNwTYwLMK1"
@@ -1089,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3prlSDDBKA3kvIaPRK3wca"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Worst Day",
         "url": "https://open.spotify.com/album/4E87ZGUzJWicBr4Ab9wmxe"
@@ -1109,7 +1193,7 @@
       "url": "https://open.spotify.com/track/7Bx0oBgnEfVR2bCs6Aul0X"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/5VRjsvgCNsgfltR29vXeWL"
@@ -1129,7 +1213,7 @@
       "url": "https://open.spotify.com/track/6GwHYc28I8kh9PwhsGYBbw"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Eins Zwei",
         "url": "https://open.spotify.com/album/00GBPo86aLIOwgossRwTpW"
@@ -1145,7 +1229,7 @@
       "url": "https://open.spotify.com/track/7bXF3hl3Re9tZvFw9fU0s8"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Take Shots (feat. Tory Lanez)",
         "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
@@ -1165,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Me, Myself and Miami (feat. Kairos Grove)",
         "url": "https://open.spotify.com/album/6Ne7t6AqXGA4DBNn1qAgiZ"
@@ -1185,7 +1269,7 @@
       "url": "https://open.spotify.com/track/4U4bS5ORFFvXIsqFQjAzIW"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Sterben jung",
         "url": "https://open.spotify.com/album/2JqeBPPpLQXB5AbiL6JNs8"
@@ -1205,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2qlfL3nDlGEGmJ5gvboBJO"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "BLEIB",
         "url": "https://open.spotify.com/album/7l7FMTlRjLfDFbhhiP1nTE"
@@ -1229,7 +1313,7 @@
       "url": "https://open.spotify.com/track/2jLz7TshCM1sR1FC3ElYWA"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "WHO HURT YOU? (Deluxe)",
         "url": "https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5"
@@ -1245,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/01NWWpfD8KdMXIJeKqonLE"
@@ -1261,7 +1345,7 @@
       "url": "https://open.spotify.com/track/54uPYRaxuV9AyLYrhyQW49"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "D!Y",
         "url": "https://open.spotify.com/album/4UNbZueBO33ZhK6kgxAokx"
@@ -1277,7 +1361,7 @@
       "url": "https://open.spotify.com/track/1hX6Q3odHBvrxAKISIZ5iC"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Traurige Augen \ud83e\udd7a",
         "url": "https://open.spotify.com/album/4v6APPpbk5iU2oC5Vn7NVF"
@@ -1293,7 +1377,7 @@
       "url": "https://open.spotify.com/track/4YL88jlq6v1QIDKT58WXR8"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/4PHbOYQ5Fry3xQ0x9wu2mv"
@@ -1309,7 +1393,7 @@
       "url": "https://open.spotify.com/track/05n9H2EX8BS0NmockvC7NE"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "So Icy Boyz 22",
         "url": "https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8"
@@ -1329,7 +1413,7 @@
       "url": "https://open.spotify.com/track/0PazdJzsYO87rktAQCHlOR"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "The Loneliest Time",
         "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
@@ -1345,7 +1429,7 @@
       "url": "https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "sex ist",
         "url": "https://open.spotify.com/album/0DP1Y6HAdM1d3u7Ml8V9iG"
@@ -1361,7 +1445,7 @@
       "url": "https://open.spotify.com/track/6B11od1TPTbJMEDLWoilyw"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "As I Try Not To Fall Apart",
         "url": "https://open.spotify.com/album/32LcezSSnKv5hiCVBcQ04L"
@@ -1377,7 +1461,7 @@
       "url": "https://open.spotify.com/track/5erfAVR10gZUx3t1u4UbEm"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/1eRhrLyw3cpi6raaDVrorY"
@@ -1393,7 +1477,7 @@
       "url": "https://open.spotify.com/track/20liNQowbq79h82k3GaPHH"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Spell Me Free",
         "url": "https://open.spotify.com/album/1sxmGb4ycn0jhoHCLNPm0h"
@@ -1409,7 +1493,7 @@
       "url": "https://open.spotify.com/track/5HqwIMsJYJclEzCuiVMjEh"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "i'm sorry",
         "url": "https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B"
@@ -1425,7 +1509,7 @@
       "url": "https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/4MW2d92LzaeBEReevVOgLO"
@@ -1441,7 +1525,7 @@
       "url": "https://open.spotify.com/track/1n07j6f6huIpqYzBSeUjxd"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
@@ -1457,7 +1541,7 @@
       "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "GASOLINA",
         "url": "https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9"
@@ -1473,7 +1557,7 @@
       "url": "https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "old songs from my hard drive",
         "url": "https://open.spotify.com/album/0uqviYM4nlEuvzLGqUpBIf"
@@ -1489,7 +1573,7 @@
       "url": "https://open.spotify.com/track/3HOv0kTPDcaCDeIzO0Tzbm"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Bis wir uns verlieren (Regret)",
         "url": "https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq"
@@ -1505,7 +1589,7 @@
       "url": "https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "ONLY 4 LIFE",
         "url": "https://open.spotify.com/album/0nUeigcz2YIFDMWrZmnZLU"
@@ -1521,7 +1605,7 @@
       "url": "https://open.spotify.com/track/3cSnRerT5ZRmPLMmGwRJLb"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Akku leer",
         "url": "https://open.spotify.com/album/543MVOE0MUCuIFogCdh2IT"
@@ -1545,7 +1629,7 @@
       "url": "https://open.spotify.com/track/0URcVpm5MwUIrkMgQ2CRFh"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Electric Horsemen",
         "url": "https://open.spotify.com/album/0mWHPiMLPEMpF1nsuXBRLy"
@@ -1561,7 +1645,7 @@
       "url": "https://open.spotify.com/track/0rdksudtT2ibpF2L7sIz9y"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Don't Take Your Love",
         "url": "https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9"
@@ -1577,7 +1661,7 @@
       "url": "https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA"
     },
     {
-      "added_at": "2022-10-20 22:01:00",
+      "added_at": "2022-10-21 10:07:32",
       "album": {
         "name": "Voll sein",
         "url": "https://open.spotify.com/album/4UiwmYx5SkgWTXgP9mgBzV"

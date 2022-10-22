@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 785,
+  "num_followers": 840,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGM2OWRlYmVhYmFmODllODRmM2VkMzQwZWQyNDczYWUw",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDJhZjY0MzhhMTMwNTU3NGM0YmU2YWMzNjRkMzQ3YjQw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 213877,
       "name": "Use This Gospel",
       "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 380533,
-      "name": "All The Things (Your Man Won't Do)",
-      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 350640,
       "name": "The Birds Pt. 2",
       "url": "https://open.spotify.com/track/51LmI5GE3tHKISLNZMjDPC"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 380533,
+      "name": "All The Things (Your Man Won't Do)",
+      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
       "added_at": "2022-10-01 16:57:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > ¡SOULFIA y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,604 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,611 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 |
 | 17 | [Dar y Dar](https://open.spotify.com/track/07h6A732FnyXHpJWcmdd5n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:40 |
 | 18 | [Báilalo Mujer](https://open.spotify.com/track/7y2HbN0w7eoRU5sw97VKpi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 |
-| 19 | [Besame](https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Besame](https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B) | 2:58 |
-| 20 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
+| 19 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
+| 20 | [Besame](https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Besame](https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B) | 2:58 |
 | 21 | [Canción Para Mi Ex](https://open.spotify.com/track/7JXdrYedUjDUn75naheO3y) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Canción Para Mi Ex](https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq) | 2:48 |
 | 22 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 |
 | 23 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 26 | [High](https://open.spotify.com/track/5WxHiXTAIn8U7hUthK89C2) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [High](https://open.spotify.com/album/15ww8sGn53UcsQ6fSPcnji) | 3:19 |
 | 27 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 28 | [Me Voy Conmigo](https://open.spotify.com/track/15oj0ibBqFR4FmOEtSK5YU) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Me Voy Conmigo](https://open.spotify.com/album/5YgXx9mxwLo9FeLTIJQQJ0) | 3:14 |
-| 29 | [Eso Ta Perfecto](https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Eso Ta Perfecto](https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9) | 2:17 |
-| 30 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
+| 29 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
+| 30 | [Eso Ta Perfecto](https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Eso Ta Perfecto](https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9) | 2:17 |
 | 31 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 32 | [Las Mafiosas \- Four Elements](https://open.spotify.com/track/5n0sH7dWuPsUEDi4VsBVKe) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl), [anto](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [Las Mafiosas \- Four Elements](https://open.spotify.com/album/0a1GLnrZ2NmnUbdxZjYNkw) | 3:30 |
 | 33 | [besitos, cuídate \(Remix\)](https://open.spotify.com/track/7CvT6JeFiCBYOim1Vz1RZj) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [besitos, cuídate \(Deluxe\)](https://open.spotify.com/album/78jevg3CxuDBUeZeDT5yEE) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
 | 50 | [MIÉNTEME](https://open.spotify.com/track/5JpvJ0qPVJ1uyC3Y5g68zy) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 3:24 |
 
-Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMDhiM2M1OTRjYWE0ZTU2MzZlMTViZDhkMjFiNWJiMjJk`
+Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMDVlODEwZGIxNzU1MzJlMjcwZjk5YmI1Y2RjNzVhNzVh`

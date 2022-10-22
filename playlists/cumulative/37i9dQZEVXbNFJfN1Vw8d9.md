@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-485 songs - 1 day 2 hr 44 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
+486 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,8 @@
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-05-14 | 2022-02-01 |
 | [Mon amour](https://open.spotify.com/track/064ikblBFGS6HL35D71LZy) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Mon amour](https://open.spotify.com/album/7IU61sfQFUdnrZ8U6aHD7O) | 2:53 | 2021-09-22 | 2021-09-25 |
 | [Mon Amour](https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Mon Amour](https://open.spotify.com/album/0cfuik2m7JwN1DSnYgYY2J) | 2:53 | 2021-07-28 | 2021-09-22 |
-| [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2021-08-20 |  |
+| [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2021-08-20 | 2022-10-22 |
+| [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-21 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-31 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-07-30 |
 | [Morad: Bzrp Music Sessions, Vol\. 47](https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Morad: Bzrp Music Sessions, Vol\. 47](https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR) | 2:57 | 2021-12-11 | 2022-05-08 |

@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-694 songs - 1 day 11 hr 13 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+699 songs - 1 day 11 hr 26 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Guiding Hand](https://open.spotify.com/track/4TYEDIzZYJYamfv3NtndPD) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Over There](https://open.spotify.com/album/5v9tWyEWw5L1DBK1MnEdOt) | 2:56 | 2021-09-03 | 2022-06-25 |
 | [A l'aube](https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [A l'aube](https://open.spotify.com/album/2PiAhpMBDjNqN85uHRf60G) | 3:24 | 2020-10-20\* | 2020-12-12 |
 | [A Moment](https://open.spotify.com/track/0OAe3X4UFaUJoThyNE88Ah) | [Baimine](https://open.spotify.com/artist/44h6Gl9hvuL0OUFdxYhmU2) | [A Moment](https://open.spotify.com/album/3f5viWsZmXNgKUUVayDeN6) | 2:10 | 2022-03-15 |  |
+| [A Moment](https://open.spotify.com/track/5rwq3bHJ2MeqeMrOzRkhFM) | [Ólfur](https://open.spotify.com/artist/6WCfCK4VbJnH7w6IBF156P) | [A Moment](https://open.spotify.com/album/1BtAYI88SZeTBHFjD1A8OO) | 2:35 | 2022-10-21 |  |
 | [A New Day](https://open.spotify.com/track/2YmHA1zfrkam6TaO5mkQgZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [A New Day](https://open.spotify.com/album/0yfSVnunzAXRjdc89P502Q) | 4:15 | 2020-10-20\* | 2021-03-14 |
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2021-05-04 | 2022-08-16 |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-15 |  |
@@ -183,7 +184,7 @@
 | [Doze](https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Doze](https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE) | 3:22 | 2020-10-20\* | 2021-03-14 |
 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 1](https://open.spotify.com/track/1b8hMNOq787OU4lAchJozZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02) | 2:33 | 2020-10-20\* | 2021-03-14 |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2020-10-20\* | 2021-02-06 |
-| [Dream Reality](https://open.spotify.com/track/1aRSdvKuD2ZAkkNxWX8WSK) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Dream Reality](https://open.spotify.com/album/5wxnTcXIYBfog4sNDSOeMi) | 3:06 | 2021-05-04 |  |
+| [Dream Reality](https://open.spotify.com/track/1aRSdvKuD2ZAkkNxWX8WSK) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Dream Reality](https://open.spotify.com/album/5wxnTcXIYBfog4sNDSOeMi) | 3:06 | 2021-05-04 | 2022-10-22 |
 | [dream waltz](https://open.spotify.com/track/51Q43uqDOTCvY3I6bzG9Hd) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [dream waltz](https://open.spotify.com/album/51QaCYK4lnkL2GGsdN7VcO) | 3:42 | 2020-10-20\* | 2021-03-14 |
 | [Dreaming](https://open.spotify.com/track/5ewuV9PoExpWPIedXbEIJv) | [Wes Jools](https://open.spotify.com/artist/2Tsae4bvjzn4Xtc8EhQrdG) | [Dreaming](https://open.spotify.com/album/2mua8SuagF4jqz05kI6JeR) | 3:14 | 2020-12-04 | 2021-06-16 |
 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 | 2021-09-22 | 2021-10-06 |
@@ -457,6 +458,7 @@
 | [Parts Unknown](https://open.spotify.com/track/7zoNjIq4DZadcFOxwKvrlC) | [Night Poets](https://open.spotify.com/artist/13Dj1DIYUAAhlmDPdgoDui) | [Parts Unknown](https://open.spotify.com/album/0DY9PT0TNIiAmWSPw3GhK6) | 3:57 | 2020-10-20\* | 2021-02-06 |
 | [Path to Sleep](https://open.spotify.com/track/4s9W9B4fY7lZ1wriVJy11V) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Wisdom](https://open.spotify.com/album/1Zv1m9DKQhnyQ1ayAzCHXp) | 3:04 | 2020-10-20\* | 2021-06-16 |
 | [Pause](https://open.spotify.com/track/2IrOsuqSttz8KBastkZCzy) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Pause](https://open.spotify.com/album/5BXX9xYJVjUczw1gsM51Yx) | 2:43 | 2021-07-07 |  |
+| [Peace Of Mind](https://open.spotify.com/track/1LUmUwchFBJUz03G7XXri8) | [Saveliy Lleu](https://open.spotify.com/artist/6GR4x2rlUUYUrj2mimfXm9) | [Peace Of Mind](https://open.spotify.com/album/7FGsISOQimBeFG9vJWKaWP) | 2:34 | 2022-10-21 |  |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2020-10-20\* | 2021-02-06 |
 | [Peaceful Mind](https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Trust](https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk) | 3:20 | 2020-10-20\* | 2021-03-14 |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2022-09-02 |  |
@@ -624,6 +626,7 @@
 | [The Sea Of Tranquility](https://open.spotify.com/track/1xSShAVCtaLdetNXE5TcnQ) | [Sleeping Luna](https://open.spotify.com/artist/3qgnBj2gbx4W6sWwyJpkWM) | [The Sea Of Tranquility](https://open.spotify.com/album/62JyAC5h2bYL3GSPY0Iv1W) | 2:53 | 2022-10-15 |  |
 | [The Sign of Wilderness](https://open.spotify.com/track/1vXutoJkTys1XoWZHymwuM) | [Tenant Rights](https://open.spotify.com/artist/2wOOgtpQkMdDg4QDAXF7pP) | [Glide and Tread](https://open.spotify.com/album/3L9IwhYKaqaTrDX543a8Cw) | 3:39 | 2020-10-20\* | 2021-03-14 |
 | [The Sky Is A Sea](https://open.spotify.com/track/5RmKyK9bzcqP7n8YbyPIo9) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [The Sky Is A Sea](https://open.spotify.com/album/4rxjuTWBboVJCkZhE7LVGQ) | 3:17 | 2022-09-30 |  |
+| [The Waiting](https://open.spotify.com/track/4CDYt47BwYVotSySNDNlge) | [Eadgar Évariste](https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu) | [The Waiting](https://open.spotify.com/album/2Xu9yNNSaphrkkohStn6uO) | 2:15 | 2022-10-21 |  |
 | [The Way Home](https://open.spotify.com/track/7sJyhrLf0RVjYJex4ZomXU) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Endless](https://open.spotify.com/album/5BdpJRE7rlejWs9T0iPtSM) | 2:24 | 2020-10-20\* | 2021-02-06 |
 | [Thinking Back](https://open.spotify.com/track/2EnuM63zw10S0dKTbvDmhk) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 3:03 | 2020-10-20\* | 2020-12-12 |
 | [Thinking of You](https://open.spotify.com/track/0ZHZ3KsAl0AVBONDmUY3mv) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Thinking of You](https://open.spotify.com/album/6jKwbDWoBziX5qErZMUSa5) | 2:34 | 2021-06-16 | 2022-06-25 |
@@ -666,6 +669,7 @@
 | [Venus Mornings](https://open.spotify.com/track/5uRaWRk9tYyyH50xN9dsxH) | [Venus Hearts](https://open.spotify.com/artist/4ulYimAc3lhZFl76pOULXt) | [New Sun](https://open.spotify.com/album/6Eqz6y8euo69qFhIvFYwCo) | 3:44 | 2020-11-03 | 2021-03-14 |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-07-07 |  |
 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 | 2020-10-20\* | 2021-05-04 |
+| [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2022-10-21 |  |
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2020-12-04 | 2021-10-23 |
 | [Viento Estelar](https://open.spotify.com/track/0f5IlhiVWUUq4SGHyrRxIt) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Galaxia](https://open.spotify.com/album/5ILrjJzxzyn3h8CCdRQszR) | 3:05 | 2021-02-06 |  |
 | [Views from Tower Two](https://open.spotify.com/track/6BY4VEgqQ0DHcT0JvkssqM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 6:33 | 2020-10-20\* | 2021-03-14 |
@@ -692,6 +696,7 @@
 | [Window To My Mind](https://open.spotify.com/track/1wE9HgRDTAlL5zsw1V3ThR) | [Konradism](https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk) | [Window To My Mind](https://open.spotify.com/album/5nO2GGiIIYGRR4ZvnxsMXB) | 2:47 | 2021-10-30 | 2022-03-25 |
 | [Wishing to Dream](https://open.spotify.com/track/2Iwa4VlmFChLkfy1kLk4js) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Wishing to Dream](https://open.spotify.com/album/0SvHuutnF3D6rb9LrOaqdh) | 2:50 | 2020-10-20\* | 2021-06-16 |
 | [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-07 |  |
+| [Within](https://open.spotify.com/track/6yy6c0Oy0fg69Zy0htgXsm) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Senses](https://open.spotify.com/album/42n9gHTqtCogUygsmvO49n) | 2:55 | 2022-10-21 |  |
 | [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2021-05-04 |  |
 | [Yakamoz](https://open.spotify.com/track/0HZeMwreNsUSEWX1ykYKum) | [Esin Pierce](https://open.spotify.com/artist/6enPYAFFkQmIlyV4aUs0Pn) | [Yakamoz](https://open.spotify.com/album/5rhxCNJmUnWyQckR4Zy5CL) | 3:12 | 2021-03-14 | 2021-08-17 |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2020-10-20\* | 2021-06-16 |

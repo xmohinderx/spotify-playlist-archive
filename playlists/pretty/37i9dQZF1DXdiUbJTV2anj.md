@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: L.S\. Dunes
+> Heavy new bands you need to have an eye on\. Cover: Tallah
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,052 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,208 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
-| 2 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 |
-| 3 | [The Dearly Beloved](https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [The Dearly Beloved](https://open.spotify.com/album/3985j1Z12r21NCWCbGHTY2) | 3:56 |
-| 4 | [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 |
+| 1 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 |
+| 2 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
+| 3 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
+| 4 | [The Dearly Beloved](https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [The Dearly Beloved](https://open.spotify.com/album/3985j1Z12r21NCWCbGHTY2) | 3:56 |
 | 5 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 |
 | 6 | [FIX THIS](https://open.spotify.com/track/1qoQclrr4nysaJXt9NMQGA) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO) | [FIX THIS](https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ) | 2:27 |
 | 7 | [Gaddaar](https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Rakshak](https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 |
 | 50 | [MALIZIA](https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [MALIZIA](https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv) | 2:46 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDk0NTFjN2RjYTBhMDJiMTJiMjlhMmIwZDExZmViZmU2`
+Snapshot ID: `MTY2NjMzNTYwMCwwMDAwMDAwMDRiZmUyNjQzNGI2NzI1YjAzZmM5N2NhNzVmMmI1MDk5`

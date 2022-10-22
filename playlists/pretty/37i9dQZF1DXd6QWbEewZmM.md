@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > IYKYK 💔🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,791 likes - 120 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,126 likes - 120 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,25 +101,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 91 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 |
 | 92 | [Vas A Llorar](https://open.spotify.com/track/6lF45hzdxt6Z2hQf1zzyOl) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:05 |
 | 93 | [Hablemos](https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:04 |
-| 94 | [Hasta la Eternidad](https://open.spotify.com/track/3nfrlJKyK8uLNY02ftdP0t) | [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [Hasta Pronto](https://open.spotify.com/album/4wpjiK4emEvKH6dCbh35NY) | 2:39 |
+| 94 | [Tu Mirada](https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Mirada](https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd) | 2:29 |
 | 95 | [Recuerdos](https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Recuerdos](https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws) | 3:11 |
-| 96 | [Tu Mirada](https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Mirada](https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd) | 2:29 |
+| 96 | [Hasta la Eternidad](https://open.spotify.com/track/3nfrlJKyK8uLNY02ftdP0t) | [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [Hasta Pronto](https://open.spotify.com/album/4wpjiK4emEvKH6dCbh35NY) | 2:39 |
 | 97 | [Videos y Fotos](https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:40 |
 | 98 | [La Única](https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [Siéntelo a Tu Modo](https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD) | 3:44 |
 | 99 | [Trato de Olvidarte](https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [B.A.S](https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y) | 4:08 |
 | 100 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
 | 101 | [komo llego el final](https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [komo llego el final](https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF) | 3:05 |
-| 102 | [Por Eso Te Canto Yo](https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Para Ella](https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J) | 4:05 |
-| 103 | [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 |
-| 104 | [Que Paso](https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS) | 3:51 |
+| 102 | [Que Paso](https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS) | 3:51 |
+| 103 | [Por Eso Te Canto Yo](https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Para Ella](https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J) | 4:05 |
+| 104 | [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 |
 | 105 | [La Cancion](https://open.spotify.com/track/67urJt4Ufb8uH4ZaLaYZZo) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [La Cancion](https://open.spotify.com/album/0b61w5eoXMeRwL4KEmVP2r) | 4:42 |
 | 106 | [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 |
 | 107 | [Enfocado En El Dinero](https://open.spotify.com/track/56fow2b87Gvm4FDqIhiutA) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Enfocado En El Dinero](https://open.spotify.com/album/55T4LYvqAuQXqlpWyi2NKC) | 2:32 |
-| 108 | [Deseandote](https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr) | [Tony Herrera](https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk) | [Deseandote](https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi) | 3:55 |
+| 108 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 |
 | 109 | [Soy Un Perdedor](https://open.spotify.com/track/5x5zN9Uw17QbnU2AHovYm5) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:27 |
 | 110 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
 | 111 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 |
-| 112 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 |
+| 112 | [Deseandote](https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr) | [Tony Herrera](https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk) | [Deseandote](https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi) | 3:55 |
 | 113 | [Su Veneno \(Tu Veneno, Pt\. 2\)](https://open.spotify.com/track/3iKsS68QrT17B0j0FVurpO) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Su Veneno \(Tu Veneno, Pt\. 2\)](https://open.spotify.com/album/07HsKo8logoKr7ZOcfHZPK) | 3:28 |
 | 114 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 |
 | 115 | [El Humillado](https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA) | [Clave 51](https://open.spotify.com/artist/4iY2MxD3WzbpgyX1uCs4Yf) | [El Humillado](https://open.spotify.com/album/1RmJvwO5RQYDv4FNRPYMxt) | 2:29 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 119 | [Sabes](https://open.spotify.com/track/5t611UH604oEYrYUm6SVd1) | [Uliseesssss](https://open.spotify.com/artist/6IuHLYVEFYdAyXJ95RU66t) | [Sabes](https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl) | 3:38 |
 | 120 | [Beso De Peda](https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:48 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDlkNDUyNzMxYTgxMGRiMDFkMGUwZWJmOTU3MGZhNjdj`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGIxNzgyYmUyODA2ZGEyMDg4YzZkOWI0Zjk3YmRkYjA0`

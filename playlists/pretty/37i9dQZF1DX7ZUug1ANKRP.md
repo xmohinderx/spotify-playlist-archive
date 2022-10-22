@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,527 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,947 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Take Control](https://open.spotify.com/track/45zEAdqIS7fixXnr1mhLHX) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Take Control](https://open.spotify.com/album/4GJA3BaCKaEJEj8MWEJoYs) | 2:49 |
 | 50 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 |
 
-Snapshot ID: `MTY2NjE3NTQyMywwMDAwMDAwMDMyNTJkYzE5NDk1NGMzOTA0NGRlNzcyOTIwMTY1NDlj`
+Snapshot ID: `MTY2NjM0MzY5NiwwMDAwMDAwMGNhOTFjMDJhMzkwYTBlMDE2YmYyZWMwZmU1YTdkZWI0`

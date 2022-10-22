@@ -1598,6 +1598,28 @@
     },
     {
       "album": {
+        "name": "Condition",
+        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
+    },
+    {
+      "album": {
         "name": "Contemplation",
         "url": "https://open.spotify.com/album/7yCRreN60KqQqDU4mUJZtC"
       },
@@ -1829,7 +1851,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 237480,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej"
@@ -3291,7 +3313,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 222021,
       "name": "Hold It Together",
       "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
@@ -3815,6 +3837,24 @@
       "duration_ms": 185826,
       "name": "Jason",
       "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
+    },
+    {
+      "album": {
+        "name": "jessamine",
+        "url": "https://open.spotify.com/album/1HWrTH3CeF5SyxrdJTk09C"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151656,
+      "name": "jessamine",
+      "url": "https://open.spotify.com/track/5g7nMNMPb5X7EvA0njrNQp"
     },
     {
       "album": {
@@ -6441,7 +6481,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 180000,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m"
@@ -6495,7 +6535,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
@@ -6664,6 +6704,28 @@
     },
     {
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+    },
+    {
+      "album": {
         "name": "Spitting Off the Edge of the World",
         "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
       },
@@ -6679,7 +6741,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
@@ -6856,6 +6918,28 @@
     },
     {
       "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
+    },
+    {
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
       },
@@ -6965,6 +7049,24 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163116,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 30221,
+  "num_followers": 30262,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMGVkNWU4ZmY1NDU1ZDExNzVjMDY5ODNjOGU0YmNlNDBi",
+  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMDdhNDk3YzI3MDA4MzJlOTFlZmU3Njg3MWYyNDFjMTg0",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 243373,
-      "name": "Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man's Desiring (Arr. for Piano by Myra Hess)",
+      "name": "Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man's Desiring (Arr. Myra Hess for Piano)",
       "url": "https://open.spotify.com/track/2Tz7fLm0pWasWCCfJiHPlJ"
     },
     {
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 95893,
-      "name": "Goldberg Variations, BWV 988: Var. 2",
-      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
         "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 125760,
       "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
       "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 95893,
+      "name": "Goldberg Variations, BWV 988: Var. 2",
+      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -707,6 +707,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 102760,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 410160,
       "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
       "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 102760,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -815,50 +815,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Keyboard Concertos & Italian Concerto",
-        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sonya Bach",
-          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
-      "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach: Partitas, BWV 825-826 - Capriccio on the Departure of his Most Beloved Brother - Prelude and Fughetta in G major, BWV 902",
-        "url": "https://open.spotify.com/album/6rCzsHurqAHPhijo22SDSY"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
-      "url": "https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -903,6 +859,50 @@
       "duration_ms": 67573,
       "name": "Preambulum In C Major, BWV 924",
       "url": "https://open.spotify.com/track/0BELP51MLTMyd3ip7Nbo6K"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Partitas, BWV 825-826 - Capriccio on the Departure of his Most Beloved Brother - Prelude and Fughetta in G major, BWV 902",
+        "url": "https://open.spotify.com/album/6rCzsHurqAHPhijo22SDSY"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
+      "url": "https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
+      "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
     },
     {
       "added_at": "2022-08-19 10:45:11",

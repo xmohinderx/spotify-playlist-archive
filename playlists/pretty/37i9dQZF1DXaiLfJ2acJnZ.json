@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35087,
+  "num_followers": 35090,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMGE4NzY3ZTczZGVhMGQ3NDYwMjI0NmNiZmY2ODY5NGM4",
+  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDA4Yjk1MDlkMTQ5MmYxYTYyNDUyNTEyNzg1ZmJmYTQ1",
   "tracks": [
     {
       "added_at": "2022-09-23 17:33:09",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 192075,
       "name": "One Foot in Front of the Other",
       "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 175508,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "1,000,000 X Better",
         "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 191739,
       "name": "1,000,000 X Better",
       "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 175508,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Stormy Skies (Diamonds)",
-        "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 213924,
-      "name": "Stormy Skies (Diamonds)",
-      "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Ain't Got No Friends",
         "url": "https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 147381,
       "name": "Ain't Got No Friends",
       "url": "https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Stormy Skies (Diamonds)",
+        "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 213924,
+      "name": "Stormy Skies (Diamonds)",
+      "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "DEACON",
-        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Fellowship",
-      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 171228,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Godlight",
         "url": "https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N"
       },
@@ -1051,6 +1019,22 @@
       "duration_ms": 247050,
       "name": "Godlight",
       "url": "https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "DEACON",
+        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "When The Lights Go Out",
+        "url": "https://open.spotify.com/album/22E1CsB9Z9uhqvGmjKftrj"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/5mYMdRqCm3pgs4Cubi96Pu"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "everything",
         "url": "https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "When The Lights Go Out",
-        "url": "https://open.spotify.com/album/22E1CsB9Z9uhqvGmjKftrj"
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
         }
       ],
-      "duration_ms": 186053,
-      "name": "When The Lights Go Out",
-      "url": "https://open.spotify.com/track/5mYMdRqCm3pgs4Cubi96Pu"
+      "duration_ms": 171228,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "The Sun\u2019s Gonna Rise",
-        "url": "https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 208197,
-      "name": "The Sun\u2019s Gonna Rise",
-      "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "East End Coast",
         "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 226035,
       "name": "East End Coast",
       "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "The Sun\u2019s Gonna Rise",
+        "url": "https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 208197,
+      "name": "The Sun\u2019s Gonna Rise",
+      "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
-      },
-      "artists": [
-        {
-          "name": "RVBY",
-          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Champagne Butterflies",
         "url": "https://open.spotify.com/album/7nJWSA8RiN6kr4wias3Had"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 193346,
       "name": "Champagne Butterflies",
       "url": "https://open.spotify.com/track/62lF2bafMX9NkXjAoc0nuR"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
+      },
+      "artists": [
+        {
+          "name": "RVBY",
+          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "One & Only",
-        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
-      },
-      "artists": [
-        {
-          "name": "Bevan",
-          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
-        }
-      ],
-      "duration_ms": 246750,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
+      },
+      "artists": [
+        {
+          "name": "Bevan",
+          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Street Lights",
         "url": "https://open.spotify.com/album/5ZjBO7Cg1sFL5AjHKPeVKi"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 189666,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/3WtLTBXsK5rhp312oKlCpl"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
+      },
+      "artists": [
+        {
+          "name": "Wild Youth",
+          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1323,22 +1339,6 @@
       "duration_ms": 208563,
       "name": "One of Those Days",
       "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
-        "name": "City That I'm Lost In",
-        "url": "https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi"
-      },
-      "artists": [
-        {
-          "name": "Nathan Grisdale",
-          "url": "https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l"
-        }
-      ],
-      "duration_ms": 191838,
-      "name": "1982",
-      "url": "https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas"
     }
   ],
   "unique_name": "Wholesome",

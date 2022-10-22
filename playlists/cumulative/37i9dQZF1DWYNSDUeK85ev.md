@@ -2,9 +2,9 @@
 
 ### [Joda](https://open.spotify.com/playlist/37i9dQZF1DWYNSDUeK85ev)
 
-> Kaleb Di Masi, L\-Gante y Omar, traigan pa' tomar.
+> La música que prende la fiesta!
 
-328 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/1jUwJwWRtwiunxH0XaRprk)
+329 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/1jUwJwWRtwiunxH0XaRprk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Ponte Pa' Mi](https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Ponte Pa' Mi](https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1) | 3:22 | 2022-05-13 | 2022-07-26 |
 | [Ponte Pa' Mix](https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Ponte Pa' Mix](https://open.spotify.com/album/6gs6Q5qHYpqwyBJwxRK9NU) | 3:05 | 2022-05-13 | 2022-07-28 |
 | [PORFA](https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PORFA](https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc) | 3:53 | 2022-05-13 | 2022-07-03 |
+| [Portate Bien](https://open.spotify.com/track/1AMGLITB3FBocZr0e9MD7b) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Portate Bien](https://open.spotify.com/album/6E5rGguJ10ZtA3BoNl94R2) | 2:08 | 2022-10-22 |  |
 | [Previa y Cachengue 31 \- Remix](https://open.spotify.com/track/4jrJJ5cixI1URrM9pVGdBP) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue 31 \(Remix\)](https://open.spotify.com/album/66SwZuhckGmOqEMRlO8UPP) | 10:34 | 2022-05-13 | 2022-07-29 |
 | [Previa y Cachengue 33 \- Remix](https://open.spotify.com/track/3kvT5YE6eyuUyRYmpyH6lS) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue 33 \(Remix\)](https://open.spotify.com/album/2O0oD6KwnpQkvDXzktXo0P) | 10:43 | 2022-05-13 | 2022-07-29 |
 | [Previa y Cachengue 35 \- Remix](https://open.spotify.com/track/4a0XLZUjHFHPwMBxQJD2JX) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue \#35 \(Remix\)](https://open.spotify.com/album/4KYGJ3pW39Guxs8sqe5JmY) | 12:19 | 2022-05-13 | 2022-07-29 |
@@ -236,7 +237,7 @@
 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 | 2022-09-23 | 2022-09-30 |
 | [Que Pretendes](https://open.spotify.com/track/5dwSPPF3Lt5HckShqDjmoZ) | [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [Que Pretendes](https://open.spotify.com/album/3Xeptzp7H8pKOvi8nQqtzs) | 2:48 | 2022-06-07 | 2022-07-11 |
 | [Que Se Pique](https://open.spotify.com/track/0wMhIUmCdhbYhhC2Qtmyl9) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Laucha Preciado](https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3) | [Que Se Pique](https://open.spotify.com/album/34hrQLs4OqBz2030xh9sIv) | 2:07 | 2022-05-13 | 2022-07-02 |
-| [Que Tire Pa Lante](https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Que Tire Pa Lante](https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t) | 3:30 | 2022-09-23 |  |
+| [Que Tire Pa Lante](https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Que Tire Pa Lante](https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t) | 3:30 | 2022-09-23 | 2022-10-22 |
 | [Quiere Bailoteox](https://open.spotify.com/track/5nsoNPG0bCV713OGOY9FNU) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3), [Manzana](https://open.spotify.com/artist/31UvjD3ctHlTiD9PqK98UK) | [Quiere Bailoteox](https://open.spotify.com/album/5pMbPitFvqLwlVro7pFL0E) | 1:57 | 2022-06-17 | 2022-07-13 |
 | [Quiero Verte Bailar \- DJ Alex Remix](https://open.spotify.com/track/0li8QfMCtq5hg6qB67E4U1) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Quiero Verte Bailar \(DJ Alex Remix\)](https://open.spotify.com/album/4oSOrj6okXZ4M4hOyLQbcf) | 2:51 | 2022-06-09 | 2022-07-22 |
 | [Quizas](https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Academy](https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw) | 3:36 | 2022-05-13 |  |

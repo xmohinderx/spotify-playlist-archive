@@ -13657,6 +13657,24 @@
     {
       "album": {
         "name": "Intercambio",
+        "url": "https://open.spotify.com/album/2UBzKgpIZ6Kt1ILyd1sagI"
+      },
+      "artists": [
+        {
+          "name": "SidiRum",
+          "url": "https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214746,
+      "name": "Intercambio",
+      "url": "https://open.spotify.com/track/3eHyPPBu2W5kLcRRut1d73"
+    },
+    {
+      "album": {
+        "name": "Intercambio",
         "url": "https://open.spotify.com/album/28MPgHLbQ50GJIZBKgqYG1"
       },
       "artists": [
@@ -13667,7 +13685,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 214746,
       "name": "Intercambio",
       "url": "https://open.spotify.com/track/6JpYysVOI7xYCiJ49vV4V4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,311 likes - 69 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,299 likes - 69 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 64 | [Before You Hit The Ground](https://open.spotify.com/track/6X3oobD0XUStLRoCciGEmj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:54 |
 | 65 | [Motivational Speaker](https://open.spotify.com/track/6PJE3j017zKto7sv2wUrNy) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/7AJJXxJIYOUkMZzYY0xXOO) | 3:55 |
 | 66 | [Lives That Don't Exist](https://open.spotify.com/track/0X4vLevfEeJIgjVpKedbgK) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Blind for Love](https://open.spotify.com/album/6l5J6OqjFMWGhv9132gs83) | 3:55 |
-| 67 | [Honey](https://open.spotify.com/track/4gvttoQ87qNDYrtVX5TlHG) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Does Anybody Wanna Funk?](https://open.spotify.com/album/76rkieGPYIWF101l5gmg4t) | 2:52 |
+| 67 | [Honey](https://open.spotify.com/track/4gvttoQ87qNDYrtVX5TlHG) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Does Anybody Wanna Funk?](https://open.spotify.com/album/76rkieGPYIWF101l5gmg4t) | 2:53 |
 | 68 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 |
 | 69 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 |
 

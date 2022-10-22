@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-89 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
+90 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 | 2021-07-26 |  |
 | [Just Like Dope](https://open.spotify.com/track/04nBW6rzcc3cNCljAwDqBx) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Funk Junkie](https://open.spotify.com/album/1IF1xqJ4PlH16gZvMv9iLi) | 4:19 | 2021-07-26 |  |
 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 | 2021-07-26 |  |
-| [Le Piano](https://open.spotify.com/track/3kdXigOly0AhtvYfAJFBjn) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Le Piano](https://open.spotify.com/album/7xELedblrY7g48iXG3L1lb) | 5:05 | 2022-02-18 |  |
+| [Le Piano](https://open.spotify.com/track/3kdXigOly0AhtvYfAJFBjn) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Le Piano](https://open.spotify.com/album/7xELedblrY7g48iXG3L1lb) | 5:05 | 2022-02-18 | 2022-10-22 |
 | [Listen 4 My Love](https://open.spotify.com/track/5Kd14oUKVX79Q9cIbdbs5r) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx), [Holland Greco](https://open.spotify.com/artist/0iIgks1r7y9TI5y9A6uiXB) | [Listen 4 My Love](https://open.spotify.com/album/5VQ8RTuQrPNGcz5f4tB45B) | 4:42 | 2021-07-26 |  |
 | [Lost & Found](https://open.spotify.com/track/5Oqj9NjQh2H1HTl5yibPhd) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:40 | 2021-07-26 |  |
 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 | 2021-07-26 |  |
@@ -83,6 +83,7 @@
 | [Somethingood](https://open.spotify.com/track/29T6HQEYLAc8syLr3I4SRK) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 6:30 | 2021-07-26 |  |
 | [Sophisticated](https://open.spotify.com/track/090R7oRx5xvbR7zUUWTQrm) | [Corey El](https://open.spotify.com/artist/7MiIOLb4zegDIU0Uq7UKhd), [FAM Band](https://open.spotify.com/artist/6ceUEbpJTwC4lsSePVwfpx) | [Sophisticated](https://open.spotify.com/album/5fAlMjJiNO35cqFnzr0tHM) | 4:05 | 2021-07-26 |  |
 | [Soy Gitano](https://open.spotify.com/track/2scAUFdLh4gHsF6iHytsYv) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Soy Gitano](https://open.spotify.com/album/0TbdylxsIf5Zlfvom2Q6Cz) | 3:22 | 2022-06-24 |  |
+| [Spins \- Lazywax Remix](https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Spins \(Lazywax Remix\)](https://open.spotify.com/album/4Z2p6uZduhJbDx2uWstqus) | 5:47 | 2022-10-21 |  |
 | [Tell Me](https://open.spotify.com/track/4YoxVwd6uLXE2RtcDtp2UP) | [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2), [U\-Key](https://open.spotify.com/artist/3JBIQGrl2NNFp8Vt5ZPyxk), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Tell Me](https://open.spotify.com/album/4ucIAgu9h7BnQJHMZ6Bb52) | 4:17 | 2022-07-08 |  |
 | [The High](https://open.spotify.com/track/4ONDrXoqeT9cCgw5yqWAyX) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [The High \- EP](https://open.spotify.com/album/6Ba2ugeP6fBSEazCTIx2Ff) | 3:32 | 2021-07-26 |  |
 | [The Night is Calling](https://open.spotify.com/track/6YxowJOWcfl1dnjPlxVKZq) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 4:19 | 2021-07-26 |  |

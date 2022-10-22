@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Mau P
 
-418 songs - 1 day 1 hr 22 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+419 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Closer \- Edit](https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Closer](https://open.spotify.com/album/6XVwl4AeJhcFWOLlZiKsgO) | 2:56 | 2021-05-03 | 2022-08-17 |
 | [Code Switching](https://open.spotify.com/track/7I0rKU0b0QDggNRd6JnJQ0) | [MJSB](https://open.spotify.com/artist/1KlsbLfbYrohtEiTc7eyJB) | [Eight Zero \#35](https://open.spotify.com/album/3QB5ygLej0YCPpIuPIpyj6) | 3:15 | 2021-03-27\* | 2021-04-10 |
 | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/track/23Hpu8KpFzy6NpycYnvk9L) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jack Hawitt](https://open.spotify.com/artist/0AikfZHjypmTXKZnPUq5ER) | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/album/39txCRq92K0VTohkvuqYaE) | 2:26 | 2021-11-20 | 2022-06-11 |
+| [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2022-10-21 |  |
 | [Conga Rock](https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Toto Bona Lokua](https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK) | [Conga Rock](https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5) | 4:30 | 2021-03-27\* | 2021-08-28 |
 | [Conspiracy](https://open.spotify.com/track/6onf7sfOexU1s9F8733kJy) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Conspiracy](https://open.spotify.com/album/4DqTnfnTAxjnoAAG7aUscH) | 6:13 | 2021-03-27\* | 2021-05-03 |
 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-16 |  |
@@ -334,7 +335,7 @@
 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-03-11 | 2022-07-29 |
 | [Skywalk](https://open.spotify.com/track/4AHbsdacRagQT4GklwTtON) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Skywalk](https://open.spotify.com/album/1zZoGGDWhOU8af0gYRfsuB) | 5:03 | 2021-09-18 | 2022-07-29 |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-04-03 | 2021-09-18 |
-| [Slow Down](https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Slow Down](https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg) | 3:11 | 2022-02-05 |  |
+| [Slow Down](https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Slow Down](https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg) | 3:11 | 2022-02-05 | 2022-10-22 |
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-10-11 |  |
 | [So Into You \- Jess Bays Remix](https://open.spotify.com/track/4ZlRUnBg4g2J9Ofdd5thdI) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [So Into You \(Jess Bays Remix\)](https://open.spotify.com/album/4z3axXmm846IjZRTh7PP4g) | 3:09 | 2021-03-27\* | 2021-07-17 |
 | [some ppl fall](https://open.spotify.com/track/09EesT84Crh7ngp4DFUiXc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [some ppl fall](https://open.spotify.com/album/6RmVbRd3t07KT4hQD9zkoU) | 3:23 | 2021-05-08 | 2022-06-10 |

@@ -1,51 +1,63 @@
 {
-  "description": "The playlist sin fronteras. Cover: Natanael Cano",
-  "num_followers": 2906691,
+  "description": "The playlist sin fronteras. Cover: Eden Mu\u00f1oz",
+  "num_followers": 2907306,
   "original_name": "Los Que Mandan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGMwYjA5MTE1ZGRhN2FhZTRlZjA1ZGY5M2Q3YmM2MjYz",
+  "snapshot_id": "MTY2NjMyODI3NSwwMDAwMDAwMGY2ZjVlNDNjM2Q4NGEyYjAyMmIwMjc0YjUyMzI1ZmQx",
   "tracks": [
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+      "duration_ms": 162832,
+      "name": "B\u00e1jale",
+      "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
+    },
+    {
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
@@ -65,7 +77,47 @@
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": "2022-10-21 04:57:55",
+      "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
+    },
+    {
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
@@ -89,23 +141,7 @@
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Oficialmente en Solter\u00eda",
-        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122242,
-      "name": "Oficialmente en Solter\u00eda",
-      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Solo Me Dejaste",
         "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
@@ -121,27 +157,7 @@
       "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
@@ -173,7 +189,23 @@
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
+      "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+    },
+    {
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Pa' Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/5JoWZNE9num63U8PdD65cH"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/41MpX9Fn5HT57O0VSdV1Ia"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Ya No Somos Ni Seremos",
         "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Ahora Piden Paros",
         "url": "https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
@@ -281,23 +313,7 @@
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "La Loca (En Vivo)",
         "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
@@ -333,7 +349,23 @@
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
+      "album": {
+        "name": "Oficialmente en Solter\u00eda",
+        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122242,
+      "name": "Oficialmente en Solter\u00eda",
+      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
+    },
+    {
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "ALFA & OMEGA",
         "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "No Es Por Ac\u00e1",
         "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
@@ -365,23 +397,7 @@
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
@@ -417,7 +433,27 @@
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
+      "album": {
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
@@ -437,7 +473,7 @@
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "El Hijo Mayor",
         "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
@@ -453,7 +489,23 @@
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
+      "album": {
+        "name": "El Guano",
+        "url": "https://open.spotify.com/album/5j8ffBkslHoAFyHfjtxQ2B"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 215643,
+      "name": "El Guano",
+      "url": "https://open.spotify.com/track/3foO6pKWWEIMeIIjGiHRde"
+    },
+    {
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Me Rend\u00ed",
         "url": "https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6"
@@ -473,7 +525,7 @@
       "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Me Extra\u00f1o",
         "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
@@ -513,7 +565,7 @@
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
@@ -533,7 +585,7 @@
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Si Es Cierto Que Te Vas",
         "url": "https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3"
@@ -549,23 +601,7 @@
       "url": "https://open.spotify.com/track/5ilf0RHAnRF5miyE9ad8O7"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
@@ -585,7 +621,7 @@
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "M\u00eda Un A\u00f1o",
         "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Vamos Para Arriba",
         "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
@@ -625,7 +661,7 @@
       "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "JGL",
         "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
@@ -645,7 +681,7 @@
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
@@ -665,7 +701,7 @@
       "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
@@ -681,7 +717,7 @@
       "url": "https://open.spotify.com/track/6Gv2GDFZzmhK6b82lUwjhG"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
@@ -697,7 +733,7 @@
       "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Borrachera Con Los Honorables (Live)",
         "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
@@ -713,7 +749,7 @@
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Jalo",
         "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
@@ -729,7 +765,7 @@
       "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
@@ -749,7 +785,7 @@
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
@@ -785,7 +821,7 @@
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
@@ -805,7 +841,7 @@
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
@@ -825,7 +861,7 @@
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "El Gabito",
         "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
@@ -841,7 +877,7 @@
       "url": "https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
@@ -857,7 +893,7 @@
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Ya Sup\u00e9rame (En Vivo)",
         "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
@@ -873,7 +909,7 @@
       "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Chingas A Tu Madre",
         "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
@@ -889,7 +925,7 @@
       "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Fuera De Servicio",
         "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
@@ -905,7 +941,7 @@
       "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
@@ -925,7 +961,7 @@
       "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
@@ -941,7 +977,7 @@
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Seguimos Irremediables",
         "url": "https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO"
@@ -957,7 +993,7 @@
       "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Pr\u00e9stame Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
@@ -973,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
@@ -989,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "La Propina",
         "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
@@ -1005,7 +1041,7 @@
       "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "El Fugitivo",
         "url": "https://open.spotify.com/album/0BJXARzPuTj3mNYGRBs28t"
@@ -1021,7 +1057,7 @@
       "url": "https://open.spotify.com/track/3HevcnYdnqtS0MvtyWkOg5"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Equipo RR",
         "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
@@ -1041,7 +1077,7 @@
       "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Ahora Todo Es Diferente",
         "url": "https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP"
@@ -1057,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Quise Ver C\u00f3mo Empec\u00e9",
         "url": "https://open.spotify.com/album/6ALfte3xyJ0nrTbCX9ngLU"
@@ -1073,7 +1109,7 @@
       "url": "https://open.spotify.com/track/51AtNwSp96OMUywgEr6BhF"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "12 Rifles",
         "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
@@ -1089,7 +1125,7 @@
       "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "El Callado",
         "url": "https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9"
@@ -1105,7 +1141,7 @@
       "url": "https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Ya Valiste Madre (En Vivo)",
         "url": "https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt"
@@ -1125,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
@@ -1145,23 +1181,7 @@
       "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "El Belicon",
         "url": "https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94"
@@ -1181,7 +1201,7 @@
       "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
@@ -1197,7 +1217,7 @@
       "url": "https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
@@ -1213,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-10-21 04:57:55",
       "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
@@ -1235,26 +1255,6 @@
       "duration_ms": 230000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Con Un Botecito A Pecho",
-        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
     }
   ],
   "unique_name": "Los Que Mandan",

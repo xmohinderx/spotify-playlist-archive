@@ -2,7 +2,7 @@
 
 ### [Soft 00s](https://open.spotify.com/playlist/37i9dQZF1DXdGHPXiRsW3u)
 
-> Mellow songs from the 2000s\. Cover: Rihanna.
+> Mellow songs from the 2000s\. Cover: Christina Aguilera.
 
 272 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/6WzeCAKfLBdNdOPGxWapt7)
 

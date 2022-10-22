@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Jazzy blips and blops. Cover: Kansado",
+  "description": "Jazzy blips and blops. Cover: Flying Lotus",
   "name": "Jazztronica",
   "published_playlist_ids": [
     "3EWDflGVJ6h7JcHAvsf1Hs"
@@ -107,6 +107,46 @@
       "duration_ms": 129919,
       "name": "856",
       "url": "https://open.spotify.com/track/4jlFJMEgi8SRPuWywYvBhB"
+    },
+    {
+      "album": {
+        "name": "88' Jason",
+        "url": "https://open.spotify.com/album/5ouV0Mf6x1mMggYSGGOY4S"
+      },
+      "artists": [
+        {
+          "name": "Marcus Alan Ward",
+          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192364,
+      "name": "88' Jason",
+      "url": "https://open.spotify.com/track/1gTFeBtNXNU0ibIThvm0xc"
+    },
+    {
+      "album": {
+        "name": "A Night in Tunisia",
+        "url": "https://open.spotify.com/album/3mW1oqsOSmA7kaRPJ8wDZp"
+      },
+      "artists": [
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254505,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH"
     },
     {
       "album": {
@@ -999,6 +1039,24 @@
       "duration_ms": 88200,
       "name": "Complete",
       "url": "https://open.spotify.com/track/66UyVneJHbPxJtyMo59ywk"
+    },
+    {
+      "album": {
+        "name": "Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon - Taken From V/H/S/99",
+        "url": "https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133780,
+      "name": "Consolation Prizes",
+      "url": "https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2"
     },
     {
       "album": {
@@ -2527,7 +2585,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 224971,
       "name": "Kountdown",
       "url": "https://open.spotify.com/track/5eUgpwD2bSS3cPmva64TIW"
@@ -3290,6 +3348,24 @@
     },
     {
       "album": {
+        "name": "On the Right Track",
+        "url": "https://open.spotify.com/album/4KrZLFffBM8liQMCNXtvEX"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "On the Right Track",
+      "url": "https://open.spotify.com/track/6gR5qCiiUszc8ILXzxcpi9"
+    },
+    {
+      "album": {
         "name": "one minute story 6",
         "url": "https://open.spotify.com/album/55oclg7px4cIS2YNRUVjXW"
       },
@@ -3746,6 +3822,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj"
+      },
+      "artists": [
+        {
+          "name": "JK Group",
+          "url": "https://open.spotify.com/artist/14HO6LEbVVKsZQ6EVEhqS4"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313735,
+      "name": "Rising Part II",
+      "url": "https://open.spotify.com/track/7mWuk9EDfbvoBMqE5QBJij"
+    },
+    {
+      "album": {
         "name": "The Emancipation Procrastination",
         "url": "https://open.spotify.com/album/37VcKBnyY3AwQCklkDvcHN"
       },
@@ -3921,7 +4015,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 207707,
       "name": "Seventh Wonder",
       "url": "https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ"
@@ -3995,7 +4089,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 217080,
       "name": "Side Street",
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
@@ -4579,7 +4673,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 244108,
       "name": "The Creators",
       "url": "https://open.spotify.com/track/31qdrKl0bvjVXL8TbIJSPO"
@@ -5137,7 +5231,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 191153,
       "name": "Uncertain",
       "url": "https://open.spotify.com/track/50abRl5pPBumaUeQsafM8j"

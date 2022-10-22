@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 6759,
+  "num_followers": 6768,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGJiMjY2MWFjNDk1YzBhYjE3OTdmOWFiMTZhZTBkYWVh",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGY4N2U0NzgxMGY2MjQ2Nzg0ZGUyMWI5NjlhYjgxNmZj",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -195,6 +195,26 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "ok on your own",
+      "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/6r8yNzbwBpa3Ftm1BxpV11"
       },
@@ -207,22 +227,6 @@
       "duration_ms": 200347,
       "name": "Rare",
       "url": "https://open.spotify.com/track/0zmEFpSH6KwZnBHr0cGe9a"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Honey Understand",
-      "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -275,22 +279,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
         }
       ],
-      "duration_ms": 208333,
-      "name": "ok on your own",
-      "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
+      "duration_ms": 241920,
+      "name": "Honey Understand",
+      "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Masterpiece (80s Remix)",
+        "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
+      },
+      "artists": [
+        {
+          "name": "Summer Luk",
+          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
+        }
+      ],
+      "duration_ms": 238999,
+      "name": "Masterpiece (80s Remix)",
+      "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Fix Me",
         "url": "https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 209360,
       "name": "Man Who Loves You",
       "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Masterpiece (80s Remix)",
-        "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
-      },
-      "artists": [
-        {
-          "name": "Summer Luk",
-          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
-        }
-      ],
-      "duration_ms": 238999,
-      "name": "Masterpiece (80s Remix)",
-      "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
+        "name": "Boys Aside",
+        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
       },
       "artists": [
         {
-          "name": "Summer Luk",
-          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
         }
       ],
-      "duration_ms": 191684,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+      "duration_ms": 230000,
+      "name": "Boys Aside",
+      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -535,38 +535,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Boys Aside",
-        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
       "artists": [
         {
-          "name": "Sofya Wang",
-          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+          "name": "Summer Luk",
+          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Boys Aside",
-      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Open up Babe (Perry twins remix)",
-        "url": "https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI"
-      },
-      "artists": [
-        {
-          "name": "Wils",
-          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
-        },
-        {
-          "name": "Perry Twins",
-          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Open up Babe - Perry twins remix",
-      "url": "https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk"
+      "duration_ms": 191684,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -639,22 +619,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -667,6 +631,22 @@
       "duration_ms": 221820,
       "name": "All I Have To Do Is Dream",
       "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -715,6 +695,26 @@
       "duration_ms": 247000,
       "name": "You Matter",
       "url": "https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Open up Babe (Perry twins remix)",
+        "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
+      },
+      "artists": [
+        {
+          "name": "Wils",
+          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
+        },
+        {
+          "name": "Perry Twins",
+          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Open up Babe - Perry twins remix",
+      "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
     }
   ],
   "unique_name": "API Pride",

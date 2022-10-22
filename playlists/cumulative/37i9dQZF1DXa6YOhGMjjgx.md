@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-218 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+219 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bad Love](https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Bad Love](https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0) | 2:30 | 2022-02-28 | 2022-07-29 |
 | [Be By Your Side](https://open.spotify.com/track/1Vh0ZXykuBBR0mcERksAqw) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be By Your Side](https://open.spotify.com/album/0ocfNOe1DGjYob591ipgcC) | 4:54 | 2022-02-28 | 2022-08-19 |
 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 | 2021-03-31 | 2022-04-28 |
-| [Beautiful James](https://open.spotify.com/track/5Yw6htG6TZtkeMo9WLI0M7) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/2DSeL00fsmpeqEKnq3s13J) | 4:08 | 2021-09-17 | 2022-10-20 |
+| [Beautiful James](https://open.spotify.com/track/5Yw6htG6TZtkeMo9WLI0M7) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/2DSeL00fsmpeqEKnq3s13J) | 4:08 | 2021-09-17 |  |
 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 | 2021-03-31 |  |
 | [Big Shot](https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Big Shot](https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs) | 3:39 | 2021-03-31 |  |
 | [Black and Red](https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:39 | 2022-04-29 |  |
@@ -81,6 +81,7 @@
 | [Fight Milk](https://open.spotify.com/track/7KvUH0yBgLclpnQylE6p2u) | [Only Shadows](https://open.spotify.com/artist/4AhocugOj0VO67FfG8EHFe) | [Fight Milk](https://open.spotify.com/album/11W7MzICanmbD3TtS5LbuJ) | 3:07 | 2021-03-31 | 2022-03-07 |
 | [Fire Alarm](https://open.spotify.com/track/7owfaYY6CFwqQAv2Xih9CY) | [Castlecomer](https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0) | [Fire Alarm](https://open.spotify.com/album/6Km8vSwtJxgwqANRxnpvo3) | 3:57 | 2021-03-31 | 2022-04-29 |
 | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/4eAB96x6wsijid73UsHfbO) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv) | 2:48 | 2021-10-01 | 2022-10-14 |
+| [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG) | 2:48 | 2022-04-29 |  |
 | [Forever & Ever More](https://open.spotify.com/track/0NBAXi7pWtoiLo7oomWBKw) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Forever & Ever More](https://open.spotify.com/album/4rvrjp4puEDEoT4NF8yiW4) | 3:28 | 2021-03-31 | 2022-01-27 |
 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 | 2021-04-23 |  |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 | 2021-03-31 |  |
@@ -191,7 +192,7 @@
 | [Stay Out](https://open.spotify.com/track/4dqcedp9451K9DvxYugrTt) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Stay Out](https://open.spotify.com/album/1YFJjMAYWsXU8OdHBs0zgX) | 3:08 | 2021-03-31 | 2022-04-29 |
 | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v) | 3:45 | 2021-04-09 |  |
 | [Stop Making Stupid People Famous \(feat\. Pussy Riot\)](https://open.spotify.com/track/5L0VmR4Ny4PJpn9Gn0DB3w) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Stop Making Stupid People Famous \(feat\. Pussy Riot\)](https://open.spotify.com/album/3jO81nGYA85i0QsqEwSVLr) | 3:07 | 2021-06-25 |  |
-| [T.I.K.](https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [T.I.K.](https://open.spotify.com/album/7mPu1MjQjDpB5dB0uueDmD) | 4:39 | 2021-03-31 |  |
+| [T.I.K.](https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [T.I.K.](https://open.spotify.com/album/7mPu1MjQjDpB5dB0uueDmD) | 4:39 | 2021-03-31 | 2022-10-22 |
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/15QNdJ4ZAsIzsuwS8wYSsC) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/album/2TRagAvw8O6bv1dBihq0Cb) | 3:19 | 2021-05-21 | 2022-07-29 |
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/6yHGQ5QdOkjXzlsJXx88xe) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:19 | 2022-04-29 |  |
 | [Thank God I'm Not You](https://open.spotify.com/track/4YZVtRbdGOhHdGNi4JpCL5) | [Himalayas](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/78vmVv9bN0amzSiE1Fvzav) | 3:14 | 2021-03-31 | 2022-04-29 |
@@ -216,7 +217,7 @@
 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 | 2021-05-07 |  |
 | [Welcome to Silvertown](https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Welcome to Silvertown](https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY) | 3:15 | 2021-03-31 |  |
 | [Whatever](https://open.spotify.com/track/6nCeCu9xovpYGPBUGoGqXi) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Whatever](https://open.spotify.com/album/5RbmktxpqVBEHpq14N5MUP) | 3:06 | 2021-05-07 | 2022-01-15 |
-| [Where Do We Go From Here?](https://open.spotify.com/track/1S2SMoe4nI52v8bZJEsS6N) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Where Do We Go From Here?](https://open.spotify.com/album/51Ks9PJ8z6B7lxaXz2BTwO) | 3:08 | 2021-05-21 |  |
+| [Where Do We Go From Here?](https://open.spotify.com/track/1S2SMoe4nI52v8bZJEsS6N) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Where Do We Go From Here?](https://open.spotify.com/album/51Ks9PJ8z6B7lxaXz2BTwO) | 3:08 | 2021-05-21 | 2022-10-22 |
 | [White Flag](https://open.spotify.com/track/6GC9ktyFFHVaFA1qlE2zzi) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [White Flag](https://open.spotify.com/album/75bRcJa7F7hYj0fM5VXPnG) | 3:45 | 2021-03-31 | 2022-04-21 |
 | [Who's Your Money On? \(Plastic House\)](https://open.spotify.com/track/637aZ5pe1WFBamSePkmQ9x) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Who's Your Money On? \(Plastic House\)](https://open.spotify.com/album/7DUGZO3kN55ehpQ51IDpsJ) | 6:22 | 2021-05-07 | 2022-03-01 |
 | [Willow Tree](https://open.spotify.com/track/7aaFppi3OzO8ybk40pWfSX) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/5K9MiRHAu2s5qZqxSMEOzW) | 3:19 | 2021-03-31 | 2022-04-27 |

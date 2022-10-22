@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-510 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+511 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Cotton Candy](https://open.spotify.com/track/5w7XacxJ4965FbRgydbz1E) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#2](https://open.spotify.com/album/0q6V3w8SbFmH9XeLAjTyxT) | 1:48 | 2021-12-23 | 2022-07-13 |
 | [Cows In The Distance](https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Dissociation](https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy) | 1:56 | 2022-01-13 | 2022-07-05 |
 | [Cream Brule](https://open.spotify.com/track/1qjGH6vFN04hVzwBEy1880) | [Aru\-2](https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Hot Pants](https://open.spotify.com/album/56iNspJ3bN66WkfpjOGF5v) | 3:54 | 2022-03-17 | 2022-06-22 |
-| [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 |  |
+| [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 | 2022-10-20 |  |
+| [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 | 2022-10-22 |
 | [Cruisin](https://open.spotify.com/track/1GZxk4b3eaucDlcaAAs8cJ) | [MeS The Funk](https://open.spotify.com/artist/6h2bl2LD56yaah3wzvLKRe) | [Cruisin](https://open.spotify.com/album/1OOt6UGoO3GI6lprfutvDO) | 3:45 | 2022-03-24 | 2022-09-15 |
 | [Cumulonimbus](https://open.spotify.com/track/0TWfmcz5fsrRvaD01Yf5eM) | [Takayuki Hashiguchi](https://open.spotify.com/artist/18eJdTU5Sepx9LX7KHZv1k), [Michiaki Shirata](https://open.spotify.com/artist/3B6nen9hs1iq9MGAy4aCBL) | [The Sun Rises Everywhere \#1](https://open.spotify.com/album/411a5hlbXHUm6r1ipYABjd) | 2:12 | 2021-12-23 | 2022-07-10 |
 | [Curiosity](https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [coyolate](https://open.spotify.com/artist/0EvzMWIv5MlTboNHIVDtmJ) | [Curiosity](https://open.spotify.com/album/6eeJBJnn3HPMSrAJToQLoZ) | 2:43 | 2021-12-23 | 2022-07-29 |

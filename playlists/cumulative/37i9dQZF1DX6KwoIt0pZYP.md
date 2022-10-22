@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-385 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+386 songs - 21 hr 34 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alright \(feat\. Pamungkas\)](https://open.spotify.com/track/5h06OzkIQRFtGupTTiishT) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Alright \(feat\. Pamungkas\)](https://open.spotify.com/album/4DsS55QaN0nwyy7DECb6vR) | 3:23 | 2022-03-29 | 2022-04-20 |
 | [Angel](https://open.spotify.com/track/2ZAR6KM22MVIZDZFjAthrN) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Yonny \(Deluxe Version\)](https://open.spotify.com/album/6zhx4mc5PdwekgjZD4N7i7) | 2:38 | 2022-01-28 | 2022-07-29 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-03-29 |  |
-| [Another](https://open.spotify.com/track/3tspXbvwbQF4zRk6dD7pqq) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Another](https://open.spotify.com/album/2o00QOSTq7b4PmxWoXaDfu) | 2:50 | 2022-01-28 |  |
+| [Another](https://open.spotify.com/track/3tspXbvwbQF4zRk6dD7pqq) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Another](https://open.spotify.com/album/2o00QOSTq7b4PmxWoXaDfu) | 2:50 | 2022-01-28 | 2022-10-22 |
 | [Anxious](https://open.spotify.com/track/4eEcCdjYBxMD9YsHBvesJt) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Anxious](https://open.spotify.com/album/0e2t5kgPoO2arJl087wrH6) | 3:11 | 2022-01-28 | 2022-07-08 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2022-01-28 | 2022-07-29 |
 | [Baby Can You Stay](https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay](https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L) | 2:58 | 2022-05-09 | 2022-07-23 |
@@ -329,6 +329,7 @@
 | [Things I Could Never Say to You](https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [Things I Could Never Say to You](https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC) | 3:18 | 2022-02-27 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 | 2022-01-28 |  |
 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 | 2022-05-27 | 2022-10-13 |
+| [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 | 2022-10-14 |  |
 | [Thought of You](https://open.spotify.com/track/7c4uw1mBaMpoq6CJ1CShut) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Thought of You](https://open.spotify.com/album/5sGXfxM4uBFue1MZFy4Sy9) | 4:12 | 2022-01-28 | 2022-05-26 |
 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-29 | 2022-04-20 |
 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 | 2022-01-28 |  |

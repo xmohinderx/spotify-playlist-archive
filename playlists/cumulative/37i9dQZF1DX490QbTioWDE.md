@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-260 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+261 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Chachachá](https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Chachachá](https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e) | 3:52 | 2022-01-21 | 2022-06-29 |
 | [Clavadito en Mi Piel](https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Clavadito en Mi Piel](https://open.spotify.com/album/7IyvidqKyPRQSYdh7IxNqQ) | 3:42 | 2022-07-22 |  |
 | [Clavadito en Mi Piel](https://open.spotify.com/track/6sVtnX83AmyWYfKydWc0LQ) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Clavadito en Mi Piel](https://open.spotify.com/album/2dI4DCDdNI6bkV5CBHK6MD) | 3:42 | 2022-03-25 | 2022-06-05 |
+| [Clavado en un Bar](https://open.spotify.com/track/4K2gLqYpowKnsWWkJXpsEO) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Clavado en un Bar](https://open.spotify.com/album/1RKXe67S26QzssGQMr4ZuF) | 3:06 | 2022-10-22 |  |
 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 | 2021-12-24 |  |
 | [Como Le Digo](https://open.spotify.com/track/4nH1lpWkgzQPpTYPPjWKaI) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:13 | 2021-12-24 | 2022-07-29 |
 | [Como Me Duele Perderte](https://open.spotify.com/track/2W8kUtFezyRlruEbbRp3fR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Como Me Duele Perderte](https://open.spotify.com/album/7xmEvlYgWQwu4RrfZAVSzQ) | 3:46 | 2022-01-21 | 2022-07-28 |
@@ -256,7 +257,7 @@
 | [Vicio](https://open.spotify.com/track/4avWPQJolmD6y5FvgGvMfK) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Vicio](https://open.spotify.com/album/25XUWGcDwEpHZQWVclRWTK) | 3:07 | 2022-10-07 |  |
 | [Violeta \- En Vivo](https://open.spotify.com/track/1P9e8yl4rjXHOXbKisiQnk) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto \(En Vivo\)](https://open.spotify.com/album/1pUilOVG5oNszWZ0KiXgEC) | 1:08 | 2022-06-17 | 2022-09-03 |
 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 | 2021-12-24 |  |
-| [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 | 2022-01-07 |  |
+| [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 | 2022-01-07 | 2022-10-22 |
 | [Vuela](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es De Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 | 2021-12-24 |  |
 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 | 2021-12-24 | 2022-07-29 |
 | [Ya lo sabía](https://open.spotify.com/track/5hqxuK3VJuESk7V1TPt7UT) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Ya lo sabía](https://open.spotify.com/album/3bBKKJriXCCiBr0eDDBGR8) | 3:19 | 2021-12-24 | 2022-07-09 |

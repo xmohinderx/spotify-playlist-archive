@@ -1,29 +1,13 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 73855,
+  "num_followers": 73867,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMDA0OGNiYzIzOTZmY2Y4MTIxODZiNmRkYTk2YTM2ZDAy",
+  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMGQ1ODcwYTk0MTY5NTVkMjc5YmEyZTkyODE4YzE1OTAy",
   "tracks": [
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
-    },
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -131,26 +131,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Jingle Bells (feat. The Puppini Sisters)",
-      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 129533,
       "name": "The Merriest",
       "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Jingle Bells (feat. The Puppini Sisters)",
+      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -627,38 +627,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Mele Kalikimaka",
-      "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
-      },
-      "artists": [
-        {
-          "name": "Dries Riesen",
-          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
-        }
-      ],
-      "duration_ms": 68707,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 175243,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Mele Kalikimaka",
+      "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
+      },
+      "artists": [
+        {
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+        }
+      ],
+      "duration_ms": 68707,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
+        "name": "Holidays Are Coming",
+        "url": "https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
+      "url": "https://open.spotify.com/track/3JTXadKmex4K0dSHCWZcLp"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -991,6 +1007,26 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3in4JMLDU4UAflQrIpyt16"
+      },
+      "artists": [
+        {
+          "name": "David Benoit Trio",
+          "url": "https://open.spotify.com/artist/5NxxiI9sRWMIQlDDrnxhvJ"
+        },
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "Christmas Waltz - Live",
+      "url": "https://open.spotify.com/track/0EtRMZ87ocVPNElTsigWtJ"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
         "name": "Hot Jazz for a Cool Night: A Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -1015,26 +1051,6 @@
       "duration_ms": 312440,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3in4JMLDU4UAflQrIpyt16"
-      },
-      "artists": [
-        {
-          "name": "David Benoit Trio",
-          "url": "https://open.spotify.com/artist/5NxxiI9sRWMIQlDDrnxhvJ"
-        },
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "Christmas Waltz - Live",
-      "url": "https://open.spotify.com/track/0EtRMZ87ocVPNElTsigWtJ"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 296680,
-      "name": "Hang Your Lights",
-      "url": "https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "Hang Your Lights",
+      "url": "https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
         "name": "Yule Be Miserable",
         "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 251026,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "Holidays Are Coming",
-        "url": "https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
-      "url": "https://open.spotify.com/track/3JTXadKmex4K0dSHCWZcLp"
     },
     {
       "added_at": "2022-09-27 07:00:12",

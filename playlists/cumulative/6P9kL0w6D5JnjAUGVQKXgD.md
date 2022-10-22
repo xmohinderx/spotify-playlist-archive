@@ -2,7 +2,7 @@
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 
-> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Kriss Reeve
+> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla
 
 1,329 songs - 2 day 22 hr 11 min - [published](https://open.spotify.com/playlist/0Ntnl9seA6EX8wAm2l1oSO)
 

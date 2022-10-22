@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 216313,
+  "num_followers": 216533,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDAzMGVjODRjNzE3ZWEwOGQ5NWUwZjllY2E0ZmYyN2Y5",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGZkNzNiOGJlNDVmNGFjNTA2OWViYzU5MmRkYzExMjVk",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Blacks And Blues",
-        "url": "https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv"
+        "name": "Out Louder",
+        "url": "https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl"
       },
       "artists": [
         {
-          "name": "Bobbi Humphrey",
-          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+          "name": "Medeski Scofield Martin & Wood",
+          "url": "https://open.spotify.com/artist/4QlI67Mg3LbNH3VBcExNr4"
         }
       ],
-      "duration_ms": 470640,
-      "name": "Harlem River Drive",
-      "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
+      "duration_ms": 233533,
+      "name": "Little Walter Rides Again",
+      "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Out Louder",
-        "url": "https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl"
+        "name": "Blacks And Blues",
+        "url": "https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv"
       },
       "artists": [
         {
-          "name": "Medeski Scofield Martin & Wood",
-          "url": "https://open.spotify.com/artist/4QlI67Mg3LbNH3VBcExNr4"
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Little Walter Rides Again",
-      "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
+      "duration_ms": 470640,
+      "name": "Harlem River Drive",
+      "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "Satin Doll",
+        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+        }
+      ],
+      "duration_ms": 413893,
+      "name": "New York Times - Remastered 2002",
+      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Harlem Bush Music - Uhuru",
         "url": "https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 219173,
       "name": "Mr. Funky samba",
       "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Satin Doll",
-        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Humphrey",
-          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
-        }
-      ],
-      "duration_ms": 413893,
-      "name": "New York Times - Remastered 2002",
-      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "You Feel Me",
-        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 191443,
-      "name": "You Feel Me",
-      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Rhythm Of Life",
@@ -1013,38 +997,6 @@
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Pigna",
-        "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
-      },
-      "artists": [
-        {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        }
-      ],
-      "duration_ms": 277867,
-      "name": "Midnight Getaway",
-      "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Mutual Attraction Vol. 2",
-        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
-      },
-      "artists": [
-        {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        }
-      ],
-      "duration_ms": 193598,
-      "name": "Presente Grego",
-      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
-    },
-    {
       "added_at": "2021-11-12 05:01:00",
       "album": {
         "name": "YUNIK\u014dN",
@@ -1059,22 +1011,6 @@
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Broasted or Fried",
-      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1097,6 +1033,70 @@
       "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Pigna",
+        "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        }
+      ],
+      "duration_ms": 277867,
+      "name": "Midnight Getaway",
+      "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Broasted or Fried",
+      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Mutual Attraction Vol. 2",
+        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        }
+      ],
+      "duration_ms": 193598,
+      "name": "Presente Grego",
+      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 191443,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Placebo Years 1971 - 1974",
@@ -1111,22 +1111,6 @@
       "duration_ms": 152400,
       "name": "Humpty Dumpty - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "Be on the Lookout",
-        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 193516,
-      "name": "Be on the Lookout",
-      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1193,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Pressure Sensitive",
@@ -1223,6 +1191,38 @@
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
+    },
+    {
+      "added_at": "2021-06-04 04:01:00",
+      "album": {
+        "name": "Be on the Lookout",
+        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 193516,
+      "name": "Be on the Lookout",
+      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 371080,
-      "name": "The Hump",
-      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Spoon (Mike Casey Remix)",
@@ -1271,6 +1255,22 @@
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 371080,
+      "name": "The Hump",
+      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1305,30 +1305,6 @@
       "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Touchy (Tiny Room Sessions)",
-        "url": "https://open.spotify.com/album/7iOTpcUuQA5k5zOYCsdFgF"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Ronald Bruner, Jr.",
-          "url": "https://open.spotify.com/artist/5uiYVTlSFQqK08L1MKuBnW"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/71DLOjjNflV6J67OQrR54B"
-        }
-      ],
-      "duration_ms": 250451,
-      "name": "Touchy (Tiny Room Sessions)",
-      "url": "https://open.spotify.com/track/17nDpLJL5JfCCa7olHnEg9"
-    },
-    {
       "added_at": "2021-03-05 05:01:00",
       "album": {
         "name": "Sam Fribush Organ Trio, Vol. I: Riverboat",
@@ -1351,6 +1327,30 @@
       "duration_ms": 264974,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Touchy (Tiny Room Sessions)",
+        "url": "https://open.spotify.com/album/7iOTpcUuQA5k5zOYCsdFgF"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Ronald Bruner, Jr.",
+          "url": "https://open.spotify.com/artist/5uiYVTlSFQqK08L1MKuBnW"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/71DLOjjNflV6J67OQrR54B"
+        }
+      ],
+      "duration_ms": 250451,
+      "name": "Touchy (Tiny Room Sessions)",
+      "url": "https://open.spotify.com/track/17nDpLJL5JfCCa7olHnEg9"
     },
     {
       "added_at": "2021-05-07 04:09:00",
@@ -1377,26 +1377,6 @@
       "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Interstellar Black Space",
-        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
-      },
-      "artists": [
-        {
-          "name": "Brandon Coleman",
-          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "We Change - Part I",
-      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
@@ -1421,20 +1401,56 @@
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Linger Lane",
-        "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
+        "name": "Interstellar Black Space",
+        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
       },
       "artists": [
         {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+          "name": "Brandon Coleman",
+          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 320773,
-      "name": "Mountain Caravan",
-      "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
+      "duration_ms": 294826,
+      "name": "We Change - Part I",
+      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
+    },
+    {
+      "added_at": "2021-02-05 05:01:00",
+      "album": {
+        "name": "Sunray Junonia",
+        "url": "https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Kosie",
+          "url": "https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb"
+        },
+        {
+          "name": "Chino Corval\u00e1n",
+          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Tamuz",
+          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Sunray Junonia",
+      "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
     }
   ],
   "unique_name": "Jazz-Funk",

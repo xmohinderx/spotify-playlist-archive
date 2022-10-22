@@ -1636,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "A Feeling That Never Came",
+        "url": "https://open.spotify.com/album/4YKGoja0xZXazCOIDFeLsF"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "A Feeling That Never Came",
+      "url": "https://open.spotify.com/track/3fy2ILYi8upEuracr84cx0"
+    },
+    {
+      "album": {
         "name": "A Line Of Shots",
         "url": "https://open.spotify.com/album/7ekIjKgyvtHauGdQkhWwZX"
       },
@@ -5046,6 +5064,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
         "name": "ANTIFREEZE",
         "url": "https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY"
       },
@@ -5651,6 +5687,24 @@
       "duration_ms": 170127,
       "name": "Asshole",
       "url": "https://open.spotify.com/track/0ouT4V1cOedPROYundaOYn"
+    },
+    {
+      "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
     },
     {
       "album": {
@@ -20722,6 +20776,28 @@
     },
     {
       "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231818,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
+    },
+    {
+      "album": {
         "name": "Do I Love You (Indeed I Do)",
         "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
       },
@@ -21253,8 +21329,8 @@
           "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Elley Duhe",
-          "url": "https://open.spotify.com/artist/4VqcTx4dNkID7EqdPCjumJ"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
       "date_added": "2022-10-20",
@@ -24163,10 +24239,40 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 146643,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/7J9i21SEAAxoLmKDPxIua7"
+    },
+    {
+      "album": {
+        "name": "Enchant\u00e9 (feat. Malik Harris & Minelli)",
+        "url": "https://open.spotify.com/album/4jaxHWOhhGEcw5GvfRnsie"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Malik Harris",
+          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146643,
+      "name": "Enchant\u00e9 (feat. Malik Harris & Minelli)",
+      "url": "https://open.spotify.com/track/29FsvGQ7sXYk55hoBLDPys"
     },
     {
       "album": {
@@ -30526,6 +30632,24 @@
     },
     {
       "album": {
+        "name": "Ma\u2019 I Got A Family (A Gangsta Grillz Special Edition Hosted by DJ Drama)",
+        "url": "https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/0e0Mh7d0gINyBFa497n0bo"
+    },
+    {
+      "album": {
         "name": "Get Up & Get Out",
         "url": "https://open.spotify.com/album/7hLBEckNO8ewEWz0Fw2NV8"
       },
@@ -31817,10 +31941,32 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 163880,
       "name": "Gone (Da Da Da)",
       "url": "https://open.spotify.com/track/07vuu2dIJ4e0WVsXafOP1l"
+    },
+    {
+      "album": {
+        "name": "Gone (Da da Da)",
+        "url": "https://open.spotify.com/album/23ByeCiWrIBymzs7G05gh5"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "Gone (Da da Da)",
+      "url": "https://open.spotify.com/track/4TPn8ZBClUUWlU2ZP7DXa6"
     },
     {
       "album": {
@@ -46142,6 +46288,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/5JsvDPpSwOB2CgxUxGzy5T"
       },
@@ -48483,6 +48647,28 @@
     {
       "album": {
         "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198573,
+      "name": "Liquor (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh"
+    },
+    {
+      "album": {
+        "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/5gsEyN41GpP8qGwNhfEVmC"
       },
       "artists": [
@@ -48497,7 +48683,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 198573,
       "name": "Liquor (with Ari Lennox)",
       "url": "https://open.spotify.com/track/10OgtOyMSuehqDvZFNoBlv"
@@ -51429,6 +51615,24 @@
       "duration_ms": 165453,
       "name": "Mad At You",
       "url": "https://open.spotify.com/track/3AiL2GpNg6Id6hTfgUvt2p"
+    },
+    {
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "album": {
@@ -57716,6 +57920,24 @@
     },
     {
       "album": {
+        "name": "Nice Guy",
+        "url": "https://open.spotify.com/album/1qGq80zAWFFmOTXQ7Iqvh8"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/3zVBnFMVe9XMOLigMPjpsv"
+    },
+    {
+      "album": {
         "name": "puppy luv",
         "url": "https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq"
       },
@@ -60445,10 +60667,32 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 134800,
       "name": "oh no",
       "url": "https://open.spotify.com/track/6UzKSYzM7VMDIky6JQj8cd"
+    },
+    {
+      "album": {
+        "name": "oh no",
+        "url": "https://open.spotify.com/album/3YwCu8oHXsA1XzH8M9pXmA"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Caden",
+          "url": "https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134800,
+      "name": "oh no",
+      "url": "https://open.spotify.com/track/6zTivxRCfRcRqX26E8ZF8l"
     },
     {
       "album": {
@@ -73514,6 +73758,28 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "album": {
         "name": "Snowblind",
         "url": "https://open.spotify.com/album/68Zg1Jm0hccaviLSMmWB5r"
       },
@@ -85045,7 +85311,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 201826,
       "name": "Turning Onto You",
       "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"

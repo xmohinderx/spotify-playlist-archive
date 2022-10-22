@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,743 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,747 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 57 | [Decimal](https://open.spotify.com/track/1uliNs1keVwYclj74JX44R) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Decimal / Halloween](https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8) | 2:58 |
 | 58 | [Sudden Death](https://open.spotify.com/track/2pMulZ50yx1Fx6TIepetYP) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4XNfb6nqJLrNqhV0IQ9Nur) | 2:55 |
 | 59 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 |
-| 60 | [33](https://open.spotify.com/track/1s0OBTsDMtBR8sH1XqKaZh) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/6fNjdkSgemGYrH8v1M6NjA) | 3:15 |
+| 60 | [33](https://open.spotify.com/track/2v8Y3pbX3XgoZ8L0vNZO54) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4RvI6nZRap3cIqLbTZHbjy) | 3:15 |
 | 61 | [Minute Of Your Love](https://open.spotify.com/track/63uWX9R9I8NA4RcPMxh38V) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Minute Of Your Love](https://open.spotify.com/album/1jOAzcYT3AksjypjQehmb1) | 2:16 |
 | 62 | [Someone's Daughter](https://open.spotify.com/track/0EnyrELYciaIPQCQKdElAz) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/09S56ScuJckcQwKscgYn3k) | 3:32 |
 | 63 | [Rest](https://open.spotify.com/track/1yxiUqnKMOBKtMa3qHme3V) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [I Have Hope](https://open.spotify.com/album/4nepn7zOSio2f9VYWBMsyy) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 |
 | 80 | [Dream State](https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Dream State](https://open.spotify.com/album/6cdULH9wOqEHIfsOVcJkPX) | 3:27 |
 
-Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMGQzYmRlMDY4Nzc5ODNlNDI2NTlkZjliZjI4OGM0YWE0`
+Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMGJkY2YxNmM3NDE1ZDdjMjNjNGFkZGIwMmJlODM3ZDk5`

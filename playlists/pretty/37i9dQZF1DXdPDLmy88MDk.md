@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,028 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,140 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 80 | [Hiraeth](https://open.spotify.com/track/5ufCopwrQuarKWJv1joxmb) | [Scott Buckley](https://open.spotify.com/artist/5yD73qOOW6Eb5bc8OZ5vZn) | [Hiraeth](https://open.spotify.com/album/1qLmLJmIbqiWwMjvjm4ECD) | 5:46 |
 | 81 | [Lament in Tremelo Form](https://open.spotify.com/track/4VMQ52kwhOECEsDGstxyBj) | [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk), [William Chapman Nyaho](https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo) | [Kete \- Piano Music of Africa and the African Diaspora](https://open.spotify.com/album/2p9Sb0tIEgL88LCXT7FMB2) | 4:27 |
 | 82 | [Nocturnes, Op\. 27: II\. Lento sotenuto](https://open.spotify.com/track/6yJWLGvhydE9b9Lpk68HYN) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Brigitte Engerer](https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn) | 5:53 |
-| 83 | [Silence](https://open.spotify.com/track/4BZoYzYti7JySxL3yxZGfi) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/1q3F9PLbSvXiYvgwS6QoM7) | 2:29 |
+| 83 | [Silence](https://open.spotify.com/track/6OmC1B1EOQSbhQL6HP1cPn) | [Silvan Rupp](https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt), [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Silence](https://open.spotify.com/album/6d8r1d7UpVOalcpby246Mc) | 2:29 |
 | 84 | [Aria variata in A Minor, BWV 989: Var\. 10, —](https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/4Ue2myfhYRmIcbowoQCAnY) | 2:32 |
 | 85 | [All This Will Happen Again](https://open.spotify.com/track/6u9kkqfjdZPxAxEtHmGl68) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave \(Bonus Track Version\)](https://open.spotify.com/album/5lR2OH2Mw2L1dwIBpM16GD) | 4:21 |
 | 86 | [Transience](https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE) | 2:59 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 102 | [Crisantemi for string orchestra](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 103 | [Infinité](https://open.spotify.com/track/4rMf7O7IA7M8Aly99i3GSd) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx) | [Silent Moves \- Music by Dan Evmark](https://open.spotify.com/album/4pmY5rkR1S9OgZ8EYcKO4g) | 4:22 |
 
-Snapshot ID: `MTY2MzU4OTgxMCwwMDAwMDAwMDhjOWVjYjBmMTQ3MjBlYTVhMmEwOWIxYWRlYzdhNDc3`
+Snapshot ID: `MTY2MzU4OTgxMCwwMDAwMDAwMDU1ZjViYWNhMjUwMTIxNDRmZWU3ZTQ4MWFhNjczYzkz`

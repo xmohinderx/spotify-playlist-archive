@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 71134,
+  "num_followers": 71196,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTkyNzQ4NCwwMDAwMDAwMGJmMTNkZjhlOGNhYTU1YjI1MTQ1Zjg4YzQ1NmVkMzRi",
+  "snapshot_id": "MTY2NTkyNzQ4NCwwMDAwMDAwMDIxMDVkZTY4OWY1ZTI1YjA2NzM5N2FhYjM4NzU0NmQy",
   "tracks": [
     {
       "added_at": "2022-10-16 13:38:04",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/75SjI27z4XQRUgrhQwzxvk"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 126583,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/5G6Tcd8ANHBnR7SKku8IpN"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "She's Hot",
         "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 238524,
       "name": "She's Hot",
       "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Sauce",
-        "url": "https://open.spotify.com/album/75SjI27z4XQRUgrhQwzxvk"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 126583,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/5G6Tcd8ANHBnR7SKku8IpN"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/1Nnf8hO2TJxRiyewuiJpeo"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "African Sun (Remix)",
-        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        },
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "African Sun - Remix",
-      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Kanvaz",
         "url": "https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 178556,
       "name": "NS Bounce",
       "url": "https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Roberto Martino",
+          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
+        }
+      ],
+      "duration_ms": 363533,
+      "name": "Tu me touches",
+      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Kelly Krow",
         "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Roberto Martino",
-          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
-        }
-      ],
-      "duration_ms": 363533,
-      "name": "Tu me touches",
-      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Moods Of A Cancer",
         "url": "https://open.spotify.com/album/6YDD3LCouXB66mbDmSGpn1"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 180062,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/6udGGj4kJQ9FGm2ZmHEwWu"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 133835,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -927,26 +947,6 @@
       "duration_ms": 176363,
       "name": "Bizou",
       "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1319,22 +1319,26 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "House Life",
-        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
+        "name": "Sammy Sosa",
+        "url": "https://open.spotify.com/album/1WrEcubpRe8wHHzmZqRJ1p"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
         }
       ],
-      "duration_ms": 225000,
-      "name": "House Life",
-      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
+      "duration_ms": 151475,
+      "name": "Sammy Sosa",
+      "url": "https://open.spotify.com/track/27gKiEShJtM0aUGN2brwEn"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1363,30 +1367,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Siw Ta Wem Grog",
-        "url": "https://open.spotify.com/album/1hjgREdbJAR3KeLVHk2N93"
+        "name": "House Life",
+        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
       },
       "artists": [
         {
-          "name": "VAC For Real",
-          "url": "https://open.spotify.com/artist/4HIg6IBada7lUE84JDPRxK"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "TEAM MADADA",
-          "url": "https://open.spotify.com/artist/0ZP8QaePOnmADPNa6Cu89N"
-        },
-        {
-          "name": "Mr Deng",
-          "url": "https://open.spotify.com/artist/6cD9o4yKIjRqAI6Q4U6k5E"
-        },
-        {
-          "name": "Colmix",
-          "url": "https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF"
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
         }
       ],
-      "duration_ms": 235389,
-      "name": "Siw Ta Wem Grog",
-      "url": "https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7"
+      "duration_ms": 225000,
+      "name": "House Life",
+      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1411,30 +1407,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Sammy Sosa",
-        "url": "https://open.spotify.com/album/1WrEcubpRe8wHHzmZqRJ1p"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "LASTMONDAY",
-          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sammy Sosa",
-      "url": "https://open.spotify.com/track/27gKiEShJtM0aUGN2brwEn"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
       },
@@ -1447,6 +1419,34 @@
       "duration_ms": 192897,
       "name": "Culo",
       "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Siw Ta Wem Grog",
+        "url": "https://open.spotify.com/album/1hjgREdbJAR3KeLVHk2N93"
+      },
+      "artists": [
+        {
+          "name": "VAC For Real",
+          "url": "https://open.spotify.com/artist/4HIg6IBada7lUE84JDPRxK"
+        },
+        {
+          "name": "TEAM MADADA",
+          "url": "https://open.spotify.com/artist/0ZP8QaePOnmADPNa6Cu89N"
+        },
+        {
+          "name": "Mr Deng",
+          "url": "https://open.spotify.com/artist/6cD9o4yKIjRqAI6Q4U6k5E"
+        },
+        {
+          "name": "Colmix",
+          "url": "https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF"
+        }
+      ],
+      "duration_ms": 235389,
+      "name": "Siw Ta Wem Grog",
+      "url": "https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Baby Who",
         "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
       },
@@ -1567,22 +1551,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Sil Pa Nou Li Pa Bon",
-        "url": "https://open.spotify.com/album/0AZTNwOGb4dKzz5ztcIxPq"
-      },
-      "artists": [
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Sil Pa Nou Li Pa Bon",
-      "url": "https://open.spotify.com/track/2cS5AMXcUxR508fCt47jYP"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -1599,6 +1567,38 @@
       "duration_ms": 194976,
       "name": "Nou Pare",
       "url": "https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Sil Pa Nou Li Pa Bon",
+        "url": "https://open.spotify.com/album/0AZTNwOGb4dKzz5ztcIxPq"
+      },
+      "artists": [
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Sil Pa Nou Li Pa Bon",
+      "url": "https://open.spotify.com/track/2cS5AMXcUxR508fCt47jYP"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Zeptima",
+        "url": "https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a"
+      },
+      "artists": [
+        {
+          "name": "Ayiiti",
+          "url": "https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz"
+        }
+      ],
+      "duration_ms": 241104,
+      "name": "Zeptima",
+      "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 225727,
       "name": "Bade Zile",
       "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Zeptima",
-        "url": "https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a"
-      },
-      "artists": [
-        {
-          "name": "Ayiiti",
-          "url": "https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz"
-        }
-      ],
-      "duration_ms": 241104,
-      "name": "Zeptima",
-      "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"
     },
     {
       "added_at": "2022-10-16 13:38:04",

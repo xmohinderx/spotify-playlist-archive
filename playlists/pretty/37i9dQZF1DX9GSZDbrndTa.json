@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 67073,
+  "num_followers": 67157,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDM1YTNhN2UwMzdkMzg3MzU0YjAxNjhmYTdlMTNlMTg0",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGZjMzQxNmEzZGY2MzgzODczYjI1MTlkYTA1Yjc5ZTdk",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 421853,
-      "name": "Senor Blues",
-      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Swiss Nights, Vol. 3",
         "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
       },
@@ -451,34 +435,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Freelance Years",
-        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 546000,
-      "name": "Sonnymoon For Two",
-      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "The Complete Prestige 10-Inch LP Collection",
-        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 459866,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
+      "duration_ms": 421853,
+      "name": "Senor Blues",
+      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -499,6 +467,38 @@
       "duration_ms": 180533,
       "name": "Cheryl",
       "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 459866,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Freelance Years",
+        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 546000,
+      "name": "Sonnymoon For Two",
+      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Blues For Willarene",
-      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 384706,
       "name": "Turnaround",
       "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Blues For Willarene",
+      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
     },
     {
       "added_at": "2020-10-12 18:15:54",

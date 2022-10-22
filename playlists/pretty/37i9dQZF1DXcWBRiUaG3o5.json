@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1332848,
+  "num_followers": 1332803,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDVhNzkwY2JhYjgzYWEwODFiZmU4YWFlMWMwNzc4YWUw",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDY2YzkzOWM1YjczMjQ0YmFhYWNkOWRkZDNkMjQ1ODMz",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Something American",
         "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 283696,
       "name": "What Am I Here For",
       "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Under Dusk",
         "url": "https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Big Bend (An Original Soundtrack for Public Television)",
         "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 125408,
       "name": "Woodpecker",
       "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1007,22 +1023,6 @@
       "duration_ms": 230333,
       "name": "Juvenescence",
       "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 227488,
-      "name": "In Agreement",
-      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "In My Garden",
-        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
-      },
-      "artists": [
-        {
-          "name": "Isobel Anderson",
-          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "In My Garden",
+        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
+      },
+      "artists": [
+        {
+          "name": "Isobel Anderson",
+          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 225744,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 225744,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "EP 3",
-        "url": "https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9"
-      },
-      "artists": [
-        {
-          "name": "David Benjamin",
-          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
-        }
-      ],
-      "duration_ms": 201892,
-      "name": "Can't Get My Head Around Loving You",
-      "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "There's Always Glimmer (Deluxe Version)",
         "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "EP 3",
+        "url": "https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9"
+      },
+      "artists": [
+        {
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+        }
+      ],
+      "duration_ms": 201892,
+      "name": "Can't Get My Head Around Loving You",
+      "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Joy of Nothing",
+        "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "All We Grow",
         "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
       },
@@ -1623,22 +1643,6 @@
       "duration_ms": 310733,
       "name": "In the Stream",
       "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Zebra",
-        "url": "https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37"
-      },
-      "artists": [
-        {
-          "name": "COLETON RUBIN",
-          "url": "https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"
     }
   ],
   "unique_name": "Evening Acoustic",

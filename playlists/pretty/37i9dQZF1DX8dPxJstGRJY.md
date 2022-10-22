@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,693 likes - 54 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,972 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 19 | [Pure Imagination \(From "Willy Wonka and the Chocolate Factory"\)](https://open.spotify.com/track/7JWkH4SIGCnaoLNy3Ya5fN) | [Marie Oppert](https://open.spotify.com/artist/4ebnQwxGmX8eA7wumljZV7), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Nicholas Skilbeck](https://open.spotify.com/artist/7lYG7lhAySMEBEVMaBGLfg) | [Enchantée](https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO) | 4:12 |
 | 20 | [Adagio](https://open.spotify.com/track/1nKTvd5PQrvh9OJ2UuSfMB) | [Laura Bretan](https://open.spotify.com/artist/0Y6f7SArenwsTGRonkDGj0) | [World I See](https://open.spotify.com/album/0CMAg8EvRIOtvSJKZEKFlQ) | 4:08 |
 | 21 | [So Far Away](https://open.spotify.com/track/3SGrE5fV1ys8ZyAAHcTL9B) | [Ronan Hardiman](https://open.spotify.com/artist/6UxYW4p6OoRf85fNMupsfV), [Amici forever](https://open.spotify.com/artist/2VOQX0sezyQ23LmfJNIcDX), [Prague Film Orchestra](https://open.spotify.com/artist/6CLo6dHLYutnDFkGsjrbps) | [Defined](https://open.spotify.com/album/2tTr8FUVIv2JnvODik4Tef) | 4:24 |
-| 22 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
+| 22 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 | 23 | [Barcarolle \(from The Tales of Hoffman\)](https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat) | [All Angels](https://open.spotify.com/artist/1nlqYzoK1LAlS8MmnUhfEs) | [All Angels](https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT) | 3:25 |
 | 24 | [Bring Him Home \- From "Les Misérables"](https://open.spotify.com/track/6vb1E9HQ9V0vqxUaiGmgej) | [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [Danish National Chamber Orchestra](https://open.spotify.com/artist/5tqGSxgUWgnJf09eOwCvEz), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Bring Him Home](https://open.spotify.com/album/50c1kQsjZ7RWsIHvq1wxPl) | 3:40 |
 | 25 | [Send in the Clowns \(From "A Little Night Music"\)](https://open.spotify.com/track/60rwCozHI55tnHCZHI8bJ2) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Natalie Dessay](https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud), [Paris Mozart Orchestra](https://open.spotify.com/artist/4yaVj1SnoAFuqdRNGMCcFW), [Claire Gibault](https://open.spotify.com/artist/2k5WmbnjSX7XKocTLkzupP) | [Pictures of America](https://open.spotify.com/album/03kaAMCPTOpXnDIMTIY85l) | 4:32 |

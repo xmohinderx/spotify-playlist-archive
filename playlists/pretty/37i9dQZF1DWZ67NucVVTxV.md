@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,428 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,482 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,19 +13,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 3 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 |
 | 4 | [23](https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:05 |
 | 5 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 |
-| 6 | [Rise](https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Rise](https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU) | 3:00 |
-| 7 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 |
-| 8 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 |
-| 9 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
-| 10 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 |
-| 11 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
-| 12 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
-| 13 | [Blessings](https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Kae's Study](https://open.spotify.com/album/3zvBH4f8pSkOgOfkn6fHVV) | 2:40 |
-| 14 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
-| 15 | [Radio](https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/3e9ZA55qDYcenxT4REJ14g) | 2:52 |
-| 16 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 |
-| 17 | [I Appreciate](https://open.spotify.com/track/3kjmP9UbEJyvmAHRgqKCTy) | [YAW BERK](https://open.spotify.com/artist/5nCRn3Xb3daKxoy7GtWLgD) | [I Appreciate](https://open.spotify.com/album/7Dl0Af6heAdgdG2yXSamlA) | 2:42 |
-| 18 | [ONIPA \- Acoustic Version](https://open.spotify.com/track/4cpBKUEOatwGt5Z7L5ywFY) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/33eyXj6JBjWBiulTICXGg8) | 2:49 |
+| 6 | [Jeun To Da \(JTD\)](https://open.spotify.com/track/4UTlr8oltvsDUBzrnDDWB1) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Jeun To Da \(JTD\)](https://open.spotify.com/album/1cFo2kuDypXH2ujRWGf7Bk) | 2:42 |
+| 7 | [Rise](https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Rise](https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU) | 3:00 |
+| 8 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 |
+| 9 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 |
+| 10 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
+| 11 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 |
+| 12 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
+| 13 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
+| 14 | [Blessings](https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Kae's Study](https://open.spotify.com/album/3zvBH4f8pSkOgOfkn6fHVV) | 2:40 |
+| 15 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
+| 16 | [Radio](https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/3e9ZA55qDYcenxT4REJ14g) | 2:52 |
+| 17 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 |
+| 18 | [I Appreciate](https://open.spotify.com/track/3kjmP9UbEJyvmAHRgqKCTy) | [YAW BERK](https://open.spotify.com/artist/5nCRn3Xb3daKxoy7GtWLgD) | [I Appreciate](https://open.spotify.com/album/7Dl0Af6heAdgdG2yXSamlA) | 2:42 |
 | 19 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 |
 | 20 | [Country Boy](https://open.spotify.com/track/4l74XNrKtmHYgRx0erTgHy) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Country Boy](https://open.spotify.com/album/0rmk5AUSoO8TeKJDsId6BT) | 2:24 |
 | 21 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 |
 | 80 | [Non Stop](https://open.spotify.com/track/4frYjcru01K8WkQZYc3KqX) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Non Stop](https://open.spotify.com/album/5MJX3wuUeSpFqqI3aRpIAn) | 2:50 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGM3MjQzOTEyNjNiZDlmMTk5MGNmMjlhOWQzZDQwYzk5`
+Snapshot ID: `MTY2NjMzMjkzNCwwMDAwMDAwMDYzMDIzNTI0MjBiNTBhMjAxOGRjMTkzOWJmZmE4NTM5`

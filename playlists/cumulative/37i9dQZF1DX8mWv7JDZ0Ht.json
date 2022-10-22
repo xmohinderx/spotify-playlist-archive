@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 157647,
       "name": "Agridoce",
       "url": "https://open.spotify.com/track/7vMa1EWSLnbjSCcaniuZsL"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 182810,
       "name": "Como Se O Amanha N\u00e3o Fosse Chegar - Ao Vivo",
       "url": "https://open.spotify.com/track/4wxIhBInWQcvbZZMhPt21b"
@@ -1200,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "ELA \u00c9 UM 10",
+        "url": "https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111949,
+      "name": "ELA \u00c9 UM 10",
+      "url": "https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy"
+    },
+    {
+      "album": {
         "name": "Embriagado de Saudade",
         "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
       },
@@ -1513,6 +1531,24 @@
       "duration_ms": 168275,
       "name": "Faz Frio Aqui no Sul",
       "url": "https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L"
+    },
+    {
+      "album": {
+        "name": "feiti\u00e7o",
+        "url": "https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182645,
+      "name": "feiti\u00e7o",
+      "url": "https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL"
     },
     {
       "album": {

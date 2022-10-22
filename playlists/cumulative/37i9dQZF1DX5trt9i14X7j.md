@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-144 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+145 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Everlonging](https://open.spotify.com/track/7ncqZEutTnKNmxJn50URcf) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Everlonging](https://open.spotify.com/album/1DQviQUrW2Ek5Nas6q3mUw) | 2:07 | 2022-05-31 |  |
 | [everpresent](https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [everpresent](https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q) | 2:35 | 2022-05-31 |  |
 | [FF4](https://open.spotify.com/track/4yHLejQxBnufgbFPALQkK3) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flamagra](https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl) | 1:11 | 2021-12-08 |  |
-| [Finding Atlantis](https://open.spotify.com/track/2kC0fQTH2liJqBly67Cjkd) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Finding Atlantis](https://open.spotify.com/album/7wUQhwrYn9mUrYBUKzNW5v) | 4:27 | 2021-12-08 |  |
+| [Finding Atlantis](https://open.spotify.com/track/2kC0fQTH2liJqBly67Cjkd) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Finding Atlantis](https://open.spotify.com/album/7wUQhwrYn9mUrYBUKzNW5v) | 4:27 | 2021-12-08 | 2022-10-22 |
+| [Finding Atlantis](https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 4:27 | 2022-10-21 |  |
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2021-12-08 |  |
 | [Flangosh](https://open.spotify.com/track/7p1jTvgw2DdXFn8J2xQN5F) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Suavo EP](https://open.spotify.com/album/2t7KNpVEtm4iNPpiBf6bER) | 4:17 | 2021-12-08 | 2022-06-01 |
 | [For every man saved a victim will be found](https://open.spotify.com/track/23GeR1VGo3QHeS5UWQ5riO) | [Seasonal Affected Beats](https://open.spotify.com/artist/1fpm7q8YoBTXIiS4jJLPbs) | [In Song](https://open.spotify.com/album/5mqKifgMH0rmB37d1ty7vh) | 4:51 | 2021-12-08 |  |

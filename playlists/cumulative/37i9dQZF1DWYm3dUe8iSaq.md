@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [33](https://open.spotify.com/track/1s0OBTsDMtBR8sH1XqKaZh) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/6fNjdkSgemGYrH8v1M6NjA) | 3:15 | 2022-07-01 |  |
-| [33](https://open.spotify.com/track/2v8Y3pbX3XgoZ8L0vNZO54) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4RvI6nZRap3cIqLbTZHbjy) | 3:15 | 2022-04-08 | 2022-07-29 |
+| [33](https://open.spotify.com/track/1s0OBTsDMtBR8sH1XqKaZh) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/6fNjdkSgemGYrH8v1M6NjA) | 3:15 | 2022-07-01 | 2022-10-22 |
+| [33](https://open.spotify.com/track/2v8Y3pbX3XgoZ8L0vNZO54) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4RvI6nZRap3cIqLbTZHbjy) | 3:15 | 2022-04-08 |  |
 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-04-08 |  |
 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 | 2022-04-08 |  |
 | [Absence](https://open.spotify.com/track/1oXNjzF8RrQdo8hxqdKMhK) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Absence](https://open.spotify.com/album/2oFNbvHPWWaEIAzYJliGfW) | 2:56 | 2022-04-08 |  |

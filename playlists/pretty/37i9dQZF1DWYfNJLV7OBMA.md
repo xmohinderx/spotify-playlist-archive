@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Dinesh Gamage
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,977 likes - 87 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,024 likes - 87 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 57 | [Thurumpuva](https://open.spotify.com/track/5W9ivlHXPYhn10GCu4TDyC) | [Rap Sheyiya](https://open.spotify.com/artist/1hS4Cj1D35StoLRNFvgI7s), [CHU BBY](https://open.spotify.com/artist/29ko9iZWA1mUHNMQzU0Tfw), [Keefa](https://open.spotify.com/artist/2TCq1H7QnqxS36pZI026dT) | [Thurumpuva](https://open.spotify.com/album/2DpkcOMYEzVlzHiTIEgCLM) | 3:34 |
 | 58 | [Heragiya Da](https://open.spotify.com/track/75T5qAhijiHZnMaPD5x3xt) | [Sanka Dineth](https://open.spotify.com/artist/1Uqk24JsikzOJO5gHx9AJG), [Savindi Sithmini](https://open.spotify.com/artist/7j7p6bf4BSMrdVYA9bfxFu) | [Heragiya Da](https://open.spotify.com/album/4HrnNgI0zsYHvfTxhlyojM) | 3:37 |
 | 59 | [Manali](https://open.spotify.com/track/60pjm8kP6STQksXgf7y2Uv) | [Windy Goonatillake](https://open.spotify.com/artist/5ZytAAlFTBsWXrqbve4qnt), [SANUKA](https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe) | [Manali](https://open.spotify.com/album/09f5YESKLm62B4QRhE3AFH) | 3:54 |
-| 60 | [Wandana](https://open.spotify.com/track/11JnfWZ2B4mBvhMWSj8yiH) | [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13), [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Wandana](https://open.spotify.com/album/4Vji9lcrENuCgBwmeu7gpV) | 4:10 |
+| 60 | [Wandana](https://open.spotify.com/track/6xU7Czm0aM7jSNjcKWdhYF) | [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13), [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Wandana](https://open.spotify.com/album/01MwwZon3rRhj8mZvRnqwi) | 4:10 |
 | 61 | [Mal Mada Haasi](https://open.spotify.com/track/3A60zxEaWCDe04tcpZJJ09) | [Sandeep Jayalath](https://open.spotify.com/artist/1YXPaC4veUevXiHXh7D41t), [Dulan ARX](https://open.spotify.com/artist/1UyD155ls8RhCxSQsmdgZX), [Hasith Aryan](https://open.spotify.com/artist/7Exf3xd7YclgsP65S2Jwl4) | [Mal Mada Haasi](https://open.spotify.com/album/1zjtQYfuCjSubEJzaHjwSp) | 3:23 |
 | 62 | [Cordelia](https://open.spotify.com/track/4XpLYtjWVMOvyBv5VJHXZy) | [Stereomiinds](https://open.spotify.com/artist/24OHgf3gPyP5DomDcDVu8T) | [Cordelia](https://open.spotify.com/album/4fdayMEVgTXmZbgb3zYscT) | 3:31 |
 | 63 | [Hithe Kathawe](https://open.spotify.com/track/2QfmbDmlzrszpUutnNLP81) | [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE), [Gayan Gunawardana](https://open.spotify.com/artist/23JXDtvyHWUfT3nciKScG7), [Sajith Akmeemana](https://open.spotify.com/artist/2vrRv4kAPdCVDQvkRjFYrI) | [Hithe Kathawe](https://open.spotify.com/album/6CqZYN8Eib7MQDPnQzBj1m) | 3:40 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 86 | [Paata Gawe Man](https://open.spotify.com/track/4orf12TDpLYIh6AKSSNn1D) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Paata Gawe Man](https://open.spotify.com/album/539f3h6YfO0KKFCRgZ1puS) | 2:45 |
 | 87 | [Laga Lagatama \- Remix](https://open.spotify.com/track/1iIOK68SJyv4HGiAI8SrNh) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Zack N](https://open.spotify.com/artist/7ArDql3vEsoh5HXcqP9aOy) | [Laga Lagatama \(Remix\)](https://open.spotify.com/album/2bBBFcFYKULKNXMfOOThO3) | 2:48 |
 
-Snapshot ID: `MTY2NTE0NjA4MiwwMDAwMDAwMGRiMjMwNmM3ZmFkZjlkNWVlYzQyY2JjZDQ2NGI3Y2Rk`
+Snapshot ID: `MTY2NTE0NjA4MiwwMDAwMDAwMDFhZmQ1YzgzNWMyYzM4MjMzYjQ0MjJhYjBlYzk1OTgx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: Waterparks & blackbear",
+  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: PVRIS",
   "name": "The New Alt",
   "published_playlist_ids": [
     "4nMPQOlCNMSE5OFGV7xGWt"
@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "ANIMAL / ANYWHERE BUT HERE",
+        "url": "https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171133,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs"
+    },
+    {
+      "album": {
         "name": "Antsy",
         "url": "https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww"
       },
@@ -621,6 +639,28 @@
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
+    },
+    {
+      "album": {
+        "name": "Baby Take My Acid",
+        "url": "https://open.spotify.com/album/3dAOLWSrOTThw3qGrr6mqg"
+      },
+      "artists": [
+        {
+          "name": "Lincoln",
+          "url": "https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5"
+        },
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Baby Take My Acid",
+      "url": "https://open.spotify.com/track/4f2Uk6JHVaZp39TTyCEqEC"
     },
     {
       "album": {
@@ -733,7 +773,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
@@ -1401,10 +1441,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 245120,
       "name": "Burning",
       "url": "https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
       "album": {
@@ -1459,6 +1517,24 @@
       "duration_ms": 172000,
       "name": "Cannonballers",
       "url": "https://open.spotify.com/track/5hR92ZjhZsVVUPLuEJcxDf"
+    },
+    {
+      "album": {
+        "name": "Cartoon Earthquake - Spotify Singles",
+        "url": "https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205429,
+      "name": "Cartoon Earthquake - Spotify Singles",
+      "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
     },
     {
       "album": {
@@ -1603,6 +1679,24 @@
       "duration_ms": 150736,
       "name": "Cherry Picking",
       "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
+    },
+    {
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/3UoxoqoJehdKekydjznAhU"
+      },
+      "artists": [
+        {
+          "name": "GUNNAR",
+          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158320,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/4WBFBguZw3irFdhWlBemA3"
     },
     {
       "album": {
@@ -2043,7 +2137,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
@@ -2724,6 +2818,24 @@
     },
     {
       "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165608,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03"
+    },
+    {
+      "album": {
         "name": "emo girl (feat. WILLOW)",
         "url": "https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA"
       },
@@ -3395,6 +3507,24 @@
       "duration_ms": 186786,
       "name": "Fuck Me (I Didn\u2019t Know How To Say)",
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
+    },
+    {
+      "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "album": {
@@ -4643,7 +4773,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 168552,
       "name": "I Won't",
       "url": "https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi"
@@ -5325,7 +5455,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
@@ -6289,7 +6419,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
@@ -6623,6 +6753,24 @@
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
+    },
+    {
+      "album": {
+        "name": "American Bollywood: Acts III & IV",
+        "url": "https://open.spotify.com/album/3KmnHNMnB13nkKbOx7jqv2"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222078,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/5ZGrAvSbS9qOEphpjwn3Aj"
     },
     {
       "album": {
@@ -6988,6 +7136,24 @@
     },
     {
       "album": {
+        "name": "Place Your Debts",
+        "url": "https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310380,
+      "name": "Place Your Debts",
+      "url": "https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3"
+    },
+    {
+      "album": {
         "name": "Placeholder",
         "url": "https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG"
       },
@@ -7205,7 +7371,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 171200,
       "name": "radio.fm",
       "url": "https://open.spotify.com/track/5YhQ8rY4jdMdonSTBqQM06"
@@ -7830,6 +7996,24 @@
     },
     {
       "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "SCARING ME",
+      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
+    },
+    {
+      "album": {
         "name": "scream!",
         "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
       },
@@ -8061,7 +8245,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -8593,7 +8777,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 289165,
       "name": "Spinning the Truth Around",
       "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
@@ -8839,7 +9023,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 167200,
       "name": "sun keeps on shining",
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
@@ -9067,6 +9251,24 @@
       "duration_ms": 207471,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
+    },
+    {
+      "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/1TEsKYjDxUFIk0Uft0s5nd"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157363,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/0hInN3yci5wTnqCl1DXShW"
     },
     {
       "album": {
@@ -9405,7 +9607,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 196643,
       "name": "The Walk Home",
       "url": "https://open.spotify.com/track/4kH6YMzlukEACFU36d7Ih7"
@@ -9615,6 +9817,24 @@
       "duration_ms": 200117,
       "name": "three wheels and it still drives!",
       "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
+    },
+    {
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142092,
+      "name": "Thursday",
+      "url": "https://open.spotify.com/track/6vb55aYjtf4DirjVFPJpKz"
     },
     {
       "album": {

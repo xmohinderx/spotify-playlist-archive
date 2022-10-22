@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-165 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
+166 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [BASHBACK!](https://open.spotify.com/track/24OAMfjRPl2lgUmnfXdcqD) | [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [BASHBACK!](https://open.spotify.com/album/0f4Gd8ulc5hE6BLow3w4Ea) | 1:33 | 2021-10-05 |  |
 | [Benji](https://open.spotify.com/track/0J4ZatE29YjV3G5gw1xnWx) | [Smooth Jas](https://open.spotify.com/artist/5blslrsLBjGu9TQBq1QD5A) | [Benji](https://open.spotify.com/album/5WwQL4T4cC3aOYrrPxbRs9) | 4:29 | 2021-10-05 |  |
 | [Berlin](https://open.spotify.com/track/07ZY5mM23P88rslsUkxpgt) | [Adult Mom](https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB) | [Driver](https://open.spotify.com/album/5JiEqd3d0AfZdnMFrf37zE) | 3:20 | 2021-10-05 |  |
-| [Best Dressed Ex](https://open.spotify.com/track/5N6zMhMWFeJmDSgoDGuCC5) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Best Dressed Ex / Your New Tattoo](https://open.spotify.com/album/7weBwRSKvIl9cMq5Xbtfmz) | 3:33 | 2022-04-13 |  |
+| [Best Dressed Ex](https://open.spotify.com/track/1prT7eA5ydBCkAKB9IJfy2) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Best Dressed Ex / Your New Tattoo](https://open.spotify.com/album/1l1UmdVlqaTeGMEcDTWgxm) | 3:33 | 2022-07-14 |  |
+| [Best Dressed Ex](https://open.spotify.com/track/5N6zMhMWFeJmDSgoDGuCC5) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Best Dressed Ex / Your New Tattoo](https://open.spotify.com/album/7weBwRSKvIl9cMq5Xbtfmz) | 3:33 | 2022-04-13 | 2022-10-22 |
 | [Better Place](https://open.spotify.com/track/0iVAXd8mnbslvpMqJ70APv) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Better Place](https://open.spotify.com/album/0EGwPQKfFVzzHFdT2Mbk56) | 3:46 | 2021-10-05 | 2022-07-29 |
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2022-07-14 |  |
 | [Bloodrush](https://open.spotify.com/track/0OOBCBmLFqpLNclXaeFvQV) | [Andrew Broder](https://open.spotify.com/artist/44GbwEtjdUMxpvcBoPEOgH), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Haleek Maul](https://open.spotify.com/artist/1z3a08VnheTF9dwweVtFa3) | [Bloodrush](https://open.spotify.com/album/5g1qB2pKlmliBuz2A1OXmZ) | 3:23 | 2022-07-14 |  |

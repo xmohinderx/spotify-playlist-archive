@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-12",
-  "description": "This week's top new releases. ",
+  "description": "This week's top new releases. Cover: Taylor Swift",
   "name": "New Music Friday Switzerland",
   "published_playlist_ids": [
     "5A5TXDJmpvx3pBIQ0045Lh"
@@ -541,6 +541,24 @@
       "duration_ms": 139435,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
+    },
+    {
+      "album": {
+        "name": "2 AM",
+        "url": "https://open.spotify.com/album/4zh2bW9JufjawyuHocxmDj"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133988,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/1Agl3YCXpBcPspuXobCB2d"
     },
     {
       "album": {
@@ -4176,6 +4194,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
         "name": "Antidepressiva",
         "url": "https://open.spotify.com/album/2kksMdfJGxwwJfA3OCkDmq"
       },
@@ -4611,6 +4647,24 @@
       "duration_ms": 325306,
       "name": "Asterion",
       "url": "https://open.spotify.com/track/4EI2txYai6jyVfA2yPB1a0"
+    },
+    {
+      "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
     },
     {
       "album": {
@@ -18111,8 +18165,8 @@
           "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Elley Duhe",
-          "url": "https://open.spotify.com/artist/4VqcTx4dNkID7EqdPCjumJ"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
       "date_added": "2022-10-20",
@@ -20193,10 +20247,40 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 146643,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/7J9i21SEAAxoLmKDPxIua7"
+    },
+    {
+      "album": {
+        "name": "Enchant\u00e9 (feat. Malik Harris & Minelli)",
+        "url": "https://open.spotify.com/album/4jaxHWOhhGEcw5GvfRnsie"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Malik Harris",
+          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146643,
+      "name": "Enchant\u00e9 (feat. Malik Harris & Minelli)",
+      "url": "https://open.spotify.com/track/29FsvGQ7sXYk55hoBLDPys"
     },
     {
       "album": {
@@ -26149,10 +26233,32 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 163880,
       "name": "Gone (Da Da Da)",
       "url": "https://open.spotify.com/track/07vuu2dIJ4e0WVsXafOP1l"
+    },
+    {
+      "album": {
+        "name": "Gone (Da da Da)",
+        "url": "https://open.spotify.com/album/23ByeCiWrIBymzs7G05gh5"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "Gone (Da da Da)",
+      "url": "https://open.spotify.com/track/4TPn8ZBClUUWlU2ZP7DXa6"
     },
     {
       "album": {
@@ -58746,6 +58852,28 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "album": {
         "name": "Snowblind",
         "url": "https://open.spotify.com/album/68Zg1Jm0hccaviLSMmWB5r"
       },
@@ -59125,6 +59253,24 @@
       "duration_ms": 177625,
       "name": "Sola (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/5LK1zfpswTVPO588AAw6bq"
+    },
+    {
+      "album": {
+        "name": "SOLANG DIE MUSIG LAUFT",
+        "url": "https://open.spotify.com/album/2D3y4ieKZjFlRGZ0eFGKON"
+      },
+      "artists": [
+        {
+          "name": "Larry F",
+          "url": "https://open.spotify.com/artist/3wAHalfyo2Z3mGmd4kdSHz"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187859,
+      "name": "SOLANG DIE MUSIG LAUFT",
+      "url": "https://open.spotify.com/track/54lnLSCxPVQh3UdN51gpUC"
     },
     {
       "album": {

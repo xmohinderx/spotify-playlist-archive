@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-168 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
+169 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Just Thought You Should Know](https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty, Pt\. 1](https://open.spotify.com/album/19GamUBcGLTBx9n7OjqGcw) | 3:23 | 2022-06-06 | 2022-07-28 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 |  |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-05 | 2022-10-11 |
+| [Kiss Me](https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:49 | 2022-10-17 |  |
 | [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 | 2022-07-25 |  |
 | [LDQ \(Little Drama Queen\)](https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [LDQ \(Little Drama Queen\)](https://open.spotify.com/album/4jRePepXfCG8lfF9ZbR1Jv) | 3:50 | 2022-06-06 | 2022-07-28 |
 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 | 2022-06-06 | 2022-07-29 |
@@ -110,7 +111,7 @@
 | [No 1 Like U](https://open.spotify.com/track/0U5lak1skTwKoMi0BbRalS) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [No 1 Like U](https://open.spotify.com/album/6c9PeZsjgmMbNjLR6C0Ybn) | 2:47 | 2022-06-06 | 2022-06-13 |
 | [Not Your B](https://open.spotify.com/track/3DnBeUKpyH4mFtfSWlvQjQ) | [Vandetta](https://open.spotify.com/artist/2zJyoM4BKp0Aufq8QIpexd), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Chok Kerong](https://open.spotify.com/artist/1IOS1SiiBsCWWjebFzynOh), [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D) | [Not Your B](https://open.spotify.com/album/6AOGxyQ5oWdQv7PP8K8EuC) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [On My Way](https://open.spotify.com/track/30w9SEmvLQTrWf9LFxA7IO) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [On My Way](https://open.spotify.com/album/3ezCvHQlNEaFkZflL2FXIh) | 3:23 | 2022-06-06 | 2022-07-29 |
-| [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 | 2022-10-17 |  |
+| [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 | 2022-10-17 | 2022-10-22 |
 | [Peer Pressure \(feat\. Julia Michaels\)](https://open.spotify.com/track/4JWQC6gyYoPRnxRxk0ta2M) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Peer Pressure \(feat\. Julia Michaels\)](https://open.spotify.com/album/4pPJ0Hwrvadty8bGsg4Msg) | 2:56 | 2022-06-27 | 2022-07-04 |
 | [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 | 2022-08-22 |  |
 | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) | 3:13 | 2022-06-20 | 2022-06-24 |

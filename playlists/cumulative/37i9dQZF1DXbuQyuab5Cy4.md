@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-99 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
+100 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 | 2021-10-28 |  |
 | [Psycho \(RAC Mix\)](https://open.spotify.com/track/6Hhg2FepgSwCDI2EsENmiQ) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/0eflAEjBSxtYJkz227JFjw) | 3:11 | 2021-10-28 | 2022-07-29 |
 | [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 | 2021-10-28 |  |
+| [Purgatory](https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f) | 2:49 | 2022-10-21 |  |
 | [RAMPAGE](https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:59 | 2021-10-28 |  |
 | [ROCK IT](https://open.spotify.com/track/1yv3aBLO9rgyEHmAR7jI1M) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [ROCK IT](https://open.spotify.com/album/4bhVSIjmRIxUNzCsy7xe6c) | 3:11 | 2021-10-28 |  |
 | [Roll](https://open.spotify.com/track/7tCfEp99eUv6d3yfaL3TdP) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Roll](https://open.spotify.com/album/1zXKcwZZIyG2ojmJV6s35T) | 4:19 | 2022-09-30 |  |

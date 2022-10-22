@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists. Cover: corook",
-  "num_followers": 814757,
+  "num_followers": 814814,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTIwMTcyOCwwMDAwMDAwMGM1MDc5YmRiZDY0ZWUxMmZmNWQzNzhiYTdhODk3MzE5",
+  "snapshot_id": "MTY2NTIwMTcyOCwwMDAwMDAwMGJlMGQzMTlmMzUxMDcwYzRiOGE2MTM1ZDNhMjQxOWI5",
   "tracks": [
     {
       "added_at": "2022-10-08 04:02:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "she knows it",
-        "url": "https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 156584,
-      "name": "she knows it",
-      "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
+        "name": "she knows it",
+        "url": "https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 156584,
+      "name": "she knows it",
+      "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -775,38 +775,6 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 177483,
-      "name": "day to day",
-      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
         "name": "My Kink is Karma",
         "url": "https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N"
       },
@@ -823,6 +791,22 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 177483,
+      "name": "day to day",
+      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
+        "name": "It's Been a Little Heavy Lately",
+        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221871,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
       },
@@ -931,38 +947,6 @@
       "duration_ms": 182443,
       "name": "My Way",
       "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
-        "name": "It's Been a Little Heavy Lately",
-        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221871,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
-        "name": "Homerun Hitter",
-        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 272453,
-      "name": "Homerun Hitter",
-      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -999,6 +983,22 @@
       "duration_ms": 141500,
       "name": "Alice (Bodies Bodies Bodies)",
       "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
+        "name": "Homerun Hitter",
+        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "Homerun Hitter",
+      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "SHE CAN DANCE",
-        "url": "https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR"
-      },
-      "artists": [
-        {
-          "name": "Betty Who",
-          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "SHE CAN DANCE",
-      "url": "https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
         "name": "In My Drinks",
         "url": "https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 203605,
       "name": "In My Drinks",
       "url": "https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
+        "name": "SHE CAN DANCE",
+        "url": "https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "SHE CAN DANCE",
+      "url": "https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "Always Been",
-        "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
+        "name": "If It's Not God",
+        "url": "https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt"
       },
       "artists": [
         {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Always Been - Edit",
-      "url": "https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS"
+      "duration_ms": 219306,
+      "name": "If It's Not God",
+      "url": "https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
+        "name": "Always Been",
+        "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Always Been - Edit",
+      "url": "https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
         "name": "homecoming!",
         "url": "https://open.spotify.com/album/6oxQZpgS63Ah61H7fjsGHC"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 192124,
       "name": "stupid games",
       "url": "https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
-        "name": "If It's Not God",
-        "url": "https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "If It's Not God",
-      "url": "https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG"
     },
     {
       "added_at": "2022-10-08 04:02:08",

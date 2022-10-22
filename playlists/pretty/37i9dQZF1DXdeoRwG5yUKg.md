@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,129 likes - 91 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,143 likes - 91 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 13 | [Never Tear Us Apart](https://open.spotify.com/track/5LDbQdfOJEb0y2f3QwlzUw) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Never Tear Us Apart](https://open.spotify.com/album/7hWLND0iED2GC0JEQZRJek) | 3:24 |
 | 14 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 |
 | 15 | [Forget Yourself](https://open.spotify.com/track/3fWcRT65iy7FIIEjitgfJ6) | [Natalia M\. King](https://open.spotify.com/artist/3fCXXnMGhzvgXkWwerk4hg) | [Forget Yourself](https://open.spotify.com/album/35jiIi7b9WKbmxXfVcT0ai) | 3:38 |
-| 16 | [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 |
+| 16 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
 | 17 | [Drown in My Own Tears](https://open.spotify.com/track/0FntDGdy2Kgd75xCSO6eZ3) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Drown in My Own Tears](https://open.spotify.com/album/2jXFprFNbuaBkZPkWj7Zrp) | 4:35 |
 | 18 | [We're Gonna Make It](https://open.spotify.com/track/0T648GgCmHNdLhk7LxQdmM) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:23 |
 | 19 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 90 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 91 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGIyZTFmMDY5ZjRlZWFiNDM2YmFjMTBiMGFiYTU4ZjFi`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDRmNzIwZTE2YTI0YWNhYzM2YzMzOTkyY2MwMzM5YTRl`

@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-87 songs - 5 hr 16 min - not published yet
+89 songs - 5 hr 23 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [オレンジ](https://open.spotify.com/track/3DwuVMXAsA4iVyE42f752B) | [Lil'B](https://open.spotify.com/artist/73RYTxKqVXkXo52SYyFJAC) | [オレンジ](https://open.spotify.com/album/1iXMIQLZAKbR5TDBUyogWT) | 5:06 | 2022-10-06 |  |
 | [ギャロップ](https://open.spotify.com/track/6WllIZ5BpLQLZ7o9kRwTsg) | [pe'zmoku](https://open.spotify.com/artist/2anqC7AHApDWCTCxBqMnHo) | [ギャロップ](https://open.spotify.com/album/7F3b6J99LduAJFYk4dFw6l) | 4:53 | 2022-10-06 |  |
 | [サンキュー!!](https://open.spotify.com/track/1gfuwVIBY117gPgpmsLUiy) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [サンキュー!!](https://open.spotify.com/album/0Koe1vDstYuSZXtI8yDlPy) | 4:13 | 2022-10-06 |  |
+| [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2022-10-21 |  |
 | [ハルカカナタ](https://open.spotify.com/track/4pVkZJQtDCNgeBv7Lf4IJk) | [UNLIMITS](https://open.spotify.com/artist/79J1fd1c3x60MVdSkBMGoX) | [ハルカカナタ](https://open.spotify.com/album/2DEOIQFfsDtfByqp8TIRh8) | 3:31 | 2022-10-06 |  |
 | [ヒトヒラのハナビラ](https://open.spotify.com/track/4GiGrLtTEf3z0iqO2fDFhO) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [ヒトヒラのハナビラ](https://open.spotify.com/album/52BAVwUU6V9E0RCzksuAEh) | 3:35 | 2022-10-06 |  |
 | [マイペース](https://open.spotify.com/track/6CpWkr7H0bnpAUexThcRey) | [SunSet Swish](https://open.spotify.com/artist/6BP2pX1i8U6yZHXRvStQ74) | [マイペース](https://open.spotify.com/album/5WqPeHtrQ7S54vcKQkQ1ph) | 4:25 | 2022-10-06 |  |
@@ -91,6 +92,7 @@
 | [少女S](https://open.spotify.com/track/52h36YHQlTnwRh3ChfJstO) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [少女S\[通常盤\]](https://open.spotify.com/album/3HtH55kg3nfkrsWug40v91) | 3:14 | 2022-10-06 |  |
 | [感謝。](https://open.spotify.com/track/1w3BRAv9eIyG1QOD33u1Sa) | [RSP](https://open.spotify.com/artist/5O2mC2Qd9HSGuisFTl1FM8) | [感謝。](https://open.spotify.com/album/2d0SEQ8MwNsZBHgdRtDoSN) | 5:13 | 2022-10-06 |  |
 | [旅立つキミへ](https://open.spotify.com/track/30ek6jhxOGgxewmUlxU4SW) | [RSP](https://open.spotify.com/artist/5O2mC2Qd9HSGuisFTl1FM8) | [旅立つキミへ](https://open.spotify.com/album/09Qg9klz2C17gzYfroKE7z) | 4:03 | 2022-10-06 |  |
+| [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-10-21 |  |
 | [桜日和](https://open.spotify.com/track/4owPAvxLodyUXwtv2IDray) | [Mai Hoshimura](https://open.spotify.com/artist/5nTM618Y9OIjwVwOKOATvC) | [桜日和](https://open.spotify.com/album/00WdxRziikiiIvgtxH9chY) | 4:22 | 2022-10-06 |  |
 | [橙](https://open.spotify.com/track/6OWJHb4xcFoDtsIPn7eUXi) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [橙](https://open.spotify.com/album/10HOtqMUc3B8o8p0XBgluc) | 3:22 | 2022-10-06 |  |
 | [爪先](https://open.spotify.com/track/3UYMGyBW0HUK6Hsik5Ytci) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 3:55 | 2022-10-06 |  |

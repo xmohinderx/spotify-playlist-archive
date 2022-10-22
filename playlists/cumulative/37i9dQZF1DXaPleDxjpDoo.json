@@ -704,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Kokyu",
+        "url": "https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Hayashi Egnell",
+          "url": "https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246124,
+      "name": "Kokyu",
+      "url": "https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK"
+    },
+    {
+      "album": {
         "name": "Leaves Breathing",
         "url": "https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5"
       },
@@ -1119,6 +1137,24 @@
       "duration_ms": 232031,
       "name": "Self Empathy 2",
       "url": "https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2"
+    },
+    {
+      "album": {
+        "name": "Sentiment - Sound Bath",
+        "url": "https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162060,
+      "name": "Sentiment - Sound Bath",
+      "url": "https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP"
     },
     {
       "album": {

@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "After All Was Said",
+        "url": "https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS"
+      },
+      "artists": [
+        {
+          "name": "Leander Vaughn",
+          "url": "https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206523,
+      "name": "After All Was Said",
+      "url": "https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg"
+    },
+    {
+      "album": {
         "name": "Chakra Spiritual Solfeggios",
         "url": "https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL"
       },
@@ -4301,6 +4319,24 @@
       "duration_ms": 181750,
       "name": "Through My Eyes",
       "url": "https://open.spotify.com/track/30VtdTgyGTBXlPUoEGv6aD"
+    },
+    {
+      "album": {
+        "name": "Through The Mist",
+        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Crew",
+          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Through The Mist",
+      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
     },
     {
       "album": {

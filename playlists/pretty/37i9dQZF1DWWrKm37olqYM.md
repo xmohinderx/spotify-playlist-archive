@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Rican Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,390 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,402 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 20 | [Shake My Ass](https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS) | [CalvoMusic](https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo), [Zfrek](https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g) | [Nights Into Mornings EP](https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea) | 2:46 |
 | 21 | [BING BONG \(SIDETALKNYC 2 BMORE\)](https://open.spotify.com/track/6tLTynz9XBc6J69Ji1YuQO) | [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0), [DJ Beast Baltimore](https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS) | [BING BONG \(SIDETALKNYC 2 BMORE\)](https://open.spotify.com/album/2YSwZgAOBOTfqiMiCyUacj) | 2:35 |
 | 22 | [How 2 Stunt](https://open.spotify.com/track/0iBtoy6i4iGcB6WtTUF4cq) | [Munchii](https://open.spotify.com/artist/6RRfw8TLkkXCN5VanukT9e), [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0) | [Get The Cheese](https://open.spotify.com/album/65qZ9aiphE7cO7lS5aN7T8) | 3:26 |
-| 23 | [I Don't Wanna Do This Anymore, Pt\. 2 \- Baltimore Club Music Remix](https://open.spotify.com/track/5BD2CbRoUUoe69C45Y0ZYB) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [I Don't Wanna Do This Anymore, Pt\. 2 \(Baltimore Club Music Remix\)](https://open.spotify.com/album/48J1c987ojqZjNap0JfIeh) | 2:25 |
+| 23 | [I Don't Wanna Do This Anymore, Pt\. 2 \- Baltimore Club Music Remix](https://open.spotify.com/track/2Yqi9wOfJ0RE6XymE94oTC) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [I Don't Wanna Do This Anymore, Pt\. 2 \(Baltimore Club Music Remix\)](https://open.spotify.com/album/10sLUZFhmMVHN68yEeh7xH) | 2:25 |
 | 24 | [Doo Doo Brown](https://open.spotify.com/track/0VFJiOs6UOzmFCYFaTumKo) | [2 Hyped Brothers & A Dog](https://open.spotify.com/artist/4uuHzqQ4a2GT3jFsAlZSip) | [Ya Rollin' Doo Doo](https://open.spotify.com/album/3PAf8UNJiQA923N08FYAMM) | 5:38 |
 | 25 | [BALTIMORE](https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ) | [THE BLVCK BUTTAFLY](https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb) | [INTO THE COCOON](https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw) | 4:00 |
 | 26 | [Rooted \(feat\. Ester Dean\) \- Al Rich Club Mix](https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Rooted \(feat\. Ester Dean\) \[Al Rich Club Mix\]](https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt) | 3:04 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 63 | [Baltimore City](https://open.spotify.com/track/2GXNQhq760y65pC0OGAAFq) | [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 4: The Pressure](https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF) | 3:06 |
 | 64 | [Jerome](https://open.spotify.com/track/0Y8GBM1KJ9H91q4KviQBFD) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 2:26 |
 
-Snapshot ID: `MTY2MzkxOTkyNSwwMDAwMDAwMDQ4YjdhODcwMmFiMGI0YzZhNGQ2NWRlNjcyMTRjOGNk`
+Snapshot ID: `MTY2MzkxOTkyNSwwMDAwMDAwMGVkOGFhM2E2Yjk2Mjg3MjhlNjEyMDFmZWIwMjcxYjQ0`

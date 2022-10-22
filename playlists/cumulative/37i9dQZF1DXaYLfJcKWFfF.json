@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "Biwamiel",
+        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+      },
+      "artists": [
+        {
+          "name": "Udulele",
+          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155007,
+      "name": "Biwamiel",
+      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+    },
+    {
+      "album": {
         "name": "Kanawa",
         "url": "https://open.spotify.com/album/7DZu7eXYOCZn9Wz90Rbsa5"
       },
@@ -84,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/7fCYNOf16YBpZ3XwByoUmd"
+      },
+      "artists": [
+        {
+          "name": "Adomaa",
+          "url": "https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254424,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ"
+    },
+    {
+      "album": {
         "name": "Curtains",
         "url": "https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI"
       },
@@ -95,7 +135,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 110000,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0"
@@ -247,6 +287,28 @@
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
+    },
+    {
+      "album": {
+        "name": "Archeology",
+        "url": "https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3"
+      },
+      "artists": [
+        {
+          "name": "Montparnasse Musique",
+          "url": "https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG"
+        },
+        {
+          "name": "Mopero Mupemba",
+          "url": "https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188309,
+      "name": "Luendu",
+      "url": "https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON"
     },
     {
       "album": {
@@ -707,7 +769,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 198706,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/5BPaHu1s9tntVtVnOQ5LL0"

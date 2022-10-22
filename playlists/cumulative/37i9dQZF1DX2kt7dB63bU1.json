@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Michael Bubl\u00e9",
+  "description": "Jazz voices of today. Cover: Eliane Elias",
   "name": "Vocal Jazz",
   "published_playlist_ids": [
     "1MJcLwlhyaudSQhL0k2nLU"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 283684,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/2AoPD54mcUekeaZIyLU3Xs"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 199594,
       "name": "Back On the Strip",
       "url": "https://open.spotify.com/track/70L68SZMPhmOAZnfymArW3"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 234364,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2BocrpGhXJEWczeLLTkCye"
@@ -1832,6 +1832,24 @@
     },
     {
       "album": {
+        "name": "Nikki By Starlight",
+        "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "Comment Allez Vous",
+      "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/1nbLGkuaPpl4I9jSM99KKK"
       },
@@ -2467,6 +2485,40 @@
       "duration_ms": 381367,
       "name": "East of the Sun and West of the Moon",
       "url": "https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e"
+    },
+    {
+      "album": {
+        "name": "Es Magia",
+        "url": "https://open.spotify.com/album/4quOMvcOLNATWYHnC9vuvP"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Gabe Schnider",
+          "url": "https://open.spotify.com/artist/6W0lSVddOFriyTIYsfG78Q"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "John Chin",
+          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258170,
+      "name": "Es Magia",
+      "url": "https://open.spotify.com/track/4ttZxMbJPndXINPYIrsYsv"
     },
     {
       "album": {
@@ -4521,7 +4573,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 265000,
       "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
@@ -5065,6 +5117,24 @@
       "duration_ms": 262733,
       "name": "Les amours perdues",
       "url": "https://open.spotify.com/track/2Whhi1t9Y700o2Lo9ylXky"
+    },
+    {
+      "album": {
+        "name": "Les amours perdues (Radio Edit)",
+        "url": "https://open.spotify.com/album/5aMtmlnwqiptEs3Y8Fm0EH"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Les amours perdues - Radio Edit",
+      "url": "https://open.spotify.com/track/1jJWqNeyKMsXdo6lcZPHMN"
     },
     {
       "album": {
@@ -6121,7 +6191,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 206590,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
@@ -6435,6 +6505,40 @@
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
+    },
+    {
+      "album": {
+        "name": "One Day, Forever",
+        "url": "https://open.spotify.com/album/4UIz8ZkbKx0S4XjLUhqOiV"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        },
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        },
+        {
+          "name": "Mulgrew Miller",
+          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Carl Allen",
+          "url": "https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308192,
+      "name": "One Day, Forever",
+      "url": "https://open.spotify.com/track/4eHwXOVp2HX7e4ZI8CSl06"
     },
     {
       "album": {
@@ -7389,6 +7493,24 @@
       "duration_ms": 312527,
       "name": "Something Cool - Brian Losch Remix",
       "url": "https://open.spotify.com/track/3f7cqY7cu3n1aMx01KfCnW"
+    },
+    {
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/7fYK538rcsifxsFge3ARvr"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347173,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/13tBNWKIqlZwijZ9rFFS13"
     },
     {
       "album": {
@@ -8690,6 +8812,24 @@
     },
     {
       "album": {
+        "name": "A New Kind of Love",
+        "url": "https://open.spotify.com/album/4x8UriOxIb5GFiAg7fLxQK"
+      },
+      "artists": [
+        {
+          "name": "Malene Mortensen",
+          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242359,
+      "name": "Tiny Hands",
+      "url": "https://open.spotify.com/track/3zDS4k6w8j6ngoBKtOVR6F"
+    },
+    {
+      "album": {
         "name": "Together Alone",
         "url": "https://open.spotify.com/album/0ThfLn7C5R8BmAm5CPoBV1"
       },
@@ -9297,7 +9437,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 159386,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1"

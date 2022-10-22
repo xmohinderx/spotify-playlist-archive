@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-265 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+266 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Emmanuel](https://open.spotify.com/track/0j4Ijq2a5axXMCzWA51tu0) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Christmas Eve in Bethlehem](https://open.spotify.com/album/6CWrbkVYhETLuzaDze33yo) | 4:20 | 2021-12-24 |  |
 | [Emmanuel God With Us \- Live](https://open.spotify.com/track/41HTrnBw7MtRKTw0bST9II) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel God With Us \(Live\)](https://open.spotify.com/album/5SVXV9XN70PoSeu4yE5rul) | 3:12 | 2021-12-24 |  |
 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 | 2021-12-24 |  |
-| [Feelin' Like Christmas](https://open.spotify.com/track/5nB154PCWmkFvYchZkX0iG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:17 | 2021-12-24 | 2022-10-20 |
+| [Feelin' Like Christmas](https://open.spotify.com/track/5nB154PCWmkFvYchZkX0iG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:17 | 2021-12-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 | 2021-12-24 | 2022-10-21 |
 | [Feliz Navidad](https://open.spotify.com/track/0d9T0mGXQeXZbocFTdu9uk) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g) | 2:54 | 2021-12-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/1cFWVdLbsXwDZx73LxReFv) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Christmas: Joy To The World](https://open.spotify.com/album/6CDNJL0wwcpY56ppfHBtPr) | 2:54 | 2021-12-24 | 2022-07-28 |
@@ -137,7 +137,8 @@
 | [Joseph's Lullaby](https://open.spotify.com/track/6O5uG9bAYLuI7xMDwiWK2v) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 3:44 | 2021-12-24 |  |
 | [Joy](https://open.spotify.com/track/1ilZTjEWIOpyHUWIu8hAiR) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Maranda Presents A Holy Christmas](https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN) | 4:47 | 2021-12-24 | 2022-07-26 |
 | [Joy](https://open.spotify.com/track/1niWovttFgyl2fqY7sFbGO) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Joy](https://open.spotify.com/album/2bNlQ1CJ8G0PoQn67nhuds) | 3:25 | 2021-12-24 | 2022-07-28 |
-| [Joy To Our World](https://open.spotify.com/track/7lkjISjsGaFWaNtYRfyySU) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:55 | 2021-12-24 |  |
+| [Joy To Our World](https://open.spotify.com/track/5exp2kacCNgcNnPtbjwY1B) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:55 | 2021-12-24 |  |
+| [Joy To Our World](https://open.spotify.com/track/7lkjISjsGaFWaNtYRfyySU) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:55 | 2021-12-24 | 2022-10-22 |
 | [Joy To The World](https://open.spotify.com/track/1t6eTV1O2BPAJolNGSH1il) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Oh For Joy](https://open.spotify.com/album/60gR2ddrmeKIQBYnVoc4Bi) | 3:00 | 2021-12-24 | 2022-07-26 |
 | [Joy To The World](https://open.spotify.com/track/0r4oEPAhF9s4CymumKpPnj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Joy To The World](https://open.spotify.com/album/1DUIGPji7naIzvcAHZqrbf) | 3:55 | 2021-12-24 |  |
 | [Joy To The World](https://open.spotify.com/track/2soNiIWAQItFQjo4yIfipv) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 3:45 | 2021-12-24 |  |
@@ -240,7 +241,7 @@
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2022-07-28 |
 | [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 |  |
 | [This Is Jesus](https://open.spotify.com/track/69v45hb7AYLxvecGXmd4Di) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God With Us](https://open.spotify.com/album/7lxYFbhgQ7JCdMQiLpng2k) | 3:10 | 2021-12-24 |  |
-| [This Is My Son](https://open.spotify.com/track/6SJfeaZlFuWGbpQXCHBJMQ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [This Is My Son](https://open.spotify.com/album/4BPYMu3NFi2Fh9M1Kw1czK) | 3:52 | 2021-12-24 |  |
+| [This Is My Son](https://open.spotify.com/track/6SJfeaZlFuWGbpQXCHBJMQ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [This Is My Son](https://open.spotify.com/album/4BPYMu3NFi2Fh9M1Kw1czK) | 3:52 | 2021-12-24 | 2022-10-22 |
 | [This Year For Christmas](https://open.spotify.com/track/19DeHNpOPLVntLXYDxtB02) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:30 | 2021-12-24 |  |
 | [This Year for Christmas](https://open.spotify.com/track/5jI9fVQ1QqUygoNpVRdzu3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/2vC11yxZPun9iOYh5jRWKd) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [Until You](https://open.spotify.com/track/7p5PppNJRxMNBhGbZ5JvxC) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Greatest Gift: A Christmas Collection](https://open.spotify.com/album/4sY4C2JAgUq5rlqZEiThES) | 3:39 | 2021-12-24 | 2022-09-05 |

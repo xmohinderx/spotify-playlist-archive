@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Bailey Zimmerman
+> Today's top country hits of the week, worldwide! Cover: Zach Bryan
 
 565 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,609 songs - 4 day 12 hr 12 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,610 songs - 4 day 12 hr 16 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,8 @@
 | [Inssegh Inssegh](https://open.spotify.com/track/5Bx0yhxWAXPZcJ0UMF1er2) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/2I4WOuSnQzkxC4tbKpg7B1) | 4:48 | 2022-07-12 | 2022-07-29 |
 | [Inssegh Inssegh](https://open.spotify.com/track/5fEjp2F0Sqr9fMuLSaDqz0) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn) | 4:48 | 2022-07-27 |  |
 | [Intazirne](https://open.spotify.com/track/635nNjgo2Qs7Whjvy3bJph) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/0XHu0qs3IztGqkDl4jOUpM) | 3:13 | 2022-07-12 |  |
-| [Intercambio](https://open.spotify.com/track/6JpYysVOI7xYCiJ49vV4V4) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu) | [Intercambio](https://open.spotify.com/album/28MPgHLbQ50GJIZBKgqYG1) | 3:34 | 2022-06-09 |  |
+| [Intercambio](https://open.spotify.com/track/3eHyPPBu2W5kLcRRut1d73) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu) | [Intercambio](https://open.spotify.com/album/2UBzKgpIZ6Kt1ILyd1sagI) | 3:34 | 2022-09-29 |  |
+| [Intercambio](https://open.spotify.com/track/6JpYysVOI7xYCiJ49vV4V4) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu) | [Intercambio](https://open.spotify.com/album/28MPgHLbQ50GJIZBKgqYG1) | 3:34 | 2022-06-09 | 2022-10-22 |
 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 | 2022-06-09 | 2022-07-29 |
 | [It's Nothing to Me](https://open.spotify.com/track/5iSkMwaUFSSSlJSTNqvJSJ) | [Harry Johnson](https://open.spotify.com/artist/3FPo5AWtObsXrmD5I65lb1) | [God Less America](https://open.spotify.com/album/2TX9yAA04Az94iCfDvErNb) | 2:23 | 2022-06-09 |  |
 | [It's Over, Bobby](https://open.spotify.com/track/0rUodcurnZSZP1Z6hb4InJ) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:29 | 2022-06-09 |  |

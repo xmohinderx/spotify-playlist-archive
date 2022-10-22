@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-337 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+338 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Inside Your Room](https://open.spotify.com/track/4xKberJEczVzju2uFi1dXQ) | [Jane.](https://open.spotify.com/artist/3RqtsKam6royX9WHYHJJTc) | [Inside Your Room](https://open.spotify.com/album/35FgPV2w580BfiQmJPnlnd) | 4:20 | 2021-11-12 | 2022-07-18 |
 | [Intertwined](https://open.spotify.com/track/0P7GCKyCEugSVtpLOTl7v1) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 2:41 | 2022-06-22 | 2022-10-07 |
 | [Intertwined](https://open.spotify.com/track/2B56sqgNauLMR9iqBMITwb) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Intertwined](https://open.spotify.com/album/3a7VIobH2HbttsdAYKVG6o) | 2:41 | 2021-11-12 | 2022-07-27 |
+| [Intertwined](https://open.spotify.com/track/5fML9iqXgkXu7hUOYlE1aB) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 2:41 | 2022-08-05 |  |
 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 | 2021-11-12 | 2022-07-22 |
 | [It Ain't Me, It's You](https://open.spotify.com/track/4bp0LGj4ahCGni2UG2j7rD) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Slow Motion](https://open.spotify.com/album/57QFaTFPSvhVGvWvMUJhGl) | 3:41 | 2021-11-12 | 2022-07-20 |
 | [it's a landslide](https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [it's a landslide](https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER) | 2:39 | 2021-11-12 | 2022-07-27 |
@@ -212,7 +213,7 @@
 | [Nights to Forget](https://open.spotify.com/track/6Z05hHg9RgzYpxotv3rwSE) | [Martha Ffion](https://open.spotify.com/artist/5Hfe2K074kukMOuccDN5Lc) | [Nights To Forget](https://open.spotify.com/album/7d7o9pC00r4gbHivcpPJ0j) | 3:56 | 2022-03-19 | 2022-04-15 |
 | [No Long Grass](https://open.spotify.com/track/78IzjV6We03PL9q6L1El3r) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [No Long Grass](https://open.spotify.com/album/3aMbKGq1gY7ko5DBcpgiWk) | 3:04 | 2022-03-19 | 2022-04-16 |
 | [No Reason](https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [No Reason / Spud Infinity](https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617) | 3:47 | 2022-02-04 | 2022-07-29 |
-| [No Reason](https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:47 | 2022-06-22 |  |
+| [No Reason](https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:47 | 2022-06-22 | 2022-10-22 |
 | [Number 1](https://open.spotify.com/track/7A6K76Ep7yjHtNmRnOQcHj) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Number 1](https://open.spotify.com/album/5g0eWYTDlGrdX3lyyIETlG) | 3:46 | 2022-03-19 | 2022-06-08 |
 | [Off Goes The Light](https://open.spotify.com/track/7EqezifSDgoyiNnj7TPJYc) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Off Goes The Light](https://open.spotify.com/album/1fTS59Y3aXI3fg1eLHUuZV) | 4:33 | 2022-10-07 | 2022-10-17 |
 | [Oh Canada](https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:47 | 2021-11-12 | 2022-07-29 |

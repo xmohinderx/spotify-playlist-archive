@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 9793,
+  "num_followers": 9821,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDNmZjNmMDhjNDc4NjJjM2I5MWVlYmJiMjE5ODZlZDVi",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDQ1NWI2ZTJjMDJiOGVlZjFhZDhkZjMxZjJlZDYyNWNm",
   "tracks": [
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Spins (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/4Z2p6uZduhJbDx2uWstqus"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+        }
+      ],
+      "duration_ms": 347148,
+      "name": "Spins - Lazywax Remix",
+      "url": "https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz"
+    },
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
@@ -499,22 +519,6 @@
       "duration_ms": 202225,
       "name": "Soy Gitano",
       "url": "https://open.spotify.com/track/2scAUFdLh4gHsF6iHytsYv"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Le Piano",
-        "url": "https://open.spotify.com/album/7xELedblrY7g48iXG3L1lb"
-      },
-      "artists": [
-        {
-          "name": "Donny Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
-        }
-      ],
-      "duration_ms": 305994,
-      "name": "Le Piano",
-      "url": "https://open.spotify.com/track/3kdXigOly0AhtvYfAJFBjn"
     },
     {
       "added_at": "2022-06-24 04:02:00",

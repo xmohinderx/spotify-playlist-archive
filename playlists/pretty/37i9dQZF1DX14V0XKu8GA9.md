@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,991 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,029 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 77 | [Benz](https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP) | [Street Active](https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Baby Yungin](https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO) | [Benz](https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq) | 2:35 |
 | 78 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 | 79 | [My Type](https://open.spotify.com/track/0jGO5iy60VBAutVznPPuLR) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [La Daisy](https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb) | 2:16 |
-| 80 | [It's Whateva](https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [It's Whateva](https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA) | 2:58 |
+| 80 | [Barbacoa](https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [Barbacoa](https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS) | 1:54 |
 
-Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMDIxOTg5NmYwODE3NzkxYjQzOTk2ODA5MzA0ODdjZDVh`
+Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMDJkNTA0OTRjYWY0MmQxYjY5NTViMzBhOWZhNGVkZGU0`

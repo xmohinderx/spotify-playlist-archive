@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Britney Spears x Elton John",
-  "num_followers": 3333254,
+  "num_followers": 3333523,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDIxNmE4NmFlMDNjOTYzZjBiMzg1NDJhMzZiYWUwMGQ4",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDc3YWE2YmU5ZjY5M2Y1OGQwMjE0M2VmZmNkYzY4NzNh",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Why Can't You Wait (3LAU Remix)",
         "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 221612,
       "name": "Why Can't You Wait - 3LAU Remix",
       "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "My Head & My Heart (Claptone Remix)",
         "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 182450,
       "name": "My Head & My Heart - Claptone Remix",
       "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
         "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 238064,
       "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Good Ones (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 165141,
-      "name": "Good Ones - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Easy Lover (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/1DoFMDyPXjAyfELfxzx0gx"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 120660,
       "name": "Easy Lover - Jax Jones Remix",
       "url": "https://open.spotify.com/track/20m2F7vi3SjKXtq3FyT6qS"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Good Ones (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 165141,
+      "name": "Good Ones - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
+        "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "David Solomon",
+          "url": "https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR"
+        }
+      ],
+      "duration_ms": 201711,
+      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
+      "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Attention (with Justin Bieber) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 256644,
       "name": "Attention (with Justin Bieber) - Disclosure Remix",
       "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
-        "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "David Solomon",
-          "url": "https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR"
-        }
-      ],
-      "duration_ms": 201711,
-      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
-      "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Million Dollar Baby (David Penn Remix)",
+        "url": "https://open.spotify.com/album/2aYoyZcFc7Dqp0btHC7nem"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Million Dollar Baby - David Penn Remix",
+      "url": "https://open.spotify.com/track/6ZZzcoEEfOgN7mFuVSDqjR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Green Green Grass (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/5pV6QQhxoKOEI9keLU3YFV"
       },
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Million Dollar Baby (David Penn Remix)",
-        "url": "https://open.spotify.com/album/2aYoyZcFc7Dqp0btHC7nem"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Million Dollar Baby - David Penn Remix",
-      "url": "https://open.spotify.com/track/6ZZzcoEEfOgN7mFuVSDqjR"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Free Yourself (Paul Woolford Remix)",
         "url": "https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL"
       },
@@ -1823,30 +1823,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Discoteca (Deorro Remix)",
-        "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 190312,
-      "name": "Discoteca (Deorro Remix)",
-      "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Feeling Good (Austin Millz Remix)",
         "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
       },
@@ -1867,26 +1843,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Words (Remixes)",
-        "url": "https://open.spotify.com/album/2P1cnpTNW5TAqpMeVySx4T"
+        "name": "Discoteca (Deorro Remix)",
+        "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 175571,
-      "name": "Words (feat. Zara Larsson) [Chapter & Verse Remix]",
-      "url": "https://open.spotify.com/track/6hAx59PBAqqvZLIJWilJfV"
+      "duration_ms": 190312,
+      "name": "Discoteca (Deorro Remix)",
+      "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1919,6 +1895,30 @@
       "duration_ms": 166463,
       "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Words (Remixes)",
+        "url": "https://open.spotify.com/album/2P1cnpTNW5TAqpMeVySx4T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 175571,
+      "name": "Words (feat. Zara Larsson) [Chapter & Verse Remix]",
+      "url": "https://open.spotify.com/track/6hAx59PBAqqvZLIJWilJfV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1963,30 +1963,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hate Me (The Him Remix)",
-        "url": "https://open.spotify.com/album/3ESz5DuNMNkaXkY189CBlS"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Hate Me - The Him Remix",
-      "url": "https://open.spotify.com/track/51m8154fLfxtL9Fhlb40ZQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -2011,26 +1987,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hot In It (Riton Remix)",
-        "url": "https://open.spotify.com/album/1UPYb9AJxXfJuPl8cDsPuO"
+        "name": "Hate Me (The Him Remix)",
+        "url": "https://open.spotify.com/album/3ESz5DuNMNkaXkY189CBlS"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         },
         {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
         }
       ],
-      "duration_ms": 167889,
-      "name": "Hot In It - Riton Remix",
-      "url": "https://open.spotify.com/track/1jIfRDKyt4jn7tQ5ekmkoM"
+      "duration_ms": 153600,
+      "name": "Hate Me - The Him Remix",
+      "url": "https://open.spotify.com/track/51m8154fLfxtL9Fhlb40ZQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2055,6 +2031,30 @@
       "duration_ms": 236065,
       "name": "Don\u2019t Wake Me Up - Sevenn Remix",
       "url": "https://open.spotify.com/track/6k5vdsmeY5yFWLcKhMBIsN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hot In It (Riton Remix)",
+        "url": "https://open.spotify.com/album/1UPYb9AJxXfJuPl8cDsPuO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Hot In It - Riton Remix",
+      "url": "https://open.spotify.com/track/1jIfRDKyt4jn7tQ5ekmkoM"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2095,6 +2095,30 @@
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
       "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Follow Me (Sick Individuals Remix)",
+        "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 166865,
+      "name": "Follow Me - Sick Individuals Remix",
+      "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2167,30 +2191,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Follow Me (Sick Individuals Remix)",
-        "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 166865,
-      "name": "Follow Me - Sick Individuals Remix",
-      "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Teardrops (feat. Majid Jordan) [Belters Only Remix]",
         "url": "https://open.spotify.com/album/7cPoo3B1Xw8PqkybVGzrww"
       },
@@ -2219,22 +2219,30 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I Still Believe (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY"
+        "name": "Caught Up (feat. Olivia O'Brien) [Remixes]",
+        "url": "https://open.spotify.com/album/5fCXGInZnTszdgizArIg00"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        },
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        },
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
         }
       ],
-      "duration_ms": 219653,
-      "name": "I Still Believe - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN"
+      "duration_ms": 159375,
+      "name": "Caught Up (feat. Olivia O'Brien) - Zack Martino x Leondis Remix",
+      "url": "https://open.spotify.com/track/6rHJ268lwbpsIvdljb9lKR"
     }
   ],
   "unique_name": "Pop Remix",

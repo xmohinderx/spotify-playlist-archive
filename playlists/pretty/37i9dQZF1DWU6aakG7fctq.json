@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Selene",
-  "num_followers": 502940,
+  "num_followers": 502949,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMDViZDhhNWIyMDRlNWUxNzY1MzE0NDkzMzRjM2MwY2Uz",
+  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMGYzYzgxZmJhYTI5MjI0YWQ4YzA0ZDU4M2RmNjg3Mzk4",
   "tracks": [
     {
       "added_at": "2022-09-06 17:11:25",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
         "name": "BIRDSONGS, Vol. 2",
         "url": "https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+      "duration_ms": 138742,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -1007,22 +1023,6 @@
       "duration_ms": 184199,
       "name": "M\u00edranos",
       "url": "https://open.spotify.com/track/2iNDBB85GuREL7p4m1pArU"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 138742,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     },
     {
       "added_at": "2022-09-06 17:11:25",

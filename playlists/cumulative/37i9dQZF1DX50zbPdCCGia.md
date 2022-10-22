@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1970s.
 
-156 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
+157 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Just Another Nervous Wreck \- 2010 Remastered](https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:25 | 2021-11-23 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 | 2021-11-23 |  |
 | [Lady](https://open.spotify.com/track/0nPE9ko1pKiKDzuDcC0b40) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Greatest Hits](https://open.spotify.com/album/5OajcRNtdKugFqYgIsEkRY) | 4:54 | 2021-11-23 | 2022-10-20 |
+| [Lady \- Remastered](https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:49 | 2021-11-23 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2021-11-23 |  |
 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 | 2021-11-23 |  |
 | [Let It Grow](https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:58 | 2021-11-23 |  |
@@ -112,7 +113,7 @@
 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 | 2021-11-23 |  |
 | [Romeo's Tune](https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM) | [Steve Forbert](https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty) | [Jack Rabbit Slim](https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm) | 3:32 | 2022-01-05 |  |
 | [Run Of The Mill \- Session Outtakes And Jams / Take 36](https://open.spotify.com/track/1YpS4q3O0IwpOItFiW7k58) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Run Of The Mill \(Session Outtakes And Jams / Take 36\)](https://open.spotify.com/album/3hs9zvJX2ENKKqMkYM52Nk) | 2:25 | 2021-11-23 | 2022-07-29 |
-| [Run Of The Mill \- Session Outtakes And Jams / Take 36](https://open.spotify.com/track/4AohRRap7A8q6LmgkoPMWw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary/Super Deluxe\)](https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6) | 2:25 | 2021-11-23 |  |
+| [Run Of The Mill \- Session Outtakes And Jams / Take 36](https://open.spotify.com/track/4AohRRap7A8q6LmgkoPMWw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary/Super Deluxe\)](https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6) | 2:25 | 2021-11-23 | 2022-10-22 |
 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 | 2021-11-23 |  |
 | [Sailing \- 2008 Remaster](https://open.spotify.com/track/2krjNGN2eoPy3cfJLtdZMV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Some Guys Have All the Luck](https://open.spotify.com/album/7Iz89r0GanEDFeAxByW9wI) | 4:38 | 2021-11-23 | 2022-07-29 |
 | [Sara](https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 6:22 | 2021-11-23 |  |

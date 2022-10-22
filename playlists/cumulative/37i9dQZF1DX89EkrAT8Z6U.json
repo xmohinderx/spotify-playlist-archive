@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 188706,
       "name": "99.9",
       "url": "https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 215771,
       "name": "Baby My Phone",
       "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 120981,
       "name": "Let's Ride",
       "url": "https://open.spotify.com/track/3dUXPkCP34x762v8cOJTRt"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 135111,
       "name": "Lighten Up",
       "url": "https://open.spotify.com/track/46RP6nhOYe528v8NiQX3Cb"
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 139910,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 143587,
       "name": "OLIVIA",
       "url": "https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 175774,
       "name": "Slide Den",
       "url": "https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR"
@@ -2358,6 +2358,24 @@
     },
     {
       "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
+    },
+    {
+      "album": {
         "name": "TITAN TALK!",
         "url": "https://open.spotify.com/album/53pU9XbUFPlcMp10DSgk50"
       },
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 441150,
       "name": "two fictitious stories (alongside mine)",
       "url": "https://open.spotify.com/track/1YMZ8RyeVqD8GslkDbnA8P"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 136200,
       "name": "WHACK!",
       "url": "https://open.spotify.com/track/5TGcpYaVo5OGJ608tAKfbL"

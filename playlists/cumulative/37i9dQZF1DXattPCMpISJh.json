@@ -202,6 +202,24 @@
     },
     {
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/5DX7E2aoZ3AC1qUGv6ePaN"
+      },
+      "artists": [
+        {
+          "name": "Jaycee",
+          "url": "https://open.spotify.com/artist/4WdCJv1slB2FtXiCbBz9tZ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/4g5SL9yCXRzAFyeTsI7kEu"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2nghY2vP2Muiv2moRoLdpf"
       },
@@ -323,6 +341,24 @@
       "duration_ms": 207360,
       "name": "By the River",
       "url": "https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf"
+    },
+    {
+      "album": {
+        "name": "Bye Bye Blues",
+        "url": "https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO"
+      },
+      "artists": [
+        {
+          "name": "Stela Cole",
+          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Bye Bye Blues",
+      "url": "https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2"
     },
     {
       "album": {
@@ -465,6 +501,32 @@
       "duration_ms": 233686,
       "name": "Climbing Up",
       "url": "https://open.spotify.com/track/37cFA9RlQHyQ6r41LLzjCW"
+    },
+    {
+      "album": {
+        "name": "Climbing Up (Colour Castle Dub Mix I)",
+        "url": "https://open.spotify.com/album/0CGhXrgyw2MIQ4cOEVVfqb"
+      },
+      "artists": [
+        {
+          "name": "Colour Castle",
+          "url": "https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS"
+        },
+        {
+          "name": "Clicks",
+          "url": "https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P"
+        },
+        {
+          "name": "Fleur De Mur",
+          "url": "https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211935,
+      "name": "Climbing Up (Colour Castle Dub Edit Mix I)",
+      "url": "https://open.spotify.com/track/7zOLHyza9544S7MqPDEdl0"
     },
     {
       "album": {
@@ -920,6 +982,28 @@
     },
     {
       "album": {
+        "name": "Get With You Tonight",
+        "url": "https://open.spotify.com/album/6Oo7dbPYNo8qTQfd9iE7AT"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Lukas Setto",
+          "url": "https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224754,
+      "name": "Get With You Tonight",
+      "url": "https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV"
+    },
+    {
+      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/62cDR2ihVBvdVCFh9MhuIb"
       },
@@ -1311,7 +1395,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 241225,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh"
@@ -1438,6 +1522,28 @@
     },
     {
       "album": {
+        "name": "Make That Change",
+        "url": "https://open.spotify.com/album/2MjTzcFBoxPTWKrIB3iQAW"
+      },
+      "artists": [
+        {
+          "name": "JKriv",
+          "url": "https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K"
+        },
+        {
+          "name": "Saucy Lady",
+          "url": "https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280239,
+      "name": "Make That Change",
+      "url": "https://open.spotify.com/track/176TfrKxalkOzOcSG1Mhyw"
+    },
+    {
+      "album": {
         "name": "My Only",
         "url": "https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8"
       },
@@ -1555,7 +1661,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 194035,
       "name": "Only U - Original Mix",
       "url": "https://open.spotify.com/track/3TTEzp4OfO0nKcBlO8NstK"
@@ -1832,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/0EANgloUkAg1H0Hcjz1Fdh"
+      },
+      "artists": [
+        {
+          "name": "Discotron",
+          "url": "https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241487,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/3Z2lzLWvsEcOiQshHMEXr9"
+    },
+    {
+      "album": {
         "name": "Seabra",
         "url": "https://open.spotify.com/album/3H7gm0dHWQ4CwHWItkQqIe"
       },
@@ -1843,7 +1967,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 214114,
       "name": "Somebody's Watching You",
       "url": "https://open.spotify.com/track/6xTCqwREMciIQl8PB3JGT8"
@@ -1963,7 +2087,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 196451,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0hrc8oZQB9RwTGW0VdvIDC"
@@ -2303,7 +2427,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 191637,
       "name": "We Hold the Future",
       "url": "https://open.spotify.com/track/0PAugWAYPor3vV3cB8euA3"
@@ -2401,7 +2525,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 232746,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS"

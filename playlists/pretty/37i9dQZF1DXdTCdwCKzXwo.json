@@ -1,12 +1,12 @@
 {
   "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
-  "num_followers": 981050,
+  "num_followers": 981654,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMDI4YmMzMzI3MDc3YTQzY2UwZTZiNjMzZDdmNTIzOTgx",
+  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMDI3ZTVmMjgwNTkyZmYxNGM2NWU1YzQxYmUyYTEzNDgw",
   "tracks": [
     {
       "added_at": "2022-09-08 15:12:04",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2022-05-26 22:19:37",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "added_at": "2022-05-26 22:19:37",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2022-05-26 22:19:37",

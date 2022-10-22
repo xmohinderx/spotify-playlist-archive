@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Catz 'n Dogz, myst milano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,263 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,290 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 2 | [Think About](https://open.spotify.com/track/0mgpKVkh9yenAnNB0lTWO4) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Think About](https://open.spotify.com/album/2cYsiuYP1rpKpLWjwSBvaL) | 3:24 |
 | 3 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 |
 | 4 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 |
-| 5 | [All Around The World](https://open.spotify.com/track/4EVzwXDKm3YW3KgF9imoco) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [EASTON](https://open.spotify.com/artist/1C8AF3HUn2d2rRz1z4Ukv1) | [All Around The World](https://open.spotify.com/album/34UTPB520XN8llrFjLmV3A) | 3:17 |
-| 6 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 |
+| 5 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 |
+| 6 | [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 |
 | 7 | [Let You Do This \(with Buy Now\)](https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Let You Do This](https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg) | 3:22 |
 | 8 | [Majestic \(Ride or Die\)](https://open.spotify.com/track/19zxhHtJMYoCuR5dmFJ1WN) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Majestic \(Ride or Die\)](https://open.spotify.com/album/1YaY6qMiUUdNY5198aTGet) | 3:08 |
 | 9 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 79 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 80 | [True Colours](https://open.spotify.com/track/2WCA3a7LQRdsKYf93AleId) | [Sivz](https://open.spotify.com/artist/0NUhITSw1R757ncPIm3pGq), [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [True Colours](https://open.spotify.com/album/1SDYcBpXWtPNYPtfRwc2XV) | 2:55 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGM0NGJiNGFlODYzYzdiZjRlZmMyNWQ5Y2M1OTAxNGNh`
+Snapshot ID: `MTY2NjM0ODQwMywwMDAwMDAwMDE2Mjc1NTdkMjdkOTk1OTg3ODhiOWFiMjVkZTI1Njcy`

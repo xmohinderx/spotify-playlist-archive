@@ -4,7 +4,7 @@
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH?si=3BeHxiy\_SWaivLNteSWYUQ">Yumbs</a>
 
-674 songs - 2 day 21 hr 12 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
+675 songs - 2 day 21 hr 18 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Thokoza](https://open.spotify.com/track/30sDS4E23SZCd95dhXlGlU) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Thokoza](https://open.spotify.com/album/2JDTorcc8J7HJS7POONsKd) | 6:22 | 2022-08-18 | 2022-10-21 |
 | [Tholakele](https://open.spotify.com/track/4GfloYcTBE5iMuPffhnufQ) | [Master Fale](https://open.spotify.com/artist/5ODkYxLWNiebVKA42YyNKC), [Daddy Yungin SA](https://open.spotify.com/artist/659A1qarPYtrZ84aRXPSo6) | [Piano Land V3](https://open.spotify.com/album/1hYAYebWaCrzKhF1vGFVTk) | 6:05 | 2022-03-10 | 2022-03-18 |
 | [Thula](https://open.spotify.com/track/7rmpguwTH3XwEPZMSeL4RH) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [1st Chapter](https://open.spotify.com/album/3B1CgI8dnnBPhfCs0Nivgi) | 6:22 | 2022-08-18 |  |
+| [Thula Nana](https://open.spotify.com/track/65AfiMU14827n2pQoGuFox) | [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz) | [Thula Nana](https://open.spotify.com/album/2bgFXq9YH21IzCby2jNrQj) | 6:36 | 2022-10-21 |  |
 | [Thuma Mina](https://open.spotify.com/track/0JzSQ2UBKxWpnPq8VmoJlM) | [Young GInger](https://open.spotify.com/artist/3LBo85p6inX14TQba77J3E) | [Thuma Mina](https://open.spotify.com/album/3t6HBXb1Jxptu5pbscq1EX) | 6:07 | 2022-08-11 | 2022-08-19 |
 | [Tipsy Walk](https://open.spotify.com/track/2a6OVcv74hv4uzwloHCqaE) | [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr), [Welle SA](https://open.spotify.com/artist/3NH5vTJooOUzGg3ptOtPKv), [MgucciFab](https://open.spotify.com/artist/0AeEcEklXABTp3RLhd1pJy), [Gee Max](https://open.spotify.com/artist/2s0O0vxpjMweoytoko87VF) | [Tipsy Walk](https://open.spotify.com/album/79Uvr8TCJS5qRjGY0RqBwz) | 5:51 | 2022-08-25 | 2022-09-02 |
 | [TiZZMO](https://open.spotify.com/track/24PQidrsf3XTeJqLk8fpVG) | [DJ GABZY](https://open.spotify.com/artist/1ThdeUNBFois1A9hv0gOzY), [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ) | [TiZZMO](https://open.spotify.com/album/1UIfLZgcXB2uWT8WWNkEgx) | 5:27 | 2022-07-14 | 2022-08-12 |

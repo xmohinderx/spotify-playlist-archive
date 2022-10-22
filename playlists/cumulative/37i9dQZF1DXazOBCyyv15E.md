@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Biig Piig
 
-1,133 songs - 2 day 19 hr 11 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,134 songs - 2 day 19 hr 15 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [Smoke Hole \- Edit](https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Smoke Hole](https://open.spotify.com/album/1TJpngFnTnOBmFbl1FqyOK) | 2:47 | 2021-02-06 | 2021-03-19 |
 | [Smoke Without Fire](https://open.spotify.com/track/7w9K4WglRRMRe1Q1OR7YP7) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Smoke Without Fire](https://open.spotify.com/album/3QJGxFuz5jQ1VPZwLcEAY9) | 4:00 | 2021-02-06 | 2021-04-23 |
 | [Snow Globes](https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Snow Globes](https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s) | 9:13 | 2022-01-21 | 2022-02-25 |
+| [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-20 |  |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-05 | 2022-09-16 |
 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 | 2022-09-08 | 2022-10-21 |
 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 | 2022-07-14 | 2022-09-16 |

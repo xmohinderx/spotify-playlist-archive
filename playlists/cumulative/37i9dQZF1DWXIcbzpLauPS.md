@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Ice Nine Kills
+> This is the new Core at its finest\. Cover: Parkway Drive
 
-586 songs - 1 day 12 hr 55 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+589 songs - 1 day 13 hr 7 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 | 2021-12-17 | 2022-01-22 |
 | [Bury My Flame](https://open.spotify.com/track/1kRguNpOF4WiqJBn732Rvx) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Bury My Flame](https://open.spotify.com/album/2xbuGSzEAtxnR8mv2lci00) | 3:40 | 2022-02-11 | 2022-05-06 |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2022-07-08 |
-| [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 | 2022-05-13 |  |
+| [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 | 2022-05-13 | 2022-10-22 |
 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-01-14 | 2022-07-23 |
 | [Careless Offering](https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Heavy Pendulum](https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t) | 4:55 | 2022-05-20 | 2022-08-20 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
@@ -185,7 +185,7 @@
 | [Earthless](https://open.spotify.com/track/6wfsGSh10ij43EgcEXjpZK) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Earthless](https://open.spotify.com/album/3AfOJfWXUeMc9QUl1vtPpQ) | 4:57 | 2022-07-13 | 2022-07-20 |
 | [Earthquake](https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Earthquake](https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1) | 3:49 | 2021-12-17 | 2022-01-08 |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2021-12-17 | 2022-07-23 |
-| [Eden Will Drown](https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Eden Will Drown](https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR) | 3:12 | 2022-07-22 |  |
+| [Eden Will Drown](https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Eden Will Drown](https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR) | 3:12 | 2022-07-22 | 2022-10-22 |
 | [Emerald](https://open.spotify.com/track/6M6uFcep2f8DhHz4RNoBvJ) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe) | [Emerald](https://open.spotify.com/album/0Ikr6a0Sd5SUazxtxsVNJ8) | 4:45 | 2022-07-13 | 2022-07-19 |
 | [Empress](https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Empress](https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM) | 3:53 | 2022-07-13 | 2022-07-23 |
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2022-07-13 | 2022-07-23 |
@@ -238,6 +238,7 @@
 | [Ghost](https://open.spotify.com/track/0PPsOAF1loXe5o17JF8ijC) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Ghost](https://open.spotify.com/album/2extIZQBxGjeP7pmrcvlYK) | 3:24 | 2022-01-07 | 2022-07-23 |
 | [Gimme Danger](https://open.spotify.com/track/2MPcAxH9maeDEbMmLAp51U) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Gimme Danger](https://open.spotify.com/album/2LpCKo4rOxtQcVvPg42bc1) | 3:25 | 2022-02-11 | 2022-05-14 |
 | [Give Up The Ghost](https://open.spotify.com/track/579m9YJsOMXEukNFvESTQ8) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Give Up The Ghost](https://open.spotify.com/album/4iv9PO9UCHeO7ciQ2wpQFQ) | 4:04 | 2022-07-13 | 2022-07-23 |
+| [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 | 2022-10-21 |  |
 | [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-07-13 | 2022-07-23 |
 | [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-07-13 | 2022-07-21 |
 | [Going Down](https://open.spotify.com/track/43GhjzAAnwmYtbOBqAjpb3) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Overdrive](https://open.spotify.com/album/2FMleFsxXqydAJMgf01680) | 3:59 | 2022-03-18 | 2022-05-21 |
@@ -362,6 +363,7 @@
 | [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-07-13 | 2022-07-23 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-07-13 | 2022-07-23 |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |
+| [No Heaven](https://open.spotify.com/track/5nxZSkMS7VpbjEHaCQ39a1) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [No Heaven](https://open.spotify.com/album/3UDy59MHq2lMzX04LeH6qa) | 3:24 | 2022-10-21 |  |
 | [NO HELP](https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [NO HELP](https://open.spotify.com/album/65SYISbipzVUmmoeAzsYtP) | 2:53 | 2022-04-15 | 2022-05-21 |
 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 | 2022-07-08 |  |
 | [No King Rules Forever](https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [No King Rules Forever](https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI) | 3:12 | 2022-06-17 | 2022-10-06 |
@@ -421,6 +423,7 @@
 | [Reflection, Pt\. 3](https://open.spotify.com/track/3kQZMbUfSuqPBPYNQyvVB4) | [Everyone Dies In Utah](https://open.spotify.com/artist/774W1e3IymmIaynDaDxBcK) | [Infra](https://open.spotify.com/album/46bHWBn1dMabwh2VkNz6ck) | 3:12 | 2021-12-17 | 2022-02-11 |
 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 | 2022-07-08 |  |
 | [Reflections of a Monster](https://open.spotify.com/track/271q2bXjvyjZCL7wiTQXVk) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Reflections of a Monster](https://open.spotify.com/album/6ZPFa0dwjstnXkroKXM16j) | 3:59 | 2022-07-13 | 2022-07-15 |
+| [Remember East Mercer](https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8) | [Vatic](https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS) | [Mercer 217](https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88) | 3:51 | 2022-10-21 |  |
 | [Remember Me](https://open.spotify.com/track/0ikvtIegu5Yh9vOOhCkc5L) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Remember Me](https://open.spotify.com/album/5I3SxQcAEwoiiE6GQw2Ngz) | 3:30 | 2022-07-13 | 2022-07-23 |
 | [Remnants in Time](https://open.spotify.com/track/5HlLaivd9yiou56KJFnkHz) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Remnants in Time](https://open.spotify.com/album/6FdfWezc4GtIKEXuEkHM7b) | 4:53 | 2022-07-13 | 2022-07-23 |
 | [Renegades](https://open.spotify.com/track/0tm8cNgXGRRwPur5q8qdUg) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Renegades](https://open.spotify.com/album/6CK1Dz5AfmgecgPtPyoaKL) | 3:42 | 2022-03-18 | 2022-05-21 |
@@ -576,7 +579,7 @@
 | [When a Demon Defiles a Witch](https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [When a Demon Defiles a Witch](https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I) | 4:44 | 2022-07-13 | 2022-07-22 |
 | [When The World Awakens](https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [When The World Awakens](https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4) | 3:17 | 2022-03-11 | 2022-04-09 |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2022-07-13 | 2022-07-23 |
-| [White Eyes](https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [White Eyes](https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo) | 3:36 | 2022-06-24 |  |
+| [White Eyes](https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [White Eyes](https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo) | 3:36 | 2022-06-24 | 2022-10-22 |
 | [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-10-05 |
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 |  |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |

@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-149 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+150 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2022-01-27 | 2022-10-17 |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-01-27 |  |
 | [doomsday](https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 4:28 | 2022-01-27 | 2022-10-13 |
+| [Downpour](https://open.spotify.com/track/7ssmctXdiUbOhVqCDdh6Ew) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Downpour](https://open.spotify.com/album/1tSRjNT3dwEEJMHrCPEJ8U) | 2:48 | 2022-10-21 |  |
 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 | 2019-10-31 |  |
 | [Fallen Sun](https://open.spotify.com/track/4wD5HiZkwbGdRtOa2qIBrP) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Flux](https://open.spotify.com/album/24Dcgq0R40uF5RcbsYuCr2) | 4:00 | 2019-10-31 | 2022-07-29 |
 | [Fallen Sun](https://open.spotify.com/track/5aQVQrIvs7zguPTuKGMrJx) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Flux](https://open.spotify.com/album/6rQDSlmYVHbdFl3gafwYVQ) | 4:00 | 2022-01-27 |  |

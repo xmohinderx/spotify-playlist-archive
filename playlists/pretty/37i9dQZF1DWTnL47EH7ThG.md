@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,414 likes - 236 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,446 likes - 236 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,7 +205,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 195 | [Wiyah Waist](https://open.spotify.com/track/1io0sau30e7jFHedDnf8CS) | [Bush Tea](https://open.spotify.com/artist/0NFPPv9zHrgnTq2fKqXvSw) | [Wiyah Waist](https://open.spotify.com/album/1Y9UBb9hafCHNNLRlARTmg) | 2:45 |
 | 196 | [Gas](https://open.spotify.com/track/3EvAsPrTHVOSprXYaGtEKR) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Gas](https://open.spotify.com/album/1HbaEh0DD4xMxOhlTyXkRN) | 2:28 |
 | 197 | [Encerrada](https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Encerrada](https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s) | 3:03 |
-| 198 | [Robyn](https://open.spotify.com/track/40BvDslaoDBzqKjexjlFXr) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1KA0TZkPZSbi8COxiZGxkO) | 5:30 |
+| 198 | [Robyn](https://open.spotify.com/track/2QUXnZuZYqc5RAgSJILpb6) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1UYhf9jWeeOuEpwt2VjwUP) | 5:30 |
 | 199 | [Allude](https://open.spotify.com/track/2z6a3MLNATHbLvlRNjDksC) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl), [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Allude](https://open.spotify.com/album/1PexHvyN3m7qT0WkK9jWKH) | 6:42 |
 | 200 | [Twenty One Highs](https://open.spotify.com/track/6nKDTCPUW8kNS5JKGyplvp) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl), [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Twenty One Highs](https://open.spotify.com/album/6COO2wsOM3hmLl23M0AF3b) | 5:25 |
 | 201 | [F\*ck Me & Feed Me](https://open.spotify.com/track/5XsOabntixaKUgvZT5ZzBO) | [Rendezvous At Two](https://open.spotify.com/artist/2EcDZA7LVlXzUhOqYzhNGK) | [Secrets](https://open.spotify.com/album/4q9ukTeKukc10QxxaJxtWu) | 3:28 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 235 | [chuu](https://open.spotify.com/track/6cLURLxklSLSHLFVIdsxIl) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [this is no longer a dream](https://open.spotify.com/album/4GBfihSelwvWO2jpJyqRsL) | 4:13 |
 | 236 | [undulations](https://open.spotify.com/track/2BQd1XaRUqANb211A2PWBz) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [this is no longer a dream](https://open.spotify.com/album/4GBfihSelwvWO2jpJyqRsL) | 3:16 |
 
-Snapshot ID: `MTY1ODE3MTM1MywwMDAwMDAwMGZiM2FjZWIxMmI1MTQwMzI3MDQ5YTMzM2JjYTVjYTQw`
+Snapshot ID: `MTY1ODE3MTM1MywwMDAwMDAwMGRhYjgxYmFiOTc3M2M1MjNhMjg4OTczOTI3MWJiMTky`

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,765 songs - 4 day 6 hr 11 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,767 songs - 4 day 6 hr 17 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,7 @@
 | [Head's In the Roses](https://open.spotify.com/track/7cUd9jKNcrEzFc6XCdyWLW) | [Jessica Wilde](https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij) | [Head's In the Roses](https://open.spotify.com/album/7sA606v1aM7SvInD8V1ZFe) | 3:12 | 2022-02-27 | 2022-03-17 |
 | [headlock](https://open.spotify.com/track/2De6veIofosyfUlx3HdNV0) | [Marshall](https://open.spotify.com/artist/6nrEtBorzQn3FbVHWJAMNS), [Lindsey Ray](https://open.spotify.com/artist/2qkGoWlOdUyYI4L2AqnASY) | [headlock](https://open.spotify.com/album/0A2M1sznVUU9UxKIEueFmH) | 3:22 | 2022-02-18 | 2022-03-07 |
 | [Heart Breaker](https://open.spotify.com/track/213LP7YIi0KpRkBYXQJRfs) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Heart Breaker](https://open.spotify.com/album/7mFHMPuInS5xSdI44ysXaG) | 3:06 | 2021-05-08 | 2021-05-23 |
-| [Hearts Glow](https://open.spotify.com/track/5WTMX9n4cVK7UUPFrn4Q2h) | [Paul Supreme](https://open.spotify.com/artist/03uFiueCmkImPUuHgPgrLZ) | [Hearts Glow](https://open.spotify.com/album/0BHPome5lPyvxfoUqavygd) | 2:54 | 2022-10-07 |  |
+| [Hearts Glow](https://open.spotify.com/track/5WTMX9n4cVK7UUPFrn4Q2h) | [Paul Supreme](https://open.spotify.com/artist/19QnnpOzGSZaIPoFQ2rmVP) | [Hearts Glow](https://open.spotify.com/album/0BHPome5lPyvxfoUqavygd) | 2:54 | 2022-10-07 |  |
 | [Heat](https://open.spotify.com/track/4OiapUuMeahMB05oDt5Sn0) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Heat](https://open.spotify.com/album/0cpv2QhabsuvPisUlfMjpS) | 3:02 | 2022-03-18 | 2022-04-05 |
 | [Heatwave](https://open.spotify.com/track/1JngBtpUOVLqCo7pVijWv4) | [Moose & the Elephant](https://open.spotify.com/artist/5l3X1SeI5T3U2bLCY1JSjP) | [Heatwave](https://open.spotify.com/album/1ISazG8ePoEajdyHij4rRU) | 3:59 | 2021-07-10 | 2021-07-25 |
 | [Heaven, Torture](https://open.spotify.com/track/3lQ8xyTTQcinB8Tm4QGZsV) | [Rip Brothers](https://open.spotify.com/artist/0P3yl68vWG2HBjLylkesLH), [Talia Raquel](https://open.spotify.com/artist/09t9NVHJ4QniNJg1iVctBj) | [Heaven, Torture](https://open.spotify.com/album/3TugiMIfi5b6QD5cCwX86e) | 2:45 | 2022-08-26 | 2022-09-12 |
@@ -971,6 +971,7 @@
 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 | 2022-02-25 | 2022-03-17 |
 | [Magic](https://open.spotify.com/track/0lr51NomFfWi1X6PxZmZSx) | [Jessica Manalo](https://open.spotify.com/artist/2NTeuat88PLcG0BEn1qIg6) | [Magic](https://open.spotify.com/album/6tAJXN6MwirohmRjPqaldV) | 4:44 | 2021-10-29 | 2021-11-14 |
 | [MAGIC](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-07-26 |  |
+| [Magic Spell](https://open.spotify.com/track/4YPvRGHrTYl9KsJU7dO1Kz) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Introducing… The Mellons!](https://open.spotify.com/album/0yEL6rEcdxIevWopi05S0Q) | 3:29 | 2022-10-21 |  |
 | [Make Believe](https://open.spotify.com/track/7JRC1lXT3fdZUCcgKu71pG) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Koonsi](https://open.spotify.com/artist/7iWrvuCq6O8ovVULhP14Ak) | [Make Believe](https://open.spotify.com/album/4BuqGZDPiGWAmMwp2BHfME) | 3:36 | 2019-12-10 | 2019-12-17 |
 | [Make It Up To You](https://open.spotify.com/track/6sPlg3PxPiIq9wT1EwMmIu) | [Pierce Alexander](https://open.spotify.com/artist/3zgldFCs3j64BKQzn8qfYx) | [The Minutehand](https://open.spotify.com/album/7mrbrO8aP4dVJN4X0H1TDt) | 3:17 | 2022-03-18 | 2022-04-05 |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2021-08-28 | 2021-09-11 |
@@ -1371,6 +1372,7 @@
 | [Skull Cup](https://open.spotify.com/track/2YfNgAiHIBrYqu8plFclq6) | [Dr\. Apeman](https://open.spotify.com/artist/4QKhseyZBnZgBDGhl2yydH) | [Silk Road](https://open.spotify.com/album/2FJdRWMCsR2jAme7ms9v3a) | 2:25 | 2020-04-14 | 2020-04-22 |
 | [Sky's in View](https://open.spotify.com/track/0cWNKUhFHaBpEsCymJo6e3) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Sky's in View](https://open.spotify.com/album/4DJDKcqroJC6nOhOWWZ7Yb) | 2:56 | 2020-05-09 | 2020-05-24 |
 | [Sleeping Dragon](https://open.spotify.com/track/0pbcUYlFRPImubzedyHL76) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Sleeping Dragon](https://open.spotify.com/album/7KWnnxbOjbHiT9ufkbMTL0) | 3:13 | 2020-04-12 | 2020-04-22 |
+| [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 | 2022-10-21 |  |
 | [Slow Motion](https://open.spotify.com/track/7h9KgsNvOuc6lj8zi0Zxly) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Slow Motion](https://open.spotify.com/album/1mk03tqEaU2aa8yYy4bJh1) | 3:10 | 2022-09-30 | 2022-10-18 |
 | [Slow Ryde](https://open.spotify.com/track/7jVrhKpF6izCOg3FMtBhRA) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [Slow Ryde](https://open.spotify.com/album/7aM4ghgSftw3RxN4PlDEld) | 3:22 | 2021-12-07 | 2022-09-09 |
 | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/track/3Rp8FNCr3yxM3fGFy99LN8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/album/0QzHIYIoMCUnCKwHqZOmqs) | 4:11 | 2020-08-20 |  |

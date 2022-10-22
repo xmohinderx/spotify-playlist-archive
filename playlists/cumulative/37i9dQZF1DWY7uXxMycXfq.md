@@ -4,11 +4,12 @@
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-99 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
+100 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Star Without Guidance](https://open.spotify.com/track/41DqBlrzmldPvR7Cg3f39A) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Unabled Form](https://open.spotify.com/album/7D4A2BboC3hbBQvWUxoboa) | 2:49 | 2021-06-30 |  |
+| [A Star Without Guidance](https://open.spotify.com/track/19Signu1EsxSA6FI62yas5) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Unabled Form](https://open.spotify.com/album/2foj1eMmOt3TQ9dyhz1qcQ) | 2:49 | 2021-06-30 |  |
+| [A Star Without Guidance](https://open.spotify.com/track/41DqBlrzmldPvR7Cg3f39A) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Unabled Form](https://open.spotify.com/album/7D4A2BboC3hbBQvWUxoboa) | 2:49 | 2021-06-30 | 2022-10-22 |
 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 | 2021-06-30 |  |
 | [And The Flower Have Time For Me](https://open.spotify.com/track/79esiu48acT9OaALUpQfWG) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Limpid As The Solitudes](https://open.spotify.com/album/45iHfoJPEQlkqAwDGRMANF) | 5:42 | 2021-06-30 |  |
 | [Anima](https://open.spotify.com/track/2FiIFCgyFFaWgRyVxSYF58) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Untold](https://open.spotify.com/album/1akzYkFDJyJ4788sSFKmkN) | 3:49 | 2021-06-30 |  |

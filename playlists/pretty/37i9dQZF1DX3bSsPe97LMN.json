@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 44808,
+  "num_followers": 44844,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDM4ZmYwY2IyOGFlODAyZjU4M2U5MjI3OTA1YzhmYjc3",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDFlMDk4NzJiMWY2ZjBjZjE4ZTZiZmMzYzI0YjU4ODg2",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "Carritos de palo",
+        "url": "https://open.spotify.com/album/2w7jyhClchHj6hE6Wgve4E"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Carritos de palo",
+      "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "Salud Por Eso",
         "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Carritos de palo",
-        "url": "https://open.spotify.com/album/2w7jyhClchHj6hE6Wgve4E"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        }
-      ],
-      "duration_ms": 167626,
-      "name": "Carritos de palo",
-      "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Vuela y Vuela",
         "url": "https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 181141,
       "name": "Vuela y Vuela",
       "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "A Ti S\u00ed Te Quer\u00eda",
+        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 179875,
+      "name": "A Ti S\u00ed Te Quer\u00eda",
+      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -591,22 +607,6 @@
       "duration_ms": 157542,
       "name": "Se Chambiar",
       "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "A Ti S\u00ed Te Quer\u00eda",
-        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 179875,
-      "name": "A Ti S\u00ed Te Quer\u00eda",
-      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "Tres Veces Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "2 vidas",
         "url": "https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 211018,
       "name": "2 vidas",
       "url": "https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Tres Veces Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Tres Veces Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
-    },
-    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "No S\u00e9 Que Tengas",
@@ -815,6 +799,22 @@
       "duration_ms": 187824,
       "name": "No S\u00e9 Que Tengas",
       "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1077,38 +1077,6 @@
       "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "De Eso Se Trata",
-        "url": "https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 208919,
-      "name": "De Eso Se Trata",
-      "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "A LO MEXA",
-        "url": "https://open.spotify.com/album/2HcE7v275MEIzkURdbqfle"
-      },
-      "artists": [
-        {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "A Lo Mexa",
-      "url": "https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Bajo la Lluv\u00eda",
@@ -1127,6 +1095,38 @@
       "duration_ms": 154017,
       "name": "Bajo la Lluv\u00eda",
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Empoderada",
+        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Empoderada",
+      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "A LO MEXA",
+        "url": "https://open.spotify.com/album/2HcE7v275MEIzkURdbqfle"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "A Lo Mexa",
+      "url": "https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/34IPKpDvkxraMK2roBo2O7"
     },
     {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "De Eso Se Trata",
+        "url": "https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 208919,
+      "name": "De Eso Se Trata",
+      "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
+    },
+    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Extra\u00f1o Tus Besos",
@@ -1251,22 +1267,6 @@
       "duration_ms": 228759,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/1Txo3IXtfQa8okVkZU3okI"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Empoderada",
-        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Empoderada",
-      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
     },
     {
       "added_at": "2022-10-07 15:36:37",

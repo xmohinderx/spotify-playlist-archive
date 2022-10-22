@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\.  Cover: Dolly Parton
 
-152 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
+153 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/6SvzJUQd3FnuOJI1KWl9hq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:39 | 2021-12-16 |  |
 | [Dear Santa](https://open.spotify.com/track/1ebvQ0gMIo3s5ABZYx642C) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Winter Wonderland](https://open.spotify.com/album/50d9xj5JPMSlRCupHK2IxK) | 3:46 | 2021-12-16 |  |
 | [Deck The Halls](https://open.spotify.com/track/5pSlcPAnIWgKyAJNZivoO8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Classic Christmas](https://open.spotify.com/album/59uaoonibMpTiQfdn50y3k) | 1:59 | 2021-12-16 |  |
+| [Do You Hear What I Hear?](https://open.spotify.com/track/2v94C40orSbaitYQMRzdrB) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Jimmy Murphy](https://open.spotify.com/artist/7g1izbn8iAcoFzdDztqYZd), [Aliyah Good](https://open.spotify.com/artist/77mE2eFDQGBngt9hpFQFIm), [Melissa Murphey](https://open.spotify.com/artist/5uWsCgm2lHUxQ893D9Do6i) | [Spirit & Joy](https://open.spotify.com/album/384XmHwLaPIgg1KePxcaoV) | 4:13 | 2022-10-21 |  |
 | [Feliz Navidad](https://open.spotify.com/track/1qMWonHWe4EnzC2tSL7LVm) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Christmas](https://open.spotify.com/album/0BTkwI7ASnX64BA6iRtCCY) | 2:36 | 2021-12-16 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/13RYJj0NlD9OSHhXnStQE6) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Strait To You](https://open.spotify.com/album/5TNDl5mXm4qippqOM7q169) | 2:18 | 2021-12-16 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/4pj6peRA5nWzcDP6lSW4Gg) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 3:02 | 2021-12-16 |  |

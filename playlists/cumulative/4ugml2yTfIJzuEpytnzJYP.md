@@ -4,7 +4,7 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-180 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+181 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Gone'd Off That Ooee \- Vide & EAZYBAKED Remix](https://open.spotify.com/track/4cjLj63HqtAx775vqM0TJ2) | [Bricksquash](https://open.spotify.com/artist/2p86MlyUomQNCpi3vfPGYM), [Vide](https://open.spotify.com/artist/2zuL2fhF4xRzyCikWcmlea), [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Skreet Force One / Re\-Bricked](https://open.spotify.com/album/4nBogeQ6jJMYwKilTxZ2lp) | 3:41 | 2022-02-11 | 2022-04-16 |
 | [Grail](https://open.spotify.com/track/3zlSU3Z3jkbV4fpdWV4f3s) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Different Worlds](https://open.spotify.com/album/5GGo4YuhLGlGpLTMVSkrVl) | 3:33 | 2021-10-23 | 2022-04-16 |
 | [Grinding \- Mystic State Remix](https://open.spotify.com/track/1DkjUb6h8jdCwrENYVNsKl) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Grinding Ft\. High Tara \(Mystic State Remix\)](https://open.spotify.com/album/4cR5yskx7CPSGRGcz8BvJU) | 4:55 | 2022-10-14 |  |
+| [Grinding \- Nahlith Remix](https://open.spotify.com/track/5A7VhhhPFPC3xlGixoyunc) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Grinding Ft\. High Tara \(Nahlith Remix\)](https://open.spotify.com/album/3akEukoxSyKPt7JVjQMzgS) | 4:12 | 2022-10-21 |  |
 | [Grinding Ft\. High Tara](https://open.spotify.com/track/4IPxS7dJ0SA53mtPFsLp9Y) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [High Tara](https://open.spotify.com/artist/3AY3TKMf77gAK03Y2yPlOI) | [Grinding Ft\. High Tara](https://open.spotify.com/album/252OND8QbuRLZHoLs3FWVa) | 3:53 | 2022-08-05 | 2022-10-15 |
 | [Growth](https://open.spotify.com/track/0lAkiJWqxmKPUKnoxDkxMY) | [UNKNWN](https://open.spotify.com/artist/5wZEqM64b8lzsEvDTPclv9) | [Growth](https://open.spotify.com/album/0n9dmrg2RZ3k28kPWjSDOh) | 2:10 | 2021-09-17 | 2022-04-16 |
 | [Guilty \- Kid Drama Remix](https://open.spotify.com/track/3E3BxEaJub80EI97LeJNHt) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4) | [Taygeta Code Remixes, Pt\. 2](https://open.spotify.com/album/40VS5gb1v9lAZZ6lBNqDaV) | 6:07 | 2021-12-08 | 2022-04-16 |

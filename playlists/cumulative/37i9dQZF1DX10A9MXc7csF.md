@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Estilo Sin Limite
 
-234 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+235 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Maldito Olvido](https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Reflejo Nuevo](https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9) | [Maldito Olvido](https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS) | 3:34 | 2022-05-14 | 2022-08-27 |
 | [Manny Flores](https://open.spotify.com/track/23hHl7ujNhCXKirOUhPPTm) | [Nuevo Regimiento](https://open.spotify.com/artist/2dYOoYpVWymc4PTl1KR5o6) | [Manny Flores](https://open.spotify.com/album/13adeP5WP72vXLkntMJMbj) | 3:34 | 2022-06-10 | 2022-09-09 |
 | [Maravillosa](https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Temporadas Emocionales](https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ) | 4:07 | 2022-07-01 | 2022-09-09 |
-| [Mas Cabrona Que Bonita](https://open.spotify.com/track/47qaLsUxBVX56IgAV2fn6F) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX) | [Mas Cabrona Que Bonita](https://open.spotify.com/album/75SGWux31wssycipYiYvmP) | 2:24 | 2022-09-09 |  |
+| [Mas Cabrona Que Bonita](https://open.spotify.com/track/47qaLsUxBVX56IgAV2fn6F) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX) | [Mas Cabrona Que Bonita](https://open.spotify.com/album/75SGWux31wssycipYiYvmP) | 2:24 | 2022-09-09 | 2022-10-22 |
+| [Mas Cabrona Que Bonita](https://open.spotify.com/track/4x40dx1jX4QjuUsIJUrqCX) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX) | [Mas Cabrona Que Bonita](https://open.spotify.com/album/6kZEj6Kq8uCWXTcBxJD9yN) | 2:24 | 2022-10-14 |  |
 | [Me Apodan El Chino](https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r) | [Christian Ramos Jr](https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE) | [Me Apodan El Chino](https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1) | 3:40 | 2022-05-14 | 2022-09-09 |
 | [Me Cansé](https://open.spotify.com/track/3H5l8J3Jqxjz17l5T3r1hI) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Me Cansé](https://open.spotify.com/album/7nVUBzcGrEISaNM2iHGwr7) | 5:01 | 2022-05-14 | 2022-09-09 |
 | [Me Dicen El Flako](https://open.spotify.com/track/5hDF2fwSXqYs6IHn0AfDbr) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Me Dicen El Flako](https://open.spotify.com/album/38QIc89fCIfpoO54hRTk7U) | 3:26 | 2022-09-09 |  |

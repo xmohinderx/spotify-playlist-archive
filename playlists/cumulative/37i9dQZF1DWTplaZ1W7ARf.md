@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-144 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+145 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [GRATEFUL \(feat\. Vory\)](https://open.spotify.com/track/0MdtZDKBvzwKbc9slla0zJ) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:07 | 2022-08-26 |  |
 | [Heart & Soul](https://open.spotify.com/track/0PFgeiQORt3eqq5OX7BxCc) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [From The Bayou](https://open.spotify.com/album/2oyN9nzl627l8ZeovPo46F) | 3:49 | 2021-12-10 | 2022-08-06 |
 | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI) | 6:30 | 2022-10-14 |  |
-| [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-09 |  |
+| [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 | 2022-09-09 |  |
+| [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-09 | 2022-10-22 |
 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 | 2022-02-18 | 2022-08-20 |
 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 | 2022-08-05 |  |
 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 | 2022-05-20 |  |

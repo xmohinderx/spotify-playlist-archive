@@ -4,7 +4,7 @@
 
 > Timeless Latin hits, solo tus favoritos!
 
-363 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
+364 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [De Repente](https://open.spotify.com/track/23oAy1Q2MqmvU4BcWcHkxv) | [Soraya](https://open.spotify.com/artist/5enSNzCwMx61gCMv9jaV4Q) | [Perfiles](https://open.spotify.com/album/6hSsNO9gohxLMCnbrl8Cxu) | 4:05 | 2021-12-09 | 2022-07-29 |
 | [De Venus](https://open.spotify.com/track/4TMUz1cGSMEJm9z2XOOo15) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 3:40 | 2022-01-01 | 2022-06-22 |
 | [Deja Que Te Bese](https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deja Que Te Bese](https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4) | 4:04 | 2022-01-01 | 2022-07-21 |
+| [Deja vu](https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:16 | 2022-08-31 |  |
 | [Dejaría Todo](https://open.spotify.com/track/7cKDTgEOfhG4v6R8HngRrP) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:42 | 2021-12-09 | 2022-07-29 |
 | [Desconocidos](https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Desconocidos](https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ) | 3:24 | 2022-06-27 | 2022-07-13 |
 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 | 2021-12-09 | 2022-07-01 |
@@ -258,7 +259,7 @@
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 | 2022-06-27 |  |
 | [Piérdeme el Respeto \- En Vivo \[Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/2TBFZLEkyvGMBn4FxbkQ6b) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\)\[Centro Cultural Roberto Cantoral\]](https://open.spotify.com/album/1rLfMjG1S9l9zaOoZ62COV) | 3:39 | 2022-01-01 | 2022-06-05 |
 | [Por Amarte](https://open.spotify.com/track/4AQZNgdG73f2ZdC6VUZqBL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl) | 4:01 | 2021-12-09 | 2022-07-29 |
-| [Por Amarte Así](https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 4:32 | 2021-12-09 |  |
+| [Por Amarte Así](https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 4:32 | 2021-12-09 | 2022-10-22 |
 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 | 2022-02-03 | 2022-07-25 |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:04 | 2021-12-09 | 2022-07-29 |
 | [Por Fin Te Encontré](https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Por Fin Te Encontré](https://open.spotify.com/album/6waZU5OJmLrEJqUvy4Zytm) | 4:10 | 2022-06-27 |  |

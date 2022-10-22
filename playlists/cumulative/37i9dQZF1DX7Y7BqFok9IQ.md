@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Anthony Gomes
 
-126 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+127 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Be Your Own Invention](https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s) | [Henry's Funeral Shoe](https://open.spotify.com/artist/3KTPs5Fok7A2VrDWNBlr4f) | [Donkey Jacket](https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI) | 5:18 | 2020-10-16 |  |
 | [Between Me and the Devil](https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Between Me and the Devil](https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z) | 3:08 | 2021-06-11 | 2022-07-29 |
 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 |  |
+| [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 | 2022-10-21 |  |
 | [Blinded](https://open.spotify.com/track/027LnYtc3AvNAtEPVljiRB) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Blinded](https://open.spotify.com/album/5UR9aMOqwtsE6usHfRxMsW) | 2:50 | 2021-10-08 | 2022-07-27 |
 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-10-16 |  |
 | [Boom Boom Boom](https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Chasing Lights](https://open.spotify.com/album/2r4tgvfY6ypsADN4Ptu5Fw) | 3:10 | 2020-10-16 | 2022-07-28 |
@@ -63,7 +64,7 @@
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-04-30 | 2022-07-29 |
 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 | 2021-04-30 |  |
 | [Keep Up](https://open.spotify.com/track/6eUXiwxjHI3RblcwckJ7Qq) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Keep Up](https://open.spotify.com/album/5kNJLJiLAEMMq8b909JBsY) | 3:32 | 2021-03-19 | 2022-08-05 |
-| [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 | 2022-06-24 |  |
+| [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 | 2022-06-24 | 2022-10-22 |
 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 | 2022-07-29 |  |
 | [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 | 2022-07-16 |
 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 | 2022-10-14 |  |

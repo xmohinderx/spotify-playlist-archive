@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Buddy Guy
+> The best in blues right now\. Cover: Joe Louis Walker
 
-233 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+234 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-03-19 | 2022-04-23 |
 | [The Pleasure's All Mine](https://open.spotify.com/track/7aMpVz4aI7m7qTaBz1tuW2) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Pleasure's All Mine](https://open.spotify.com/album/2eU1uCapVBdvZ2OHIFKgqu) | 3:43 | 2020-12-14 | 2022-02-26 |
 | [The Razor's Edge](https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [The Razor's Edge](https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn) | 3:02 | 2022-03-25 | 2022-05-28 |
+| [The Weight of the World](https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [The Weight of the World](https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9) | 4:25 | 2022-10-21 |  |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2020-12-14 | 2022-02-26 |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-10-15 |  |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2020-12-14 | 2022-02-26 |

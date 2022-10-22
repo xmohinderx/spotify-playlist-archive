@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 817744,
+  "num_followers": 818241,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMDAxZjgwNjQ4ODJmMzU0ZTI0ODdjYzZkNDBkYjlhOGJi",
+  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMGU0MzUxMDc0ZjkxYmZjODI1Yzg2ODFkZTk2YWZjODBj",
   "tracks": [
     {
       "added_at": "2022-09-30 14:30:48",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Disco Essentials",
         "url": "https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 241906,
       "name": "Get Down Saturday Night",
       "url": "https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "What Goes Around...Comes Around",
+        "url": "https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "What Goes Around...Comes Around - Radio Edit",
+      "url": "https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -987,38 +1003,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "What Goes Around...Comes Around",
-        "url": "https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "What Goes Around...Comes Around - Radio Edit",
-      "url": "https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 246757,
-      "name": "Video",
-      "url": "https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 246757,
+      "name": "Video",
+      "url": "https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Got 'Til It's Gone",
+      "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Sunrise European Single",
         "url": "https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP"
       },
@@ -1279,30 +1303,6 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Got 'Til It's Gone",
-      "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Toothache / Zoom",
-        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
-      },
-      "artists": [
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Toothache",
-      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "A Night to Remember",
         "url": "https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 211253,
       "name": "A Night to Remember - Single Version",
       "url": "https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Toothache / Zoom",
+        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
+      },
+      "artists": [
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 175309,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Much Love",
+        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
+      },
+      "artists": [
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
       },
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 196484,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 196484,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Limbo/Lagune",
         "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 190903,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Much Love",
-        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
-      },
-      "artists": [
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "You Might Need Somebody",
-      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+        "name": "Letters of Irrelevance",
+        "url": "https://open.spotify.com/album/3KwPkAnQNxvO80FLhvaH9h"
       },
       "artists": [
         {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+          "name": "Patrick Paige II",
+          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
         }
       ],
-      "duration_ms": 209090,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
+      "duration_ms": 221787,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3oCwuhp1k10uK25z3U2LFb"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Letters of Irrelevance",
-        "url": "https://open.spotify.com/album/3KwPkAnQNxvO80FLhvaH9h"
-      },
-      "artists": [
-        {
-          "name": "Patrick Paige II",
-          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
-        }
-      ],
-      "duration_ms": 221787,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3oCwuhp1k10uK25z3U2LFb"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Tender Rose",
         "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 202938,
       "name": "Tender Rose",
       "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Rahsaan Patterson",
         "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 272360,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Love In Synthesis",
-        "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
-      },
-      "artists": [
-        {
-          "name": "MMYYKK",
-          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Soulmate (Heartstrings)",
-      "url": "https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Take Me To The Alley",
         "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 254893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Love In Synthesis",
+        "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
+      },
+      "artists": [
+        {
+          "name": "MMYYKK",
+          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Soulmate (Heartstrings)",
+      "url": "https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "You Ain't The Problem",
-        "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "You Ain't The Problem",
-      "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "A Weird Kinda Wonderful",
         "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 311453,
       "name": "Can't Change Me",
       "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "You Ain't The Problem",
+        "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "You Ain't The Problem",
+      "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2523,26 +2523,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Pass Time",
-        "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 219963,
-      "name": "Pass Time",
-      "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Questions",
         "url": "https://open.spotify.com/album/0UyQpKX2zrfifx4pfWYwm0"
       },
@@ -2567,6 +2547,26 @@
       "duration_ms": 207293,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1Rd3q29I4tEwQKQudWh0Jd"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Pass Time",
+        "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Pass Time",
+      "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
     }
   ],
   "unique_name": "Kitchen Swagger",

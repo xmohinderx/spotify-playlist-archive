@@ -4,7 +4,7 @@
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-133 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+134 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Groovers Prayer](https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4O8DBlsMzrukb209docL0j) | 5:41 | 2020-03-16 |  |
 | [Heavenly Sent](https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/1IRqLL1Bsaz158w1DkqpwJ) | 6:27 | 2019-02-03 |  |
 | [Heavenly Sent](https://open.spotify.com/track/1NXVk9diMIkX1ixmAR5itp) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/2kpVZngXLffWpxHE6qIIpV) | 6:27 | 2019-02-03 | 2022-07-29 |
-| [Hey Kop](https://open.spotify.com/track/1VQsFRvJde95Wtkp3rk4yf) | [M'du](https://open.spotify.com/artist/0AfJczz6uFcaUSSSCVv6qT) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:29 | 2019-02-03 |  |
+| [Hey Kop](https://open.spotify.com/track/1VQsFRvJde95Wtkp3rk4yf) | [M'du](https://open.spotify.com/artist/0AfJczz6uFcaUSSSCVv6qT) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:29 | 2019-02-03 | 2022-10-22 |
 | [Hey Kop](https://open.spotify.com/track/4eSwGleUIHfVrVWxYsokdh) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Hey Kop](https://open.spotify.com/album/0Lv870EFecsFjyGbH9oHKd) | 5:32 | 2019-02-03 | 2022-07-29 |
 | [Homeless \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 3:48 | 2019-03-07 |  |
 | [Hossanna](https://open.spotify.com/track/2a1jKvDS7F0TRhgVjUYhXJ) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [A New Myth](https://open.spotify.com/album/2jkYzhyw4uSLhaeUKwrFGT) | 5:59 | 2019-02-12 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [Something Wrong](https://open.spotify.com/track/4os1fxyaKBOWDQ2SeooYos) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Never ever ever ever](https://open.spotify.com/album/4BNqUvWF2qPG3eC8oYqm6y) | 3:51 | 2019-06-12 | 2022-07-20 |
 | [Special Star](https://open.spotify.com/track/3XfCNErb6OHi9N0I9yZo1V) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/7LFni1AYMo1A57EOOtCH2v) | 5:53 | 2018-09-23 | 2022-05-27 |
 | [Special Star](https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3) | 5:53 | 2018-09-23 | 2022-10-15 |
+| [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 | 2018-09-23 |  |
 | [Stimela SaseZola](https://open.spotify.com/track/1Vbc4UsmKC29bVYGqAsnd2) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/3y0ixLWaRNxVUhT1YFOCNR) | 5:10 | 2018-09-23 | 2022-10-15 |
 | [Stimela Sasezola](https://open.spotify.com/track/26UCZAfUYfAsE25ls7gS1m) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/3uuvZpYJEHZIiAgE3E51AI) | 5:10 | 2018-09-23 | 2022-09-26 |
 | [Stimela Sasezola](https://open.spotify.com/track/68O06gQtUDGaFl3PDqRaf2) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/0cr8APEEsGPL0rDCj48Grc) | 5:10 | 2018-09-23 | 2022-07-29 |

@@ -4,14 +4,15 @@
 
 > Pacific Northwest music breaking waves\. Cover, Black Tones
 
-348 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
+349 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(m\)alice](https://open.spotify.com/track/2vUHiWmQ3Ce1PsrgRKAKSN) | [Seiji](https://open.spotify.com/artist/7h8BjWoH0TC1Zf2HwAmdEe) | [\(m\)alice](https://open.spotify.com/album/4toJ2ky4ITmvV5XXHrPwiv) | 2:55 | 2022-05-13 | 2022-07-19 |
 | [06 Kobe](https://open.spotify.com/track/237TkGZpjOvShinAgWTDtW) | [Dmann](https://open.spotify.com/artist/2nCBL8gOThAAnLFlVVeVlH) | [Still Talking Shit](https://open.spotify.com/album/6dg0XyoLZrJmoXelZ4n7od) | 1:50 | 2022-09-16 | 2022-09-25 |
 | [10 of pentacles](https://open.spotify.com/track/4DTdcyJ3PfVo1O0motB8G1) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp), [James Lite](https://open.spotify.com/artist/68TMxp37J6JBHs4n9dAGhI) | [Northwest Approval](https://open.spotify.com/album/3SBOL8IpRVTZlqqp2A1R4d) | 4:12 | 2022-02-18 | 2022-03-18 |
-| [2 Optimistic](https://open.spotify.com/track/6yQzJ1m70RzNdct3zB2r8X) | [Parisalexa](https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV) | [2 Real](https://open.spotify.com/album/5SqQ4wQaltxdUwRrlGuwmw) | 2:50 | 2022-08-19 |  |
+| [2 Optimistic](https://open.spotify.com/track/58N0ulQKmHIfscbMQlGrh6) | [Parisalexa](https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV) | [2 Real](https://open.spotify.com/album/3zNIdPB9EXen8UizbqqsId) | 2:50 | 2022-08-19 |  |
+| [2 Optimistic](https://open.spotify.com/track/6yQzJ1m70RzNdct3zB2r8X) | [Parisalexa](https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV) | [2 Real](https://open.spotify.com/album/5SqQ4wQaltxdUwRrlGuwmw) | 2:50 | 2022-08-19 | 2022-10-22 |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-03-18 | 2022-05-14 |
 | [2020 Flow](https://open.spotify.com/track/172A21Sr8mfuFLKAJaWi4R) | [Dmann](https://open.spotify.com/artist/2nCBL8gOThAAnLFlVVeVlH) | [Dmanic](https://open.spotify.com/album/43wchossWHZNY8WQP5tTzy) | 1:28 | 2022-04-02 | 2022-05-14 |
 | [3 AM](https://open.spotify.com/track/1TGpYDKVwNfeEzAMOKtuUC) | [Camryn Chanel](https://open.spotify.com/artist/5YcmY90YWB3ZUPk9cjHgrT), [Tanaa Money](https://open.spotify.com/artist/1j53LXPSazhe0oLSic9EN6) | [Grimey Individualz](https://open.spotify.com/album/5rbhGbUBPV3HgckuYK4uWf) | 3:40 | 2022-02-18 | 2022-03-18 |

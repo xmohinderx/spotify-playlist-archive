@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 163642,
+  "num_followers": 163700,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGQ5N2I4OTVkZjhmYTdiMThmNTcyYzUwOTVlMWZhNWIy",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGRjOTQ3MjkzYTA1Y2JmMmE4NzY0OGVkMGYwYjJlMzY1",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Year Zero",
+        "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Capital G",
+      "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 230680,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Year Zero",
-        "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Capital G",
-      "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214170,
-      "name": "None Of The Above",
-      "url": "https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Our House (The Mess We Made)",
         "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 220528,
       "name": "Our House (The Mess We Made)",
       "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214170,
+      "name": "None Of The Above",
+      "url": "https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj"
     },
     {
       "added_at": "2022-07-01 04:01:00",

@@ -4742,6 +4742,24 @@
     },
     {
       "album": {
+        "name": "Wicked Evil",
+        "url": "https://open.spotify.com/album/3FaAsnvQqJuwgtfyxMgbb7"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "Wicked Evil - Spooky Swing Mix",
+      "url": "https://open.spotify.com/track/4DPZKhVUVQmYkVyLzb01q9"
+    },
+    {
+      "album": {
         "name": "Wochenend Und Sonnenschein (Electro Swing)",
         "url": "https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU"
       },

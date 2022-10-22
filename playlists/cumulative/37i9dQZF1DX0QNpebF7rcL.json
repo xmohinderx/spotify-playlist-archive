@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Buddy Guy",
+  "description": "The best in blues right now. Cover: Joe Louis Walker",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -3709,6 +3709,24 @@
       "duration_ms": 182480,
       "name": "The Razor's Edge",
       "url": "https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH"
+    },
+    {
+      "album": {
+        "name": "The Weight of the World",
+        "url": "https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265045,
+      "name": "The Weight of the World",
+      "url": "https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi"
     },
     {
       "album": {

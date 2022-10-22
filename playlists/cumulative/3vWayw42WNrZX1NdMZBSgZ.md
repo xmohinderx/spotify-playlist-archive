@@ -4,10 +4,11 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: The Rudeboyz, Maluma, Adam Levine
 
-314 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+316 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Escapándome\) de mí](https://open.spotify.com/track/6cRVvYmoBcHM0tkKFFwkEm) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [\(Escapándome\) de mí](https://open.spotify.com/album/6K1dUNUGwZaN8qCBFobZJ3) | 2:54 | 2022-10-21 |  |
 | [11 PM](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 2:55 | 2022-02-02 |  |
 | [28](https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:20 | 2022-08-19 |  |
 | [2:50 Remix](https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [2:50 Remix](https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d) | 3:51 | 2022-02-02 |  |
@@ -69,6 +70,7 @@
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-03-24 |  |
 | [Currambera](https://open.spotify.com/track/6QBSCFjzmqCuE90vSzmhkE) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Currambera](https://open.spotify.com/album/6V8B6uJZ0PREhhSXGP8Fdk) | 3:57 | 2022-02-02 |  |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2022-02-02 |  |
+| [D Pic](https://open.spotify.com/track/6bbajYIBOhfzx6fppjqSZq) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [D Pic](https://open.spotify.com/album/4gCkkrljRoMKWydXymbY6n) | 2:24 | 2022-10-21 |  |
 | [Dame Break](https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Dame Break](https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF) | 3:31 | 2022-07-07 |  |
 | [Dangerous](https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:39 | 2022-02-10 |  |
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-02-03 |  |

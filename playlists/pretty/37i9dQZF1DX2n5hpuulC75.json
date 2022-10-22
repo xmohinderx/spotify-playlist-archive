@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 241510,
+  "num_followers": 241531,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGY3YmJjNTYzNGQ2YzRlZWNiMjliNjk3Y2IxODdhMzFj",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGEzMDFhMTQ0MDIwZWU4MGVlMDNlN2MzODMwOWRlYzNi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -161,26 +161,6 @@
       "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "D97",
-        "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
-      },
-      "artists": [
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        },
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Hosoi",
@@ -199,18 +179,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vallis Alps",
-        "url": "https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq"
+        "name": "D97",
+        "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
       "artists": [
         {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        },
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
         }
       ],
-      "duration_ms": 324122,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu"
+      "duration_ms": 230000,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -567,6 +551,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Where Will We Go, Pt. 2",
+        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 299839,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Self Edit",
         "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
@@ -615,34 +615,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Where Will We Go, Pt. 2",
-        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
         }
       ],
-      "duration_ms": 299839,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -661,36 +645,20 @@
       "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
       },
       "artists": [
         {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
         }
       ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
-      },
-      "artists": [
-        {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -715,6 +683,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
+      },
+      "artists": [
+        {
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
       },
@@ -727,26 +711,6 @@
       "duration_ms": 189445,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 259427,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -767,6 +731,26 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259427,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -823,22 +807,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
-      },
-      "artists": [
-        {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        }
-      ],
-      "duration_ms": 339921,
-      "name": "Fragment II",
-      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -855,6 +823,22 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        }
+      ],
+      "duration_ms": 339921,
+      "name": "Fragment II",
+      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -997,6 +981,22 @@
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     },
     {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+    },
+    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "CARE",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Broken Clinic",
         "url": "https://open.spotify.com/album/3ifqH567bhxDsguSelvA6m"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 230523,
       "name": "Medication",
       "url": "https://open.spotify.com/track/2p2xu7jiPzZG0W7IvXhEY7"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg"
+      },
+      "artists": [
+        {
+          "name": "Jack Grace",
+          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9"
     }
   ],
   "unique_name": "Mellow Mood",

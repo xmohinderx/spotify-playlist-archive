@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8130,
+  "num_followers": 8162,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDY5NjdjMWNjYzFiZjcwZmJmZjY0NjBkZGJhNzBmZTRk",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGM5MjFiNzg2YTk1MDFiOTMyMTEzYjc1Mzc1YjVhMDE3",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -761,20 +761,20 @@
       "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
     },
     {
-      "added_at": "2022-08-12 05:44:57",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+        "name": "What Have We Done",
+        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
       },
       "artists": [
         {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+      "duration_ms": 180773,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-08-12 05:44:57",
       "album": {
-        "name": "What Have We Done",
-        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
         }
       ],
-      "duration_ms": 180773,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1345,6 +1345,30 @@
       "url": "https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy"
     },
     {
+      "added_at": "2022-08-05 07:48:26",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "See Through Solomon",
+          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
+        },
+        {
+          "name": "KHAN KHALII",
+          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Wamuhle",
@@ -1371,30 +1395,6 @@
       "duration_ms": 225640,
       "name": "Wamuhle",
       "url": "https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws"
-    },
-    {
-      "added_at": "2022-08-05 07:48:26",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
-      },
-      "artists": [
-        {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
-        },
-        {
-          "name": "See Through Solomon",
-          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
-        },
-        {
-          "name": "KHAN KHALII",
-          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
     },
     {
       "added_at": "2022-06-09 23:00:00",

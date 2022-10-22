@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-241 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+244 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Mirror in Every Drawer](https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN) | [Tiger Stories](https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U) | [Dinami](https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB) | 4:06 | 2021-12-08 | 2022-06-25 |
 | [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2021-12-08 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-05 |  |
+| [After All Was Said](https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg) | [Leander Vaughn](https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl) | [After All Was Said](https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS) | 3:26 | 2022-10-21 |  |
 | [After the Storm](https://open.spotify.com/track/20RvtdICuVLxbtHs179hxA) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Anfang](https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN) | 2:38 | 2021-12-08 | 2022-08-24 |
 | [Agua viva](https://open.spotify.com/track/5zH1V6C1gkeNji64dQ4rBc) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Agua viva](https://open.spotify.com/album/2jQXtoSONAJpPY8UfxlhHS) | 3:14 | 2022-05-05 |  |
 | [aldrei endar elskan](https://open.spotify.com/track/0ov4xf6xaae92Ob0fppnSv) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [aldrei endar elskan](https://open.spotify.com/album/5daP5cHf9iBMspEtYajoFh) | 2:57 | 2021-12-08 |  |
@@ -58,6 +59,7 @@
 | [Dharana Focus](https://open.spotify.com/track/5OpOdnNT8P4aMvYFsmidPN) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Dharana Focus](https://open.spotify.com/album/3YEErV3yJvdcUS8T1qUwrL) | 2:51 | 2021-12-08 |  |
 | [Different Sides](https://open.spotify.com/track/1BOhxpb7mDYF03nHxd9E1g) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Room In Space](https://open.spotify.com/album/0xruoQGbzb2ttTqOevmAoW) | 3:10 | 2021-12-08 |  |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2021-12-22 |  |
+| [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 | 2022-10-21 |  |
 | [Dreaming of the Coast](https://open.spotify.com/track/5gAjUK0Rda7yZZpuCpD2oy) | [Light Youth](https://open.spotify.com/artist/0sXhvfc61E4EmQ2Q6Y4xLT) | [Liquid State](https://open.spotify.com/album/0Bbj7KIBeK85vjs6qxU8EV) | 2:48 | 2021-12-08 |  |
 | [Duerme](https://open.spotify.com/track/0yYcH4WBishYhqLUQFdBFu) | [Azure Lilly](https://open.spotify.com/artist/2CQgGsLubijMyj1ANswVeo) | [Hang Drums](https://open.spotify.com/album/7IGTotJEFgwoM5F8zSzBLM) | 4:05 | 2021-12-08 |  |
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-01-19 |  |
@@ -67,7 +69,7 @@
 | [Elba](https://open.spotify.com/track/5snLmzdl7l5t4vSwG19sYG) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Elba](https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp) | 2:31 | 2021-12-08 |  |
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2021-12-08 |  |
 | [Energetic Waves](https://open.spotify.com/track/6ALP8q5geZi3Y6agRNKsA1) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Mindful Delta](https://open.spotify.com/album/7zBPGRenr6VrZcHU45DtQp) | 2:47 | 2021-12-08 |  |
-| [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-12-08 |  |
+| [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-12-08 | 2022-10-22 |
 | [Entering the Sacred Room \(Temple pt\. I\)](https://open.spotify.com/track/7Dz2O45BvScxRo5zUGA21K) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Temple](https://open.spotify.com/album/4zapRzqcbZaoqxvgnJzxgE) | 4:06 | 2021-12-08 |  |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-22 |  |
 | [Essence](https://open.spotify.com/track/1sab9eLTbZCDOHxFAnO00e) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 3:08 | 2021-12-08 |  |
@@ -219,6 +221,7 @@
 | [Thin Air](https://open.spotify.com/track/3K1VfIqTt1oW62eu8IPYwC) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Thin Air](https://open.spotify.com/album/5TxaBlOgoR6eietyx07pTc) | 2:12 | 2021-12-08 |  |
 | [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 | 2021-12-08 | 2022-07-29 |
 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 | 2022-07-27 |  |
+| [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-21 |  |
 | [Through the Night](https://open.spotify.com/track/6Npq5SfkDU4egsF19bzfEc) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [Hawk](https://open.spotify.com/album/3ipW8GhYONdAF0D1eIxmeS) | 3:15 | 2021-12-08 |  |
 | [Time \- Water Textures](https://open.spotify.com/track/1tf5kQZbSPjvLyewhaGEYM) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Darkened](https://open.spotify.com/album/3iM2G2OeCSwd9SPCInYw1Z) | 3:14 | 2021-12-08 |  |
 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 | 2021-12-08 | 2022-02-19 |

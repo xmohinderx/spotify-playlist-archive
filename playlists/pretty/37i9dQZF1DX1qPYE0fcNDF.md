@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,382 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,396 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 15 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 |
 | 16 | [Sleigh \(with Monte Booker & Masego\)](https://open.spotify.com/track/55POBlOBhLuXm2Z7M4Xn1k) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [High 4 Da Highladays](https://open.spotify.com/album/7BlYL8OhqdHcZTIoISOeEg) | 2:25 |
 | 17 | [Santa Claus Goes Straight To The Ghetto](https://open.spotify.com/track/4cJannWi0zsarKSNQDMbqv) | [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Christmas On Death Row](https://open.spotify.com/album/2t6GxVRo0HhWuMFm0XWvL2) | 5:50 |
-| 18 | [Ghostface X\-mas](https://open.spotify.com/track/7mgv7UKlHR6Mv8DWSDivi7) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [GhostDeini The Great \(Bonus Tracks\)](https://open.spotify.com/album/0L1Qq8en6hODRCgaAfTBAq) | 3:02 |
+| 18 | [Ghostface X\-mas](https://open.spotify.com/track/7mgv7UKlHR6Mv8DWSDivi7) | [Ghostface Killah](https://open.spotify.com/artist/2N9GV6GktW85u7t8fmRTTJ) | [GhostDeini The Great \(Bonus Tracks\)](https://open.spotify.com/album/0L1Qq8en6hODRCgaAfTBAq) | 3:02 |
 | 19 | [Santa Baby](https://open.spotify.com/track/40x0LtHNt6ksea5Si2mevO) | [The Christmas All\-Stars](https://open.spotify.com/artist/69oz4W3aGcG9pgEqb32DRA), [Joseph Simmons](https://open.spotify.com/artist/2g5m3ioWlD6JBqqzvK1uAy), [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Keith Murray](https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 4:02 |
 | 20 | [Christmas Rappin'](https://open.spotify.com/track/1MuEjGAGDw07ZqkuX7ea4O) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Best Of / 20th Century](https://open.spotify.com/album/3Ho2zi28ZvsE1j3uKCdMDO) | 3:55 |
 | 21 | [My Little Mama Trippin On Xmas](https://open.spotify.com/track/1nNMwW05wHul1lSYHmGM3m) | [Bad Lucc](https://open.spotify.com/artist/77kP3V3j9SPpyF5wem7tck) | [Christmas In The Dogghouse](https://open.spotify.com/album/6Yfaff9em7z9TmO9QQscpw) | 2:35 |

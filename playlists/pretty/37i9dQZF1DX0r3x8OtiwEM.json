@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 777206,
+  "num_followers": 777587,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1NzUwMCwwMDAwMDAwMGNiNjJlYjcxOTM4NDIyOTEwYmQzODJkMmFiNGViNTE3",
+  "snapshot_id": "MTY2NTE1NzUwMCwwMDAwMDAwMGQ1ZGU1YmYxMTQ2NzJhZDA0MmIxYmI0NmRjNDliNjAx",
   "tracks": [
     {
       "added_at": "2022-10-07 15:45:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF"
       },
@@ -495,6 +511,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Apricots",
+        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -511,38 +543,6 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Apricots",
-        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
         "name": "Unspoken Words",
         "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 285675,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1"
-      },
-      "artists": [
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 365172,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
         "name": "4 Lovers",
         "url": "https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3"
       },
@@ -1107,18 +1091,46 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Skylight",
-        "url": "https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1"
       },
       "artists": [
         {
-          "name": "Kakoon",
-          "url": "https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL"
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
         }
       ],
-      "duration_ms": 442439,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi"
+      "duration_ms": 365172,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
+        "name": "Home (Mind Against Remix)",
+        "url": "https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        },
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 437647,
+      "name": "Home - Mind Against Remix",
+      "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
     }
   ],
   "unique_name": "Lowkey Tech",

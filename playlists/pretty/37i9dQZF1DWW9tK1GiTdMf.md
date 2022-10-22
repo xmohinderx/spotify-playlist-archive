@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni da gridare ❤️‍🩹 con blame e yanomi in cover
+> canzoni da gridare ❤️‍🩹 con blame, yanomi e chakra in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,593 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,632 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
 | 2 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/3g7ds9lLoBRTQag67wtUK3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:57 |
-| 3 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
-| 4 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
-| 5 | [Ti voglio richiamare](https://open.spotify.com/track/2QV3CdSjJEEXY1koTLZ30q) | [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW), [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [Ti voglio richiamare](https://open.spotify.com/album/0sS1aj3RamIlXyCGkTxzde) | 2:28 |
+| 3 | [Ti voglio richiamare](https://open.spotify.com/track/2QV3CdSjJEEXY1koTLZ30q) | [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW), [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [Ti voglio richiamare](https://open.spotify.com/album/0sS1aj3RamIlXyCGkTxzde) | 2:28 |
+| 4 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
+| 5 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
 | 6 | [STOCCOLMA](https://open.spotify.com/track/2YbyAH03K37nF4fOnOGkIo) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [STOCCOLMA](https://open.spotify.com/album/0sctf7X3nBVx3d2yIznyXD) | 3:05 |
 | 7 | [UN CASSETTO DI LACRIME](https://open.spotify.com/track/7dLxR2WIxWxrm9iccELI6Y) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh) | [UN CASSETTO DI LACRIME](https://open.spotify.com/album/72fjREfFH9cBp1mSlRmGAu) | 2:40 |
 | 8 | [VIOLA \(feat\. Salmo\)](https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [VIOLA \(feat\. Salmo\)](https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [dove non posso guardare](https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [dove non posso guardare](https://open.spotify.com/album/0gdCbk9bYB24atLxIHuak1) | 3:08 |
 | 80 | [Nostalgia](https://open.spotify.com/track/3N4XsYIpsw9yXEZjOATeFM) | [GiorniTristi](https://open.spotify.com/artist/0KjmZKo6Rhw4m4MaFlVVUa) | [Nostalgia](https://open.spotify.com/album/0As2L1imchgBheo9M30dyw) | 2:58 |
 
-Snapshot ID: `MTY2NjMwMzI2MCwwMDAwMDAwMDhkNzJiNGVlNWRkZjkxZjQ5OGNmNWE1MjY4OTkzNjMw`
+Snapshot ID: `MTY2NjM1NDgyMywwMDAwMDAwMDNhOWE4MGFlZTE0NWNkNjFlNzM5MWY4ZDVkNTVhNmFl`

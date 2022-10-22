@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-420 songs - 1 day 10 hr 45 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+421 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Coral](https://open.spotify.com/track/2nIW5sfh2pW6Ftk8Qes2jv) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Coral](https://open.spotify.com/album/2p9Tfv7xnwAkhXMIoNcPik) | 3:37 | 2022-08-29 | 2022-10-08 |
 | [Count Your Blessings](https://open.spotify.com/track/6NpwgYdHNNpq81GnpJNx3Y) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1) | [Let's Call the Whole Thing Off](https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG) | 8:12 | 2022-04-14 | 2022-09-23 |
 | [Cry Me A River](https://open.spotify.com/track/79KMw5grBPDLAJTPho7DOe) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Ultimate Dinah Washington](https://open.spotify.com/album/1TbwTl2h3xx9LcERW9m8rf) | 2:26 | 2022-04-14 | 2022-04-28 |
+| [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 |  |
 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 | 2022-04-14 | 2022-07-28 |
 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 | 2022-06-30 | 2022-10-08 |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2022-04-14 | 2022-10-08 |
@@ -172,7 +173,7 @@
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/58fxygPUPdfBIUm9BDv0f7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone](https://open.spotify.com/album/6erfmbovMLCppgaLh8TesF) | 3:06 | 2022-04-14 | 2022-04-27 |
 | [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-08-29 | 2022-10-08 |
 | [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2022-04-14 | 2022-10-08 |
-| [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 | 2022-04-14 |  |
+| [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 | 2022-04-14 | 2022-10-22 |
 | [I'll Wait and Pray](https://open.spotify.com/track/4z6d79RAbC5q0VAqPQas8W) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Atlantic Studio Album Collection](https://open.spotify.com/album/0BSousVS9bndHhwKl4Eu0r) | 3:26 | 2022-04-14 | 2022-10-08 |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-08 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/499pC27JxKGMh6mYyuRmlT) | [Bill Mobley](https://open.spotify.com/artist/2RnJnmDsu7HDPmj4UNjmjh), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Robert Hurst](https://open.spotify.com/artist/398OLP0K6sxmwsYaB7Wnmj), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [MoodScape](https://open.spotify.com/album/5ACA0ncZdwtno9H8jQ9AQk) | 8:04 | 2022-04-14 | 2022-10-03 |

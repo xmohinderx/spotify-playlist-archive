@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 271377,
+  "num_followers": 271403,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgyNzUxOSwwMDAwMDAwMDljOWQzYjRiYzU4ZmVkZjZiNzcyNmFjN2MyMDA5MmI2",
+  "snapshot_id": "MTY2NjM2NDUyMiwwMDAwMDAwMDU3OGIxYjU2YWVjMzVkZTU2YTE0MTFlZTE1YWJlYjVj",
   "tracks": [
     {
       "added_at": "2022-09-03 16:17:48",
@@ -47,54 +47,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2022-10-03 20:04:08",
-      "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2022-10-03 14:16:25",
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
@@ -107,22 +59,6 @@
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Pink + White - Live at Electric Lady",
-      "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -175,18 +111,18 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
+      "duration_ms": 233406,
+      "name": "Pink + White - Live at Electric Lady",
+      "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -223,6 +159,38 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
       },
@@ -235,22 +203,6 @@
       "duration_ms": 142000,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "Why'd You Only Call Me When You're High?",
-        "url": "https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv"
-      },
-      "artists": [
-        {
-          "name": "merci, mercy",
-          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
-        }
-      ],
-      "duration_ms": 152227,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -271,22 +223,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
       },
@@ -299,6 +235,22 @@
       "duration_ms": 242000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Why'd You Only Call Me When You're High?",
+        "url": "https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "duration_ms": 152227,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -351,6 +303,22 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
+        "name": "Knee Deep at ATP",
+        "url": "https://open.spotify.com/album/6pTPviSRgaaaGzxGiuna5O"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 188418,
+      "name": "Knee Deep at ATP",
+      "url": "https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
       },
@@ -397,20 +365,20 @@
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
-      "added_at": "2022-09-03 16:17:48",
+      "added_at": "2022-10-03 20:04:08",
       "album": {
-        "name": "Knee Deep at ATP",
-        "url": "https://open.spotify.com/album/6pTPviSRgaaaGzxGiuna5O"
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 188418,
-      "name": "Knee Deep at ATP",
-      "url": "https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z"
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -463,6 +431,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2022-10-03 14:16:25",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -611,6 +595,22 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
         "name": "Music From The Pen Gala 1983",
         "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -711,38 +727,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 175003,
       "name": "Stay - Spotify Singles",
       "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 313520,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
         "name": "Quarantine Covers",
         "url": "https://open.spotify.com/album/1PoNxdvXr6C4XM4cr6Fr6u"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 313520,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -847,22 +863,6 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
+      "added_at": "2022-09-27 15:09:47",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        }
+      ],
+      "duration_ms": 226798,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
+    },
+    {
       "added_at": "2022-09-03 16:17:48",
       "album": {
         "name": "Like a Rolling Stone",
@@ -1113,20 +1129,20 @@
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
-      "added_at": "2022-09-27 15:09:47",
+      "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
+        "name": "slow dancing in a burning room (stripped)",
+        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
       },
       "artists": [
         {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+          "name": "ST LUNA",
+          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
         }
       ],
-      "duration_ms": 226798,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
+      "duration_ms": 195578,
+      "name": "slow dancing in a burning room - stripped",
+      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "slow dancing in a burning room (stripped)",
-        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
-      },
-      "artists": [
-        {
-          "name": "ST LUNA",
-          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "slow dancing in a burning room - stripped",
-      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 274506,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -1231,22 +1247,6 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
-    },
-    {
-      "added_at": "2022-10-03 20:04:08",
-      "album": {
-        "name": "Rid Of Me",
-        "url": "https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 217712,
-      "name": "Rid Of Me",
-      "url": "https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa"
     }
   ],
   "unique_name": "Indie Covers",

@@ -4,7 +4,7 @@
 
 > Rock with a Drop  Cover: GG Magree \\m/
 
-246 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/5zoHrqDNjf3cQeuQpkDbfT)
+247 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/5zoHrqDNjf3cQeuQpkDbfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Dying To Know You](https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:33 | 2022-06-24 |  |
 | [Dying To Know You](https://open.spotify.com/track/7KD8qQSdaWUVjECHhqRtaQ) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/33Efdv2w7tLBoLOm0mtVt9) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [Dynamo](https://open.spotify.com/track/7A0T48jL3L6IjqUDku4QWc) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [Monstercat Instinct Vol\. 1](https://open.spotify.com/album/5Pk3QLxMsbaj3vwxffAG3X) | 3:59 | 2021-12-10 | 2022-01-29 |
-| [Electric Eye \- Single Edit](https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Electric Eye](https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3) | 2:45 | 2022-07-15 |  |
+| [Electric Eye \- Single Edit](https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Electric Eye](https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3) | 2:45 | 2022-07-15 | 2022-10-22 |
 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 | 2022-06-24 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Emotion Sickness](https://open.spotify.com/album/7wxZ1xnjbPodzxj3uOxwAe) | 3:22 | 2022-02-18 | 2022-08-03 |
 | [Enemy Brain](https://open.spotify.com/track/225lMWq2wtUmUeETswWKu8) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain](https://open.spotify.com/album/2Gi7K1ROVbpnF4kP19TWMT) | 4:11 | 2022-07-08 |  |
@@ -84,6 +84,7 @@
 | [Eyes Wide Open \- ry flora Remix](https://open.spotify.com/track/3YAo0Y2zqII53swBtcGvUJ) | [ry flora](https://open.spotify.com/artist/7uRxlnkvyppjdiZbVM9nzh), [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Eyes Wide Open \(ry flora Remix\)](https://open.spotify.com/album/6bO5MqXKM9qDbxPr9KoP5T) | 3:19 | 2022-01-28 | 2022-02-12 |
 | [Fade With Me](https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Fade With Me](https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA) | 3:34 | 2021-12-10 |  |
 | [Fall Down](https://open.spotify.com/track/6591V8mJSzKn29si2hx9iC) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Fall Down](https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg) | 2:46 | 2022-01-24 | 2022-06-25 |
+| [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-06-24 |  |
 | [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 | 2021-12-10 | 2022-10-14 |
 | [Falling Asleep at the Wheel](https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Falling Asleep at the Wheel / Julie](https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2) | 2:37 | 2022-08-12 |  |
 | [Fallout](https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq) | [Fallout](https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW) | 4:52 | 2021-12-10 |  |

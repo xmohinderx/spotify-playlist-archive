@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Royal & The Serpent
 
-681 songs - 1 day 10 hr 6 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+682 songs - 1 day 10 hr 9 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Happiness](https://open.spotify.com/track/2rkcIVIfVrvLX8Qp95WZoj) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:19 | 2022-08-25 | 2022-10-07 |
 | [Happiness](https://open.spotify.com/track/6TemocIk2wdyLz1scEoA8H) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happiness](https://open.spotify.com/album/3LbQrIEmgwrewExETsuoqh) | 2:19 | 2022-08-18 | 2022-08-31 |
 | [Happiness 4 Dummies](https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness 4 Dummies](https://open.spotify.com/album/7mSqGeFRzvBcjywz52XY6N) | 2:39 | 2022-10-20 |  |
-| [HAPPY](https://open.spotify.com/track/4QVrlDWojIq4vYJ6kYJVFc) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/65xNkuvhf5iEmGsKxdU6fQ) | 2:27 | 2022-10-20 |  |
+| [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-10-20 |  |
+| [HAPPY](https://open.spotify.com/track/4QVrlDWojIq4vYJ6kYJVFc) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/65xNkuvhf5iEmGsKxdU6fQ) | 2:27 | 2022-10-20 | 2022-10-22 |
 | [Hard Rock Potato](https://open.spotify.com/track/38xWLLwPhcSMBcmMvd6VB9) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Hard Rock Potato](https://open.spotify.com/album/4JUYKatHi9chcZjWilGXOE) | 3:57 | 2022-08-18 | 2022-09-30 |
 | [Hard to Believe](https://open.spotify.com/track/2dwaheGyTlQlQqWvFMjubr) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Phantom Bay](https://open.spotify.com/album/6gXkAcRLBDdwwMxmuylj1T) | 1:56 | 2022-04-21 | 2022-06-03 |
 | [Haunted Be Thy](https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Haunted Be Thy](https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq) | 3:40 | 2022-07-21 | 2022-09-09 |

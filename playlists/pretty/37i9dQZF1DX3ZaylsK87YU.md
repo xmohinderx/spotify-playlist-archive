@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,760 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,791 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 54 | [Called Me Higher](https://open.spotify.com/track/4QpqJ4AzFGV0gTqvOaIFCK) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The All Sons & Daughters Collection](https://open.spotify.com/album/3Z0ByqDlZa1julfE0Gt9mk) | 5:55 |
 | 55 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 |
 | 56 | [Time](https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Promised Land](https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF) | 5:47 |
-| 57 | [Restless](https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [The House You're Building](https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN) | 4:55 |
+| 57 | [Holy, Holy, Holy](https://open.spotify.com/track/7JzvdSrUXSMXll3SISuO1K) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 3:09 |
 | 58 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:41 |
 | 59 | [Resurrecting \(Studio Version\)](https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Resurrecting \- EP](https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn) | 4:24 |
 | 60 | [Speak O Lord](https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:01 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 62 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 |
 | 63 | [Satisfied in You \(Psalm 42\)](https://open.spotify.com/track/0ML25KciIhm4UgAVKrDjAo) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Oh! Great Is Our God! \- EP](https://open.spotify.com/album/6Qwaa0eRLxUUOgZbopMY41) | 5:50 |
 | 64 | [Hidden \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:34 |
-| 65 | [Holy, Holy, Holy](https://open.spotify.com/track/7JzvdSrUXSMXll3SISuO1K) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 3:09 |
+| 65 | [Restless](https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [The House You're Building](https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN) | 4:55 |
 | 66 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
 | 67 | [It Is Well With My Soul](https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:39 |
 | 68 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 94 | [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 |
 | 95 | [My Hope Is Built / The Solid Rock](https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 3:44 |
 | 96 | [Amazing Grace \(feat\. Alex Boyé\)](https://open.spotify.com/track/0Vsda24FRm3DL3lFxj6kUg) | [The Five Strings](https://open.spotify.com/artist/0fhBSxFb3yd0f5iGi3RDFJ), [Alex Boyé](https://open.spotify.com/artist/6SraGCznFUAZ3zb4zVe3DM), [Ricky Valadez](https://open.spotify.com/artist/4fwJnkrxXiJHDmFkcm7Gpg) | [Amazing Grace \(feat\. Alex Boyé\)](https://open.spotify.com/album/4dFzU6vymLHbnhu9toGD6e) | 4:00 |
-| 97 | [You Are My All In All](https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9) | [Brooke Griffith](https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un) | [Even So Come: A Worship Album](https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz) | 5:18 |
-| 98 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 |
+| 97 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 |
+| 98 | [You Are My All In All](https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9) | [Brooke Griffith](https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un) | [Even So Come: A Worship Album](https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz) | 5:18 |
 | 99 | [The Stand](https://open.spotify.com/track/2JwkJmy6oO38biks4DHDfK) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 8](https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB) | 4:57 |
 | 100 | [Man of Sorrows](https://open.spotify.com/track/2ok2FRBdJTClHUN68whaEE) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [I'm Living Proof](https://open.spotify.com/album/68lzPFCVrZVnm3eas1akxD) | 5:19 |
 
-Snapshot ID: `MTYyNzYxNzcyMCwwMDAwMDAwMGI0YjFiNWQ0ZDQ2NGU1YTk2NzA0MTg2OWNhMDY5MGYy`
+Snapshot ID: `MTYyNzYxNzcyMCwwMDAwMDAwMGUwNjIzOTZjNjIyZjZhMGRhMDJmNjU5YWEyNzEwNTcz`

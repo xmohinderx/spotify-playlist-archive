@@ -2,9 +2,9 @@
 
 ### [The Scene](https://open.spotify.com/playlist/37i9dQZF1DWZkHEX2YHpDV)
 
-> pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Meet Me @ The Altar
+> pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Knuckle Puck
 
-830 songs - 1 day 20 hr 23 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+832 songs - 1 day 20 hr 28 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Featuring Mark Hoppus](https://open.spotify.com/track/1r6RgVsrQ6ccNnjrn8tb6c) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Featuring Mark Hoppus](https://open.spotify.com/album/2hwaTAYA0HjFGYqWXUNVdb) | 2:53 | 2021-12-10 | 2022-07-29 |
 | [Featuring Mark Hoppus](https://open.spotify.com/track/41hMYBgv6teOnu64kn4Ylb) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Won’t Reach Out to You](https://open.spotify.com/album/5xSwJaRKEx137KQmidxkw6) | 2:53 | 2022-07-08 |  |
 | [Feel A Thing](https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Feel A Thing](https://open.spotify.com/album/5JcDvYT7w6o6Mz9Yv7aVFw) | 3:26 | 2021-12-10 | 2022-07-29 |
-| [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-05-20 |  |
+| [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-05-20 | 2022-10-22 |
 | [Fentanyl](https://open.spotify.com/track/6mj0AwKCkLXDUIIHJx40La) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Fentanyl](https://open.spotify.com/album/5YaSEkuyUZtNci5ScygwTz) | 3:45 | 2021-12-10 | 2022-07-28 |
 | [Fight It](https://open.spotify.com/track/4zYdOhICwdBYkSTG2W4v6p) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Elijah Midjord](https://open.spotify.com/artist/1bCclRGmTIDEfKmcW0bv95) | [Fight It](https://open.spotify.com/album/6SUG8ZmGOHJ6wYSsLpzYde) | 2:20 | 2021-12-10 | 2022-07-28 |
 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 | 2021-12-10 | 2022-07-29 |
@@ -299,10 +299,11 @@
 | [Gone](https://open.spotify.com/track/2c2E2N8xPNAVt5cXJvo4Ak) | [With Friends Like These](https://open.spotify.com/artist/4nuaL8z7WtwpHxY48Lcfcz) | [Pop Culture](https://open.spotify.com/album/03EcmdV2NlxgtVrAOqmTxx) | 3:45 | 2022-03-25 | 2022-04-21 |
 | [Gone Are The Good Days](https://open.spotify.com/track/4hbNLkXGApoUZlvzHa4fgA) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/77GIVKm14DUkaQNu9J07sq) | 3:44 | 2021-12-10 | 2022-07-29 |
 | [Gone Are The Good Days](https://open.spotify.com/track/7r8CSCG1BLU8oSVlP3q8yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 3:44 | 2022-07-08 | 2022-08-03 |
-| [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty) | 2:34 | 2022-06-17 |  |
+| [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty) | 2:34 | 2022-06-17 | 2022-10-22 |
 | [Goodbye Forever](https://open.spotify.com/track/2EU2rK3NsjjfbB4r5q8YuM) | [bloom.](https://open.spotify.com/artist/2pe5XkD5nb5nTQeVsPn4uD) | [Withered](https://open.spotify.com/album/0FjBK3l1bTQUfTBb0N1d8Q) | 3:24 | 2022-02-04 | 2022-04-21 |
 | [Grape Swisher](https://open.spotify.com/track/6mX89BYM6O0IkHF9FiKzVh) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Grape Swisher](https://open.spotify.com/album/10zmjGyfnY6ypkc9fUzpRc) | 2:25 | 2021-12-10 | 2022-07-26 |
 | [Green Light](https://open.spotify.com/track/32dLBG6JrsCaq7L6GeIKd7) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Green Light](https://open.spotify.com/album/3MLZEG11nd0vXwQolVG8Th) | 2:59 | 2021-12-10 | 2022-05-13 |
+| [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 | 2022-10-21 |  |
 | [Growing Up](https://open.spotify.com/track/3nyEVo6eJRxet7kJvgNZje) | [Highland](https://open.spotify.com/artist/0bV0JJIE52E0lb6RpOgP1k) | [Growing Up](https://open.spotify.com/album/6ndQgAOKTszFtmSoqs5Nsw) | 3:42 | 2022-02-04 | 2022-04-18 |
 | [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-25 | 2022-07-29 |
 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2022-07-08 |  |
@@ -838,5 +839,6 @@
 | [Your Confession](https://open.spotify.com/track/2x6Lgr95Zziy82xfDQc0jy) | [True North](https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Your Confession](https://open.spotify.com/album/710dAH9LfJ2xenjH35SBhc) | 2:44 | 2021-12-10 | 2022-07-25 |
 | [Your Reminder](https://open.spotify.com/track/1GonAaynTC7Rl2XsrqWnWj) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Your Reminder](https://open.spotify.com/album/6sTcR9FmuXiPjUI2AuCRE4) | 2:56 | 2021-12-10 | 2022-04-27 |
 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/6DvNarTGaQFkWpYM7CtqbC) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/album/7gCnE2Rtc62Je6ouel8QKA) | 2:31 | 2021-12-10 | 2022-07-29 |
+| [•I WON'T DIE•](https://open.spotify.com/track/2SOVWeeZlyhPLy9F33QN3Z) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•I WON'T DIE•](https://open.spotify.com/album/3Oe9hZ049Pdpk7opuhYKb8) | 2:03 | 2022-10-21 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

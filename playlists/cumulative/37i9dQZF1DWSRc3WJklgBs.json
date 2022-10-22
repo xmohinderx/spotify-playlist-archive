@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186526,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz"
+    },
+    {
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/7vlLGz5jUD3E6pGQrFUJVl"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 64777,
+  "num_followers": 64823,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMDBmZGYzNDRiMmIyMzA2YWVkMWU1ZTgzYmU4MjhlMWQx",
+  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMDBjNjE1MWZmMzdlODdiNDRiYTBmMmQ5Y2Y1MGNkZjU0",
   "tracks": [
     {
       "added_at": "2022-04-17 06:01:52",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "God So Loved",
+      "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "God So Loved",
-      "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Jesus You Alone",
-        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
       },
       "artists": [
         {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 372150,
-      "name": "Jesus You Alone",
-      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
+        "name": "Jesus You Alone",
+        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
         }
       ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
+      "duration_ms": 372150,
+      "name": "Jesus You Alone",
+      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 273439,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1575,34 +1591,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "The Cup Was Not Removed",
-        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
+        "name": "Songs for the Simple Gathering: Vol. 1",
+        "url": "https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl"
       },
       "artists": [
         {
-          "name": "Justin Tweito",
-          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
+          "name": "KingsPorch",
+          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
         }
       ],
-      "duration_ms": 236958,
-      "name": "The Cup Was Not Removed",
-      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 273439,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
+      "duration_ms": 309724,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Songs for the Simple Gathering: Vol. 1",
-        "url": "https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl"
+        "name": "The Cup Was Not Removed",
+        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
       },
       "artists": [
         {
-          "name": "KingsPorch",
-          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
+          "name": "Justin Tweito",
+          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
         }
       ],
-      "duration_ms": 309724,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h"
+      "duration_ms": 236958,
+      "name": "The Cup Was Not Removed",
+      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Diamonds (Something Beautiful)",
-        "url": "https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K"
-      },
-      "artists": [
-        {
-          "name": "NP / NIGHTS",
-          "url": "https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL"
-        }
-      ],
-      "duration_ms": 227136,
-      "name": "Diamonds (Something Beautiful)",
-      "url": "https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Upon Him",
         "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 241901,
       "name": "Upon Him",
       "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Diamonds (Something Beautiful)",
+        "url": "https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K"
+      },
+      "artists": [
+        {
+          "name": "NP / NIGHTS",
+          "url": "https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL"
+        }
+      ],
+      "duration_ms": 227136,
+      "name": "Diamonds (Something Beautiful)",
+      "url": "https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb"
     },
     {
       "added_at": "2022-04-17 06:01:52",

@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 46578,
+  "num_followers": 46602,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMGM5NjFlNTRiYjFjZmUyMzBkMGM2NWE2NzFjOTIyMDA4",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDFiYTc3YWQ1NjZkNGM2MTEwZTM0NDk5NjQxYTlhODRh",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 210132,
       "name": "How Deep Is Your Love (feat. Yebba) - Live",
       "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2021-12-15 15:42:19",

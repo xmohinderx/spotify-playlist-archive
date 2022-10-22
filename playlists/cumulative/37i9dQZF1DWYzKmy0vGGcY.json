@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "A Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO"
+      },
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN"
+    },
+    {
+      "album": {
         "name": "Hits'n'Flips",
         "url": "https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU"
       },
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"

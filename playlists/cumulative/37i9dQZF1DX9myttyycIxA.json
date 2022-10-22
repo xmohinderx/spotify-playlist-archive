@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Unbroken Thought",
+        "url": "https://open.spotify.com/album/4k6mh2lSAOC0Z5GrXigXtq"
+      },
+      "artists": [
+        {
+          "name": "Smut",
+          "url": "https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277476,
+      "name": "After Silver Leaves",
+      "url": "https://open.spotify.com/track/7lRMtQETB0B5WQBc11paPx"
+    },
+    {
+      "album": {
         "name": "Fall into Place / Afterglow",
         "url": "https://open.spotify.com/album/62e7kMRFN636XBdtZBp7F0"
       },

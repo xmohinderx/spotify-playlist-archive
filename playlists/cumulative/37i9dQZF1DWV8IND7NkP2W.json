@@ -1689,7 +1689,7 @@
     {
       "album": {
         "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
+        "url": "https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH"
       },
       "artists": [
         {
@@ -1700,6 +1700,24 @@
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs"
+    },
+    {
+      "album": {
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
       "duration_ms": 138913,
       "name": "Cross the Bridge",
       "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"

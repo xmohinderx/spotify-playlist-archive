@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 311948,
+  "num_followers": 312063,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDhhZmFmMWNlYzczZGNlMTMxN2JjZjIyYjY1OGZlNzdj",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGRiYTdmMmI5MTZhZDE0M2M5MzZhN2VhMGE5NzFhZmI3",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 296066,
       "name": "Yearning For Your Love",
       "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
     },
     {
       "added_at": "2021-01-15 05:01:00",

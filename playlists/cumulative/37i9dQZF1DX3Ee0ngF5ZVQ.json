@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
+    },
+    {
+      "album": {
         "name": "'Til You Can\u2019t / Longer Than She Did",
         "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
       },
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 212670,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
@@ -4591,7 +4609,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 238132,
       "name": "Pleasure in the Pain (Acoustic)",
       "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
@@ -5269,6 +5287,24 @@
       "duration_ms": 181617,
       "name": "Somewhere in the Sun",
       "url": "https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8"
+    },
+    {
+      "album": {
+        "name": "Sound of Rain",
+        "url": "https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY"
+      },
+      "artists": [
+        {
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197729,
+      "name": "Sound of Rain",
+      "url": "https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e"
     },
     {
       "album": {
@@ -6167,7 +6203,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 194298,
       "name": "Two Left Feet",
       "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
@@ -6791,6 +6827,24 @@
       "duration_ms": 189949,
       "name": "Whole Lotta Heaven",
       "url": "https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug"
+    },
+    {
+      "album": {
+        "name": "Why, Dallas?",
+        "url": "https://open.spotify.com/album/5KIHgSEWi3mJ6qTVs5bGGl"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Why, Dallas?",
+      "url": "https://open.spotify.com/track/0aG9eIioKkXS4aicxhyuT8"
     },
     {
       "album": {

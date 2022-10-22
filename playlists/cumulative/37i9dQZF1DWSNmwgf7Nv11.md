@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-251 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+252 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Cavalier](https://open.spotify.com/track/5EZtdixblbGqUjqHYRJUHN) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Jeorge II](https://open.spotify.com/artist/5fM9asFPJ7skVt3GHrryM0) | [Chrysalis](https://open.spotify.com/album/7oTitPtEOTbcfza5F95RJQ) | 3:51 | 2022-02-25 |  |
 | [Chateau](https://open.spotify.com/track/62oCnK99vT8HOgwPsvXuiM) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:33 | 2021-07-30 | 2022-07-29 |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2022-02-25 |  |
-| [Cherry Baby](https://open.spotify.com/track/6fQqDqpmwk55pNMiF0n5mL) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Cherry Baby](https://open.spotify.com/album/62MFHGpQ95ajeK0NfTrFms) | 5:26 | 2021-07-30 |  |
+| [Cherry Baby](https://open.spotify.com/track/1BiazS694A1E7aIURdanmB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Cherry Baby](https://open.spotify.com/album/60BbO5iCynpny3YwRjAUq9) | 5:26 | 2022-02-25 |  |
+| [Cherry Baby](https://open.spotify.com/track/6fQqDqpmwk55pNMiF0n5mL) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Cherry Baby](https://open.spotify.com/album/62MFHGpQ95ajeK0NfTrFms) | 5:26 | 2021-07-30 | 2022-10-22 |
 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 | 2021-07-30 |  |
 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 | 2022-02-25 |  |
 | [Coffee](https://open.spotify.com/track/71cUqXJ3h1r0Ees6YdENLU) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/5Abelpx4c3FzhTOZP3ZIvS) | 4:29 | 2021-07-30 | 2022-07-29 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,037 likes - 85 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,049 likes - 85 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 4:48 |
+| 1 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 |
 | 2 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 3 | [Pa' la Calle](https://open.spotify.com/track/0iZet9i0d0BTnnNF8g0bxY) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ), [Jacobo Velez](https://open.spotify.com/artist/28uB7GB7QbKBPMCZqLPA5y) | [Pa' la Calle](https://open.spotify.com/album/76Pyqr2IuLi0w45sBkdNgU) | 3:30 |
 | 4 | [Afrocumbia](https://open.spotify.com/track/1jFlWNnMgnj70vLipPSDQh) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:01 |

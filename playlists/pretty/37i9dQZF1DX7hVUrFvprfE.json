@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMGE3ZTBhZjNhNzYyMGM5MTAxYjFkNzRhNWQ1NDkxOTI0",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMDM4YTg3Y2QwNGMyNzQzNzA2OTU2OGI0NWJmZDI3ZmJm",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "Brighten the Corners: Nicene Creedence Ed.",
         "url": "https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 155866,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2022-05-06 04:00:00",

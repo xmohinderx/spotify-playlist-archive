@@ -1,31 +1,35 @@
 {
   "description": "The hottest Latin hits in the US! Cover: Ozuna",
-  "num_followers": 1732692,
+  "num_followers": 1732798,
   "original_name": "\u00c9xitos USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGIzZDIzZTQ5MjkxYzM5OGU3MzgwZDg2NzBhMTc4YmZj",
+  "snapshot_id": "MTY2NjM5Nzg4OSwwMDAwMDAwMDhjZGUyMWRiN2QwYjkyMmM1M2ZlMzUzYzJiZjA3NDc0",
   "tracks": [
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
       "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
         {
           "name": "Ozuna",
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -41,7 +45,7 @@
       "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "GAT\u00daBELA",
         "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
@@ -61,7 +65,7 @@
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -77,7 +81,31 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+    },
+    {
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
@@ -93,7 +121,23 @@
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
@@ -109,7 +153,7 @@
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
@@ -129,7 +173,7 @@
       "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
@@ -153,7 +197,7 @@
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -173,7 +217,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
@@ -193,7 +237,7 @@
       "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
@@ -209,7 +253,7 @@
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
@@ -225,7 +269,7 @@
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
@@ -245,7 +289,7 @@
       "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -261,7 +305,7 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
@@ -277,7 +321,7 @@
       "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "NO HAY LEY",
         "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
@@ -293,7 +337,7 @@
       "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "LENTITO",
         "url": "https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3"
@@ -309,7 +353,7 @@
       "url": "https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "La Copa",
         "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
@@ -325,7 +369,7 @@
       "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
@@ -341,7 +385,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
@@ -357,7 +401,7 @@
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -377,7 +421,7 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "LOKITA",
         "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
@@ -397,7 +441,7 @@
       "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -413,7 +457,7 @@
       "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
@@ -433,7 +477,7 @@
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
@@ -453,7 +497,7 @@
       "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Bellacon",
         "url": "https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce"
@@ -473,7 +517,7 @@
       "url": "https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
@@ -489,7 +533,7 @@
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
@@ -509,7 +553,7 @@
       "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -525,7 +569,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
@@ -545,7 +589,7 @@
       "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
@@ -561,7 +605,7 @@
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
@@ -581,27 +625,7 @@
       "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -621,7 +645,7 @@
       "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Luces De Ne\u00f3n",
         "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
@@ -637,7 +661,7 @@
       "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Si Te La Encuentras Por Ah\u00ed",
         "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
@@ -653,7 +677,7 @@
       "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
@@ -677,7 +701,7 @@
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Nosotros",
         "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
@@ -693,7 +717,7 @@
       "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
@@ -709,7 +733,7 @@
       "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "LOS APARATOS",
         "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
@@ -733,7 +757,7 @@
       "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
@@ -753,7 +777,7 @@
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Si Te Preguntan...",
         "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
@@ -825,7 +849,7 @@
       "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
@@ -845,7 +869,7 @@
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
@@ -865,7 +889,7 @@
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
@@ -889,23 +913,7 @@
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Nazareno",
-        "url": "https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
@@ -933,7 +941,7 @@
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-22 00:18:09",
       "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"

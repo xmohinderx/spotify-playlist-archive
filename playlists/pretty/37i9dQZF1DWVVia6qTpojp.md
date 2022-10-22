@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,308 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,319 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 51 | [Be Lifted Up \- Live](https://open.spotify.com/track/36UNdXolsIyWQEYh00ODAa) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Karen Gillespie](https://open.spotify.com/artist/3H7zMUDYkq5RAwjVpoh2dX) | [All Things New \(Live\)](https://open.spotify.com/album/6dyY0EjV3fwxl3JqK69VM3) | 4:15 |
 | 52 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
 | 53 | [Abba Father](https://open.spotify.com/track/5Mm710yfQEfatdtaivoXYE) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:44 |
-| 54 | [I Believe](https://open.spotify.com/track/1G4HQS0ryuYy8ncQr9dSU8) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/6DO6UqQE4KDIr1qDUr72iA) | 5:20 |
+| 54 | [I Believe](https://open.spotify.com/track/6PFR1iE0uUicY7YcuwDq2Z) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/5H4LLOOwlcptxzEJHX3RoL) | 5:20 |
 | 55 | [On & on](https://open.spotify.com/track/3FJBwU3olBn37hiu3UIR8p) | [Christ Church Manchester Music](https://open.spotify.com/artist/4Mnkb9kPN7X3jWy0oA6gx4), [Jake Woodward](https://open.spotify.com/artist/5nQgPJe124X8kMRA5U1vGb) | [Acoustic Worship, Pt\. 2](https://open.spotify.com/album/6FUIT7F8EIqzKRoS6EZfvI) | 5:23 |
 | 56 | [No Longer Afraid](https://open.spotify.com/track/4gtAh8M8QawJswS08bJ0Ri) | [Anastasia Fomenko](https://open.spotify.com/artist/3Rk3xPBC95uadfv2PwpO2P) | [No Longer Afraid](https://open.spotify.com/album/7HmGYngAcFgjxPy3ifbF1a) | 5:22 |
 | 57 | [Jesus I Love You \- Live](https://open.spotify.com/track/3VmSMZSYeFvZEQjk8DiaWm) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Tom Smith](https://open.spotify.com/artist/22ZjvaisJlv6JVpHbeHunG) | [The Promise \(Live\)](https://open.spotify.com/album/0i6oG7YRl57CGwW2bJRTd2) | 7:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 59 | [Fix MY Eyes On You](https://open.spotify.com/track/5Gvsgw6zvvcK73L8mrN9NY) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:57 |
 | 60 | [Simple Pursuit](https://open.spotify.com/track/7mrbfKEIvwf8rWXBxEtp89) | [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [The Ascent, Vol\. 1](https://open.spotify.com/album/2GvamlBYznzImkPF1ue7E2) | 5:18 |
 
-Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMGJlNWFiODBkMDlkMDYyOTIxMjIzOWRkZTZhM2QxNTE2`
+Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMDg0NjliNzkyZDQ5MzVjNTU1NWE1YmY2ZjUzN2JlY2Fh`

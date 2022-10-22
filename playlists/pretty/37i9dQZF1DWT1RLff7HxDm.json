@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 141861,
+  "num_followers": 141934,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGE2MGU5YTdlZTc3YWQ1OTA2N2NkNmJhMTVhNjA3ZTMy",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGM3OWQzYTNmZDA1ZGViZTljYjM2MDBiMDAzOTJlZjMz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Live at the Jazzhaus",
+        "url": "https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 410520,
+      "name": "Chills & Thrills - Live",
+      "url": "https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Live! The Real Deal",
         "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live at the Jazzhaus",
-        "url": "https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4"
+        "name": "One More Car, One More Rider (Live)",
+        "url": "https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 410520,
-      "name": "Chills & Thrills - Live",
-      "url": "https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi"
+      "duration_ms": 539293,
+      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
+      "url": "https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -847,34 +863,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "One More Car, One More Rider (Live)",
-        "url": "https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6"
+        "name": "I Didn't Know (Live)",
+        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 539293,
-      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
-      "url": "https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Liquid Quartet Live",
-        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
-      },
-      "artists": [
-        {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
-        }
-      ],
-      "duration_ms": 320618,
-      "name": "Can't Walk Away From It Now - Live",
-      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
+      "duration_ms": 198040,
+      "name": "I Didn't Know - Live",
+      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -895,6 +895,38 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 446206,
+      "name": "Rocket 88 - Live",
+      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Liquid Quartet Live",
+        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "duration_ms": 320618,
+      "name": "Can't Walk Away From It Now - Live",
+      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Live In Europe",
         "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 230306,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "I Didn't Know (Live)",
-        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "I Didn't Know - Live",
-      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -955,22 +971,6 @@
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 446206,
-      "name": "Rocket 88 - Live",
-      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
     },
     {
       "added_at": "2020-11-20 05:01:00",

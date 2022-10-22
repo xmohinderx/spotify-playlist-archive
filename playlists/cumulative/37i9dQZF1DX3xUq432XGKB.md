@@ -4,7 +4,7 @@
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-95 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+97 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,9 +36,11 @@
 | [Drift \- Acid Mix](https://open.spotify.com/track/5LiYW1rG67exQ0a3ECB4su) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Tangential Zones](https://open.spotify.com/album/1AL6GsdQ5SI97EpMGouJmS) | 3:31 | 2022-10-18 |  |
 | [EON BREAK](https://open.spotify.com/track/2aGn7X6ixuE9P3zaykgoWM) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 3:40 | 2022-10-18 |  |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-10-18 |  |
+| [Face My Fears \(English Version\)](https://open.spotify.com/track/71vwMp0XFmCn0sWucZwews) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 3:39 | 2022-10-21 |  |
 | [Feel The Same](https://open.spotify.com/track/4NOiZh0m02AQZbIvnfE8wU) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Condition](https://open.spotify.com/album/17Z3b3zcONkAQFS1GJ6AM4) | 4:25 | 2022-10-18 |  |
 | [Forever 1 \- Cashmere Cat Remix](https://open.spotify.com/track/6o9KmvPKmrlmGDBBQZFhhC) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [Lantern](https://open.spotify.com/album/0aWoJkfZisHfYjIRjsZOAx) | 3:15 | 2022-10-18 |  |
 | [Fresh Static Snow](https://open.spotify.com/track/1LikBIcmCec6zE64SHFcMK) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:58 | 2022-10-18 |  |
+| [Fuji Opener](https://open.spotify.com/track/0tVv9FxhUjHrhF1DLsDUNH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Alvin Risk](https://open.spotify.com/artist/34PyHmCLNSwQGSH2AahyVN) | [Show Tracks](https://open.spotify.com/album/6xKK037rfCf2f6gf30SpvL) | 2:47 | 2022-10-21 |  |
 | [Furnace Loop](https://open.spotify.com/track/2Afn9DVEGZdNToKzo1HD4I) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Airborne Lard](https://open.spotify.com/album/3d8kb3eoguY0W0rL1Fh9Dy) | 2:51 | 2022-10-18 |  |
 | [Get Your Wish](https://open.spotify.com/track/6aUfT9QOcTHhxLNrf1aVR8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:38 | 2022-10-18 |  |
 | [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 | 2022-10-18 |  |

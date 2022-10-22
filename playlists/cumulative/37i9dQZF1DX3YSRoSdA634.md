@@ -4,14 +4,14 @@
 
 > Having a bad day? We know how it feels!
 
-454 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+455 songs - 1 day 4 hr 11 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 | 2021-12-15 | 2022-07-29 |
 | [5AM](https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:17 | 2022-02-07 | 2022-08-06 |
 | [7 Minutes](https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [7 Minutes](https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar) | 3:31 | 2021-12-15 | 2022-10-18 |
-| [A Drop In The Ocean](https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Bedroom Demos](https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm) | 3:40 | 2021-12-15 |  |
+| [A Drop in the Ocean](https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Bedroom Demos](https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm) | 3:40 | 2021-12-15 |  |
 | [A Little Too Much](https://open.spotify.com/track/06DaCxeg3IUMcxDkKEyQKf) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5wKylB0Zwnxz046O7po25D) | 3:07 | 2021-12-15 | 2022-07-29 |
 | [A Little Too Much](https://open.spotify.com/track/1T7AiFL9ruKKwlONN35Vh0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:07 | 2022-07-01 |  |
 | [Afterthought](https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:14 | 2022-07-08 |  |
@@ -134,6 +134,7 @@
 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/0Bm7sXVrt43ZfCxxIAouQ4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/5UpQeaGV6ERVi4YJNvyPZI) | 2:49 | 2022-02-07 | 2022-04-21 |
 | [Give Me Something](https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 2:38 | 2022-02-07 | 2022-04-20 |
 | [God I Hope This Year Is Better Than The Last](https://open.spotify.com/track/0xRO7EKgYKVB8zKIoiXMDD) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Maybe This Christmas Vol 5: Songs for the Yule Log](https://open.spotify.com/album/7IZ6efRavLKAXtZ1s882T5) | 3:56 | 2022-02-07 | 2022-04-19 |
+| [Gone](https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok) | 3:25 | 2022-09-30 |  |
 | [Gone](https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t) | 3:25 | 2021-12-15 | 2022-10-13 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2022-07-01 |  |
 | [Gravity](https://open.spotify.com/track/6OBZ78p8YaRPzKnQsZOggH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:05 | 2022-02-07 | 2022-04-20 |
@@ -152,7 +153,7 @@
 | [Head Above Water](https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:40 | 2022-07-01 |  |
 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 | 2021-12-15 |  |
 | [Heart Like Yours](https://open.spotify.com/track/3JOF9NzQVkUXtCcJbEQuAb) | [Willamette Stone](https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS) | [If I Stay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cpfXsbsHVNweQ4USbO6wu) | 3:19 | 2021-12-15 | 2022-07-29 |
-| [Heart Like Yours](https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5) | [Willamette Stone](https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS) | [If I Stay \(Original Motion Picture Soundtrack\) \[Deluxe Version\]](https://open.spotify.com/album/0mefrJRDTY0Q1eVZVqAAYU) | 3:20 | 2022-07-01 |  |
+| [Heart Like Yours](https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5) | [Willamette Stone](https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS) | [If I Stay \(Original Motion Picture Soundtrack\) \[Deluxe Version\]](https://open.spotify.com/album/0mefrJRDTY0Q1eVZVqAAYU) | 3:20 | 2022-07-01 | 2022-10-22 |
 | [heart won't let me \- stripped](https://open.spotify.com/track/7uANMVttqDIdNySaMvVOhh) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy \(deluxe\)](https://open.spotify.com/album/6ZsCg58PZj6jFALfiB5ZtX) | 3:17 | 2021-12-15 | 2022-07-29 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-15 |  |
 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 | 2022-07-01 |  |

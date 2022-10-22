@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,202 likes - 214 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,219 likes - 214 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 150 | [1998](https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 6:07 |
 | 151 | [Stay \(feat\. Dive Deep\) \- Machinedrum Remix](https://open.spotify.com/track/4Zdd7X7z6HWOBNEaVxZwtR) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Dive Deep](https://open.spotify.com/artist/5MdvbtcRkC5dHjMyeFbPtS), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Cyclical \(Remixes\)](https://open.spotify.com/album/5ZgtiOUBGq70vNV9k7YMNz) | 3:27 |
 | 152 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
-| 153 | [Oh!](https://open.spotify.com/track/6CJI4zpW77MHwmRo5DCsGk) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 4:08 |
+| 153 | [Oh!](https://open.spotify.com/track/2yjRx5E794bHknceHZQdK0) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 4:08 |
 | 154 | [In the Midst of It All](https://open.spotify.com/track/6vPDjg4zuLlJrzgm9vqZCj) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 5:42 |
 | 155 | [All Of Us](https://open.spotify.com/track/1a1EL7PABTujajg6YwsOk2) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Vegetal: Offshoots EP](https://open.spotify.com/album/17O1CApsERLnvq52PbZZXE) | 4:08 |
 | 156 | [Lying Together](https://open.spotify.com/track/1WNOscEdUrRvDwHotfeAW5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:28 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 213 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 214 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGVhOTQwYWU2NGU3NTlkOTdkM2I4ZTk5ZmVhM2QwN2Rm`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGNiOWE4MGJjOWY5MmI4Y2E0NTcwZDAwNDhjMjI0OGEx`

@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-110 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+111 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2022-03-30 |  |
 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 | 2022-03-30 |  |
 | [Rent a New Place, Everything Could Change](https://open.spotify.com/track/42T8hyzch4rCR4UsDQ4TS6) | [Merz](https://open.spotify.com/artist/5OLpeoin9igrD2GR6CRkyp), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Dreams of Sleep and Wakes of Sound](https://open.spotify.com/album/203n39LZt0ktgcQ6mLWLoa) | 5:45 | 2022-03-30 |  |
+| [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-21 |  |
 | [Rings](https://open.spotify.com/track/2O16b4CiYRidoYlTFT8iom) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Rings](https://open.spotify.com/album/5r3wmyRZO5S2mq8a1frTAq) | 2:59 | 2022-03-30 |  |
 | [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 | 2022-03-30 |  |
 | [Runeii](https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 4:57 | 2022-07-15 |  |

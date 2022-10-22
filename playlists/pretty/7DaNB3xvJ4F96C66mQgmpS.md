@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > The best workout playlist is here\. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and more.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 89,992 likes - 52 songs - 2 hr 42 min
+[Digster](https://open.spotify.com/user/digster.fm) - 90,001 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 32 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 |
 | 33 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 |
 | 34 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 |
-| 35 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2OYfxjLnQuPo7Co1WH0Z1S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti](https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 2:32 |
+| 35 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2OYfxjLnQuPo7Co1WH0Z1S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 2:32 |
 | 36 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 |
 | 37 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 |
 | 38 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |

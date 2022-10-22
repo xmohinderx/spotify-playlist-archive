@@ -4,7 +4,7 @@
 
 > The 2022 nominees.
 
-149 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/0dCZWjdvmpZmHTm4DVGHGv)
+150 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/0dCZWjdvmpZmHTm4DVGHGv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Cada vez cadáver](https://open.spotify.com/track/5xOKdGmpcG5zXhO5j8LSFV) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cada vez cadáver](https://open.spotify.com/album/2xai9qYyjquGekqPXAEFFI) | 5:37 | 2022-09-21 |  |
 | [Café con Cariño](https://open.spotify.com/track/0VA72tcYzRE9chONyYLgfa) | [Renesito Avich](https://open.spotify.com/artist/2siDY3yXwZYMjPPHIh6IHW) | [Café con Cariño](https://open.spotify.com/album/2uO4h9hBuGC2ISaYZWOkdk) | 3:59 | 2022-09-21 |  |
 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 | 2022-09-21 |  |
-| [Camino Sin Rumbo](https://open.spotify.com/track/4sBmZReoyxYZLRYOd9tp2J) | [Angela Alvarez](https://open.spotify.com/artist/10JqA8e5aUTHSsdK6zRvoV) | [Angela Alvarez](https://open.spotify.com/album/3vfKoRXHpoDFBCpvVbsQin) | 4:02 | 2022-09-21 |  |
+| [Camino Sin Rumbo](https://open.spotify.com/track/3lQ7QfmhD8bFxGpOZaiJvq) | [Angela Alvarez](https://open.spotify.com/artist/10JqA8e5aUTHSsdK6zRvoV) | [Angela Alvarez](https://open.spotify.com/album/04esNzQGGw8nrIIimriH0W) | 4:02 | 2022-10-11 |  |
+| [Camino Sin Rumbo](https://open.spotify.com/track/4sBmZReoyxYZLRYOd9tp2J) | [Angela Alvarez](https://open.spotify.com/artist/10JqA8e5aUTHSsdK6zRvoV) | [Angela Alvarez](https://open.spotify.com/album/3vfKoRXHpoDFBCpvVbsQin) | 4:02 | 2022-09-21 | 2022-10-22 |
 | [Canten](https://open.spotify.com/track/08mFQ1CYtfM36EiCX543Vs) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Canten](https://open.spotify.com/album/3KAyCFdM5sYyuIxesaRQNU) | 3:54 | 2022-09-21 |  |
 | [Castillos de arena](https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Castillos de arena](https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq) | 4:12 | 2022-09-21 |  |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-09-21 |  |

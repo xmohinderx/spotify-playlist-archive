@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,847 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,909 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 33 | [The Burning Temple](https://open.spotify.com/track/7Jkmc8EU96FhqBe52Vqahq) | [Thom Brennan](https://open.spotify.com/artist/1EHH5QEc23WZZ4KlbBngMZ) | [Mountains](https://open.spotify.com/album/7lWulChMGvHgoExzY2kMLd) | 3:37 |
 | 34 | [I Forgot The Shirts](https://open.spotify.com/track/2DOCT6JzhvWURE4d1m8SPy) | [Música Esporádica](https://open.spotify.com/artist/0h71X1g6FJuanP96HHvGmg), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [Música Esporádica](https://open.spotify.com/album/7dnlyE1XLw84eNn4UJSU0j) | 6:09 |
 | 35 | [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 |
-| 36 | [Oakwood Green \- Remastered](https://open.spotify.com/track/37uIxk56anbPqnXXFANh0q) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:04 |
+| 36 | [Oakwood Green \- Remastered](https://open.spotify.com/track/4kwA6pb1fswZ2RitXk9FKs) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/0JCvbWETwmTcjlVyfT2KRn) | 2:04 |
 | 37 | [The Healing Place](https://open.spotify.com/track/4LdxNQZKD9P0V9bTmIekBp) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 5:28 |
 | 38 | [Shettle Wood](https://open.spotify.com/track/5MYVdcxQksPeijQwJlldpZ) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Land of Look Behind \(Remastered + Expanded\)](https://open.spotify.com/album/5PfXgN1QUM9hpwdyyDeB5N) | 3:05 |
 | 39 | [The City Sleeps \- Remastered](https://open.spotify.com/track/4z2wYbLHA8PikfutuQZwZC) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:34 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 73 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 | 74 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 
-Snapshot ID: `MTY2NDg5MTc1MCwwMDAwMDAwMDEyZTQ3OTJhNDhkNWMwM2M0ZDM2NTgxOWY2OTBlNjcy`
+Snapshot ID: `MTY2NDg5MTc1MCwwMDAwMDAwMDk0MGVkYTUwZDRmYzNhOWRmNjQxMzI1NWMwMmY4N2Uz`

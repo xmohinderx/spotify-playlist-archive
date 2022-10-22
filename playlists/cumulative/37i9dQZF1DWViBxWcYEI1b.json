@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Cat Burns ",
+  "description": "For those with a taste for both the new and the classic. Cover: Nemahsis",
   "name": "Contemporary Blend",
   "published_playlist_ids": [
     "3C1K5LpRz1NNeHvy2kRwbA"
@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
         "name": "CITIZENS",
         "url": "https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp"
       },
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 200985,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/5SR9WnrC9pGFfDld6xoil5"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 194543,
       "name": "Boyfriends",
       "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
@@ -1645,6 +1663,24 @@
       "duration_ms": 225653,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/27q9YbWcDoDJR7RiTDcLJy"
+    },
+    {
+      "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0XUvbobEmBV6fALSvl7V28"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/3uJ6LonaZHCqjlQ6vevlqn"
     },
     {
       "album": {
@@ -2975,7 +3011,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 184167,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr"
@@ -3606,6 +3642,24 @@
     },
     {
       "album": {
+        "name": "How We Used To Be",
+        "url": "https://open.spotify.com/album/5maMPYNEI011eYny2uOcsO"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198801,
+      "name": "How We Used To Be",
+      "url": "https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK"
+    },
+    {
+      "album": {
         "name": "Hunter",
         "url": "https://open.spotify.com/album/4HUS0Gip1lnJYjL3MMbNZ3"
       },
@@ -3725,7 +3779,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 183941,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp"
@@ -4006,6 +4060,24 @@
     },
     {
       "album": {
+        "name": "If I Told You That I Missed You",
+        "url": "https://open.spotify.com/album/71wXzObsxDCoSeIK8GAQ4W"
+      },
+      "artists": [
+        {
+          "name": "Eric Punzo",
+          "url": "https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248464,
+      "name": "If I Told You That I Missed You",
+      "url": "https://open.spotify.com/track/0gI0Tv38MbKDYTuJmvlgML"
+    },
+    {
+      "album": {
         "name": "If You Ever Change Your Mind",
         "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
       },
@@ -4079,7 +4151,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 200594,
       "name": "In Madness",
       "url": "https://open.spotify.com/track/2lZ3gdbKLymyHJqcuGQZhb"
@@ -4878,6 +4950,24 @@
     },
     {
       "album": {
+        "name": "Love What You're Not",
+        "url": "https://open.spotify.com/album/7v6pIcNaMUtGd6pcgXV7eA"
+      },
+      "artists": [
+        {
+          "name": "Zach Oliver",
+          "url": "https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211612,
+      "name": "Love What You're Not",
+      "url": "https://open.spotify.com/track/7wAoWetXKoBQs3HpqT1jh2"
+    },
+    {
+      "album": {
         "name": "Descendant",
         "url": "https://open.spotify.com/album/7HOSBjQWciwUIq4qrtpCC5"
       },
@@ -5443,7 +5533,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
@@ -6363,7 +6453,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 174842,
       "name": "Saved My Life (with R3HAB)",
       "url": "https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L"
@@ -6677,7 +6767,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 193799,
       "name": "somebody to you",
       "url": "https://open.spotify.com/track/73RthGWMCa1Sc8uZbOzvYs"
@@ -6735,6 +6825,24 @@
       "duration_ms": 222466,
       "name": "Somebody's Nobody",
       "url": "https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC"
+    },
+    {
+      "album": {
+        "name": "someone I don\u2019t know",
+        "url": "https://open.spotify.com/album/4eWvYIwvUfpS2bdcnYbo32"
+      },
+      "artists": [
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "someone I don\u2019t know",
+      "url": "https://open.spotify.com/track/7EvmiaDeCHRKMfQoyrLkBv"
     },
     {
       "album": {
@@ -7173,6 +7281,24 @@
       "duration_ms": 176842,
       "name": "The Old Me",
       "url": "https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE"
+    },
+    {
+      "album": {
+        "name": "The Festival",
+        "url": "https://open.spotify.com/album/6FB8Z2KMnKTKUbsZp6Qc5K"
+      },
+      "artists": [
+        {
+          "name": "Tim Baker",
+          "url": "https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249765,
+      "name": "The Shield",
+      "url": "https://open.spotify.com/track/5gps9XXQPo90zgo1dLztdo"
     },
     {
       "album": {
@@ -7927,6 +8053,24 @@
       "duration_ms": 228546,
       "name": "Why",
       "url": "https://open.spotify.com/track/3G0hJoWSbS43usQ0NRTSC4"
+    },
+    {
+      "album": {
+        "name": "Crush(ed)",
+        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175331,
+      "name": "Wish You the Worst",
+      "url": "https://open.spotify.com/track/2nOFCbKjEwEJBJu7eSMczI"
     },
     {
       "album": {

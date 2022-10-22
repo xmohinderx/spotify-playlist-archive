@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Just Nature, Baby](https://open.spotify.com/track/1ZIhUugCmhxWr6yEzx1HFc) | [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [It's Just Nature, Baby](https://open.spotify.com/album/2181FqiPENCUAC1DZuRfyb) | 3:51 |
 | 2 | [Farazi](https://open.spotify.com/track/6PK2rZ2jf6l6SdtnXgFotD) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Farazi](https://open.spotify.com/album/4fdLKEjn0PiHGtTVeKbBCF) | 5:10 |
 | 3 | [Tenerife](https://open.spotify.com/track/6x1EH4XBaccSlCZzp8c45t) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Tenerife](https://open.spotify.com/album/7CI0DdhAT7EJJyK4NEfzEc) | 5:18 |
-| 4 | [Pulse VI](https://open.spotify.com/track/5GvqeuJ8c9a3x5rmdjh0Mn) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Pulse VI](https://open.spotify.com/album/0ZU01aBiNrTOe5WPCZxoHW) | 5:27 |
+| 4 | [Pulse VI](https://open.spotify.com/track/2tthSVxYrS6vMRGchANWSL) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/5AACj1zBwmUDLlq9DZ1VJX) | 5:27 |
 | 5 | [Cavresamin \- Foxall Remix](https://open.spotify.com/track/7lvZ4DujXfjVYEWhZBKOrm) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Zentaur](https://open.spotify.com/album/3Ids63v27ACVvHShzYWXIB) | 6:55 |
 | 6 | [Mirage \- Remix](https://open.spotify.com/track/5bLWePeHYsfdJwlxCUdHOH) | [Balint Boldizsar](https://open.spotify.com/artist/5xFU79pSKrEpSiTVysdTY3), [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ), [Samarana](https://open.spotify.com/artist/19zCcLLWaZjG45iFFlhvGL) | [Chaos & Order](https://open.spotify.com/album/0WVkMCuDjUiee7OCbeVZas) | 6:02 |
 | 7 | [Choo Choo](https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy) | 7:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 |
 | 70 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 |
 
-Snapshot ID: `MTY2NTc1NDYyMywwMDAwMDAwMDJkMmFkODFjMjAwNjg1NDFhOTA3MTM3MmFlMDBkNDcy`
+Snapshot ID: `MTY2NTc1NDYyMywwMDAwMDAwMDYwODNjMzZlMTk4MGJlNGEwZDM2NjgzNjM4NzYzYmFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,922 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,144 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 56 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 |
 | 57 | [Diamond Heart](https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Diamond Heart](https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C) | 3:59 |
 | 58 | [Goodbye \(feat\. Lyse\) \- Radio Edit](https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [Lyse](https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM) | [Goodbye \(feat\. Lyse\) \[Radio Edit\]](https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4) | 3:21 |
-| 59 | [Say It \- Illenium Remix](https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Skin: The Remixes](https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN) | 4:27 |
-| 60 | [Talk About It](https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Talk About It](https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW) | 2:44 |
+| 59 | [Talk About It](https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Talk About It](https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW) | 2:44 |
+| 60 | [Say It \- Illenium Remix](https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Skin: The Remixes](https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN) | 4:27 |
 | 61 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
 | 62 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 63 | [September Song \- Indian Summer Mix](https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Mark Ralph](https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc) | [September Song \(Remixes\)](https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1) | 3:35 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDFmNTBjMmJhNjc3ZTEzZWU0M2I4YjdmMTVmZTk1MWNk`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDk1YjBmNjdmMjE5NjZkOGFhMjMwNjQ4NTQzMDFjMDUz`

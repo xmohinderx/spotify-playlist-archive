@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Soledad, Lali & Natalia Oreiro.",
-  "num_followers": 75840,
+  "num_followers": 75881,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDVkMTA2MTM5OTFmMWRhMTZiZTgwMDM1OTc3YTllZDc4",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGMzMDdiNGQzNGE4YzQ3ZTRkZmE1NTQ5MTVmZjViYjEz",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Tonto Cari\u00f1o",
         "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 299284,
       "name": "Estupido",
       "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3"
+        "name": "Encanto Tropical",
+        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
       },
       "artists": [
         {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         }
       ],
-      "duration_ms": 217280,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs"
+      "duration_ms": 233973,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Encanto Tropical",
-        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478"
+      "duration_ms": 217280,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "El Besito",
         "url": "https://open.spotify.com/album/4axZl6YknXJ5IMf4WuBqCY"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 185319,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/2C5pko3DlZKXjg74AsZEbN"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2022-09-23 03:00:00",

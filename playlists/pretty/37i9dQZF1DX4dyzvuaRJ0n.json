@@ -1,15 +1,15 @@
 {
-  "description": "The world's biggest dance hits. Cover: Eliza Rose",
-  "num_followers": 5934069,
+  "description": "The world's biggest dance hits. Cover: Seven Lions",
+  "num_followers": 5934244,
   "original_name": "mint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDViZTUyNDBlNDU4ZjZlZDM0NjA2OTEzNThjMDc5YTEy",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDc5NGE1ZjdiYjcxNGU2NTNlMzcxMWU4M2Y3YzdhOTgy",
   "tracks": [
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -29,7 +29,47 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Beyond The Veil",
+        "url": "https://open.spotify.com/album/5bUUTRboFQUXnpWztY9RBT"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Eli Teplin",
+          "url": "https://open.spotify.com/artist/0WcAIG4jcHAwMBbCgk63F4"
+        }
+      ],
+      "duration_ms": 237539,
+      "name": "Between (feat. Eli Teplin)",
+      "url": "https://open.spotify.com/track/3rkB29gfzjboamcQNo5tSS"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -49,7 +89,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Take Me High",
         "url": "https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7"
@@ -73,7 +113,7 @@
       "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Kiss It Better",
         "url": "https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m"
@@ -93,7 +133,7 @@
       "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
@@ -109,27 +149,7 @@
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
@@ -153,7 +173,23 @@
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Delilah (pull me out of this)",
+        "url": "https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 250702,
+      "name": "Delilah (pull me out of this)",
+      "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "I FEEL LIKE DANCING",
         "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
@@ -193,7 +229,7 @@
       "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Capricorn Sun",
         "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
@@ -213,7 +249,7 @@
       "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Remember (feat. Stevie Appleton)",
         "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
@@ -241,23 +277,7 @@
       "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
         "url": "https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Like Wooh Wooh",
         "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Show Me Some Love (feat. Sadie Walker)",
         "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Call On Me (with Tove Lo)",
         "url": "https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Black Mascara.",
         "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
@@ -457,7 +477,23 @@
       "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
@@ -477,7 +513,27 @@
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Deep (with DJ Snake & Yung Felix)",
         "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Make You Say",
         "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
@@ -525,31 +581,7 @@
       "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
@@ -569,7 +601,23 @@
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Picture in my mind",
         "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
@@ -589,23 +637,27 @@
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "KILL DEM",
-        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+        "name": "Lionheart (Fearless)",
+        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 223536,
-      "name": "KILL DEM",
-      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+      "duration_ms": 186689,
+      "name": "Lionheart (Fearless)",
+      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg"
@@ -625,7 +677,7 @@
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -653,7 +705,7 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Dancing In The Shadows",
         "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
@@ -673,7 +725,7 @@
       "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
@@ -701,7 +753,7 @@
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
         "url": "https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA"
@@ -725,7 +777,7 @@
       "url": "https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "It's Ours",
         "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
@@ -749,7 +801,7 @@
       "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
@@ -769,7 +821,31 @@
       "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Forever And A Day",
         "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
@@ -789,7 +865,7 @@
       "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Smack Yo'",
         "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
@@ -805,7 +881,7 @@
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Nymph",
         "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
@@ -821,7 +897,7 @@
       "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Twin Flame",
         "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
@@ -841,7 +917,7 @@
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Woke Up in Love",
         "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
@@ -865,7 +941,7 @@
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Worlds On Fire (with R3HAB & Au/Ra)",
         "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
@@ -889,7 +965,7 @@
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "People Ain't Dancing (feat. Kah-Lo)",
         "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
@@ -909,7 +985,7 @@
       "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
@@ -925,7 +1001,7 @@
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
@@ -953,7 +1029,7 @@
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
@@ -973,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
@@ -989,7 +1065,7 @@
       "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "World Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
@@ -1013,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Nothing's Perfect",
         "url": "https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B"
@@ -1033,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
@@ -1053,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
@@ -1081,7 +1157,7 @@
       "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "I Will / Beloved",
         "url": "https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8"
@@ -1097,7 +1173,7 @@
       "url": "https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "All That Really Matters",
         "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
@@ -1117,7 +1193,7 @@
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Replay (with Dylan Matthew)",
         "url": "https://open.spotify.com/album/238LCLiN6LwDX12Ess9x0K"
@@ -1137,7 +1213,7 @@
       "url": "https://open.spotify.com/track/1Ylkd7GPx0VpwHNlAGpig2"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "ME WITHOUT U",
         "url": "https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob"
@@ -1157,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "What A Life (feat. Stevie Appleton)",
         "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
@@ -1181,7 +1257,7 @@
       "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Trompeta",
         "url": "https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz"
@@ -1197,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66"
@@ -1217,7 +1293,7 @@
       "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Consciousness (Eric Prydz Remix)",
         "url": "https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu"
@@ -1241,7 +1317,7 @@
       "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Apollo EP",
         "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
@@ -1257,7 +1333,7 @@
       "url": "https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "For One Night",
         "url": "https://open.spotify.com/album/4rFPkGiWzoaLl59j11Ruj4"
@@ -1273,7 +1349,7 @@
       "url": "https://open.spotify.com/track/4PDxk8IXTMxbRlSv7Cx2Hb"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
@@ -1293,7 +1369,7 @@
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
@@ -1309,7 +1385,7 @@
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "BUBBLEGUM",
         "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
@@ -1325,7 +1401,7 @@
       "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "My Feelings For You (Mark Knight Remix)",
         "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
@@ -1349,7 +1425,7 @@
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/3fRe1aTVYRwLNGOcLpnDXk"
@@ -1365,7 +1441,7 @@
       "url": "https://open.spotify.com/track/5CvaeEX9dU9ZhwyoVIIgTO"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
@@ -1393,27 +1469,7 @@
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Everything Goes On",
         "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
@@ -1433,27 +1489,7 @@
       "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Call On Me (feat. Vancouver Sleep Clinic)",
-        "url": "https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 293122,
-      "name": "Call On Me (feat. Vancouver Sleep Clinic)",
-      "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "22 Love",
         "url": "https://open.spotify.com/album/5Y5KPWlPEZnNghuf1bQtMD"
@@ -1469,7 +1505,7 @@
       "url": "https://open.spotify.com/track/64S5EzF4dYoRWpwbkWLE0R"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "No Piensa",
         "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
@@ -1493,7 +1529,7 @@
       "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "pogo",
         "url": "https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw"
@@ -1513,7 +1549,7 @@
       "url": "https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Zorro",
         "url": "https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch"
@@ -1533,7 +1569,7 @@
       "url": "https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
@@ -1553,7 +1589,7 @@
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
@@ -1577,7 +1613,7 @@
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "ATK",
         "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
@@ -1593,7 +1629,7 @@
       "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Not Over Yet (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
@@ -1613,7 +1649,7 @@
       "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "When It Rains, It Pours",
         "url": "https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio"
@@ -1629,7 +1665,7 @@
       "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
@@ -1649,7 +1685,7 @@
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Lost Without You (with Dean Lewis)",
         "url": "https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI"
@@ -1669,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Missing You / Something About Your Love",
         "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
@@ -1685,7 +1721,7 @@
       "url": "https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Nowhere To Hide",
         "url": "https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH"
@@ -1709,7 +1745,7 @@
       "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Day N Night",
         "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
@@ -1733,7 +1769,7 @@
       "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
@@ -1753,7 +1789,7 @@
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
@@ -1773,7 +1809,7 @@
       "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "When the Lights Go",
         "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
@@ -1789,7 +1825,7 @@
       "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "on & on",
         "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
@@ -1813,7 +1849,7 @@
       "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
@@ -1837,7 +1873,7 @@
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Aguila ft. Cumbiafrica",
         "url": "https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs"
@@ -1861,7 +1897,7 @@
       "url": "https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Talkin' Drums",
         "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
@@ -1881,7 +1917,7 @@
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "He Goes Down",
         "url": "https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr"
@@ -1897,7 +1933,7 @@
       "url": "https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Can You Pay?",
         "url": "https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri"
@@ -1917,7 +1953,7 @@
       "url": "https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Chromatic",
         "url": "https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA"
@@ -1933,7 +1969,7 @@
       "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "BRAND NEW BITCH",
         "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
@@ -1949,27 +1985,7 @@
       "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Just Say",
         "url": "https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG"
@@ -1989,7 +2005,7 @@
       "url": "https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"

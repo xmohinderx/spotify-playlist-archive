@@ -1,12 +1,12 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 55550,
+  "num_followers": 55557,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxODg5MiwwMDAwMDAwMGFlZTA1MWE5ZDMzNDNjMzU2NjFmZTdjMjdlNGM5MTBm",
+  "snapshot_id": "MTY2NjAxODg5MiwwMDAwMDAwMDM2ZDdjZTRiODg1Nzc3NWU0M2Q1ZDU1ZGI5ODU2NGI2",
   "tracks": [
     {
       "added_at": "2022-10-10 08:01:46",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-10-10 08:01:46",
       "album": {
+        "name": "\u653e\u904e\u81ea\u5df1",
+        "url": "https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8"
+      },
+      "artists": [
+        {
+          "name": "Ada Zhuang",
+          "url": "https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM"
+        }
+      ],
+      "duration_ms": 249041,
+      "name": "\u653e\u904e\u81ea\u5df1",
+      "url": "https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH"
+    },
+    {
+      "added_at": "2022-10-10 08:01:46",
+      "album": {
         "name": "\u6700\u60b2\u50b7\u7684\u4e8b (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248 \u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-10-10 08:01:46",
       "album": {
-        "name": "\u5225\u518d\u60f3\u898b\u6211",
-        "url": "https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX"
-      },
-      "artists": [
-        {
-          "name": "\u8a31\u5149\u6f22",
-          "url": "https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "\u5225\u518d\u60f3\u898b\u6211",
-      "url": "https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f"
-    },
-    {
-      "added_at": "2022-10-10 08:01:46",
-      "album": {
         "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-10-10 08:01:46",
       "album": {
-        "name": "\u653e\u904e\u81ea\u5df1",
-        "url": "https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8"
+        "name": "\u5225\u518d\u60f3\u898b\u6211",
+        "url": "https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX"
       },
       "artists": [
         {
-          "name": "Ada Zhuang",
-          "url": "https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM"
+          "name": "\u8a31\u5149\u6f22",
+          "url": "https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv"
         }
       ],
-      "duration_ms": 249041,
-      "name": "\u653e\u904e\u81ea\u5df1",
-      "url": "https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH"
+      "duration_ms": 270026,
+      "name": "\u5225\u518d\u60f3\u898b\u6211",
+      "url": "https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f"
     },
     {
       "added_at": "2022-10-10 08:01:46",

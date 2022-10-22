@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-276 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+277 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [I've Got You Under My Skin](https://open.spotify.com/track/7eL2UWdB8UglEfnCvSypbq) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 6:10 | 2022-01-20 |  |
 | [I've Got You Under My Skin](https://open.spotify.com/track/3IJYo6eIhsMoReHR0QWITa) | [Mark Tremonti](https://open.spotify.com/artist/5KxsLYxoPIrKeITg7ZVHkQ) | [I've Got You Under My Skin](https://open.spotify.com/album/5T908F8FFIUxW36CfbCcG0) | 3:32 | 2022-03-25 |  |
 | [I've Grown Accustomed To Her Face \- Remastered/1998](https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:42 | 2022-01-20 |  |
+| [I've Never Been In Love Before](https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:42 | 2022-10-20 |  |
 | [I've Never Been In Love Before](https://open.spotify.com/track/4spNUk1Fj62kbBQibFAHpu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:42 | 2022-08-29 | 2022-09-01 |
 | [I've Never Been In Love Before](https://open.spotify.com/track/5Hmwj4ggGHuHm0prNevBBA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:42 | 2022-08-29 | 2022-10-13 |
 | [If I Ain’t Got You](https://open.spotify.com/track/3WpToBi5wFQpHPo5dVV2MW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 5:06 | 2022-01-20 |  |
@@ -242,7 +243,7 @@
 | [The Masquerade Is Over](https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:24 | 2022-01-20 | 2022-10-08 |
 | [The Moon Is Made of Gold](https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Balm in Gilead](https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e) | 3:00 | 2022-01-20 |  |
 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 | 2022-01-20 |  |
-| [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-18 |  |
+| [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-18 | 2022-10-22 |
 | [The Streets of Berlin](https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 4:53 | 2022-01-20 | 2022-10-08 |
 | [The Sweetest Moments](https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla) | [Alex Bird](https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB), [The Jazz Mavericks](https://open.spotify.com/artist/4h5LEfrmdlpbNxjUbvnkBt), [Ewen Farncombe](https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH) | [The Sweetest Moments](https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF) | 4:38 | 2022-10-11 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/1W0we35aHpMp7AkOYyh76Q) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 4:54 | 2022-01-20 | 2022-10-08 |

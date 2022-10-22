@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-173 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+174 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/36IfppbuhVOH1pSRQucbts) | [Sisu Syndrome](https://open.spotify.com/artist/0oLpUOxIR7CnkgQggfksI9) | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/album/5ERjTB1ysvHRuZxFpVGuQO) | 2:28 | 2021-11-10 |  |
 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 | 2021-11-10 | 2022-04-22 |
 | [Blood Moon](https://open.spotify.com/track/65ip2ya2ftUbZHZrfCWuVt) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Blood Moon](https://open.spotify.com/album/32hQvZj9wovY9TOsH29TQn) | 3:53 | 2021-11-10 | 2022-04-22 |
+| [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 | 2022-10-21 |  |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-03-17 |  |
 | [Bylgjur](https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Bylgjur](https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL) | 2:21 | 2021-11-10 |  |
 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 | 2021-11-10 |  |

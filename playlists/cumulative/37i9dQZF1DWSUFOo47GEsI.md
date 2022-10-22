@@ -4,12 +4,13 @@
 
 > Music to reduce insomnia and help you relax.
 
-307 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+310 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Fair Wind](https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [A Fair Wind](https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4) | 3:00 | 2021-11-10 |  |
 | [A Guiding Hand](https://open.spotify.com/track/4TYEDIzZYJYamfv3NtndPD) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Over There](https://open.spotify.com/album/5v9tWyEWw5L1DBK1MnEdOt) | 2:56 | 2021-11-10 |  |
+| [A Moment](https://open.spotify.com/track/5rwq3bHJ2MeqeMrOzRkhFM) | [Ólfur](https://open.spotify.com/artist/6WCfCK4VbJnH7w6IBF156P) | [A Moment](https://open.spotify.com/album/1BtAYI88SZeTBHFjD1A8OO) | 2:35 | 2022-10-21 |  |
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2021-11-10 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 |  |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2021-11-10 |  |
@@ -277,6 +278,7 @@
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2021-11-10 |  |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-11-10 |  |
 | [The Sea Of Tranquility](https://open.spotify.com/track/1xSShAVCtaLdetNXE5TcnQ) | [Sleeping Luna](https://open.spotify.com/artist/3qgnBj2gbx4W6sWwyJpkWM) | [The Sea Of Tranquility](https://open.spotify.com/album/62JyAC5h2bYL3GSPY0Iv1W) | 2:53 | 2022-10-15 |  |
+| [The Waiting](https://open.spotify.com/track/4CDYt47BwYVotSySNDNlge) | [Eadgar Évariste](https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu) | [The Waiting](https://open.spotify.com/album/2Xu9yNNSaphrkkohStn6uO) | 2:15 | 2022-10-21 |  |
 | [Thinking of You](https://open.spotify.com/track/0ZHZ3KsAl0AVBONDmUY3mv) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Thinking of You](https://open.spotify.com/album/6jKwbDWoBziX5qErZMUSa5) | 2:34 | 2021-11-10 |  |
 | [Tickling Sands](https://open.spotify.com/track/5Mo96DgFoFbc11UVgtIRB4) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Tickling Sands](https://open.spotify.com/album/3yhVe5nKL8Vsgd03lPsxDN) | 2:34 | 2021-11-10 |  |
 | [Tidal Flow](https://open.spotify.com/track/63yQS5uf762DJHLssPlrNw) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:42 | 2021-11-10 |  |
@@ -312,6 +314,7 @@
 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2022-09-30 |  |
 | [Window To My Mind](https://open.spotify.com/track/1wE9HgRDTAlL5zsw1V3ThR) | [Konradism](https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk) | [Window To My Mind](https://open.spotify.com/album/5nO2GGiIIYGRR4ZvnxsMXB) | 2:47 | 2021-11-10 |  |
 | [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-07 |  |
+| [Within](https://open.spotify.com/track/6yy6c0Oy0fg69Zy0htgXsm) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Senses](https://open.spotify.com/album/42n9gHTqtCogUygsmvO49n) | 2:55 | 2022-10-21 |  |
 | [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2021-11-10 |  |
 | [zomerochtend](https://open.spotify.com/track/3cYVVPJoyBsDdr5v4GR5wZ) | [Gülay de Wind](https://open.spotify.com/artist/5D0qIsPOnyaBwKc6ICi5A0) | [zomerochtend](https://open.spotify.com/album/1IxIICJCdrCyPJxRITquke) | 3:40 | 2021-11-10 |  |
 | [Ögonblick](https://open.spotify.com/track/0mxy9AngPGUYN14vvO1Ppw) | [Amanda Wildt](https://open.spotify.com/artist/4acmjvEdOPeKKwiRv3hZ4h) | [Ögonblick](https://open.spotify.com/album/4vZ2qrqFgvDmf5VN6balRQ) | 3:24 | 2022-03-21 |  |

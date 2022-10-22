@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 55209,
+  "num_followers": 55285,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMDIyMDJlMTJiYjVkMDE1N2IxYmEzYmUxNmFkNWMxN2E4",
+  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMDA4MmZhNjg3YjUzMGYwZTU0MmEyNzBmNTI1ZGNjZWQ5",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 204990,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 222044,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+      "duration_ms": 222044,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -399,6 +383,22 @@
       "duration_ms": 252925,
       "name": "Love It If We Made It",
       "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 142500,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "Charcoal Baby",
-      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 225955,
       "name": "Sincerity Is Scary",
       "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "Charcoal Baby",
+      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -731,6 +731,22 @@
       "duration_ms": 349293,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -787,34 +803,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Lover Boy",
-        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Lover Boy",
-      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
+      "duration_ms": 207851,
+      "name": "TOOTIMETOOTIMETOOTIME",
+      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
         }
       ],
-      "duration_ms": 207851,
-      "name": "TOOTIMETOOTIMETOOTIME",
-      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
+      "duration_ms": 236727,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Greek God",
-      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -947,6 +947,22 @@
       "duration_ms": 207326,
       "name": "nightmares",
       "url": "https://open.spotify.com/track/6BxhzevDe4Mzrabj9Pa1eZ"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Greek God",
+      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -999,6 +1015,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -1043,22 +1075,6 @@
       "duration_ms": 338000,
       "name": "tkm",
       "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Pussy Is God",
-        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+        "name": "Chiquito",
+        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 205533,
-      "name": "Pussy Is God",
-      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+      "duration_ms": 207692,
+      "name": "Dontmakemefallinlove",
+      "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1339,6 +1355,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -1351,22 +1383,6 @@
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Chiquito",
-        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Dontmakemefallinlove",
-      "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Francis Trouble",
-        "url": "https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond Jr",
-          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Set to Attack",
-      "url": "https://open.spotify.com/track/7sI80PK0P3tDCvULKszqzL"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Ride or Die (feat. Foster the People)",
         "url": "https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD"
       },
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Sit Next to Me (Stereotypes Remix)",
-        "url": "https://open.spotify.com/album/0SBjLqgv3wzOb5LtvYz0zf"
+        "name": "Francis Trouble",
+        "url": "https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        },
-        {
-          "name": "Stereotypes",
-          "url": "https://open.spotify.com/artist/6RqG6OjPJVHi1RAcXTxglq"
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
         }
       ],
-      "duration_ms": 190720,
-      "name": "Sit Next to Me - Stereotypes Remix",
-      "url": "https://open.spotify.com/track/4v0CuFW0bEMBQ1gRn2mB3X"
+      "duration_ms": 208213,
+      "name": "Set to Attack",
+      "url": "https://open.spotify.com/track/7sI80PK0P3tDCvULKszqzL"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1503,6 +1499,26 @@
       "duration_ms": 208760,
       "name": "Calm",
       "url": "https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Sit Next to Me (Stereotypes Remix)",
+        "url": "https://open.spotify.com/album/0SBjLqgv3wzOb5LtvYz0zf"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        },
+        {
+          "name": "Stereotypes",
+          "url": "https://open.spotify.com/artist/6RqG6OjPJVHi1RAcXTxglq"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Sit Next to Me - Stereotypes Remix",
+      "url": "https://open.spotify.com/track/4v0CuFW0bEMBQ1gRn2mB3X"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "D.I.L.Y.D.",
-        "url": "https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Do It Like You Do",
-      "url": "https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "D.I.L.Y.D.",
+        "url": "https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Do It Like You Do",
+      "url": "https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Safe In The Hands of Love",
         "url": "https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 278311,
       "name": "Licking An Orchid",
       "url": "https://open.spotify.com/track/3pihS07XVQEavaS9n7kObt"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Don't Feed The Pop Monster",
-        "url": "https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 255397,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
     }
   ],
   "unique_name": "Best of Indie 2018",

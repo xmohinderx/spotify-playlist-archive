@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: FKA Twigs
 
-303 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+304 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/4g3Ax56IslQkI6XVfYKVc5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/0rxKf57PZvWEoU8v3m5W2q) | 3:36 | 2021-11-15 | 2022-07-15 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-02-21 |  |
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2021-11-15 |  |
-| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 |  |
+| [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2022-02-21 | 2022-10-22 |
 | [The Mother We Share](https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD) | 3:11 | 2022-02-21 | 2022-07-26 |
 | [The Night Josh Tillman Came To Our Apt.](https://open.spotify.com/track/3Xg2iQGIZuqV0vjzisyzq0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 3:36 | 2022-02-21 | 2022-07-14 |
 | [The Others](https://open.spotify.com/track/7B03rbWrOQtbjzpxMPAzoi) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Reasons To Dream](https://open.spotify.com/album/1CZX30Fm8HRRlSKm30qyu2) | 3:57 | 2022-02-21 | 2022-06-21 |
@@ -285,6 +285,7 @@
 | [VCR](https://open.spotify.com/track/6DXFVsLcEvOTSrkG9G1Cb1) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:57 | 2021-11-15 | 2022-07-22 |
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2022-02-21 |  |
 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 | 2021-11-15 | 2022-07-29 |
+| [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 | 2022-09-29 |  |
 | [Wakin on a Pretty Day](https://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/2imxOfDIDk2voAYCZP88u2) | 9:30 | 2021-11-15 | 2022-07-29 |
 | [Walrus](https://open.spotify.com/track/7lbkMraoYo4Lop0rSwdzCV) | [D.D Dumbo](https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR) | [Utopia Defeated](https://open.spotify.com/album/2HFzHGB6jiMSRdrODrk83s) | 3:10 | 2021-11-15 | 2022-07-28 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-02-21 | 2022-10-13 |

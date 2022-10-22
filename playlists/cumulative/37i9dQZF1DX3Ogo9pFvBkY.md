@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-689 songs - 1 day 12 hr 29 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+690 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,6 +655,7 @@
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2019-12-07 |  |
 | [Unwind](https://open.spotify.com/track/70R0IznDPoBZsH6dAXzUOJ) | [Juan Manuel Nigretti](https://open.spotify.com/artist/2mV1g4eh6K7K9L60yfnLAT) | [Unwind](https://open.spotify.com/album/7uB17IqOj68BFvdLS9LpRB) | 2:40 | 2020-05-09 | 2020-08-08 |
 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 | 2021-12-21 |  |
+| [Upwards](https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Signals Cometh](https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L) | 2:03 | 2022-10-21 |  |
 | [Utopia](https://open.spotify.com/track/5TCFzGCMYTVONeGJuk8F8G) | [Sudestada X](https://open.spotify.com/artist/6IR56PVqmSSjd0Bv9nuf48) | [Humedal](https://open.spotify.com/album/3WkfEJ2DmvDItp5HdOd8Eu) | 3:04 | 2020-08-08 | 2021-09-14 |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2019-12-07 | 2021-10-13 |
 | [Velvet Fog](https://open.spotify.com/track/3XjuI2bR7r8XEWTCEIBuW0) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Soaring](https://open.spotify.com/album/5LRb99HtgyQVkhKfdfAMGP) | 6:15 | 2020-01-03 | 2020-05-18 |

@@ -2,9 +2,9 @@
 
 ### [Trap Land](https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj)
 
-> The best of Latin Trap\. Cover: Anuel AA
+> The best of Latin Trap\. Cover: Mariah Angeliq & YOVNGCHIMI
 
-173 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+174 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 | 2022-03-18 |  |
 | [Ele Uve \- Remix](https://open.spotify.com/track/6n43lawNZSsPHiCostJj9N) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Ele Uve \(Remix\)](https://open.spotify.com/album/73mz0bzy97uQ0jC01pMp0A) | 3:49 | 2022-05-03 |  |
 | [En Fuego](https://open.spotify.com/track/3HqZrmnkW92TAea8E1Buj0) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [En Fuego](https://open.spotify.com/album/4eqW4KMIjbpkYstjJxaRYk) | 2:49 | 2022-06-28 |  |
+| [En La Mía](https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [En La Mía](https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN) | 3:32 | 2022-10-21 |  |
 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 | 2022-08-10 |  |
 | [Envidioso](https://open.spotify.com/track/7J4VKp49Uh2r84SK5pUa0A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidioso](https://open.spotify.com/album/11l3a3ll8Za1v8nF6sZy5Y) | 3:45 | 2022-03-18 | 2022-05-04 |
 | [Estamina](https://open.spotify.com/track/0NzU3Ky4oewIOpwgwqApma) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Yannc](https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1) | [Estamina](https://open.spotify.com/album/3kvEszo5aSRbIHcmeIkIAR) | 3:29 | 2022-08-05 |  |

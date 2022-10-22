@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Yahritza Y Su Esencia & Ivan Cornejo en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Del Limit en portada.
 
-91 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
+92 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Una En Un Millon](https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Dueña De Mi Amor](https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x) | 2:47 | 2022-05-27 | 2022-06-18 |
 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 | 2022-04-08 | 2022-06-25 |
 | [Volveremos](https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 5:28 | 2022-04-29 |  |
+| [Y Yo Voy](https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Y Yo Voy](https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu) | 2:57 | 2022-10-21 |  |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-04-29 |  |
 | [Yo Te Amaré](https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Yo Te Amaré](https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm) | 2:50 | 2022-04-22 | 2022-06-04 |
 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 | 2022-01-05 | 2022-07-23 |

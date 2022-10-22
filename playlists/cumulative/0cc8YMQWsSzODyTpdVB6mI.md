@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-93 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+94 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Denouement](https://open.spotify.com/track/4ml7mrfUUxg8VtLwnu38nr) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [eisenach](https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7) | [Denouement](https://open.spotify.com/album/4OM9A1NtnL1vVCuPMj8gfT) | 3:12 | 2021-11-05 |  |
 | [DO MAR](https://open.spotify.com/track/0ra2NmkSqQzmRE5DUdNUTb) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [DO MAR](https://open.spotify.com/album/1Gdc4ABDwkAAPO6UP3cY7Q) | 2:42 | 2022-09-07 |  |
 | [Does the Magic Spin?](https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv) | [POCKET](https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw) | [Does the Magic Spin?](https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg) | 3:00 | 2022-06-17 | 2022-09-06 |
+| [Don't Let Me Down](https://open.spotify.com/track/6eowOvcJ7v9OAMzzt9HhPG) | [Mateyo](https://open.spotify.com/artist/0B0O3zN1qA3VmxGoF7sHiE), [Rashaad Dailey](https://open.spotify.com/artist/44jle8k8LxfWM00MnfUbQA) | [Don't Let Me Down](https://open.spotify.com/album/2p3hX6CPLy6Sbk7SExyrq4) | 2:51 | 2022-10-21 |  |
 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 | 2021-11-05 |  |
 | [Ecstasy \- Mixed](https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 2:19 | 2021-11-05 |  |
 | [elevate in the village](https://open.spotify.com/track/0ZRKOmFI20AOF2XNKyL4kZ) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [elevate in the village](https://open.spotify.com/album/1hAzBTggPEPrDDVAq1Hktz) | 3:17 | 2021-11-05 |  |
@@ -79,7 +80,7 @@
 | [Run](https://open.spotify.com/track/3g8OkwMxW6PJ4CWgEN6R1H) | [Ultraflex](https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg) | [Run](https://open.spotify.com/album/0ngsAnIsTVjlXzgRtJcLJg) | 1:58 | 2022-10-07 |  |
 | [Run Away](https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Run Away](https://open.spotify.com/album/61bcm5fOZcG1zLc0XVfSp6) | 3:04 | 2022-04-08 | 2022-06-18 |
 | [Saint](https://open.spotify.com/track/0CGl71PsT1460rkbfUdbef) | [Tobias.wav](https://open.spotify.com/artist/5uMPzdNRQFj0lZ6h95gyxN) | [Saint](https://open.spotify.com/album/37iu4n6JCr1jz4KXEjTaMc) | 2:00 | 2022-06-13 | 2022-08-27 |
-| [Salute](https://open.spotify.com/track/6CnEBsHGd2njYxN7brrmd7) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Salute](https://open.spotify.com/album/2XrG6Uje2PSI1O8uFhIBbZ) | 4:12 | 2022-07-25 |  |
+| [Salute](https://open.spotify.com/track/6CnEBsHGd2njYxN7brrmd7) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Salute](https://open.spotify.com/album/2XrG6Uje2PSI1O8uFhIBbZ) | 4:12 | 2022-07-25 | 2022-10-22 |
 | [Shy](https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Shy](https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ) | 3:03 | 2022-04-27 | 2022-07-07 |
 | [So High](https://open.spotify.com/track/5doFTkrPLq1AZYDvAIdn7x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Kitsuné America 2](https://open.spotify.com/album/2dVnDTtY8qzYbPTMmw88vX) | 3:06 | 2021-11-05 |  |
 | [Space Birds](https://open.spotify.com/track/6h09oYGOD7u3JJcVA9CvcC) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [TONG](https://open.spotify.com/artist/67cqVjONTBOiGNhEx9T8FB) | [Space Birds](https://open.spotify.com/album/2BMLZaPguH55Qc95D7ptOE) | 2:41 | 2022-06-24 | 2022-09-13 |

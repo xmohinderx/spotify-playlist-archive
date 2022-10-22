@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 99 | [Crave \- Fabian Mazur Remix](https://open.spotify.com/track/6Z8t7Ppeawfh8xaLmJout5) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Crave](https://open.spotify.com/album/0seMOiABLUNHGJfK3S6Tzk) | 3:22 |
 | 100 | [Crave](https://open.spotify.com/track/4DOsI39MzF0piUjU6S5RAK) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Bruises](https://open.spotify.com/album/0PhQGGXsWUZAPGr8MpEFVr) | 3:38 |
 | 101 | [let love in](https://open.spotify.com/track/4mPuSd87gLkneDUVkZywi4) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:08 |
-| 102 | [pale blue dot](https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:22 |
-| 103 | [Deep End](https://open.spotify.com/track/16P2MNSQAlKNCV6hsnclxs) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Deep End](https://open.spotify.com/album/29mkhh4TaJm7XbeQdCxrE5) | 2:37 |
+| 102 | [Deep End](https://open.spotify.com/track/16P2MNSQAlKNCV6hsnclxs) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Deep End](https://open.spotify.com/album/29mkhh4TaJm7XbeQdCxrE5) | 2:37 |
+| 103 | [pale blue dot](https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:22 |
 | 104 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 |
 | 105 | [too close \- piano version](https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:24 |
 | 106 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 113 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 114 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjc3NzE5MTcsMDAwMDAwMDA0NTE4OThiZDdhYTdlZWY5MDQwMzEyYTViZDcxMjQ2OA==`
+Snapshot ID: `Mjc3NzMzNTcsMDAwMDAwMDBiOTY0NTNiNzA1MWM2ODViYzMwMzdjZDM3Y2E2NWM3ZA==`

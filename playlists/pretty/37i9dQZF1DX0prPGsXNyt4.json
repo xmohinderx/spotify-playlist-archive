@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 36212,
+  "num_followers": 36313,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDZhYjY3YTIwNDJkZTVlM2YyZDNmOTVjZDJmYWE4YzNi",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMGRkOWNjYmNjMzU1YjFiNjkxNzI4MWYyMzUwZDZjN2Ey",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "Zod\u00edaco",
+        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Sagit\u00e1rio",
+      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "Zod\u00edaco",
-        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Sagit\u00e1rio",
-      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
     },
     {
       "added_at": "2022-10-14 03:01:00",

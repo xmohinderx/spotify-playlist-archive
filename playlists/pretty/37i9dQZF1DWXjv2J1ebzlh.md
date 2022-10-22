@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,549 likes - 1,196 songs - 3 day 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,603 likes - 1,196 songs - 3 day 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -765,7 +765,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 755 | [Que Bandeira](https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:29 |
 | 756 | [The Book Keeper](https://open.spotify.com/track/1tFI06y1zhOfvz216tT0WD) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Toby Laing](https://open.spotify.com/artist/1OV6iOLlgqF62UEo676aBq) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 5:49 |
 | 757 | [Canto al Fuego](https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Matanza](https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq) | 6:08 |
-| 758 | [Intercambio](https://open.spotify.com/track/6JpYysVOI7xYCiJ49vV4V4) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu) | [Intercambio](https://open.spotify.com/album/28MPgHLbQ50GJIZBKgqYG1) | 3:34 |
+| 758 | [Intercambio](https://open.spotify.com/track/3eHyPPBu2W5kLcRRut1d73) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu) | [Intercambio](https://open.spotify.com/album/2UBzKgpIZ6Kt1ILyd1sagI) | 3:34 |
 | 759 | [Folha de Jurema](https://open.spotify.com/track/2RcrkBWCOWaX67jVDLgJr6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Salvador Araguaya](https://open.spotify.com/artist/5yPaj9fKegvkHQdfNo1i35), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1), [Artéria FM](https://open.spotify.com/artist/2uOgBTx0GFjWS205jRJZf6) | [Folha de Jurema](https://open.spotify.com/album/6K44xJeoORjgqFWovNnSkg) | 4:23 |
 | 760 | [Ay Qué Rico](https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Champagne](https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6) | 3:29 |
 | 761 | [El Cumbanchero](https://open.spotify.com/track/1RdRQO0vu4sfc8UuqLKLL9) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Palo Congo](https://open.spotify.com/album/0yPE5s2h0XF9Umc6ENEKE8) | 5:39 |
@@ -1205,4 +1205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1195 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1196 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMGM0Njc5MzEyNWEyNjUyZmVhZmZmZWJmNjNjYzViYmU1`
+Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMDk1YjRjNjNmZDk2NjQ1ZDVlZDVjY2M0ZDAxOGIzZGZl`

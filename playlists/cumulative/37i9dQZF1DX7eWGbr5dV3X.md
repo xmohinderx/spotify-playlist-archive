@@ -4,7 +4,7 @@
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-68 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4MpMAcJX9h7NwCwZfMDVty)
+69 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/4MpMAcJX9h7NwCwZfMDVty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 | 2022-05-02 |  |
 | [ok on your own](https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:28 | 2022-08-25 |  |
 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 | 2021-06-04 | 2022-10-13 |
-| [Open up Babe \- Perry twins remix](https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI) | 4:27 | 2021-06-04 |  |
+| [Open up Babe \- Perry twins remix](https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI) | 4:27 | 2021-06-04 | 2022-10-22 |
+| [Open up Babe \- Perry twins remix](https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx) | 4:27 | 2022-08-25 |  |
 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 | 2022-06-03 |  |
 | [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2022-05-02 | 2022-08-26 |
 | [Pretty Girl hi!](https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Pretty Girl hi!](https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV) | 1:52 | 2021-06-04 | 2022-05-03 |

@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-346 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+349 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 | 2022-05-26 |  |
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2022-05-26 |  |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2022-05-26 |  |
+| [Evening Star](https://open.spotify.com/track/3FkjbZPxaCFNaZyYZ1jtmr) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Misty](https://open.spotify.com/album/4IDHmuncCMCsF288iMWXRN) | 3:03 | 2022-10-21 |  |
 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 | 2022-05-26 |  |
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2022-05-26 |  |
 | [Evolving](https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR) | [Sidney Ashenhurst](https://open.spotify.com/artist/6pnBX8wymywCxqY7FiXEsN) | [Evolving](https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI) | 2:03 | 2022-05-26 |  |
@@ -166,6 +167,7 @@
 | [Lacertae](https://open.spotify.com/track/5hIzQvHumDF2AVVgv6eXZs) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Lacertae](https://open.spotify.com/album/61kE0QSkTIhy2PZ3qj2CrH) | 3:07 | 2022-06-16 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2022-05-26 |  |
 | [Lakeshore](https://open.spotify.com/track/5NRhAVJrW5o4FK1OKKgbgQ) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Frostbite](https://open.spotify.com/album/0R3T36NUjlBouJiz4OK1h2) | 2:30 | 2022-05-26 |  |
+| [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-05-26 |  |
 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 | 2022-05-26 |  |
 | [Let Me Disappear](https://open.spotify.com/track/16HtsIT4MCXQEbAXfT1rGP) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Let Me Disappear](https://open.spotify.com/album/5xe8NT7aIklJe7Rd1nsQWc) | 3:23 | 2022-05-26 |  |
@@ -350,6 +352,7 @@
 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 | 2022-05-26 |  |
 | [whispering stars](https://open.spotify.com/track/6O2TxcISQMos975gfH6JDm) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [soft clouds & whispering stars](https://open.spotify.com/album/6DpOC26Jxy1lKu9plVmuVu) | 3:27 | 2022-05-26 |  |
 | [With Hope](https://open.spotify.com/track/5ROmMRpdkiYdBM26Xt9ea4) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [With Hope](https://open.spotify.com/album/7GQddjmAKOMZBFHdKFIKnA) | 2:25 | 2022-05-26 |  |
+| [Within](https://open.spotify.com/track/6yy6c0Oy0fg69Zy0htgXsm) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Senses](https://open.spotify.com/album/42n9gHTqtCogUygsmvO49n) | 2:55 | 2022-10-21 |  |
 | [Without U](https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Without U](https://open.spotify.com/album/05H4wQDpRpe6vyAJw5bT6i) | 2:18 | 2022-07-15 |  |
 | [Woods](https://open.spotify.com/track/61USWwLihv1hgBx2fky80k) | [Yeona Nari](https://open.spotify.com/artist/1uYrUrGc4ejQ4Zn9neRg6o) | [Woods](https://open.spotify.com/album/3L8geqrk0iXJXZZsP1z0u2) | 3:29 | 2022-05-26 |  |
 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2022-05-26 |  |

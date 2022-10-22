@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-95 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+97 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Binaural Focus](https://open.spotify.com/track/4IMepS2LzBVhkrH99GSrbG) | [8D Spheres](https://open.spotify.com/artist/6PQZnRaF4PpSSUryfJMQjf) | [Binaural Focus](https://open.spotify.com/album/1yFwmonWECNMkhdRGSXcuj) | 3:15 | 2022-10-01 |  |
 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 | 2022-08-05 |  |
 | [Blankly Slept](https://open.spotify.com/track/0Z1OskWKPEpLniJPWVQjfL) | [Sheep Hurdle](https://open.spotify.com/artist/2EvRgp09ci3GA7yI7XE6C2) | [Blankly Slept](https://open.spotify.com/album/6P47YyI7GnT4kFh1J2e4Ak) | 3:35 | 2022-08-05 | 2022-10-09 |
+| [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 | 2022-10-21 |  |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-08-05 |  |
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2022-08-05 |  |
 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 | 2022-08-05 |  |
@@ -93,6 +94,7 @@
 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 | 2022-08-05 |  |
 | [The Old Silo in Kelvinside](https://open.spotify.com/track/18IV84ZuajnPzEzt7cCWSy) | [Professor Daydream](https://open.spotify.com/artist/3v8FLONDn3ZhFfIb75WLUg) | [Wundt Illusion](https://open.spotify.com/album/0ZCAK2T61AbkcPnAiGC4IM) | 3:16 | 2022-08-05 |  |
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2022-08-05 |  |
+| [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-21 |  |
 | [Transcendental Waves](https://open.spotify.com/track/0wHxhO1wW2Xa2sjszhpYfy) | [Hibiskus](https://open.spotify.com/artist/092ojOuOkibdb82lTdKhsJ) | [Transcendental Waves](https://open.spotify.com/album/0R9tXgiJeGYi2qrWGh01E8) | 2:20 | 2022-08-05 |  |
 | [Unconscious Hours](https://open.spotify.com/track/39ziD9wgBpKjA7lhuv9jPT) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Natural Events](https://open.spotify.com/album/5be1q5HZtRuUZtWLXB4TVB) | 3:28 | 2022-08-05 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-08-05 |  |

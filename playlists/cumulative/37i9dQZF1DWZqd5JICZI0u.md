@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-426 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+428 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 | 2020-09-30\* | 2021-09-14 |
 | [Fyna](https://open.spotify.com/track/6l0hNEgi62kkGZ69RuVblp) | [Sundale](https://open.spotify.com/artist/3LFFYvQWGZPeQPOJcqKXfi) | [Fyna](https://open.spotify.com/album/0jvaidHFliZFQ7u1yETVRg) | 2:38 | 2022-09-13 |  |
 | [Gahari](https://open.spotify.com/track/0vCB3eNnNzQVsJn8H1NdYp) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Gahari](https://open.spotify.com/album/0Pglv1QmWfbj2oYgLNOzlj) | 2:16 | 2020-09-30\* | 2021-10-21 |
+| [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 | 2022-10-21 |  |
 | [Gelborn Heights](https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Soft Slow Sleep](https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK) | 3:13 | 2020-09-30\* | 2022-08-13 |
 | [Geminism](https://open.spotify.com/track/3g4VzxY3cmFDJSCW3z9SPX) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Geminism](https://open.spotify.com/album/7gXtCOL60In5MPjuYzSxpr) | 3:52 | 2020-09-30\* | 2021-07-14 |
 | [Gentle Cure](https://open.spotify.com/track/3a4HwrietoocD2toa1Pezg) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 2:54 | 2020-09-30\* | 2021-09-14 |
@@ -155,6 +156,7 @@
 | [Goya](https://open.spotify.com/track/6JT4jBA76LMSNAOSHvP7aJ) | [Miha Marjorie](https://open.spotify.com/artist/2Ypqg4WAsRa1nOi2hCZ9Jw) | [Goya](https://open.spotify.com/album/2OVbtmQaW3CNugiltAiZGY) | 2:31 | 2022-04-21 | 2022-05-11 |
 | [Grateful](https://open.spotify.com/track/7lCWa3w5ZfuaL1vF1HyJ2J) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Grateful](https://open.spotify.com/album/3OUTNb2D5vBitZSIKK8h0C) | 4:24 | 2022-01-28 |  |
 | [Green Leaves](https://open.spotify.com/track/6BVWlugjV9uuDGA0SvD0R5) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 3:21 | 2020-09-30\* | 2022-08-13 |
+| [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Emil Fortini](https://open.spotify.com/artist/1Ce1nbaoW2Uw18C21ES7QG) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 | 2022-10-21 |  |
 | [Halvmåne](https://open.spotify.com/track/5YXN6JEpHIGcskwqrDzi9g) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Halvmåne](https://open.spotify.com/album/6de7hTffUyFdSa8fNoZEGQ) | 2:37 | 2020-09-30\* | 2021-11-19 |
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2020-09-30\* | 2022-08-13 |
 | [Hankering](https://open.spotify.com/track/7dZf1E475t9raui9KSVC0L) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Hankering](https://open.spotify.com/album/7yZlegVo0up43u1nuQHfzu) | 2:49 | 2022-07-08 |  |
@@ -304,7 +306,7 @@
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2020-09-30\* | 2021-07-14 |
 | [Reinstatement](https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Sleep \- Vol 4](https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC) | 4:15 | 2020-09-30\* | 2021-10-21 |
 | [Rejuvenated](https://open.spotify.com/track/1CRDmA53RfHBjRFOYwxWaC) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Rejuvenated](https://open.spotify.com/album/0wehzI8Pfgc4YjzCq4kUaD) | 2:40 | 2021-11-10 |  |
-| [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2020-09-30\* |  |
+| [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2020-09-30\* | 2022-10-22 |
 | [Relaksohuni](https://open.spotify.com/track/2iXFZRMJCWCkLd8hrm8GmO) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Relaksohuni](https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ) | 3:02 | 2021-10-27 |  |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2020-09-30\* | 2021-07-14 |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2021-07-30 |  |

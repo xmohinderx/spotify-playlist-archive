@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: emlyn, Paty B, Avenoir, Blondshell
 
-2,540 songs - 5 day 19 hr 37 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
+2,544 songs - 5 day 19 hr 45 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -963,6 +963,7 @@
 | [HAUNTED](https://open.spotify.com/track/2y3kTv2pxaLM7YEwyazSH7) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/0NJhMR5JGpXyDaqCgKywvf) | 2:16 | 2022-03-02 | 2022-03-10 |
 | [Haunted \(feat\. ROOK\)](https://open.spotify.com/track/1NbuivAyPmqgTqjvru6QUN) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C), [Rook](https://open.spotify.com/artist/3VTUHjvJ82dj9ISzHshxR6) | [Haunted \(feat\. ROOK\)](https://open.spotify.com/album/3kV9hK36NwRnsN38cDbAT2) | 2:36 | 2022-01-12 | 2022-01-20 |
 | [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 | 2022-09-28 | 2022-10-06 |
+| [Having Motion](https://open.spotify.com/track/6FjEFQVT9XPZeMrDtftNZA) | [D30](https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40) | [Youngest IN Motion 3](https://open.spotify.com/album/3ybprcgjxU6gE91Todd5cs) | 2:04 | 2022-10-21 |  |
 | [head games](https://open.spotify.com/track/6Dy2iFhdjK8cPdfkB6c0EX) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [head games](https://open.spotify.com/album/3hAzpPsTEScYjhjAvSUwGH) | 2:57 | 2022-06-08 | 2022-06-16 |
 | [Head Talk](https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ) | [Head Talk](https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ) | 4:08 | 2022-01-26 | 2022-02-03 |
 | [Headfirst](https://open.spotify.com/track/1dUHl01OvRdc68NoImtH1X) | [The Lost Youth](https://open.spotify.com/artist/1oZSwmPoTlEfiI4p25SdVl) | [Headfirst](https://open.spotify.com/album/341aDKS0pTYe2zupAF45We) | 2:55 | 2022-06-29 | 2022-07-07 |
@@ -1699,6 +1700,8 @@
 | [Peaked in High School](https://open.spotify.com/track/0iuo9ILD4Wc17e3fytZxS7) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Peaked in High School](https://open.spotify.com/album/0KVApYeZKlPebizwZOxt9m) | 3:24 | 2022-08-31 | 2022-09-09 |
 | [Pearls](https://open.spotify.com/track/2JqNbfLcvxTD3hSOkJ8Wtk) | [obviouslydan](https://open.spotify.com/artist/0fGywSoYx01FmWSEronsE7) | [Pearls](https://open.spotify.com/album/7aCiTw0bPYFxniRlA6pu88) | 3:44 | 2022-07-20 | 2022-07-28 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-25 | 2022-06-09 |
+| [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 | 2022-10-21 |  |
+| [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 | 2022-10-21 |  |
 | [peon](https://open.spotify.com/track/2pRIFvnmGp8swkjRKmL9H6) | [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E) | [peon](https://open.spotify.com/album/5SAq4DdwbqQkt2bNNqpOsr) | 3:42 | 2021-12-08 | 2022-01-13 |
 | [People Pleaser](https://open.spotify.com/track/7eIVtnxGiX62VZ537vGkZo) | [Bruce Wiegner](https://open.spotify.com/artist/02mmPJCzXVNykiTwDgD5Pu) | [People Pleaser](https://open.spotify.com/album/5EPmANLLXR7OQtAwt1NKE6) | 2:35 | 2022-06-15 | 2022-06-30 |
 | [Peppermint](https://open.spotify.com/track/3ctqg4MEmlXWYFmVOS3scN) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Peppermint](https://open.spotify.com/album/60pOtoZi07EpHXeae4G9tp) | 3:18 | 2022-04-27 | 2022-05-05 |
@@ -2079,6 +2082,7 @@
 | [Spaceship](https://open.spotify.com/track/2H5swlv8mYd3P6R8mgeAPZ) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Spaceship](https://open.spotify.com/album/6D6ziDPPrgFye3Q0rJ4Bxv) | 3:18 | 2022-06-15 | 2022-06-30 |
 | [spaceship](https://open.spotify.com/track/03aOAaUrVIZnNxWGolrqpr) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [spaceship](https://open.spotify.com/album/6LqP9mD7mxlUsjQvbBoHVr) | 2:34 | 2022-02-09 | 2022-02-17 |
 | [Speak More of Love](https://open.spotify.com/track/0gEvpqMPj8vjJ4VZJPanIS) | [Soccer96](https://open.spotify.com/artist/5CPQQs8WGfYZjEyRu3mkij), [The Colours That Rise](https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV) | [Speak More of Love](https://open.spotify.com/album/3X4Uw7SsdD3UYzBLIPAKeK) | 5:10 | 2022-04-13 | 2022-04-28 |
+| [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-10-21 |  |
 | [speakurtruth](https://open.spotify.com/track/1aEco2DAZAbUVnhQPJenIV) | [Zedikaya](https://open.spotify.com/artist/5rhlcVO0OpRwhOBlKeCFWy), [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [speakurtruth](https://open.spotify.com/album/3th2L7Nw3k0G47TxjgiNCi) | 3:06 | 2022-08-31 | 2022-09-09 |
 | [Special](https://open.spotify.com/track/5cguM5xFmj0CLWZTycYxUp) | [Lindsay Coulson](https://open.spotify.com/artist/4Ez7b0CUctOsgdPgDBSimI) | [Special](https://open.spotify.com/album/1846fEX7cXPjEd7YuH8dwV) | 3:32 | 2022-08-24 | 2022-09-01 |
 | [Speedracer](https://open.spotify.com/track/1553AbLOOvznLdnApxX2dO) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Speedracer](https://open.spotify.com/album/6DfhecdmHLG4t9vcBYXroX) | 3:15 | 2022-07-20 | 2022-07-28 |

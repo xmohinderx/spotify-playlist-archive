@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Quavo, Takeoff
 
-607 songs - 1 day 7 hr 10 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
+608 songs - 1 day 7 hr 12 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2022-01-07 |  |
 | [L.O.Y.A.L](https://open.spotify.com/track/3YjIFMpj22nxu9uckmNBnp) | [Ching](https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q) | [L.O.Y.A.L](https://open.spotify.com/album/3GPjSN3s2ScP3CSMODYCNq) | 2:41 | 2022-01-14 | 2022-04-15 |
 | [Lalala](https://open.spotify.com/track/07rmSXN6vNoquX1AsWd9pP) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4kjRJxs1i8m3mv8bI0o8OP) | 2:40 | 2022-04-01 | 2022-04-19 |
-| [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 | 2022-01-07 |  |
+| [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 | 2022-01-07 | 2022-10-22 |
 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 | 2022-01-07 |  |
 | [Laughin \(feat\. DaBaby\)](https://open.spotify.com/track/1ZkL3IwFNXoloSRHY0R88q) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Lucky 7](https://open.spotify.com/album/6Dk8225zWYNt429aqGmmPp) | 2:40 | 2022-01-07 | 2022-04-29 |
 | [Le Cap](https://open.spotify.com/track/419H26ltVH4jd7d6CdyOHF) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Le Cap](https://open.spotify.com/album/1VnQvNBgo23D1FPcrkuzTp) | 3:16 | 2022-01-07 | 2022-04-23 |
@@ -544,6 +544,7 @@
 | [TRAGIC \(feat\. Youngboy Never Broke Again & Internet Money\)](https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:33 | 2022-01-07 |  |
 | [Trapstar](https://open.spotify.com/track/5MthcZ6FiOGA1iUmNrfNDV) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Different Route](https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2) | 2:36 | 2022-04-01 | 2022-04-19 |
 | [TRIP](https://open.spotify.com/track/5toJOk9lwGQE323SnQ8Tii) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [TRIP](https://open.spotify.com/album/3fAxE9AvbEWJDyLrnCsk2m) | 2:50 | 2022-01-07 | 2022-04-28 |
+| [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-10-21 |  |
 | [Turks \(with Gunna & ft\. Travis Scott\)](https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:41 | 2022-01-21 | 2022-04-19 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2022-04-01 | 2022-04-10 |
 | [Two of 'Em](https://open.spotify.com/track/1wj5WjZy9x5VK2vH3rzP2R) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [The Fleur Print](https://open.spotify.com/album/6ccDPGKd4UC3rWOokj2DCs) | 2:30 | 2022-01-28 | 2022-04-21 |

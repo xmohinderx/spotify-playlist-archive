@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Electronic + Dance making waves, every month. Cover: Austin Millz.",
+  "description": "Electronic + Dance making waves, every month. Cover: Wajeed.",
   "name": "Electronic + Dance Frequency",
   "published_playlist_ids": [
     "2TNmeY42vrKnq2dfH2dCEO"
@@ -241,6 +241,28 @@
       "duration_ms": 120779,
       "name": "Always Be My Baby - Austin Millz Remix",
       "url": "https://open.spotify.com/track/0S0ezG92vQDS5VbX12GC3g"
+    },
+    {
+      "album": {
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Anxious Mind",
+      "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
     },
     {
       "album": {
@@ -795,7 +817,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 277432,
       "name": "Dancing In The Shadows",
       "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
@@ -857,7 +879,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 245601,
       "name": "Dindon",
       "url": "https://open.spotify.com/track/6qPNkMZwvdlUUD3s1fXDQs"
@@ -1763,10 +1785,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 283304,
       "name": "Keep You Close",
       "url": "https://open.spotify.com/track/3xYWczqcz54jMm3K7vD9zu"
+    },
+    {
+      "album": {
+        "name": "Kiss It Better",
+        "url": "https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257055,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
     },
     {
       "album": {
@@ -1906,6 +1950,28 @@
     },
     {
       "album": {
+        "name": "Show Me Some Love (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/0f6V5OeM1gu6gAt77nfMqk"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -1997,7 +2063,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 238167,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
@@ -2079,6 +2145,28 @@
       "duration_ms": 207754,
       "name": "More Than A Feeling (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg"
+    },
+    {
+      "album": {
+        "name": "Motor City Madness (Underground Resistance Remixes)",
+        "url": "https://open.spotify.com/album/7qNHKB9TRtmybrm0h7ipEb"
+      },
+      "artists": [
+        {
+          "name": "Waajeed",
+          "url": "https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT"
+        },
+        {
+          "name": "Underground Resistance",
+          "url": "https://open.spotify.com/artist/0tbuVFxbrGx2oiNbpetUGc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391342,
+      "name": "Motor City Madness - Underground Resistance Remix",
+      "url": "https://open.spotify.com/track/1S22d1qYyURkfSakbFXyjC"
     },
     {
       "album": {

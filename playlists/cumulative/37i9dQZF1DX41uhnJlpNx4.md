@@ -4,7 +4,7 @@
 
 > los tenis bien limpios y la bocina retumbando
 
-127 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/2U4Xvmq56X8XXDw4ib4Fua)
+128 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/2U4Xvmq56X8XXDw4ib4Fua)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Pa Que Sepan](https://open.spotify.com/track/4EJKQ9fDwPddxk44CyxYin) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:44 | 2022-09-07 |  |
 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 | 2022-06-10 |  |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-06-10 |  |
-| [PE$OS](https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG) | 3:05 | 2022-09-07 |  |
+| [PE$OS](https://open.spotify.com/track/1Sa3MemoARhrFmIttLd6N8) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/6nq2dKQDxHmjzD9sNWFsST) | 3:05 | 2022-09-07 |  |
+| [PE$OS](https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG) | 3:05 | 2022-09-07 | 2022-10-22 |
 | [Piloto Filoso](https://open.spotify.com/track/4b5ymWINeHuCTpRQAhvARL) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:19 | 2022-06-10 | 2022-07-28 |
 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 | 2022-06-10 |  |
 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 | 2022-06-10 |  |

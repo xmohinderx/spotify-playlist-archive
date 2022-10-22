@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK.
 
-190 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+191 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Hoje](https://open.spotify.com/track/5x8a7Isl62D93GM1CRv5TP) | [Sfil](https://open.spotify.com/artist/4SdefXsHLZnpwJGU5dgDcv) | [Hoje](https://open.spotify.com/album/1itlAeBEBG34U6a0x39Kbb) | 4:00 | 2022-07-07 | 2022-07-22 |
 | [Hora H](https://open.spotify.com/track/3RUvxg6Cw854FE0dSP1Yua) | [Vlad](https://open.spotify.com/artist/40aKLVGuFFAzK3UbSqx8i8) | [Hora H](https://open.spotify.com/album/7sGx2lpXO3VomSluLQIDcc) | 2:17 | 2022-08-18 | 2022-09-23 |
 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 | 2022-08-18 | 2022-09-23 |
+| [Ideias no Lugar](https://open.spotify.com/track/236dzRKMk5kfxGeyZVReyf) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Madruga NGK](https://open.spotify.com/artist/6Jt35N2QzqzS7zFetDKC1c) | [Ideias no Lugar](https://open.spotify.com/album/7p3Y7vrj7Y6jArFG6VMAt6) | 4:30 | 2022-10-20 |  |
 | [Ignorância](https://open.spotify.com/track/11KaDu5nbazpJNvTrsqwR5) | [Tazer0ne](https://open.spotify.com/artist/2unIBbMWEBZNyNpa2VoruS) | [Ignorância](https://open.spotify.com/album/6Ts9Hdql6w0QaOC22meRDZ) | 3:45 | 2022-09-08 | 2022-10-14 |
 | [império](https://open.spotify.com/track/26G4jcrEsUKiVN4JGGTRYN) | [eddy0](https://open.spotify.com/artist/0IwWt2hhkBZeP8hpwjYrDZ) | [império](https://open.spotify.com/album/1oAPEjEXi5HB8bWLXMT0Ed) | 2:24 | 2022-09-20 |  |
 | [Insanus](https://open.spotify.com/track/3xOhQoNyy1BYdCk6A9SO9W) | [Escriba](https://open.spotify.com/artist/5cuFpe5IkDDWeYMXBmamTP) | [Insanus](https://open.spotify.com/album/0AshDpfAYKEMRADbVPZM79) | 2:08 | 2022-07-21 |  |

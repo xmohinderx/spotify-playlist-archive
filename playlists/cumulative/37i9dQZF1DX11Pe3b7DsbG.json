@@ -1376,112 +1376,6 @@
     },
     {
       "album": {
-        "name": "Sambabook Dona Ivone Lara, Vol. 2",
-        "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        },
-        {
-          "name": "Delcio Ca",
-          "url": "https://open.spotify.com/artist/2NwuJfLxzQIXkaQ7PaXGCS"
-        },
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        },
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        },
-        {
-          "name": "Carminho",
-          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
-        },
-        {
-          "name": "Luiza Dion\u00edsio",
-          "url": "https://open.spotify.com/artist/0MjSZ7nMuEBukUZsRYquqf"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Aline Calixto",
-          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
-        },
-        {
-          "name": "Bruno Castro",
-          "url": "https://open.spotify.com/artist/5zuSZ0T9iRss0BaobIc6Xm"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Reinaldo",
-          "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
-        },
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "date_added": "2022-03-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228132,
-      "name": "Sonho Meu",
-      "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
-    },
-    {
-      "album": {
         "name": "Sambabook Dona Ivone Lara",
         "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
@@ -1593,6 +1487,116 @@
       "duration_ms": 228720,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
+    },
+    {
+      "album": {
+        "name": "Sambabook Dona Ivone Lara, Vol. 2",
+        "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
+      },
+      "artists": [
+        {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Delcio Ca",
+          "url": "https://open.spotify.com/artist/2NwuJfLxzQIXkaQ7PaXGCS"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        },
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        },
+        {
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
+        },
+        {
+          "name": "Luiza Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/0MjSZ7nMuEBukUZsRYquqf"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Aline Calixto",
+          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
+        },
+        {
+          "name": "Bruno Castro",
+          "url": "https://open.spotify.com/artist/5zuSZ0T9iRss0BaobIc6Xm"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Reinaldo",
+          "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/2FRhBJ5h3gtA01hLxc3jhF"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Adriana",
+          "url": "https://open.spotify.com/artist/6UY1qfKQc4RHQtgVH5vKwi"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228132,
+      "name": "Sonho Meu",
+      "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
     },
     {
       "album": {

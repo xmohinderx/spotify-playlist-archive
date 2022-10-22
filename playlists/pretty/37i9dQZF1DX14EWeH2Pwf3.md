@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia\. Cover: Nabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,679 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,350 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 18 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 |
 | 19 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
 | 20 | [BEBE \(feat\. Baby Gang\)](https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 2:46 |
-| 21 | [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 |
-| 22 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 |
-| 23 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
-| 24 | [ye@h \(feat\. Shiva\)](https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:36 |
-| 25 | [Caribe](https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Brando Luis](https://open.spotify.com/artist/4TPwT1hZ52JFhjpvIo7HIQ) | [Quanto Manca](https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK) | 2:20 |
+| 21 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 |
+| 22 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
+| 23 | [ye@h \(feat\. Shiva\)](https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:36 |
+| 24 | [Caribe](https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Brando Luis](https://open.spotify.com/artist/4TPwT1hZ52JFhjpvIo7HIQ) | [Quanto Manca](https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK) | 2:20 |
+| 25 | [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 |
 | 26 | [Te Quiero](https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Te Quiero](https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j) | 2:43 |
 | 27 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 |
 | 28 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 | 50 | [BABE](https://open.spotify.com/track/2CWHg8U4e8aMz4x2aL6P3O) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:02 |
 
-Snapshot ID: `MTY2NjMwMzI2MCwwMDAwMDAwMDgzYzMxYmRlZTJkMTk1MmU4ZDZmODNjNWZlMDBiNWY5`
+Snapshot ID: `MTY2NjM1OTYzMiwwMDAwMDAwMDE2MmI1MDZhYzE4OGNlMTY3NjI4NTE3ZDljNTkwZGE2`

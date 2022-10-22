@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-117 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+118 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Don't Want It \- Fouk Remix](https://open.spotify.com/track/15uutBzggXQsR19xARHl3f) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Don't Want It \(Fouk Remix\)](https://open.spotify.com/album/4n4sqDenZwDpJq9skJVTVJ) | 5:51 | 2022-09-15 |  |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-09-15 |  |
 | [Emancipação \- Ron Trent Remix](https://open.spotify.com/track/66XwUl6vlH5XqGwjHI93OD) | [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Emancipação \(Ron Trent Remix\)](https://open.spotify.com/album/2px1kDZ3heXoSR6AFB8DGS) | 9:11 | 2022-09-15 |  |
+| [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-21 |  |
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-09-15 |  |
 | [feel it yah](https://open.spotify.com/track/2dqmfG8IwZwbLfOBq0FkwS) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/65Qd4vvxTDZdf55MW0chnq) | 4:06 | 2022-09-15 | 2022-10-15 |
 | [feel it yah](https://open.spotify.com/track/5qc24f2cFSzQybTHdnq6NQ) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/2CzGwKbrawnjD37y7HTrL9) | 4:06 | 2022-10-13 |  |

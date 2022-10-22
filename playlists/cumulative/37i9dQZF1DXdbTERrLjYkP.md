@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
+> Discover the next wave of talent on the scene writing their own songs\. Cover:  Carol Ades
 
-299 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+302 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [can't breathe](https://open.spotify.com/track/2bobQfCbPqFBOgGRF4XU0S) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy) | 2:43 | 2022-09-09 |  |
 | [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 | 2022-09-02 | 2022-10-14 |
 | [can't hate you yet](https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [can't hate you yet](https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP) | 3:22 | 2022-02-25 | 2022-04-29 |
+| [Caravan](https://open.spotify.com/track/41D6o74AzOBpD4jQwRZ2ZF) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Caravan](https://open.spotify.com/album/2CxyxiA6HrYIz3T0wdNfrb) | 3:04 | 2022-10-21 |  |
 | [Carsick](https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Carsick](https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz) | 3:07 | 2022-07-01 |  |
 | [Charlie](https://open.spotify.com/track/0TiQIfhHfhePbPqftW2bOM) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Charlie](https://open.spotify.com/album/0J1HrqxfTWwk4LxLT5f1kc) | 3:51 | 2022-10-14 |  |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-04-29 |
@@ -247,6 +248,8 @@
 | [space](https://open.spotify.com/track/069GJA2jMuhubyFsaQcRtd) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [space](https://open.spotify.com/album/3gXgcspF6qBTJe9diFXCTV) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [SPACE](https://open.spotify.com/track/0oedTfz3uuPFxmrDVwB0Gc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SPACE](https://open.spotify.com/album/212R86ZzivVW2nNLidAvfO) | 2:03 | 2022-01-14 | 2022-03-12 |
 | [Spaceship](https://open.spotify.com/track/2H5swlv8mYd3P6R8mgeAPZ) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Spaceship](https://open.spotify.com/album/6D6ziDPPrgFye3Q0rJ4Bxv) | 3:18 | 2022-06-10 | 2022-10-15 |
+| [Special](https://open.spotify.com/track/1mBR4OepAtxwfLwokFhWKC) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 2:43 | 2022-10-21 |  |
+| [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 |  |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 |  |
 | [Starting To Get To You](https://open.spotify.com/track/2p0UvLVpANua6yrhrDNTcM) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 2:41 | 2022-03-25 | 2022-04-29 |
 | [Still Something](https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Still Something](https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG) | 3:08 | 2022-01-14 | 2022-07-09 |

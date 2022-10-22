@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,130 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,162 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 40 | [Osondu](https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 4:18 |
 | 41 | [ELI](https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:52 |
 | 42 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 |
-| 43 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 |
+| 43 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 |
 | 44 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 |
-| 45 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 |
+| 45 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 |
 | 46 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 |
 | 47 | [History](https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [History](https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0) | 2:57 |
 | 48 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 71 | [Jo](https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Jo](https://open.spotify.com/album/5ibum2SHIL8CmOqguxiolN) | 3:13 |
 | 72 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 |
 | 73 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 |
-| 74 | [Wamuhle](https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws) | [DJ So Nice](https://open.spotify.com/artist/5AZBqGvfbhzmsARDuBW9te), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k), [BonafideBilli](https://open.spotify.com/artist/2J4kgQeg22uB6DhVYZXnUn) | [Wamuhle](https://open.spotify.com/album/3yM2OA0HaTVOoytKipIADw) | 3:45 |
-| 75 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
+| 74 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
+| 75 | [Wamuhle](https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws) | [DJ So Nice](https://open.spotify.com/artist/5AZBqGvfbhzmsARDuBW9te), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k), [BonafideBilli](https://open.spotify.com/artist/2J4kgQeg22uB6DhVYZXnUn) | [Wamuhle](https://open.spotify.com/album/3yM2OA0HaTVOoytKipIADw) | 3:45 |
 | 76 | [Pulling Up](https://open.spotify.com/track/2GHj2JqqPPByrkduQEQBYw) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [OTR Vol.2](https://open.spotify.com/album/6YbuBOhChrDQBd8jeIvhjj) | 3:03 |
 | 77 | [Miami](https://open.spotify.com/track/2DHvPClgI3WfnozlHpirmf) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [International Arrivals Vol\. 2](https://open.spotify.com/album/2to3zDJwkWxK3Pgc1fvsI7) | 5:53 |
 | 78 | [Come My Way](https://open.spotify.com/track/15rWCjxhuKiWgHLzuzduKn) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [Hopeless Romantic Riddim](https://open.spotify.com/album/49JiNiTZIyxzCeGhoc2yBs) | 3:04 |
 | 79 | [Things Fall in Place](https://open.spotify.com/track/4RT366Y6r8XCbPUfAz0MpA) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Things Fall in Place](https://open.spotify.com/album/2IyQg1ciZnyD6LMoYOea8Q) | 3:49 |
 | 80 | [Love You Better](https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Love You Better](https://open.spotify.com/album/7e0FseqTvBVNXw8Dicc6Xr) | 2:32 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDY5NjdjMWNjYzFiZjcwZmJmZjY0NjBkZGJhNzBmZTRk`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGM5MjFiNzg2YTk1MDFiOTMyMTEzYjc1Mzc1YjVhMDE3`

@@ -1,13 +1,29 @@
 {
   "description": "All the new music you need to hear right now. Cover: Loyle Carner",
-  "num_followers": 533221,
+  "num_followers": 533334,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwNjgwMCwwMDAwMDAwMDdhZjVkYzE4ZjNjYjRjZmU5ODQ3YTY1YWIwNGRhOWRk",
+  "snapshot_id": "MTY2NjMwNjgwMCwwMDAwMDAwMGEzMTU1YjFjZmMzZDhkNTJmMzM3YzNkMzNkZTM4Yzhl",
   "tracks": [
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
@@ -616,8 +632,8 @@
           "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Elley Duhe",
-          "url": "https://open.spotify.com/artist/4VqcTx4dNkID7EqdPCjumJ"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
       "duration_ms": 173093,
@@ -956,7 +972,7 @@
       "added_at": "2022-10-20 23:00:00",
       "album": {
         "name": "Kammy (like i do)",
-        "url": "https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS"
+        "url": "https://open.spotify.com/album/3hYksFQ1oq8EGadqmU0sOi"
       },
       "artists": [
         {
@@ -966,7 +982,7 @@
       ],
       "duration_ms": 238829,
       "name": "Kammy (like i do)",
-      "url": "https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu"
+      "url": "https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c"
     },
     {
       "added_at": "2022-10-20 23:00:00",

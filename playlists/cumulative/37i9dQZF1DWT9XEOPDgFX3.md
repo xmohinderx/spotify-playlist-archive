@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Field Medic
 
-257 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+259 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 | 2022-04-13 |  |
 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 | 2022-01-21 |  |
 | [Let The Radio Play](https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07) | [Reverend Baron](https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH) | [Let The Radio Play](https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH) | 3:29 | 2022-01-21 |  |
-| [Let's Move To The Country](https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 3:19 | 2022-01-21 |  |
+| [Let's Move To The Country](https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 3:19 | 2022-01-21 | 2022-10-22 |
 | [Like So Much Desire](https://open.spotify.com/track/0e8OKcKejYiDaNDsAfte6y) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Like So Much Desire](https://open.spotify.com/album/7oCj7iBtemUYj97j6P1uYj) | 3:12 | 2022-04-13 | 2022-07-28 |
 | [Little Things](https://open.spotify.com/track/41YZXlOIGKmaa3RJpBn2Qy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Little Things/Sparrow](https://open.spotify.com/album/3ZftJ3ZvQf8Sas1pUVSjZU) | 5:44 | 2022-01-21 | 2022-04-29 |
 | [Lotta Love](https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/6ocfxxkgWCkw3jvjI0eWR7) | 3:17 | 2022-01-21 | 2022-07-29 |
@@ -145,6 +145,7 @@
 | [Maggie](https://open.spotify.com/track/6BYUB4l8aAF2FEu8kHAG4I) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Maggie](https://open.spotify.com/album/7x0Ma71IGM9QuoaAKaIahy) | 4:54 | 2022-01-21 | 2022-07-29 |
 | [Maria, Maria](https://open.spotify.com/track/1OiZlAtgC2mgri19FM4WEU) | [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Maria, Maria](https://open.spotify.com/album/2arErHVLHlDBsR8iLd5Haf) | 3:37 | 2022-01-21 | 2022-04-28 |
 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 | 2022-04-13 | 2022-10-15 |
+| [Maybe Someday](https://open.spotify.com/track/2DjwsghflIeh6qmfpoy5UI) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Maybe Someday](https://open.spotify.com/album/6onXo7EIPgWuvfkFoVNrAU) | 3:00 | 2022-10-21 |  |
 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 | 2022-04-13 |  |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-01-21 |  |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2022-04-29 |  |
@@ -207,6 +208,7 @@
 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2022-04-29 |  |
 | [Sorry’s Not Enough](https://open.spotify.com/track/7zXERMvGbaqcZmdXo7ebw8) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Sorry's Not Enough](https://open.spotify.com/album/6hWqBLAzPVl9GBYXs36ISC) | 4:51 | 2022-01-21 | 2022-07-27 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-10-14 |  |
+| [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 |  |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2022-04-13 |  |
 | [stained glass](https://open.spotify.com/track/0QxUwYYcLvt1560lZP5il6) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [stained glass](https://open.spotify.com/album/7LW5Bo8L7FlRHCNhMmTcGX) | 4:12 | 2022-10-14 |  |
 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2022-04-29 | 2022-10-15 |
@@ -242,7 +244,7 @@
 | [Truth Nugget](https://open.spotify.com/track/14V1rI9IuTnYNwMz7VJxOD) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc) | 4:41 | 2022-01-21 | 2022-07-29 |
 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 | 2022-04-29 |  |
 | [Try Harder](https://open.spotify.com/track/6jLWZqrb635O5jpd3vrHoj) | [Aerial East](https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi) | [Try Harder](https://open.spotify.com/album/6l7BRlwMYdmenmov2wPUJb) | 3:16 | 2022-04-13 | 2022-07-27 |
-| [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 | 2022-04-13 |  |
+| [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 | 2022-04-13 | 2022-10-22 |
 | [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 |  |
 | [Under the Sky](https://open.spotify.com/track/3vbBc820WrJ6xMjwxB4bxM) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss the Night](https://open.spotify.com/album/29WmMuLngwP4b4j1ExcwBv) | 4:18 | 2022-04-13 | 2022-07-29 |
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 |  |

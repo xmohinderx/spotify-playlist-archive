@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,471,258 likes - 52 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,473,162 likes - 52 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 51 | [I'm In Love With My Car \- Remastered 2011](https://open.spotify.com/track/253ewjP2R1LjKqA70mGdnk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 3:04 |
 | 52 | [Spread Your Wings \- Remastered 2011](https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 4:34 |
 
-Snapshot ID: `Mjc3NzEyMTQsMDAwMDAwMDA4ZTJhY2Q3NzkyMjY0OTg0NmFlMWViOWI2Y2I5YmZjYg==`
+Snapshot ID: `Mjc3NzI2NDcsMDAwMDAwMDA4ZGU4NTczNGZkMzE5Yzk3YmQ3OGNhOGY1ODJiOTVhOA==`

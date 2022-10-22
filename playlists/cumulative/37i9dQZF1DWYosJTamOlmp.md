@@ -4,7 +4,7 @@
 
 > A journey from dusk 'til dawn curated by Jungle artist Nia Archives!
 
-75 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/5AH7k1bIFGHs1b1OpAMK8V)
+76 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5AH7k1bIFGHs1b1OpAMK8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Feelings](https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [T\. Power](https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c) | [Diary of a Digital Soundboy](https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ) | 4:47 | 2021-10-19 |  |
 | [Fix Up](https://open.spotify.com/track/0BcfSiNcZZL6HPJrNSvJ33) | [dochi](https://open.spotify.com/artist/4JhYaSzm2p2GgpqQF8CgQF), [FELIXCW](https://open.spotify.com/artist/0pH0voqRBqWscSPfZ4FuHO) | [Fix Up](https://open.spotify.com/album/4PsQnJppQVr32S2LQBsP4d) | 3:54 | 2021-10-19 |  |
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2021-10-19 |  |
-| [Give a Little Love \('94 Lick\) \[2011 Remastered Mix\]](https://open.spotify.com/track/73Jblo5vmnNyFEyieNSXVs) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 2\)](https://open.spotify.com/album/07TPMndaOSr1CwIRdrjtcz) | 6:17 | 2021-10-19 |  |
+| [Give a Little Love \('94 Lick\) \[2011 Remastered Mix\]](https://open.spotify.com/track/57qqflwrWfnrUnI2bulCIu) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 2\)](https://open.spotify.com/album/3wU6tEECg3sPFYFzudQRee) | 6:17 | 2021-10-19 |  |
+| [Give a Little Love \('94 Lick\) \[2011 Remastered Mix\]](https://open.spotify.com/track/73Jblo5vmnNyFEyieNSXVs) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 2\)](https://open.spotify.com/album/07TPMndaOSr1CwIRdrjtcz) | 6:17 | 2021-10-19 | 2022-10-22 |
 | [Going Down](https://open.spotify.com/track/0Wfy0PyRWj19OkEXkMLY1u) | [Benton](https://open.spotify.com/artist/2IjPU2eUwKl14UqMGSezPb) | [Volume One](https://open.spotify.com/album/7AXOBqgGstf5Ilu3jw2p6N) | 4:10 | 2021-10-19 |  |
 | [Gone Too Soon \- Sully Remix](https://open.spotify.com/track/1F2uf8EKdCH5Nme4dWr6pT) | [2 Bad Mice](https://open.spotify.com/artist/2Zy9Ltp7QvckFHwk09KaYR), [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [2 Bad Mice Remixes](https://open.spotify.com/album/6Wx07cfVM8gpNAh9w4Bmj3) | 6:30 | 2021-10-19 |  |
 | [Good Dreams](https://open.spotify.com/track/6ArBCkZTakHkAsI0FGoyE1) | [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [Good Dreams](https://open.spotify.com/album/6pnfQGfVd7Uhf8RmgHZBSN) | 3:29 | 2021-10-19 |  |

@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Stephen Dawes
 
-1,093 songs - 2 day 10 hr 7 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,094 songs - 2 day 10 hr 10 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 | 2021-12-11 | 2022-09-24 |
 | [mighty die young](https://open.spotify.com/track/2iYyfatby6okD9aUxZB2jU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [mighty die young](https://open.spotify.com/album/4ixEy2BNRqkeanRhUAe9i3) | 2:18 | 2020-12-13 | 2021-02-06 |
 | [Mile High](https://open.spotify.com/track/0HfrMtru5FIDJj4PsTJUzN) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Mile High](https://open.spotify.com/album/2eYwdlhodCN73iyILQmfFM) | 3:29 | 2022-07-22 | 2022-10-15 |
+| [Miles Away \(feat\. Ant Saunders\)](https://open.spotify.com/track/7FEUENNMyyXkHcjLN6VSLA) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7), [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Miles Away \(feat\. Ant Saunders\)](https://open.spotify.com/album/0OV3JKR6DsbrzjW2SDYih8) | 2:34 | 2022-10-21 |  |
 | [MINE](https://open.spotify.com/track/7MvX17a3PhqBqaJgPcTXLm) | [Magsy](https://open.spotify.com/artist/0q3EgthLn8GR4UaqU0iRkn) | [MINE](https://open.spotify.com/album/44Pxl81Lf2lULP8eDb3PqA) | 2:03 | 2020-12-18 | 2021-03-19 |
 | [mini fridge](https://open.spotify.com/track/7ruLGK8sA4RS5x1Moayj66) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [mini fridge](https://open.spotify.com/album/0edkRml3yUMWIMQC9mNfQM) | 3:13 | 2021-08-14 | 2021-09-11 |
 | [miss america \(brand new era\)](https://open.spotify.com/track/4nrAsLeazv2H0s3DIULGQb) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [miss america](https://open.spotify.com/album/2sv9rlahRXvR0JNnSm2CJn) | 3:52 | 2020-11-06 | 2021-02-19 |
@@ -882,7 +883,7 @@
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2020-04-26\* | 2020-05-01 |
 | [sometimes](https://open.spotify.com/track/6McnQuTA2dpArD3QTrD8A7) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [sometimes](https://open.spotify.com/album/6oYIQkhBuGzoXSjClZmWB1) | 2:36 | 2021-08-28 | 2021-12-11 |
 | [sometimes](https://open.spotify.com/track/5CwA7YPNAcXVJmazELgRc0) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [sometimes](https://open.spotify.com/album/7Gk405ileQ0t9VFLo1YE9A) | 2:43 | 2020-10-16 | 2021-02-19 |
-| [Song Beneath the Song](https://open.spotify.com/track/49ykaqGBrhQ6FSriy2ZBaF) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Song Beneath the Song](https://open.spotify.com/album/68oxfceV08SzsvYbJ0DEyj) | 3:11 | 2022-05-27 |  |
+| [Song Beneath the Song](https://open.spotify.com/track/49ykaqGBrhQ6FSriy2ZBaF) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Song Beneath the Song](https://open.spotify.com/album/68oxfceV08SzsvYbJ0DEyj) | 3:11 | 2022-05-27 | 2022-10-22 |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-09-11 | 2021-10-02 |
 | [Sour](https://open.spotify.com/track/6wcV8y4rbQYrzIJMFsV8fi) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Am I Talking Too Much?](https://open.spotify.com/album/2PUYHptFsiexQZ0lEFy8eQ) | 3:48 | 2021-08-07 | 2021-09-18 |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-04-26 | 2022-10-08 |

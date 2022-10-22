@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7612,
+  "num_followers": 7624,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMGJiZWY2MWQ1Njk4MjUxYjY2MjMzYjZiZDRjNTY4MmEy",
+  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMGYyOTkzNzFkY2FjZDEzOWNjMmM3MTlmOGVmZjI3NWZl",
   "tracks": [
     {
       "added_at": "2022-10-05 05:53:59",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
+      "added_at": "2022-10-22 01:54:29",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
       "added_at": "2022-10-05 05:53:59",
       "album": {
         "name": "Ending",
@@ -311,22 +327,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2022-10-21 01:49:08",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -411,6 +411,26 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Evening (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 221947,
       "name": "The Night",
       "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
-        "name": "Evening",
-        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Evening (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
+        "name": "LOVE PLAYLIST 4 Part.1",
+        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
+      },
+      "artists": [
+        {
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "Be My Love",
+      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
       },
@@ -669,20 +685,20 @@
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
     },
     {
-      "added_at": "2022-10-05 05:53:59",
+      "added_at": "2022-10-22 01:54:29",
       "album": {
-        "name": "LOVE PLAYLIST 4 Part.1",
-        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
       },
       "artists": [
         {
-          "name": "EXO-CBX",
-          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
         }
       ],
-      "duration_ms": 215120,
-      "name": "Be My Love",
-      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -699,22 +715,6 @@
       "duration_ms": 230750,
       "name": "Our Season",
       "url": "https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV"
-    },
-    {
-      "added_at": "2022-10-21 01:49:08",
-      "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Tell Me You Love Me",
-      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "WANT U",
+      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "WANT U",
-      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
       },
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
     },
     {
-      "added_at": "2022-10-21 01:49:08",
+      "added_at": "2022-10-22 01:54:29",
       "album": {
         "name": "Some Day in the 21century",
         "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "The Love",
-        "url": "https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
       "artists": [
         {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
         }
       ],
-      "duration_ms": 210333,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"
+      "duration_ms": 221081,
+      "name": "best song",
+      "url": "https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

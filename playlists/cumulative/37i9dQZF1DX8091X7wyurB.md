@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-85 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+86 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,12 @@
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 |  |
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5vqpMzEjuCBlQBuQKskXur) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Enyo](https://open.spotify.com/album/0WkS8qu4bVzN96PLwluSA9) | 9:34 | 2022-06-30 |  |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2022-06-30 |  |
-| [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2022-06-30 |  |
+| [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2022-06-30 | 2022-10-22 |
 | [For Me](https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [For Me](https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae) | 2:52 | 2022-06-30 |  |
 | [Ga Praise](https://open.spotify.com/track/1IToFXrcx4U7Kdls7DDMzo) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:03 | 2022-06-30 |  |
 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/1h0prCASS9tSr8JHAUvCBx) | [Joyful Way Inc.](https://open.spotify.com/artist/2XDQ4bOnx7ruvNFxx34DpV) | [Grateful Hearts](https://open.spotify.com/album/1dXixMQ1fxXkygMFcczgYP) | 14:10 | 2022-06-30 |  |
 | [God of Miracles](https://open.spotify.com/track/0pILKxYDI5oilUN52AebIu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 5:20 | 2022-06-30 |  |
+| [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2022-10-21 |  |
 | [Grateful](https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Grateful](https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N) | 3:44 | 2022-06-30 |  |
 | [Great and Mighty God \(Live\)](https://open.spotify.com/track/5YWEXH09aiqtsN9HFmp8Et) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 3:51 | 2022-06-30 |  |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2022-06-30 |  |

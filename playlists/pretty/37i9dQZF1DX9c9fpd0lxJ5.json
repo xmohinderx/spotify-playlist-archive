@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 446980,
+  "num_followers": 446976,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMGE4Mjc5MTI5OTViN2MwMzliYTlhOTMzZDc1ZWE3YjI2",
+  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMGMwNTFjYWUzNjFlYTU2NTU0MWZjNzJiNTI1MmRmMDE4",
   "tracks": [
     {
       "added_at": "2022-08-17 18:53:09",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 229566,
-      "name": "Get Lost In The Music",
-      "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -787,24 +787,8 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Hasta Que",
-        "url": "https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Hasta Que",
-      "url": "https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
+      "duration_ms": 229566,
+      "name": "Get Lost In The Music",
+      "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -839,34 +823,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Hasta Que T\u00fa Me Quieras",
-        "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
+        "name": "Hasta Que",
+        "url": "https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
         }
       ],
-      "duration_ms": 235013,
-      "name": "Hasta Que T\u00fa Me Quieras",
-      "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 175470,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
+      "duration_ms": 193933,
+      "name": "Hasta Que",
+      "url": "https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -887,6 +855,38 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 175470,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Hasta Que T\u00fa Me Quieras",
+        "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "D\u00edas Negros",
         "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -923,6 +939,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 195239,
+      "name": "Story To Tell",
+      "url": "https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E"
       },
@@ -935,38 +967,6 @@
       "duration_ms": 153000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "inigualable",
-        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
       },
       "artists": [
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Aloisio",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 178645,
-      "name": "inigualable",
-      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1067,6 +1063,26 @@
       "duration_ms": 205440,
       "name": "Sad Lullaby",
       "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Aloisio",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1103,22 +1119,6 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 195239,
-      "name": "Story To Tell",
-      "url": "https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "I've Seen Better Days",
-        "url": "https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 184941,
-      "name": "I've Seen Better Days",
-      "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "135",
         "url": "https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 147279,
       "name": "Melocot\u00f3n",
       "url": "https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "I've Seen Better Days",
+        "url": "https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 184941,
+      "name": "I've Seen Better Days",
+      "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 153132,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "veinte",
         "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 204383,
       "name": "D\u00f3nde est\u00e1s",
       "url": "https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     },
     {
       "added_at": "2022-08-17 18:53:09",

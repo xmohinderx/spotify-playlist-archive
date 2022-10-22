@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-437 songs - 1 day 11 hr 7 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+438 songs - 1 day 11 hr 11 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Instant Immortal](https://open.spotify.com/track/4Zaewkno1T6Re2ioLjo9WQ) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:25 | 2022-03-31 | 2022-04-06 |
 | [Interlude \- Aus Remix](https://open.spotify.com/track/1Y7OYD17uDkT3JzcXhDRY5) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [ReCollected](https://open.spotify.com/album/0MmPGvc6mRDaNlluvrpgi6) | 5:18 | 2022-03-31 | 2022-04-12 |
 | [Into the Forest](https://open.spotify.com/track/6Y3EdMqGUxIwRIYg0s5sEm) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Short Stories](https://open.spotify.com/album/4R2jkhCGF1SBOzjUQNAFJi) | 6:06 | 2022-04-07 | 2022-04-15 |
-| [Invisible Contact](https://open.spotify.com/track/5Vqf1k1WvHqV5B8XoZSPgY) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/388UNVPQUypC1EiLCvp6gg) | 4:04 | 2022-10-20 |  |
+| [Invisible Contact](https://open.spotify.com/track/0GYisiW8aXpv9fGTwIDafM) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/3L5kzUaeQ5pCMHRpAlN0Ej) | 4:04 | 2022-10-20 |  |
+| [Invisible Contact](https://open.spotify.com/track/5Vqf1k1WvHqV5B8XoZSPgY) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/388UNVPQUypC1EiLCvp6gg) | 4:04 | 2022-10-20 | 2022-10-22 |
 | [Invitation](https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [Where the Sidewalk Ends](https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT) | 6:32 | 2022-03-30 | 2022-04-04 |
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-04 |  |
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |

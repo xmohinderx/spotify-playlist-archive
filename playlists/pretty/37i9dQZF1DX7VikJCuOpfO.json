@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 62036,
+  "num_followers": 62052,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDIwYzFhYTAxZjU4OGMyNzQ0MmFjMjMzNDU3ZGQwNTll",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDVlZTYwZDg2NzVkODE1NTc3ZjQxZWExYWUzNGE2Nzhi",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Bot\u00e1nica",
         "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 180530,
       "name": "De Vez en Cuando (Aparece)",
       "url": "https://open.spotify.com/track/08VP9HBayRpUC20OzFktik"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+        "name": "Sinf\u00f3nico Desde el Palacio de Bellas Artes (En Vivo)",
+        "url": "https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 183251,
-      "name": "Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
+      "duration_ms": 251173,
+      "name": "El privilegio de amar - En vivo",
+      "url": "https://open.spotify.com/track/50AcR2LB8UPRJ6hGQHcnH2"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Sinf\u00f3nico Desde el Palacio de Bellas Artes (En Vivo)",
-        "url": "https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 251173,
-      "name": "El privilegio de amar - En vivo",
-      "url": "https://open.spotify.com/track/50AcR2LB8UPRJ6hGQHcnH2"
+      "duration_ms": 183251,
+      "name": "Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Hoy Te Manifiesto (En Vivo)",
-        "url": "https://open.spotify.com/album/62XufSGztVePCTjjVcsHKZ"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 335666,
-      "name": "Hoy Te Manifiesto - En Vivo",
-      "url": "https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Olv\u00eddalo",
         "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 196760,
       "name": "Olv\u00eddalo",
       "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Hoy Te Manifiesto (En Vivo)",
+        "url": "https://open.spotify.com/album/62XufSGztVePCTjjVcsHKZ"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 335666,
+      "name": "Hoy Te Manifiesto - En Vivo",
+      "url": "https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "+Mexicana",
-        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 228786,
-      "name": "Qu\u00e9 Iron\u00eda",
-      "url": "https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y"
+      "duration_ms": 166933,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1363,6 +1359,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "+Mexicana",
+        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Es Mejor Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 272426,
       "name": "Es Mejor Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Mala Racha",
-        "url": "https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Mala Racha",
-      "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Con Todo y Mi Tristeza (Live)",
+        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 258730,
+      "name": "Con Todo y Mi Tristeza - Live",
+      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Invasi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe"
       },
@@ -1479,38 +1495,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Con Todo y Mi Tristeza (Live)",
-        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 258730,
-      "name": "Con Todo y Mi Tristeza - Live",
-      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
       },
@@ -1523,6 +1507,38 @@
       "duration_ms": 192480,
       "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Decid\u00ed Olvidarte",
+        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "Decid\u00ed Olvidarte",
+      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 255759,
       "name": "Pero Me Acuerdo de Ti",
       "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Decid\u00ed Olvidarte",
-        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "Decid\u00ed Olvidarte",
-      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Hasta el Cielo",
-        "url": "https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV"
+        "name": "Nadie Me Cree",
+        "url": "https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO"
       },
       "artists": [
         {
-          "name": "Gera Demara",
-          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
-        },
-        {
-          "name": "Carlos Sarabia",
-          "url": "https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Si Es Feliz",
-      "url": "https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X"
+      "duration_ms": 208906,
+      "name": "Nadie Me Cree",
+      "url": "https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1707,6 +1703,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Hasta el Cielo",
+        "url": "https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV"
+      },
+      "artists": [
+        {
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
+        },
+        {
+          "name": "Carlos Sarabia",
+          "url": "https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Si Es Feliz",
+      "url": "https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Siempre Te Voy A Recordar",
         "url": "https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 187960,
       "name": "Siempre Te Voy A Recordar",
       "url": "https://open.spotify.com/track/2QW4BERfECAthx967SSNy5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Nadie Me Cree",
-        "url": "https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Nadie Me Cree",
-      "url": "https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4"
     },
     {
       "added_at": "2022-07-29 04:00:00",

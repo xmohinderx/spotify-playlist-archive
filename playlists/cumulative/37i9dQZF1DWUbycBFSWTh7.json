@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Extassy / In A Distorted Galaxy",
+        "url": "https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583278,
+      "name": "Extassy",
+      "url": "https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
       },

@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ALALA
 
-246 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+247 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 | 2022-09-29 |  |
 | [NOT BAD](https://open.spotify.com/track/7FTMdodLdOOWspXMQKKQw0) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:58 | 2022-09-29 | 2022-10-13 |
 | [Oh! Oh!](https://open.spotify.com/track/4mDEpeYizNCCMLz8DFn0jA) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [Oh! Oh!](https://open.spotify.com/album/2EP22W4je9X8O9tQd7KLL6) | 3:30 | 2022-08-05 | 2022-08-19 |
-| [Paint It Pink](https://open.spotify.com/track/4UL0Q0j3myEZrLplwm9zSq) | [FANG](https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre) | [Paint It Pink](https://open.spotify.com/album/5QGPsUBKGd1mKbrO0ktPUq) | 2:54 | 2022-10-07 |  |
+| [Paint It Pink](https://open.spotify.com/track/4UL0Q0j3myEZrLplwm9zSq) | [FANG](https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre) | [Paint It Pink](https://open.spotify.com/album/5QGPsUBKGd1mKbrO0ktPUq) | 2:54 | 2022-10-07 | 2022-10-22 |
 | [Peek](https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2) | [SEENAPAT](https://open.spotify.com/artist/2dWLIzrLWSNliiLVEGNMk3) | [Peek](https://open.spotify.com/album/0UDyCbzsLPCP6AvT3TMMuO) | 2:43 | 2022-06-16 | 2022-06-24 |
 | [Sad Movie](https://open.spotify.com/track/1nenRWbemVvsxnxg296eFB) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Sad Movie](https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7) | 3:48 | 2022-05-26 | 2022-07-24 |
 | [SECRETLY LOVE](https://open.spotify.com/track/0v1kDqxBNKnlImkUXyV85w) | [DONUTCHA](https://open.spotify.com/artist/27Ead4OXgt2nRLOLCr3hQU), [KANGSOMKS](https://open.spotify.com/artist/5cygqwPtm1jNE3B311G2hW) | [SECRETLY LOVE](https://open.spotify.com/album/2ZAOjwYzcpuj1TiCmoEWNP) | 2:59 | 2022-06-09 | 2022-06-17 |
@@ -218,6 +218,7 @@
 | [เฮอร์ไมโอน้อง \- Hermionong](https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [เฮอร์ไมโอน้อง \(Hermionong\)](https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj) | 3:36 | 2022-07-07 |  |
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2022-09-23 |  |
 | [แกน่ารักมาตลอด \- All Kill](https://open.spotify.com/track/16F2kMvP3sJ9aqtL5ubZt2) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [แกน่ารักมาตลอด \(All Kill\)](https://open.spotify.com/album/6j1Vn1TozowU0s8AswD8dp) | 3:06 | 2022-07-07 | 2022-07-29 |
+| [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/track/5kO0p4CfIxfU8369CArfe7) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/album/0znjg1ojYEygDWnrvRpK5I) | 4:00 | 2022-10-21 |  |
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-05-26 | 2022-06-10 |
 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-06-02 | 2022-06-24 |
 | [แปลไม่ออก \- Ost\. แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/3ADD6eZhJPHrRKAQ2MWBD5) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลไม่ออก \(Ost\. แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6MYoCHe5eeOEJKuJIzQbDv) | 4:18 | 2022-05-26 | 2022-07-24 |

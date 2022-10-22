@@ -1,63 +1,15 @@
 {
-  "description": "Red Hot Chili Peppers along with the top Alternative songs of today.",
-  "num_followers": 353735,
+  "description": "The 1975 along with the top Alternative songs of today.",
+  "num_followers": 353992,
   "original_name": "Alt NOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMTc3NSwwMDAwMDAwMGQ1NmZhMTNjNjc5NmQ5ZGNmY2NkMjZiYjM5M2I0ZDVm",
+  "snapshot_id": "MTY2NjMzNjI2NiwwMDAwMDAwMDExM2FlZGQzZjhkNTU0MzgzYTk2YjE2MzU4M2YzMTg3",
   "tracks": [
     {
-      "added_at": "2022-10-14 04:29:35",
-      "album": {
-        "name": "Return of the Dream Canteen",
-        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 260808,
-      "name": "Tippa My Tongue",
-      "url": "https://open.spotify.com/track/7BCxIjRsqbc9Yiy2haBCIK"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
@@ -73,7 +25,71 @@
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
@@ -97,103 +113,103 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct"
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 207652,
-      "name": "This Is Why",
-      "url": "https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI"
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+        "name": "Never Had to Leave",
+        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
         }
       ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+      "duration_ms": 176813,
+      "name": "Cut Deep",
+      "url": "https://open.spotify.com/track/2Y2nvGDYoKXihBx5KBIugX"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
-        "name": "The Midnight Demon Club",
-        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
       },
       "artists": [
         {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
-        "name": "Troubled Man",
-        "url": "https://open.spotify.com/album/0aMbtIWaYgBdtU77zOQN4N"
+        "name": "Viva Las Vengeance",
+        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 155173,
-      "name": "Troubled Man",
-      "url": "https://open.spotify.com/track/0GM071OWnLj7XbblrwSlo0"
+      "duration_ms": 229517,
+      "name": "Don't Let The Light Go Out",
+      "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+        "name": "Want Want",
+        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
@@ -209,7 +225,55 @@
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
-      "added_at": "2022-10-14 04:29:35",
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "Troubled Man",
+        "url": "https://open.spotify.com/album/0aMbtIWaYgBdtU77zOQN4N"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 155173,
+      "name": "Troubled Man",
+      "url": "https://open.spotify.com/track/0GM071OWnLj7XbblrwSlo0"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Keep On Smiling",
         "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Tripping Over Air",
         "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
@@ -257,7 +321,7 @@
       "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
@@ -289,7 +353,7 @@
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     },
     {
-      "added_at": "2022-10-14 04:29:35",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
@@ -305,7 +369,7 @@
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Sick of U",
         "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
@@ -325,7 +389,7 @@
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
-      "added_at": "2022-10-14 04:29:35",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
@@ -341,7 +405,39 @@
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
@@ -361,7 +457,7 @@
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "I Won't",
         "url": "https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ"
@@ -377,7 +473,7 @@
       "url": "https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
@@ -393,55 +489,7 @@
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Run Away to Mars",
-        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Emotional Creature",
-        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Weird Goodbyes (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
@@ -525,39 +573,7 @@
       "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Want Want",
-        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
-    },
-    {
-      "added_at": "2022-10-14 04:29:35",
-      "album": {
-        "name": "Never Had to Leave",
-        "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "Cut Deep",
-      "url": "https://open.spotify.com/track/2Y2nvGDYoKXihBx5KBIugX"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "\u2022NOTDEAD!\u2022",
         "url": "https://open.spotify.com/album/708yI3q56JA8P8seT9V2zE"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/6fRVwblLIfC5DrVH8swfFs"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Beguiled",
         "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
@@ -621,23 +637,7 @@
       "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 229517,
-      "name": "Don't Let The Light Go Out",
-      "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "THREE HEADS*",
         "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
-      "added_at": "2022-10-14 04:29:35",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Fallin' With Me",
         "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
@@ -749,55 +749,7 @@
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "new body rhumba (from the film White Noise)",
-        "url": "https://open.spotify.com/album/0NIz7gtDhMS3pqFnCgcZCy"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 443853,
-      "name": "new body rhumba (from the film White Noise)",
-      "url": "https://open.spotify.com/track/2iqA5Na5vlo0bnZUf8KT1N"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "SINS",
         "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
@@ -813,7 +765,55 @@
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "new body rhumba (from the film White Noise)",
+        "url": "https://open.spotify.com/album/0NIz7gtDhMS3pqFnCgcZCy"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 443853,
+      "name": "new body rhumba (from the film White Noise)",
+      "url": "https://open.spotify.com/track/2iqA5Na5vlo0bnZUf8KT1N"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
+      "album": {
+        "name": "Return of the Dream Canteen",
+        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 260808,
+      "name": "Tippa My Tongue",
+      "url": "https://open.spotify.com/track/7BCxIjRsqbc9Yiy2haBCIK"
+    },
+    {
+      "added_at": "2022-10-21 07:11:06",
       "album": {
         "name": "Something Loud",
         "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"

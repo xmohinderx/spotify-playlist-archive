@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-268 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+270 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2022-05-25 | 2022-09-28 |
 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 | 2022-05-25 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-25 |  |
+| [After All Was Said](https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg) | [Leander Vaughn](https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl) | [After All Was Said](https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS) | 3:26 | 2022-10-21 |  |
 | [Ajna](https://open.spotify.com/track/2K5oZahJ4iSqs4LaXeCjtx) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:29 | 2022-09-30 |  |
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2022-05-25 | 2022-09-03 |
 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
@@ -246,6 +247,7 @@
 | [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 | 2022-05-25 | 2022-07-29 |
 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 | 2022-07-15 | 2022-09-28 |
 | [Through My Eyes](https://open.spotify.com/track/30VtdTgyGTBXlPUoEGv6aD) | [Troy Fuentes](https://open.spotify.com/artist/7FsKe2FZdoq66vdqJjIMCM) | [Through My Eyes](https://open.spotify.com/album/2hEH7dkbeuTmcjoxGOEKdL) | 3:01 | 2022-05-25 | 2022-09-28 |
+| [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-21 |  |
 | [Timelapses](https://open.spotify.com/track/3M0p85lGZSAirN47876OKc) | [Evelyn Ferrera](https://open.spotify.com/artist/3lWlO9shOnzBgTxgHj3ani) | [Timelapses](https://open.spotify.com/album/6uP3uuCmDm2dd7ZQHNh0uW) | 2:35 | 2022-05-25 |  |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2022-05-25 |  |
 | [Togetherness](https://open.spotify.com/track/4LzwKBHmQah31grCWDW5t3) | [Emeraldic](https://open.spotify.com/artist/03zWCCGrixU8hjtzgf8VRK) | [Togetherness](https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh) | 2:47 | 2022-05-25 |  |

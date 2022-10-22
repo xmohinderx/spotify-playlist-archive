@@ -154,6 +154,32 @@
     },
     {
       "album": {
+        "name": "Answer (feat. Omawumi)",
+        "url": "https://open.spotify.com/album/4rNCzdGPEcKVDhlqxDCaSN"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "D3an",
+          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
+        },
+        {
+          "name": "Omawumi",
+          "url": "https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303716,
+      "name": "Answer (feat. Omawumi)",
+      "url": "https://open.spotify.com/track/7wx2t7wL4IgwZKdf0kjZuu"
+    },
+    {
+      "album": {
         "name": "Atele",
         "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
       },
@@ -541,10 +567,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 146889,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/3gUHEZ6jmTWtBzUGUwLjyy"
+    },
+    {
+      "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/1Ne4TthIrhxHoCM4TrlzXX"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188969,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/09nKQUX0rISchtWlsDS4uB"
     },
     {
       "album": {
@@ -903,7 +947,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 262105,
       "name": "Free (Sounds for Healing)",
       "url": "https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa"
@@ -2162,6 +2206,28 @@
     },
     {
       "album": {
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142571,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -2663,7 +2729,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 274000,
       "name": "Ufunani",
       "url": "https://open.spotify.com/track/5nX638hSv1ytKMxhvTyv0D"

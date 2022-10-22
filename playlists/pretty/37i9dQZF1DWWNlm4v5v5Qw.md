@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,499 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,498 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 2 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 |
 | 3 | [CHECK IN](https://open.spotify.com/track/5IkL3uOBNhkXoyG8NkSNHY) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t), [Ky$hia](https://open.spotify.com/artist/5g3QyuruqPVJplxTxIxAyK) | [CHECK IN](https://open.spotify.com/album/1SYTg7nRTnrI3lFz9QqxPk) | 2:38 |
 | 4 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 |
-| 5 | [I Tried](https://open.spotify.com/track/2PrbHDq2BPmBJhQknUMs9j) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried](https://open.spotify.com/album/7omH8kpRfBmkwRDrtWrLiW) | 1:57 |
+| 5 | [I Tried w/ Juveniletristen](https://open.spotify.com/track/2PrbHDq2BPmBJhQknUMs9j) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried w/ Juveniletristen](https://open.spotify.com/album/7omH8kpRfBmkwRDrtWrLiW) | 1:57 |
 | 6 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 |
 | 7 | [Xpensive](https://open.spotify.com/track/57MTexDSwasDyOT7ydwJze) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Incrementum](https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR) | 3:13 |
 | 8 | [Contact](https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Contact](https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4) | 2:14 |

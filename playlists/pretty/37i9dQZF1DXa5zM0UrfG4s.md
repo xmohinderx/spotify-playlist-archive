@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,493 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,543 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 27 | [Jeg får aldri nok](https://open.spotify.com/track/3vh9UBBCeVokVAlq5ybhKr) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Heux](https://open.spotify.com/artist/7IuE8jJQzeifyrcFYdrIWt) | [Jeg får aldri nok](https://open.spotify.com/album/3XILoFwlPMTHIHGEze0d88) | 2:20 |
 | 28 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 |
 | 29 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
-| 30 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 |
-| 31 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
-| 32 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
+| 30 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
+| 31 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 |
+| 32 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
 | 33 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 |
 | 34 | [FREDAG](https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREDAG](https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46) | 2:48 |
 | 35 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 54 | [Supa](https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Supa](https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG) | 2:52 |
 | 55 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
 | 56 | [Du får aldri se meg naken igjen](https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Du får aldri se meg naken igjen](https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX) | 2:47 |
-| 57 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 |
-| 58 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
+| 57 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
+| 58 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 |
 | 59 | [Alt du vil ha](https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Alt du vil ha](https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR) | 3:00 |
 | 60 | [Che Casino](https://open.spotify.com/track/4PSC9tidDrwwtb9nMVM0Hv) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Che Casino](https://open.spotify.com/album/76X2ccF8LGeRfkxUwXPNLH) | 2:55 |
 | 61 | [Jag trodde änglarna fanns](https://open.spotify.com/track/64oHVnVsMxtKyhJ8zpj4QU) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [Ole Ivars i 2000](https://open.spotify.com/album/4rz3lOFwmGVZuaX7yvOm0s) | 3:22 |
-| 62 | [VÄRMLAND](https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VÄRMLAND](https://open.spotify.com/album/0ekx3OiXJ0DZ68xa5eM0XR) | 2:26 |
-| 63 | [Ba Chill](https://open.spotify.com/track/0CjLBFXEzaBRL6Uos9OPPs) | [Robin Stones](https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Papito MIERDA](https://open.spotify.com/artist/4id8s2TqKu7A8Tbfeh7XGf) | [Ba Chill](https://open.spotify.com/album/1u0IQI0Dz0W9HSs2R1HgTw) | 2:12 |
+| 62 | [Ba Chill](https://open.spotify.com/track/0CjLBFXEzaBRL6Uos9OPPs) | [Robin Stones](https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Papito MIERDA](https://open.spotify.com/artist/4id8s2TqKu7A8Tbfeh7XGf) | [Ba Chill](https://open.spotify.com/album/1u0IQI0Dz0W9HSs2R1HgTw) | 2:12 |
+| 63 | [VÄRMLAND](https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VÄRMLAND](https://open.spotify.com/album/0ekx3OiXJ0DZ68xa5eM0XR) | 2:26 |
 | 64 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 |
 | 65 | [Jag Gillar Dig](https://open.spotify.com/track/5pl2W8X6SDrxE55gRBTFmj) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb), [MC Grüber](https://open.spotify.com/artist/0yf7wmHhxJrbmKakyPqdWH) | [Jag Gillar Dig](https://open.spotify.com/album/3GJX0NsF7t5wOgdlhYLqn2) | 2:26 |
 | 66 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
 | 70 | [Sjømann Per](https://open.spotify.com/track/6cyIrcpZHSk6HnPa8NKW4W) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [Vagabond 2](https://open.spotify.com/album/5qWBU6SAuGqXvjy7gvH2Q7) | 2:34 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGE1ZWQ1NzNiNjYyZDk1Njc5MmU3YmM2OWU0ZWIwZmMz`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGRkODhkOGM5YjllMmI0ZmEwY2U2ODdkOGZjMmQ5NTRl`

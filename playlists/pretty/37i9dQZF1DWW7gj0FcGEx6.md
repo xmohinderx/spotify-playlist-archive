@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,270 likes - 109 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,357 likes - 109 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 73 | [Fireflies](https://open.spotify.com/track/6Vv5cih2XP3f5LxNuRUOxz) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Widow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK) | 3:13 |
 | 74 | [Life Was Just Beginning](https://open.spotify.com/track/2ZZLWOz3YrQfhD8q0OUsdW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [A Journal for Jordan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lnVivEoRcH4Hh7e38vmdn) | 4:07 |
 | 75 | [The Pool](https://open.spotify.com/track/1VpnWzCSImeP7cU1p9prFs) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Introducing, Selma Blair \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0RjlzqoO4f1Z2VDmwa7JuC) | 3:18 |
-| 76 | [Thrinos](https://open.spotify.com/track/3Ma4JDl9bU1UInwwCiVIfU) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Edicius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ABYH0nH2gLfbibEAK8dvq) | 2:07 |
+| 76 | [Thrinos](https://open.spotify.com/track/1BLhw0Jg5xhXxqsuk32IMN) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Edicius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FmuIHK69zVRiQYVfnnYIv) | 2:07 |
 | 77 | [Leda](https://open.spotify.com/track/1IIAQAAsnL51sYw3rK3957) | [Dickon Hinchliffe](https://open.spotify.com/artist/3SzIzpOIDpgwKNWaKL4FG4) | [Leda](https://open.spotify.com/album/67quHHVMflpXF3zQEs7AqP) | 2:14 |
 | 78 | [There'll Always Be Another Monster](https://open.spotify.com/track/277m7fiKpjfeMgGLDzlqEO) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz), [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 2:44 |
 | 79 | [New Horizons](https://open.spotify.com/track/36brKgwtrp23PHA5etAKpp) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Scream \(Music From The Motion Picture\)](https://open.spotify.com/album/3Ogf02e98cddaZ7orthtIm) | 3:49 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 108 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 | 109 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDkyOGJmZjUxZGU0MDk5NzY3MzQxNTNhYmY5Njk2YmI1`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDIxYmFjY2Q1ZmVmYzdiODViYjZkOWU0ZTExODYzOTYw`

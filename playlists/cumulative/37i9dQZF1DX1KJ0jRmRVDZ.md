@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-523 songs - 1 day 6 hr 1 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+524 songs - 1 day 6 hr 5 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,13 +107,14 @@
 | [Overcast Skies](https://open.spotify.com/track/6IFs3VTvLLiQict4tAt7Ct) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Overcast Skies](https://open.spotify.com/album/4SqUTGadZjUKgnYtFrPFkH) | 2:42 | 2022-09-27 | 2022-10-05 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [なとり](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-15 |  |
 | [oxygen](https://open.spotify.com/track/1RYbwTKMI4JR86drI4IDIt) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [oxygen](https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o) | 2:48 | 2022-06-21 | 2022-06-29 |
-| [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 |  |
+| [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 | 2022-10-22 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 |  |
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2022-07-28 |  |
 | [Paradise Lost](https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Paradise Lost](https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp) | 3:35 | 2022-10-13 | 2022-10-19 |
 | [Penguin's Detour](https://open.spotify.com/track/0HrRw92cShhABjnqNWOi19) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Penguin's Detour](https://open.spotify.com/album/0PGYyFLnGsl3LguARVroW5) | 3:35 | 2022-06-09 | 2022-07-29 |
 | [PLAYer](https://open.spotify.com/track/77bzrrMdwLa7CDKu62l7jT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [黎\-ray\-](https://open.spotify.com/album/3ODHhgn1GAznuAHw4Mcdea) | 4:20 | 2022-07-12 | 2022-07-14 |
 | [position talk](https://open.spotify.com/track/4FkSBeVGH6BsXrctM08JGe) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [position talk](https://open.spotify.com/album/6kacmngtser9bpPL1oDODu) | 3:01 | 2022-09-06 | 2022-09-15 |
+| [Rain, Rain Go Away!](https://open.spotify.com/track/6hKiBHq1LdeGrUkmarAXX4) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Rain, Rain Go Away!](https://open.spotify.com/album/7jtiQrVrHeXNE2n6qzBeXg) | 4:14 | 2022-10-20 |  |
 | [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-06-21 |  |
 | [re:GENERATE](https://open.spotify.com/track/2XpeTIdekDLKmj5Ewmr1h0) | [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [re:GENERATE](https://open.spotify.com/album/2bNyilnde8t7oCDLVXFW28) | 2:45 | 2022-07-12 | 2022-07-15 |
 | [Re:銃の部品](https://open.spotify.com/track/4blZivIkAuztRriZxwdwN8) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Re:銃の部品](https://open.spotify.com/album/12CSRFbZYvZ7bYckJNlzLN) | 2:41 | 2022-06-30 | 2022-07-03 |
@@ -156,7 +157,7 @@
 | [YOUNG TOWN](https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [YOUNG TOWN](https://open.spotify.com/album/2ZrZNBjZKpBlXWwxYmEra9) | 2:50 | 2022-06-09 | 2022-06-22 |
 | [あいうえ](https://open.spotify.com/track/5twY3ucZMPD3iUkmlbo841) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM) | [あいうえ](https://open.spotify.com/album/1msDCAeeqoZJyC5OaFaChg) | 1:00 | 2022-09-14 | 2022-09-21 |
 | [あいつら全員同窓会](https://open.spotify.com/track/4ebmBJshfLXSgICJyEipIF) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 4:15 | 2022-06-09 | 2022-07-13 |
-| [あしたてんき](https://open.spotify.com/track/3fZd8PrbJgVqzfmxmqYqeY) | [とた](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [あしたてんき](https://open.spotify.com/album/2x2JhOIQuFWnIKrp7GkDSA) | 4:14 | 2022-10-20 |  |
+| [あしたてんき](https://open.spotify.com/track/3fZd8PrbJgVqzfmxmqYqeY) | [とた](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [あしたてんき](https://open.spotify.com/album/2x2JhOIQuFWnIKrp7GkDSA) | 4:14 | 2022-10-20 | 2022-10-22 |
 | [あっかんべ](https://open.spotify.com/track/4H3CbpffoSJ0YvAcysYF9y) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [ぽいずにゃ〜しんどろーむ](https://open.spotify.com/album/5BqRdVGwJWuwV3c6emUoEZ) | 2:46 | 2022-09-08 | 2022-09-21 |
 | [ありきたり](https://open.spotify.com/track/53SK586WXWg7skOtj9fjmO) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [ありきたり](https://open.spotify.com/album/5Vhr0IeCXZsqHUyl5IzEYW) | 3:26 | 2022-06-09 | 2022-07-26 |
 | [あわひ](https://open.spotify.com/track/2abDXgPKaf45yypH4ifUdr) | [KEN KAMIKITA](https://open.spotify.com/artist/0Ln6sTdmb1WboqQweUDexs) | [あわひ](https://open.spotify.com/album/0GMYvYMvBdsMsPc9JH5quz) | 4:33 | 2022-06-14 | 2022-07-14 |
@@ -346,7 +347,7 @@
 | [全部が嫌いだ](https://open.spotify.com/track/0BqCPdwMHhfi9EdG784IbR) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [全部が嫌いだ](https://open.spotify.com/album/6bREPUWcely11Lkl5Ey7Wr) | 2:02 | 2022-06-09 | 2022-07-22 |
 | [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/track/6WIaqRsMJIL4CShUVuBSaV) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/album/6IzGihmL24pqcRVd0vSl4S) | 3:50 | 2022-09-01 | 2022-09-21 |
 | [分身](https://open.spotify.com/track/3hmCw7M1KL5tXnI0RksmJK) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [分身 \-Bunshin\-](https://open.spotify.com/album/3OmklSJp60FTTw1mogR6Yk) | 2:54 | 2022-06-16 | 2022-07-14 |
-| [化け猫](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 | 2022-06-09 | 2022-10-21 |
+| [化け猫](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 | 2022-06-09 |  |
 | [半端者](https://open.spotify.com/track/0jtfoVtew7OYQZSo1vGmr9) | [ケダルイ / Kedarui](https://open.spotify.com/artist/7gHZpr2PBTuIMu3zf3KAiO) | [半端者](https://open.spotify.com/album/6VcUHJAsWtRQCct2IgvEeO) | 3:15 | 2022-06-21 | 2022-07-21 |
 | [原罪と踊る](https://open.spotify.com/track/6Eo9ipFfhBKebfGa49NwTm) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [原罪と踊る](https://open.spotify.com/album/270nCUHb0eiHvRIH3wzPmq) | 3:22 | 2022-10-13 | 2022-10-15 |
 | [反逆者の僕ら](https://open.spotify.com/track/7qCImvxBwbCgyoJV6xjGIA) | [EMA](https://open.spotify.com/artist/23rpDPnKdY96j4smcpPTJT) | [反逆者の僕ら](https://open.spotify.com/album/2f5l1vGubt0kUIhHhwaS2j) | 4:27 | 2022-06-14 | 2022-07-05 |

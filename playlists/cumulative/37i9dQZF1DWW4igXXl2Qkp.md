@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-511 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+512 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,8 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/1MetT6jbSGkJqArcDltkW0) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry](https://open.spotify.com/album/0oABHFklKPZDDlUFAI05Wf) | 2:16 | 2022-02-23 | 2022-03-31 |
 | [Southside](https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [Southside](https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo) | 3:21 | 2022-08-24 |  |
 | [Southside](https://open.spotify.com/track/6GXlvJMiAaO0lkBWCEb4o5) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [Southside](https://open.spotify.com/album/2TDIvUGaIb9Tz1lgPSTcpa) | 2:51 | 2022-05-25 | 2022-07-28 |
-| [Speak Up](https://open.spotify.com/track/1XgPkhPRp29fsTOUyXYuY6) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/2Yl5QSdrCOR2KLiNpBWUSN) | 1:44 | 2022-10-13 |  |
+| [Speak Up](https://open.spotify.com/track/1XgPkhPRp29fsTOUyXYuY6) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/2Yl5QSdrCOR2KLiNpBWUSN) | 1:44 | 2022-10-13 | 2022-10-22 |
+| [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-10-13 |  |
 | [Spice Talk](https://open.spotify.com/track/4K4X9BDg1bqQSQqD7Vs5tS) | [Young Menace](https://open.spotify.com/artist/6Ik8lFlD3jH1ScoK101XVo) | [Spice Talk](https://open.spotify.com/album/62iMRbRyk8yenXxRs4wQLG) | 2:46 | 2022-09-14 |  |
 | [Spilled Milk](https://open.spotify.com/track/2caHt4cPQ8DSp2tb9sgggF) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Spilled Milk](https://open.spotify.com/album/3lkSHgq36F1go2Wh85eY6f) | 2:20 | 2022-07-27 | 2022-09-15 |
 | [Spliff Vol.1](https://open.spotify.com/track/0vT5Rulc6WiTo9a1NUIk9g) | [acpxpi](https://open.spotify.com/artist/6Sp12sFljF1Y6m7slTQeuV) | [Spliff Vol.1](https://open.spotify.com/album/2FvYBgeJ79zoMR0iSoIEUn) | 2:10 | 2022-03-02 | 2022-03-31 |

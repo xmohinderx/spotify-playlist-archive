@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: AmandesNoBeat, Dudu
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,828 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,833 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 9 | [Axioma](https://open.spotify.com/track/5Fuxzf7mYaAGfdXwSh317y) | [Thiago Peixoto](https://open.spotify.com/artist/2Ywt9Waw1cMQEU9PvB4ZFG), [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Axioma](https://open.spotify.com/album/0TQaQjlVF3fspGGlz1imBi) | 2:21 |
 | 10 | [COLETE](https://open.spotify.com/track/4lwVNwnDBCUYonkHlkOucc) | [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [COLETE](https://open.spotify.com/album/5R52ljOsbfYRbDpEGrajoy) | 1:58 |
 | 11 | [Flores e Facas](https://open.spotify.com/track/5y6BXNz2jiBjZBvf8HCC05) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Flores e Facas](https://open.spotify.com/album/00zWdL6Rj0pONkeNYwNdKq) | 2:48 |
-| 12 | [Lado Sujo, Pt\. 2](https://open.spotify.com/track/05OORli4KkXy3evm4sGNkU) | [Stevão](https://open.spotify.com/artist/3xLEsKA98E6roic4ya9Alq), [Kokão](https://open.spotify.com/artist/4h9P2eodXuCnZ7FBBiekxc), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Lado Sujo, Pt\. 2](https://open.spotify.com/album/1aQ5ZeLNKEjdVL5sZglbpD) | 3:31 |
+| 12 | [Lado Sujo, Pt\. 2](https://open.spotify.com/track/05OORli4KkXy3evm4sGNkU) | [Stevão](https://open.spotify.com/artist/3xLEsKA98E6roic4ya9Alq), [Kokão 210](https://open.spotify.com/artist/5FydayX7CF0PPwsz8Agsqh), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Lado Sujo, Pt\. 2](https://open.spotify.com/album/1aQ5ZeLNKEjdVL5sZglbpD) | 3:31 |
 | 13 | [Desavento](https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Valada](https://open.spotify.com/artist/54pqoIRMifMNNc69yNzToB) | [Desavento](https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY) | 3:13 |
 | 14 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 |
 | 15 | [Old Rap](https://open.spotify.com/track/2rKAfftXgnr0dmRkXmxPrJ) | [Bikera Sonora](https://open.spotify.com/artist/2LpTK3UffBph51hdXrDklL) | [Old Rap](https://open.spotify.com/album/2FcuIVnJO5Mb5hW2DRCTva) | 3:12 |

@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-96 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+97 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [efectos secundarios](https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [efectos secundarios](https://open.spotify.com/album/7sUapRkZsZTV4sBVxlcfpT) | 2:42 | 2022-01-07 | 2022-02-16 |
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2022-05-06 |  |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2022-01-07 | 2022-01-23 |
-| [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 | 2022-03-02 |  |
+| [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 | 2022-03-02 | 2022-10-22 |
 | [FERNET](https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [FERNET](https://open.spotify.com/album/0UbxWnBpJKoUj4jmSFwUnc) | 3:12 | 2022-06-17 |  |
 | [FUGAZ](https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [EMOJI](https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u) | 3:44 | 2022-01-07 | 2022-02-16 |
 | [GYAL](https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [ICE BLUE](https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU) | 2:54 | 2022-07-29 |  |
@@ -38,6 +38,7 @@
 | [Imagínate](https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [Imagínate](https://open.spotify.com/album/3E5kxpDUSFKT7SjJY1DOqw) | 3:42 | 2022-02-15 | 2022-07-30 |
 | [Imperio](https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Imperio](https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6) | 3:42 | 2022-01-07 |  |
 | [INESTABLE](https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3) | 2:28 | 2022-06-17 | 2022-10-21 |
+| [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 | 2022-09-29 |  |
 | [Inolvidable](https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Inolvidable](https://open.spotify.com/album/3uELVtlt5jNtdea6DlmjIC) | 3:53 | 2022-01-07 | 2022-01-23 |
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2022-01-07 | 2022-02-16 |
 | [Ir por Ti](https://open.spotify.com/track/65S5ZhV3ATRA4iHrTIj6mz) | [Dianuka Yogi](https://open.spotify.com/artist/59GCKFXfP1wbxvQ0voGjs2) | [Ir por Ti](https://open.spotify.com/album/6CmrNA7Brd2b1f00bYNkqS) | 3:18 | 2022-02-01 | 2022-07-31 |

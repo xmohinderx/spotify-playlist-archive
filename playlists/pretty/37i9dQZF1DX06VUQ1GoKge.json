@@ -1,15 +1,15 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 417104,
+  "num_followers": 417475,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMDRhMWRlYzhlNjdlMzc5YTI4NmVlNmY4YjIxMWEyN2Nk",
+  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMGQ4ODY1MjZjNTVjMDBhYjgyOGY3ZGRmNDJhNmUxZDAz",
   "tracks": [
     {
-      "added_at": "2022-10-21 01:29:36",
+      "added_at": "2022-10-22 01:36:34",
       "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
     },
     {
-      "added_at": "2022-10-21 01:29:36",
+      "added_at": "2022-10-22 01:36:34",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
-      "added_at": "2022-10-21 01:29:36",
+      "added_at": "2022-10-22 01:36:34",
       "album": {
         "name": "A Devil More Damned / Choke / Mind Right",
         "url": "https://open.spotify.com/album/3VpuG1Z9YmhjOBK77CMdro"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
-      "added_at": "2022-10-21 01:29:36",
+      "added_at": "2022-10-22 01:36:34",
       "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 248746,
       "name": "Twilight Of The Thunder God",
       "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "More Human Than Human",
-      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 189120,
       "name": "Blood",
       "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "More Human Than Human",
+      "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Great War",
-      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 248880,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Great War",
+      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
     },
     {
       "added_at": "2021-03-29 12:26:54",

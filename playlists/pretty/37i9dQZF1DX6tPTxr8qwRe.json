@@ -1,13 +1,77 @@
 {
-  "description": "Extra vicious, karma driven, hard hitting pop. This is SALT. Cover: Maisie Peters",
-  "num_followers": 304881,
+  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: (G)I-DLE",
+  "num_followers": 305030,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE4Nzc2MywwMDAwMDAwMDliMjMzZjAzZjU4MjBjZjQ0OTU2MWI5ZTk3MjE1Mjkx",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDZmMzQ2ZWE3NWJjODBiYWNmMGFjMDAxZDM4ZTliOTJj",
   "tracks": [
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "young forever",
+        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "too hot to cry",
+      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
+    },
+    {
+      "added_at": "2022-10-19 13:56:03",
+      "album": {
+        "name": "girl\u2019s girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 197042,
+      "name": "girl\u2019s girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763"
+    },
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
@@ -41,36 +105,20 @@
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "young forever",
-        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
+        "name": "Sad Ghost",
+        "url": "https://open.spotify.com/album/0BKbLRyigNvoZIBcCw1fcH"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "ari hicks",
+          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
         }
       ],
-      "duration_ms": 188360,
-      "name": "too hot to cry",
-      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "CRAVE",
-        "url": "https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu"
-      },
-      "artists": [
-        {
-          "name": "CR\u00c8ME",
-          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "CRAVE",
-      "url": "https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm"
+      "duration_ms": 187590,
+      "name": "Sad Ghost",
+      "url": "https://open.spotify.com/track/45fNZIKK6NYTLq5nNvTTyx"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -89,22 +137,6 @@
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
-      "added_at": "2022-10-19 13:56:03",
-      "album": {
-        "name": "girl\u2019s girl - Spotify Singles",
-        "url": "https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 197042,
-      "name": "girl\u2019s girl - Spotify Singles",
-      "url": "https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "honey catching season",
@@ -119,6 +151,54 @@
       "duration_ms": 145788,
       "name": "martyr",
       "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "devil may care",
+        "url": "https://open.spotify.com/album/3HD59AolaFb0PMhP3cy4lN"
+      },
+      "artists": [
+        {
+          "name": "Fae",
+          "url": "https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "devil may care",
+      "url": "https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "CRAVE",
+        "url": "https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu"
+      },
+      "artists": [
+        {
+          "name": "CR\u00c8ME",
+          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "CRAVE",
+      "url": "https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Smoking Weed Alone",
+        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Smoking Weed Alone",
+      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -637,22 +717,6 @@
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7"
-      },
-      "artists": [
-        {
-          "name": "ari hicks",
-          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
-        }
-      ],
-      "duration_ms": 155749,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "EVERYBODY'S GONNA DIE!",
@@ -929,22 +993,6 @@
       "url": "https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 176150,
-      "name": "Golden Age",
-      "url": "https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Hot Killer",
@@ -1013,38 +1061,6 @@
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "i\u2019m too pretty for this",
-        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 166037,
-      "name": "i'm too pretty for this",
-      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Angry Woman",
-        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 153002,
-      "name": "Angry Woman",
-      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
-    },
-    {
       "added_at": "2022-05-20 05:04:53",
       "album": {
         "name": "Gorgeous Gorgeous Girls",
@@ -1059,22 +1075,6 @@
       "duration_ms": 116909,
       "name": "Gorgeous Gorgeous Girls",
       "url": "https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6"
-    },
-    {
-      "added_at": "2022-05-20 05:04:53",
-      "album": {
-        "name": "Wish You the Worst",
-        "url": "https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We"
-      },
-      "artists": [
-        {
-          "name": "Ryan Mack",
-          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
-        }
-      ],
-      "duration_ms": 143466,
-      "name": "Wish You the Worst",
-      "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1123,22 +1123,6 @@
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "cult leader",
-        "url": "https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 163462,
-      "name": "cult leader",
-      "url": "https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7"
     },
     {
       "added_at": "2021-09-10 04:00:00",

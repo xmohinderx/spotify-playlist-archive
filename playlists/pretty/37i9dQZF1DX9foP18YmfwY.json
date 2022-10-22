@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 278316,
+  "num_followers": 278385,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNjg1NywwMDAwMDAwMDU1ZjhiYWZhMDRkMmZlNzdkMGIxOTcxNjU4Zjk3YzRh",
+  "snapshot_id": "MTY2NTcyNjg1NywwMDAwMDAwMDRiMGNhYmU2ZjA5MDI5ZDY1M2NhMjhiMDZlYmY0OWRk",
   "tracks": [
     {
       "added_at": "2022-10-14 05:54:17",
@@ -86,6 +86,10 @@
         {
           "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
           "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        },
+        {
+          "name": "Ir. Samuel Maria",
+          "url": "https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b"
         }
       ],
       "duration_ms": 494000,
@@ -279,18 +283,18 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
       },
       "artists": [
         {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -335,18 +339,18 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
       "artists": [
         {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -371,26 +375,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Antes de nos Aproximar",
-        "url": "https://open.spotify.com/album/6xsu0e1uhlTYbsyOGXMheI"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        },
-        {
-          "name": "Eug\u00eanio Jorge",
-          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Antes de nos Aproximar",
-      "url": "https://open.spotify.com/track/1MkqiL1NFQjPlU1dmOIKhC"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Quero Nascer de Novo",
         "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
@@ -407,6 +391,26 @@
       "duration_ms": 370000,
       "name": "Quero Nascer de Novo",
       "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Antes de nos Aproximar",
+        "url": "https://open.spotify.com/album/6xsu0e1uhlTYbsyOGXMheI"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        },
+        {
+          "name": "Eug\u00eanio Jorge",
+          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Antes de nos Aproximar",
+      "url": "https://open.spotify.com/track/1MkqiL1NFQjPlU1dmOIKhC"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -586,6 +590,10 @@
         {
           "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
           "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        },
+        {
+          "name": "Magda Maria",
+          "url": "https://open.spotify.com/artist/24Tq5n6z5eRzl3CvbMv8tl"
         }
       ],
       "duration_ms": 249600,

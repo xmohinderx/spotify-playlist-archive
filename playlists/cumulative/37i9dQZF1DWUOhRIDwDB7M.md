@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-250 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+251 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Nowhere](https://open.spotify.com/track/6Edd9DPNANSVnzfnZ1S2Sw) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Nowhere](https://open.spotify.com/album/0FEAGjp6rqwSzhluDvDaoN) | 3:42 | 2021-09-06 | 2022-09-15 |
 | [Ocean Cave](https://open.spotify.com/track/1kqUvir1JRGNaOtewXYkoW) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Water Island](https://open.spotify.com/album/0G5QJUB8uyYEbMABwBc1db) | 3:17 | 2021-09-06 |  |
 | [Ocean of Melody](https://open.spotify.com/track/4A7hb0ABIwJ4hyV6KsytT5) | [Ice and Water](https://open.spotify.com/artist/6erX232kJIl0xB2Rglp76K) | [Whale Song](https://open.spotify.com/album/5ByVQlAhXwOsojsJvT6Olf) | 2:38 | 2021-09-06 |  |
+| [Odyssey](https://open.spotify.com/track/447RHVZ7mrUWxUgcqBZBu2) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Sunyata](https://open.spotify.com/album/0KnrJqNM9asaFx2484ghNf) | 3:25 | 2022-10-21 |  |
 | [Open Fields](https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:03 | 2021-09-06 |  |
 | [Open Mind](https://open.spotify.com/track/6P0nOPIowb2GOLDJ5ep71u) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Open Mind](https://open.spotify.com/album/2krXE1cZUSJJbEWq2sdKys) | 2:40 | 2021-09-06 |  |
 | [Open Sea](https://open.spotify.com/track/6EmGCYsp5zMb62euRsHnhJ) | [Kalmankar](https://open.spotify.com/artist/69A9sNZknmNen76ssKle8a) | [Open Ocean](https://open.spotify.com/album/3tN8xeULgDF32eUup028YQ) | 2:14 | 2021-09-06 |  |

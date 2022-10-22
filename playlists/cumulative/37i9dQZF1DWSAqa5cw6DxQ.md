@@ -4,13 +4,14 @@
 
 > Clear your mind with soothing new age guitar.
 
-103 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+106 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Place For The Mind](https://open.spotify.com/track/1zYZjM45aADOpadCoj82GA) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [A Place For The Mind](https://open.spotify.com/album/7AEyA7APGPAfMC75lHLPwB) | 2:53 | 2022-02-28 |  |
 | [Adrift in Time](https://open.spotify.com/track/41GSq7PxoKXyXNsYNRDSkT) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Something Beautiful](https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S) | 2:54 | 2022-02-28 |  |
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-02-28 |  |
+| [Albizia](https://open.spotify.com/track/0d8caG6gxZ9u0TF6XUcz2v) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:22 | 2022-10-21 |  |
 | [Aleph](https://open.spotify.com/track/4YxflJfXcejk4dMsCCjVQ5) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Aleph](https://open.spotify.com/album/3RVeSq0URHjXScaMXDCMJn) | 3:02 | 2022-02-28 |  |
 | [Angelica](https://open.spotify.com/track/33QdFnE3AIsQZaGZZWYMEo) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 4:38 | 2022-02-28 | 2022-09-03 |
 | [Astral Body](https://open.spotify.com/track/17yuGlOR1mCfOOjdu1XmqH) | [Michel Mondrain](https://open.spotify.com/artist/4UwUTmJanOQvwAGmUKkewh) | [Astral Body](https://open.spotify.com/album/7GwWItskLCrgRjyEwbKzhZ) | 3:07 | 2022-02-28 |  |
@@ -38,6 +39,7 @@
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-02-28 |  |
 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 | 2022-02-28 |  |
 | [Facile Senses](https://open.spotify.com/track/6Om9JiR0nLPL5w0XG8krNc) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Facile Senses](https://open.spotify.com/album/1IhQrP1R85Jk319wNJWEzW) | 3:06 | 2022-10-14 |  |
+| [Fais de beaux rêves](https://open.spotify.com/track/7fl8RV1XaQbClOH3cDyJEl) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:28 | 2022-10-21 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2022-02-28 |  |
 | [Forests and Hills](https://open.spotify.com/track/2SGRhqZAjesAw183DQmV9L) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Forests and Hills](https://open.spotify.com/album/4RIXar48wxLqPfxwnycwNF) | 4:14 | 2022-02-28 |  |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-02-28 |  |
@@ -96,6 +98,7 @@
 | [Stills](https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Stills](https://open.spotify.com/album/0dcqSIGN8na4KTTDlNYm3O) | 2:20 | 2022-02-28 |  |
 | [Story Untold](https://open.spotify.com/track/2Sd1qxVjFXFXeyIUSqDRwd) | [Vanja Thownsend](https://open.spotify.com/artist/0Bb4ZHmEDQeAKem2FyVXxT) | [Story Untold](https://open.spotify.com/album/6ug5e5SDgcyj7mqr2Pe6EN) | 3:39 | 2022-02-28 | 2022-04-22 |
 | [Sunset at the Veranda](https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Sunset at the Veranda](https://open.spotify.com/album/0mnIZBUOqZjxG0Gn8Asp2o) | 2:38 | 2022-02-28 |  |
+| [Sweet Euphoria](https://open.spotify.com/track/6jqsohE1olmUcmL1a2u7Qz) | [Fields Of Glory](https://open.spotify.com/artist/6QxOhf5TjFWZH818Pn54mi) | [Memories Of Myanmar](https://open.spotify.com/album/5z37DNQzOrIC5e96arUClF) | 2:20 | 2022-10-21 |  |
 | [The Book Of Yoga](https://open.spotify.com/track/4tPIBR9sLZtovsTWNmXOWb) | [Demar Brisak](https://open.spotify.com/artist/7xkbL3vqclYAKnO7s7VBxh) | [The Book Of Yoga](https://open.spotify.com/album/3TVqinoDcLyLjqoZHhmoiJ) | 3:05 | 2022-02-28 | 2022-05-27 |
 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2022-02-28 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2022-02-28 |  |

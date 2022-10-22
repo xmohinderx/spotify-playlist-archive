@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-761 songs - 2 day 6 hr 37 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+762 songs - 2 day 6 hr 40 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 | 2021-02-26 |  |
 | [C O S M](https://open.spotify.com/track/4Hg9jafzzKavElQMAINzeP) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 7:08 | 2019-06-19\* | 2022-04-20 |
 | [Cabaraú](https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0) | 6:32 | 2022-01-14 | 2022-07-29 |
+| [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 | 2022-09-09 |  |
 | [cabin](https://open.spotify.com/track/7yKMGeJM3EjNrS6QXnY6xP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 3:20 | 2019-06-19\* | 2022-10-13 |
 | [Callers Spring](https://open.spotify.com/track/6pN9xoMLha3ndTZO3yd0nr) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Callers Spring](https://open.spotify.com/album/2WYY1V4tCJaw8SEYKbNUfw) | 6:15 | 2022-02-04 | 2022-04-20 |
 | [camilla](https://open.spotify.com/track/0NHfrrB1i1BE19q3X6ayB9) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 3:33 | 2019-06-19\* | 2020-10-22 |
@@ -143,7 +144,7 @@
 | [Cup of Joe](https://open.spotify.com/track/5cwtgZnXsn2vVfuQZPSFt3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Cup of Joe](https://open.spotify.com/album/4JtOw2t4gAgOPs3SWxhp8N) | 3:46 | 2021-07-13 | 2022-07-29 |
 | [Cura](https://open.spotify.com/track/1k2sSU3ZMwYQLJBe3VvUF7) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Cura](https://open.spotify.com/album/3XNjNIxqlAxkus63k1VnIa) | 1:31 | 2019-06-19\* | 2020-08-26 |
 | [Cure for the Itch](https://open.spotify.com/track/3rpnfXSECgapxeGeRgUYqy) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2019-07-25 | 2020-10-19 |
-| [Cusp \- Edit](https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS) | 4:09 | 2021-05-20 |  |
+| [Cusp \- Edit](https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS) | 4:09 | 2021-05-20 | 2022-10-22 |
 | [Daffodils](https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5) | [Jacaszek](https://open.spotify.com/artist/46xbeTrtjYfCObCHTlGOPW) | [Daffodils](https://open.spotify.com/album/0wc6Yze5PRKUGdMPayCTGq) | 5:01 | 2021-01-11 | 2022-04-21 |
 | [Dawn Aura](https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Forms](https://open.spotify.com/album/4YvpJz98NQQHdLlmOw04ZX) | 4:37 | 2021-10-01 | 2022-07-29 |
 | [Daydream of You](https://open.spotify.com/track/3UBW2WFjqWpEhjOM1qO6It) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:12 | 2021-03-10 | 2022-07-28 |

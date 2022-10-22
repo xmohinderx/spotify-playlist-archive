@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,625,847 likes - 119 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,627,742 likes - 119 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 16 | [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 |
 | 17 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/7GmiJVBAzWNikX5VkNQg85) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:28 |
 | 18 | [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 |
-| 19 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
+| 19 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 | 20 | [Under the Sea](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 |
 | 21 | [He Mele No Lilo](https://open.spotify.com/track/3G9ZnSjGYyHx7e221v0qse) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 2:28 |
 | 22 | [I Won't Say \(I'm In Love\) \- From "Hercules" / Soundtrack Version](https://open.spotify.com/track/3Dupb5AcaVFErlSSfl3szW) | [Susan Egan](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 2:20 |

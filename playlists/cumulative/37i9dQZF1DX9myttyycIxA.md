@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Runnner
 
-664 songs - 1 day 14 hr 0 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+665 songs - 1 day 14 hr 5 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A/B Futures](https://open.spotify.com/track/3W4Nr0J4tfKet8YjHGHXLd) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Indistinct Conversations](https://open.spotify.com/album/3a3g4ZBJyIWNmUtzUKFxGn) | 3:39 | 2021-03-05 | 2022-03-12 |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-03-05 | 2022-04-19 |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2022-04-29 | 2022-09-24 |
+| [After Silver Leaves](https://open.spotify.com/track/7lRMtQETB0B5WQBc11paPx) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Unbroken Thought](https://open.spotify.com/album/4k6mh2lSAOC0Z5GrXigXtq) | 4:37 | 2022-10-21 |  |
 | [Afterglow](https://open.spotify.com/track/6aDXqeOAbR9Hxfr6rQe0Fo) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Fall into Place / Afterglow](https://open.spotify.com/album/62e7kMRFN636XBdtZBp7F0) | 3:18 | 2022-05-13 | 2022-10-01 |
 | [Aftershook](https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Aftershook](https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro) | 3:25 | 2022-09-02 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-19 | 2022-07-13 |

@@ -4,7 +4,7 @@
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-67 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
+68 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Hope and Glory](https://open.spotify.com/track/3kFci2HGZar1xwmuOa5ijb) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Pocketful of Faith](https://open.spotify.com/album/2pt5SvRTvMyYu0Hyh3r8fQ) | 4:01 | 2018-11-27 |  |
 | [Hope Lives](https://open.spotify.com/track/5TblOn6KkBhC6ECLhDakN2) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hope Lives](https://open.spotify.com/album/1NKqjGy5kGDTA1MmpzTkFf) | 5:02 | 2018-11-27 |  |
 | [How Can We Not \(Give Praise\) \- Live](https://open.spotify.com/track/3lu7hEA4uuS6W4lQ6Vu7au) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9) | [How Can We Not \(Give Praise\) \[Live\]](https://open.spotify.com/album/1tX7VDEYqIpnn9oAwCg9nC) | 6:51 | 2018-11-27 |  |
-| [I Believe](https://open.spotify.com/track/1G4HQS0ryuYy8ncQr9dSU8) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/6DO6UqQE4KDIr1qDUr72iA) | 5:20 | 2018-11-27 |  |
+| [I Believe](https://open.spotify.com/track/1G4HQS0ryuYy8ncQr9dSU8) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/6DO6UqQE4KDIr1qDUr72iA) | 5:20 | 2018-11-27 | 2022-10-22 |
+| [I Believe](https://open.spotify.com/track/6PFR1iE0uUicY7YcuwDq2Z) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/5H4LLOOwlcptxzEJHX3RoL) | 5:20 | 2018-11-27 |  |
 | [Jericho \(feat\. Aaron Boyd\)](https://open.spotify.com/track/5Cpf8yCc38wsGdpEVB963t) | [CFC Music](https://open.spotify.com/artist/1sxkQQqbSOT9mHGULSSaoy), [Aaron Boyd](https://open.spotify.com/artist/7t4Ea9sDPJpypUOqTSH9M3) | [Faith to Favour](https://open.spotify.com/album/53HN9gpuVa7ZRQyr36QEzg) | 5:01 | 2018-11-27 |  |
 | [Jesus I Love You \- Live](https://open.spotify.com/track/3VmSMZSYeFvZEQjk8DiaWm) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Tom Smith](https://open.spotify.com/artist/22ZjvaisJlv6JVpHbeHunG) | [The Promise \(Live\)](https://open.spotify.com/album/0i6oG7YRl57CGwW2bJRTd2) | 7:06 | 2018-11-27 |  |
 | [Jesus Only You \- Live](https://open.spotify.com/track/7ANBtFlxPmJkhkqQMvy7bT) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Jesus Only You \(Live\)](https://open.spotify.com/album/21q9tq89gBSUllwlU4VsvK) | 4:36 | 2018-11-27 |  |

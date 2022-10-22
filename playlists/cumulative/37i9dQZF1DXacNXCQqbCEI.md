@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-226 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+227 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Atlántida](https://open.spotify.com/track/59AwCPUygJRzErUAKb2Xz4) | [DNGDNGDNG](https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Atlántida](https://open.spotify.com/album/3q7HQITYyxdFUBdcKbG3ug) | 5:30 | 2022-04-15 | 2022-07-20 |
 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 | 2022-04-15 | 2022-04-21 |
 | [Azul Oro](https://open.spotify.com/track/18XhpMPsd4oeX6lQETPeaU) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Azulejos](https://open.spotify.com/album/3emF9VP0ecSjGEAI2XQ6m0) | 3:26 | 2021-11-26 | 2022-10-13 |
+| [Azul Oro](https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Azulejos](https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY) | 3:26 | 2022-04-15 |  |
 | [Bambú](https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7) | [Killabeatmaker](https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb), [Papá Kumbé](https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK) | [Bambú](https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw) | 4:06 | 2021-11-26 | 2022-07-23 |
 | [Baquiné](https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Baquiné](https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG) | 4:32 | 2021-11-26 | 2022-07-29 |
 | [Black Catbird](https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo) | 2:45 | 2022-04-15 |  |
@@ -175,7 +176,7 @@
 | [Sakoneta](https://open.spotify.com/track/49Dq0m0JDGJJfz8VqxIt81) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Sakoneta](https://open.spotify.com/album/0KKaGCuDZAyrrkH40KBnEI) | 4:45 | 2021-11-26 | 2022-07-28 |
 | [Sala Nabina \- Karmaâ Remix](https://open.spotify.com/track/19NaGWC4RQwfNJmgclF3XX) | [IZADORÄ](https://open.spotify.com/artist/1rPvh2OggGcSpB8iBaTksJ), [Ayoub Rahhal](https://open.spotify.com/artist/6IVY9D4To5r6rpCHwoFkqZ), [Karmaâ](https://open.spotify.com/artist/3yx74xmlyOAsmyqn0r4iOV) | [Sala Nabina \(Karmaâ Remix\)](https://open.spotify.com/album/2HT5Fus8tASVOThQIGznZA) | 7:14 | 2022-04-15 | 2022-07-03 |
 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 | 2021-11-26 | 2022-08-04 |
-| [Salsa Caliente \(Versión Aumentada\)](https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83) | 4:43 | 2022-04-15 |  |
+| [Salsa Caliente \(Versión Aumentada\)](https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83) | 4:43 | 2022-04-15 | 2022-10-22 |
 | [Salsa Caliente \- Versión Aumentada](https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV) | 4:43 | 2021-11-26 | 2022-07-25 |
 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 | 2021-11-26 |  |
 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 | 2022-04-15 |  |

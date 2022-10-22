@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 435770,
+  "num_followers": 436014,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMTMzOCwwMDAwMDAwMGZjODI1MzJmYTljNWFlZTM3ODQwODA4MzBjY2NhYmYz",
+  "snapshot_id": "MTY2NDUxMTMzOCwwMDAwMDAwMGQzYTgxNTRlYjIxOTE2NTIwYTZmZTNlMGFhODY0NDE3",
   "tracks": [
     {
       "added_at": "2021-10-21 15:13:27",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 163333,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -509,38 +509,6 @@
       "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
-    },
-    {
-      "added_at": "2022-09-30 03:47:19",
-      "album": {
-        "name": "Bailemos Lento",
-        "url": "https://open.spotify.com/album/6QecJLKYZzzT1ah4PfBPx8"
-      },
-      "artists": [
-        {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
-        }
-      ],
-      "duration_ms": 229141,
-      "name": "Bailemos Lento",
-      "url": "https://open.spotify.com/track/4pSXXK4eaqiyqzoBcx96Zx"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
@@ -559,6 +527,22 @@
       "duration_ms": 230811,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
+    },
+    {
+      "added_at": "2022-09-30 03:47:19",
+      "album": {
+        "name": "Bailemos Lento",
+        "url": "https://open.spotify.com/album/6QecJLKYZzzT1ah4PfBPx8"
+      },
+      "artists": [
+        {
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+        }
+      ],
+      "duration_ms": 229141,
+      "name": "Bailemos Lento",
+      "url": "https://open.spotify.com/track/4pSXXK4eaqiyqzoBcx96Zx"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -615,6 +599,22 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2022-02-18 04:06:10",
@@ -857,26 +857,6 @@
       "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
     },
     {
-      "added_at": "2022-08-26 16:29:02",
-      "album": {
-        "name": "Nunca Digas Jam\u00e1s",
-        "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rojo",
-          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
-        },
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        }
-      ],
-      "duration_ms": 213189,
-      "name": "Nunca Digas Jam\u00e1s",
-      "url": "https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
@@ -907,6 +887,26 @@
       "duration_ms": 218760,
       "name": "La Mujer Que No So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
+    },
+    {
+      "added_at": "2022-08-26 16:29:02",
+      "album": {
+        "name": "Nunca Digas Jam\u00e1s",
+        "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "duration_ms": 213189,
+      "name": "Nunca Digas Jam\u00e1s",
+      "url": "https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61"
     },
     {
       "added_at": "2021-11-25 00:58:58",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
-      "added_at": "2022-03-09 03:17:35",
-      "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
-    },
-    {
       "added_at": "2021-10-21 15:13:27",
       "album": {
         "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
@@ -1059,6 +1043,22 @@
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
+    },
+    {
+      "added_at": "2022-03-09 03:17:35",
+      "album": {
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1273,24 +1273,20 @@
       "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
     },
     {
-      "added_at": "2022-05-18 02:31:29",
+      "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+        "name": "Franco de Vita",
+        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 249306,
-      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+      "duration_ms": 240226,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1313,20 +1309,24 @@
       "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
     },
     {
-      "added_at": "2021-10-21 15:13:27",
+      "added_at": "2022-05-18 02:31:29",
       "album": {
-        "name": "Franco de Vita",
-        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
         }
       ],
-      "duration_ms": 240226,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
+      "duration_ms": 249306,
+      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "999 (with Camilo)",
-        "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 224168,
-      "name": "999 (with Camilo)",
-      "url": "https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
         "name": "30 de Febrero",
         "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 185573,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "999 (with Camilo)",
+        "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 224168,
+      "name": "999 (with Camilo)",
+      "url": "https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2021-10-21 15:13:27",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 211906,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+      "duration_ms": 194386,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1619,22 +1635,6 @@
       "duration_ms": 214081,
       "name": "\u00c9l Lo Tiene Todo",
       "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
     },
     {
       "added_at": "2021-10-21 15:13:27",
@@ -1709,6 +1709,22 @@
       "url": "https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu"
     },
     {
+      "added_at": "2021-10-21 15:13:27",
+      "album": {
+        "name": "Sube",
+        "url": "https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "M\u00e1s Que Amigos",
+      "url": "https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0"
+    },
+    {
       "added_at": "2022-01-24 17:37:24",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
@@ -1739,22 +1755,6 @@
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
-    },
-    {
-      "added_at": "2021-10-21 15:13:27",
-      "album": {
-        "name": "Sube",
-        "url": "https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "M\u00e1s Que Amigos",
-      "url": "https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

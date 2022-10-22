@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,854 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,868 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 17 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |
 | 18 | [Relicário](https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Relicário](https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR) | 3:11 |
 | 19 | [Nipsey do Azul](https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [DJ Decco](https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0) | [Êxito](https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf) | 3:24 |
-| 20 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 |
-| 21 | [Dizeres](https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK) | 4:17 |
+| 20 | [Dizeres](https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK) | 4:17 |
+| 21 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 |
 | 22 | [Convoque Seu Buda](https://open.spotify.com/track/2FtVRCIZmGxORMNVyHKLbg) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Convoque Seu Buda](https://open.spotify.com/album/48k5IgjoER3755RUTy5EHh) | 3:51 |
 | 23 | [Hoje Cedo](https://open.spotify.com/track/2C9LPYpH9YUgROQDHfRXrU) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 3:14 |
 | 24 | [Nós](https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Malvadão](https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Damassaclan](https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão](https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq) | 2:29 |
 | 60 | [Bora Dançar](https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:44 |
 
-Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMGJjNTUwNDk2NjAyNmMzZDc2OGFjMzEwNzYyYjExMzNh`
+Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMDlhOWExNWI5YjZkMWM3ZjQ2MDhkMTE3ODM4OTIwMWMz`

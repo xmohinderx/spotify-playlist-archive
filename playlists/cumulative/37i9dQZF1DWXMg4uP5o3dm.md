@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: KiNG MALA
 
-213 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+214 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [molotov](https://open.spotify.com/track/6mKS8wregZJldi45FZIwHe) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [molotov](https://open.spotify.com/album/5p03MnJwU3fGTGz0Q1TWUA) | 2:51 | 2021-11-26 | 2022-07-29 |
 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 | 2021-07-30 |  |
 | [Mr Regular](https://open.spotify.com/track/1P4zbuZbTKc12UxXXZJohl) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Mr Regular](https://open.spotify.com/album/56ivqF23LdiQ6YYRhhdfXy) | 2:54 | 2022-06-17 | 2022-09-20 |
-| [Mr Regular](https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 2:54 | 2022-10-14 |  |
+| [Mr Regular](https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 2:54 | 2022-10-14 | 2022-10-22 |
 | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/track/5GGeui401dCbJLVno3gYgM) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/album/47smPL4rALcoThyXAP5PCl) | 2:54 | 2022-06-03 | 2022-07-29 |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2021-06-11 |  |
 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 | 2022-10-14 |  |
@@ -195,6 +195,7 @@
 | [The Ugly](https://open.spotify.com/track/5NmK5pADpbTynNpztzrtFz) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [The Ugly](https://open.spotify.com/album/6sLecQevCXnujy5fjTnJNC) | 2:49 | 2022-03-15 | 2022-04-02 |
 | [themesong](https://open.spotify.com/track/44aAunG7AbrlghCX7wDQD5) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [themesong](https://open.spotify.com/album/3CG7KrRS75f9lZnFbwGzIM) | 2:57 | 2022-05-30 | 2022-07-26 |
 | [THERAPY!](https://open.spotify.com/track/0GAWAziokyaTDufed63rEh) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [THERAPY!](https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW) | 2:13 | 2022-01-28 | 2022-08-06 |
+| [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 | 2022-10-14 |  |
 | [THERAPY!](https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 2:13 | 2022-06-17 | 2022-10-14 |
 | [Thru Hell](https://open.spotify.com/track/7EOPcTwakd3c9yR5U2uS1M) | [Sage Charmaine](https://open.spotify.com/artist/7Gm2KFPebqb5rGV3XrLqGn), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [Thru Hell](https://open.spotify.com/album/7426IdOV2Kvtv6Kb5K2D1L) | 3:24 | 2021-07-16 | 2022-07-17 |
 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 | 2021-07-30 |  |

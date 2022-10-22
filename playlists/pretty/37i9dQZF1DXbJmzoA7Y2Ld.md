@@ -53,6 +53,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 43 | [All My Dues Are Paid](https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD) | [Frank Bey](https://open.spotify.com/artist/0na4KYz5VSu44CvyPGVzKE) | [All My Dues Are Paid](https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg) | 4:11 |
 | 44 | [Big Town Playboy](https://open.spotify.com/track/46kV5Zo2k5M2gWca76uKus) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Rise Up](https://open.spotify.com/album/0BIKjCFQaOicXYkEpXSSL0) | 4:02 |
 | 45 | [Just Beyond the Dawn](https://open.spotify.com/track/4Xy2i27HGAGENa13YMmKls) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Just Beyond the Dawn](https://open.spotify.com/album/3V4c8jFN21XSEEBGkXrmiL) | 3:10 |
-| 46 | [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 |
+| 46 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
 
-Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMDM4MjNlYmI4ZjcxNDNiM2QyNGRjNjk5NmI1NDJhYzIw`
+Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMDc2ODRmYzdkNDU0NWVhOTkzZjkzMGYxYzkwMzkxNjU2`

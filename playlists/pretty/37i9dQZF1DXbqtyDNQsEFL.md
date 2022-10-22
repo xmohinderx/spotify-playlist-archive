@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Co Curated with  <a href="https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM?si=k29csgK5SCS3Jxvbb4BFqg"> Dunsin Oyekan </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,062 likes - 30 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,144 likes - 30 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

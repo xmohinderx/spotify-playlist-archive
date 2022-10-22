@@ -2,18 +2,19 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: L.S\. Dunes
+> Heavy new bands you need to have an eye on\. Cover: Tallah
 
-102 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+103 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Talk](https://open.spotify.com/track/3q7M84onWH32v6oP4oOlP6) | [Dead Romantic](https://open.spotify.com/artist/4jv8lGnnLKnExlPh88e48A) | [All Talk](https://open.spotify.com/album/75NUEwsH1kdH33kVeBoCeo) | 2:55 | 2022-07-29 | 2022-09-10 |
 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 | 2022-07-29 |  |
 | [Anxiety](https://open.spotify.com/track/7sBDYK0rlUxrTSQq4tnVLJ) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ) | [Anxiety](https://open.spotify.com/album/75ytZn0fccZEIZP7dY4csy) | 3:55 | 2022-07-29 | 2022-09-10 |
+| [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-10-21 |  |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-09-09 |  |
 | [Be All End All](https://open.spotify.com/track/7mqV05V4yRar4VbCGHZpLr) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Be All End All](https://open.spotify.com/album/23Nj8HZZvwGvsPGSvPbz4c) | 1:32 | 2022-07-29 | 2022-08-20 |
-| [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-14 |  |
+| [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-14 | 2022-10-22 |
 | [Black Hole](https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Black Hole](https://open.spotify.com/album/0Jl2byDXilu4Iivo3QO7Ii) | 3:45 | 2022-08-26 |  |
 | [Bleeding](https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN) | [World Without](https://open.spotify.com/artist/51Kzkg6pl81mdxy0pbEo7L) | [Bleeding](https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1) | 2:53 | 2022-07-29 | 2022-08-20 |
 | [BLOODSPORT](https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [BLOODSPORT](https://open.spotify.com/album/0cP5GufwnEygN3ROzwXgVt) | 2:54 | 2022-07-29 | 2022-10-15 |

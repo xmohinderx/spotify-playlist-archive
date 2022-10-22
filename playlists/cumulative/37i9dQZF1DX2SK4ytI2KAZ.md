@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-397 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+398 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,10 +126,11 @@
 | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/track/6P7FY8Cnf2sVbCgwlaMleA) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/album/774qmoBRcTPqlhRxjOSTJv) | 3:36 | 2022-03-11 | 2022-04-19 |
 | [Go Easy](https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:47 | 2021-03-10 |  |
 | [Golden Boy](https://open.spotify.com/track/6PQkriCkh2BjZGeK7qTC0q) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Golden Boy](https://open.spotify.com/album/1McymEd7UgLNxAuLe0vAwh) | 2:48 | 2022-03-11 | 2022-06-29 |
-| [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-08-12 |  |
+| [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-08-12 | 2022-10-22 |
 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 | 2022-03-11 |  |
 | [Gone \(with Jensen McRae\)](https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Gone](https://open.spotify.com/album/2BCjIiPpmiElGDN52fLmzI) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Good](https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [How To Talk To Strangers](https://open.spotify.com/album/2OQRvCNt3r4fO1MSBNbPQW) | 2:49 | 2021-03-10 | 2022-07-30 |
+| [Good Day](https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS), [Esoterik](https://open.spotify.com/artist/09NAbswyxDbzblZovO1XcQ), [Scraps](https://open.spotify.com/artist/4xKRehjx1as1IPImlKDta8) | [True Colour](https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn) | 3:08 | 2022-10-07 |  |
 | [Good Old Days](https://open.spotify.com/track/0uUp3khxvnrRrr6FLCXcC3) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Good Old Days](https://open.spotify.com/album/5d8D46IKAaS3JTRpAO8Nbn) | 3:24 | 2021-03-10 | 2022-07-29 |
 | [Good Old Days](https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Good Old Days](https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs) | 3:24 | 2022-06-27 |  |
 | [Got To My Head](https://open.spotify.com/track/0jzlfI8DL7Uph1ojvUTbJp) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [Got To My Head](https://open.spotify.com/album/6JS9D5bKdwo7G8mL8a3epa) | 3:06 | 2022-03-11 | 2022-04-20 |
@@ -342,7 +343,7 @@
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-05-27 |  |
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2022-03-11 |  |
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-27 | 2022-08-13 |
-| [Take It Easy](https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW) | [Take It Easy](https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu) | 2:43 | 2021-03-10 | 2022-09-26 |
+| [Take It Easy](https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW) | [Take It Easy](https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu) | 2:43 | 2021-03-10 |  |
 | [Talk Too Much](https://open.spotify.com/track/7FX3ZWE70VRjsprg5oeECc) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Talk Too Much](https://open.spotify.com/album/1S6679M19iLZfuoAgtCD1g) | 3:07 | 2021-03-10 | 2022-05-04 |
 | [Talking is Hard](https://open.spotify.com/track/0r733vlPgYPpZ6y6BnFK3U) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:17 | 2021-08-13 | 2022-07-29 |
 | [Television](https://open.spotify.com/track/469PWHZlngcQyOJnGGAWzs) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Television](https://open.spotify.com/album/5BjVFIuhhstr2pWVAUqxnb) | 3:06 | 2021-06-25 | 2022-07-29 |
@@ -382,7 +383,7 @@
 | [Wasting Time](https://open.spotify.com/track/0vwFuY4xsUvrFk4D74DqLQ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Run For Cover](https://open.spotify.com/album/0MNJPT9XkNnCczT1VZcdnD) | 3:08 | 2021-03-10 | 2022-04-20 |
 | [Wasting Time](https://open.spotify.com/track/79edhUCJIHerzdr8Tgclw7) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Wasting Time](https://open.spotify.com/album/0jgGJKB3A9CHlDj9w8qvMV) | 3:43 | 2021-03-10 | 2022-07-29 |
 | [Waves](https://open.spotify.com/track/5whgXDGk9qpDMTZStyejg7) | [Sleeper Agent](https://open.spotify.com/artist/1f4it0Ej0T3TiSpYldK8qS) | [Waves](https://open.spotify.com/album/62lR0bw69CUsyJHIHtrOWy) | 3:34 | 2022-03-11 | 2022-04-19 |
-| [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 | 2022-03-11 |  |
+| [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 | 2022-03-11 | 2022-10-22 |
 | [We Got It Wrong](https://open.spotify.com/track/2p3wV8TepzVnONyPLdH5LX) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 4:57 | 2022-03-11 | 2022-04-21 |
 | [We Have To Move On](https://open.spotify.com/track/7LZlKjgyS1IG6BniUx9MOX) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [We Have To Move On](https://open.spotify.com/album/3Vwuh7l6MvX8tnn8Li2Lf2) | 4:12 | 2022-03-11 | 2022-04-21 |
 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2021-03-10 | 2022-05-05 |

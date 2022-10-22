@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-88 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+89 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2021-10-15 | 2022-06-04 |
 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 | 2022-06-03 | 2022-07-15 |
 | [Stable](https://open.spotify.com/track/1817ydt1CL3eGGYELfOJ4m) | [gayphextwin](https://open.spotify.com/artist/47dyK0Chuion8ciGWDZuxa) | [Spiro](https://open.spotify.com/album/5SDYui91J517bJCwP879gS) | 4:08 | 2021-10-15 |  |
-| [Str8 Acting](https://open.spotify.com/track/2NWlqkcCLOnDTuKVvSwLgN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:55 | 2021-10-15 |  |
+| [Str8 Acting](https://open.spotify.com/track/2NWlqkcCLOnDTuKVvSwLgN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:55 | 2021-10-15 | 2022-10-22 |
+| [Str8 Acting](https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:55 | 2022-07-14 |  |
 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 | 2021-10-15 | 2022-06-04 |
 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 | 2021-10-15 |  |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2021-10-15 | 2022-06-04 |

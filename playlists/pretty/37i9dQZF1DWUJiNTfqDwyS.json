@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 191945,
+  "num_followers": 192184,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NzExOSwwMDAwMDAwMDRjYjljNzJjMjYzMjVhODU2ZjM4YmFmYTFjNTM0NmQ5",
+  "snapshot_id": "MTY2NDk4NzExOSwwMDAwMDAwMGVhZGM5NzM4M2Q1NzFhYjE4NjljOTBjNTFmZWQxMGI0",
   "tracks": [
     {
       "added_at": "2022-10-03 17:26:41",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
+        "name": "Drowning in the Sound",
+        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Drowning in the Sound",
+      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
         "name": "Necropolis",
         "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Drowning in the Sound",
-        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Drowning in the Sound",
-      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Gimme Shelter",
-        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 238317,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "Meanwhile in Burbank...",
         "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 395683,
       "name": "Creeping Death",
       "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "Gimme Shelter",
+        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 238317,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Born Dead",
-        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "Looking for You",
         "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233472,
       "name": "Lay All Your Love on Me",
       "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "Born Dead",
+        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
     },
     {
+      "added_at": "2022-10-22 01:26:04",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3hudUutcEtY3bKxEyA75IM"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6tH3UEamkNsZjZZqlu1egP"
+    },
+    {
       "added_at": "2022-10-03 17:26:41",
       "album": {
         "name": "Let It Go",
@@ -707,6 +723,22 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
         "name": "The Blood of Gods",
         "url": "https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL"
       },
@@ -723,34 +755,18 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+        "name": "Graveyard Classics",
+        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Six Feet Under",
+          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
         }
       ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
-    },
-    {
-      "added_at": "2022-10-21 01:19:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3hudUutcEtY3bKxEyA75IM"
-      },
-      "artists": [
-        {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
-        }
-      ],
-      "duration_ms": 181301,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/6tH3UEamkNsZjZZqlu1egP"
+      "duration_ms": 208533,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -767,22 +783,6 @@
       "duration_ms": 235400,
       "name": "Thunder Kiss '65",
       "url": "https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
-        "name": "Graveyard Classics",
-        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
-      },
-      "artists": [
-        {
-          "name": "Six Feet Under",
-          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "CMFB \u2026Sides",
-        "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
       },
       "artists": [
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Holier Than Thou",
-      "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
+      "duration_ms": 222533,
+      "name": "Shock the Monkey",
+      "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Chamber Music",
-        "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
+        "name": "CMFB \u2026Sides",
+        "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
       },
       "artists": [
         {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Shock the Monkey",
-      "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
+      "duration_ms": 250600,
+      "name": "Holier Than Thou",
+      "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Roundabout",
-        "url": "https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6"
-      },
-      "artists": [
-        {
-          "name": "Allegaeon",
-          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
-        }
-      ],
-      "duration_ms": 500804,
-      "name": "Roundabout",
-      "url": "https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 208906,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6"
+      },
+      "artists": [
+        {
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+        }
+      ],
+      "duration_ms": 500804,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -1067,6 +1067,26 @@
       "duration_ms": 231577,
       "name": "Jessie's Girl 2 (feat. Rick Springfield)",
       "url": "https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "The Devil Went Down to Georgia",
+        "url": "https://open.spotify.com/album/3yzFM8wOw5cRoFbG6lFjQt"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "duration_ms": 231627,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/1fUn2ABChAzrqDgrlZdk6W"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -1135,26 +1155,6 @@
       "duration_ms": 314357,
       "name": "Devil Inside",
       "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
-        "name": "The Devil Went Down to Georgia",
-        "url": "https://open.spotify.com/album/3yzFM8wOw5cRoFbG6lFjQt"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/1fUn2ABChAzrqDgrlZdk6W"
     },
     {
       "added_at": "2022-10-03 17:26:41",

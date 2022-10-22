@@ -1,15 +1,15 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 5817,
+  "num_followers": 5841,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NzEyMTQsMDAwMDAwMDA4ZDcwZGEzNzdiMGY4Y2JiOWU5MWU1NmVjODI1M2EzZQ==",
+  "snapshot_id": "Mjc3NzI2NDcsMDAwMDAwMDA5MWM2NWNjNzA1YzkxZjliYjJmNzVhYmI4ZGYzN2QwZQ==",
   "tracks": [
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 144631,
-      "name": "Means Something",
-      "url": "https://open.spotify.com/track/53taBvemC88CMHP2I1xAFX"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
         "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
@@ -65,7 +49,23 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 144631,
+      "name": "Means Something",
+      "url": "https://open.spotify.com/track/53taBvemC88CMHP2I1xAFX"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Over-the-Ocean Call",
         "url": "https://open.spotify.com/album/70OpmX87dKDQK5sq8xh5rq"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6Kd3udS3G5mQq4Nt51mCKh"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
@@ -101,23 +101,7 @@
       "url": "https://open.spotify.com/track/33DWkHTEF8LmdxI1OPc50a"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "7PM",
         "url": "https://open.spotify.com/album/7skYaHXGxK6JiRwlVgJ5ri"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/76tztTt7xAC6E0RZggd9xg"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6hATzsi5c70uo0pyrI1Gcj"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
@@ -169,43 +169,7 @@
       "url": "https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Pancakes for Dinner",
-      "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 159548,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
@@ -225,7 +189,43 @@
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Pancakes for Dinner",
+      "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 159548,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
@@ -241,23 +241,7 @@
       "url": "https://open.spotify.com/track/2tEfW1QMddoTWIIgHtHiPV"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Give Me A Minute",
-      "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
@@ -273,7 +257,23 @@
       "url": "https://open.spotify.com/track/0dyYA68FsaBGDKfmu9pQm6"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Hope (Acoustic)",
         "url": "https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/14NUzP69qYaAdkU0fUGwD5"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 259166,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/5FKNq0lLJnP3iZzBTD0PZj"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
@@ -345,7 +329,23 @@
       "url": "https://open.spotify.com/track/32RWKC1dl511V27LDNDHdj"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 259166,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/5FKNq0lLJnP3iZzBTD0PZj"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "I Think I",
         "url": "https://open.spotify.com/album/2TxV63ZiqONxz4lfA25rYJ"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4v7shHT3eXpvBoG5k2OMIM"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
@@ -385,23 +385,7 @@
       "url": "https://open.spotify.com/track/3WP4iglY7SPmXucvNLJq2G"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Same Boat",
-      "url": "https://open.spotify.com/track/6QllZj61FBD4tkCHuAguBW"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
@@ -417,7 +401,23 @@
       "url": "https://open.spotify.com/track/6Pkxhe00RTJovt56H4yLL0"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/6QllZj61FBD4tkCHuAguBW"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Lady In Blue (Pickup Live Session)",
         "url": "https://open.spotify.com/album/0paOo5lZd1KIFagxQgLMLf"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/0ZrmeApk2p2FY4BGvQHPoZ"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Just the Two of Us",
         "url": "https://open.spotify.com/album/6ppQvrvuJh7YAiAsz5IMp8"
@@ -457,7 +457,23 @@
       "url": "https://open.spotify.com/track/7kjvp3gUi1BzmcUsjk1k6I"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 180482,
+      "name": "Let Light Be Light",
+      "url": "https://open.spotify.com/track/5xmcaaw5Sj0AXftGNesoxc"
+    },
+    {
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/2FhVMpJN2jtR2BwvZOFZop"
@@ -477,23 +493,7 @@
       "url": "https://open.spotify.com/track/3P7aN7piKYjITMJgFT09Ib"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
-      "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 180482,
-      "name": "Let Light Be Light",
-      "url": "https://open.spotify.com/track/5xmcaaw5Sj0AXftGNesoxc"
-    },
-    {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Paranoia Purple",
         "url": "https://open.spotify.com/album/6nqblG53NdUSIoKLndjgL2"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/0kOq336SMTIa90VjHMutht"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "Dancing Queen",
         "url": "https://open.spotify.com/album/7kPywVWHVzRTrlzPMXFIWq"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/1dHbjQmKlr15e6xP7VDfWi"
     },
     {
-      "added_at": "2022-10-20 13:34:31",
+      "added_at": "2022-10-21 13:27:18",
       "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"

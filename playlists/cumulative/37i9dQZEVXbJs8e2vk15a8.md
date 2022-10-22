@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-499 songs - 1 day 3 hr 53 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+500 songs - 1 day 3 hr 57 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Baby Tu Me Encantas \- Spanish Version](https://open.spotify.com/track/79f59WX858txqdTECC9czE) | [Hansel Casty](https://open.spotify.com/artist/1EwJJnjwVcj5dwPW5YfLcQ) | [Baby Tu Me Encantas \(Spanish Version\)](https://open.spotify.com/album/4kCOoxEas1r7QHbeUrVXnI) | 2:09 | 2022-09-29 |  |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-30 | 2022-09-10 |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-26 | 2022-10-19 |
-| [Baila Morena](https://open.spotify.com/track/4eUjxlmJ41jWjv3LtBrN72) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Baila Morena](https://open.spotify.com/album/7mOdiBhGocIW2uYFihkZKP) | 2:42 | 2022-10-04 |  |
+| [Baila Morena](https://open.spotify.com/track/4eUjxlmJ41jWjv3LtBrN72) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Baila Morena](https://open.spotify.com/album/7mOdiBhGocIW2uYFihkZKP) | 2:42 | 2022-10-04 | 2022-10-22 |
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-04-15 | 2022-05-11 |
 | [Bailemos Reggaeton](https://open.spotify.com/track/0YRgRpM2bdmQEkiI8bWDBA) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailemos Reggaeton](https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M) | 2:58 | 2022-04-19 | 2022-05-07 |
 | [Bajo el Sombrero](https://open.spotify.com/track/41buW9gXHeIxw7KsXgDbAG) | [A los 4 Vientos](https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD) | [Cuanto Quiero Que Me Quieras](https://open.spotify.com/album/2jVihPZkUwGX0mL8VoA4wZ) | 2:19 | 2022-09-19 | 2022-09-21 |
@@ -194,6 +194,7 @@
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-06-02 | 2022-06-29 |
 | [Hay Amores Que Matan](https://open.spotify.com/track/7M2JpesNr8szASXoW8fyG1) | [Bayronfire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [Hay Amores Que Matan](https://open.spotify.com/album/7Geerm1upPPZPIP54L0FHJ) | 4:00 | 2022-07-14 | 2022-07-19 |
 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2022-04-15 | 2022-04-18 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-21 |  |
 | [Himno Nacional De Chile](https://open.spotify.com/track/0HFwyeSuWD9I0JOuvLAmdu) | [Orquesta Filarmónica internacional](https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK) | [Himnos Nacionales De Latino America](https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q) | 3:52 | 2022-09-08 | 2022-09-24 |
 | [Hopelessly Devoted To You](https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:06 | 2022-08-09 | 2022-08-18 |
 | [Huella Letal](https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Huella Letal](https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA) | 2:17 | 2022-04-26 | 2022-06-01 |

@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-86 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
+87 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Music for Dance II](https://open.spotify.com/track/0gLagRuwATSTPNJRVLL8Ke) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/2rD0SKiBImTKNhRtRVLsdU) | 6:20 | 2021-12-23 | 2022-07-29 |
 | [Music for Dance II](https://open.spotify.com/track/4eLHFsCh3v67tV5ZaPGrmG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:20 | 2022-06-14 |  |
 | [Night At The Sea Side](https://open.spotify.com/track/5oxwgPziDjjjKifhTqtMD7) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 1](https://open.spotify.com/album/20sAgx3TsYnW5HffCebCMG) | 8:25 | 2021-12-23 |  |
-| [Oakwood Green \- Remastered](https://open.spotify.com/track/37uIxk56anbPqnXXFANh0q) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:04 | 2021-12-23 |  |
+| [Oakwood Green \- Remastered](https://open.spotify.com/track/37uIxk56anbPqnXXFANh0q) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:04 | 2021-12-23 | 2022-10-22 |
+| [Oakwood Green \- Remastered](https://open.spotify.com/track/4kwA6pb1fswZ2RitXk9FKs) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/0JCvbWETwmTcjlVyfT2KRn) | 2:04 | 2022-10-04 |  |
 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 | 2021-12-23 |  |
 | [Oceans Breath](https://open.spotify.com/track/4aCReuZq79LVyWPeJgkfbV) | [Software](https://open.spotify.com/artist/0mwCI9ZfHyOj3ENpFd6AEn) | [Digital\-Dance](https://open.spotify.com/album/4Q0yKbw6Pnh9moib2vndGb) | 9:21 | 2021-12-23 |  |
 | [Pete’s Boogie \(Previously Unreleased\)](https://open.spotify.com/track/0qrGqV15BOMUXl3kEdMllm) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz) | 3:58 | 2022-06-14 |  |

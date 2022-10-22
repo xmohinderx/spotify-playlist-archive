@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: DJ Roger Vale, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,103 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,131 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 50 | [Peregrino](https://open.spotify.com/track/3gkNnS1ANFvOKhji7QEGoa) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Peregrino](https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl) | 2:45 |
 | 51 | [O Leão \- Dj Del Mag Remix](https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ) | [O Leão \(Dj Del Mag Remix\)](https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp) | 3:31 |
 | 52 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
-| 53 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
+| 53 | [O Seu Amor É \- Remix](https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Benito Vitorette](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [O Seu Amor É \(Remix\)](https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw) | 2:52 |
 | 54 | [Calma \- Remix](https://open.spotify.com/track/2dcHLyqHr0OFEUfw4nmmuA) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Calma \(Remix\)](https://open.spotify.com/album/4z5oXRNJSmrvsvm6oJgbEX) | 2:25 |
-| 55 | [O Seu Amor É \- Remix](https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Benito Vitorette](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [O Seu Amor É \(Remix\)](https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw) | 2:52 |
+| 55 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 56 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 |
 | 57 | [Caminho Seguro](https://open.spotify.com/track/2jsVKdyO5o04Y7uJwpItKe) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Caminho Seguro](https://open.spotify.com/album/6D8RGTB4DS2DzlZf67la5Q) | 3:00 |
 | 58 | [Só em Ti](https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Thalita Barros](https://open.spotify.com/artist/2XcqwaVdCPErj0ah69UpbL) | [Só em Ti](https://open.spotify.com/album/7EyTM3WHWk8R63fqCdqM9N) | 3:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Vem Incendiar Meu Coração \- Remix](https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Vem Incendiar Meu Coração \(Remix\)](https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw) | 3:48 |
 | 70 | [Balança \- AVIPA Remix](https://open.spotify.com/track/6o7hCpHBH7k2keD64G3ZF1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Diego Atalaia](https://open.spotify.com/artist/3Wrcxw6gmXzUCgKtDXmCe5), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Balança: Remixes](https://open.spotify.com/album/487SwfT2EM1BQwVhzNZSBf) | 1:45 |
 
-Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMDZmYmNhYzU4NzFjNjFhZDVmMjZlZWRhZTM1NzM1N2M3`
+Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMGU0ODFjNzMwNTkwNmQxMTZkMmU0N2RhMDM1ZTUwYzUx`

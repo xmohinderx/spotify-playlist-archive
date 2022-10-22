@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Loyle Carner
 
-464 songs - 1 day 0 hr 53 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
+466 songs - 1 day 1 hr 0 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [American Boy](https://open.spotify.com/track/2t8Z7dscRZ8kvYgTN47zpm) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [American Boy](https://open.spotify.com/album/765iHYZJH7hNXETPzoraIY) | 3:41 | 2022-08-04 | 2022-09-16 |
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-08 | 2022-09-23 |
 | [Another Sketch](https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Another Sketch](https://open.spotify.com/album/3jm7drQQWex8Gu3cOdjkR9) | 3:50 | 2022-05-26 | 2022-06-22 |
+| [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-20 |  |
 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 | 2022-09-15 | 2022-09-30 |
 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 | 2022-10-06 | 2022-10-21 |
 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 | 2022-08-04 | 2022-08-27 |
@@ -140,7 +141,7 @@
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-07-28 | 2022-09-09 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-22 | 2022-10-14 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-21 | 2022-09-15 |
-| [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhe](https://open.spotify.com/artist/4VqcTx4dNkID7EqdPCjumJ) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 | 2022-10-20 |  |
+| [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 | 2022-10-20 |  |
 | [Don’t Lie \(feat\. Nemzzz\)](https://open.spotify.com/track/6tgfPk01WoB2cK78rDEq2m) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Don’t Lie \(feat\. Nemzzz\)](https://open.spotify.com/album/7bzUwFGHev9gNvoFaQVXYa) | 2:18 | 2022-10-13 |  |
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-26 | 2022-07-15 |
 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-06-30 | 2022-08-12 |
@@ -258,7 +259,8 @@
 | [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 | 2022-10-11 |  |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-06-30 | 2022-08-12 |
 | [Just Coz](https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Just Coz](https://open.spotify.com/album/1LZzgEgmuOh5fhpCb2oUWy) | 3:16 | 2022-05-26 | 2022-06-10 |
-| [Kammy \(like i do\)](https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS) | 3:58 | 2022-10-04 |  |
+| [Kammy \(like i do\)](https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS) | 3:58 | 2022-10-04 | 2022-10-22 |
+| [Kammy \(like i do\)](https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/3hYksFQ1oq8EGadqmU0sOi) | 3:58 | 2022-10-20 |  |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-06 | 2022-10-14 |
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-09-20 |  |
 | [Kill For Your Love](https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Kill For Your Love](https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ) | 3:12 | 2022-09-08 | 2022-10-21 |

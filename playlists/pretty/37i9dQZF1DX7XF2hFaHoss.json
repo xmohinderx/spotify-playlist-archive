@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
-  "num_followers": 136261,
+  "num_followers": 136329,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMGFlY2UwMzUxMGE0MzIyMjU3NGM0NTc3ZGZiMDdiYWVl",
+  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMGViNjdjOTY4MTk4MWE4ZDlhNTU2MWU5ODA1ZjdiZWY2",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY"
     },
     {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
-    },
-    {
       "added_at": "2022-03-08 05:00:00",
       "album": {
         "name": "Fat Funny Friend",
@@ -183,6 +167,22 @@
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/7z3NjKBqjv3d1ykXCFQxaT"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
       "added_at": "2021-03-02 01:07:20",
       "album": {
         "name": "Joan Shelley",
@@ -627,6 +611,22 @@
       "duration_ms": 194066,
       "name": "Where I\u2019ll Find You",
       "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "FLOWERS for VASES / descansos",
-        "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 191949,
-      "name": "Over Those Hills",
-      "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Not Even Happiness",
         "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+        "name": "FLOWERS for VASES / descansos",
+        "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+      "duration_ms": 191949,
+      "name": "Over Those Hills",
+      "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -771,6 +755,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Queen of Silver Linings",
         "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 212964,
       "name": "Queen of Silver Linings",
       "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1289,20 +1289,20 @@
       "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
     },
     {
-      "added_at": "2022-03-08 05:00:00",
+      "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Phoebe Told Me",
-        "url": "https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo"
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 236583,
-      "name": "Phoebe Told Me",
-      "url": "https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg"
+      "duration_ms": 215083,
+      "name": "Bud",
+      "url": "https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1321,20 +1321,20 @@
       "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
     },
     {
-      "added_at": "2021-03-02 01:07:20",
+      "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+        "name": "Phoebe Told Me",
+        "url": "https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
         }
       ],
-      "duration_ms": 215083,
-      "name": "Bud",
-      "url": "https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO"
+      "duration_ms": 236583,
+      "name": "Phoebe Told Me",
+      "url": "https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg"
     },
     {
       "added_at": "2021-03-02 01:07:20",

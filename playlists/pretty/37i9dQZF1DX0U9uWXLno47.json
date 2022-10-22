@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 57931,
+  "num_followers": 57947,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDBhYzYwMjFlZTI3Y2U2ZDI4NGE0MjJkMzExNmM3YzYy",
+  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMGIwNjRlZGJjZmE3MWNhZGVlY2NkZjU2ZjljMDRhZjY2",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 224560,
       "name": "Where Is My Mind? - XFM Live Version",
       "url": "https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc"
-      },
-      "artists": [
-        {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "Dancing with Myself - Single Version",
-      "url": "https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 198653,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "Dancing with Myself - Single Version",
+      "url": "https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO"
     },
     {
       "added_at": "2021-10-29 16:31:16",

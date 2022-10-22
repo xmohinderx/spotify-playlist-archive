@@ -1,113 +1,13 @@
 {
-  "description": "Our favorite R&B artists on the rise! Cover: Sebastian Mikael",
-  "num_followers": 24498,
+  "description": "Our favorite R&B artists on the rise! Cover: CoCo Jones",
+  "num_followers": 24531,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2NjE5OSwwMDAwMDAwMDJkMmY2ZjQ2NWE1NmUyNDFhNzgyNWZhOWI4YTM4MTEx",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGY3YWU3MWM3MTViOTA4YTRhZjAzYmQ2ZjEzNjI3NjBj",
   "tracks": [
-    {
-      "added_at": "2022-10-14 04:41:47",
-      "album": {
-        "name": "PHILEO",
-        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 168235,
-      "name": "Scene 1",
-      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
-    },
-    {
-      "added_at": "2022-10-14 04:41:47",
-      "album": {
-        "name": "PALISADE",
-        "url": "https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 174843,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj"
-    },
-    {
-      "added_at": "2022-07-15 04:05:26",
-      "album": {
-        "name": "Crazy Down",
-        "url": "https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Crazy Down",
-      "url": "https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID"
-    },
-    {
-      "added_at": "2022-08-05 04:17:15",
-      "album": {
-        "name": "Love Jones (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 183589,
-      "name": "Love Jones (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
-    },
-    {
-      "added_at": "2022-09-30 04:05:18",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 147792,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
-    },
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
@@ -147,6 +47,74 @@
     {
       "added_at": "2022-09-30 04:05:18",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 147792,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "ICU",
+        "url": "https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 176922,
+      "name": "Say Less (with Tiana Major9)",
+      "url": "https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY"
+    },
+    {
+      "added_at": "2022-09-30 04:05:18",
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -165,20 +133,24 @@
       "url": "https://open.spotify.com/track/7fP5XHTX3hbR3g7TY8WtcW"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-08-05 04:17:15",
       "album": {
-        "name": "The Hurtbook",
-        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+        "name": "Love Jones (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
       },
       "artists": [
         {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 189546,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
       "added_at": "2022-09-30 04:05:18",
@@ -205,54 +177,6 @@
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
     },
     {
-      "added_at": "2022-10-14 04:41:47",
-      "album": {
-        "name": "Recognize",
-        "url": "https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx"
-      },
-      "artists": [
-        {
-          "name": "Eli Derby",
-          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Recognize",
-      "url": "https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV"
-    },
-    {
-      "added_at": "2022-08-12 04:16:55",
-      "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/47jzJC3JouRl3o89fbUrxW"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 193291,
-      "name": "In The Moment",
-      "url": "https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0"
-    },
-    {
-      "added_at": "2022-10-14 04:41:47",
-      "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3nAxtpFfQR8GoBJ9Ic4Mqz"
-      },
-      "artists": [
-        {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/4eRLolZhYKKKPN2zTHKGK1"
-    },
-    {
       "added_at": "2022-09-23 04:08:48",
       "album": {
         "name": "FTU",
@@ -269,20 +193,100 @@
       "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
       },
       "artists": [
         {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+      "duration_ms": 201869,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
+    },
+    {
+      "added_at": "2022-10-14 04:41:47",
+      "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx"
+      },
+      "artists": [
+        {
+          "name": "Eli Derby",
+          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV"
+    },
+    {
+      "added_at": "2022-10-14 04:41:47",
+      "album": {
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 174843,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj"
+    },
+    {
+      "added_at": "2022-07-15 04:05:26",
+      "album": {
+        "name": "Crazy Down",
+        "url": "https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Crazy Down",
+      "url": "https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID"
+    },
+    {
+      "added_at": "2022-08-12 04:16:55",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/47jzJC3JouRl3o89fbUrxW"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 193291,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0"
     },
     {
       "added_at": "2022-07-22 04:15:19",
@@ -323,6 +327,70 @@
       "duration_ms": 194563,
       "name": "Lose (Remix) [feat. Marzz & Amari Noelle]",
       "url": "https://open.spotify.com/track/7cr7rI6CnbXkUGRiWw9ppw"
+    },
+    {
+      "added_at": "2022-09-30 04:05:18",
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/5xm6ly6zx7KN3JqtnJXY5T"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/1yGfEpb5rYRSrdEsX3RCpX"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "4 Life",
+        "url": "https://open.spotify.com/album/2lQIJKXONro8Rywqdy4r0D"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "4 Life",
+      "url": "https://open.spotify.com/track/5gQQK8mx3L7n7foWEmJbEf"
+    },
+    {
+      "added_at": "2022-10-14 04:41:47",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3nAxtpFfQR8GoBJ9Ic4Mqz"
+      },
+      "artists": [
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/4eRLolZhYKKKPN2zTHKGK1"
     },
     {
       "added_at": "2022-10-07 16:28:31",
@@ -393,6 +461,38 @@
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/7di3EUEXHu9WKZyLWBgRdr"
+      },
+      "artists": [
+        {
+          "name": "Tai'Aysha",
+          "url": "https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2"
+        }
+      ],
+      "duration_ms": 127705,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3UDHihZbBmzcgpXTWglxEe"
+    },
+    {
+      "added_at": "2022-10-14 04:41:47",
+      "album": {
+        "name": "PALISADE",
+        "url": "https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "004DAISY",
@@ -407,22 +507,6 @@
       "duration_ms": 178466,
       "name": "LA NOCTURNE",
       "url": "https://open.spotify.com/track/46C0fDpfFVWE4ExACLctZl"
-    },
-    {
-      "added_at": "2022-09-30 04:05:18",
-      "album": {
-        "name": "Cherry Wine",
-        "url": "https://open.spotify.com/album/5xm6ly6zx7KN3JqtnJXY5T"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/1yGfEpb5rYRSrdEsX3RCpX"
     },
     {
       "added_at": "2022-10-14 04:41:47",
@@ -543,22 +627,6 @@
       "duration_ms": 256202,
       "name": "Feelings 4 You",
       "url": "https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Fading Away",
-        "url": "https://open.spotify.com/album/2tv1vYb3kL8OENATe7bRFe"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 237727,
-      "name": "Fading Away",
-      "url": "https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4"
     },
     {
       "added_at": "2022-10-07 16:28:31",
@@ -1297,22 +1365,6 @@
       "url": "https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty"
     },
     {
-      "added_at": "2022-09-09 04:09:49",
-      "album": {
-        "name": "Cross Country",
-        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 187901,
-      "name": "Alone At The Ranch",
-      "url": "https://open.spotify.com/track/5I5HAt56Y1qpqsNFjKQxia"
-    },
-    {
       "added_at": "2022-07-29 04:09:32",
       "album": {
         "name": "Give Me Time",
@@ -1375,22 +1427,6 @@
       "duration_ms": 158314,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/64cHs4MX20D7ExGWQyZHLd"
-    },
-    {
-      "added_at": "2022-08-19 15:28:18",
-      "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
     },
     {
       "added_at": "2022-07-15 04:05:26",
@@ -1613,26 +1649,6 @@
       "url": "https://open.spotify.com/track/0MZcjyFmlR4OUSa45Z3Wtz"
     },
     {
-      "added_at": "2022-08-05 04:17:15",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "I Love You More Than You Know (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
-    },
-    {
       "added_at": "2022-07-29 04:09:32",
       "album": {
         "name": "High My Name Is",
@@ -1703,26 +1719,6 @@
       "duration_ms": 231867,
       "name": "Lately (with 6LACK)",
       "url": "https://open.spotify.com/track/6QyNMgB28X9oCdz2rAEnp7"
-    },
-    {
-      "added_at": "2022-07-09 03:35:55",
-      "album": {
-        "name": "trust (feat. RINI)",
-        "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 197557,
-      "name": "trust (feat. RINI)",
-      "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
     },
     {
       "added_at": "2022-06-03 05:00:00",

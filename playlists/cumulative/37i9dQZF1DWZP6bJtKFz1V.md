@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Aidan Bissett
 
-420 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+421 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 | 2022-02-04 | 2022-04-29 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-07 |  |
 | [Adrenaline](https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Adrenaline](https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b) | 2:26 | 2022-07-22 | 2022-10-08 |
-| [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-05 |  |
+| [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-05 | 2022-10-22 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-11 | 2022-07-23 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-03-11 | 2022-07-23 |
 | [Alone Again \(feat\. Robert DeLong\)](https://open.spotify.com/track/3CMaKJ2l7dfeLCPOSsq1dt) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Alone Again \(feat\. Robert DeLong\)](https://open.spotify.com/album/38sYXmyxQh2NONbROOFog5) | 2:56 | 2022-02-11 | 2022-04-16 |
@@ -380,6 +380,7 @@
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2022-10-11 |
 | [three wheels and it still drives!](https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [three wheels and it still drives!](https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV) | 3:20 | 2022-10-07 |  |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-02-04 | 2022-03-12 |
+| [Tightrope](https://open.spotify.com/track/1ftxpepwP6o3oEPTIlKK58) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [29 Palms \(Deluxe\)](https://open.spotify.com/album/5NTmiYnxmIBVKqKAR9Ql4x) | 2:20 | 2022-10-07 |  |
 | [Tightrope](https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Tightrope](https://open.spotify.com/album/6tUJXb2qxc4VBSmPeQYXrp) | 2:20 | 2022-04-22 | 2022-10-13 |
 | [Tokyo](https://open.spotify.com/track/37UEu9sWDiGp1GpufYw2Tc) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Christo Bowman](https://open.spotify.com/artist/6KSZuZigeTureDNedWHZxz) | [Heart Eater](https://open.spotify.com/album/0kRUwtTUfl40ftsYlxJg8V) | 3:20 | 2022-06-13 | 2022-07-29 |
 | [Tongue Tied](https://open.spotify.com/track/6XkFFE9KJB90h1IexC16SH) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Tongue Tied](https://open.spotify.com/album/695atk1rsgPg7kLTUyCvZc) | 2:30 | 2022-04-01 | 2022-05-07 |

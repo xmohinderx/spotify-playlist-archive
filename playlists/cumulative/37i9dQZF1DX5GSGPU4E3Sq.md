@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-262 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+264 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
-| [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 |  |
+| [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 | 2022-10-22 |
 | [Sunrise.](https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/4OkpHMa6TXAV8iZPDpBPah) | 2:58 | 2022-07-19 |  |
 | [Sunrise.](https://open.spotify.com/track/6kv7h8wQzFq9gJDkR8AR24) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/26vgL2Xkr7FyYAe57aCWR4) | 2:58 | 2022-06-29 | 2022-07-29 |
 | [Sweet Iris](https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt) | [Lukkii and The Whale](https://open.spotify.com/artist/4UeyQjMmoBKj8AhXpDAiwj) | [Pink Lotus](https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP) | 3:36 | 2022-06-29 |  |
@@ -255,13 +255,15 @@
 | [Tranquillity](https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs) | 3:21 | 2022-07-19 |  |
 | [Tranquillity](https://open.spotify.com/track/4SicYFBGOGcfRHUG7YvJdg) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/1EvF3Q8ZtqnOTKmjsbwvi0) | 3:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/0jNgAQRBtZ3YxG4DdlXolj) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/6h3JRnJcVZsSZdaz8H3SXP) | 2:21 | 2022-06-29 | 2022-07-29 |
-| [Transcendental Heart](https://open.spotify.com/track/7dTF8LqhdDLJDwCCxnWoaJ) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/3BNv5BWQRR5J5qfsZPtJfq) | 2:21 | 2022-07-19 |  |
+| [Transcendental Heart](https://open.spotify.com/track/7dTF8LqhdDLJDwCCxnWoaJ) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/3BNv5BWQRR5J5qfsZPtJfq) | 2:21 | 2022-07-19 | 2022-10-22 |
+| [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-21 |  |
 | [Tronco](https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ) | 1:07 | 2022-09-13 |  |
 | [Tronco](https://open.spotify.com/track/36LHOPIIkvB3Erf9mofRHr) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/0h3wrye3q4pHAkQXkPW1rJ) | 1:07 | 2022-06-29 | 2022-07-28 |
 | [Vendrán Lluvias Suaves](https://open.spotify.com/track/6hRgWpBVwzIxLNWkwgxu7B) | [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [The Order Of Change](https://open.spotify.com/album/2qFs3tQfbY067d1hDw3oVZ) | 4:04 | 2022-06-29 |  |
 | [Warm Summer Rain](https://open.spotify.com/track/7J3bfg7BXmToxDWWKglGD5) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Warm Summer Rain](https://open.spotify.com/album/6fwaLrlXlJT8coA3ysImIH) | 3:31 | 2022-06-29 |  |
 | [Water Flowing](https://open.spotify.com/track/6yuUNwzKsytnqKjFU3oNrS) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [In the Ocean](https://open.spotify.com/album/74Q6lC88iLKTQb5jblUMjs) | 3:22 | 2022-06-29 |  |
 | [Weightless](https://open.spotify.com/track/1xkcIa7Tt71W9Fof1rN7wW) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [The Stairway](https://open.spotify.com/album/46YFAKEcnAGRPoaPUKXnfz) | 3:17 | 2022-07-19 | 2022-07-29 |
+| [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-21 |  |
 | [Windchimes](https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP) | [Jordan Jessep](https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv) | [Ambient Worlds](https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU) | 7:09 | 2022-06-29 |  |
 | [Wonders](https://open.spotify.com/track/3hUO3O0H2XnZ6QCpHSPRWb) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/78wbhGunanw1Mh5GEAV5tw) | 2:53 | 2022-06-29 | 2022-07-29 |
 | [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 | 2022-07-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Que viva el amor!",
-  "num_followers": 1944772,
+  "num_followers": 1944906,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDQxYzgzMDA3MWM0N2NiMGEwNDRmMGE2MzhiMmFjOTM1",
+  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMGU4MzViMDRkOTUxMDc1ZDFjYTkxNmMwNTQwMzZhNTg5",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:51",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 211613,
       "name": "Favorito",
       "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Odio Que No Te Odio",
+        "url": "https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "Odio Que No Te Odio",
+      "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "WOW BB",
         "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 191250,
       "name": "WOW BB",
       "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Odio Que No Te Odio",
-        "url": "https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "Odio Que No Te Odio",
-      "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Una Chica Como T\u00fa",
-        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Una Chica Como T\u00fa",
-      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/4fayUUgBEU2UgwsgBzheST"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 217746,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/3LCdO528GxAl5pRvaQgOZd"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Una Chica Como T\u00fa",
+        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Una Chica Como T\u00fa",
+      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
     },
     {
       "added_at": "2022-08-05 16:40:51",

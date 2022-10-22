@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-320 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+321 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [New York, Paris and London](https://open.spotify.com/track/6eL2cAKDToQgycn5rHruom) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [New York, Paris and London](https://open.spotify.com/album/27hf9gYYN7sQ39oHHttwKB) | 3:26 | 2021-09-25 | 2022-07-28 |
 | [No Emotion](https://open.spotify.com/track/38a35dNALuJ3KGJ78lPXnz) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [No Emotion](https://open.spotify.com/album/205rzsc3VKhbpwTZHcexJH) | 2:55 | 2021-01-12 | 2021-02-26 |
 | [No Other Like You](https://open.spotify.com/track/0jwx104ASJH2nhF0RYTP55) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [No Other Like You](https://open.spotify.com/album/6kCIF9VWB5bJXQZpZlDv8e) | 3:28 | 2020-10-27\* | 2021-02-06 |
-| [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 | 2021-08-14 |  |
+| [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 | 2021-08-14 | 2022-10-22 |
 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 | 2022-03-17 |  |
 | [Obsessed](https://open.spotify.com/track/2OIIhZsJps4wpv1ob4AtDH) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Obsessed](https://open.spotify.com/album/3gCG7pVXTL4avBjoEOD41V) | 2:50 | 2021-09-25 | 2022-07-26 |
 | [obvious](https://open.spotify.com/track/4CsSN0KzU3bqhkrA7P3kIw) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [obvious](https://open.spotify.com/album/6NvlVbfUaUyOgZEfvSXHcm) | 3:09 | 2020-11-27 | 2022-07-16 |
@@ -310,6 +310,7 @@
 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 | 2020-10-27\* |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-29 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-09-13 | 2022-10-21 |
+| [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-09-13 |  |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2021-06-19 |  |
 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 | 2021-04-02 | 2022-10-19 |
 | [When I Was Gone](https://open.spotify.com/track/6t3f34p7UtZPGAS3LrPRpd) | [COOL BOY](https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT) | [Classic Charm, Pt\. 1](https://open.spotify.com/album/1VxbK8B2DEcaYx8hoWeQum) | 2:41 | 2021-02-26 | 2021-03-06 |

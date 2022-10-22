@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Koffi Olomide
 
-122 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+124 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 | 2022-06-30 |  |
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 |  |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2022-06-30 |  |
-| [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-06-30 |  |
+| [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 |  |
+| [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-06-30 | 2022-10-22 |
 | [Butu Ya Lelo](https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ) | [Tcherly N](https://open.spotify.com/artist/5QhZSGrBxIQyLE7Ntl2VEi) | [Butu Ya Lelo](https://open.spotify.com/album/7brNGIzXrN2I5CUbsNmPTW) | 3:42 | 2022-06-30 | 2022-08-20 |
 | [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 | 2022-10-15 |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-06-30 |  |
@@ -49,7 +50,7 @@
 | [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 |  |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
 | [Holla](https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Holla](https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w) | 3:35 | 2022-08-05 |  |
-| [Hypnosia](https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Hypnosia](https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM) | 3:32 | 2022-09-23 |  |
+| [Hypnosia](https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Hypnosia](https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM) | 3:32 | 2022-09-23 | 2022-10-22 |
 | [J'ai trop de doute](https://open.spotify.com/track/6Y7id1J4IhIgAMUkNJDAjM) | [Unice Impacha](https://open.spotify.com/artist/6LRDzElFJeeRgHwV50rfeE), [Muz](https://open.spotify.com/artist/431RfrruAfhLUmeQz6GzXI) | [J'ai trop de doute](https://open.spotify.com/album/7A1sGtnEjm2j2GAZiNeODh) | 2:48 | 2022-07-08 | 2022-08-27 |
 | [Jalousie](https://open.spotify.com/track/0rpHNyZcbc2CGPbQoTdUpm) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé Décalé Congolais](https://open.spotify.com/album/6zcYVb2j21Mr2wHr7AlYOj) | 5:15 | 2022-07-15 |  |
 | [Jalousie](https://open.spotify.com/track/1W7asBGIbGNgFelsxHqz9D) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé décalé congolais](https://open.spotify.com/album/3HOzLE98uvORHFwCmZ9oil) | 5:15 | 2022-06-30 | 2022-07-29 |
@@ -110,6 +111,7 @@
 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 | 2022-06-30 |  |
 | [Techno malewa mécanique](https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU), [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Techno malewa, vol\. 1 : sans cesse](https://open.spotify.com/album/6Zt11836h7D2abgRex1UXR) | 12:18 | 2022-06-30 | 2022-07-09 |
 | [Tibo Tisipa](https://open.spotify.com/track/74M1wN8Zv3mVZehAARrsU2) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 3:02 | 2022-06-30 |  |
+| [Tikanga](https://open.spotify.com/track/6zZeCUzW9Aa6Gh1ogxSByj) | [Lady Aicha & Pisko Cranes Original Fulu Mziki of Kinsasha](https://open.spotify.com/artist/5oxIilD2a6k8dOoKEetWnt) | [N'Djila Wa Mudjimu](https://open.spotify.com/album/3h9hONYG9Ahpw10nqgp21y) | 6:28 | 2022-10-21 |  |
 | [Tlb](https://open.spotify.com/track/5MbgvVfSVON5bRng2iuboW) | [JDL](https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq) | [Tlb](https://open.spotify.com/album/4xKh0zkc1agvKgK3bIgLyT) | 2:41 | 2022-08-12 |  |
 | [Toleka](https://open.spotify.com/track/1KEROJ9ebYie5dficNGUFD) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Toleka](https://open.spotify.com/album/6WKNnYnQRTex7lPuYM8PE8) | 3:18 | 2022-06-30 |  |
 | [Trop c'est trop](https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw) | [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Trop c'est trop](https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW) | 6:43 | 2022-06-30 |  |

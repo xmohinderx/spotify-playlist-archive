@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-333 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+334 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-12-22 |  |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2021-12-22 |  |
 | [Lala](https://open.spotify.com/track/2d7PaI8n3uJv6K4lZtWXLm) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Lala](https://open.spotify.com/album/5UTSNFVplH0puzFLbvBOzM) | 2:54 | 2021-12-22 | 2022-07-29 |
+| [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-21 |  |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2022-03-31 |  |
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-12-22 | 2022-06-01 |
 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 | 2021-12-22 | 2022-07-29 |
@@ -296,7 +297,7 @@
 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 | 2021-12-22 | 2022-07-22 |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-12-22 | 2022-10-14 |
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-12-22 | 2022-07-29 |
-| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-12-22 |  |
+| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-12-22 | 2022-10-22 |
 | [The Modern Age](https://open.spotify.com/track/6uzUiybCLM0jYozLSvQZBo) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/5yIIxsXGdQucmqHN82xGig) | 3:32 | 2022-03-31 | 2022-04-16 |
 | [The Night](https://open.spotify.com/track/6Pi2UMOtnJJqEUD3Jdalyu) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [The Night](https://open.spotify.com/album/0VO3UbmFTG70b27lk5N9p0) | 3:24 | 2022-03-31 | 2022-07-08 |
 | [The Rush](https://open.spotify.com/track/3sBpAPxT5vYbj0haQEr5lA) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [The Rush](https://open.spotify.com/album/4zXVhFAp2JpAv4iUOfEugv) | 3:18 | 2022-03-31 | 2022-07-07 |

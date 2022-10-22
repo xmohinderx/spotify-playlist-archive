@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 181978,
+  "num_followers": 182233,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDVmNWI3YmNmNWZhYzZkMTBkNWNkNGYyMmZhYTBjMTQw",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGM5OWE1OGU0OTllNzZkMmNiYjM2MmM5NTA4NzY0ZjQw",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Talking Back To The Night",
-        "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "The Seeds Of Love",
         "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 391000,
       "name": "Woman In Chains",
       "url": "https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Talking Back To The Night",
+        "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 322600,
-      "name": "The Heart Of The Matter",
-      "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 292800,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "The Heart Of The Matter",
+      "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Life As We Know It",
+        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Life As We Know It",
-        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
       "artists": [
         {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
         }
       ],
-      "duration_ms": 270226,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1071,22 +1087,6 @@
       "duration_ms": 265840,
       "name": "Kyrie",
       "url": "https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2022-03-28 14:29:51",

@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-784 songs - 1 day 16 hr 43 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+785 songs - 1 day 16 hr 47 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2021-02-27 |  |
 | [Pretty Lies](https://open.spotify.com/track/4dwDHL4Me5Xi2Vb8ZYdmfP) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Pretty Lies](https://open.spotify.com/album/22u2ZcuWVdti2plTeTpL3c) | 3:41 | 2022-03-04 | 2022-04-20 |
 | [Pretty Obsession](https://open.spotify.com/track/6Sv0fRMgTu5ic1vWJjOc6J) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Pretty Obsession](https://open.spotify.com/album/545IxExwQ1iPdKs6CKBr2q) | 3:30 | 2022-03-04 | 2022-04-19 |
+| [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 | 2022-09-14 |  |
 | [Prune, You Talk Funny](https://open.spotify.com/track/4a6r6d9mfcUQbOnrGf8jAV) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/5qzQ81l9dKKVuwsO91aGep) | 3:32 | 2019-07-30\* | 2022-07-27 |
 | [Prune, You Talk Funny](https://open.spotify.com/track/6KKHXbJtnJPjla3V49YPac) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/7GRC1eaEDxAYaBXEV6TKoj) | 3:32 | 2021-02-27 | 2022-10-13 |
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-01-15 | 2022-07-29 |
@@ -703,7 +704,7 @@
 | [Today \(feat\. Teo Halm\)](https://open.spotify.com/track/1fZeK4F1yZkVrEOb9ILaax) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Teo Halm](https://open.spotify.com/artist/4c2Fb5kfVRzodXZvitxnWk) | [Today \(feat\. Teo Halm\)](https://open.spotify.com/album/7AF0DByCKnu9JhItQPMRkK) | 3:14 | 2019-07-30\* | 2021-05-22 |
 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 | 2021-11-19 | 2022-07-29 |
 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 | 2019-07-30\* | 2021-08-28 |
-| [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-06-14 |  |
+| [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-06-14 | 2022-10-22 |
 | [too much](https://open.spotify.com/track/2FsY59jGZYuhTWoVtnfPMu) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [too much](https://open.spotify.com/album/51EGMpOQ60ycHdiaYiKNO8) | 2:52 | 2021-04-30 | 2021-07-26 |
 | [Tourist Trap](https://open.spotify.com/track/0UCrDQS94ocETUzNrnnpjH) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Tourist Trap](https://open.spotify.com/album/2hmQkVm60ZBophzswAIQjK) | 3:01 | 2021-03-09 | 2021-08-26 |
 | [Tournament Hill](https://open.spotify.com/track/3ntVC9mzbS7NjyrcojDFnS) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Tournament Hill](https://open.spotify.com/album/3t6qVSXwI78uPSTBtDBDKb) | 1:53 | 2019-08-02 | 2020-01-30 |

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE3MzA3NiwwMDAwMDAwMDU4ZTUwMjEyM2ZiNTgyMDI1NTFlNDA2MDdlMDMzZDRi",
+  "snapshot_id": "MTY2NjE3MzA3NiwwMDAwMDAwMDYzNjNjZDQwYzg4ODUxMTI1ZGYwOGM5MmM3YmVkMGRi",
   "tracks": [
     {
-      "added_at": "2022-10-21 01:49:53",
+      "added_at": "2022-10-22 01:54:33",
       "album": {
         "name": "BRUTAL - Spotify Singles",
         "url": "https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW"
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Pisoteo",
-      "url": "https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "DUCATI",
         "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 169161,
       "name": "DUCATI",
       "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Pisoteo",
+      "url": "https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "no s\u00e9 qui\u00e9n soy",
-        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
-      },
-      "artists": [
-        {
-          "name": "K4",
-          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
-        }
-      ],
-      "duration_ms": 128047,
-      "name": "no s\u00e9 qui\u00e9n soy",
-      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Palmeras",
         "url": "https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm"
       },
@@ -455,22 +439,18 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3"
+        "name": "no s\u00e9 qui\u00e9n soy",
+        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
       },
       "artists": [
         {
-          "name": "Terapia",
-          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
-        },
-        {
-          "name": "Santa Salut",
-          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+          "name": "K4",
+          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
         }
       ],
-      "duration_ms": 274597,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N"
+      "duration_ms": 128047,
+      "name": "no s\u00e9 qui\u00e9n soy",
+      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -495,6 +475,26 @@
       "duration_ms": 220975,
       "name": "Paradoja",
       "url": "https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3"
+      },
+      "artists": [
+        {
+          "name": "Terapia",
+          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        }
+      ],
+      "duration_ms": 274597,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
-      },
-      "artists": [
-        {
-          "name": "Koi Pali",
-          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
-        }
-      ],
-      "duration_ms": 190755,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 174960,
       "name": "Dos",
       "url": "https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
+      },
+      "artists": [
+        {
+          "name": "Koi Pali",
+          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
+        }
+      ],
+      "duration_ms": 190755,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Cambio",
-        "url": "https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6"
-      },
-      "artists": [
-        {
-          "name": "Sara Acero",
-          "url": "https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3"
-        }
-      ],
-      "duration_ms": 221182,
-      "name": "Cambio",
-      "url": "https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Deli",
         "url": "https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179278,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Cambio",
+        "url": "https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6"
+      },
+      "artists": [
+        {
+          "name": "Sara Acero",
+          "url": "https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3"
+        }
+      ],
+      "duration_ms": 221182,
+      "name": "Cambio",
+      "url": "https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw"
     },
     {
       "added_at": "2022-10-05 20:02:30",

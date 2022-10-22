@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- New Zealand.
 
-686 songs - 1 day 15 hr 51 min - [published](https://open.spotify.com/playlist/2jI0cdh32ss3u0beLNswrV)
+687 songs - 1 day 15 hr 54 min - [published](https://open.spotify.com/playlist/2jI0cdh32ss3u0beLNswrV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-02-22 | 2022-04-02 |
 | [Mr Reggae](https://open.spotify.com/track/1Wu67nQXx74tc8PTax63zK) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Mr Reggae](https://open.spotify.com/album/17HsgjR6rhYGnDFsJVdiQw) | 3:04 | 2021-11-27 | 2021-12-19 |
 | [Mr Reggae](https://open.spotify.com/track/6J6slpqRf9jYqGUVKVEOOt) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 3:04 | 2021-12-18 | 2022-08-23 |
-| [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 | 2022-10-09 |  |
+| [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 | 2022-10-09 | 2022-10-22 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2021-12-29 |  |
 | [Mr\. Morale](https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:30 | 2022-05-14 | 2022-05-20 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 | 2021-04-11 | 2021-04-18 |
@@ -542,6 +542,7 @@
 | [Simple Man](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 5:56 | 2022-10-01 | 2022-10-04 |
 | [SIR BAUDELAIRE \(feat\. DJ Drama\)](https://open.spotify.com/track/4ydmav4vl7hebadtfZtMrg) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 1:28 | 2021-06-27 | 2021-06-28 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-08-01 | 2021-08-22 |
+| [Sky's The Limit](https://open.spotify.com/track/5L8Getah1kSjGwRwLRcbiV) | [Krazymut](https://open.spotify.com/artist/0mJXVw5EeYaDNz0tIzFXzp), [Inayah](https://open.spotify.com/artist/6YPluiefKitCHNBfaPQUCC) | [Sky's The Limit](https://open.spotify.com/album/2bNwgIud5bfPXXTUyZeARc) | 3:12 | 2022-10-21 |  |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-06 | 2021-12-27 |
 | [Slice of Heaven](https://open.spotify.com/track/4qVIORNqKvlFvE4HMgnvVC) | [Dave Dobbyn](https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc), [Herbs](https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA) | [Loyal](https://open.spotify.com/album/3XDGS6f3W9lUk8HOlIeVu8) | 4:37 | 2021-12-27 | 2022-01-17 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-08 | 2021-11-14 |

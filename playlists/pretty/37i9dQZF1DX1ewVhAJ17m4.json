@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 527984,
+  "num_followers": 528184,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDVmNTI4NjcxNmM2YTYyNGRmNDJhZWNjZGYzNTg5NmRj",
+  "snapshot_id": "MTY2NjM1Njc5MiwwMDAwMDAwMDcyMWYyZWE3ODUyMTcwNmY0OTQ2MWFmYTlhMTg5YzNh",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -43,6 +43,38 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 179707,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Addison Rae",
         "url": "https://open.spotify.com/album/10guCRD4IIfIvmAt5ny4Km"
       },
@@ -75,38 +107,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Say It (To My Face)",
-        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 179707,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Cavalier",
         "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
       },
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -167,6 +167,22 @@
       "duration_ms": 136510,
       "name": "Sand on the Beach",
       "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
+    },
+    {
+      "added_at": "2022-10-21 12:53:12",
+      "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -203,6 +219,22 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "added_at": "2022-10-21 12:53:12",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -409,6 +441,22 @@
       "url": "https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG"
     },
     {
+      "added_at": "2022-10-21 12:53:12",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
+    },
+    {
       "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Happy Never After",
@@ -451,6 +499,22 @@
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
+    },
+    {
+      "added_at": "2022-10-21 12:53:12",
+      "album": {
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 217989,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -513,6 +577,22 @@
       "url": "https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi"
     },
     {
+      "added_at": "2022-10-21 12:53:12",
+      "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
       "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Promise",
@@ -531,6 +611,22 @@
       "duration_ms": 193960,
       "name": "Promise",
       "url": "https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG"
+    },
+    {
+      "added_at": "2022-10-21 12:53:12",
+      "album": {
+        "name": "Wishing You Hell",
+        "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 194892,
+      "name": "Wishing You Hell",
+      "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -711,6 +807,22 @@
       "duration_ms": 169104,
       "name": "Like I'm Okay",
       "url": "https://open.spotify.com/track/4z7m5fHKANtRtr8CGnckLd"
+    },
+    {
+      "added_at": "2022-10-21 12:53:12",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
     },
     {
       "added_at": "2022-10-13 23:00:00",

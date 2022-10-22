@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 175222,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 170211,
       "name": "better off without me",
       "url": "https://open.spotify.com/track/1Ip5p31SowqjJLo2ss1afJ"
@@ -3769,7 +3769,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
@@ -4029,6 +4029,24 @@
       "duration_ms": 222000,
       "name": "Deep Sea State of Mind",
       "url": "https://open.spotify.com/track/1ywFfnmZJ1TkPFIDbL1DWc"
+    },
+    {
+      "album": {
+        "name": "Default",
+        "url": "https://open.spotify.com/album/73Yyl36YSpjy1RJpxUMTS2"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185656,
+      "name": "Default",
+      "url": "https://open.spotify.com/track/2CVCvlekL9bOVhIJaMfbut"
     },
     {
       "album": {
@@ -6615,7 +6633,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 109325,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
@@ -8463,7 +8481,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 193158,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k"
@@ -8535,7 +8553,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -9203,7 +9221,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 172755,
       "name": "LAst dAy oN EaRTh",
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
@@ -10397,7 +10415,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 190658,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
@@ -10849,7 +10867,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 163226,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR"
@@ -10950,6 +10968,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR"
+    },
+    {
+      "album": {
         "name": "Midnight River (feat. 6LACK)",
         "url": "https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx"
       },
@@ -10969,6 +11005,28 @@
       "duration_ms": 184242,
       "name": "Midnight River (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
+    },
+    {
+      "album": {
+        "name": "Miles Away (feat. Ant Saunders)",
+        "url": "https://open.spotify.com/album/0OV3JKR6DsbrzjW2SDYih8"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
+        },
+        {
+          "name": "Ant Saunders",
+          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154946,
+      "name": "Miles Away (feat. Ant Saunders)",
+      "url": "https://open.spotify.com/track/7FEUENNMyyXkHcjLN6VSLA"
     },
     {
       "album": {
@@ -11005,6 +11063,24 @@
       "duration_ms": 184915,
       "name": "miss me (when you're gone)",
       "url": "https://open.spotify.com/track/4z2qQDApUjC6rT70uyK3op"
+    },
+    {
+      "album": {
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150645,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr"
     },
     {
       "album": {
@@ -11423,7 +11499,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 145520,
       "name": "Never Had a Chance",
       "url": "https://open.spotify.com/track/5ICjRLHOxUv6gcRbr2ux9Z"
@@ -12705,7 +12781,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 192497,
       "name": "Peter Pan Was Right",
       "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
@@ -13551,7 +13627,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 258657,
       "name": "Running Out of Love",
       "url": "https://open.spotify.com/track/5B6BvYNj9cjZUnzoslwK20"
@@ -13847,7 +13923,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 188160,
       "name": "see you later (ten years)",
       "url": "https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB"
@@ -13883,7 +13959,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 183300,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6"
@@ -13977,7 +14053,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 165765,
       "name": "Shadow Of Mine",
       "url": "https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5"
@@ -14486,6 +14562,28 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "album": {
         "name": "So Far Away",
         "url": "https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ"
       },
@@ -14515,7 +14613,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
@@ -14963,6 +15061,24 @@
       "duration_ms": 159965,
       "name": "Speakers",
       "url": "https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ"
+    },
+    {
+      "album": {
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247267,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
     },
     {
       "album": {
@@ -15505,6 +15621,24 @@
       "duration_ms": 184710,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1qFDKgzTadZib0PgQqL9CM"
+    },
+    {
+      "album": {
+        "name": "superhuman",
+        "url": "https://open.spotify.com/album/0johO4xlYDXem8iYmjKoha"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170809,
+      "name": "superhuman",
+      "url": "https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ"
     },
     {
       "album": {
@@ -17321,6 +17455,28 @@
       "duration_ms": 206621,
       "name": "Ways Of Love",
       "url": "https://open.spotify.com/track/4CPmM2bmlVbEKmQV8NDlFt"
+    },
+    {
+      "album": {
+        "name": "WDIA (Would Do It Again)",
+        "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "WDIA (Would Do It Again)",
+      "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
     },
     {
       "album": {

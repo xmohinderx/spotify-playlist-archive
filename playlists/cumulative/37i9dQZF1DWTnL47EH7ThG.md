@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-241 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
+242 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 | 2022-02-04 |  |
 | [Respeck Due](https://open.spotify.com/track/0z1LNJ0w1XgsWuyqXpuAIO) | [Richie Brains](https://open.spotify.com/artist/5pN0ASHgOUkN3sSj6GMwfq), [Rider Shafique](https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq) | [Who Is Richie Brains](https://open.spotify.com/album/5vy59j7Lxx1VTGP35vRRjX) | 3:56 | 2022-02-04 |  |
 | [RESPECT](https://open.spotify.com/track/1SZNl9ghP3M7nvkki8rzCu) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A), [LGP Qua](https://open.spotify.com/artist/3mCVZUKS4SXMHf7QdyKQFz) | [RESPECT](https://open.spotify.com/album/5au4sCWtFcJ70S74ABl9QZ) | 2:49 | 2022-04-26 |  |
-| [Robyn](https://open.spotify.com/track/40BvDslaoDBzqKjexjlFXr) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1KA0TZkPZSbi8COxiZGxkO) | 5:30 | 2022-04-26 |  |
+| [Robyn](https://open.spotify.com/track/2QUXnZuZYqc5RAgSJILpb6) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1UYhf9jWeeOuEpwt2VjwUP) | 5:30 | 2022-04-26 |  |
+| [Robyn](https://open.spotify.com/track/40BvDslaoDBzqKjexjlFXr) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1KA0TZkPZSbi8COxiZGxkO) | 5:30 | 2022-04-26 | 2022-10-22 |
 | [Rock Wit U \- Yoruba Soul Mix \- Dub](https://open.spotify.com/track/2F5cjiDzORHGhca4dSandQ) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Erro](https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Yoruba Soul Mixes \- Rock Wit U](https://open.spotify.com/album/3qZpsTAOl6b0S5OahuXqsd) | 5:57 | 2022-04-26 |  |
 | [Rocks](https://open.spotify.com/track/1D6DdPP8eU4zkg8EMh99pH) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Rocks](https://open.spotify.com/album/6YaTFXQr7euGC5gjB3L84Y) | 2:35 | 2022-07-18 |  |
 | [Roll The Dice \(feat\. Stamina MC & Lily Allen\)](https://open.spotify.com/track/0gO2I7dgwORBIys7ZtIYw8) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:28 | 2022-02-04 |  |

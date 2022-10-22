@@ -934,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206974,
+      "name": "Corduroy Dreams",
+      "url": "https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ"
+    },
+    {
+      "album": {
         "name": "Cutie",
         "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
       },
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"

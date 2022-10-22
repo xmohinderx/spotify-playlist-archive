@@ -11670,6 +11670,24 @@
     },
     {
       "album": {
+        "name": "Signals Cometh",
+        "url": "https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L"
+      },
+      "artists": [
+        {
+          "name": "Edmund's Oasis",
+          "url": "https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123359,
+      "name": "Upwards",
+      "url": "https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc"
+    },
+    {
+      "album": {
         "name": "Humedal",
         "url": "https://open.spotify.com/album/3WkfEJ2DmvDItp5HdOd8Eu"
       },

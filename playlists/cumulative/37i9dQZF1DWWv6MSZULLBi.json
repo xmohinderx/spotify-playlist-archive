@@ -1810,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "Jericho Beach",
+        "url": "https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "Jericho Beach",
+      "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
+    },
+    {
+      "album": {
         "name": "Sentimentalist",
         "url": "https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w"
       },
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 201679,
       "name": "Lotusland",
       "url": "https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 179998,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/3MKXWNCf5HuFnije8DleCS"
@@ -2553,6 +2571,24 @@
       "duration_ms": 297103,
       "name": "Orange Juice",
       "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
+    },
+    {
+      "album": {
+        "name": "Light the Candle, Hold the Mirror",
+        "url": "https://open.spotify.com/album/2Z3mENqN7BRKOp8VGJyvwz"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227111,
+      "name": "Other Rivers",
+      "url": "https://open.spotify.com/track/1Y2Oah15zszzFVtCw0seA3"
     },
     {
       "album": {
@@ -4009,6 +4045,24 @@
       "duration_ms": 187453,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5q0GJoKde3ndLUxfTKNrFP"
+      },
+      "artists": [
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202004,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3jAYnFmQS0H5O4ShG14Ac7"
     },
     {
       "album": {

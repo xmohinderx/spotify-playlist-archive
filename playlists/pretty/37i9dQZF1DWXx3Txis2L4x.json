@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 498447,
+  "num_followers": 498631,
   "original_name": "ROCK 'N' RUN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5OTU2MiwwMDAwMDAwMGJjNGI0MDVlNjRjMDk5NGJmZjRlOTI4MTczZTU3MzIx",
+  "snapshot_id": "MTY1NDE5OTU2MiwwMDAwMDAwMDRkODFmNDIyNzRkZDQ5YTRkODFjZGY5NmRhNGE3NjI0",
   "tracks": [
     {
       "added_at": "2022-06-02 19:51:41",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-06-02 19:51:41",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
-    },
-    {
-      "added_at": "2022-06-02 19:51:41",
-      "album": {
         "name": "Elect the Dead (Deluxe)",
         "url": "https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 230026,
       "name": "Empty Walls",
       "url": "https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m"
+    },
+    {
+      "added_at": "2022-06-02 19:51:41",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
     }
   ],
   "unique_name": "ROCK 'N' RUN",

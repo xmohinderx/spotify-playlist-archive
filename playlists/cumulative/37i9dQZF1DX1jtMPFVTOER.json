@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Adam Blackstone",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Jos\u00e9 James",
   "name": "Orbit",
   "published_playlist_ids": [
     "1HzUqJHRCll2EIj4taxTFD"
@@ -572,6 +572,28 @@
     },
     {
       "album": {
+        "name": "BETTER (arr. Emawk)",
+        "url": "https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT"
+      },
+      "artists": [
+        {
+          "name": "Malika Tirolien",
+          "url": "https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340572,
+      "name": "BETTER (arr. Emawk)",
+      "url": "https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB"
+    },
+    {
+      "album": {
         "name": "Better Days (Kaidi Tatham Remix)",
         "url": "https://open.spotify.com/album/5llHpRWrIbcjzCjTJsVz2m"
       },
@@ -919,7 +941,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 141428,
       "name": "Brown",
       "url": "https://open.spotify.com/track/1qumSELYPT7dVi6QMS402N"
@@ -1450,6 +1472,32 @@
     },
     {
       "album": {
+        "name": "Pigments",
+        "url": "https://open.spotify.com/album/6OLAKpxvkhfL4dckL6RlE8"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard and Spencer Zahn",
+          "url": "https://open.spotify.com/artist/70AgFt0zXsxmU7iQa3TnJE"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216912,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/5KFzvsPOf6r5UBwxy6yj5x"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -1695,7 +1743,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 160971,
       "name": "dimples",
       "url": "https://open.spotify.com/track/33A3P7DydxJYHkKfbglWwO"
@@ -2894,6 +2942,28 @@
     },
     {
       "album": {
+        "name": "Somebody's Gotta Do It",
+        "url": "https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219497,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/684Emdg5WsDqirI7XQPQkE"
+    },
+    {
+      "album": {
         "name": "Tabula Rasa",
         "url": "https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL"
       },
@@ -3011,7 +3081,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 199720,
       "name": "Imagine That",
       "url": "https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag"
@@ -6257,6 +6327,28 @@
       "duration_ms": 408248,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/3pcbzTq8yETxVguqn3PAau"
+    },
+    {
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352253,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU"
     },
     {
       "album": {

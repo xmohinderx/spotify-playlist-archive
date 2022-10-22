@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-81 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2x9tGSQNrSGMnGerdaROm3)
+82 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/2x9tGSQNrSGMnGerdaROm3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Kissing a Fool](https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:36 | 2022-09-12 |  |
 | [Les yeux ouverts \(dream a little dream of me\)](https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 4:46 | 2022-09-12 |  |
 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 | 2022-09-12 |  |
+| [Love Forgotten By Love](https://open.spotify.com/track/5B8DHIWdNCcag2FUF1OYge) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Love Forgotten By Love](https://open.spotify.com/album/7bhwsozskBjE2gGSxwpQQO) | 4:34 | 2022-10-10 |  |
 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 | 2022-09-12 |  |
 | [Love On Top](https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Tuck + Cover](https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk) | 3:28 | 2022-09-12 |  |
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2022-09-12 |  |
@@ -73,7 +74,7 @@
 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 | 2022-09-12 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-09-12 |  |
 | [The Night We Called It a Day](https://open.spotify.com/track/583lWzdB70dnWKa8qzBAOl) | [Maria Emrik](https://open.spotify.com/artist/3QCeDi6E5ejiJE2ZfIazBH) | [The Night We Called It a Day](https://open.spotify.com/album/1NoYS5pWC63LmIKrrvhwra) | 5:08 | 2022-09-12 | 2022-09-26 |
-| [The Promise](https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [The Promise](https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy) | 2:37 | 2022-09-19 |  |
+| [The Promise](https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [The Promise](https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy) | 2:37 | 2022-09-19 | 2022-10-22 |
 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 | 2022-09-26 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Rarities, Outtakes & Other Delights, Vol\. 2](https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8) | 3:23 | 2022-09-12 |  |
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 | 2022-09-12 |  |

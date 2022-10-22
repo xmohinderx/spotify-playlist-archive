@@ -4,14 +4,14 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-389 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
+390 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1](https://open.spotify.com/track/6z39NC4VSSweBHFg9kAoja) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 3:25 | 2021-09-04 | 2021-09-05 |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2019-10-04 | 2020-07-03 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 |  |
-| [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2019-07-29\* |  |
+| [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2019-07-29\* | 2022-10-22 |
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-07-15 |  |
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-06-26 | 2022-07-29 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-29 |  |
@@ -180,6 +180,7 @@
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-07-15 |  |
 | [Joy](https://open.spotify.com/track/3QpkbrYXtlU3LRJu3sTK6V) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Joy](https://open.spotify.com/album/3sXJapthAz9vvXDKIwEprp) | 3:12 | 2019-07-29\* | 2020-11-06 |
 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2019-07-29\* | 2020-02-14 |
+| [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-21 |  |
 | [Keep It Simple \(feat\. Wilder Woods\)](https://open.spotify.com/track/58fGC7ZRlPhW1J7kLx1goK) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Keep It Simple \(feat\. Wilder Woods\)](https://open.spotify.com/album/1gJFQwSQ5VP9QodPiihPNA) | 3:11 | 2019-12-08 | 2020-08-30 |
 | [Keeping It In The Dark \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2XtL4VAqehOQulLpf1sFVF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Keeping It In The Dark \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/34kdsqSo8eVjo29lNLBCRl) | 3:28 | 2019-08-16 | 2019-09-13 |
 | [Kill My Time](https://open.spotify.com/track/4aRQ4BgRUPTIpDWHQLxrar) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/0t5H4Z4b40n519tZ4vzKAo) | 3:55 | 2020-08-30 | 2020-09-18 |

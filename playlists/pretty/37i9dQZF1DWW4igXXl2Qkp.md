@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,309 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,380 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 17 | [Southside](https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [Southside](https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo) | 3:21 |
 | 18 | [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 |
 | 19 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 |
-| 20 | [Speak Up](https://open.spotify.com/track/1XgPkhPRp29fsTOUyXYuY6) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/2Yl5QSdrCOR2KLiNpBWUSN) | 1:44 |
+| 20 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
 | 21 | [berserk](https://open.spotify.com/track/589qel3bVhjWq7XCRZwxLa) | [kei](https://open.spotify.com/artist/4zCj68j0fYRCrgBaDqknoP) | [berserk](https://open.spotify.com/album/4d4JeEYeGI0uZtgtA199NF) | 1:39 |
 | 22 | [7.62 Freestyle](https://open.spotify.com/track/1glbpSELpG9GREMmXmb53g) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL), [Lil Brook](https://open.spotify.com/artist/7oQIYJ8rEMijvcPy8Ln7ww) | [7.62 Freestyle](https://open.spotify.com/album/4Ky21UDvOMJiV20cbCDosU) | 1:39 |
 | 23 | [Jump](https://open.spotify.com/track/08Wt1yyjZXDdjU3PqyuY2C) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [Jump](https://open.spotify.com/album/6SLOO6c1YSPeU9xkWsmNJR) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Heart Of Gold](https://open.spotify.com/track/66zbX8vwdDMHYn6kQ9xCf8) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Kyesha](https://open.spotify.com/album/3f49SaBQU5TNoX1JeBEm8f) | 1:29 |
 | 50 | [2 the Max](https://open.spotify.com/track/4N9pAupgXexImJ5Vgv1kFz) | [Jay Pareil](https://open.spotify.com/artist/7bROBB1DkMVz52NoCTaIfc) | [2 the Max](https://open.spotify.com/album/0wsQltrC4GfBXEsva0AENk) | 1:50 |
 
-Snapshot ID: `MTY2NjE4OTQ5MywwMDAwMDAwMGNkOGY2OWYzMjFjNmMzNjU1ZTQ1ODNmNWU1YzhkM2Nh`
+Snapshot ID: `MTY2NjE4OTQ5MywwMDAwMDAwMGU3NjRkNmI4MDdmYmViNDM2YTY5MjA2N2M1MGI0MzVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,307 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,347 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 32 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 33 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
 | 34 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
-| 35 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
+| 35 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 36 | [Lembra\-te](https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Desde a Origem](https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn) | 3:16 |
-| 37 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 37 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 | 38 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 |
 | 39 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 |
 | 40 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 51 | [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 |
 | 52 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 |
 | 53 | [Friend Zone](https://open.spotify.com/track/04trkiJDGMLe2c2Ghop3f2) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1), [Soulwave](https://open.spotify.com/artist/7BmVNqv2Zb3bRjzb4qMAr8) | [Friend Zone](https://open.spotify.com/album/5msGs054ES4Jonpc7zHjnf) | 3:04 |
-| 54 | [Sentimento Claro](https://open.spotify.com/track/2fFMcXmF5eTXRymJe4CM0n) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Sentimento Claro](https://open.spotify.com/album/41xlHVxJaHyXSUBD6Vl9vw) | 3:10 |
-| 55 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 |
+| 54 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 |
+| 55 | [Sentimento Claro](https://open.spotify.com/track/2fFMcXmF5eTXRymJe4CM0n) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Sentimento Claro](https://open.spotify.com/album/41xlHVxJaHyXSUBD6Vl9vw) | 3:10 |
 | 56 | [Novo Demais](https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32) | [TRIQ](https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd), [eaux](https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh) | [Novo Demais](https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH) | 3:08 |
 | 57 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
 | 58 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 |
 | 59 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 |
 | 60 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGJmMWMyNDNjNjk0NDRhNWZlMTQ3NTVlZDI3MGY3YzRi`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGJjMzk1OTEyMjdkODQyYmNiOGU5OTAyMWVmMTAyM2Q3`

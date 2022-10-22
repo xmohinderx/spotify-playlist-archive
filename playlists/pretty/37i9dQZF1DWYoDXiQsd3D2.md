@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,471 likes - 113 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,570 likes - 113 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 26 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
 | 27 | [In Love](https://open.spotify.com/track/0ySS0g7IJLwijoCQHWdOOO) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Love](https://open.spotify.com/album/4NqSB7ip9Wbaj3N4r8xRMv) | 3:24 |
 | 28 | [The Fertile Night](https://open.spotify.com/track/3hnQEIi6qxWltcnTM9TPr1) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Fertile Night](https://open.spotify.com/album/1jpdhVtNoFFZnk7oZErGKN) | 2:37 |
-| 29 | [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 |
+| 29 | [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 |
 | 30 | [Moving Slowly](https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Moving Slowly](https://open.spotify.com/album/7lCtm2VoakicgPRDsjS72W) | 3:17 |
 | 31 | [Slumber](https://open.spotify.com/track/35MDzpFFmis8yuJwQJox3j) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [Slumber](https://open.spotify.com/album/3Ij4cMjGUh2Ney3gCdq5c1) | 4:42 |
 | 32 | [Circle 31](https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i) | [Circle 31](https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk) | 4:17 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 112 | [Flight from the City \- Víkingur Ólafsson Rework](https://open.spotify.com/track/4eaBCGk2bT1spf1CruumMy) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Tarn Travers](https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Retrospective II \- Rarities](https://open.spotify.com/album/74GQMHXRhgZHMGUoX42pfD) | 6:26 |
 | 113 | [Starwood Choker](https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 6:16 |
 
-Snapshot ID: `MTY2NDg5NjE1NiwwMDAwMDAwMGY0YjljMWNjMDQ5NWYxN2RiM2U2MmQzNTQ5OGJjNDI5`
+Snapshot ID: `MTY2NDg5NjE1NiwwMDAwMDAwMDk2OWZmN2FkYjFjZjczOTllYWY3YWUxOGExYTdkOTFm`

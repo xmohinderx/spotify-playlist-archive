@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-117 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+118 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Infinity](https://open.spotify.com/track/6qUR6VDQU5uuEJSC7Eb43B) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Infinity](https://open.spotify.com/album/4QUjVEksjTc8yFquXuoBxx) | 2:40 | 2022-05-25 |  |
 | [Iris Sibirica](https://open.spotify.com/track/6iAD5cUkCz3ZtGleOzBlpt) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Temple](https://open.spotify.com/album/5RdoZoL6lrg7raFOTCaPGV) | 3:42 | 2022-05-25 |  |
 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 | 2022-05-25 |  |
+| [Kokyu](https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Kokyu](https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ) | 4:06 | 2022-10-21 |  |
 | [Leaving](https://open.spotify.com/track/1tssW7uMtvpgjdD4bEO5kW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [O B E](https://open.spotify.com/album/5kTgZfxe4yXefwI9Q9Tby5) | 3:58 | 2022-05-25 |  |
 | [Linden Trees](https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Through the Trees](https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z) | 2:29 | 2022-05-25 |  |
 | [Little Forest](https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Little Forest](https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1) | 2:54 | 2022-05-25 |  |

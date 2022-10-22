@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,187 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,223 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 21 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 22 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
 | 23 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
-| 24 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 |
-| 25 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
+| 24 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
+| 25 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 |
 | 26 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 |
 | 27 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 | 28 | [Euro](https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG) | [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Euro](https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O) | 3:37 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 |
 | 40 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
 | 41 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
-| 42 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
-| 43 | [Molinha](https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV) | [ÀTÚNWA](https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL) | 4:14 |
+| 42 | [Molinha](https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV) | [ÀTÚNWA](https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL) | 4:14 |
+| 43 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 44 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
 | 45 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 2:35 |
 | 46 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Gloss da Fenty](https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i) | [ADH4RAA](https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e), [Ayla On The Beat](https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Gloss da Fenty](https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q) | 2:30 |
 | 50 | [Xeque\-Mate](https://open.spotify.com/track/7bs5NNmTcrktPH1pAQnVPz) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [Caio Kazzi](https://open.spotify.com/artist/2qDGGgQrsth8uAC6OfGlIc), [HERvolution](https://open.spotify.com/artist/3rN8auMvCh8BcWf1WKt7OW) | [Xeque\-Mate](https://open.spotify.com/album/6XCmEGHcQ5ykWHtgrHmBWx) | 2:04 |
 
-Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMDg2NDQ3MDMxYWRmODAwMjE1MDc4MjAzOTIxMjMzYTU4`
+Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMGI2YTQyNzUxZmIzYjY1NTVkMzllMmIwNjRlOTM0YmUw`

@@ -4,15 +4,17 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=a96SvZ2zRaOYehcx75YnXg"> Bien</a>
 
-52 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
+55 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aduro](https://open.spotify.com/track/6rIWBggXDvvVMID5Zv2Hy3) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Dasein](https://open.spotify.com/album/2MkAYlPVkYBg0CmbkTBU6I) | 7:36 | 2022-06-23 |  |
 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2020-05-28 |  |
 | [Alunamehlo](https://open.spotify.com/track/3m4vlH8tRa4JU3498Qzkkj) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Alunamehlo](https://open.spotify.com/album/5jqyrLKaD3oo0hP8M5mfY4) | 4:22 | 2021-01-28 |  |
+| [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 | 2022-10-21 |  |
 | [Blonda Yirini](https://open.spotify.com/track/52iVXivZzu2elL1MIQQsrL) | [Nahawa Doumbia](https://open.spotify.com/artist/0lJ4sCynTDDS2Oot6PEhaV) | [Kanawa](https://open.spotify.com/album/7DZu7eXYOCZn9Wz90Rbsa5) | 3:20 | 2020-09-10 |  |
-| [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 |  |
+| [Circus](https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Circus](https://open.spotify.com/album/7fCYNOf16YBpZ3XwByoUmd) | 4:14 | 2022-10-21 |  |
+| [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-10-22 |
 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 | 2020-01-15 |  |
 | [Eyes Don't See](https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Eyes Don't See](https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ) | 5:47 | 2022-05-26 |  |
 | [Fall](https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:05 | 2020-08-28 |  |
@@ -21,6 +23,7 @@
 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 |  |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 |  |
 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2021-10-22 |  |
+| [Luendu](https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Mopero Mupemba](https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs) | [Archeology](https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3) | 3:08 | 2022-10-21 |  |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 |  |
 | [Magnetic](https://open.spotify.com/track/472INKIBYOfxaYOagwN1f6) | [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Figurine](https://open.spotify.com/album/0Tgcl7QbfwGNqCdJ3h6vj6) | 3:48 | 2021-09-24 |  |
 | [Mali \(feat\. Nathi\)](https://open.spotify.com/track/3UgjNSWv99ez4z2B5ARgZI) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Mali \(feat\. Nathi\)](https://open.spotify.com/album/4NqSQWewfv3gb1lZPaLIgV) | 4:30 | 2020-12-10 |  |
@@ -44,7 +47,7 @@
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 |  |
 | [Smile Before You Sleep](https://open.spotify.com/track/566lx0Fuz2OwQqmdr0PkIX) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 |  |
 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 | 2022-08-26 |  |
-| [Stand Tall](https://open.spotify.com/track/5BPaHu1s9tntVtVnOQ5LL0) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [Stand Tall](https://open.spotify.com/album/3HyBcGrwhTgpdoxDUubucn) | 3:18 | 2022-09-09 |  |
+| [Stand Tall](https://open.spotify.com/track/5BPaHu1s9tntVtVnOQ5LL0) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [Stand Tall](https://open.spotify.com/album/3HyBcGrwhTgpdoxDUubucn) | 3:18 | 2022-09-09 | 2022-10-22 |
 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 | 2021-10-28 |  |
 | [Sun Spot](https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu), [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Sun Spot](https://open.spotify.com/album/0dMANuJKGeHXJ6BsXd60jy) | 3:51 | 2021-10-28 |  |
 | [Sunset In Batumi](https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands](https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF) | 5:27 | 2022-02-11 |  |

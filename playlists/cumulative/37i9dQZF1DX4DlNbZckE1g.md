@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-118 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
+119 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,8 +75,8 @@
 | [Open Your Mind](https://open.spotify.com/track/6Hix9sKooZFXywNvpap932) | [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Open Your Mind](https://open.spotify.com/album/54lSmyWcVY2w8znYpWKmdi) | 3:25 | 2022-02-10 |  |
 | [Past Life](https://open.spotify.com/track/2X7zQtHUw9om2KfVCsnC77) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Sycco's First EP](https://open.spotify.com/album/2Qf8PDAg70aIDYH8anNlbx) | 3:19 | 2022-02-10 |  |
 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 | 2022-02-10 |  |
-| [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 | 2022-02-10 | 2022-10-08 |
-| [PINCH ME](https://open.spotify.com/track/6uogFVMnfQbyA93hxEZhd1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 2:59 | 2022-02-10 |  |
+| [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 | 2022-02-10 |  |
+| [PINCH ME](https://open.spotify.com/track/6uogFVMnfQbyA93hxEZhd1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 2:59 | 2022-02-10 | 2022-10-22 |
 | [Pineapple Pizza](https://open.spotify.com/track/5GY7EgrHztoGJkGXDdhQCR) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/7rBmAvloiKVHIOHpC5g1ni) | 2:26 | 2022-02-10 |  |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-02-10 |  |
 | [Pretty Lady \- Free Nationals Remix](https://open.spotify.com/track/55HlhHQyXxCoKt9oZkxHD0) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Pretty Lady \(Free Nationals Remix\)](https://open.spotify.com/album/3kZx6ZWaFjwKJ55yEr0Qsu) | 4:18 | 2022-02-10 |  |
@@ -101,7 +101,8 @@
 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 | 2022-02-10 |  |
 | [Stranded](https://open.spotify.com/track/5KDIhdYYo71Ev9ZBHY3lnU) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Stranded](https://open.spotify.com/album/21gAhmGvHdwkc4oav31GSr) | 3:46 | 2022-02-10 |  |
 | [Stranger Love](https://open.spotify.com/track/0cizpZbGJSYq8Aw5uGOsLF) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Stranger Love](https://open.spotify.com/album/1CQiM5ThwRYc0udEWKEiiu) | 3:45 | 2022-02-10 |  |
-| [SUGARCOATED](https://open.spotify.com/track/1M2sJHEAsFFLPIQyHvQUv2) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 3:11 | 2022-02-10 |  |
+| [SUGARCOATED](https://open.spotify.com/track/1M2sJHEAsFFLPIQyHvQUv2) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 3:11 | 2022-02-10 | 2022-10-22 |
+| [SUGARCOATED](https://open.spotify.com/track/3m1MK6hUb9hdMQzLmzEAs3) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 3:11 | 2022-02-10 |  |
 | [SUGARCOATED](https://open.spotify.com/track/5FhfmjrxgoSXbAyJJwRTjr) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [SUGARCOATED](https://open.spotify.com/album/4l0bg4TtTVWK7GKMrsinaq) | 3:11 | 2022-02-10 | 2022-10-07 |
 | [Swing of Things](https://open.spotify.com/track/75HWviLbrVpv3MMiAo0ylA) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 2:58 | 2022-02-10 |  |
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-02-10 |  |

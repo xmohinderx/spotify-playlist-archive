@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 151333,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ"
@@ -641,6 +641,24 @@
       "duration_ms": 148000,
       "name": "INESTABLE",
       "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+    },
+    {
+      "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
     },
     {
       "album": {

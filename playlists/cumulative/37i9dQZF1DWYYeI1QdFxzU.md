@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-101 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+102 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Disrupt](https://open.spotify.com/track/3cZ15fnmPlpNbpa47bRQ7T) | [Delac](https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM) | [Disrupt](https://open.spotify.com/album/5imm72ZzslXs4ipR05vdmF) | 4:14 | 2021-10-15 |  |
 | [Don't Miss It](https://open.spotify.com/track/1p80XDFkNwDaA87sh2C2Xn) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:59 | 2021-10-15 |  |
 | [Don't You Forget About Me](https://open.spotify.com/track/1Dl0E86yorhNRMYZ20RIfY) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/6lHsSTzYm6I40BrkUq54n1) | 5:48 | 2021-10-15 | 2022-10-18 |
-| [Douro](https://open.spotify.com/track/0YWm63Fld60fXms4TQ8M37) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Douro](https://open.spotify.com/album/72kFOHZQiZwAGekChA3LMY) | 3:45 | 2021-10-15 |  |
+| [Douro](https://open.spotify.com/track/0YWm63Fld60fXms4TQ8M37) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Douro](https://open.spotify.com/album/72kFOHZQiZwAGekChA3LMY) | 3:45 | 2021-10-15 | 2022-10-22 |
 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 | 2021-10-15 |  |
 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 | 2021-10-15 |  |
 | [Eff Five](https://open.spotify.com/track/4M6norXzPA6tFElC65U9WD) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/6hHm6NZAMh2B5mK6mYQQPj) | 4:51 | 2021-10-15 | 2022-07-29 |
@@ -43,6 +43,7 @@
 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 | 2021-10-15 |  |
 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 | 2021-10-15 |  |
 | [Feel](https://open.spotify.com/track/0AW12rdgg7BEKo4POOUUbQ) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/1I8zvBuhjyZSgWjhspMNr0) | 5:54 | 2021-10-15 | 2022-10-17 |
+| [Feel](https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG) | 5:54 | 2021-10-15 |  |
 | [Feelings Of Unreality](https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/3N0eERc3grlFcQGwWF3J70) | 3:55 | 2021-10-15 |  |
 | [Feelings Of Unreality](https://open.spotify.com/track/6DNUm6RHHd9LzPSNC0SaBD) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/2I32leZu15Vr0HQSyqXbtU) | 3:55 | 2021-10-15 | 2022-07-06 |
 | [Fires](https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 4:39 | 2021-10-15 |  |

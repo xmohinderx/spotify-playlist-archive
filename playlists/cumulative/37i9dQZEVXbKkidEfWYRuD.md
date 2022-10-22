@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-857 songs - 1 day 16 hr 1 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+858 songs - 1 day 16 hr 4 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Million](https://open.spotify.com/track/4umjgYILQbHyV41ZmaemQm) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:14 | 2021-10-23 | 2022-07-16 |
 | [Minor](https://open.spotify.com/track/5m5rShfBQk4UpG7vpsEKzf) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [YAMAKASI](https://open.spotify.com/album/6xuT7rum2qqggIhmzyrvFU) | 2:55 | 2021-04-14 | 2021-10-03 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-23 |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-21 |  |
 | [Mixtape](https://open.spotify.com/track/6SfyzcVxW2P9ieifice761) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Mixtape](https://open.spotify.com/album/6DxSSb0rVQAFW6F86sC48v) | 1:28 | 2021-08-29 | 2021-08-30 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-18 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-29 | 2021-11-23 |
@@ -406,7 +407,7 @@
 | [VENT'ANNI](https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 4:13 | 2021-05-26 | 2021-06-03 |
 | [Vid\`moiob](https://open.spotify.com/track/3voddQQlt5fKj6ZPwDxVpy) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 1:45 | 2022-08-20 | 2022-08-23 |
 | [VLAGA](https://open.spotify.com/track/1OhtcX8IP2mQ2s5yEZ3jSN) | [Arut](https://open.spotify.com/artist/0mp2sdIanszB7wxCNM8fr0), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VLAGA](https://open.spotify.com/album/1nBZ5WULtCMe0Yz35Xkk2g) | 2:32 | 2022-06-18 | 2022-08-07 |
-| [vodila](https://open.spotify.com/track/3NjAwkM75GH3cvfV9zRtv8) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [vodila](https://open.spotify.com/album/4BT6cNSrS1CofYTCOXuhsv) | 1:50 | 2022-07-01 |  |
+| [vodila](https://open.spotify.com/track/3NjAwkM75GH3cvfV9zRtv8) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [vodila](https://open.spotify.com/album/4BT6cNSrS1CofYTCOXuhsv) | 1:50 | 2022-07-01 | 2022-10-22 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-05-26 |
 | [Vony Bazaryatt](https://open.spotify.com/track/2oYEBUQiMYGUxLJlBzIHrm) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 1:39 | 2022-08-20 | 2022-08-22 |
 | [WARLORD](https://open.spotify.com/track/2BuT8Njor0vbZul2TfCoSP) | [Dzhizus](https://open.spotify.com/artist/7kB4F3PktJEy9jbwI6ujjZ) | [WARLORD](https://open.spotify.com/album/0NiO0NJTCfoVvJAyxeKzE6) | 2:02 | 2022-01-29 | 2022-01-31 |
@@ -765,7 +766,7 @@
 | [Стрелы](https://open.spotify.com/track/2xKA5mKz7swl48YzRsw6d3) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2), [Тося Чайкина](https://open.spotify.com/artist/2Ibq1kUPUhSjoJVrvZEMrj) | [Стрелы](https://open.spotify.com/album/5QXaxyO7fF3XFpFicE7wIm) | 2:56 | 2022-08-06 | 2022-08-10 |
 | [Суета](https://open.spotify.com/track/5oDzu4mpi13XnbBteabhYF) | [V $ X V PRiNCE](https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf) | [30](https://open.spotify.com/album/4yyHZ3BwUVbPrimJffzkxE) | 3:02 | 2022-05-31 | 2022-06-26 |
 | [СЭККС](https://open.spotify.com/track/7pHQzPPLj0MgGPoInmT3cp) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [БЭСТ ФРЭНДС](https://open.spotify.com/album/5kH0zVmCDLEn9oaeC5InRQ) | 2:20 | 2021-11-28 | 2021-11-28 |
-| [Таблетка](https://open.spotify.com/track/0fLampmh4qsOLGitXM171a) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum) | [ПЛОХОЙ ПОЦ](https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ) | 1:29 | 2022-02-16 | 2022-10-17 |
+| [Таблетка](https://open.spotify.com/track/0fLampmh4qsOLGitXM171a) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum) | [ПЛОХОЙ ПОЦ](https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ) | 1:29 | 2022-02-16 |  |
 | [ТАЙМАУТ](https://open.spotify.com/track/175xPRXSrf7RSWdjAhc6oD) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [ТАЙМАУТ](https://open.spotify.com/album/72D3RPXL2bbpIWpYrGdOqb) | 2:01 | 2021-09-14 | 2022-02-24 |
 | [Так гріє](https://open.spotify.com/track/1qC93FzhcsGUFG2ZvcQzrT) | [Valentin Strykalo](https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa) | [Смирись и расслабься](https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF) | 4:38 | 2022-04-12 | 2022-06-24 |
 | [Так и знал](https://open.spotify.com/track/5aADAi4y2IOh2tKbv1jnMX) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:15 | 2021-12-18 | 2021-12-23 |
@@ -828,7 +829,7 @@
 | [Чи разом](https://open.spotify.com/track/4LVrOvwpUuJFP2JsIGTptg) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Навколо](https://open.spotify.com/album/6f7xYzkeCz8SB2xT7HTMvN) | 2:38 | 2022-10-01 |  |
 | [Чи разом?](https://open.spotify.com/track/7IRfUFRIarTp8a8Yxa83Nl) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Чи разом?](https://open.spotify.com/album/2Sz6c15TjlldLotq4jv3rd) | 2:38 | 2022-06-08 | 2022-10-02 |
 | [Чистый \- OST «Псих»](https://open.spotify.com/track/2Z0OcpA4i1KayJbXn800le) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Чистый \(OST «Псих»\)](https://open.spotify.com/album/6S3SHxve1g8S1v71Vlq3YP) | 3:13 | 2021-03-27\* | 2021-10-03 |
-| [Чорнобрива](https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Чорнобрива](https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx) | 2:13 | 2022-10-16 |  |
+| [Чорнобрива](https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Чорнобрива](https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx) | 2:13 | 2022-10-16 | 2022-10-22 |
 | [Чувствую](https://open.spotify.com/track/6bxulgo5iAC3yK1haIXWhJ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:35 | 2021-12-03 | 2021-12-09 |
 | [Чупа Чупс](https://open.spotify.com/track/5UtiZpBDi7Ikgic4QrhbO5) | [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN), [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Чупа Чупс](https://open.spotify.com/album/0uNDcaG1JjXrknJUKRNtqb) | 2:16 | 2021-12-25 | 2021-12-27 |
 | [Чути гімн](https://open.spotify.com/track/4Yzlz45QgjUKZmN2KrK4AP) | [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Чути гімн](https://open.spotify.com/album/4CDvAEwF29rYx7Jg2bpl22) | 2:28 | 2022-07-30 |  |

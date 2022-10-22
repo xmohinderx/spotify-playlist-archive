@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=rOqqDWfMQSOIkZiMVxQlAw"> Dami Oniru </a>
 
-262 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+264 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [OFFERING](https://open.spotify.com/track/0T0dAf6Psx6CQQs3Zyfvey) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [OFFERING](https://open.spotify.com/album/59Bf0uQvMk3dS9MXlEMQP4) | 2:19 | 2022-03-03 | 2022-03-18 |
 | [OKAY! \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/5UdXcCJfEye6TCwAvUvzgD) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [OKAY! \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/06Rzy0mTJ33m3Wu2lRkMFw) | 4:35 | 2022-02-10 | 2022-03-18 |
 | [Old School Love](https://open.spotify.com/track/3efQODwjIfMi9NAl3p7lTI) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Old School Love](https://open.spotify.com/album/6f2DZKdpDMpENF1n0dFnIF) | 2:51 | 2022-01-20 | 2022-03-12 |
+| [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 | 2022-10-21 |  |
 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 | 2022-03-18 | 2022-04-29 |
 | [Our Favourite Songs](https://open.spotify.com/track/3gnF64qnJIwTXerrp6qnVU) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Our Favourite Songs](https://open.spotify.com/album/2ZWiQbs6xhcg2stGixOQx1) | 3:34 | 2022-07-28 | 2022-09-02 |
 | [OUTSIDE](https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OUTSIDE](https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1) | 2:26 | 2022-07-07 |  |
@@ -254,6 +255,7 @@
 | [Toronto](https://open.spotify.com/track/1qrQS3YWnGIPwYvbIomVdJ) | [Freddy Hayz](https://open.spotify.com/artist/51RsadtO7G3XBK4yNT78bP) | [Toronto](https://open.spotify.com/album/78v5J3Ix7NaMtjDrfIdvZd) | 3:47 | 2022-01-13 | 2022-02-04 |
 | [Toyin Tomato](https://open.spotify.com/track/4M4FJYE3mTKtpvUld3cXJn) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:48 | 2021-10-15 | 2022-02-11 |
 | [Trappin'](https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt) | [Re.decay](https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF), [Tinuke](https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1), [Eze Jackson](https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM) | [Trappin'](https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq) | 3:00 | 2022-05-12 | 2022-05-27 |
+| [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-21 |  |
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-03 | 2022-07-29 |
 | [TSA](https://open.spotify.com/track/6XdOjNrHqh1i0VXnk2lYnK) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [TSA](https://open.spotify.com/album/0D2tnmncRftiOd4gHJPmde) | 3:07 | 2022-08-25 |  |
 | [Tsunami](https://open.spotify.com/track/1ziBSqVJvbSRdMT3yO6hJM) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Jilex Anderson](https://open.spotify.com/artist/4MTpyw7KivYmtoaF1Rv6VR) | [Tsunami](https://open.spotify.com/album/5MiTRyTjTm0AYW0DFqSKP5) | 2:30 | 2022-08-18 |  |

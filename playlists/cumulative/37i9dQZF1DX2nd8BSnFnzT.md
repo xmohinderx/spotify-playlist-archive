@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-232 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+233 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 | 2022-04-08 | 2022-10-01 |
 | [Comigo](https://open.spotify.com/track/7vK7TTDN4gQ4aQchzvqEPg) | [Caian](https://open.spotify.com/artist/7tuQ2Z48JrUw4wZthY8LO9) | [Paixão e outras drogas](https://open.spotify.com/album/6UEIYf0li1qnvIqRBQzLWl) | 2:58 | 2022-01-21 | 2022-04-23 |
 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 | 2022-01-14 |  |
+| [Conflitos](https://open.spotify.com/track/0W1i5vb0qmCgUwd3RPH6VX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Conflitos](https://open.spotify.com/album/3swynHE8l786dCRToj5OwS) | 3:09 | 2022-10-21 |  |
 | [Contramão](https://open.spotify.com/track/13ytqWx0ClTspSuIWsMTYd) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Contramão](https://open.spotify.com/album/2z33uZxRMmV0vve8z8PCQJ) | 2:42 | 2022-10-14 |  |
 | [Curandeiro](https://open.spotify.com/track/3VCx8gNuP1tG4G9UNBTD8w) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Dazaranha 30 Anos](https://open.spotify.com/album/7ooA9s3AbPyL2LhnqMBOaM) | 3:08 | 2022-09-30 |  |
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
@@ -214,7 +215,7 @@
 | [Só Sei Sonhar](https://open.spotify.com/track/7BXnoQfWd5o1r9FpR2CWFJ) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/1fH5R79UA8H7gSGHko4ayZ) | 2:54 | 2022-07-15 | 2022-10-15 |
 | [Só Sei Sonhar](https://open.spotify.com/track/7rvqdkHOXdSqZXaMHctNly) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/05SpB7CONVVtt0VosXk0nh) | 2:54 | 2022-01-14 | 2022-07-29 |
 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 | 2022-01-14 | 2022-07-02 |
-| [Temporal](https://open.spotify.com/track/6UONgsITLnZIHzZEuuPVo0) | [Dkukas](https://open.spotify.com/artist/2QfmJhZmW6Z9m1hIryoAT5) | [Temporal](https://open.spotify.com/album/3HSvPoG3igvbQ4qOTmUIK7) | 2:23 | 2022-09-30 |  |
+| [Temporal](https://open.spotify.com/track/6UONgsITLnZIHzZEuuPVo0) | [Dkukas](https://open.spotify.com/artist/2QfmJhZmW6Z9m1hIryoAT5) | [Temporal](https://open.spotify.com/album/3HSvPoG3igvbQ4qOTmUIK7) | 2:23 | 2022-09-30 | 2022-10-22 |
 | [Tenho](https://open.spotify.com/track/2hsIagU1eyyvJ4clxjn0BX) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Tenho](https://open.spotify.com/album/61IbbRFO2Y1aB2qHkRZS9O) | 2:17 | 2022-08-05 | 2022-08-13 |
 | [The Pretender](https://open.spotify.com/track/4BCaOIprZimDnp4EYbH4Th) | [Nordex](https://open.spotify.com/artist/1pgvtOneo1dhcIp9An2xnC) | [The Pretender](https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ) | 4:28 | 2022-04-15 | 2022-07-02 |
 | [They Wanna Turn Me into a Politician](https://open.spotify.com/track/2GZOCsPD74NaqNOnfMLjfk) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [They Wanna Turn Me into a Politician](https://open.spotify.com/album/00norKuCaNr7z3yNLDS2Ln) | 1:56 | 2022-05-20 | 2022-05-28 |

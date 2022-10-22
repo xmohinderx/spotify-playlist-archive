@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-239 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+240 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Thousand Mile Night](https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf) | 3:55 | 2022-07-22 |  |
 | [Thousand Mile Night](https://open.spotify.com/track/5yeM63cXgGvSN2VrcHbv6x) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night \- Single](https://open.spotify.com/album/3ARIeQHdKOLeGnSqGi1g40) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Trinity Lane](https://open.spotify.com/track/3eMvfFDFlcsXRenA2L3LjK) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Trinity Lane](https://open.spotify.com/album/5uXp0MRb9zy9GGopCca1RD) | 3:53 | 2021-12-17 | 2022-03-12 |
-| [Trouble](https://open.spotify.com/track/7F4ZG0eN04nviV7Ry1kQGo) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/5fUwKOu6jtaJHM9GKjSj9H) | 4:07 | 2021-12-17 |  |
+| [Trouble](https://open.spotify.com/track/4az5pchkq5BEmJTB7fpbxU) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/22osKK5opQGAkqObk6rJx8) | 4:07 | 2022-09-30 |  |
+| [Trouble](https://open.spotify.com/track/7F4ZG0eN04nviV7Ry1kQGo) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/5fUwKOu6jtaJHM9GKjSj9H) | 4:07 | 2021-12-17 | 2022-10-22 |
 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 | 2022-09-23 |  |
 | [Trouble](https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Trouble](https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb) | 2:32 | 2022-09-09 |  |
 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 | 2021-12-17 |  |

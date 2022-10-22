@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 
 > Haz que tu corazón lata más alto con los beats de estos temas de amor EDM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,796 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,807 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 | 57 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
 | 58 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 | 59 | [Never Felt A Love Like This \(with Hook N Sling\) \[feat\. Dotan\]](https://open.spotify.com/track/1mMvahhW2Oz9waG8UTQnI4) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Church](https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU) | 3:35 |
-| 60 | [You Make Me](https://open.spotify.com/track/63bwUT2JAPomuoIITQ2Iiy) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True \(Bonus Edition\)](https://open.spotify.com/album/50oWFJ0mDEeMa74ElsdAp3) | 3:53 |
+| 60 | [Lullaby](https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5) | 2:40 |
 
-Snapshot ID: `MTY2MzcwNDY1MiwwMDAwMDAwMGIyOGRiZGE1ZjVmMzk4ZDNkZTkyNTJhYWZjOTVlNjIx`
+Snapshot ID: `MTY2MzcwNDY1MiwwMDAwMDAwMGYyOTBlZGVlNTM4MjExMmRmY2ZkZDA0NzNiYWE2ZjI0`

@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Luis R Conriquez & Lefty SM en portada.
 
-123 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2tqsxTYWGTldl03rJgOBmK)
+124 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2tqsxTYWGTldl03rJgOBmK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 | 2022-06-01 | 2022-09-01 |
 | [Papá](https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:20 | 2022-08-25 |  |
 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-23 |  |
-| [PE$OS](https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG) | 3:05 | 2022-09-07 |  |
+| [PE$OS](https://open.spotify.com/track/1Sa3MemoARhrFmIttLd6N8) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/6nq2dKQDxHmjzD9sNWFsST) | 3:05 | 2022-09-23 |  |
+| [PE$OS](https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG) | 3:05 | 2022-09-07 | 2022-10-22 |
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2022-06-01 |  |
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2022-06-01 |  |
 | [Que Esta Pasando](https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Que Esta Pasando](https://open.spotify.com/album/6Oe0sKJyLnwFwfKwcbSRZS) | 2:42 | 2022-06-01 | 2022-09-24 |

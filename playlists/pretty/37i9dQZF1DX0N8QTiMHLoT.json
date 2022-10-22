@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 113832,
+  "num_followers": 113909,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMGMwZDdlYzc1YzM4MjM4ZDQ4Zjc1MWQzNTcyNTAzM2E2",
+  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMGU5MzVjZTNhNzIyMDhiOWJmNTE4OGI1YTExZDI3Y2Ex",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Pocket Fulla Nasty",
-        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
-      },
-      "artists": [
-        {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
-        }
-      ],
-      "duration_ms": 265946,
-      "name": "Chump Suey",
-      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Not of This World",
         "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 397640,
       "name": "Cosmic Underground",
       "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Pocket Fulla Nasty",
+        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
+      },
+      "artists": [
+        {
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+        }
+      ],
+      "duration_ms": 265946,
+      "name": "Chump Suey",
+      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -631,6 +631,38 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
+        "url": "https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75"
+      },
+      "artists": [
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        },
+        {
+          "name": "Rogerio Boccato",
+          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+        }
+      ],
+      "duration_ms": 330969,
+      "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
+      "url": "https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Aneurythms",
         "url": "https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR"
       },
@@ -675,38 +707,6 @@
       "duration_ms": 413266,
       "name": "Right After 4",
       "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
-        "url": "https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75"
-      },
-      "artists": [
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Jon Cowherd",
-          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
-        },
-        {
-          "name": "Marcus Gilmore",
-          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
-        },
-        {
-          "name": "Rogerio Boccato",
-          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
-        }
-      ],
-      "duration_ms": 330969,
-      "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
-      "url": "https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "P.A.C. Man",
-      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Trust and Faith",
         "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "P.A.C. Man",
+      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
     }
   ],
   "unique_name": "Bottoms Up",

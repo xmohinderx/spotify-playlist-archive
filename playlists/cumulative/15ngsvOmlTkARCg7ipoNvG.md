@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-841 songs - 19 hr 47 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+842 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Never Quite Alone](https://open.spotify.com/track/0AfkFIotwL0lptGYLMR4kN) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
 | [New Again](https://open.spotify.com/track/62mkqiz3ECsZDvjaHHNHih) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:32 | 2022-01-12 |  |
 | [New Again \- Strings Version](https://open.spotify.com/track/40VW8cKaj9rOyNzESdBAmW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [New Again](https://open.spotify.com/album/1SntDBEMCCmITgSzub9DCJ) | 1:29 | 2022-01-12 |  |
+| [New Life](https://open.spotify.com/track/2jwqiLJRXd5XZgWtwAoyJp) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [New Life](https://open.spotify.com/album/0bBM72Hu2XsZikGisnTizd) | 1:01 | 2022-10-21 |  |
 | [New Perspectives](https://open.spotify.com/track/2IetmvmHpsj4sJmhPREUqf) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:05 | 2022-01-27 |  |
 | [Night Light](https://open.spotify.com/track/2Qq9FnBPkk5Q4y0oSwY5hU) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Eternal Sky](https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX) | 1:00 | 2022-05-17 |  |
 | [Night Light](https://open.spotify.com/track/48EvGZAEDgy6wiZ45NUHuo) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Night Light](https://open.spotify.com/album/1GUxE9kPBISEQoNieBfyKp) | 1:00 | 2022-06-18 |  |

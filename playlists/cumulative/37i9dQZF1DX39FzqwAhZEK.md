@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-301 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+303 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-07-05 |  |
 | [Clear Moon](https://open.spotify.com/track/0yBn4Fr83AtalC3z0d1tAK) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Clear Moon](https://open.spotify.com/album/1blk5UFo6k5s36jesq6d9e) | 2:36 | 2022-07-05 | 2022-07-29 |
 | [Clear Moon](https://open.spotify.com/track/79I0YQTNPOxURZ2eBBUQJk) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Clear Moon](https://open.spotify.com/album/4DWjzIk5c2WgvcqmFIb93r) | 2:36 | 2022-07-05 |  |
+| [Clear Thoughts 963 Hz](https://open.spotify.com/track/6U6bqFochoIv5csr5r98Gk) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Clear Thoughts 963 Hz](https://open.spotify.com/album/4N2Sj7ptvj0cuKxaarrFXk) | 2:30 | 2022-10-21 |  |
 | [Cloud Study](https://open.spotify.com/track/3rAchCb8ZxPuKJVXxQX6ui) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Cloud Study](https://open.spotify.com/album/3Q1VDydFHxITwok0hVfSZT) | 3:10 | 2022-07-05 |  |
 | [Coming to Life](https://open.spotify.com/track/5qykZZrwFwvF1k68WzHXGx) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:03 | 2022-07-05 |  |
 | [Connection](https://open.spotify.com/track/5BDIKKycvDRRpJGG76cg0n) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Connection](https://open.spotify.com/album/4IFgc3WJUTL09xNye07t89) | 2:24 | 2022-07-05 |  |
@@ -89,6 +90,7 @@
 | [Enlightenment](https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:51 | 2022-07-05 |  |
 | [Escape Gravity](https://open.spotify.com/track/02EEnQKOXyFAnNFXNY0WgT) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Escape Gravity](https://open.spotify.com/album/3lqmJ1GGQeMAOEPzkDimlE) | 2:48 | 2022-07-05 |  |
 | [Escape Gravity](https://open.spotify.com/track/6sOKQOdwB7OrxHh4YmUYHK) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Escape Gravity](https://open.spotify.com/album/1ag3CTxTTyb27yZUXs4BXL) | 2:48 | 2022-07-05 | 2022-07-29 |
+| [Ethereal Calm](https://open.spotify.com/track/1r8izlg3TidZ7Pb74EJw3v) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Blanket is Sweet](https://open.spotify.com/album/6l4kIiEPWiNp6FtiHtto2l) | 3:32 | 2022-10-21 |  |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2022-07-05 |  |
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-07-05 |  |
 | [Exhalious Dream](https://open.spotify.com/track/7lNlimXIi5FN9xQIggXIrE) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Exhalious Dream](https://open.spotify.com/album/5Eqr2J9kZaglf5qGZoRAfj) | 2:57 | 2022-07-05 |  |

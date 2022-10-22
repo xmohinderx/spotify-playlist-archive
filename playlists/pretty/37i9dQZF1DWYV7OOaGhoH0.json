@@ -1,29 +1,13 @@
 {
-  "description": "Explore the ever-evolving folk & roots scene. Cover: SYML",
-  "num_followers": 1833519,
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Calder Allen ",
+  "num_followers": 1833604,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDA3OWQ0YWI3YTE1MzAzNjkzOTI4ZWJmOTI5ZDRkZGVk",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDg1Nzc5ZmQ3MTBiZGI0MDM1YWZlZWZlNDc1M2M2MTdm",
   "tracks": [
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Lost Myself",
-        "url": "https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Lost Myself",
-      "url": "https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3"
-    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -41,20 +25,104 @@
       "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
+      },
+      "artists": [
+        {
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Show Me the Way",
+      "url": "https://open.spotify.com/track/71uPeJAESy4ZYB7bN207SU"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Easy On My Eyes",
+        "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Lost Myself",
+        "url": "https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Lost Myself",
+      "url": "https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -91,58 +159,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Northern Attitude",
-        "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Quiet Moon, Wild Sea",
-        "url": "https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 248858,
-      "name": "Quiet Moon, Wild Sea",
-      "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry"
       },
@@ -169,36 +185,36 @@
       "url": "https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Turning Onto You",
-        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Turning Onto You",
-      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR"
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5"
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -215,6 +231,90 @@
       "duration_ms": 372160,
       "name": "Angel Band - Jubilee Version",
       "url": "https://open.spotify.com/track/2phdhdIaCUVJgxuRVP2N18"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Turning Onto You",
+        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Turning Onto You",
+      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Quiet Moon, Wild Sea",
+        "url": "https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 248858,
+      "name": "Quiet Moon, Wild Sea",
+      "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -267,22 +367,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -327,26 +411,6 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Tres Hermanos",
-        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1167,38 +1231,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        }
-      ],
-      "duration_ms": 243641,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Oh To Be That Free",
-        "url": "https://open.spotify.com/album/3NrIThxeU7PTzB0SZWKKNY"
-      },
-      "artists": [
-        {
-          "name": "Michaela Anne",
-          "url": "https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn"
-        }
-      ],
-      "duration_ms": 248252,
-      "name": "Chasing Days",
-      "url": "https://open.spotify.com/track/0wsCoCBjwrMf6ajSFTLu96"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -1583,22 +1615,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
-      },
-      "artists": [
-        {
-          "name": "Calder Allen",
-          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Show Me the Way",
-      "url": "https://open.spotify.com/track/71uPeJAESy4ZYB7bN207SU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 218357,
-      "name": "How to Love",
-      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
     },
     {
       "added_at": "2022-09-30 04:00:00",

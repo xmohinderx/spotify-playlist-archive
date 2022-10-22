@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-65 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
+66 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Clarendon](https://open.spotify.com/track/10ehaQWy6pox3Z6eJTkDni) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Time to Play](https://open.spotify.com/album/58vJz276DffV14zTNZuoU5) | 3:50 | 2021-12-01 |  |
 | [curly](https://open.spotify.com/track/3IqwiPbdJ53pT6es1utnqK) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 4:38 | 2021-12-01 |  |
 | [Dumb People](https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Dumb People](https://open.spotify.com/album/1iEOCeBsOTXhzHALELmghm) | 2:56 | 2021-12-01 | 2022-10-18 |
-| [Dumb People](https://open.spotify.com/track/0feiN1yzvZ0YoisR9E0eJP) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Travels in a Confined Space](https://open.spotify.com/album/6qAc5e14AT7Z8q3xUxTP0q) | 2:56 | 2021-12-01 |  |
+| [Dumb People](https://open.spotify.com/track/0feiN1yzvZ0YoisR9E0eJP) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Travels in a Confined Space](https://open.spotify.com/album/6qAc5e14AT7Z8q3xUxTP0q) | 2:56 | 2021-12-01 | 2022-10-22 |
+| [Dumb People](https://open.spotify.com/track/2IxW3yFjt06I0g1tTLqBgD) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Travels in a Confined Space](https://open.spotify.com/album/5cFixhDPlvQ6IFX1XKyDZ2) | 2:56 | 2021-12-01 |  |
 | [Emily](https://open.spotify.com/track/3gleUGWbYMuPc3RfUA1mKd) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 5:28 | 2021-12-01 |  |
 | [Ethiopian Sunshower](https://open.spotify.com/track/0Qy5s2UYXWSbejiIxsTRtV) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Brian Jackson JID008](https://open.spotify.com/album/4LxaxgNi6hr38oYW1GGYNA) | 3:07 | 2021-12-01 |  |
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/6qv9705UOe3LkFcr1gEXHb) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Kinfolk 2: See the Birds](https://open.spotify.com/album/6zAtsNWsJZb7yutJ6u6Cjb) | 4:01 | 2021-12-01 |  |

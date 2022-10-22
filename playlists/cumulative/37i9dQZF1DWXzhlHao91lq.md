@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-155 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
+156 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Beautiful People Beautiful Problems \(feat\. Stevie Nicks\)](https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:13 | 2022-07-25 |  |
 | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \- Acoustic](https://open.spotify.com/track/2vcDl2SLudnltyDEos3v6E) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \[Acoustic\]](https://open.spotify.com/album/3w21pYIhQWUtUcNfyoYiba) | 2:37 | 2022-05-30 | 2022-08-09 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-29 | 2022-10-14 |
+| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-10-17 |  |
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2022-07-25 |  |
 | [Better with You \- Acoustic](https://open.spotify.com/track/2AARwDC2ylbWF61qXrteHK) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG) | 3:28 | 2022-08-08 | 2022-10-13 |
 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2022-05-30 |  |
@@ -68,7 +69,7 @@
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-05-30 | 2022-07-29 |
 | [I Ain't Perfect](https://open.spotify.com/track/7lD4bwbBCqukPke3Xt1Ncs) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:22 | 2022-07-25 |  |
 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 | 2022-08-08 | 2022-09-06 |
-| [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 | 2022-09-05 |  |
+| [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 | 2022-09-05 | 2022-10-22 |
 | [I Was Alone](https://open.spotify.com/track/2869Nt4e2bG24nOuiEOCb7) | [Hagai Batara](https://open.spotify.com/artist/26SU2uS2zWABOZEs6X8zMi) | [I Was Alone](https://open.spotify.com/album/1yIiUY0DDGERMmLhTFiDl6) | 3:16 | 2022-05-30 | 2022-07-13 |
 | [I'd Better Be On Time](https://open.spotify.com/track/4fJd2X6qUJ8MH31ds7apsI) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [I'd Better Be On Time](https://open.spotify.com/album/1ZImsKF37x5tAFW0gCTbeQ) | 4:16 | 2022-05-30 | 2022-07-29 |
 | [I'll Stay For You](https://open.spotify.com/track/2nQoRAIcwvXgc6FRar5YvM) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J) | [I'll Stay For You](https://open.spotify.com/album/7tqwV9aPYylsnO81lSD4PU) | 3:17 | 2022-05-30 | 2022-07-29 |

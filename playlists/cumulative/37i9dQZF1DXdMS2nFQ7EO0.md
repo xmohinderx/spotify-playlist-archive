@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-128 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
+129 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-05-11 |  |
 | [Knock Me Out](https://open.spotify.com/track/4Mm9eqhyHbKzh8pksjNWIh) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Knock Me Out](https://open.spotify.com/album/1db7cTqZEOVXbJkySsNuzR) | 2:29 | 2022-04-07 | 2022-05-12 |
 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 | 2022-05-23 |  |
-| [La 69 \(Perreo Remix\)](https://open.spotify.com/track/0XunI3sWC1OUliLnOAoDDc) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [La 69 \(Perreo Remix\)](https://open.spotify.com/album/3tnvstkFXFOP72tIp2mIDK) | 2:24 | 2022-05-11 |  |
+| [La 69 \(Perreo Remix\)](https://open.spotify.com/track/0XunI3sWC1OUliLnOAoDDc) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [La 69 \(Perreo Remix\)](https://open.spotify.com/album/3tnvstkFXFOP72tIp2mIDK) | 2:24 | 2022-05-11 | 2022-10-22 |
+| [La 69 \- Perreo Remix](https://open.spotify.com/track/5Xvh2lmGfSNDJqRXp6lLRR) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [La 69 \(Perreo Remix\)](https://open.spotify.com/album/2oURDSZGh00dbaNM9Tr1YO) | 2:24 | 2022-06-03 |  |
 | [Las Niñas](https://open.spotify.com/track/3FirQ6AZVX1lxd8S0VIyZ8) | [Dimelo Yssa](https://open.spotify.com/artist/4Y8NDDstWnqZi2PrwB8dKR) | [Las Niñas](https://open.spotify.com/album/2793FZEEw2WVaYMoYzJXSG) | 3:50 | 2022-05-11 |  |
 | [Lean On](https://open.spotify.com/track/5wldXGLEOoRXxMWJ8rIUWE) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission](https://open.spotify.com/album/2MJamyp1d9MRa3xbtaxAGd) | 2:56 | 2022-04-07 | 2022-05-12 |
 | [Legoo](https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Legoo](https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS) | 2:28 | 2022-04-07 | 2022-05-12 |

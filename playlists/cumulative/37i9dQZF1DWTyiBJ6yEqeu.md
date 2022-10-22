@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-558 songs - 1 day 4 hr 21 min - [published](https://open.spotify.com/playlist/6yanqWEqV76LNBsD06S3Zl)
+559 songs - 1 day 4 hr 23 min - [published](https://open.spotify.com/playlist/6yanqWEqV76LNBsD06S3Zl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [The Ride \- The FifthGuys Remix](https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [The Ride \(The FifthGuys Remix\)](https://open.spotify.com/album/7EurNV3781MD7406Ph86i8) | 2:31 | 2022-03-18 | 2022-07-04 |
 | [The Rumbling \(TV Size\)](https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling \(TV Size\)](https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu) | 1:30 | 2022-01-14 | 2022-01-20 |
 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 | 2021-08-20 | 2022-06-30 |
-| [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 | 2022-04-02 |  |
+| [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 | 2022-04-02 | 2022-10-22 |
 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 | 2022-04-08 | 2022-04-21 |
 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 | 2021-08-20 | 2022-09-04 |
 | [The Woo \(feat\. 50 Cent & Roddy Ricch\)](https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:21 | 2021-08-20 | 2022-01-15 |
@@ -515,6 +515,7 @@
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2022-09-03 | 2022-10-08 |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2021-08-20 | 2022-01-08 |
 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 | 2021-12-09 | 2021-12-23 |
+| [touch grass \(feat\. Yung Gravy\)](https://open.spotify.com/track/4nQIUTM9flNEET2Pwq8DLn) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [touch grass \(feat\. Yung Gravy\)](https://open.spotify.com/album/6rscC4TLB1aVFCCuQBdCaG) | 2:03 | 2022-10-21 |  |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-11-09 | 2022-07-09 |
 | [Trap Anthem](https://open.spotify.com/track/7vryFD8bLmCdmjxl7U60Bs) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem \(Acoustic Version\)](https://open.spotify.com/album/4G2Xr9pSSyEGHXLkFMwyWy) | 2:13 | 2021-12-02 | 2022-02-04 |
 | [TRIBAL HIT](https://open.spotify.com/track/38baA0WZfWLpm3lyyr3IIs) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD \(GLOBE'S CRAZY\)](https://open.spotify.com/album/1hdGVNBoUMGO2QrsEmjRPd) | 3:09 | 2021-08-20 | 2022-04-21 |

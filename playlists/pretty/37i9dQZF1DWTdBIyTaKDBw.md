@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,638 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,689 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 23 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
 | 24 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 |
 | 25 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 |
-| 26 | [How Is It?](https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [How Is It?](https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v) | 3:09 |
-| 27 | [Fairy Of Shampoo](https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD) | [Junggigo Trio](https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL) | [Junggigo Sings Brazil](https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K) | 4:57 |
+| 26 | [Fairy Of Shampoo](https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD) | [Junggigo Trio](https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL) | [Junggigo Sings Brazil](https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K) | 4:57 |
+| 27 | [How Is It?](https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [How Is It?](https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v) | 3:09 |
 | 28 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
 | 29 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 30 | [Love song \(Feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 5:00 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 47 | [Watercolour](https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 4:14 |
 | 48 | [Let's Go \(feat\. DA:ON, Gunjae & H!\)](https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [DA:ON](https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY), [Gunjae](https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [SEOULVIBES, GROCERY](https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX) | 2:51 |
 | 49 | [Our Cinema \#2 \- Dancing](https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#2 \- Dancing](https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC) | 3:30 |
-| 50 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
-| 51 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 |
+| 50 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 |
+| 51 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
 | 52 | [Back Home](https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:48 |
 | 53 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 |
 | 54 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [고양이의 산책](https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [ALL NIGHT](https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7) | 3:28 |
 | 70 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 |
 
-Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMGMwOTk1M2ViOGRiZTM3MjVmYjUwMDhkNjMwYTljZDFm`
+Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMDZlZmMwMzk1Mjc5MGIyYWQ0MjMwNjIyYzczOTAyZTRk`

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 35979,
+  "num_followers": 35987,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMDUxMDFlOTk4MzNjNzI2NDY5MzI4NmIwNzEyZDA4MmY3",
+  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMGU2YTI3ZDZkNjZhMGQ5NjNjMWZjMTk2MWIwMjQxZTU0",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -541,24 +541,20 @@
       "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
+      "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Mel Torme: Swings Shubert Alley",
-        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
       },
       "artists": [
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        },
-        {
-          "name": "The Marty Paich Orchestra",
-          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
         }
       ],
-      "duration_ms": 245800,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
+      "duration_ms": 149560,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -577,20 +573,24 @@
       "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Complete Verve Singles",
-        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+        "name": "Mel Torme: Swings Shubert Alley",
+        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
       },
       "artists": [
         {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
+      "duration_ms": 245800,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "The Very Best Of Jeff Lorber",
@@ -831,6 +815,22 @@
       "duration_ms": 262146,
       "name": "Reverend Green",
       "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "You Gotta Pay The Band",
-        "url": "https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "Brother? Can You Spare A Dime?",
-      "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
@@ -1147,6 +1131,22 @@
       "duration_ms": 209146,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "You Gotta Pay The Band",
+        "url": "https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "Brother? Can You Spare A Dime?",
+      "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Individualism Of Gil Evans",
-        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
-      },
-      "artists": [
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 599333,
-      "name": "The Barbara Song",
-      "url": "https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Empathy",
@@ -1235,6 +1219,22 @@
       "duration_ms": 270666,
       "name": "Let's Go Back To The Waltz",
       "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Individualism Of Gil Evans",
+        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 599333,
+      "name": "The Barbara Song",
+      "url": "https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Birks Works: The Verve Big-Band Sessions",
@@ -1555,6 +1539,22 @@
       "duration_ms": 175800,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Lonely One",
-        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Lullaby In Rhythm",
-      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
         "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 373800,
       "name": "Bashin'",
       "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Lullaby In Rhythm",
+      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1691,30 +1691,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Complete Verve Singles",
-        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        },
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "Grady Tate",
-          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "I'll Close My Eyes",
-      "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Audience With Betty Carter (Live)",
         "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
       },
@@ -1743,6 +1719,30 @@
       "duration_ms": 159733,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "Grady Tate",
+          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
     }
   ],
   "unique_name": "Legendary Labels: Verve Records",

@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8"
+      },
+      "artists": [
+        {
+          "name": "NuHussel Orchestra",
+          "url": "https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302040,
+      "name": "Cptn Future",
+      "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
+    },
+    {
+      "album": {
         "name": "Cygnus",
         "url": "https://open.spotify.com/album/1D3iPGr8efICqZvw0iGDzX"
       },
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 259200,
       "name": "Seven",
       "url": "https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR"

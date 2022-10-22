@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-134 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+135 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [For Hawi](https://open.spotify.com/track/0sa9IqP77NArCvVe1MkdBp) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Sky Up Above](https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0) | 6:34 | 2021-10-15 | 2022-08-26 |
 | [Funk To Black](https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [FUNK TO BLACK](https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki) | 2:23 | 2022-04-25 | 2022-06-18 |
 | [Gangverment](https://open.spotify.com/track/2sEswtS0JbRU8WnjciNz8I) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Gangverment](https://open.spotify.com/album/2izp2Z7ZsXy5Ks3A6ApDUg) | 2:06 | 2022-09-22 |  |
-| [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 | 2022-01-27 |  |
+| [Genuine](https://open.spotify.com/track/1ERuwIudqIjDkwDBKADD8V) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/5cI5qKNAllqufhbyybTvC6) | [Genuine](https://open.spotify.com/album/3B7RxI6smax8IV9JJQS2SI) | 2:56 | 2022-01-27 |  |
+| [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 | 2022-01-27 | 2022-10-22 |
 | [Going Down](https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [It's Kinda Fun Outside](https://open.spotify.com/album/0DRFoYbyCxS0cnA8kSMtd3) | 2:10 | 2022-02-24 | 2022-09-09 |
 | [Good Time](https://open.spotify.com/track/2KPLkdqRCFGEUTjrgsZZ9T) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Good Time](https://open.spotify.com/album/7KnMVXkbi86J86daq153mC) | 3:00 | 2021-10-15 | 2022-07-30 |
 | [Habits](https://open.spotify.com/track/7FJ2UfG6sd99PbZyJ9hZEf) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [TAHIR](https://open.spotify.com/artist/4tF3ubs3W47YHhwfBcbrvZ) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:45 | 2021-10-15 | 2022-03-18 |

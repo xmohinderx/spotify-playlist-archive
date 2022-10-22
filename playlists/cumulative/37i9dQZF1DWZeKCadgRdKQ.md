@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-486 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+488 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Drifting](https://open.spotify.com/track/2PlPzw2QFgaGfGNxf6yxf4) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Drifting](https://open.spotify.com/album/7enHhnx6XPGlobGI8SliUQ) | 2:03 | 2019-06-27 |  |
 | [Driggs AVE 4 am](https://open.spotify.com/track/5jw5QimdcmZRgpQ9VLpyzR) | [Brooklyn Comatose](https://open.spotify.com/artist/5yMnLF4N5tLLU19c7TxHIv) | [Driggs AVE 4 am](https://open.spotify.com/album/2ngjCR9XbEisE74CRHfBMT) | 3:13 | 2019-06-19\* | 2020-01-09 |
 | [Eagle](https://open.spotify.com/track/3nINt8VGibM3vHcR7pNhTa) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Eagle](https://open.spotify.com/album/1HdL2jA9bc5AxycCYZosh0) | 3:22 | 2019-06-19\* | 2020-01-09 |
+| [Echoes In The Night](https://open.spotify.com/track/0Y12GuKnIa7ObO8s6E0D9X) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Wild Flowers](https://open.spotify.com/album/1ZC2UZU31y5NrgkCiAkUUO) | 2:58 | 2022-10-21 |  |
 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 | 2022-05-25 |  |
 | [Eidolon](https://open.spotify.com/track/6KuzTwyczjBp1C4f60Y5ID) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Eidolon](https://open.spotify.com/album/3Afi3vkyW6PcheDK8O5lsx) | 4:17 | 2020-04-13 | 2022-03-05 |
 | [Eleven Shades](https://open.spotify.com/track/2sAg6ll1Vd1BxR8YD0lkRg) | [Lunaire](https://open.spotify.com/artist/1sC8iJ3MHkk4VMunZm8jbc) | [Eleven Shades](https://open.spotify.com/album/11t9vBS4aWC6F1QmucdeC1) | 3:36 | 2020-10-08 |  |
@@ -422,6 +423,7 @@
 | [The Slide](https://open.spotify.com/track/6emQJysJAD5oseT6p6XlV2) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [The Slide](https://open.spotify.com/album/54opgsbtf5sLNT2EKBNxrY) | 2:54 | 2019-06-19\* | 2021-09-14 |
 | [The Stars In Spring](https://open.spotify.com/track/71TryCkZDhMNE79DwML9P9) | [Epic45](https://open.spotify.com/artist/0E76QDtyHZgw7i5l7mdn5K) | [May Your Heart Be The Map](https://open.spotify.com/album/2RfRZb7xNaDvQbMujAtmzd) | 4:16 | 2019-05-26\* | 2019-06-19 |
 | [The Times Are Tired](https://open.spotify.com/track/1c6aKOdOoR1TFqn0JTyc4R) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 4:02 | 2020-05-18 | 2021-09-21 |
+| [The Top Brink](https://open.spotify.com/track/6GgnlnCWIw7QsIBFewAnuE) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [The Top Brink](https://open.spotify.com/album/3vpdymmAk29UfzguJRzxoe) | 3:15 | 2022-10-21 |  |
 | [The Walk Of Life](https://open.spotify.com/track/51qBplHaV8zjoScf1QhJJi) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [The Walk of Life](https://open.spotify.com/album/0JOP1jOI2WN56BhdbF4Fjr) | 2:46 | 2019-06-19\* | 2020-08-07 |
 | [The Watchmaker](https://open.spotify.com/track/1dw7nqppFG1gJeDvdkPLdv) | [Gendrial](https://open.spotify.com/artist/44MlmhbFGLUIUPEqEgcLaL) | [The Watchmaker](https://open.spotify.com/album/5vDelAQoeJA42DwzDgWDX8) | 2:08 | 2019-06-27 | 2021-04-02 |
 | [The Whispering Caves](https://open.spotify.com/track/1J1m1KU9TUVPu9U9WT70BK) | [Those Who Ride With Giants](https://open.spotify.com/artist/0pKhuVfVRd073xGqEdJlUP) | [Those Who Ride With Giants \[Deluxe\]](https://open.spotify.com/album/4LVKCunmDjz4vpesIrlI6H) | 5:58 | 2019-05-26\* | 2019-06-19 |

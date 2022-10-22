@@ -1,18 +1,50 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 59561,
+  "description": "The best newly released songs of the week. Cover: Taylor Swift",
+  "num_followers": 59606,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjI4MTYwMCwwMDAwMDAwMGNiMjk0NTQ5ODBiYThhOTk1NzM1MDFhMmM0MmNhNjll",
+  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDI2MTkxOGFjYTNmMzVkOGM4ZTVjZDExNjczNjdlZDMx",
   "tracks": [
     {
       "added_at": "2022-10-20 16:00:00",
       "album": {
-        "name": "I Ain't Quite Where I Think I Am",
-        "url": "https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-10-20 16:00:00",
+      "album": {
+        "name": "Boys Like You",
+        "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
+    },
+    {
+      "added_at": "2022-10-20 16:00:00",
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
       "artists": [
         {
@@ -22,7 +54,7 @@
       ],
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
-      "url": "https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y"
+      "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
     },
     {
       "added_at": "2022-10-20 16:00:00",
@@ -55,6 +87,26 @@
       "duration_ms": 114890,
       "name": "Ruaidah",
       "url": "https://open.spotify.com/track/3LUzi4HikdQ16hs9OP0YeV"
+    },
+    {
+      "added_at": "2022-10-20 16:00:00",
+      "album": {
+        "name": "ADUH",
+        "url": "https://open.spotify.com/album/0BJUwniLrA3t84uPK1FmLa"
+      },
+      "artists": [
+        {
+          "name": "Douglas Lim",
+          "url": "https://open.spotify.com/artist/0oSvqxTAzvJEhaIcWv4xhM"
+        },
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        }
+      ],
+      "duration_ms": 147777,
+      "name": "ADUH",
+      "url": "https://open.spotify.com/track/2bclWIxAmQ1rZVBLpPME7D"
     },
     {
       "added_at": "2022-10-20 16:00:00",
@@ -212,8 +264,8 @@
           "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Elley Duhe",
-          "url": "https://open.spotify.com/artist/4VqcTx4dNkID7EqdPCjumJ"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
       "duration_ms": 173093,
@@ -251,6 +303,22 @@
       "duration_ms": 193853,
       "name": "FASHION",
       "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+    },
+    {
+      "added_at": "2022-10-20 16:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
       "added_at": "2022-10-20 16:00:00",
@@ -343,6 +411,22 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2022-10-20 16:00:00",
+      "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
     },
     {
       "added_at": "2022-10-20 16:00:00",
@@ -463,6 +547,22 @@
     {
       "added_at": "2022-10-20 16:00:00",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "added_at": "2022-10-20 16:00:00",
+      "album": {
         "name": "Wait in Vain",
         "url": "https://open.spotify.com/album/4ScxGlw8LvE1errDPXRirQ"
       },
@@ -511,6 +611,22 @@
       "duration_ms": 149518,
       "name": "Karma",
       "url": "https://open.spotify.com/track/26IQcxNMKmGiUbJtNiRrZ7"
+    },
+    {
+      "added_at": "2022-10-20 16:00:00",
+      "album": {
+        "name": "2 AM",
+        "url": "https://open.spotify.com/album/4zh2bW9JufjawyuHocxmDj"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 133988,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/1Agl3YCXpBcPspuXobCB2d"
     },
     {
       "added_at": "2022-10-20 16:00:00",
@@ -927,8 +1043,8 @@
     {
       "added_at": "2022-10-20 16:00:00",
       "album": {
-        "name": "Gone (Da Da Da)",
-        "url": "https://open.spotify.com/album/75wRhQ9XRuhG4efEaWyHQN"
+        "name": "Gone (Da da Da)",
+        "url": "https://open.spotify.com/album/23ByeCiWrIBymzs7G05gh5"
       },
       "artists": [
         {
@@ -941,8 +1057,8 @@
         }
       ],
       "duration_ms": 163880,
-      "name": "Gone (Da Da Da)",
-      "url": "https://open.spotify.com/track/07vuu2dIJ4e0WVsXafOP1l"
+      "name": "Gone (Da da Da)",
+      "url": "https://open.spotify.com/track/4TPn8ZBClUUWlU2ZP7DXa6"
     },
     {
       "added_at": "2022-10-20 16:00:00",

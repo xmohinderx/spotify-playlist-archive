@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The perfect songs for the perfect day.",
+  "description": "Spencer Crandall is taking over to celebrate YOUR forever and the release of his new album Western! ",
   "name": "Country Wedding",
   "published_playlist_ids": [
     "2tqwvqLztEVOvwl4EXM922"
@@ -459,6 +459,24 @@
       "duration_ms": 212640,
       "name": "Forever and Ever, Amen",
       "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
+    },
+    {
+      "album": {
+        "name": "Found It In You",
+        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183444,
+      "name": "Found It In You",
+      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
     },
     {
       "album": {
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 195459,
       "name": "Made",
       "url": "https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b"
@@ -1531,6 +1549,60 @@
       "duration_ms": 173533,
       "name": "Never Til Now",
       "url": "https://open.spotify.com/track/1Qkrd9bYIgyTbZrYgDWiBe"
+    },
+    {
+      "album": {
+        "name": "Carry on, San Vicente",
+        "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262079,
+      "name": "Nothing Like You",
+      "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
+    },
+    {
+      "album": {
+        "name": "Love, Pain & The Whole Crazy Thing",
+        "url": "https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353813,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/10TLpTjjLKcpBN6kayS0mI"
+    },
+    {
+      "album": {
+        "name": "Western",
+        "url": "https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199605,
+      "name": "Our Forever",
+      "url": "https://open.spotify.com/track/3fq5h4eWQNP3fBqXZRyC5F"
     },
     {
       "album": {
@@ -2107,6 +2179,42 @@
       "duration_ms": 185160,
       "name": "Trying On Rings",
       "url": "https://open.spotify.com/track/6wQD4iISZv9AGTumgB6MMl"
+    },
+    {
+      "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236226,
+      "name": "Wanna Be That Song",
+      "url": "https://open.spotify.com/track/1XazlqB4YAtvouCmJPWXlM"
     },
     {
       "album": {

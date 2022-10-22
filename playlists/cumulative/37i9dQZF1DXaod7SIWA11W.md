@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Tasha Cobbs Leonard
 
-148 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
+149 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Hit My Line](https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Hit My Line](https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5) | 2:27 | 2022-07-17 | 2022-09-03 |
 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 | 2022-06-01 |  |
 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 | 2022-02-18 | 2022-06-01 |
-| [Holy Essence](https://open.spotify.com/track/6B486EBxBsVHvK3ej4wuiX) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Amen](https://open.spotify.com/album/0StVTQHd3IOeTswapad1i7) | 4:30 | 2022-09-30 |  |
+| [Holy Essence](https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Amen](https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE) | 4:30 | 2022-09-30 |  |
+| [Holy Essence](https://open.spotify.com/track/6B486EBxBsVHvK3ej4wuiX) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Amen](https://open.spotify.com/album/0StVTQHd3IOeTswapad1i7) | 4:30 | 2022-09-30 | 2022-10-22 |
 | [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 | 2022-09-03 |  |
 | [Holy Ground](https://open.spotify.com/track/58xUB4HoZJmcUsc7h4xy4I) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [The Word](https://open.spotify.com/album/3dQX4vUMkTnsUxWee3rZ4n) | 3:37 | 2022-07-17 |  |
 | [How It Feels](https://open.spotify.com/track/7soNMxKiqVOma0DpcsISNx) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [How It Feels](https://open.spotify.com/album/6RHxWNgkrehuZfhCy6knUs) | 3:19 | 2022-02-18 | 2022-06-01 |

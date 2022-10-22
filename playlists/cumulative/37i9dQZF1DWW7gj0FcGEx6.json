@@ -3117,6 +3117,24 @@
     {
       "album": {
         "name": "Edicius (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3FmuIHK69zVRiQYVfnnYIv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127344,
+      "name": "Thrinos",
+      "url": "https://open.spotify.com/track/1BLhw0Jg5xhXxqsuk32IMN"
+    },
+    {
+      "album": {
+        "name": "Edicius (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ABYH0nH2gLfbibEAK8dvq"
       },
       "artists": [
@@ -3127,7 +3145,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 127344,
       "name": "Thrinos",
       "url": "https://open.spotify.com/track/3Ma4JDl9bU1UInwwCiVIfU"

@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-318 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+319 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Check Your DMs](https://open.spotify.com/track/2yT3iJdv7WakLKU5akN1eu) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Check Your DMs](https://open.spotify.com/album/5249Jvjz41Hnzb0oErH15Z) | 3:17 | 2022-02-18 | 2022-07-29 |
 | [Chemicals](https://open.spotify.com/track/4cJ2FwivZpSQ5Tx98w1hgK) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Chemicals](https://open.spotify.com/album/57VWVqpSTU1u7fuOEeS20p) | 3:02 | 2021-09-03 | 2022-07-27 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-01-21 | 2022-10-13 |
+| [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 | 2022-01-21 |  |
 | [Citrus](https://open.spotify.com/track/1q6vmLQcqhMfvzWmQYxl1K) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Citrus](https://open.spotify.com/album/04GX57XcprIl7mxLyoLXDm) | 3:38 | 2021-04-30 | 2022-05-23 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2022-09-06 |
 | [Coffee](https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Coffee](https://open.spotify.com/album/3lwy2PkY9ySC5xj0teYHiH) | 2:56 | 2021-09-21 | 2022-07-21 |
@@ -208,7 +209,7 @@
 | [Our Way](https://open.spotify.com/track/2WwxprzPDdUqmUF8dcHGSI) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Our Way](https://open.spotify.com/album/2xfOOS2fMm3BQSpnSHKESw) | 3:24 | 2021-05-14 | 2022-05-18 |
 | [Out Of Love \- Single Version](https://open.spotify.com/track/1zTLGwLbuOJeTMPsknMNDc) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Out Of Love](https://open.spotify.com/album/4P5gCGasm3kNIop9UKG53e) | 3:22 | 2020-11-13 | 2022-03-23 |
 | [Out of My Hands](https://open.spotify.com/track/1neZaShtAp5G9SzhzreehI) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:35 | 2022-02-25 | 2022-07-26 |
-| [Overthinking](https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Overthinking](https://open.spotify.com/album/2SLw9BV4zJ2wRVKOPVYBDm) | 4:01 | 2021-11-19 |  |
+| [Overthinking](https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Overthinking](https://open.spotify.com/album/2SLw9BV4zJ2wRVKOPVYBDm) | 4:01 | 2021-11-19 | 2022-10-22 |
 | [Paper Cuts](https://open.spotify.com/track/0YQNTxIYrILQE7B8QP49f3) | [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [Paper Cuts](https://open.spotify.com/album/66BWezwWFBCJfJMd8hnLWC) | 3:34 | 2020-11-13 | 2022-03-21 |
 | [Peach](https://open.spotify.com/track/0gM8QGo4unf0k2nSptufIz) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [Peach](https://open.spotify.com/album/3ENjTpcPStF3oUeaoS4so8) | 2:40 | 2021-09-21 | 2022-07-29 |
 | [Peacockin'](https://open.spotify.com/track/5AewSgNZjt2ZrLcmKfS0PR) | [Xperience](https://open.spotify.com/artist/0I9ypY8cPMh1a3N3Yra40T) | [Peacockin'](https://open.spotify.com/album/6WnZDT94BC6W89jE552qoN) | 3:37 | 2021-09-21 | 2022-04-19 |

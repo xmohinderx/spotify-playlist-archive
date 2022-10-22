@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,203 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,247 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 34 | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/album/1zXR7PaPj9fKIOC1XAXb2o) | 3:28 |
 | 35 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
 | 36 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
-| 37 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
-| 38 | [Life Is Everything](https://open.spotify.com/track/6iCfgbzPaftZ61hybTBVWJ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Answele](https://open.spotify.com/artist/4BNLKMUYLjGRqScTT38xvA) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:33 |
+| 37 | [Life Is Everything](https://open.spotify.com/track/6iCfgbzPaftZ61hybTBVWJ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Answele](https://open.spotify.com/artist/4BNLKMUYLjGRqScTT38xvA) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:33 |
+| 38 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
 | 39 | [La famille](https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [La famille](https://open.spotify.com/album/0BJBR7bKD0h5vRTX6nE1Jd) | 3:41 |
 | 40 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 41 | [Honey \(feat\. Hollie Cook\)](https://open.spotify.com/track/1mXRyHsVvA3EVIRMcFPiuC) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Down to Earth](https://open.spotify.com/album/1ZILnlUmwWbgFRyQMc1bj6) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Lots Of Sign](https://open.spotify.com/track/4RNgiFBdRT9e8NRLoNdlwu) | [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Lots Of Sign](https://open.spotify.com/album/6svqHHx9tpGobba8ZBlxR4) | 3:47 |
 | 50 | [Country For Sale](https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Country For Sale](https://open.spotify.com/album/3XuNfGRXqZu5Io2clP5RUd) | 4:00 |
 
-Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMDlhZjY3YTFlYzFhNzlmMjU1ZDZhMTcyM2E0NDU0MTc4`
+Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMDFiMThhYzViZTA0YzAyNzc4ZDU5ODllNTViMThjYzEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,705 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,718 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 38 | [Bitterness](https://open.spotify.com/track/78bmUqAUwZyocVG2vHFfSm) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B) | [Holy Palm](https://open.spotify.com/album/67WZCZhqrzUIOMeyRfhkjy) | 3:56 |
 | 39 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 |
 | 40 | [Home Is Where the Music is](https://open.spotify.com/track/2BILRiKI5C4zAjLPDWqDkS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:32 |
-| 41 | [A Star Without Guidance](https://open.spotify.com/track/41DqBlrzmldPvR7Cg3f39A) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Unabled Form](https://open.spotify.com/album/7D4A2BboC3hbBQvWUxoboa) | 2:49 |
+| 41 | [A Star Without Guidance](https://open.spotify.com/track/19Signu1EsxSA6FI62yas5) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Unabled Form](https://open.spotify.com/album/2foj1eMmOt3TQ9dyhz1qcQ) | 2:49 |
 | 42 | [I Get Lit \(cause if not I think of you\)](https://open.spotify.com/track/4rF1IhOJnxVgf0EP3sHIaB) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [I Get Lit \(cause if not I think of you\)](https://open.spotify.com/album/3aAteCgMLGO2hFcG0Gmhtt) | 3:15 |
 | 43 | [Uncle](https://open.spotify.com/track/1fU9dTU5eOXuFtdyT1H044) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE) | 2:29 |
 | 44 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMGY5NzJhODUxYmYyZjY1Y2NlNjhjODA0NjEzOTNiMzRi`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDAyYmI4ZDg1ZWZhZTJmZWI1ODIyMGM1ZjVmOTZmMWM1`

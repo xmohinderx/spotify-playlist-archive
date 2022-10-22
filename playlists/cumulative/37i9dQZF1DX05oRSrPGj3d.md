@@ -4,7 +4,7 @@
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.
 
-91 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
+92 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Noise](https://open.spotify.com/track/0XgbVlxJfHKLcnDSdf5774) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:09 | 2021-12-23 |  |
 | [North Dakota](https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Joshua Judges Ruth](https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB) | 5:42 | 2021-12-23 |  |
 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 | 2021-12-23 |  |
+| [Ragged Old Truck \(feat\. Joshua Hedley\)](https://open.spotify.com/track/1iJ7Yi9Nx1F74WSHhNk38x) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Ragged Old Truck](https://open.spotify.com/album/0huPK5t9hSCURDDBEk935f) | 4:13 | 2022-10-21 |  |
 | [Record High](https://open.spotify.com/track/063e0QRQ1rcVWDuxItD8F7) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Record High](https://open.spotify.com/album/0YORQmcUIWQ0tY8qUXryEg) | 3:05 | 2022-02-18 |  |
 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 | 2021-12-23 |  |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2021-12-23 |  |

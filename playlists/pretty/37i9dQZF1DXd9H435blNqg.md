@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,630 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,711 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 16 | [Tell Your Mother](https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m) | [Dr JOE](https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y) | [Tell Your Mother](https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu) | 3:34 |
 | 17 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 3:23 |
 | 18 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 |
-| 19 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 |
-| 20 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 |
+| 19 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 |
+| 20 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 |
 | 21 | [Dog Days](https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB) | [Dog Days](https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY) | 4:08 |
 | 22 | [In the Middle](https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX) | 3:34 |
 | 23 | [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 |
 | 24 | [Good So Bad](https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Eric Tessmer 2](https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD) | 4:09 |
-| 25 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 |
-| 26 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 |
+| 25 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 |
+| 26 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 |
 | 27 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 |
 | 28 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
 | 29 | [Wishing Well](https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Moonshine Blue](https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw) | 2:48 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 35 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 36 | [Homemade Disaster](https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1) | 3:14 |
 | 37 | [Downtown](https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Downtown](https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5) | 3:32 |
-| 38 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 |
-| 39 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
-| 40 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 |
+| 38 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 |
+| 39 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 |
+| 40 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
 | 41 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 |
-| 42 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 |
+| 42 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 |
 | 43 | [Chocolate Samurai](https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Chocolate Samurai](https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX) | 4:55 |
 | 44 | [Can't Nobody Stop Us](https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel) | 3:14 |
 | 45 | [Don't Say Goodbye](https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 49 | [Searching for Captain Save a Hoe](https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:45 |
 | 50 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMDlmYzY5MGNmZjJmNDQzNzUxOTRiMTViYjAxZTEwMjUw`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGNjZjVkNzM1ZTJiYjI4Y2RkYzZiOGExODU0MTg0OTlj`

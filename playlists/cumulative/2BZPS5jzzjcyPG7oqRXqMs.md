@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-163 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+164 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,5 +171,6 @@
 | [YOU](https://open.spotify.com/track/2Csxc3KRQIQvZZse0Mdu5O) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [YOU](https://open.spotify.com/album/24BVyQpCuwSATtq4oBJoON) | 4:05 | 2022-02-17 | 2022-08-27 |
 | [You](https://open.spotify.com/track/5Hi0fGAj0HPQtjkMwnlQ1u) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [You](https://open.spotify.com/album/1sq30FcNaSXJ0xMFPx7joK) | 3:00 | 2022-02-17 | 2022-08-27 |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-08-05 |  |
+| [Your Love](https://open.spotify.com/track/096fweRzUBsBV5R8Nsj63i) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Your Love](https://open.spotify.com/album/2QDPjDIkTghzpQffGBgZHB) | 2:38 | 2022-10-21 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

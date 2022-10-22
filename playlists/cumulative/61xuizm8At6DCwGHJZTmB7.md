@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-207 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+209 songs - 19 hr 40 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Immigrant's Song](https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Confessio \- Irish American Roots](https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS) | 4:08 | 2022-03-11 | 2022-04-05 |
 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 | 2022-04-05 | 2022-04-09 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2022-04-05 |  |
+| [In The Mighty Name](https://open.spotify.com/track/7zh4MKqplRyiG5s3nK6a6g) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R), [Rudy Villarreal](https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2) | [In The Mighty Name](https://open.spotify.com/album/67GOpBBrbPkSnz7LHQBMXW) | 7:50 | 2022-10-21 |  |
 | [In The Name](https://open.spotify.com/track/5plvPxGyn4ZQpCdaMloPSi) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Whatever May Come \(Deluxe\)](https://open.spotify.com/album/1ub4VbbnapiajjUCskwGLe) | 3:39 | 2022-02-17 |  |
 | [In Your Eyes](https://open.spotify.com/track/1mDuP7qIDNlE4CKJhotWyl) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [In Your Eyes](https://open.spotify.com/album/7woBjeGePAa8gugsNrDCqQ) | 4:44 | 2022-04-20 |  |
 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 | 2022-03-18 | 2022-04-09 |
@@ -150,6 +151,7 @@
 | [On Jordan's Stormy Banks](https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [On Jordan's Stormy Banks](https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E) | 4:36 | 2022-07-13 | 2022-09-25 |
 | [On Repeat](https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [On Repeat](https://open.spotify.com/album/2unrWe1Pnq59gnq35fhYfC) | 4:31 | 2022-02-17 | 2022-04-02 |
 | [On The Altar](https://open.spotify.com/track/70wjLmLNTZgCuzAOsTrodn) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [On The Altar](https://open.spotify.com/album/5YHTuvFPBU4cOKvkgqxJAt) | 8:56 | 2022-02-17 | 2022-07-14 |
+| [Only Jesus](https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Only Jesus](https://open.spotify.com/album/3UnE167OVsZRrpookBftI5) | 10:24 | 2022-10-21 |  |
 | [Only You Are \- Live](https://open.spotify.com/track/0H4Xz9DZnvzTMtM52DQBhS) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Zion Rempel](https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop), [Justice Couch](https://open.spotify.com/artist/6H9cTjPuW64PRB8qghJx3p) | [Say It Again \(Live\)](https://open.spotify.com/album/4gJtEz4RnbYPipW6Exk9tU) | 6:38 | 2022-09-23 |  |
 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 | 2022-05-27 | 2022-09-30 |
 | [Promises](https://open.spotify.com/track/3wkcyREQrVVDOIUjx1eZ1W) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Promises](https://open.spotify.com/album/0Aq2RVdHV4pzxDTNi3UP7b) | 4:47 | 2022-02-17 |  |

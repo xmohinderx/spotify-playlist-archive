@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-119 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+120 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 | 2022-06-03 |  |
 | [Inertia](https://open.spotify.com/track/6kcysA1uaHhFBv9vu1Lt3f) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg), [Made of Oak](https://open.spotify.com/artist/6dWVt38ueCw46cGnWDbTl8) | [Inertia](https://open.spotify.com/album/4iM8Xi48cQyUyizWfoGb1I) | 3:32 | 2022-07-08 | 2022-07-29 |
 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 | 2022-06-03 |  |
-| [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-08 |  |
+| [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-08 | 2022-10-22 |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-17 |  |
 | [Kilombito Mal \(feat\. Antonia Montero\)](https://open.spotify.com/track/4KEyvTU5LmxxyXw08bhnJ1) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Kilombito Mal](https://open.spotify.com/album/5cuo25ITqxcBFV4VxkUcrP) | 8:19 | 2022-06-03 | 2022-07-29 |
 | [La Nariz Rosada](https://open.spotify.com/track/3do6W1ZZXTJJKtlykfJygL) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [DJ Mara](https://open.spotify.com/artist/1OUuxQNvF1uRYOtLgv9Ood) | [La Nariz Rosada](https://open.spotify.com/album/2tSCpX7cYOsbZc09ABcBVt) | 4:40 | 2022-08-26 |  |
@@ -122,6 +122,7 @@
 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 | 2022-09-16 |  |
 | [Troll](https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG) | [Lunar EP](https://open.spotify.com/album/3u0oUHmJjfBn9pmbsulv3L) | 7:42 | 2022-06-03 | 2022-07-27 |
 | [Tunnel](https://open.spotify.com/track/0zi1coACnVRJskyFHyLQje) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Ride On EP & Mancini Remix](https://open.spotify.com/album/4wZKnCELfrXj676lyK8GAl) | 5:53 | 2022-06-03 | 2022-07-27 |
+| [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 | 2022-10-12 |  |
 | [We Bring It](https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [We Bring It](https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y) | 6:08 | 2022-09-16 |  |
 | [Whispers In The Wind](https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Whispers In The Wind](https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f) | 6:08 | 2022-06-03 |  |
 | [Won't Stop Now Ft\. Diddy \- Andrea Oliva & Black Circle Remix](https://open.spotify.com/track/2RcogvIEmlk7DoI1iDrySs) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Won't Stop Now](https://open.spotify.com/album/0eLnugOAUou9oEHIsGWpDn) | 6:45 | 2022-08-26 |  |

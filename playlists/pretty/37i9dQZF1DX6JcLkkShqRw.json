@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj.",
-  "num_followers": 272901,
+  "num_followers": 273167,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NDcxMywwMDAwMDAwMDljNzNmMDAzN2E0ODc0NTk1NzAzZWM0MTUwYTM5OTFj",
+  "snapshot_id": "MTY2NTc1NDcxMywwMDAwMDAwMDQ3Mjk1MTQxZmFkNGM1MGY3YmRhNjE5ZmM1MmU5MWI4",
   "tracks": [
     {
       "added_at": "2022-10-06 15:57:15",
@@ -525,6 +525,26 @@
       "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
     },
     {
+      "added_at": "2022-10-07 13:47:33",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+    },
+    {
       "added_at": "2022-10-06 15:57:15",
       "album": {
         "name": "DISCOTEKA",
@@ -563,26 +583,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-10-07 13:47:33",
-      "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -670,6 +670,10 @@
         {
           "name": "Martinwhite",
           "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Erreflexx",
+          "url": "https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU"
         }
       ],
       "duration_ms": 119106,
@@ -693,7 +697,7 @@
       "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
     },
     {
-      "added_at": "2022-10-21 01:40:53",
+      "added_at": "2022-10-22 01:46:44",
       "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
@@ -765,23 +769,7 @@
       "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
     },
     {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
-    },
-    {
-      "added_at": "2022-10-21 01:40:53",
+      "added_at": "2022-10-22 01:46:44",
       "album": {
         "name": "Baila para Mi",
         "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
@@ -799,22 +787,18 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 243500,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
+      "duration_ms": 204003,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -839,6 +823,26 @@
       "duration_ms": 167340,
       "name": "Pintao",
       "url": "https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -951,6 +955,22 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
         "name": "Flotao",
         "url": "https://open.spotify.com/album/426a5rPIXnkvHG9il06TPO"
       },
@@ -983,22 +1003,6 @@
       "duration_ms": 337021,
       "name": "Flotao",
       "url": "https://open.spotify.com/track/0HsI8dYRVnVGpzppNThv1e"
-    },
-    {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -1173,6 +1177,22 @@
       "url": "https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc"
     },
     {
+      "added_at": "2022-10-22 01:46:44",
+      "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 207908,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
+    },
+    {
       "added_at": "2022-10-06 15:57:15",
       "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
@@ -1199,6 +1219,26 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -1231,44 +1271,8 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
-    },
-    {
-      "added_at": "2022-10-21 01:40:53",
-      "album": {
-        "name": "Parcera",
-        "url": "https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 207908,
-      "name": "Parcera",
-      "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
-    },
-    {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
-        "name": "Killer Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8"
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
       },
       "artists": [
         {
@@ -1276,13 +1280,13 @@
           "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         },
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 160180,
-      "name": "Killer Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1"
+      "duration_ms": 190928,
+      "name": "Mala M\u00eda",
+      "url": "https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -1317,26 +1321,6 @@
       "url": "https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID"
     },
     {
-      "added_at": "2022-10-21 01:40:53",
-      "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6iUBYigsiYYdhDIkHbKbSN"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Bellakera",
-      "url": "https://open.spotify.com/track/02wijRhOIJdJ8VKM8N9voP"
-    },
-    {
       "added_at": "2022-10-06 15:57:15",
       "album": {
         "name": "NO ERES SANTA",
@@ -1363,26 +1347,6 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 190928,
-      "name": "Mala M\u00eda",
-      "url": "https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2"
-    },
-    {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
         "name": "12x3 Remix (with Micro TDH & Rusherking)",
         "url": "https://open.spotify.com/album/6kjJ9YLK0ZNTajArpF95qY"
       },
@@ -1403,6 +1367,66 @@
       "duration_ms": 219906,
       "name": "12x3 Remix (with Micro TDH & Rusherking)",
       "url": "https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
+        "name": "Killer Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 160180,
+      "name": "Killer Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1"
+    },
+    {
+      "added_at": "2022-10-22 01:46:44",
+      "album": {
+        "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
+        "url": "https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Pedro Calderon",
+          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
+        }
+      ],
+      "duration_ms": 368982,
+      "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
+      "url": "https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -1445,6 +1469,42 @@
       "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
     },
     {
+      "added_at": "2022-10-22 01:46:44",
+      "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6iUBYigsiYYdhDIkHbKbSN"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Bellakera",
+      "url": "https://open.spotify.com/track/02wijRhOIJdJ8VKM8N9voP"
+    },
+    {
+      "added_at": "2022-10-22 01:46:44",
+      "album": {
+        "name": "Salimos Del Tarro",
+        "url": "https://open.spotify.com/album/5mIAo75l1tfPvrCXBr7jb1"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Salimos Del Tarro",
+      "url": "https://open.spotify.com/track/21BoBFBeh49Vrl9DRUsOu8"
+    },
+    {
       "added_at": "2022-10-06 15:57:15",
       "album": {
         "name": "Yo Quiero",
@@ -1483,46 +1543,6 @@
       "duration_ms": 234666,
       "name": "Noche Loca",
       "url": "https://open.spotify.com/track/27toenwtHpZ7fn0QjehRl2"
-    },
-    {
-      "added_at": "2022-10-21 01:40:53",
-      "album": {
-        "name": "34 Amor y Mafia (feat. El Jincho, Camin, Harry Nach & Pedro Calderon) [Remix]",
-        "url": "https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "El Jincho",
-          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
-        },
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Pedro Calderon",
-          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
-        }
-      ],
-      "duration_ms": 368982,
-      "name": "34 Amor y Mafia (feat. El Jincho, Camin, Harry Nach & Pedro Calderon) - Remix",
-      "url": "https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -1565,23 +1585,7 @@
       "url": "https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk"
     },
     {
-      "added_at": "2022-10-21 01:40:53",
-      "album": {
-        "name": "Salimos Del Tarro",
-        "url": "https://open.spotify.com/album/5mIAo75l1tfPvrCXBr7jb1"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Salimos Del Tarro",
-      "url": "https://open.spotify.com/track/21BoBFBeh49Vrl9DRUsOu8"
-    },
-    {
-      "added_at": "2022-10-21 01:40:53",
+      "added_at": "2022-10-22 01:46:44",
       "album": {
         "name": "Antezana 247 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH"
@@ -1597,7 +1601,7 @@
       "url": "https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh"
     },
     {
-      "added_at": "2022-10-21 01:40:53",
+      "added_at": "2022-10-22 01:46:44",
       "album": {
         "name": "ADICTO (feat. Best, Bayriton)",
         "url": "https://open.spotify.com/album/2lMQji7tH4Gb2VPoi1iF55"

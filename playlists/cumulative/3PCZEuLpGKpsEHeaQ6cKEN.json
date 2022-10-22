@@ -2762,6 +2762,36 @@
     },
     {
       "album": {
+        "name": "Kiss And Make Up",
+        "url": "https://open.spotify.com/album/4vkJ2xtvdwMolRCSMWMNdI"
+      },
+      "artists": [
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "Westerlund",
+          "url": "https://open.spotify.com/artist/2E2I4XqkMhd2eoJv7ExGlO"
+        },
+        {
+          "name": "Lena Sue",
+          "url": "https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161392,
+      "name": "Kiss And Make Up",
+      "url": "https://open.spotify.com/track/39edP1ljLSEv3UgTpqpldx"
+    },
+    {
+      "album": {
         "name": "Kitchen Party",
         "url": "https://open.spotify.com/album/78ME64M8qj3AtRF1QXUbP2"
       },

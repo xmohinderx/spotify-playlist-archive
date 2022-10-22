@@ -1,12 +1,12 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2?si=E4OGlb8vQ2WY5jdVtCai5Q\"> Bryan the Mensah </a> ",
-  "num_followers": 8037,
+  "num_followers": 8043,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDExZjA2YjM5ZTVmY2YwNTZlMzZlOTkxMWJhOTQzNDMy",
+  "snapshot_id": "MTY2NjMzMjIxNCwwMDAwMDAwMDE0ZDRmMTg1NDNmNDczZmQ5NzZkZGMxMTUwNmI1ZTI5",
   "tracks": [
     {
       "added_at": "2022-09-23 06:31:04",
@@ -239,6 +239,30 @@
       "duration_ms": 146500,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
+    },
+    {
+      "added_at": "2022-09-30 06:36:39",
+      "album": {
+        "name": "Yenda",
+        "url": "https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp"
+      },
+      "artists": [
+        {
+          "name": "Kay T",
+          "url": "https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr"
+        },
+        {
+          "name": "MEDIKAL",
+          "url": "https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE"
+        },
+        {
+          "name": "Qv",
+          "url": "https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Yenda",
+      "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -533,28 +557,20 @@
       "url": "https://open.spotify.com/track/0kxSv1wysBlIKcEVo8SCDp"
     },
     {
-      "added_at": "2022-09-30 06:36:39",
+      "added_at": "2022-10-21 06:03:34",
       "album": {
-        "name": "Yenda",
-        "url": "https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp"
+        "name": "DTMV (Don't Touch My Vision)",
+        "url": "https://open.spotify.com/album/6yawCJDZwZDV5KDvCzAYzS"
       },
       "artists": [
         {
-          "name": "Kay T",
-          "url": "https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr"
-        },
-        {
-          "name": "MEDIKAL",
-          "url": "https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE"
-        },
-        {
-          "name": "Qv",
-          "url": "https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8"
+          "name": "Khalifina",
+          "url": "https://open.spotify.com/artist/79MzTwzDXHZkVoX4He1l2l"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Yenda",
-      "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"
+      "duration_ms": 88348,
+      "name": "DTMV (Don't Touch My Vision)",
+      "url": "https://open.spotify.com/track/66ebvi27vMsoytonqo7A3D"
     },
     {
       "added_at": "2022-06-24 06:18:14",
@@ -627,30 +643,6 @@
       "duration_ms": 194939,
       "name": "Akatafo Party",
       "url": "https://open.spotify.com/track/2dErHn9K3ajwPmKeTO2o6s"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "SHUT UP",
-        "url": "https://open.spotify.com/album/0Vy9oEDqvIlQFovz7ozQA8"
-      },
-      "artists": [
-        {
-          "name": "Supa Gaeta",
-          "url": "https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz"
-        },
-        {
-          "name": "Yung Pabi",
-          "url": "https://open.spotify.com/artist/0JpqpPBdb4jg4mswm0CdFj"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
-        }
-      ],
-      "duration_ms": 221259,
-      "name": "SHUT UP",
-      "url": "https://open.spotify.com/track/371cXO3R3YSHWZB4HqNd5h"
     },
     {
       "added_at": "2022-10-13 23:00:00",

@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-133 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+134 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Diamantina](https://open.spotify.com/track/6ujvWZ35tR3lb31DQklXJa) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Diamantina](https://open.spotify.com/album/54GjXkixJVmEd5EeND2W5B) | 2:40 | 2021-12-23 |  |
 | [Distant](https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Distant and Spirals](https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R) | 6:44 | 2021-12-23 |  |
 | [Distant Mind](https://open.spotify.com/track/1wzgKMu74sj8DT1X8GjYLi) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Beyond Imagination](https://open.spotify.com/album/6F55IABDkakEQqcQAXeAq5) | 3:24 | 2021-12-23 |  |
+| [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 | 2022-10-21 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-04-21 |  |
 | [Dreamtime Initiation](https://open.spotify.com/track/1AqY82ComtEXXIiOmX9inE) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Ambient Realms](https://open.spotify.com/album/2l4EeIsUCfawmUISCxh3WO) | 5:46 | 2021-12-23 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-19 |  |

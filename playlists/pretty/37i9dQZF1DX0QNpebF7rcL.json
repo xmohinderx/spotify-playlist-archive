@@ -1,13 +1,29 @@
 {
-  "description": "The best in blues right now. Cover: Buddy Guy",
-  "num_followers": 40645,
+  "description": "The best in blues right now. Cover: Joe Louis Walker",
+  "num_followers": 40655,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDRjY2VlNGQ4ZDRhNjc0NjBlZTBiYzA2NjI5NTMwNzUy",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDc2ZjBjZWI4ZjcyNDRmMGQ4NzIyMjQyMjBkY2QyY2Vl",
   "tracks": [
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "The Weight of the World",
+        "url": "https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 265045,
+      "name": "The Weight of the World",
+      "url": "https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi"
+    },
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 71313,
+  "num_followers": 71392,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzMwNiwwMDAwMDAwMGIxN2ZiODM3OTcyYTM2NTIzY2JmMzFhMGQ5MjAxYzdh",
+  "snapshot_id": "MTY2NTExNzMwNiwwMDAwMDAwMDA0MDkwZGUzM2ExZmY0NGYzMzE5YzBlMzY0OWEzZTcz",
   "tracks": [
     {
       "added_at": "2022-10-06 05:29:10",
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb"
     },
     {
-      "added_at": "2022-10-21 01:51:03",
+      "added_at": "2022-10-22 01:56:23",
       "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-10-06 05:29:10",
       "album": {
-        "name": "Don't Be Blue",
-        "url": "https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 183296,
-      "name": "Don't Be Blue",
-      "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
-    },
-    {
-      "added_at": "2022-10-06 05:29:10",
-      "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 254198,
       "name": "DRUNK TALK (feat. sogumm)",
       "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
+    },
+    {
+      "added_at": "2022-10-06 05:29:10",
+      "album": {
+        "name": "Don't Be Blue",
+        "url": "https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Don't Be Blue",
+      "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
     },
     {
       "added_at": "2022-10-06 05:29:10",

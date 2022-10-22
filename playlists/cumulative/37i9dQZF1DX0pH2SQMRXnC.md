@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-462 songs - 1 day 3 hr 2 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
+463 songs - 1 day 3 hr 5 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Breakthrough](https://open.spotify.com/track/6gzoKKvtqZvZ3rNSsBT2cb) | [Wav3motion](https://open.spotify.com/artist/6TIeewRIC6pGGn6i2n4HPW), [Keiji](https://open.spotify.com/artist/2aWpRZYYS6t4mFZ3XKaMgV) | [Breakthrough](https://open.spotify.com/album/2cfVz6gqpKDmHVBfLlzgmB) | 3:36 | 2021-12-16 | 2022-07-14 |
 | [Breathe](https://open.spotify.com/track/5BDTTFBgXEcjjyLUerBsnB) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Breathe](https://open.spotify.com/album/3XgUo5A545VU2vp0pCT4Xp) | 3:16 | 2022-03-24 | 2022-04-18 |
 | [Broken \- Wildstylez Remix](https://open.spotify.com/track/23Zd0TvdAjcFot9GpCOYHB) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Invincible](https://open.spotify.com/album/2XwAqqs1Y47TsPLvlvJxOU) | 4:29 | 2022-03-24 | 2022-04-21 |
-| [Burn](https://open.spotify.com/track/0XWQtIOEmws7pNwODEH6hW) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Paul Gannon](https://open.spotify.com/artist/2Lh8kYWp06vZNK7oBU4yF4) | [Burn](https://open.spotify.com/album/56o9OBI1kPoMrB2IkqkxPl) | 3:45 | 2021-12-16 |  |
+| [Burn](https://open.spotify.com/track/0XWQtIOEmws7pNwODEH6hW) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Paul Gannon](https://open.spotify.com/artist/2Lh8kYWp06vZNK7oBU4yF4) | [Burn](https://open.spotify.com/album/56o9OBI1kPoMrB2IkqkxPl) | 3:45 | 2021-12-16 | 2022-10-22 |
 | [By The Sword](https://open.spotify.com/track/07B46HFSAMauWkHwp5n50P) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [By The Sword](https://open.spotify.com/album/6xiLSzHJWrt4YHfeQL4GOX) | 3:36 | 2022-03-09 |  |
 | [By The Sword](https://open.spotify.com/track/0k8JlkHqTUUfOf48peC3Dp) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Legends Of The Elite](https://open.spotify.com/album/50RHfqIEtQS0dZxBrrFUF3) | 3:36 | 2022-05-23 | 2022-05-27 |
 | [By Your Side](https://open.spotify.com/track/1xqfMLE5syMBHCbVlFMR0y) | [Trye](https://open.spotify.com/artist/05qXxRLLCqng7W9z9cL0J1) | [By Your Side](https://open.spotify.com/album/4eqbA4qKc25lChVW56M8JG) | 3:14 | 2021-12-16 | 2022-07-29 |
@@ -249,6 +249,7 @@
 | [Luminosity](https://open.spotify.com/track/1umoIL3ShVbbYdvtGZm8lY) | [Project One](https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx) | [EP I](https://open.spotify.com/album/4CBL4RxJJJQ0slRCS7nLRe) | 3:15 | 2022-03-24 | 2022-04-21 |
 | [Luminosity \- Edit](https://open.spotify.com/track/15OITba1Hh6rn7WYYFmlJH) | [Project One](https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx) | [EP I](https://open.spotify.com/album/2Q8mA39C1vgElfhYSJPAw4) | 3:15 | 2022-07-22 |  |
 | [Make That Body Rock](https://open.spotify.com/track/7kgTsBAU2a4011YI83XZEB) | [Ransom](https://open.spotify.com/artist/1kpnFAPpACdKIiuaatgBah) | [Make That Body Rock](https://open.spotify.com/album/0p3xwgku47ZUrWjeajMEyE) | 3:06 | 2021-12-16 | 2022-07-26 |
+| [Masquerade](https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Silver Bullet](https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ) | 3:02 | 2022-10-10 |  |
 | [Masquerade](https://open.spotify.com/track/4i0rWKxr5kgvamLGyuCPb9) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Masquerade](https://open.spotify.com/album/1DfPH7tImgGJmgO49s5AZp) | 3:02 | 2021-12-16 | 2022-07-29 |
 | [Masquerade](https://open.spotify.com/track/6dY252zE6zlcsVk0ozMsmh) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Silver Bullet](https://open.spotify.com/album/1SJoB0cN4sV7YyXWo0VGfS) | 3:02 | 2022-07-22 | 2022-10-15 |
 | [Me Emborrachare \- Hardstyle Original Remix](https://open.spotify.com/track/5mO5l8aCXDEw7qFNcPUtf4) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Me Emborrachare \(Hardstyle Original Remix\)](https://open.spotify.com/album/0iSyYIPSg9ov8R5bgxFu0t) | 4:11 | 2021-12-16 | 2022-05-29 |

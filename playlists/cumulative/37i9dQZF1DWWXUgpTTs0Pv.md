@@ -4,7 +4,7 @@
 
 > Two\-steppin' tunes for the whole family.
 
-90 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/3YJHbYJN04hCSzclwh7kDe)
+91 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3YJHbYJN04hCSzclwh7kDe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Change Your Mind](https://open.spotify.com/track/6NwPdlFHAqkEw4RY2pR3Ky) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Change Your Mind](https://open.spotify.com/album/0SX68kfQo8p85jGEth4PiS) | 3:53 | 2020-09-29 |  |
 | [Chapters](https://open.spotify.com/track/1B4kH07ncrQh2pNDV6P60P) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Ticket To L.A\. \(Big Machine Radio Release Special\)](https://open.spotify.com/album/7vQ8rvHHAZOXRjBtJWTDQw) | 3:57 | 2020-09-29 |  |
 | [Cold Feet](https://open.spotify.com/track/5y2KmB9m8alVWvoSrocKSW) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Rebel Child](https://open.spotify.com/album/4uviXxlPpQL2ZFy61fHMI6) | 3:26 | 2020-09-29 | 2022-07-29 |
-| [Cold Feet](https://open.spotify.com/track/7eBFlgVVEyX4lQgK0RHDjg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Rebel Child \(Deluxe Edition\)](https://open.spotify.com/album/5BCg4dSAwNSpLzyU9lJBN6) | 3:29 | 2020-09-29 |  |
+| [Cold Feet](https://open.spotify.com/track/3WzlvxFirQXdncjuLB5vzN) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Rebel Child \(Deluxe Edition\)](https://open.spotify.com/album/0SmntgjUR6subxN4PxyZSI) | 3:29 | 2020-09-29 |  |
+| [Cold Feet](https://open.spotify.com/track/7eBFlgVVEyX4lQgK0RHDjg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Rebel Child \(Deluxe Edition\)](https://open.spotify.com/album/5BCg4dSAwNSpLzyU9lJBN6) | 3:29 | 2020-09-29 | 2022-10-22 |
 | [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 | 2020-09-29 |  |
 | [Diamonds or Twine](https://open.spotify.com/track/3nLQCvYLudPrG2q4mxnY2Y) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [To a T](https://open.spotify.com/album/1J1Y9C8Rgk1ojpvM06it2Q) | 3:31 | 2020-09-29 |  |
 | [Every Girl in This Town](https://open.spotify.com/track/1TU7prccGLiAY0y59oa1at) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl in This Town](https://open.spotify.com/album/57aarCCujshcTwt0FggIY7) | 2:58 | 2020-09-29 |  |

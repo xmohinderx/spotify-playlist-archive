@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-117 songs - 6 hr 4 min - not published yet
+118 songs - 6 hr 9 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 |  |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 |  |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 |  |
+| [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 |  |
 | [Follow Me](https://open.spotify.com/track/2C0igIAegVxnQ11AMCqcyR) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Follow Me](https://open.spotify.com/album/4hafkA50kP0LGQ95eRejCE) | 2:45 | 2022-09-14 |  |
 | [For You](https://open.spotify.com/track/1uDsU3oY2XBYGKMe0i7BLB) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [For You](https://open.spotify.com/album/4ctt7ZN6LoY2Brr7efh52M) | 4:29 | 2022-10-06 |  |
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 |  |

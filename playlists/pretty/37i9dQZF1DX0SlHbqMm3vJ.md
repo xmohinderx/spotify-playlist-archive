@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Iyanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,558 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,681 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 38 | [OCEAN](https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [OCEAN](https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI) | 4:06 |
 | 39 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 |
 | 40 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 |
-| 41 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 |
-| 42 | [AWAY](https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy) | 2:44 |
+| 41 | [AWAY](https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy) | 2:44 |
+| 42 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 |
 | 43 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 44 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 |
 | 45 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 72 | [It Is What It Is](https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [It Is What It Is](https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV) | 2:54 |
 | 73 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 74 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
-| 75 | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ) | 2:45 |
-| 76 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 |
+| 75 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 |
+| 76 | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ) | 2:45 |
 | 77 | [Too Many Women](https://open.spotify.com/track/19l8i6cV0tUIn3ON8duR4r) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Make E No Cause Fight 2](https://open.spotify.com/album/7DrAPijhoId90XunG5KAMy) | 3:21 |
 | 78 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 |
 | 79 | [FOR MY BABY](https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [FOR MY BABY](https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z) | 2:17 |
 | 80 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 |
 
-Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGZkNWI0MTIyNWI2ZDU1OGM3MWUwYjEyOTQ1MThlOWRi`
+Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGEzYTc3NWZmYTI5NzExYTQzNWQ3ZjdlODZhYTdmMzY4`

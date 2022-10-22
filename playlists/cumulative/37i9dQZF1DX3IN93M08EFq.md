@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-114 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
+115 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Punkdrömmar](https://open.spotify.com/track/615tgqlxXuRLXvuUx3Qbfg) | [\[ingenting\]](https://open.spotify.com/artist/6nceGL5HhapgE9AJvlZK1l) | [Mycket Väsen För Ingenting](https://open.spotify.com/album/5NztLuA8iBEwvQaolmXPO3) | 3:10 | 2021-06-15 | 2022-07-27 |
 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 | 2021-06-15 | 2022-09-13 |
 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 | 2021-06-15 | 2022-10-13 |
-| [Ruby](https://open.spotify.com/track/7f7PmeN76Cr3qpQTpqUPcG) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/05jUwmVUkmYzj3AeYqNr8B) | 3:22 | 2021-06-15 |  |
+| [Ruby](https://open.spotify.com/track/7f7PmeN76Cr3qpQTpqUPcG) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/05jUwmVUkmYzj3AeYqNr8B) | 3:22 | 2021-06-15 | 2022-10-22 |
+| [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 | 2021-06-15 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-06-15 |  |
 | [She](https://open.spotify.com/track/2fGFMTIYDUuSme8BRC9nY4) | [Sugarplum Fairy](https://open.spotify.com/artist/4F8TuY4EW1EtXMpRRl8r6o) | [First Round First Minute](https://open.spotify.com/album/31PlmsFSYXOYy1x6DdNgzY) | 2:42 | 2021-06-15 | 2022-07-26 |
 | [She's So Lovely](https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Scouting For Girls \(Expanded Edition\)](https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV) | 3:43 | 2021-06-15 |  |
