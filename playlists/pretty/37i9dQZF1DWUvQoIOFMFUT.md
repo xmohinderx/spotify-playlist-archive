@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,302 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,296 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 21 | [i don't know where i'm going but that's okay](https://open.spotify.com/track/5EXoQjNAotUspxZhPHiGE7) | [sarya](https://open.spotify.com/artist/1jIluixQm1CH6lBpeq46f5) | [take care of yourself](https://open.spotify.com/album/5PnmGxnNA1sR9MZVrFpvlA) | 4:42 |
 | 22 | [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 |
 | 23 | [Music Again](https://open.spotify.com/track/4BVVSKWz1ABYE2mfPTD38b) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [I've Been Trying To Tell You](https://open.spotify.com/album/4lAlJDRobl1616M78q4lBj) | 5:45 |
-| 24 | [No One's Lost Tribe](https://open.spotify.com/track/1VgH90Evnm70gWiz8ELCCX) | [Matt Deighton](https://open.spotify.com/artist/3FEe8aolYovgLWOStVywwH) | [Doubtless Dauntless](https://open.spotify.com/album/6hqJE2kDJCQNWTXdj9vieC) | 4:10 |
+| 24 | [No One's Lost Tribe](https://open.spotify.com/track/5wXmeSda4d0joFuQ8TrG3c) | [Matt Deighton](https://open.spotify.com/artist/3FEe8aolYovgLWOStVywwH) | [Doubtless Dauntless](https://open.spotify.com/album/28USXeDSrtZwJM2rEzFJWk) | 4:10 |
 | 25 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 |
 | 26 | [Only the River](https://open.spotify.com/track/63B3O9pt9RwbeBfDvAae6H) | [Alex Luca](https://open.spotify.com/artist/3Gf3YElKXsG1ukhCyxHR9l) | [Only the River](https://open.spotify.com/album/3O6op1uiIABkqL3B55WbIZ) | 2:38 |
 | 27 | [Flow Freely \- From the Documentary Film “Reflection \- A Walk With Water”](https://open.spotify.com/track/0M1uEYzwNYhEZQ5qItkBA1) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Justin Kauflin](https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU) | [Flow Freely \(From the Documentary Film “Reflection \- A Walk With Water”\)](https://open.spotify.com/album/0kDvak6UcXulmP9xTE0yFY) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 100 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGRhN2ViZThjYTYxNmJmZWVlYjk5YjViMGZjMzc0NzY5`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGUyOWQ3ZTEzODEzZTNhZWU0NWI4NGEzNmQ4MzFjOWRm`

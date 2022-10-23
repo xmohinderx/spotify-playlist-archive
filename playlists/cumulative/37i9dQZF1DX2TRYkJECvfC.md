@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-306 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+307 songs - 1 day 4 hr 3 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Captivated](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Captivated](https://open.spotify.com/album/4vVmbCnag2aKDlEiB4iy6G) | 3:07 | 2021-12-08 |  |
 | [Celtic Girl \- Andrew Meller Remix](https://open.spotify.com/track/4MLlxPNKp25tgIxU09cYXA) | [Elian Dust](https://open.spotify.com/artist/78KF9tT5FxhSbI7rTzRB75), [Andrew Meller](https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm) | [Celtic Girl](https://open.spotify.com/album/4s2UWQKCpeiQcqMdrRrj1S) | 3:51 | 2021-12-08 | 2022-07-29 |
 | [Centauri](https://open.spotify.com/track/6sbTqflJcUFfyAbiWC8def) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Centauri](https://open.spotify.com/album/71rGeKZKoGy6aLSshQyCbG) | 3:30 | 2022-02-21 |  |
+| [Ceremony](https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 7:00 | 2022-05-03 |  |
 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 | 2022-02-21 | 2022-10-18 |
 | [Change The Line](https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Change The Line EP](https://open.spotify.com/album/5XUUokFhb5IuDMx6Cr8Dbs) | 7:17 | 2021-12-08 |  |
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
@@ -69,7 +70,7 @@
 | [Dilla 4 Life](https://open.spotify.com/track/7aUXv3MJYpYgcpVgJVbqaP) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Dilla 4 Life](https://open.spotify.com/album/4PluePNnDFKZ4KrDZUJYze) | 4:26 | 2021-12-08 | 2022-07-26 |
 | [Dingane](https://open.spotify.com/track/1E66GmDYqz4CSEVDtFjcd3) | [Bantwanas](https://open.spotify.com/artist/4Ehizytd7yGJKj5ywFyj3E) | [Dingane](https://open.spotify.com/album/2OaJteERKDVN4vXW7JJ5B8) | 4:10 | 2021-12-08 |  |
 | [Discoteca](https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Discoteca](https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ) | 6:25 | 2021-12-08 | 2022-02-22 |
-| [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 |  |
+| [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 |  |
 | [Eleuthera \- Catching Flies Remix](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 |  |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2022-01-14 |  |

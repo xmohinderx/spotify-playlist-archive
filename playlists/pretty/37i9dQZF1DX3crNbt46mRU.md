@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,490 likes - 94 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,505 likes - 94 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
 | 2 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
-| 3 | [Verliebt](https://open.spotify.com/track/5AcVJGTTLGM78ncDcFsNuf) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Verliebt](https://open.spotify.com/album/4Hg2pKlhdmSWB52NKSDeLg) | 2:41 |
+| 3 | [Verliebt](https://open.spotify.com/track/5AcVJGTTLGM78ncDcFsNuf) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Verliebt](https://open.spotify.com/album/4Hg2pKlhdmSWB52NKSDeLg) | 2:41 |
 | 4 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 |
 | 5 | [Weinst du](https://open.spotify.com/track/4djlVYFizR8zKmKGDlLcn7) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Weinst du](https://open.spotify.com/album/1ztBBLPehkF0sGu8CJWqHK) | 2:24 |
 | 6 | [Better Safe Than Sorry](https://open.spotify.com/track/4afdW2RH5IO4zTX1CWjRIZ) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Better Safe Than Sorry](https://open.spotify.com/album/7a7gT0AdLeQXLzlOp2s3Z9) | 2:38 |

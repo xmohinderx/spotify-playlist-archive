@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-347 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+348 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Mi Tonto Amor](https://open.spotify.com/track/1cbKTag8YEQdIsP3yXuUjr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 3:49 | 2021-02-02 | 2022-07-29 |
 | [Mi Tonto Amor](https://open.spotify.com/track/3t4RU1uPsClEIDqNbKaNeN) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Exitos](https://open.spotify.com/album/6f0Zc6OuOjU3kq3bj4pBBw) | 4:17 | 2021-02-02 | 2022-07-29 |
 | [Mi Tonto Amor](https://open.spotify.com/track/59v5xM3ExyPEMx62PDAlNm) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb) | 4:17 | 2021-02-02 | 2022-10-15 |
+| [Mi Tonto Amor](https://open.spotify.com/track/6UEAh3AEbOMhgyH6OT8pDl) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:17 | 2021-02-02 |  |
 | [Morena / Los Diseñadores / Por Ella / El Equipo](https://open.spotify.com/track/2BgxqdufX10rDrxp0O2ECa) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:01 | 2021-02-02 | 2022-07-27 |
 | [Morena Ven](https://open.spotify.com/track/4UFHihOI0xnuk7yG9ZnvAH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 4:18 | 2021-02-02 | 2022-07-29 |
 | [Morena Ven](https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39) | 4:21 | 2021-02-02 |  |
@@ -331,7 +332,7 @@
 | [Tus Besos Son](https://open.spotify.com/track/77efkShul1aVJMJWGgtB5l) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengon](https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka) | 4:55 | 2021-02-02 | 2022-10-16 |
 | [Un Beso y una Flor](https://open.spotify.com/track/3SnAxVKTCE6oLiXIDqEpUd) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/5pybY0Fv6TnJCi7Ds6roxv) | 4:34 | 2021-02-02 | 2022-08-19 |
 | [Un Beso y una Flor](https://open.spotify.com/track/4J37M8rQDcdlX0AZiouwsH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/5YJwnCFLA9JcfyBDIuZo78) | 4:34 | 2021-02-02 | 2022-07-29 |
-| [Un Beso y una Flor](https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh) | 4:34 | 2021-02-02 |  |
+| [Un Beso y una Flor](https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh) | 4:34 | 2021-02-02 | 2022-10-23 |
 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 | 2021-02-02 |  |
 | [Un Sobrinito de Champagne](https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [Caricias](https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig) | 3:34 | 2021-02-02 |  |
 | [Una Fotografia](https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:07 | 2021-02-02 |  |

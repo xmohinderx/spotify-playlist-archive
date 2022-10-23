@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,722 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,761 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 34 | [Unappreciated](https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Talk More Soon](https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc) | 3:46 |
 | 35 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 |
 | 36 | [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 |
-| 37 | [Chosen](https://open.spotify.com/track/5zGOj8eITiXUFXINUqt4Ia) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Chosen](https://open.spotify.com/album/0Fa81lx1XgZl4ZpvtOq6YX) | 2:39 |
+| 37 | [Chosen](https://open.spotify.com/track/5f4ysnH5EaLNbdYq2CK6tq) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Chosen](https://open.spotify.com/album/7ssdhUu8jouEzU7LngWnIf) | 2:39 |
 | 38 | [Congratulations](https://open.spotify.com/track/1UWwGCTP14FDO3N1B7EUQ7) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [DJ ESCO](https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:25 |
 | 39 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 |
 | 40 | [Can't Lose \(feat\. Lil Durk\)](https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o) | [Lil Mexico](https://open.spotify.com/artist/5HL0VTY0iLTz0RcoeI4cmY), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Can't Lose \(feat\. Lil Durk\)](https://open.spotify.com/album/6IlNeUhzVDjbwrMPfjqkyx) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Last One Left](https://open.spotify.com/album/136JKS8joUGUiReq11D03P) | 3:15 |
 | 50 | [Shackles to Diamonds](https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:56 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDQxYjU3M2IyM2RhZDkzYWFhNjUwNzRjNzVhN2Y1MDYx`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGZiYThlMjk0ZGEwYzJiZjJlMDZiY2M0YzAyN2E4NWM5`

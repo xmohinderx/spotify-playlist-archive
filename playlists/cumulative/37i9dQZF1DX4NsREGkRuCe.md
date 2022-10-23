@@ -148,6 +148,6 @@
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2022-10-12 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 |  |
-| [Zone \(feat\. 5ive Rings\)](https://open.spotify.com/track/3gbPlNSHpu7RFlf7oAoccM) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [5ive Rings](https://open.spotify.com/artist/7zVRJxs2J10VVcLriaFb8J) | [The 6th Wave](https://open.spotify.com/album/0Jvvr1GcdsiFsrY0Hp4VqJ) | 2:41 | 2022-10-22 |  |
+| [Zone \(feat\. 5ive Rings\)](https://open.spotify.com/track/3gbPlNSHpu7RFlf7oAoccM) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [5ive Rings](https://open.spotify.com/artist/1rYu7GER72nKaiEcCkXNjx) | [The 6th Wave](https://open.spotify.com/album/0Jvvr1GcdsiFsrY0Hp4VqJ) | 2:41 | 2022-10-22 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

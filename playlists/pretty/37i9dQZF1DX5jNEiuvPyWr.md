@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Moha MMZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,474 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,506 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 21 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 |
 | 22 | [Plus jeune](https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 3:25 |
 | 23 | [Fin heureuse](https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fin heureuse](https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12) | 2:43 |
-| 24 | [Belle vie](https://open.spotify.com/track/1GcRUhRtcmyK9Wj792TLUN) | [Xabi](https://open.spotify.com/artist/2SW5KCyAv9bOynnjdJvoVj), [Ladam](https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4) | [Belle vie](https://open.spotify.com/album/7vd5hWrQ3VwtAobES8qsvM) | 2:43 |
+| 24 | [Belle vie](https://open.spotify.com/track/1GcRUhRtcmyK9Wj792TLUN) | [Ladam](https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4), [Xabi](https://open.spotify.com/artist/2SW5KCyAv9bOynnjdJvoVj) | [Belle vie](https://open.spotify.com/album/7vd5hWrQ3VwtAobES8qsvM) | 2:43 |
 | 25 | [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 |
 | 26 | [Life](https://open.spotify.com/track/4IvUUwahzNnmLNx3Fy56BP) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Double Star](https://open.spotify.com/album/2Kl8Lizlp50x23YlY2Yrau) | 3:12 |
 | 27 | [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 |

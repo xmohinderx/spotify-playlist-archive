@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-398 songs - 1 day 6 hr 28 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+399 songs - 1 day 6 hr 31 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Fools Gold](https://open.spotify.com/track/1H8U2t2JrjbGld8YPmjX0w) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Fools Gold](https://open.spotify.com/album/1m98Qvc7u0GokYDawomNgN) | 4:00 | 2022-02-17 |  |
 | [Foreign Flowers \- Dengue Dengue Dengue & Prisma Remix](https://open.spotify.com/track/3ipEDZ30eJhJhmrEXnZD1s) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd) | [Foreign Flowers \(Dengue Dengue Dengue & Prisma Remix\)](https://open.spotify.com/album/1qvopyrc7IiA4DFAR6iJf8) | 4:33 | 2022-02-17 | 2022-06-08 |
 | [Forest Creature](https://open.spotify.com/track/0fSYoxjDM5kVUY8Gb6rEKp) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Forest Creature](https://open.spotify.com/album/1iTJY4YpGDnJpu3rIKrXBn) | 4:20 | 2022-02-17 | 2022-10-19 |
-| [Forest Creature](https://open.spotify.com/track/1av7ANQCAb4mizrrUko4Pc) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 4:20 | 2022-07-08 |  |
+| [Forest Creature](https://open.spotify.com/track/1av7ANQCAb4mizrrUko4Pc) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 4:20 | 2022-07-08 | 2022-10-23 |
 | [Fryst \- Original Mix](https://open.spotify.com/track/4koiKX3qu8B1ENF1mICkak) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Positive Energy](https://open.spotify.com/album/0Syi76rGMdgXiHzzYUfkcO) | 6:53 | 2022-02-17 |  |
 | [Fuck 'em](https://open.spotify.com/track/46y1L481OwLpWAg222Dzvi) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wrath of God](https://open.spotify.com/album/2SYwkpBdH7qfUde6PCA0EU) | 4:21 | 2022-02-17 | 2022-07-30 |
 | [G Shit](https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/44zt80xY9vVrpdBIS4cc9I) | 4:15 | 2022-07-08 |  |
@@ -280,6 +280,7 @@
 | [Resonate](https://open.spotify.com/track/4BslxfPzl3zzoSxf5JS57R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Resonate / Shaman](https://open.spotify.com/album/3ogPWAWqjoQZ4OJSzWp4Em) | 3:03 | 2022-08-19 |  |
 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 | 2022-04-08 |  |
 | [Rhubarb Crumble](https://open.spotify.com/track/1Cm7THvhhuBMZVuP08nkpb) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [Rhubarb Crumble EP](https://open.spotify.com/album/4ByklHL90cfvBGLBbbyel1) | 5:33 | 2022-02-17 | 2022-07-27 |
+| [Ricky Rosé](https://open.spotify.com/track/3OvMUt6wjhyiIp0WDLsPx9) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Ricky Rosé](https://open.spotify.com/album/7bSufwWURYfWb2cu0CeuF5) | 3:48 | 2022-10-21 |  |
 | [Ride Out](https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Ride Out](https://open.spotify.com/album/0g6JAuSxiBOAYvCsjTEG0m) | 4:20 | 2022-02-17 |  |
 | [Righteous](https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Righteous](https://open.spotify.com/album/3hZqvmxuYCPFnm7dz0uDIM) | 4:45 | 2022-02-17 |  |
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |

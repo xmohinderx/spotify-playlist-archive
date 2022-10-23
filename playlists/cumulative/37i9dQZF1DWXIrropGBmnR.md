@@ -4,7 +4,7 @@
 
 > Calm and soothing strings to help you get a good night's rest.
 
-100 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+101 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2022-01-06 |  |
 | [From Here We Can See](https://open.spotify.com/track/1UORK90Ieik1sVMKK1CdH6) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:57 | 2022-01-06 |  |
 | [Go Back To Sleep](https://open.spotify.com/track/0hbJ9nWzf0El9Cdn4oUOMu) | [Susan Shelby](https://open.spotify.com/artist/16ZOKXusUareHIqIPDehTi) | [Go Back To Sleep](https://open.spotify.com/album/4BdIkPLeSEwh8LdnQmG6C4) | 1:54 | 2022-01-06 |  |
-| [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2022-01-06 |  |
+| [How to Be Invisible](https://open.spotify.com/track/4Xfi7e0KgofJ5PgCBBauGf) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6CNfqzu5WvgJeS2GegpHnp) | 3:06 | 2022-08-05 |  |
+| [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2022-01-06 | 2022-10-23 |
 | [Il Confine Del Dolore \- feat: Ensemble Cordes De La Mer](https://open.spotify.com/track/307JdSdFWDM2u0H5JoIixw) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/1zTtByo8f2pVkZPhVvapWk) | 1:58 | 2022-01-06 |  |
 | [Illumination \- Cello Version](https://open.spotify.com/track/6HCSFrtixjnkkqTnBkIOFp) | [Lunaire](https://open.spotify.com/artist/1sC8iJ3MHkk4VMunZm8jbc) | [Illumination](https://open.spotify.com/album/3GpMctefgkHRdCUjjb0SNY) | 3:02 | 2022-01-06 |  |
 | [Improvisation In B\-Flat Minor](https://open.spotify.com/track/2D3Q2JAhSPZxfPksXeroW6) | [Ensemble Montes](https://open.spotify.com/artist/4GM5KhP1WJaeGIzPOxbd5j) | [Improvisation In B\-Flat Minor](https://open.spotify.com/album/3VeSmSzUHxutPzx4ibdyYo) | 2:11 | 2022-06-10 |  |

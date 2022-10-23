@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 8926,
+  "num_followers": 8950,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDAwZjdiZjIxYzAzYTNlOWFlODNkMzM2NWI2NWVhYTBi",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDVhOTRlYzdlZWM2MzQwN2QyNjg4NzlhZWZkYWYxODA5",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danz\u00f3n Inmortal",
-        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Aguilar Alc\u00e1ntara",
-          "url": "https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX"
-        }
-      ],
-      "duration_ms": 226150,
-      "name": "De Canela y Huevo",
-      "url": "https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danzas del Mundo Danz\u00f3n",
         "url": "https://open.spotify.com/album/6Q7HaW9yc2jPhHuos8h0NM"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 349387,
       "name": "Linda Cubana",
       "url": "https://open.spotify.com/track/6w5CTA7ieQTNW4eEc2O1c6"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danz\u00f3n Inmortal",
+        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Aguilar Alc\u00e1ntara",
+          "url": "https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX"
+        }
+      ],
+      "duration_ms": 226150,
+      "name": "De Canela y Huevo",
+      "url": "https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
         }
       ],
-      "duration_ms": 180976,
-      "name": "Los Timbales de Acerina",
-      "url": "https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy"
+      "duration_ms": 273345,
+      "name": "Kid Azteca",
+      "url": "https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
         }
       ],
-      "duration_ms": 273345,
-      "name": "Kid Azteca",
-      "url": "https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq"
+      "duration_ms": 180976,
+      "name": "Los Timbales de Acerina",
+      "url": "https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy"
     },
     {
       "added_at": "2022-08-02 23:28:22",

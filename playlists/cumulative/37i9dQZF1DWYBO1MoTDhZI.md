@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-481 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
+482 songs - 1 day 2 hr 10 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,8 @@
 | [Thank You for Being a Friend](https://open.spotify.com/track/5yNUgA66PbcPIJPOU2eBwR) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [All This and Heaven Too](https://open.spotify.com/album/3XOMPHoTULcm8kEqHp7YlE) | 4:40 | 2021-12-31 | 2022-02-19 |
 | [That Don't Mean A Thing](https://open.spotify.com/track/3qnQkKI3BMZWfnd39RG6Pc) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [That Don't Mean A Thing / Stressed Out](https://open.spotify.com/album/5asvmtDOYUnzMdJtttNIwM) | 3:01 | 2020-08-07 | 2021-03-19 |
 | [That's All](https://open.spotify.com/track/3M4PG8X9lp0gpDEMGpenBI) | [Mauwe](https://open.spotify.com/artist/2A6ICTUl1UuEUt5sLnWTcR) | [That's All](https://open.spotify.com/album/7n9FB3jME39SvJPt4UyXDy) | 3:14 | 2019-09-05\* | 2020-04-24 |
-| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-22 |  |
+| [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-10-21 |  |
+| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-22 | 2022-10-23 |
 | [The City \(with Quinn XCII\)](https://open.spotify.com/track/5IrKXci1IzuUEowWOhTv8o) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The City \(with Quinn XCII\)](https://open.spotify.com/album/2fU2IQScXUl2TxTCUaejwq) | 3:06 | 2019-09-05\* | 2021-08-28 |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-21 |  |
 | [The Reason](https://open.spotify.com/track/3TgPhPv7z0D4pQhH8iKmDW) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping With Roses](https://open.spotify.com/album/2UazgeHRn78ytYZIgCIrbG) | 3:04 | 2019-09-05\* | 2021-08-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Taylor Swift, Pabllo Vittar com Gloria Groove, Planet Hemp e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,918 likes - 67 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786,076 likes - 67 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

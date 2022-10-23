@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Taylor Swift, Arctic Monkeys, Lil Uzi Vert, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,973,358 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,974,170 likes - 98 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 74 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 | 75 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 | 76 | [Pangaea \(with blackbear\)](https://open.spotify.com/track/6zYJeYNqyZvwlMNSeOP64Q) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Pangaea \(with blackbear\)](https://open.spotify.com/album/3shwqKaPqDxZnhlrv7Fte8) | 2:21 |
-| 77 | [I Do \(feat\. Slush Puppy\)](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do \(feat\. Slush Puppy\)](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
+| 77 | [I Do](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
 | 78 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 79 | [Aang](https://open.spotify.com/track/1Tq22UsA5ThihqbZvustnR) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [Aang](https://open.spotify.com/album/0sNMiAQZPMUH6s97XSLSui) | 3:01 |
 | 80 | [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 88 | [Dahmer Flow](https://open.spotify.com/track/0ENOeN6WwYsRm6463ZCi1h) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Dahmer Flow](https://open.spotify.com/album/6Pcer5D3yU879AaVqdl9nr) | 2:07 |
 | 89 | [Humble](https://open.spotify.com/track/1Xlt2TE4O0lERfDaEk3gHY) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Humble](https://open.spotify.com/album/1HQxQwZS6Le2ndJTl9UAsF) | 2:48 |
 | 90 | [Bájala](https://open.spotify.com/track/2DbQbh449mcSNT0wPGQa9Y) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:18 |
-| 91 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories II](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
+| 91 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
 | 92 | [100 degrees](https://open.spotify.com/track/3CUpbtzoKSma5AnP7kLoEv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [100 degrees](https://open.spotify.com/album/1FtqIRyFbGToVdXkmWN9f0) | 2:38 |
 | 93 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 |
 | 94 | [My Body \(feat\. B.O.G\. Vonnie\)](https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [B.O.G\. Vonnie](https://open.spotify.com/artist/5ZDrZTQOHAwkOmg0IvQO9U) | [UNLV](https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU) | 2:54 |

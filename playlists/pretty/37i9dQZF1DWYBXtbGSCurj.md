@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Papatinho, Mc Hariel, L7NNON, Cidinho & Doca
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,451 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,555 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 26 | [Ulalau](https://open.spotify.com/track/5sMYWnqmmpCFXnsqgOUDmd) | [Phantom Mob](https://open.spotify.com/artist/5uIQliKMyGkfEwn9JA9S8T), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Murillo Zenki](https://open.spotify.com/artist/4sn4agFKcZRLswKocRvpI3), [B.I.G Carter](https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70) | [Ulalau](https://open.spotify.com/album/3VrvwiOmWj0fDdCIwnVMcN) | 2:47 |
 | 27 | [Versace](https://open.spotify.com/track/2GvPGP32IAGg3StcgFZJcx) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Versace](https://open.spotify.com/album/1w88VF51xOry8vPZk5vdcV) | 2:50 |
 | 28 | [Mal Sei Falar de Amor](https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Mal Sei Falar de Amor](https://open.spotify.com/album/2p6554PCcGEKWrSLknXpAr) | 2:08 |
-| 29 | [Pesadelo das Bandidas](https://open.spotify.com/track/0GLMGmbNcDoXdxpkpKowgq) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Maza](https://open.spotify.com/artist/1ObnnptnSVp1nfGmDwjhKs), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Pesadelo das Bandidas](https://open.spotify.com/album/1igBKVhDzjPV1YUFsyxGam) | 2:17 |
+| 29 | [Pesadelo das Bandidas](https://open.spotify.com/track/0GLMGmbNcDoXdxpkpKowgq) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Maza](https://open.spotify.com/artist/3hvRAu9IABcxgfzBBnKDZl) | [Pesadelo das Bandidas](https://open.spotify.com/album/1igBKVhDzjPV1YUFsyxGam) | 2:17 |
 | 30 | [Lei da Atraçao](https://open.spotify.com/track/5eMHCxeht8l87J5xfLI03s) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Lei da Atraçao](https://open.spotify.com/album/6yrnDlKD0PU4AueqoUMw8S) | 2:12 |
 | 31 | [I'm Sorry](https://open.spotify.com/track/2XPf8CSf3N8mbdJN0GPnWr) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [I'm Sorry](https://open.spotify.com/album/3ykLyEefADNKzAcbtMlwWm) | 2:27 |
 | 32 | [Papo de Agustinho](https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Papo de Agustinho](https://open.spotify.com/album/6zhoQQ4slrBbrAKrhTycwo) | 2:53 |

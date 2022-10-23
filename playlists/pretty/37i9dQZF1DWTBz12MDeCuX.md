@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Rowli, Hank
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,085 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,334 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 8 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
 | 9 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 10 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 |
-| 11 | [Verliebt](https://open.spotify.com/track/5AcVJGTTLGM78ncDcFsNuf) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Verliebt](https://open.spotify.com/album/4Hg2pKlhdmSWB52NKSDeLg) | 2:41 |
+| 11 | [Verliebt](https://open.spotify.com/track/5AcVJGTTLGM78ncDcFsNuf) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Verliebt](https://open.spotify.com/album/4Hg2pKlhdmSWB52NKSDeLg) | 2:41 |
 | 12 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
 | 13 | [regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy) | [DANZINGER 99](https://open.spotify.com/artist/2PBBBcDggmGWyvOY9HXmKZ), [DJ<3](https://open.spotify.com/artist/53Sn33Pag8qzwOsIol2a4q) | [regen༺♡✧+++](https://open.spotify.com/album/4WW9UNrTYnjBwabayBkxuW) | 1:27 |
 | 14 | [Tut mir leid](https://open.spotify.com/track/19TPOmBbIlrfW1TomHC5Dw) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Tut mir leid](https://open.spotify.com/album/02BC2tSBQ5GswwtocBpSu8) | 2:13 |

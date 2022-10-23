@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,678 likes - 117 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,734 likes - 117 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 77 | [Mi Chula](https://open.spotify.com/track/4hOXWazvMtaijxQYkbooNG) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL) | 2:42 |
 | 78 | [Eres Tú](https://open.spotify.com/track/00d5xg90Mvl5bvK18oliSI) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Con Más Pawer](https://open.spotify.com/album/6Btf5qRQjRvQKPGFUAstvg) | 2:42 |
 | 79 | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7) | 3:10 |
-| 80 | [La Dosis Perfecta](https://open.spotify.com/track/1VRftjZajTXVzGJOiZ2DzQ) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [La Dosis Perfecta](https://open.spotify.com/album/7wjvT76Rr2vrkU1St97Pjs) | 3:35 |
-| 81 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 |
+| 80 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 |
+| 81 | [La Dosis Perfecta](https://open.spotify.com/track/1VRftjZajTXVzGJOiZ2DzQ) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [La Dosis Perfecta](https://open.spotify.com/album/7wjvT76Rr2vrkU1St97Pjs) | 3:35 |
 | 82 | [No Está De Más](https://open.spotify.com/track/4XN5AJ0Ab6clJz0jYFbxYA) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [No Está De Más](https://open.spotify.com/album/3Oo0p6Pib85oapWY6iRhJA) | 3:12 |
 | 83 | [Te Presumo](https://open.spotify.com/track/0tFHkmet0a0XkW1ZEjv0Lh) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Te Presumo](https://open.spotify.com/album/1cYCoUjpvXwpfAhOgDnFoF) | 2:59 |
 | 84 | [Porque Te Amo](https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Porque Te Amo](https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg) | 3:06 |
 | 85 | [Tenía Que Ser Así](https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA) | 3:11 |
 | 86 | [No Es Normal](https://open.spotify.com/track/4UtJrHKSZuylqpx5DQlUCb) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Ya Me Vi](https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25) | 2:53 |
-| 87 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/0EjoMMcirolTueVdrvQb5H) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [DEL Radio Hits](https://open.spotify.com/album/6JfZlJcAONas9blriHdP2Z) | 2:25 |
-| 88 | [Nadie Como Tú](https://open.spotify.com/track/6AWPUeVvo3DsWHUaDEfNkY) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Banda \#1's 2016](https://open.spotify.com/album/0SURxtQaxU4uT0FinWDYmk) | 3:22 |
+| 87 | [Nadie Como Tú](https://open.spotify.com/track/6AWPUeVvo3DsWHUaDEfNkY) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Banda \#1's 2016](https://open.spotify.com/album/0SURxtQaxU4uT0FinWDYmk) | 3:22 |
+| 88 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/0EjoMMcirolTueVdrvQb5H) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [DEL Radio Hits](https://open.spotify.com/album/6JfZlJcAONas9blriHdP2Z) | 2:25 |
 | 89 | [Lo Que No Sabes](https://open.spotify.com/track/5ojOdHv1o0D4i6JpABc7zN) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Sigo Sumando](https://open.spotify.com/album/4SsjTGg9qgxlgvsBeK4c9j) | 3:24 |
 | 90 | [Acceso](https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Acceso](https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ) | 4:14 |
 | 91 | [Mi Mujer](https://open.spotify.com/track/6yXzhBUjkF9JX166pJddTu) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [Mi Mujer](https://open.spotify.com/album/0SET97WsQDwLigzT61IyrP) | 2:42 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 116 | [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 |
 | 117 | [Ella Es Mi Mujer](https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Banda \#1's 2017](https://open.spotify.com/album/0MUo7KxW4ZkYt5pKETaAeO) | 2:43 |
 
-Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMGJjZjhjYjNiZTEzOTI5MjIyNzBhMTY5ZjAyZDc1NTYw`
+Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMGQ5MGZkM2IzNTBkMGQ3NWU2ZGJiYjdhNThkOTliOWU5`

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 182233,
+  "num_followers": 182490,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGM5OWE1OGU0OTllNzZkMmNiYjM2MmM5NTA4NzY0ZjQw",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGE2NDg2NWI0MTFhY2Q3ODUwZTcwMzNiYmFkNjM1YzBk",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz"
     },
     {
-      "added_at": "2022-07-05 15:47:05",
-      "album": {
-        "name": "Daylight Again (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Southern Cross - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
-    },
-    {
       "added_at": "2020-12-08 17:52:17",
       "album": {
         "name": "Third Stage",
@@ -715,6 +699,22 @@
       "duration_ms": 256200,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
+    },
+    {
+      "added_at": "2022-07-05 15:47:05",
+      "album": {
+        "name": "Daylight Again (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Southern Cross - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "A Face In The Crowd",
+      "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 225573,
       "name": "Leather and Lace - 2016 Remaster",
       "url": "https://open.spotify.com/track/7kXM2obnaUVl014k00cdhF"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "A Face In The Crowd",
-      "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Boogie Nights / Music From The Original Motion Picture",
-        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
-      },
-      "artists": [
-        {
-          "name": "Night Ranger",
-          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
-        }
-      ],
-      "duration_ms": 300066,
-      "name": "Sister Christian",
-      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Invisible Touch",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 229560,
       "name": "Throwing It All Away - 2007 Remaster",
       "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Boogie Nights / Music From The Original Motion Picture",
+        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
+      },
+      "artists": [
+        {
+          "name": "Night Ranger",
+          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+        }
+      ],
+      "duration_ms": 300066,
+      "name": "Sister Christian",
+      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
     },
     {
       "added_at": "2021-05-06 11:12:08",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Brothers in Arms",
         "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 148853,
       "name": "Here Today - Remixed 2015",
       "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2020-12-08 17:52:17",

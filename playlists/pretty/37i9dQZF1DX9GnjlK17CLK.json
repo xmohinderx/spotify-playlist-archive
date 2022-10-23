@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 63840,
+  "num_followers": 63968,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4MjM1MCwwMDAwMDAwMGFhZTBiMjNhMjk2YThjMzY3YjA1YTQ0MWQ3NWM4YWEx",
+  "snapshot_id": "MTY2NDg4MjM1MCwwMDAwMDAwMGUzNDE3NTgxNmY1MDk3OWZlNGU4MzllN2NiY2I0YjNl",
   "tracks": [
     {
       "added_at": "2022-10-04 11:19:10",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-10-04 11:19:10",
       "album": {
-        "name": "In Session (Remaster w/ eBooklet)",
-        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 540573,
-      "name": "Call It Stormy Monday",
-      "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
-    },
-    {
-      "added_at": "2022-10-04 11:19:10",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 174466,
       "name": "Snatch It Back And Hold It",
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "In Session (Remaster w/ eBooklet)",
+        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 540573,
+      "name": "Call It Stormy Monday",
+      "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
     },
     {
       "added_at": "2022-10-04 11:19:10",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-10-04 11:19:10",
       "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Strollin' With Bones",
+      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 180693,
       "name": "Double Crossing Time - Mono",
       "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
-    },
-    {
-      "added_at": "2022-10-04 11:19:10",
-      "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Strollin' With Bones",
-      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
     },
     {
       "added_at": "2022-10-04 11:19:10",

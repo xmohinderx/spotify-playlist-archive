@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 278265,
+  "num_followers": 278415,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDE2YTJkMjRhZTNjZjU4ZDFmOTM0MDY5NmU5ODc3NGI5",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDdkYmE1MzIwODJkMDc2OWM5MzgzOTg5NzY4MTdiNGYy",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+        "name": "HELLRAISERS, Part 2",
+        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
       },
       "artists": [
         {
@@ -1184,13 +1184,17 @@
           "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+      "duration_ms": 142065,
+      "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1207,6 +1211,30 @@
       "duration_ms": 168736,
       "name": "We Did It!!!",
       "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Thrashout",
+          "url": "https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy"
+        }
+      ],
+      "duration_ms": 163941,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1247,32 +1275,8 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Thrashout",
-          "url": "https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy"
-        }
-      ],
-      "duration_ms": 163941,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "HELLRAISERS, Part 2",
-        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
       },
       "artists": [
         {
@@ -1280,17 +1284,13 @@
           "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 142065,
-      "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1469,6 +1469,22 @@
       "url": "https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT"
     },
     {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "cut the cable",
@@ -1507,18 +1523,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+        "name": "Searching For Nothing",
+        "url": "https://open.spotify.com/album/3d4wTJ2uxT7wrZ13yhxZBa"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Pouchy Suave",
+          "url": "https://open.spotify.com/artist/6bu7nKnVEh4cQhfVQfaQB4"
         }
       ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+      "duration_ms": 221937,
+      "name": "Searching For Nothing",
+      "url": "https://open.spotify.com/track/5u1gJv6uwKGf9N4gF6iGKV"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1555,26 +1575,6 @@
       "duration_ms": 183553,
       "name": "Fighting Gravity - The Forgotten Remix",
       "url": "https://open.spotify.com/track/3ZAfrkXwfVm2FhgBr4rRQ3"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Searching For Nothing",
-        "url": "https://open.spotify.com/album/3d4wTJ2uxT7wrZ13yhxZBa"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        },
-        {
-          "name": "Pouchy Suave",
-          "url": "https://open.spotify.com/artist/6bu7nKnVEh4cQhfVQfaQB4"
-        }
-      ],
-      "duration_ms": 221937,
-      "name": "Searching For Nothing",
-      "url": "https://open.spotify.com/track/5u1gJv6uwKGf9N4gF6iGKV"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/1NOroK7CIZ5CocdGBya87u"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 213560,
       "name": "Dying To Know You",
       "url": "https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/1NOroK7CIZ5CocdGBya87u"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Flatlined",
         "url": "https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W"
       },
@@ -2119,18 +2099,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 220800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2147,6 +2131,22 @@
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2233,26 +2233,6 @@
       "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
     },
     {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/6355ImRWAhH4xOHwuG6CWL"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        },
-        {
-          "name": "Vanthe",
-          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/2TRSQ4CTkyaAGM4N9nI9ef"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Fantasy",
@@ -2271,6 +2251,26 @@
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/6355ImRWAhH4xOHwuG6CWL"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/2TRSQ4CTkyaAGM4N9nI9ef"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2319,6 +2319,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/1qV35eCz8zR0MdO823pMJZ"
       },
@@ -2339,22 +2359,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
       },
       "artists": [
         {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U"
+      "duration_ms": 209411,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2439,26 +2459,6 @@
       "duration_ms": 201235,
       "name": "Watch Me Now (feat. Koda & VAAAL)",
       "url": "https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
     },
     {
       "added_at": "2022-08-05 04:01:00",

@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Hyd
 
-445 songs - 1 day 3 hr 35 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+447 songs - 1 day 3 hr 40 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Creep \- Very 2021 Rmx](https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau), [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Creep \(Very 2021 Rmx\)](https://open.spotify.com/album/4LS4w3gfUGH1WnpGcbUHhp) | 9:02 | 2021-07-19 | 2022-06-07 |
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2022-06-03 | 2022-10-14 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-06-03 | 2022-06-24 |
+| [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2022-10-21 |  |
 | [Crying in Public](https://open.spotify.com/track/2yXfkGdRTSPgSFJfOGsLhk) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Moth](https://open.spotify.com/album/4j7QJ7DKZ0cBsNuD7GmJFx) | 4:28 | 2021-10-08 | 2022-07-22 |
 | [Daddy's Groove](https://open.spotify.com/track/4P0Q5EfIdSPFhebNL8v7P8) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Daddy's Groove](https://open.spotify.com/album/0azvFrSqooHWxkOMU8EwQ2) | 3:12 | 2021-10-08 | 2022-04-22 |
 | [Dance](https://open.spotify.com/track/0MP2SUdqSFDl9tcytBpF8h) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Dance](https://open.spotify.com/album/0ka6ChDCJFiNeA4UW9OLW7) | 2:59 | 2021-06-03 | 2022-04-21 |
@@ -163,7 +164,7 @@
 | [Good As I Wanted](https://open.spotify.com/track/21M8SUR7G2U12TzGjsTOHZ) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Good As I Wanted](https://open.spotify.com/album/0w0s32RFHTDvL9nm9PZ0QD) | 4:42 | 2021-09-10 | 2022-07-26 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-06-03 |  |
 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2021-06-03 | 2022-04-23 |
-| [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-09-09 |  |
+| [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-09-09 | 2022-10-23 |
 | [GRIP](https://open.spotify.com/track/4FN724DOM2qlNd28eTeKPe) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [GRIP](https://open.spotify.com/album/2u8F8TMe4NRvNltYFjgMFI) | 3:25 | 2022-07-15 | 2022-07-26 |
 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 | 2021-06-03 |  |
 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 | 2021-06-03 |  |
@@ -282,7 +283,7 @@
 | [Oblivion](https://open.spotify.com/track/3pKqEiI7xEfnQQ2TsTz8s2) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Big Bunny](https://open.spotify.com/album/4qPgXUot2MEBriWhV0gO2N) | 4:11 | 2021-06-03 | 2022-07-29 |
 | [ocean eyes](https://open.spotify.com/track/3OMh7VdOoWgtKhJimQQywz) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/07WV4Vf6503k6K1yGNWG8X) | 3:20 | 2021-06-03 | 2022-04-18 |
 | [Ocean of Tears](https://open.spotify.com/track/4RqBss578GNj4u9VYZK5u0) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:24 | 2021-06-03 | 2022-07-29 |
-| [Oh Dove](https://open.spotify.com/track/16vs1gBen7uqJPWkAnbMHb) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:16 | 2021-10-08 |  |
+| [Oh Dove](https://open.spotify.com/track/16vs1gBen7uqJPWkAnbMHb) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:16 | 2021-10-08 | 2022-10-23 |
 | [on air](https://open.spotify.com/track/2x6nALrYw5RU5EZZppj4Kj) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air](https://open.spotify.com/album/3o3WxRyujYTqTpvqPOvRDm) | 4:12 | 2022-08-12 | 2022-09-21 |
 | [On Your Side \- stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-07-19 | 2022-04-18 |
 | [Online](https://open.spotify.com/track/7dzfIsGYeU86XUo5pRB2cP) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Fantasy](https://open.spotify.com/album/4HwILPeEJZ1oENF9cnUnHv) | 3:13 | 2021-06-03 | 2022-04-22 |
@@ -419,6 +420,7 @@
 | [Ugly](https://open.spotify.com/track/2uwWhxkpdyxIjKeSkkcPoJ) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Ugly](https://open.spotify.com/album/28fxM5KaCES9DolERx2MUq) | 3:04 | 2022-06-03 | 2022-07-09 |
 | [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-03 | 2022-04-23 |
 | [Unbothered](https://open.spotify.com/track/3PoKFnMD0zAVtQrkJ4e8XH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2B3NraIzKiBZXFTUhyxYfe) | 2:04 | 2021-06-03 | 2022-06-07 |
+| [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 | 2022-10-21 |  |
 | [Unbothered](https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr) | 2:04 | 2021-06-03 | 2022-10-13 |
 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 | 2021-06-03 |  |
 | [Unkind](https://open.spotify.com/track/4yJsJ5iQBCTqY0wRZD8u2M) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Is It Selfish If We Talk About Me Again](https://open.spotify.com/album/6MeHJ39jMIA4niDn0jhJBx) | 3:18 | 2021-06-03 | 2022-07-29 |

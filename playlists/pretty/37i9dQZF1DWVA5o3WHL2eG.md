@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,372 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,374 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 2 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 |
 | 3 | [Wildberry Lillet \(Remix feat\. Juju\)](https://open.spotify.com/track/1ywM9BP8vzh0Pu1zbnGAfY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Wildberry Lillet \(Remix feat\. Juju\)](https://open.spotify.com/album/68YT84vuoXApmgcibxxM9v) | 2:18 |
 | 4 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 |
-| 5 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 |
-| 6 | [ROSES](https://open.spotify.com/track/40nvBToL831q0NDFMiunKR) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [ROSES](https://open.spotify.com/album/7L4QP4w9OivS4mb0DXUfak) | 2:27 |
+| 5 | [ROSES](https://open.spotify.com/track/40nvBToL831q0NDFMiunKR) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [ROSES](https://open.spotify.com/album/7L4QP4w9OivS4mb0DXUfak) | 2:27 |
+| 6 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 |
 | 7 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
 | 8 | [Noch nie so verliebt](https://open.spotify.com/track/4xB9CYwtgAmYLQmlcbKSBv) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Noch nie so verliebt](https://open.spotify.com/album/1nD5zW99n7LL515gvb3rCo) | 2:56 |
 | 9 | [7 Red Flags](https://open.spotify.com/track/3Qs8192k0SX9fSmGQscNBE) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [7 Red Flags](https://open.spotify.com/album/68iV3mBG4ZIrqbWVd8rvc7) | 2:53 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [what if we?](https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [what if we?](https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3) | 2:53 |
 | 19 | [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 3:00 |
 | 20 | [Got 2 Know \(feat\. SHELLS\) \- Radio Edit](https://open.spotify.com/track/5dYHeKMZtAgwE1GU1HY7RE) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Got 2 Know \(feat\. SHELLS\)](https://open.spotify.com/album/1hbjC4DD3fy3vvEfczipeX) | 2:24 |
-| 21 | [Morio Muskat](https://open.spotify.com/track/574CekDWfeHnXb9Cw8PpLU) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Morio Muskat](https://open.spotify.com/album/43fUbOTiqzqzRIz0XkJMNc) | 2:44 |
-| 22 | [Adalam Va!](https://open.spotify.com/track/0BJkSAC37xEAJW2a9yTeoq) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Adalam Va!](https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf) | 2:22 |
+| 21 | [Adalam Va!](https://open.spotify.com/track/0BJkSAC37xEAJW2a9yTeoq) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Adalam Va!](https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf) | 2:22 |
+| 22 | [Morio Muskat](https://open.spotify.com/track/574CekDWfeHnXb9Cw8PpLU) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Morio Muskat](https://open.spotify.com/album/43fUbOTiqzqzRIz0XkJMNc) | 2:44 |
 | 23 | [Separate Us](https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Separate Us](https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz) | 3:21 |
 | 24 | [Where Did You Sleep?](https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5) | [Lisa Pac](https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE) | [Where Did You Sleep?](https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv) | 3:28 |
 | 25 | [Baby Blue](https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Baby Blue](https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV) | 2:55 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 39 | [Verlieren](https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D) | [Ish](https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI) | [Verlieren](https://open.spotify.com/album/4rG1lto3LDuSRdDaD4iAsb) | 2:57 |
 | 40 | [Pleasure Pilgrim](https://open.spotify.com/track/4fG6h8vkVngqCSF6Dp65BS) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Pleasure Pilgrim](https://open.spotify.com/album/4IobnsBjhAszwYA3fw4skh) | 3:25 |
 | 41 | [no words left](https://open.spotify.com/track/3G9LDlf9GULZAtdPKPiCzq) | [Elena Steri](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA), [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [no words left](https://open.spotify.com/album/2R6VG7f5tmlWXfgjFkn8r3) | 3:28 |
-| 42 | [Tearz](https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye) | [Gaddafi Gals](https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l) | [Romeo Must Die](https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL) | 3:06 |
-| 43 | [Ich Tanze Alleine](https://open.spotify.com/track/7rYdtD94gYmpBQpX3G1zo8) | [AYMZ](https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z) | [PYROLYSE](https://open.spotify.com/album/5SAviVYGk0Koj6TmzahOuE) | 2:42 |
-| 44 | [In My Darkness](https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04) | [Stella Sommer](https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob) | [In My Darkness](https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2) | 2:41 |
-| 45 | [Modus Operandi](https://open.spotify.com/track/3fsmxivK30zcKvM5HMWw1t) | [Jadu](https://open.spotify.com/artist/16gfQaYtf7nxUFhxPqYDou) | [Modus Operandi](https://open.spotify.com/album/025qPoprSggytbSTotIVve) | 3:41 |
-| 46 | [Summerchild](https://open.spotify.com/track/0rJs6QGxCdlUwD1LzIxMPF) | [Jennifer Touch](https://open.spotify.com/artist/2RTTomV6iq54PkO0g3KLOO) | [Summerchild](https://open.spotify.com/album/0SUFmKIXuz0BCpUHehkxXs) | 3:59 |
-| 47 | [Sleeper](https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj) | [Anna Aaron](https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F) | [Sleeper](https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy) | 2:36 |
-| 48 | [Eudaimonia](https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7) | [KOKA](https://open.spotify.com/artist/6YlsQwumQkkbfsADHeYC2m) | [Eudaimonia](https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm) | 3:23 |
-| 49 | [I Thought I Could Swim](https://open.spotify.com/track/1wbZ4Q4MXPyXMOnOYJVOK0) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [I Thought I Could Swim](https://open.spotify.com/album/1ZEohi9YHX7ysT9gBMLFwc) | 5:35 |
-| 50 | [Resistance](https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Resistance](https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit) | 6:34 |
+| 42 | [Resistance](https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Resistance](https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit) | 6:34 |
+| 43 | [Tearz](https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye) | [Gaddafi Gals](https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l) | [Romeo Must Die](https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL) | 3:06 |
+| 44 | [Ich Tanze Alleine](https://open.spotify.com/track/7rYdtD94gYmpBQpX3G1zo8) | [AYMZ](https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z) | [PYROLYSE](https://open.spotify.com/album/5SAviVYGk0Koj6TmzahOuE) | 2:42 |
+| 45 | [In My Darkness](https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04) | [Stella Sommer](https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob) | [In My Darkness](https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2) | 2:41 |
+| 46 | [Modus Operandi](https://open.spotify.com/track/3fsmxivK30zcKvM5HMWw1t) | [Jadu](https://open.spotify.com/artist/16gfQaYtf7nxUFhxPqYDou) | [Modus Operandi](https://open.spotify.com/album/025qPoprSggytbSTotIVve) | 3:41 |
+| 47 | [Summerchild](https://open.spotify.com/track/0rJs6QGxCdlUwD1LzIxMPF) | [Jennifer Touch](https://open.spotify.com/artist/2RTTomV6iq54PkO0g3KLOO) | [Summerchild](https://open.spotify.com/album/0SUFmKIXuz0BCpUHehkxXs) | 3:59 |
+| 48 | [I Thought I Could Swim](https://open.spotify.com/track/1wbZ4Q4MXPyXMOnOYJVOK0) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [I Thought I Could Swim](https://open.spotify.com/album/1ZEohi9YHX7ysT9gBMLFwc) | 5:35 |
+| 49 | [Sleeper](https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj) | [Anna Aaron](https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F) | [Sleeper](https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy) | 2:36 |
+| 50 | [Eudaimonia](https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7) | [KOKA](https://open.spotify.com/artist/6YlsQwumQkkbfsADHeYC2m) | [Eudaimonia](https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm) | 3:23 |
 
-Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMDYzNTBkZmQ2OGE3YWEzZWUxY2IxYWNkZGVlMzUxOTU1`
+Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMDQ3MjAwMjhlZGUxM2YxNTg2MGU3Y2Q3OWFhYmQ1MzA4`

@@ -3836,6 +3836,28 @@
     },
     {
       "album": {
+        "name": "REDL\u00d6S",
+        "url": "https://open.spotify.com/album/66r5D0woGoI1UjKmnvY4BB"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "REDL\u00d6S",
+      "url": "https://open.spotify.com/track/75mZ7bYRxnXKLYEfxsWg4U"
+    },
+    {
+      "album": {
         "name": "Rett Ut Av Rehab",
         "url": "https://open.spotify.com/album/0EsF8pGhd04FZFwbYW1ilI"
       },
@@ -4133,7 +4155,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 154280,
       "name": "Sj\u00f8mann Per",
       "url": "https://open.spotify.com/track/6cyIrcpZHSk6HnPa8NKW4W"

@@ -4,7 +4,7 @@
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-100 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
+101 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [home with you](https://open.spotify.com/track/1lofsKXY29reyN9j0doHFF) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [home with you](https://open.spotify.com/album/3nLiYcMpeEOKzb5TzQcJer) | 3:44 | 2021-06-30 | 2022-07-29 |
 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 | 2021-06-30 |  |
 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 | 2021-06-30 |  |
-| [I don't want to sing I don't want to look](https://open.spotify.com/track/535X8gWq0G207WIktuKGmR) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Slow Dance '19](https://open.spotify.com/album/2FKu1cAkI8bTLP6uIiS3oZ) | 4:35 | 2021-06-30 |  |
+| [I don't want to sing I don't want to look](https://open.spotify.com/track/0TjezNTKg3xroMIzbQO4t3) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Slow Dance '19](https://open.spotify.com/album/0ciY4l6aX0ss6gHwIgM0zj) | 4:35 | 2021-06-30 |  |
+| [I don't want to sing I don't want to look](https://open.spotify.com/track/535X8gWq0G207WIktuKGmR) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Slow Dance '19](https://open.spotify.com/album/2FKu1cAkI8bTLP6uIiS3oZ) | 4:35 | 2021-06-30 | 2022-10-23 |
 | [I don’t want to sing I don’t want to look](https://open.spotify.com/track/0aAdDwfuGO1X4wfC8ojpir) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [I don’t want to sing I don’t want to look](https://open.spotify.com/album/6qxWy92KAn6uCgwUofBZl0) | 4:35 | 2021-06-30 | 2022-07-29 |
 | [I Get Lit \(cause if not I think of you\)](https://open.spotify.com/track/4rF1IhOJnxVgf0EP3sHIaB) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [I Get Lit \(cause if not I think of you\)](https://open.spotify.com/album/3aAteCgMLGO2hFcG0Gmhtt) | 3:15 | 2021-06-30 |  |
 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 | 2021-06-30 |  |

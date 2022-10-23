@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,514 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,554 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 34 | [Five Pop Tunes II: Bluesy](https://open.spotify.com/track/3pPOTu0HzLBnfNBvGDK86v) | [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Five Pop Tunes](https://open.spotify.com/album/3l0le9nsDpokAmAlWCfiex) | 2:18 |
 | 35 | [Unique Ambience for Staying Home](https://open.spotify.com/track/0oHsRS3yY9FZ5eJHbwgvKw) | [Instrumental Blues Retro](https://open.spotify.com/artist/6ynE2UtjVmR7Ljqr8hBbq0) | [Slow Blues Guitar \- Ambiance for Working](https://open.spotify.com/album/6sUMKVFDCkCiX3oR34ii2j) | 2:40 |
 | 36 | [Home Alone](https://open.spotify.com/track/1IWK7wCyYkUiTbY78KE0jr) | [Soothing Dog Sounds](https://open.spotify.com/artist/30tUXL7OQLtFE7DmKCKLCo) | [Blues Music for Dogs](https://open.spotify.com/album/42KEN0fc3AtktxdETSDlZa) | 2:56 |
-| 37 | [Guitar Interlude in Bb](https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii) | 1:59 |
+| 37 | [Guitar Interlude in Bb](https://open.spotify.com/track/2Ou90Hssj1tD2k2rintpgE) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/5biMirupjO0D7M8lOetEid) | 1:59 |
 | 38 | [Red Dirt](https://open.spotify.com/track/3z1rYUvrX29vA2thDTTNBs) | [Torbjörn Sörenson](https://open.spotify.com/artist/6hy4IkbbvbRXoXREwZpw4i) | [Red Dirt](https://open.spotify.com/album/1wByxDUH6YkilEPLyvTt3G) | 4:29 |
 | 39 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 |
 | 40 | [Elegy for a Bluesman](https://open.spotify.com/track/51eO3uxag2ZhvnqWePYeVv) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/6QJ6h4nSqQgnCNVVVYPwly) | 5:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 69 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 | 70 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 |
 
-Snapshot ID: `MTY2NTc2MjkwMywwMDAwMDAwMDA3ZTQxMGExZjE4NzY0YTQwZWQxMjJlYTllNTU2ODgx`
+Snapshot ID: `MTY2NTc2MjkwMywwMDAwMDAwMDEwZTZmMDliZWY1YzM4NGJlYWE4YTFiN2QwOTQ4ZTg4`

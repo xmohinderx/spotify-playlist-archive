@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-98 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
+100 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,12 +98,14 @@
 | [Todo Está Rico](https://open.spotify.com/track/1UVhtVwRBmLtU8yQ0LZRWb) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Latin Hits \- Reggaeton Edition \(32 Reggaeton Hits \- 50 Top Artists\)](https://open.spotify.com/album/3lSc3QSRCt5bNjywt1ozGO) | 3:13 | 2022-02-25 | 2022-07-29 |
 | [Todo Está Rico](https://open.spotify.com/track/4VHC2EFYKo0yN0t3h2wssz) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Latin Hits \- Reggaeton Edition \(32 Reggaeton Hits \- 50 Top Artists\)](https://open.spotify.com/album/2Vreqy6Ya3HRTMHxTmd1w4) | 3:13 | 2022-04-08 |  |
 | [Tu Carita \- DJ Unic Remix](https://open.spotify.com/track/6CVeR1pWdcCi1Bc0kz6nqV) | [EL ENVIADO](https://open.spotify.com/artist/2vSJeNz3wFRJ5i5rh1Z8Nt), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [Tu Carita \(DJ Unic Remix\)](https://open.spotify.com/album/1J1WXvowRRSrkGeHcHVcHF) | 4:23 | 2022-02-25 |  |
-| [Tu de Que Vas](https://open.spotify.com/track/5pRnPE7WsFJExVgZs5yx4o) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 4:19 | 2022-04-08 |  |
+| [Tu de Que Vas](https://open.spotify.com/track/5pRnPE7WsFJExVgZs5yx4o) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 4:19 | 2022-04-08 | 2022-10-23 |
 | [Tu De Que Vas](https://open.spotify.com/track/0erGyP3ccj9BUn64fLuSP4) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/5HMC4KoEXF8YQ5M59c8X5m) | 4:22 | 2022-04-08 | 2022-10-16 |
+| [Tu de Que Vas](https://open.spotify.com/track/5e2uf58IYZUxCZSeAIOK4p) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Latin Hits 2016](https://open.spotify.com/album/7kVCS59JxiYu4IHZcRg9ms) | 4:22 | 2022-04-08 |  |
 | [Tu de Que Vas](https://open.spotify.com/track/6vElrorgVSjGQIdXgGwIbO) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos](https://open.spotify.com/album/6SVZmGEBS8LfEzMFEuF8Gm) | 4:22 | 2022-02-25 | 2022-07-29 |
 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-02-25 |  |
-| [Volvere Junto a Ti](https://open.spotify.com/track/2OWKqDlP17Go78ykRGlvJd) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 3:48 | 2022-04-08 |  |
+| [Volvere Junto a Ti](https://open.spotify.com/track/2OWKqDlP17Go78ykRGlvJd) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 3:48 | 2022-04-08 | 2022-10-23 |
 | [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 | 2022-02-25 | 2022-10-03 |
+| [Volveré Junto a Ti](https://open.spotify.com/track/64c6JUdoG2qEGH8xuyXnrA) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 3:48 | 2022-04-08 |  |
 | [Yo Lo Se](https://open.spotify.com/track/4Wg0arjOVJ0cGYpm1lZqoJ) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/3Ni4EcYEa90suVEg4lqj08) | 3:27 | 2022-02-25 | 2022-07-29 |
 | [Yo Lo Se](https://open.spotify.com/track/3tpOjFm3syJjeQoccgSY8C) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/2qoZ3vyrc6bhjUdewwkmqP) | 3:27 | 2022-04-08 |  |
 

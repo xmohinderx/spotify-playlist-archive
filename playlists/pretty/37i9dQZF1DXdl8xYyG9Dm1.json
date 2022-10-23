@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=nOiYYMd5SSuw6cmc_LG3Dw\"> Black Sherif </a> ",
-  "num_followers": 102108,
+  "num_followers": 102189,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMxMDQwMCwwMDAwMDAwMGQ1MjhiNTIwNTUyZTI3NTk4YzI3ZGU2Y2U2MGUyYWM1",
+  "snapshot_id": "MTY2NjMxMDQwMCwwMDAwMDAwMGJjMTkxZDJmYmI0M2U4YzA2ODZkYTlmMjk2Nzc2ZTI5",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
-      "added_at": "2022-10-22 02:00:05",
+      "added_at": "2022-10-23 02:01:39",
       "album": {
         "name": "DEADLINES: FREE P2",
         "url": "https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir"
@@ -393,26 +393,6 @@
       "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Longtime (feat. Skepta)",
-      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
-    },
-    {
       "added_at": "2022-03-16 09:04:37",
       "album": {
         "name": "Rave & Roses",
@@ -431,6 +411,26 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -901,6 +901,70 @@
       "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
     },
     {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "ANXIETY+",
+        "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
+      },
+      "artists": [
+        {
+          "name": "Zoocci Coke Dope",
+          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 332500,
+      "name": "LiFT ME UP",
+      "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Ye x4",
+        "url": "https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 165451,
+      "name": "Ye x4",
+      "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+    },
+    {
       "added_at": "2022-09-30 06:04:35",
       "album": {
         "name": "Everything",
@@ -931,70 +995,6 @@
       "duration_ms": 193507,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3v1o4wJ9lHcN1n2eztLJxg"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Ye x4",
-        "url": "https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 165451,
-      "name": "Ye x4",
-      "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
-    },
-    {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "ANXIETY+",
-        "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
-      },
-      "artists": [
-        {
-          "name": "Zoocci Coke Dope",
-          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 332500,
-      "name": "LiFT ME UP",
-      "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
       "added_at": "2021-12-21 12:27:53",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2021-10-14 23:00:00",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 208968,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
         "name": "Yp & Azanti, Vol. 1",
         "url": "https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 181874,
       "name": "Long Way from Home",
       "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 208968,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
     },
     {
       "added_at": "2021-10-14 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 380195,
+  "num_followers": 380564,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMGJmOTM4Y2MyZGVlN2RjODcyOGY1ZWNiYjExNGRhZDlj",
+  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMGY5MzU1MmQ4YzZjMWVmY2ZjMWY2YTM0ZDE1NzRjMmIz",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 255000,
       "name": "i <3 u",
       "url": "https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 191527,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Human Condition",
         "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 131618,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 191527,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
-        "url": "https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Intersection",
-      "url": "https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Car Crash in G Major",
         "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
+        "url": "https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Intersection",
+      "url": "https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Blue Suicide",
-        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
-      },
-      "artists": [
-        {
-          "name": "Coma Cinema",
-          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
-        }
-      ],
-      "duration_ms": 153234,
-      "name": "Her Sinking Sun",
-      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Ways to Go",
         "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 127085,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Blue Suicide",
+        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
+      },
+      "artists": [
+        {
+          "name": "Coma Cinema",
+          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "Her Sinking Sun",
+      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Year Of The Rat",
-        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 275013,
       "name": "I Don't Recognise You",
       "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Year Of The Rat",
+        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "softcore mourn",
-        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
-      },
-      "artists": [
-        {
-          "name": "pizzagirl",
-          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
-        }
-      ],
-      "duration_ms": 243102,
-      "name": "sugar ray",
-      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "i wish things were different",
         "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 122925,
       "name": "upside down",
       "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "softcore mourn",
+        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
+      },
+      "artists": [
+        {
+          "name": "pizzagirl",
+          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
+        }
+      ],
+      "duration_ms": 243102,
+      "name": "sugar ray",
+      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "blood on the pavement",
+        "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
+      },
+      "artists": [
+        {
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "blood on the pavement",
+      "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "QUEEN CITY",
         "url": "https://open.spotify.com/album/2v2bIVg2RT8VWWF2u6lj1q"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 214426,
       "name": "GROWING PAINS",
       "url": "https://open.spotify.com/track/7hTFHCtOfsMFaiNVDPzUJ9"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "blood on the pavement",
-        "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
-      },
-      "artists": [
-        {
-          "name": "chemical club",
-          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "blood on the pavement",
-      "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
     },
     {
       "added_at": "2022-09-13 23:04:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,879 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,885 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 16 | [chamada não atendida](https://open.spotify.com/track/0oKpBxCq4U5IvUZqMuVMM3) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [chamada não atendida](https://open.spotify.com/album/3BYMDX4fOqP8KI7UamT5Ji) | 3:24 |
 | 17 | [Juro](https://open.spotify.com/track/14uTPWhaknnTiekY23dCLj) | [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Juro](https://open.spotify.com/album/4kWlJMrV7MJghClY4ZvvKX) | 3:30 |
 | 18 | [Amor Leve](https://open.spotify.com/track/6PVzO3mw5TX3WpkTNEfwqV) | [Lu](https://open.spotify.com/artist/1OTmhFCffjNfL9jii07Cl8) | [Amor Leve](https://open.spotify.com/album/3Y5KMTlh0IdWYcqZNMSV57) | 3:11 |
-| 19 | [Baby](https://open.spotify.com/track/26e9bWCQIHx8pK1rpM7mXF) | [Jess](https://open.spotify.com/artist/0aL9nZbA5lprTIdlQRgoZR), [Raphaël](https://open.spotify.com/artist/4iEURKVv81eLdh9BoLM0uC) | [Baby](https://open.spotify.com/album/0L7FFBLZvzTlCdOgpomUwB) | 3:12 |
+| 19 | [Baby](https://open.spotify.com/track/26e9bWCQIHx8pK1rpM7mXF) | [Jess](https://open.spotify.com/artist/6Iscyg5SqdVMLl1fiNiwIB), [Raphaël](https://open.spotify.com/artist/4iEURKVv81eLdh9BoLM0uC) | [Baby](https://open.spotify.com/album/0L7FFBLZvzTlCdOgpomUwB) | 3:12 |
 | 20 | [Lugar Certo](https://open.spotify.com/track/1DBRiPLbtu6YTQeJR4P5Yf) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Lugar Certo](https://open.spotify.com/album/1c69CJyxlwgGOqruz6BpOy) | 2:55 |
 | 21 | [Noves Fora](https://open.spotify.com/track/4LpOxUil42PZAOoeeDfR6H) | [Tête\-À\-Tête](https://open.spotify.com/artist/5xOyuyN3kyuWu9MYfRvrZP) | [Noves Fora](https://open.spotify.com/album/5cQX5y0FMwy75UOV0IZhwG) | 3:02 |
 | 22 | [Falsa Poesia](https://open.spotify.com/track/1t33FZcg2zXqip4oGzTGvR) | [Madalena Nascimento](https://open.spotify.com/artist/19gnV9gW9j3oXC73RikPPq) | [Falsa Poesia](https://open.spotify.com/album/0L7D9Ygtzp1yb6A8DxIqOZ) | 3:57 |

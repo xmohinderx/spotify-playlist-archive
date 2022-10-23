@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,129 likes - 102 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,140 likes - 102 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 38 | [LET'S TROT!](https://open.spotify.com/track/6r8xlPyUQG8zbXbh26duFW) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/24NYPLQVwLU4DP7LEZ9wwv) | 3:08 |
 | 39 | [SPIN IT](https://open.spotify.com/track/4y6wUEHHN3LWxgkt9BfqkJ) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q), [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U), [Namz60](https://open.spotify.com/artist/5tEjuX4m6tv8SBoTr9i0pa) | [SPIN IT](https://open.spotify.com/album/47B9PgN0SMhhQreQrNVX3u) | 2:30 |
 | 40 | [DOUBT IT! \(demo\)](https://open.spotify.com/track/0T30R5jz7aua0spxgDpDO4) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [DOUBT IT! \(demo\)](https://open.spotify.com/album/55fCMmiIYsvIUi7nKyzWdZ) | 2:36 |
-| 41 | [We Them Kids](https://open.spotify.com/track/3ptu0v9nT3IkP7i0o1NLQ4) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/0kPyUiPoFs7ZRo4chaWtCg) | 3:08 |
+| 41 | [We Them Kids](https://open.spotify.com/track/1RBwVbMUpa19R0cFjfZQjQ) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/6t0yUrLLqYcCYV1d0ULOXN) | 3:08 |
 | 42 | [Me, Myself & I](https://open.spotify.com/track/1ArxdrtfnJF0TmX1nKYLo1) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [Me, Myself & I](https://open.spotify.com/album/29j7VYXyK0w4WqkESTRICn) | 2:18 |
 | 43 | [Ya Rab](https://open.spotify.com/track/1m5D1gtZgpoN5ehQV9U5Gp) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Ya Rab](https://open.spotify.com/album/5IqvVDo3c4nupExAKBcri4) | 3:23 |
 | 44 | [DINERO](https://open.spotify.com/track/1XwgW1GlujLIr4VywyjyMo) | [Saitxero](https://open.spotify.com/artist/7eAziNg8S3NJiBsGCXjYbF) | [DINERO](https://open.spotify.com/album/5FUbjirtgcdkwLGqIONS4d) | 2:25 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 101 | [Molly Meldrum](https://open.spotify.com/track/3jZaqu5nKGdJAbFPuNFG51) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 2:31 |
 | 102 | [Volume](https://open.spotify.com/track/3VS0zLSoa2ucmYCeIsA7kj) | [Kiddo](https://open.spotify.com/artist/0t3f4RCQfQLLa3WNANQYj4), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP) | [Volume](https://open.spotify.com/album/06UM7wBFSKeTmns7c7UUCV) | 2:46 |
 
-Snapshot ID: `MTY2NjI3MDgwMCwwMDAwMDAwMDRjZmMwM2NmYmZjMjgxMGUxY2UwOTU0OTM1ZjRmYjE5`
+Snapshot ID: `MTY2NjI3MDgwMCwwMDAwMDAwMDUzNzc1MThmZjBjMzdmYTRlMTYyNjhlYWVjOTY4YjJm`

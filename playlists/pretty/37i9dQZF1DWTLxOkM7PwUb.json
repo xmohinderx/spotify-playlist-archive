@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 197254,
+  "num_followers": 197292,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMDgyZmY1OTQ0ZDZjYmFjNTNhODIyZjYwNTY1ZDQzOWI1",
+  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMDljNTAwYWZkM2NjOTkxNjk0N2Q3ZDlkZWMwOTJkYmQx",
   "tracks": [
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
+        "name": "Vuelve a Mi",
+        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vuelve a Mi",
+      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
         "name": "Sexy (feat. KHEA & Duki)",
         "url": "https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 254852,
       "name": "Sexy (feat. KHEA & Duki)",
       "url": "https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "Vuelve a Mi",
-        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Vuelve a Mi",
-      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "GRACIAS POR NADA",
-        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 219448,
-      "name": "GRACIAS POR NADA",
-      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "PUNKDEMIA",
         "url": "https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 245677,
       "name": "TU CINTURA",
       "url": "https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "GRACIAS POR NADA",
+        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 219448,
+      "name": "GRACIAS POR NADA",
+      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
     },
     {
       "added_at": "2022-09-19 14:59:26",

@@ -1,12 +1,12 @@
 {
   "description": "Music in the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 642556,
+  "num_followers": 642720,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTk2NTQwMywwMDAwMDAwMDBmOTBmYmZmZjY2M2QwNjhjODk0MDhkY2I0M2ZiNWQ5",
+  "snapshot_id": "MTYyOTk2NTQwMywwMDAwMDAwMGU2YjU2YzZmNjgwNjE2ZWFmMTIwZTdiNzg1YjUwY2Rm",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 285293,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/5GYcaVfaFBHe2gzA6Oybgj"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 285293,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/5GYcaVfaFBHe2gzA6Oybgj"
     },
     {
       "added_at": "2021-05-10 06:34:11",

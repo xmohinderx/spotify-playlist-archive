@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14424,
+  "num_followers": 14435,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDFmZGYzZGZmMDliMzFjZGExN2JkODNkMGRlODU0YzQz",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDMxOThhYTgzMzdkY2E4MDY5ZTdjMTE4M2IyMzE5NWQ2",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Last Time (Biscits Remix)",
-        "url": "https://open.spotify.com/album/6LgHb9a6Dph8PJ7LP8tNJs"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Last Time - Biscits Remix",
-      "url": "https://open.spotify.com/track/1vSgGwMtzSxz4VTYUMAfks"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Tu Tu Tu (That's Why We) [Dubdogz & SUBB Remix]",
         "url": "https://open.spotify.com/album/4Vu4LBX4InGWNzpox8avBo"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 172741,
       "name": "Tu Tu Tu (That's Why We) - Dubdogz & SUBB Remix",
       "url": "https://open.spotify.com/track/2QL6BEpabXndvf3tSuTc4A"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Last Time (Biscits Remix)",
+        "url": "https://open.spotify.com/album/6LgHb9a6Dph8PJ7LP8tNJs"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 215540,
+      "name": "Last Time - Biscits Remix",
+      "url": "https://open.spotify.com/track/1vSgGwMtzSxz4VTYUMAfks"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1567,30 +1567,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Nightlight (The Remixes, Vol. 2)",
-        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Nightlight - MOTi Remix",
-      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
         "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 142106,
       "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
       "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Nightlight (The Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Nightlight - MOTi Remix",
+      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Show Me Love (Sander van Doorn Remix)",
         "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 188437,
       "name": "Show Me Love - Sander van Doorn Remix",
       "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "1 Day 2 Nights (Billen Ted Remix)",
-        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 134892,
-      "name": "1 Day 2 Nights - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Desire (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
       },
@@ -2079,6 +2059,26 @@
       "duration_ms": 225967,
       "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
       "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "1 Day 2 Nights (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 134892,
+      "name": "1 Day 2 Nights - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2127,22 +2127,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+        "name": "PURE (The Remixes)",
+        "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
         },
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
         }
       ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+      "duration_ms": 384000,
+      "name": "PURE (Reinier Zonneveld Remix)",
+      "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2171,46 +2171,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "PURE (The Remixes)",
-        "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
       },
       "artists": [
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         }
       ],
-      "duration_ms": 384000,
-      "name": "PURE (Reinier Zonneveld Remix)",
-      "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Moving Blind (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Moving Blind - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2235,6 +2211,30 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Moving Blind (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Moving Blind - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2323,6 +2323,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Happy Where We Are (ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/512NZa7ZFYp6d3aAjYzP4M"
       },
@@ -2347,26 +2367,6 @@
       "duration_ms": 233974,
       "name": "Happy Where We Are - ilan Bluestone Remix",
       "url": "https://open.spotify.com/track/4StZuE3DEKcRZYMgdDxJuX"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",

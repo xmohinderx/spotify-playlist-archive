@@ -4,7 +4,7 @@
 
 > Float away to the weightless sound of breakbeat.
 
-80 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
+81 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 | 2021-10-23 |  |
 | [Oh Baby](https://open.spotify.com/track/45SDYGJmGrqWWrvo1Xvk57) | [Framewerk](https://open.spotify.com/artist/3sQiKqtxrIhI1lu7oxm9s1) | [Spiritual Revolution](https://open.spotify.com/album/3JgTuW5mIIWzbrFByVkDGA) | 6:49 | 2021-10-23 |  |
 | [Old Wives Tale](https://open.spotify.com/track/6P5mzQQddhBUa4EE3n6Zlu) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Old Wives Tale](https://open.spotify.com/album/1rM2WHjFo4m9P3McADxcC8) | 5:17 | 2021-10-23 |  |
-| [Opal](https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/0M3si2esFXD5q7uR6CROPc), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/02vuelAR4xyXZP1ZecWryz) | 4:07 | 2021-10-23 |  |
+| [Opal](https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/0M3si2esFXD5q7uR6CROPc), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/02vuelAR4xyXZP1ZecWryz) | 4:07 | 2021-10-23 | 2022-10-23 |
+| [Opal](https://open.spotify.com/track/5sJyL8UvFs6onfikqUjUqY) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/1irwQnIWoD6cV6QTmN8zZ6), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/5qCDHuUXdrQSWCjG8kkpo3) | 4:07 | 2021-10-23 |  |
 | [Overcast \- Kettama’s Del Boy Remix](https://open.spotify.com/track/3p3w4sqTA2IrBbedphOHHf) | [Pentland Park](https://open.spotify.com/artist/37A6Q7JvVr8WJphC513gXw), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pentland Park](https://open.spotify.com/album/6muuoxRTUuGhKn483IYzD3) | 5:44 | 2021-10-23 |  |
 | [Pang](https://open.spotify.com/track/1o2gvYzfniqw5OYOC6KNtz) | [Soundbwoy Killah](https://open.spotify.com/artist/7GWKj0q6ycOb9PvBAX81w4) | [Pang](https://open.spotify.com/album/27fzgwULTXuPFht0WVqjIu) | 3:11 | 2021-10-23 |  |
 | [Paper Clouds](https://open.spotify.com/track/3A0rjl4awXKtGomCt9yQSn) | [Front Bench](https://open.spotify.com/artist/3eFX6PFnD0Vv3GlbpHrqve), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Clear Blue](https://open.spotify.com/album/13ErC7aXM3b3nYzZXXVwCY) | 6:13 | 2021-10-23 |  |

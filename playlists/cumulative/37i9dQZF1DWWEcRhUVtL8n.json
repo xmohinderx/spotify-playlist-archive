@@ -3627,6 +3627,24 @@
     {
       "album": {
         "name": "Butterflies",
+        "url": "https://open.spotify.com/album/7m1b79R5MjeWFZbfu6hgIT"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
         "url": "https://open.spotify.com/album/1LbZK7uYkOT7V4Ru6wguCq"
       },
       "artists": [
@@ -8473,7 +8491,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 171706,
       "name": "fun out of it",
       "url": "https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK"
@@ -18206,7 +18224,7 @@
     },
     {
       "album": {
-        "name": "stories II",
+        "name": "stories 2",
         "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [

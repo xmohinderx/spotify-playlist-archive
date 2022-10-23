@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 325121,
+  "num_followers": 325199,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDg3YTkyNWU3NzNlZGFkZTJmNDExYTc1MWJlOTIxZjZm",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGEzZTYwMTBlNzVmMzRlYWQ3ZDNjMzMzODE5YjQxZjM1",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
-      "added_at": "2022-10-22 01:54:35",
+      "added_at": "2022-10-23 01:56:16",
       "album": {
         "name": "El pavo real",
         "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
-      "added_at": "2022-10-22 01:54:35",
+      "added_at": "2022-10-23 01:56:16",
       "album": {
         "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
         "url": "https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4"
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Xaxoeira",
         "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
@@ -327,18 +343,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
       },
       "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
         {
           "name": "El B\u00faho",
           "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ma\u00f1ana Tepotzlan",
-      "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
+      "duration_ms": 239417,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -371,26 +391,6 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Amansara Remixed",
-        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 239417,
-      "name": "Sueno en Paraguay - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Shika Shika Presents Eco",
-        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
-      },
-      "artists": [
-        {
-          "name": "Di Laif",
-          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
-        },
-        {
-          "name": "Maf\u00e9 Tula",
-          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
-        }
-      ],
-      "duration_ms": 332830,
-      "name": "Paso Por El Fuego",
-      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 245280,
       "name": "Como Lo Ped\u00ed",
       "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Shika Shika Presents Eco",
+        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
+      },
+      "artists": [
+        {
+          "name": "Di Laif",
+          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
+        },
+        {
+          "name": "Maf\u00e9 Tula",
+          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
+        }
+      ],
+      "duration_ms": 332830,
+      "name": "Paso Por El Fuego",
+      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -715,6 +715,22 @@
       "duration_ms": 205252,
       "name": "Otun (feat. Nidia Gongora)",
       "url": "https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -791,50 +807,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 206148,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Sierra Madre (Remix)",
-        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
-      },
-      "artists": [
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "Danger",
-          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-        },
-        {
-          "name": "H\u00e9ctor Guerra",
-          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
-        },
-        {
-          "name": "Noe Gonzalez Molina",
-          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Sierra Madre (Remix)",
-      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -871,6 +843,34 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Sierra Madre (Remix)",
+        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Danger",
+          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
+        },
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Noe Gonzalez Molina",
+          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Sierra Madre (Remix)",
+      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Enter the San",
-        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
-      },
-      "artists": [
-        {
-          "name": "SUPERSAN",
-          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "The Corsican",
-      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Fuego Nuevo",
         "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 300000,
       "name": "Levanta Muertos",
       "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Enter the San",
+        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
+      },
+      "artists": [
+        {
+          "name": "SUPERSAN",
+          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "The Corsican",
+      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -943,6 +943,46 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Sutileza",
+        "url": "https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Coladera",
+          "url": "https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ"
+        }
+      ],
+      "duration_ms": 220725,
+      "name": "Sutileza",
+      "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Solpor",
         "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
@@ -955,30 +995,6 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Tribo",
-        "url": "https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa"
-      },
-      "artists": [
-        {
-          "name": "De Juepuchas",
-          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
-        },
-        {
-          "name": "Raissa Fayet",
-          "url": "https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x"
-        },
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "Tribo",
-      "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1007,26 +1023,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Sutileza",
-        "url": "https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1"
-      },
-      "artists": [
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Coladera",
-          "url": "https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ"
-        }
-      ],
-      "duration_ms": 220725,
-      "name": "Sutileza",
-      "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Respira",
         "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
       },
@@ -1039,6 +1035,30 @@
       "duration_ms": 231346,
       "name": "Sendero del Monte",
       "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Tribo",
+        "url": "https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa"
+      },
+      "artists": [
+        {
+          "name": "De Juepuchas",
+          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+        },
+        {
+          "name": "Raissa Fayet",
+          "url": "https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "Tribo",
+      "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1071,26 +1091,6 @@
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
     },
     {
       "added_at": "2022-04-15 04:56:09",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-242 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
+243 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [At the Bay](https://open.spotify.com/track/3nBjn3U7kG0bMbZDpTIZEt) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [The Silhouettes Project](https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY) | 2:20 | 2022-02-04 |  |
 | [Ayayai](https://open.spotify.com/track/5mNqz2m3qWWKKiQcvYrKP2) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Ayayai](https://open.spotify.com/album/67IhJtRigeH1BHBu2WXLKX) | 2:50 | 2022-02-04 |  |
 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 | 2022-02-04 |  |
-| [B2l](https://open.spotify.com/track/08IhT5wCR1QLOYryNCWZdv) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [The Classix](https://open.spotify.com/album/2GPF0i84vf3bNW8VjvZlBY) | 4:31 | 2022-02-04 |  |
+| [B2l](https://open.spotify.com/track/08IhT5wCR1QLOYryNCWZdv) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [The Classix](https://open.spotify.com/album/2GPF0i84vf3bNW8VjvZlBY) | 4:31 | 2022-02-04 | 2022-10-23 |
+| [B2l](https://open.spotify.com/track/6HComUkHGc1nQ1GedncAt2) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [The Classix](https://open.spotify.com/album/7lptqhgQTqOiQKGpkqezUJ) | 4:31 | 2022-02-04 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-02-04 |  |
 | [Backseat](https://open.spotify.com/track/6dUDGsXLTE059A8d0jQuqr) | [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR) | [Backseat](https://open.spotify.com/album/5Hd4IfHw7DfZKzw0X4TYIX) | 3:36 | 2022-07-18 |  |
 | [Bagga Yute](https://open.spotify.com/track/4BHWOvdFcPLjubN0cowdUe) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE TAPES Vol.1](https://open.spotify.com/album/6jqwzjUeXAJdUBKZ0KqtGO) | 2:39 | 2022-04-26 |  |

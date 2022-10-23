@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,349 likes - 83 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,434 likes - 83 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 20 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 |
 | 21 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 |
 | 22 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
-| 23 | [Keșke](https://open.spotify.com/track/6BsCtl2xauC7m2n0j44rJv) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0uQNTw0R83Su7uyPNnPFMN) | 2:36 |
+| 23 | [Keșke](https://open.spotify.com/track/457tUZZugWzzX60RDE55pt) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0PNe8ruEaoLVDGIXDyZzA7) | 2:36 |
 | 24 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 |
 | 25 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 |
 | 26 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 82 | [Mango \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/2xFfjs4zBBmwX9nsZPkcat) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Mango \(Extrait de la BO de « En Passant Pécho »\)](https://open.spotify.com/album/0qod7rru7wX4DgxE0oZoN1) | 3:04 |
 | 83 | [Souhila](https://open.spotify.com/track/6RdwpQ01MVtJ10tyJDaxkE) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Souhila](https://open.spotify.com/album/6cS3kHSrmFMJFcisWs2lHR) | 2:44 |
 
-Snapshot ID: `MTY2NDc5MDk3MSwwMDAwMDAwMDQ1MGYxNTM2OTQzMDNmNzI4NDdhZTk1MmVhZGE0ZjNi`
+Snapshot ID: `MTY2NDc5MDk3MSwwMDAwMDAwMGNlNTgxYjkzYTRhNzhjYWNhZmVkYWIwOTE1ODI1MzUz`

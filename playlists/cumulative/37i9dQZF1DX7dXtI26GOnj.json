@@ -269,7 +269,7 @@
           "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Nathy Peluso",
+          "name": "NATHY PELUSO",
           "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
@@ -625,10 +625,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 165088,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/69BHn4uTkFhRRd41e11RwU"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165088,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/7jrytGwEUEfp6Wr5qiWkZ5"
     },
     {
       "album": {

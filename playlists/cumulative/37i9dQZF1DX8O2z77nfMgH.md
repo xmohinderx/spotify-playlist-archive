@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Shakira
 
-2,603 songs - 5 day 21 hr 55 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+2,604 songs - 5 day 21 hr 58 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,7 +731,8 @@
 | [El Flete](https://open.spotify.com/track/2NGciph2TEmR14Iq4rAGnF) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [El Flete](https://open.spotify.com/album/7a6KO2d7QGAkdfMPKmZ9uv) | 2:55 | 2022-07-29 | 2022-08-06 |
 | [El G.O.A.T.](https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [El G.O.A.T.](https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC) | 4:15 | 2022-04-01 | 2022-04-09 |
 | [El Gabito](https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Gabito](https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR) | 2:43 | 2022-09-02 | 2022-09-10 |
-| [El Gavilan](https://open.spotify.com/track/0x5DhCHzYMHtlNInGBwKWP) | [moneydontsleep](https://open.spotify.com/artist/5QRysb9fLWxmGMDjgahShe) | [El Gavilan](https://open.spotify.com/album/0gnKqnL6tOcLezY3msNSaG) | 2:55 | 2022-10-21 |  |
+| [El Gavilan](https://open.spotify.com/track/0x5DhCHzYMHtlNInGBwKWP) | [moneydontsleep](https://open.spotify.com/artist/5QRysb9fLWxmGMDjgahShe) | [El Gavilan](https://open.spotify.com/album/0gnKqnL6tOcLezY3msNSaG) | 2:55 | 2022-10-21 | 2022-10-23 |
+| [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2022-10-21 |  |
 | [El Heladero](https://open.spotify.com/track/5TdbBLZ9z35Fa5KIX6AE9p) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [El Heladero](https://open.spotify.com/album/1ys39pC3eBjoQz4fRfQnNy) | 2:47 | 2022-01-28 | 2022-02-05 |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-05-20 | 2022-05-28 |
 | [El Himno de Nosotros](https://open.spotify.com/track/0Ex5cmVTs8mBEDWtSfi8XM) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [El Himno de Nosotros](https://open.spotify.com/album/0Yg3S4PC0McwT8weJEhPtA) | 3:07 | 2022-02-11 | 2022-02-19 |

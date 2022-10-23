@@ -4,7 +4,7 @@
 
 > The newest songs from LGBTQIA+ artists\. Cover: corook
 
-417 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+418 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 | 2022-03-25 | 2022-07-23 |
 | [Jigga Who](https://open.spotify.com/track/5epd4ctYB4yCkBuA31XbiN) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Outside](https://open.spotify.com/album/5ec2VzJnxnvn4eh2vdJc1Q) | 2:32 | 2022-01-21 | 2022-02-07 |
 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 | 2022-05-27 |  |
+| [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-10-08 |  |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-19 | 2022-10-13 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-01-21 |  |
 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 | 2022-04-22 | 2022-04-29 |
@@ -400,7 +401,7 @@
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 | 2022-07-29 |
 | [Wait \- from ‘Three Months’](https://open.spotify.com/track/70iazIU8mYvhSouvV7LZir) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Wait \(from ‘Three Months’\)](https://open.spotify.com/album/1GnTOysHh33Zw6FqVWcV9q) | 3:29 | 2022-02-25 | 2022-05-28 |
 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/5nq6Soe2LU65H9D4Tnw8WN) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Want Not A Need](https://open.spotify.com/album/4XRiMQkIa8STeNF84ReYpm) | 2:07 | 2022-07-31 | 2022-08-20 |
-| [Waste Of Space](https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Waste Of Space](https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ) | 3:11 | 2022-07-15 |  |
+| [Waste Of Space](https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Waste Of Space](https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ) | 3:11 | 2022-07-15 | 2022-10-23 |
 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 | 2022-07-31 |  |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-25 |  |
 | [We're So Lovely \- Hard Ton Remix](https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [We're So Lovely \(Hard Ton Remix\)](https://open.spotify.com/album/1AtJBkGpJIZb8Ftl2bkWdj) | 4:14 | 2022-04-08 | 2022-04-19 |

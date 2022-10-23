@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-102 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
+103 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 | 2021-12-21 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 | 2022-01-03 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/3tbH5WsNoiK1pC95Nd8kWw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Jazz Millennium Collection Vol\. 1 Eco](https://open.spotify.com/album/64tZFVp68PJouG0p03ZcJy) | 3:25 | 2021-12-21 | 2022-07-29 |
+| [O Holy Night](https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:18 | 2022-10-20 |  |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 | 2021-12-21 |  |
 | [O Tannenbaum](https://open.spotify.com/track/1AuqctepNkbMGhlysf9VqX) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \(Remastered & Expanded Edition\)](https://open.spotify.com/album/5IXrTfjX17PpdhgRJvQc7N) | 5:09 | 2021-12-21 | 2022-07-29 |
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2022-01-03 | 2022-09-19 |
@@ -78,7 +79,7 @@
 | [Ole Santa](https://open.spotify.com/track/2Zwx4HXBBz8DHrIrsPI8gZ) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:42 | 2021-12-21 | 2022-07-29 |
 | [Ole Santa](https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:45 | 2022-01-03 |  |
 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 | 2021-12-21 |  |
-| [Ring The Bells](https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Christmas With Etta Jones](https://open.spotify.com/album/1gr7kGHxjoYXfD6g7UXSZI) | 3:55 | 2021-12-21 |  |
+| [Ring The Bells](https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Christmas With Etta Jones](https://open.spotify.com/album/1gr7kGHxjoYXfD6g7UXSZI) | 3:55 | 2021-12-21 | 2022-10-23 |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 | 2021-12-21 |  |
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2021-12-21 |  |
 | [Santa Claus Blues](https://open.spotify.com/track/2UlYU8FYRi8ejPfPbGs2pH) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Traditionalism Revisited](https://open.spotify.com/album/2iL2VCxjoVWAtpkKpTOGrI) | 5:45 | 2021-12-21 | 2022-07-29 |

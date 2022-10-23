@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/2jDVG4jC8ZtuQapoLqA6dk)
+56 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/2jDVG4jC8ZtuQapoLqA6dk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Charanga Costeña](https://open.spotify.com/track/3TQxsPoOgAzOQonz5tbxL5) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:13 | 2022-06-01 |  |
 | [Corrido De Los Perez](https://open.spotify.com/track/6cWMgbBpfV4bNSKGSBLWit) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 3:23 | 2022-06-01 |  |
 | [Corrido De Nayarit](https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 | 2022-06-01 |  |
+| [Dicembre Del 63](https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:15 | 2022-10-22 |  |
 | [Domingo Corrales](https://open.spotify.com/track/2WogPzSF1nbc0oA2bbPab9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:45 | 2022-06-05 | 2022-10-13 |
 | [Donde Andara](https://open.spotify.com/track/0AyrlaMKDLV7fA2w6vhA15) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:08 | 2022-06-01 |  |
 | [El Amante Apasionado](https://open.spotify.com/track/43yeCckECVY2axQt9qhaKq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:38 | 2022-09-08 | 2022-09-10 |

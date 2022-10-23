@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\.  Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,027 likes - 140 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,055 likes - 140 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 10 | [The Little Drummer Boy](https://open.spotify.com/track/7FIcV2kEiO2mvvMbxU5Jkn) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Christmas Spirit](https://open.spotify.com/album/581uOc2TNDiBSHGwURmJTO) | 2:32 |
 | 11 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 |
 | 12 | [Old Time Christmas](https://open.spotify.com/track/6YgGdmhCcdIGaBNBKgerjn) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/7bVZzd18CRxQQQRqNU0zJh) | 3:18 |
-| 13 | [Do You Hear What I Hear?](https://open.spotify.com/track/2v94C40orSbaitYQMRzdrB) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Jimmy Murphy](https://open.spotify.com/artist/7g1izbn8iAcoFzdDztqYZd), [Aliyah Good](https://open.spotify.com/artist/77mE2eFDQGBngt9hpFQFIm), [Melissa Murphey](https://open.spotify.com/artist/5uWsCgm2lHUxQ893D9Do6i) | [Spirit & Joy](https://open.spotify.com/album/384XmHwLaPIgg1KePxcaoV) | 4:13 |
+| 13 | [Do You Hear What I Hear?](https://open.spotify.com/track/2v94C40orSbaitYQMRzdrB) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Jimmy Murphy](https://open.spotify.com/artist/7g1izbn8iAcoFzdDztqYZd), [Aliyah Good](https://open.spotify.com/artist/77mE2eFDQGBngt9hpFQFIm), [Melissa Murphy](https://open.spotify.com/artist/1xWWfiQkCpAplI3UKBJZqY) | [Spirit & Joy](https://open.spotify.com/album/384XmHwLaPIgg1KePxcaoV) | 4:13 |
 | 14 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/56zCi5Jm6mBxzgQBHlfHEg) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Goin' Home For Christmas](https://open.spotify.com/album/2FMgUqfA9X3t8wvpybBHcr) | 2:49 |
 | 15 | [Jingle Bell Rock](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [The Classic Years: 1956\-1962](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) | 2:10 |
 | 16 | [Merry Christmas from the Family](https://open.spotify.com/track/0s3adyxfliQerve4qTr8Iq) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Mariah Angeliq & YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511,267 likes - 119 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,342 likes - 119 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 4 | [Usala](https://open.spotify.com/track/41vPhGqAax4hQocJ4lkOAl) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Usala](https://open.spotify.com/album/102Qg6ICYQX6S8FJFrCjDB) | 3:14 |
 | 5 | [Conexiones](https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Conexiones](https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz) | 3:21 |
 | 6 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
-| 7 | [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 |
+| 7 | [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 |
 | 8 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
 | 9 | [No Hitter](https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [No Hitter](https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi) | 2:44 |
 | 10 | [Drippin](https://open.spotify.com/track/55eYLp69sTaodwWSiVNReX) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Drippin](https://open.spotify.com/album/1EaPsewczYbCSvogGhDXlX) | 3:02 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 118 | [Conexión](https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Conexión](https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe) | 4:48 |
 | 119 | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/track/7mP1G2qfxiqCoHaTvQ2WHf) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Loyalty Over Royalty \(Deluxe\)](https://open.spotify.com/album/3GFdE9ysfem0LtpevBXD0B) | 3:33 |
 
-Snapshot ID: `MTY2NjMzMTE2MywwMDAwMDAwMGQ3MzM3M2RmZTVkYWJjNjk3ZTliMWJjMDIzY2Y1YmZh`
+Snapshot ID: `MTY2NjMzMTE2MywwMDAwMDAwMDIxODhkYjlkYzg2Y2IyZmE0MmZlY2E0YzYzODc3MjA0`

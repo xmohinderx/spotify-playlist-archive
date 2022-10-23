@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGE2ZTRlMjFlMTVlZDkwZmQ1MTg0NTVlNjgxMzc5ZjJl",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGI1OTM3NmY1OWNjZTgzYzkxNzU2NjFmMjdiOTdhMTIw",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Meet The Vamps",
         "url": "https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 182826,
       "name": "Somebody To You",
       "url": "https://open.spotify.com/track/2BWWsCwuHAZFE1scLyP6Qe"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Weekend Vibe",
         "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 248337,
       "name": "Lot to Learn",
       "url": "https://open.spotify.com/track/3TRFq09DUgYj1mug6RRqJW"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217984,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Thoughts From Yesterday",
-        "url": "https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1"
-      },
-      "artists": [
-        {
-          "name": "Elliot Root",
-          "url": "https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "June, After Dark",
-      "url": "https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 224800,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Thoughts From Yesterday",
+        "url": "https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1"
+      },
+      "artists": [
+        {
+          "name": "Elliot Root",
+          "url": "https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "June, After Dark",
+      "url": "https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Notti Brave (After)",
         "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 225106,
       "name": "New Soul",
       "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "If You Need Me",
-        "url": "https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 158474,
       "name": "Reality",
       "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Pretty Picture, Dirty Brush",
-        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
-      },
-      "artists": [
-        {
-          "name": "The Harmaleighs",
-          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "I Keep Ticking On",
-      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Sunday Best (Acoustic Version)",
         "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Pretty Picture, Dirty Brush",
+        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
+      },
+      "artists": [
+        {
+          "name": "The Harmaleighs",
+          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "I Keep Ticking On",
+      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
     },
     {
       "added_at": "2022-09-21 10:12:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH?si=3BeHxiy\_SWaivLNteSWYUQ">Yumbs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,314 likes - 81 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,853 likes - 81 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

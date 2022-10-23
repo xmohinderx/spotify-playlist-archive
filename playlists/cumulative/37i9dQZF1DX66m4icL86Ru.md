@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Megan The Stallion
 
-249 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+250 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Self Made](https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Self Made](https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl) | 2:48 | 2021-12-24 | 2022-01-20 |
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-20 | 2022-10-15 |
 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 | 2021-10-15 |  |
+| [Sike \(feat\. Queendom Come\)](https://open.spotify.com/track/0yfBE11LMkFcyfEEjG0gQB) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Queendom Come](https://open.spotify.com/artist/0tFnayGz6sZxgRf1YS5VmI) | [THE LIZ 2](https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0) | 2:53 | 2022-10-22 |  |
 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 | 2021-10-15 | 2022-01-29 |
 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 | 2022-02-20 | 2022-03-08 |
 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT) | 3:52 | 2022-03-07 | 2022-08-06 |

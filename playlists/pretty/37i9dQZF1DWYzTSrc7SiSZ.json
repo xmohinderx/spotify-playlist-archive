@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing. Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 636137,
+  "num_followers": 636216,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4Mjc5NiwwMDAwMDAwMDY3Y2ZhNTU2ZjcxMWRkMTRmMWZjMmY1MzE3MWQwMDk4",
+  "snapshot_id": "MTY2MjQ4Mjc5NiwwMDAwMDAwMGYwM2FlN2IwNWE2ZGM0ZDlhY2EwYTJlNzIyNDFkM2I3",
   "tracks": [
     {
       "added_at": "2022-09-06 16:21:31",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "La Ducha",
-        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 209941,
-      "name": "La Ducha",
-      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
@@ -671,6 +655,38 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
+        "name": "La Ducha",
+        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 209941,
+      "name": "La Ducha",
+      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 219386,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
         "name": "La Bilirrubina",
         "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 230000,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
-        "name": "La Vida en Rosa",
-        "url": "https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP"
-      },
-      "artists": [
-        {
-          "name": "Pantera Blue",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "La Vida en Rosa",
-      "url": "https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -723,18 +723,34 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+        "name": "La Vida en Rosa",
+        "url": "https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Pantera Blue",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
         }
       ],
-      "duration_ms": 219386,
-      "name": "Sin Se\u00f1al",
-      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
+      "duration_ms": 128000,
+      "name": "La Vida en Rosa",
+      "url": "https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
+        "name": "just a boy",
+        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185681,
+      "name": "just a boy",
+      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "just a boy",
-        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 185681,
-      "name": "just a boy",
-      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
+        "name": "Culpa, Tengo",
+        "url": "https://open.spotify.com/album/6ijb7bIlJEXCOrnMxTmVfX"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 187777,
+      "name": "Culpa, Tengo",
+      "url": "https://open.spotify.com/track/4bKQUb2YadX9zaek1ngZKj"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
         "name": "Wu Wu",
         "url": "https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 207727,
       "name": "Wu Wu",
       "url": "https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
-        "name": "Culpa, Tengo",
-        "url": "https://open.spotify.com/album/6ijb7bIlJEXCOrnMxTmVfX"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 187777,
-      "name": "Culpa, Tengo",
-      "url": "https://open.spotify.com/track/4bKQUb2YadX9zaek1ngZKj"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
         "name": "the better half of me",
         "url": "https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
       "artists": [
         {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+      "duration_ms": 153564,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1179,22 +1195,6 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
+        "name": "Big Fan of the Sesh, Vol. 1",
+        "url": "https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
         "name": "Visa",
         "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1459,6 +1475,22 @@
       "duration_ms": 260186,
       "name": "I Fell in Love",
       "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1563,22 +1595,6 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
         "name": "no est\u00e1s",
         "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 278490,
       "name": "fr\u00edo",
       "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
-        "name": "Big Fan of the Sesh, Vol. 1",
-        "url": "https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
+        "name": "beat relajado para estudiar",
+        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "beat relajado para estudiar",
+      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
         "name": "7 de febrero",
         "url": "https://open.spotify.com/album/0zxVXD6oNCN1u6JxljLQfo"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 193953,
       "name": "7 de febrero",
       "url": "https://open.spotify.com/track/3pT3Hel5mso2yNefImHIwb"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
-        "name": "beat relajado para estudiar",
-        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "beat relajado para estudiar",
-      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-        "url": "https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-      "url": "https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 235102,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
+        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+        "url": "https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+      "url": "https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 170487,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2022-09-06 16:21:31",
+      "album": {
         "name": "Despecho Nuevo",
         "url": "https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 217638,
       "name": "Despecho Nuevo",
       "url": "https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng"
-    },
-    {
-      "added_at": "2022-09-06 16:21:31",
-      "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -2535,18 +2535,22 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "Vuelvo a M\u00ed",
-        "url": "https://open.spotify.com/album/6AL35H5gM4P2y6774XmQ5Y"
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB"
       },
       "artists": [
         {
-          "name": "Nana Mendoza",
-          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 289677,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/6JsI9FfeTLUFsK08WitciR"
+      "duration_ms": 223847,
+      "name": "Sola - Remix",
+      "url": "https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu"
     },
     {
       "added_at": "2022-09-06 16:21:31",
@@ -2567,22 +2571,18 @@
     {
       "added_at": "2022-09-06 16:21:31",
       "album": {
-        "name": "Sola (Remix)",
-        "url": "https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB"
+        "name": "Vuelvo a M\u00ed",
+        "url": "https://open.spotify.com/album/6AL35H5gM4P2y6774XmQ5Y"
       },
       "artists": [
         {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "Nana Mendoza",
+          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
         }
       ],
-      "duration_ms": 223847,
-      "name": "Sola - Remix",
-      "url": "https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu"
+      "duration_ms": 289677,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/6JsI9FfeTLUFsK08WitciR"
     },
     {
       "added_at": "2022-09-06 16:21:31",

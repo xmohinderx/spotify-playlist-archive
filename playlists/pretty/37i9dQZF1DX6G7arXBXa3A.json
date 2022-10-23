@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 372095,
+  "num_followers": 372135,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDRjNDkwMzQwMDZkM2NiNDgzYTFjMGMyMzBkMWRiYzBh",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGFjYzAyMDYyMWMxMjU2ZjM4ZmUzNDVhODlmODdjN2Ji",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The World Of Nat King Cole (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        },
-        {
-          "name": "Stan Kenton & His Orchestra",
-          "url": "https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Orange Colored Sky - Remastered 2005",
-      "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Tony Bennett With Count Baise",
         "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 163122,
       "name": "Are You Having Any Fun",
       "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The World Of Nat King Cole (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        },
+        {
+          "name": "Stan Kenton & His Orchestra",
+          "url": "https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Orange Colored Sky - Remastered 2005",
+      "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Jimmy Dorsey:The Complete Standard Transcriptions",
-        "url": "https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dorsey",
-          "url": "https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek"
-        }
-      ],
-      "duration_ms": 149188,
-      "name": "A You\u2019re Adorable",
-      "url": "https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Black, Brown and Beige",
         "url": "https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 485492,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Jimmy Dorsey:The Complete Standard Transcriptions",
+        "url": "https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dorsey",
+          "url": "https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek"
+        }
+      ],
+      "duration_ms": 149188,
+      "name": "A You\u2019re Adorable",
+      "url": "https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -869,20 +869,24 @@
       "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
+      "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
+        "name": "I Didn\u00b4t Tell Them Why",
+        "url": "https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Andrea Motis",
+          "url": "https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Luck Be a Lady",
-      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
+      "duration_ms": 297373,
+      "name": "I Didn\u00b4t Tell Them Why",
+      "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
     }
   ],
   "unique_name": "Big Band",

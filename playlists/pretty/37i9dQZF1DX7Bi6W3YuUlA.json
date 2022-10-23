@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 3182,
+  "num_followers": 3198,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDIyMjIyZWUzNzJkOGYwNWUwMDc4NzI3OTUxZWQ0OTMw",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGRhNjZhNTFiMzYzMjIwZTFiYmU2NjA0NWJmZDQ4Njcy",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
+      },
+      "artists": [
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        },
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 272464,
       "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/6tbkOI2yzodPd7FsYcz5D3"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
-      },
-      "artists": [
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        },
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182487,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Restoration: The Deluxe Album",
         "url": "https://open.spotify.com/album/5Sskfr26AzgFTIeEYrQ4CP"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 205900,
       "name": "Rich And Famous",
       "url": "https://open.spotify.com/track/5J2iRyi0EpKwiU5NeQQRZ5"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182487,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Christopher",
-        "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 171196,
-      "name": "9th Grade",
-      "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Mind",
         "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 158399,
       "name": "Mind",
       "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Christopher",
+        "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 171196,
+      "name": "9th Grade",
+      "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "MAKE IT MAKE SENSE",
-        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "MAKE IT MAKE SENSE",
-      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 188443,
       "name": "Very Original",
       "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "MAKE IT MAKE SENSE",
+        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "MAKE IT MAKE SENSE",
+      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Way Up Above",
-        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
-      },
-      "artists": [
-        {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
-        }
-      ],
-      "duration_ms": 167944,
-      "name": "With Me Now",
-      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Veintiuno",
         "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 144155,
       "name": "Veintiuno",
       "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Way Up Above",
+        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 167944,
+      "name": "With Me Now",
+      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
     },
     {
       "added_at": "2022-05-28 19:29:54",

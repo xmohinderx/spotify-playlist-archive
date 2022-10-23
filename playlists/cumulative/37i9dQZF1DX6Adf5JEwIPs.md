@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Nathan Galante
 
-1,218 songs - 2 day 15 hr 44 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+1,218 songs - 2 day 15 hr 43 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 | 2022-07-08 | 2022-07-16 |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-05 | 2022-08-13 |
 | [Bla Bla Bla \- En Vivo](https://open.spotify.com/track/6V8T3AHQPphSxCE8CtrH8a) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Bla Bla Bla \(En Vivo\)](https://open.spotify.com/album/3AkuquPdeQkiiz3eDADGuP) | 2:30 | 2022-08-05 | 2022-08-13 |
-| [Bling Bling](https://open.spotify.com/track/1l28NysVrkcOPkEsOoeP3k) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW), [Encontrados](https://open.spotify.com/artist/2LLdYEleQoYP8o74tkEKzn) | [Bling Bling](https://open.spotify.com/album/4f04g4LuSVQlqHVHwX1XPa) | 3:48 | 2022-10-21 |  |
+| [Bling Bling](https://open.spotify.com/track/1l28NysVrkcOPkEsOoeP3k) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW), [Encontrados](https://open.spotify.com/artist/2LLdYEleQoYP8o74tkEKzn) | [Bling Bling](https://open.spotify.com/album/4f04g4LuSVQlqHVHwX1XPa) | 3:06 | 2022-10-21 |  |
 | [Bloqueado](https://open.spotify.com/track/31u0xddM70KxFebPyLawpR) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Bloqueado](https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb) | 3:01 | 2022-10-07 | 2022-10-15 |
 | [Bocas Largas](https://open.spotify.com/track/2qmLcUb0yairZclztWtKUv) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Bocas Largas](https://open.spotify.com/album/0nC5AS768OgoxplWirLIgB) | 2:44 | 2022-07-22 | 2022-07-30 |
 | [Bohemio De Afición \- En Vivo](https://open.spotify.com/track/2LiML21sISG3gagrkMHFrz) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW), [Charly Pérez](https://open.spotify.com/artist/1cGbJzKJN7XAI259t8Iwvr) | [Desde Playa El Palmito \(En Vivo\)](https://open.spotify.com/album/5VL8dw4jNBooVWrG0SJWwO) | 3:30 | 2022-10-07 | 2022-10-15 |

@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 473109,
+  "num_followers": 473465,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMDYwYWQ0ZTViNWI4YTdmNDIwMDEwZGI2ODM5ZDVhYjJj",
+  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMGQ1ZjY4NWExMzIzMzc4NDQ3N2U4NWNmZGUzNTgxYmM3",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Just Another Woman In Love",
-      "url": "https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Does Fort Worth Ever Cross Your Mind",
         "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 154360,
       "name": "The Fireman",
       "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Just Another Woman In Love",
+      "url": "https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Lord I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Lord, I Hope This Day Is Good - Single Version",
-      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Lord I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Lord, I Hope This Day Is Good - Single Version",
+      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "West By West",
-        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
       "artists": [
         {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
         }
       ],
-      "duration_ms": 160533,
-      "name": "Jose Cuervo",
-      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "West By West",
+        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
+      },
+      "artists": [
+        {
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Jose Cuervo",
+      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 195133,
       "name": "Who's Gonna Fill Their Shoes",
       "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
-      },
-      "artists": [
-        {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Redneck Girl",
-      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "I Am What I Am (Expanded Edition)",
         "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189933,
       "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
       "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Redneck Girl",
+      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Just Sylvia",
         "url": "https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 199200,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "80s Ladies",
-        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
-      },
-      "artists": [
-        {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "80's Ladies",
-      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 232773,
       "name": "What I'd Say",
       "url": "https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "80s Ladies",
+        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
+      },
+      "artists": [
+        {
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "80's Ladies",
+      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
     },
     {
       "added_at": "2022-07-25 21:36:54",

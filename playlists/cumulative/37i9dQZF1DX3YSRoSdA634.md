@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-455 songs - 1 day 4 hr 11 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+456 songs - 1 day 4 hr 14 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2022-08-05 |  |
 | [The Story Never Ends](https://open.spotify.com/track/3u5bTqHMM1P34ZkbwzdckV) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:49 | 2021-12-15 |  |
 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 | 2021-12-15 | 2022-07-31 |
+| [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:04 | 2022-09-30 |  |
 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/3UOvd4bfGqepCVx4EJLy57) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Thinking 'Bout Love \(Acoustic\)](https://open.spotify.com/album/4RuXbV8f3JjPJzTtGmBtss) | 3:04 | 2021-12-15 | 2022-07-29 |
 | [thinking 2 much](https://open.spotify.com/track/4SRkSRxPeAydDA3HrNTiSs) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [thinking 2 much](https://open.spotify.com/album/4hYmm8aor6QOvz35TiSYiG) | 3:49 | 2022-02-07 | 2022-06-20 |
 | [Thinking About You](https://open.spotify.com/track/7dSuhaIbrLsBueK1rnI4bv) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:28 | 2021-12-15 | 2022-06-04 |
@@ -440,7 +441,7 @@
 | [Who Are You](https://open.spotify.com/track/5EKm2REw8HdwoadlQKffFJ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii \(Side A\)](https://open.spotify.com/album/5sQIWaXZXAgrpbyMKYKsTp) | 3:04 | 2021-12-15 | 2022-07-26 |
 | [Who We Are](https://open.spotify.com/track/6XCPQygbj33s7OUxlbo6bX) | [Tristan Prettyman](https://open.spotify.com/artist/49RRjdOtssOA73G9NnVeUM) | [Back to Home](https://open.spotify.com/album/6WI8PZgFya82QRcFkvoCc4) | 4:19 | 2022-02-07 | 2022-04-21 |
 | [Why](https://open.spotify.com/track/6z9VXT3rQMzY6zQaQAts2t) | [Skinny Living](https://open.spotify.com/artist/405DvLr0FOuOWYgCt0emff) | [Why](https://open.spotify.com/album/4dduT0AlgUOKKCwKqtzsE1) | 2:54 | 2021-12-15 | 2022-04-19 |
-| [Why Don't You Love Me \(feat\. Demi Lovato\)](https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:31 | 2021-12-15 |  |
+| [Why Don't You Love Me \(feat\. Demi Lovato\)](https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:31 | 2021-12-15 | 2022-10-23 |
 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 | 2021-12-15 | 2022-08-06 |
 | [Wild Hearts Can't Be Broken](https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:21 | 2022-02-07 | 2022-04-21 |
 | [Wildfire \- Alternate Version](https://open.spotify.com/track/1afyMOxQCyfxUOSrCkStsy) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/1xntJyNQRAflZzEY1QRjLg) | 3:53 | 2021-12-15 | 2022-04-26 |

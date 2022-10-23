@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-145 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+146 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Star](https://open.spotify.com/track/1pvfRI4ahc13eOvO2rVzol) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Mono/Poly](https://open.spotify.com/artist/0rKc6ImQCM6pmYrQj5zcra), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 3:42 | 2022-07-19 | 2022-07-27 |
 | [Still Here](https://open.spotify.com/track/0ohx2z14GguzZPmd3Xn7Xy) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/3VtEYbEgLnLwJPml2lOYLi) | 3:34 | 2022-07-26 |  |
 | [Still Here](https://open.spotify.com/track/2ze4bpq8LB9DhqAckA4oF5) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/1ICO1b2ZKxdP6mmLsmV6K9) | 3:34 | 2022-02-04 | 2022-07-29 |
-| [Stories](https://open.spotify.com/track/16sqIjVTEld0bqx89VdOfZ) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Slow Dance '19](https://open.spotify.com/album/2FKu1cAkI8bTLP6uIiS3oZ) | 4:10 | 2022-07-26 |  |
+| [Stories](https://open.spotify.com/track/16sqIjVTEld0bqx89VdOfZ) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Slow Dance '19](https://open.spotify.com/album/2FKu1cAkI8bTLP6uIiS3oZ) | 4:10 | 2022-07-26 | 2022-10-23 |
+| [Stories](https://open.spotify.com/track/2wN4Y7z16C2sbtH493TRnH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Slow Dance '19](https://open.spotify.com/album/0ciY4l6aX0ss6gHwIgM0zj) | 4:10 | 2022-07-26 |  |
 | [Stories](https://open.spotify.com/track/3GtFv3gDrWxo6L1mo5Rcbn) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Stories](https://open.spotify.com/album/3Axyy0rnsSXmOjuouhJQJc) | 4:10 | 2022-02-04 | 2022-07-29 |
 | [Summerlude](https://open.spotify.com/track/0YLtqD6AcAFNeQcejCnfXc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [City Pop](https://open.spotify.com/album/1uIYezIgwA9tg1EyAXxDbz) | 3:33 | 2022-07-19 | 2022-07-27 |
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2022-07-19 | 2022-07-27 |

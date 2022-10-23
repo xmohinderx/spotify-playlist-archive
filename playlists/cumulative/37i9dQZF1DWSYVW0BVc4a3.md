@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Gorgon City
 
-195 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+196 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [let me know](https://open.spotify.com/track/3dn0YLb6vOGNjls1TCnn7x) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Vin Damato](https://open.spotify.com/artist/4GZheXbY0Tx2Q2WNgTyOeD), [Just Because](https://open.spotify.com/artist/5giHLR4kCj9DMuqQ5TP4K7) | [let me know](https://open.spotify.com/album/5COZC4BD2phovedc7V4on6) | 3:22 | 2022-10-06 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Let's Go Dancing](https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR) | 2:54 | 2022-08-18 |  |
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-08-18 |  |
-| [Like Me](https://open.spotify.com/track/6IJjV6gI4bKMSXoH2a35bn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Like Me](https://open.spotify.com/album/55ctcV31rSIjUUlCfENH2L) | 4:12 | 2022-08-18 |  |
+| [Like Me](https://open.spotify.com/track/6IJjV6gI4bKMSXoH2a35bn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Like Me](https://open.spotify.com/album/55ctcV31rSIjUUlCfENH2L) | 4:12 | 2022-08-18 | 2022-10-23 |
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2022-08-19 |  |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-08-18 |  |
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-09-01 |  |
@@ -178,6 +178,7 @@
 | [This Feeling \- Yotto Remix](https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [This Feeling \(Yotto Remix\)](https://open.spotify.com/album/1TGyeiQObQ1tBNuXNUUM5m) | 3:56 | 2022-08-25 |  |
 | [This Time \- Four Tet Remix](https://open.spotify.com/track/1x62N4B6k427U5Oj2aFxRY) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [This Time \(Four Tet Remix\)](https://open.spotify.com/album/0GY2LOgXecSnpqFTLxnmhb) | 4:20 | 2022-08-18 | 2022-09-24 |
 | [Time and Time Again \- Single Edit](https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Time and Time Again](https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x) | 3:54 | 2022-08-18 | 2022-08-20 |
+| [Timelapse](https://open.spotify.com/track/2ivnsOi3RcEbskFvTS9zt3) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 8:13 | 2022-10-20 |  |
 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 | 2022-08-18 | 2022-09-24 |
 | [Together \(feat\. Queen Rose\)](https://open.spotify.com/track/5tbKjkHYB93WVpFDt5dqSV) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Queen Rose](https://open.spotify.com/artist/4ffLGz2xBwZ8DELkCT0T4h) | [Together \(feat\. Queen Rose\)](https://open.spotify.com/album/0ia7cq8ciRruXW7meKRkKn) | 2:58 | 2022-08-18 | 2022-09-16 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-08-18 |  |

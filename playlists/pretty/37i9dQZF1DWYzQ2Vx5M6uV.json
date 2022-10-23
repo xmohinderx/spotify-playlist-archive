@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 99332,
+  "num_followers": 99361,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMDAyZGZkYzRlMjY3YzUyMTM5YzY5ZjhkODBiYWRiYjMy",
+  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMGQ5NjBlMmM0MzJlNjZkNWRjNzExNGQxMjUyMTQ5OTE0",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -71,26 +71,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 186476,
-      "name": "Maria Elegante (feat. Afro B)",
-      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Posa",
         "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 206585,
       "name": "Posa",
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 186476,
+      "name": "Maria Elegante (feat. Afro B)",
+      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "WONDALAND",
+        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "MOSLADO",
+      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "WONDALAND",
-        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "MOSLADO",
-      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1155,30 +1155,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Sugarcane (Latin Remix)",
-        "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
+        "name": "Rover (feat. Piso 21)",
+        "url": "https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV"
       },
       "artists": [
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
         },
         {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Green Cookie",
-          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 258048,
-      "name": "Sugarcane - Latin Remix",
-      "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
+      "duration_ms": 211250,
+      "name": "Rover (feat. Piso 21)",
+      "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1207,22 +1199,30 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Rover (feat. Piso 21)",
-        "url": "https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV"
+        "name": "Sugarcane (Latin Remix)",
+        "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
       },
       "artists": [
         {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
         },
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Green Cookie",
+          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
         }
       ],
-      "duration_ms": 211250,
-      "name": "Rover (feat. Piso 21)",
-      "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
+      "duration_ms": 258048,
+      "name": "Sugarcane - Latin Remix",
+      "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Te Gusta",
+        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
+      },
+      "artists": [
+        {
+          "name": "Young \"D\"",
+          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "duration_ms": 206538,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Next To You Part II (feat. Rvssian & Davido)",
         "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
       },
@@ -1375,30 +1399,6 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Te Gusta",
-        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
-      },
-      "artists": [
-        {
-          "name": "Young \"D\"",
-          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
-        }
-      ],
-      "duration_ms": 206538,
-      "name": "Te Gusta",
-      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
     },
     {
       "added_at": "2022-09-06 16:11:58",

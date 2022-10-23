@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Spencer Crandall
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,603 likes - 118 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,166 likes - 118 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

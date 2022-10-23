@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 91915,
+  "num_followers": 92442,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMTk0MiwwMDAwMDAwMGY1NWFkMzA3NWI5NDQyMjY5MDUwOGE0MzZmNTk2Yjg3",
+  "snapshot_id": "MTY1MzQyMTk0MiwwMDAwMDAwMDU5NTlkNjI0ZDNiMWYzNmEyMzkxNGQ5ZWVmNDYyYThk",
   "tracks": [
     {
       "added_at": "2022-04-06 14:17:26",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-04-06 14:17:26",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 295133,
-      "name": "Roam",
-      "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
-    },
-    {
-      "added_at": "2022-04-06 14:17:26",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 219813,
       "name": "New Sensation",
       "url": "https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId"
+    },
+    {
+      "added_at": "2022-04-06 14:17:26",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 295133,
+      "name": "Roam",
+      "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
     },
     {
       "added_at": "2022-04-06 14:17:26",

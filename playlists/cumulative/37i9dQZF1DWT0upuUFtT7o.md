@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Blondshell, Artwork: Robin Clifford Ellis
 
-958 songs - 2 day 4 hr 12 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+959 songs - 2 day 4 hr 17 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,7 +804,8 @@
 | [Summer of '99](https://open.spotify.com/track/3MwDhhpLZw5nq9lH7y08pS) | [Samica](https://open.spotify.com/artist/6ueMf7NpSrxj4b0g3YTlnW) | [Summer of '99](https://open.spotify.com/album/1LLK9eEMiU6qcJEqnfB5yL) | 2:50 | 2022-02-16 | 2022-03-03 |
 | [Summertime](https://open.spotify.com/track/6fLVxvj9Ou6bivN3UcTIue) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Summertime](https://open.spotify.com/album/4bJxiVuoIYZjtaEPg6iSgo) | 3:02 | 2022-03-09 | 2022-03-17 |
 | [Sunburnt Satellite](https://open.spotify.com/track/6UOPu68t2xakvjSWpf2gZT) | [Archie Summers](https://open.spotify.com/artist/6qJo0NzENdLkCEGNqMJ4GS) | [Sunburnt Satellite](https://open.spotify.com/album/10m0ppE6nAkOwKPjbUeSre) | 2:44 | 2022-05-25 | 2022-06-30 |
-| [sunday](https://open.spotify.com/track/3zr4TeNjRDqvGBCdXPhSmT) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [sunday](https://open.spotify.com/album/4GACDuLDmUJ1twsLW9N3Ak) | 4:24 | 2022-10-12 |  |
+| [sunday](https://open.spotify.com/track/3zr4TeNjRDqvGBCdXPhSmT) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [sunday](https://open.spotify.com/album/4GACDuLDmUJ1twsLW9N3Ak) | 4:24 | 2022-10-12 | 2022-10-23 |
+| [sunday](https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 4:24 | 2022-10-12 |  |
 | [Sunscreen](https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS) | [Booshell](https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9), [Charm on the beat](https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD) | [Sunscreen](https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ) | 3:18 | 2022-08-25 | 2022-10-20 |
 | [Sunset Blvd.](https://open.spotify.com/track/7FsZeb6sYRsUhoES6Na1U1) | [THEM](https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin) | [Sunset Blvd.](https://open.spotify.com/album/3Dld8zVEfqwx6hTF7bENg2) | 3:24 | 2022-07-20 | 2022-08-04 |
 | [Sunshine](https://open.spotify.com/track/08WoFlGwyAB7ckXoJPDoqY) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 3:00 | 2022-03-16 | 2022-04-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,844 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,859 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 32 | [Vuela y Vuela](https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Vuela y Vuela](https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l) | 3:01 |
 | 33 | [A Ti Sí Te Quería](https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [A Ti Sí Te Quería](https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk) | 2:59 |
 | 34 | [Se Chambiar](https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Se Chambiar](https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF) | 2:37 |
-| 35 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 |
-| 36 | [Soy Infante](https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Soy Infante](https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1) | 2:34 |
+| 35 | [Soy Infante](https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Soy Infante](https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1) | 2:34 |
+| 36 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 |
 | 37 | [Una Linda Canción](https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Una Linda Canción](https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw) | 4:28 |
 | 38 | [Tres Veces Te Engañé](https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tres Veces Te Engañé](https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN) | 3:13 |
 | 39 | [2 vidas](https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk) | [Compa Missa](https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [2 vidas](https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4) | 3:31 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 47 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 |
 | 48 | [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 |
 | 49 | [Ya Los Miraron Pasar](https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Ya Los Miraron Pasar](https://open.spotify.com/album/4L4RHzgMeqzU8LeXix4JLh) | 3:07 |
-| 50 | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3) | 2:08 |
-| 51 | [Sombrero Vaquero](https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA) | [GOHN](https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W) | [Sombrero Vaquero](https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67) | 3:29 |
+| 50 | [Sombrero Vaquero](https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA) | [GOHN](https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W) | [Sombrero Vaquero](https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67) | 3:29 |
+| 51 | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3) | 2:08 |
 | 52 | [11: 11](https://open.spotify.com/track/58iqJkgLGdfiDkadJqGYny) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [11: 11](https://open.spotify.com/album/5ZuV7NA7e2albgIzv4FZT6) | 3:31 |
 | 53 | [1942](https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [1942](https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb) | 2:18 |
 | 54 | [Humo](https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Humo](https://open.spotify.com/album/6U3xMwALsK9e4B8OFgVW92) | 3:24 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 58 | [nuestro amor](https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [nuestro amor sacrificado](https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY) | 1:22 |
 | 59 | [Me Muero Por Tenerte](https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo 415](https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw) | [Me Muero Por Tenerte](https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa) | 3:56 |
 | 60 | [Otra Oportunidad](https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Otra Oportunidad](https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK) | 2:23 |
-| 61 | [Sueño Americano](https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Sueño Americano](https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq) | 2:14 |
-| 62 | [Bajo la Lluvía](https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Cuadra FL](https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt) | [Bajo la Lluvía](https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c) | 2:34 |
+| 61 | [Bajo la Lluvía](https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Cuadra FL](https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt) | [Bajo la Lluvía](https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c) | 2:34 |
+| 62 | [Sueño Americano](https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Sueño Americano](https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq) | 2:14 |
 | 63 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
 | 64 | [A Lo Mexa](https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [A LO MEXA](https://open.spotify.com/album/2HcE7v275MEIzkURdbqfle) | 3:15 |
 | 65 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Nuestras Noches](https://open.spotify.com/track/05np5qqF0I9dukvYweal2A) | [Shia Aldair](https://open.spotify.com/artist/07Fa79I3tdHSTFwNQhi0uX) | [Desventura](https://open.spotify.com/album/1Fp1Oy7agN1VYfy4clJiDi) | 3:32 |
 | 75 | [Bella Mujer](https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Bella Mujer](https://open.spotify.com/album/7AyFGqdzc3zqoW68XI8SA3) | 2:26 |
 
-Snapshot ID: `MTY2NTcyMzYwMCwwMDAwMDAwMDFlMDk4NzJiMWY2ZjBjZjE4ZTZiZmMzYzI0YjU4ODg2`
+Snapshot ID: `MTY2NTcyMzYwMCwwMDAwMDAwMDk1NGY4NTU3MjE4ZjIzMGM5M2M0ZWI0YmEwOTYwMzlk`

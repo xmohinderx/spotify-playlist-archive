@@ -957,7 +957,7 @@
     {
       "album": {
         "name": "Fiesta",
-        "url": "https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp"
+        "url": "https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u"
       },
       "artists": [
         {
@@ -968,6 +968,24 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186580,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
       "duration_ms": 186580,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV"

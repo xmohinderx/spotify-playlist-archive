@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-623 songs - 1 day 17 hr 44 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+624 songs - 1 day 17 hr 47 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Dreams Via Memories](https://open.spotify.com/track/47rVmhBEJm7bJUYpNcCxsK) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [The Cart](https://open.spotify.com/album/7gCS6N9XxSGCt9rPsIVcD4) | 4:51 | 2022-07-22 |  |
 | [Dripping Sun](https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 7:50 | 2022-07-11 |  |
 | [Dry the Rain \- Remaster](https://open.spotify.com/track/0tjlSGZvut3IIdmwxC3hTh) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [Dry the Rain \(Remaster\)](https://open.spotify.com/album/6C87ASWepSzNhWrquNxPtP) | 6:03 | 2021-04-02 | 2022-04-16 |
-| [Earth Worship](https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA) | 3:37 | 2022-08-12 |  |
+| [Earth Worship](https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA) | 3:37 | 2022-08-12 | 2022-10-23 |
 | [East West Link](https://open.spotify.com/track/3hFhPZ9ApoLLQ3bGCDlCDs) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:08 | 2021-04-02 | 2022-04-21 |
 | [Easy](https://open.spotify.com/track/7n2LE79lG0ffnBaz1FafUT) | [Gringo Star](https://open.spotify.com/artist/09CQngaijJk9iSalfKfrIW) | [Easy](https://open.spotify.com/album/5WasPewzfe8OJmGk93ezBK) | 3:42 | 2021-04-02 | 2022-04-20 |
 | [Easy to Love](https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 3:38 | 2022-07-11 | 2022-07-30 |
@@ -180,6 +180,7 @@
 | [FEEL LIKE](https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu) | 3:08 | 2021-10-18 | 2022-10-13 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-07-11 |  |
 | [Fever](https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8) | 2:54 | 2021-10-08 | 2022-10-13 |
+| [Fever](https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq) | 2:54 | 2022-09-02 |  |
 | [Fiddle Lake](https://open.spotify.com/track/4tpnfEPUy0N3CLw8RN5jky) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Fiddle Lake](https://open.spotify.com/album/1kMZIZxQmPCDr1mKUcJQcD) | 3:36 | 2022-04-20 | 2022-06-04 |
 | [Find My Way \(feat\. Beck\)](https://open.spotify.com/track/4c8smavpayWzKMgLze3m7w) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 4:53 | 2021-06-04 | 2022-07-30 |
 | [Find Yourself](https://open.spotify.com/track/4a0f7rpm3Z8hgrOR1IZXxb) | [Jacco Gardner](https://open.spotify.com/artist/5RfKXXQQn2OhZiT5iSggZn) | [Hypnophobia](https://open.spotify.com/album/3PDgKBSnMy41T0IDRqIudq) | 3:34 | 2021-04-02 | 2022-04-15 |

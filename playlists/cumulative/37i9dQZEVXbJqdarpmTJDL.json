@@ -1298,6 +1298,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
         "name": "Super Trapper II",
         "url": "https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV"
       },
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 192989,
       "name": "BELLA",
       "url": "https://open.spotify.com/track/2z4kjQGOaN9TEQ6uYgS21l"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -3665,7 +3683,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 213333,
       "name": "CPM",
       "url": "https://open.spotify.com/track/49rXlRxJwYPU3uQLjfE2tv"
@@ -3897,6 +3915,32 @@
       "duration_ms": 158247,
       "name": "Dali",
       "url": "https://open.spotify.com/track/4H5J9hUKHyYynWdeOVQGJL"
+    },
+    {
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172121,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
     },
     {
       "album": {
@@ -4547,7 +4591,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -5102,6 +5146,44 @@
     },
     {
       "album": {
+        "name": "El Telephone (Remix)",
+        "url": "https://open.spotify.com/album/5OYlXWtC3fZjrfW8pV41ME"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Bobito",
+          "url": "https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm"
+        },
+        {
+          "name": "Ayman",
+          "url": "https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "El Telephone - Remix",
+      "url": "https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J"
+    },
+    {
+      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6yLTAu9P2FW7uwTzchu1Xx"
       },
@@ -5131,7 +5213,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 168000,
       "name": "Ela",
       "url": "https://open.spotify.com/track/2tq1vcOwuhgSuq1QEdLKjz"
@@ -9344,6 +9426,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "album": {
         "name": "LDN",
         "url": "https://open.spotify.com/album/7Kwljulc9rBLJgoXEuCJ8S"
       },
@@ -10624,6 +10724,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218270,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
         "name": "Martini",
         "url": "https://open.spotify.com/album/5PMJkuVePgx9hwYwGYE02e"
       },
@@ -11288,6 +11406,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR"
+    },
+    {
+      "album": {
         "name": "Amantes Amentes",
         "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
       },
@@ -11887,6 +12023,24 @@
       "duration_ms": 211188,
       "name": "Mporei",
       "url": "https://open.spotify.com/track/7raprblR3NfeuiV72Lz5Il"
+    },
+    {
+      "album": {
+        "name": "Mr. Barty",
+        "url": "https://open.spotify.com/album/4qMr2t95VrO0ppW7pCdgw1"
+      },
+      "artists": [
+        {
+          "name": "Lil Barty",
+          "url": "https://open.spotify.com/artist/501ecrQlNfbAmZawdV0hzg"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Mr. Barty",
+      "url": "https://open.spotify.com/track/1UlSCsg3pdEK3Ujnrm6KwA"
     },
     {
       "album": {
@@ -12687,7 +12841,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 159996,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/259d0kioJeWhOXnNBMyV0B"
@@ -12767,7 +12921,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 206896,
       "name": "OLE",
       "url": "https://open.spotify.com/track/2G9iZhy22NiEkyAeKtKIXC"
@@ -13255,7 +13409,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 182000,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/21xcnEC8ZIr8nTtI8xyDeS"
@@ -13815,7 +13969,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 182400,
       "name": "Platina",
       "url": "https://open.spotify.com/track/0qQiT7KDAZGP1WdkWvqNah"
@@ -13877,7 +14031,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 169583,
       "name": "Point Blank",
       "url": "https://open.spotify.com/track/5809RxXNGAC3D3Pmiayf22"
@@ -15237,7 +15391,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 196457,
       "name": "Selfmade",
       "url": "https://open.spotify.com/track/2ZrtlDFHOqPVN3fBJyvoaH"
@@ -15679,6 +15833,28 @@
       "duration_ms": 202285,
       "name": "SMS",
       "url": "https://open.spotify.com/track/6wQJ9pkDnSk9JAAbwiNeDZ"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
       "album": {
@@ -17997,7 +18173,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -18249,6 +18425,24 @@
       "duration_ms": 174857,
       "name": "Veres",
       "url": "https://open.spotify.com/track/05s7o2edFCH1IWwQdCPXnf"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
       "album": {
@@ -19089,6 +19283,24 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194206,
+      "name": "You're On Your Own, Kid",
+      "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The highest quality blend\. Cover: Local Natives
 
-524 songs - 1 day 7 hr 58 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+526 songs - 1 day 8 hr 5 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Double Blind](https://open.spotify.com/track/6cNNEIV8nghL2uLU0ftNXg) | [Tropical Gothclub](https://open.spotify.com/artist/2xTveN5GIbAP7sHYpUm7W9) | [Double Blind](https://open.spotify.com/album/53LHhE4JeFHvpuPwTGMCNa) | 3:59 | 2022-09-16 |  |
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2021-12-10 | 2022-06-25 |
 | [El Mirador](https://open.spotify.com/track/4e5XjSkzKcGH13tXCMenrt) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/0GYUzPcQE3XA2BdpYrNetm) | 3:38 | 2022-02-04 | 2022-03-12 |
-| [Electric Cowboy](https://open.spotify.com/track/7Gzcpc6ptwBLuQ8qrpbV3z) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [Electric Cowboy](https://open.spotify.com/album/5tS5TNCj1haHeH8E8O3qzo) | 2:58 | 2022-08-26 |  |
+| [Electric Cowboy](https://open.spotify.com/track/5kbKsEeybjC4dwC81VzcMI) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [Electric Cowboy](https://open.spotify.com/album/1PEI81AumE2BIfv35EdHpa) | 2:58 | 2022-10-14 |  |
+| [Electric Cowboy](https://open.spotify.com/track/7Gzcpc6ptwBLuQ8qrpbV3z) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [Electric Cowboy](https://open.spotify.com/album/5tS5TNCj1haHeH8E8O3qzo) | 2:58 | 2022-08-26 | 2022-10-23 |
 | [Elizabeth Taylor](https://open.spotify.com/track/3ugqcqDDIuBGovoWueX1zP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Elizabeth Taylor](https://open.spotify.com/album/59gCtHmNtSL4NzjIXYGL5g) | 3:15 | 2021-12-10 | 2022-03-26 |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 |  |
 | [Endless Summer](https://open.spotify.com/track/6H84DggstIx0r9Dk3J5VJG) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Endless Summer](https://open.spotify.com/album/7hGVr1eHSLvCIV0EFRqw2i) | 4:14 | 2021-12-17 | 2022-03-18 |
@@ -443,7 +444,8 @@
 | [tend the garden](https://open.spotify.com/track/7k6V01BcGYOdDMp0dW2wMY) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [tend the garden](https://open.spotify.com/album/0vjOPWnG8mKMfV4KZW6dNG) | 4:27 | 2021-12-10 | 2022-01-08 |
 | [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:37 | 2021-12-10 | 2022-03-12 |
 | [That's the Way](https://open.spotify.com/track/6605Eat9tZYmvF4CqRWRaF) | [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [That's the Way](https://open.spotify.com/album/1wAfZ9Lxqu6j525mwClP4A) | 2:51 | 2022-07-15 |  |
-| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 |  |
+| [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-10-14 |  |
+| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-10-23 |
 | [The Amarillo Kid](https://open.spotify.com/track/0fXzyVQDNT7wr5LGb8Szy0) | [Craig Finn](https://open.spotify.com/artist/78DZaDfOK3i88eRVPkzZu2) | [A Legacy of Rentals](https://open.spotify.com/album/1kQ2gADUVYR15SXj8nhGrD) | 4:36 | 2022-05-20 | 2022-07-30 |
 | [The Beachland Ballroom](https://open.spotify.com/track/2P5ejJgRn6ntNPbxIxZZA5) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The Beachland Ballroom](https://open.spotify.com/album/2kn8AaYqyvMnoNtQPJoOnl) | 4:00 | 2021-12-10 | 2022-03-26 |
 | [The Getting By II](https://open.spotify.com/track/2PHtfP5IGUlqCd8Czk9khL) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Pressure Machine \(Deluxe\)](https://open.spotify.com/album/01Go8OwdhESlkxPwrx6515) | 3:16 | 2022-03-25 | 2022-06-18 |

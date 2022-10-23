@@ -4,7 +4,7 @@
 
 > An introduction to some of alt\-rock’s most seminal tracks.
 
-250 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+251 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 | 2021-12-15 |  |
 | [Afterthought](https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Dear Seattle](https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL) | 4:20 | 2021-12-15 |  |
 | [Airplane](https://open.spotify.com/track/246PWkuEwTNahzwBXyvrsr) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/7GNLSiqm0a7XIAsbORgOJW) | 3:25 | 2022-04-15 | 2022-07-29 |
+| [Airplane](https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R) | 3:25 | 2022-10-11 |  |
 | [All Roads To Fault](https://open.spotify.com/track/0fFBu7H2PmhCekkSKLt4WM) | [YOURCODENAMEIS:MILO](https://open.spotify.com/artist/4NxevFKr3yFvhjmHzx9LiC) | [All Roads To Fault](https://open.spotify.com/album/5JGrdQ4TMXyliWqV0uabyn) | 2:45 | 2022-02-02 | 2022-07-27 |
 | [All We Need Is a Little Energon, And a Lot of Luck](https://open.spotify.com/track/2q9icUNZZeTF9O9kw619hs) | [Meet Me in St\. Louis](https://open.spotify.com/artist/507WKf85fzZkH5W2c61m10) | [Variations on Swing](https://open.spotify.com/album/51DY8UB57wOtJLkLjKrK45) | 3:44 | 2021-12-15 | 2022-07-25 |
 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 | 2021-12-15 |  |
@@ -233,7 +234,7 @@
 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 | 2021-12-15 | 2022-10-12 |
 | [Trouble Prone](https://open.spotify.com/track/5ICqGwuTjnSZjWEBQVLOo8) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Whatever Happens](https://open.spotify.com/album/0fDxt4CQ9DR4P1pKzeznOc) | 2:29 | 2021-12-15 | 2022-07-22 |
 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 | 2021-12-15 |  |
-| [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 |  |
+| [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 | 2022-10-23 |
 | [Unreal Is Here](https://open.spotify.com/track/4aBXGe7ftxVf7GaArOg0nK) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/4UjIWlTVbImEfiI40fF83i) | 2:31 | 2021-12-15 | 2022-07-29 |
 | [Us Vs Them](https://open.spotify.com/track/5GGPceIwbcpa563RKaNnoc) | [Spring King](https://open.spotify.com/artist/5kkANnP50OoBkxc8JRuTsA) | [A Better Life](https://open.spotify.com/album/3WwiWPs4LPH5421J6wovcV) | 3:42 | 2021-12-15 | 2022-07-29 |
 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 | 2021-12-15 |  |

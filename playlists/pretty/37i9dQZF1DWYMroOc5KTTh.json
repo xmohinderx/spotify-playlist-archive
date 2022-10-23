@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 363123,
+  "num_followers": 363188,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMDU4YjhiOGJjNTg2NjYyYzg5ZThkMDY4ZmRkM2ZmNjY4",
+  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMDYzZWY1NGZkMmJiMGEzMjg1ZTE2OTEyNTMwYzE0MWY3",
   "tracks": [
     {
       "added_at": "2022-09-05 09:11:31",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
+        "name": "Melt Away",
+        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "I'm a Kid",
+      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
+    },
+    {
+      "added_at": "2022-09-05 09:11:31",
+      "album": {
         "name": "Missing You / Something About Your Love",
         "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
       },
@@ -735,18 +751,22 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Melt Away",
-        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 206500,
-      "name": "I'm a Kid",
-      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -787,26 +807,6 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
-    },
-    {
-      "added_at": "2022-09-05 09:11:31",
-      "album": {
         "name": "Don't Hurt Me Baby",
         "url": "https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8"
       },
@@ -823,22 +823,22 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
         }
       ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
       "added_at": "2022-09-05 09:11:31",

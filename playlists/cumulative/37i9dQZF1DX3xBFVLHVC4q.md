@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1STAR](https://open.spotify.com/track/71WkT8jdbJeb5mgNhzo8oU) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Second Solo Concert Album \~THE STORY OF FEATHER\~ starring Kurosawa Ruby](https://open.spotify.com/album/3SBDAPMnWbt2amyheZB4dc) | 5:53 | 2022-08-02 |  |
-| [Amazing Travel DNA](https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 4:15 | 2022-08-02 | 2022-10-18 |
+| [1STAR](https://open.spotify.com/track/71WkT8jdbJeb5mgNhzo8oU) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Second Solo Concert Album \~THE STORY OF FEATHER\~ starring Kurosawa Ruby](https://open.spotify.com/album/3SBDAPMnWbt2amyheZB4dc) | 5:53 | 2022-08-02 | 2022-10-23 |
+| [Amazing Travel DNA](https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 4:15 | 2022-08-02 |  |
 | [Awaken the power](https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 4:56 | 2022-08-02 |  |
 | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/track/4UUh7EUY4xOCoay7iZQNv1) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [初音ミク](https://open.spotify.com/artist/4uMfWEy05Ba85u9fEl1yTz) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 4:51 | 2022-10-04 |  |
 | [Believe again](https://open.spotify.com/track/3aYg7E9EixRCtQQX5SZuat) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:41 | 2022-08-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,446 likes - 236 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,480 likes - 236 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 106 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 107 | [Black Jesus](https://open.spotify.com/track/1la0aSUiW65Xe2rdUeKaC3) | [Vaskular](https://open.spotify.com/artist/3PCke6m65zUDzwQWfyUDWY), [Valesuchi](https://open.spotify.com/artist/7bTJstu6QJHKJYOnIsvnIb) | [Gasoline](https://open.spotify.com/album/1Wf1QKyeEgTVqWk9IX15vk) | 5:50 |
 | 108 | [Champion Riddim](https://open.spotify.com/track/1FJGkTpr5IXHYcrpr5YIO9) | [Zikomo](https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm) | [Revived](https://open.spotify.com/album/4Ye2YJtzJLJ8zTOTnr6BMC) | 4:21 |
-| 109 | [B2l](https://open.spotify.com/track/08IhT5wCR1QLOYryNCWZdv) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [The Classix](https://open.spotify.com/album/2GPF0i84vf3bNW8VjvZlBY) | 4:31 |
+| 109 | [B2l](https://open.spotify.com/track/6HComUkHGc1nQ1GedncAt2) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [The Classix](https://open.spotify.com/album/7lptqhgQTqOiQKGpkqezUJ) | 4:31 |
 | 110 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
 | 111 | [Silly Games](https://open.spotify.com/track/6mxMnaQhdMaWp0XRAyjjfA) | [Janet Kay](https://open.spotify.com/artist/4D6CqTx48E5t6aL411Gl3F) | [The Definitive Hits Collection \(1977\-1985\)](https://open.spotify.com/album/5gy1TnTDWxk2X0tyRD0gZ5) | 4:08 |
 | 112 | [Worthwhile](https://open.spotify.com/track/7jEeWYDKFNDqfYRSMVrjp0) | [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Worthwhile](https://open.spotify.com/album/2XB8HAvknQSdm3PWK5oOLC) | 3:00 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 235 | [chuu](https://open.spotify.com/track/6cLURLxklSLSHLFVIdsxIl) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [this is no longer a dream](https://open.spotify.com/album/4GBfihSelwvWO2jpJyqRsL) | 4:13 |
 | 236 | [undulations](https://open.spotify.com/track/2BQd1XaRUqANb211A2PWBz) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [this is no longer a dream](https://open.spotify.com/album/4GBfihSelwvWO2jpJyqRsL) | 3:16 |
 
-Snapshot ID: `MTY1ODE3MTM1MywwMDAwMDAwMGRhYjgxYmFiOTc3M2M1MjNhMjg4OTczOTI3MWJiMTky`
+Snapshot ID: `MTY1ODE3MTM1MywwMDAwMDAwMDQ3ODJkZDJiMzU1YTU1NjkyMWUyMDkxZWFmYjQ0ZDNm`

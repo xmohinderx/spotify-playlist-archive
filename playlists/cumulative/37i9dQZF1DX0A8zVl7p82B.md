@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-204 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
+205 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-12-24 | 2022-07-29 |
 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 | 2021-12-24 |  |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-24 |  |
-| [Perfect Holiday](https://open.spotify.com/track/7uurWnQa19yid3vd4rslmc) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/3BvrInE7zjaCeJHke6V00J) | 3:13 | 2021-12-24 |  |
+| [Perfect Holiday](https://open.spotify.com/track/44db5yiEjupwyZxXSRoyK8) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/00M3oIJTaN91qcnp0RZHMP) | 3:13 | 2021-12-24 |  |
+| [Perfect Holiday](https://open.spotify.com/track/7uurWnQa19yid3vd4rslmc) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/3BvrInE7zjaCeJHke6V00J) | 3:13 | 2021-12-24 | 2022-10-23 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/2wkAdxI86skFLB5GuFazzL) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Please Come Home for Christmas](https://open.spotify.com/album/2KuLH6xDWAUpRXr7JqxTd9) | 2:57 | 2021-12-24 |  |
 | [Please Come Home For Christmas](https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Please Come Home For Christmas](https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw) | 3:17 | 2021-12-24 |  |
 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/29UQV9kjexf0TJAR0UElID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4ecvpp0mbSwKEUWHAPngLV) | 3:28 | 2021-12-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 311887,
+  "num_followers": 312083,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDBhMjMwZGJjOGM2MGU2OGQ4YTJhMWVkZDAwMmRkY2U0",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDJhZjE2NDk2OGYyYTY2M2U3MTgxMzNhOGJkMGU1Nzlk",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     },
     {
       "added_at": "2021-05-21 19:19:27",

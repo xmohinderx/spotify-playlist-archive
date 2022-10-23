@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-123 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+126 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 |  |
 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 | 2022-10-20 |  |
 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 | 2022-09-08 |  |
-| [An Arp in Tunisia](https://open.spotify.com/track/13GMwEv7D26ltljKaWoHoV) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 4:34 | 2022-09-29 |  |
+| [An Arp in Tunisia](https://open.spotify.com/track/13GMwEv7D26ltljKaWoHoV) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 4:34 | 2022-09-29 | 2022-10-23 |
 | [An Arp in Tunisia](https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 4:34 | 2022-09-08 | 2022-10-02 |
+| [An Arp in Tunisia](https://open.spotify.com/track/6VmcLYc8U5BhnnpRZgtK4k) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:34 | 2022-10-20 |  |
 | [Andrew](https://open.spotify.com/track/6bcW2UIWP67jOoXPD9zPHQ) | [Lara Rosseel](https://open.spotify.com/artist/42u3vSYiwwVQVuGf5dwZ8G) | [Andrew](https://open.spotify.com/album/71FGBP3IfFNdmoWJpELJYw) | 4:25 | 2022-09-08 |  |
 | [Animalcules](https://open.spotify.com/track/08iC6paJaIkY2EJTAl5jlX) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 6:10 | 2022-09-15 |  |
 | [Animalcules](https://open.spotify.com/track/1Dp9cU6Cf2Ccu0o9LyFOA9) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Animalcules](https://open.spotify.com/album/1i4ife8Bxw31nzxYV30IBh) | 6:10 | 2022-09-08 | 2022-09-26 |
@@ -86,7 +87,8 @@
 | [New Dawn \(feat\. Nadeem Din\-Gabisi\)](https://open.spotify.com/track/2BXG9iC0SKTOTuHvmT9W5y) | [ESINAM](https://open.spotify.com/artist/2cy0RMC2TKpQnxVzXVl5kK), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [New Dawn](https://open.spotify.com/album/1A7QDHXLRmk4juhuhzUbQB) | 5:11 | 2022-09-08 |  |
 | [Nimbus part I](https://open.spotify.com/track/6Ah9aMPtABZk8eS5ejw9Hk) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reykjavik](https://open.spotify.com/album/5SzEQZ2YqU2mRe8iWKeVr6) | 4:57 | 2022-09-08 |  |
 | [Nineteen Seventy Fourths](https://open.spotify.com/track/4oh6KyvTpJu2CFlucJ15xg) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:15 | 2022-09-08 |  |
-| [Odyssey](https://open.spotify.com/track/1EMaoxl06TWBYanUmTst9X) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 9:42 | 2022-09-29 |  |
+| [Odyssey](https://open.spotify.com/track/1EMaoxl06TWBYanUmTst9X) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 9:42 | 2022-09-29 | 2022-10-23 |
+| [Odyssey](https://open.spotify.com/track/4E6HPS5yi8hh9obP37puOf) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 9:42 | 2022-10-20 |  |
 | [Ohmu](https://open.spotify.com/track/5A4g7ONaRS0xnNPvgegTFe) | [Namid & Sondervan](https://open.spotify.com/artist/4ybfcgNWhmTKHuY9ZU2aVm) | [Ohmu](https://open.spotify.com/album/00yLKbqXdvWkmdw7fRPlVd) | 4:01 | 2022-09-08 |  |
 | [Opalescent](https://open.spotify.com/track/5eKJw3rt8AteMAdixjvpjf) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Sub Surface](https://open.spotify.com/album/6SXiI193XZMG5LY7MoAmvQ) | 5:58 | 2022-09-08 |  |
 | [Opening 1.1.1](https://open.spotify.com/track/18nEqw47WXcG05rKgWnXzy) | [Aka Moon](https://open.spotify.com/artist/4t60EdEbfPZnelA5Qtxulk) | [Opus 111](https://open.spotify.com/album/0sTzPzqVcV9bDtST1BTcRq) | 4:24 | 2022-09-08 |  |
@@ -127,9 +129,10 @@
 | [Verloren Buffels](https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M) | [Donder](https://open.spotify.com/artist/5FBAdptDafa4fx8gGKDqBF), [Sigbjørn Apeland](https://open.spotify.com/artist/1nVOaRO8R3WXKXr1ywpULw) | [Het Verdriet](https://open.spotify.com/album/4iWJVM8EoN10L603olZx8o) | 1:33 | 2022-09-08 |  |
 | [Waksi](https://open.spotify.com/track/04UtGDGd2196p3Z0t1DMCv) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Waksi](https://open.spotify.com/album/6KzDyvv51a6uZAKIF0LLvV) | 3:35 | 2022-09-08 | 2022-09-26 |
 | [Waksi](https://open.spotify.com/track/6klvTcqZqEdAU7UvKJmX8C) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:35 | 2022-09-15 |  |
-| [Wessel](https://open.spotify.com/track/1qpwLKM8ipm4V21h3eXuuU) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 5:03 | 2022-09-29 |  |
+| [Wessel](https://open.spotify.com/track/1qpwLKM8ipm4V21h3eXuuU) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 5:03 | 2022-09-29 | 2022-10-23 |
 | [Wessel](https://open.spotify.com/track/4wmiOqY3jAPOkS6pzYvyIs) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Wessel](https://open.spotify.com/album/0OEduMDNnxOH9s5wRRzIpQ) | 5:03 | 2022-09-08 | 2022-09-25 |
 | [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 | 2022-10-03 |
+| [Wessel](https://open.spotify.com/track/7qmozlnwvvhUMzqKH80lfK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 5:03 | 2022-10-20 |  |
 | [Wolk](https://open.spotify.com/track/1psgbIT91j1nQMWMG9puWg) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Wolk](https://open.spotify.com/album/5KEYqGAofKWeCD7CZzojpB) | 3:59 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

@@ -1289,7 +1289,7 @@
       },
       "artists": [
         {
-          "name": "Pablo Pesadilla",
+          "name": "Pablito Pesadilla",
           "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
         },
         {
@@ -3585,7 +3585,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC"
@@ -3913,7 +3913,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
@@ -8217,7 +8217,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 177066,
       "name": "Menthol",
       "url": "https://open.spotify.com/track/2TiaktqJAtI0CsTL9NfyAS"
@@ -8569,7 +8569,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 220342,
       "name": "Mil Febreros",
       "url": "https://open.spotify.com/track/0JVLbLjkbbuaUV5j9Q1vAr"
@@ -8650,7 +8650,7 @@
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206384,
+      "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
@@ -10825,7 +10825,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 202581,
       "name": "Qu\u00e9 Prefieres?",
       "url": "https://open.spotify.com/track/4rJkczClRlhGsUgVqj97Pg"
@@ -13110,6 +13110,24 @@
     },
     {
       "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
+    },
+    {
+      "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia"
       },
@@ -13161,7 +13179,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
@@ -14789,7 +14807,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 116161,
       "name": "Who's Ready for Tomorrow",
       "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"

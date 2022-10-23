@@ -4,11 +4,12 @@
 
 > The best indie rock vibes — classic and current.
 
-482 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+483 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1 Dad](https://open.spotify.com/track/28A3SDCg24urXGdC2pAntq) | [Jonathan Something](https://open.spotify.com/artist/1jFjZeZbSmgLEtzv9kC8bM) | [Art So Small You Can Hardly See It](https://open.spotify.com/album/6oVM57Eye6Mx9kmqvfDr5E) | 4:36 | 2021-05-01 | 2022-04-14 |
+| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-10-14 |  |
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-22 | 2022-10-13 |
 | [1901](https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 3:13 | 2021-06-04 | 2022-04-21 |
 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-16 |  |
@@ -335,7 +336,7 @@
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-07-22 |  |
 | [Peach Pit](https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka) | 4:47 | 2022-04-13 | 2022-06-21 |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2021-05-01 | 2022-10-13 |
-| [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2022-10-07 |  |
+| [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2022-10-07 | 2022-10-23 |
 | [Pity Party](https://open.spotify.com/track/755ZtEcRE6wHKnqWMsDzWK) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/69Ezb3xqAZREwiNLdm1JFq) | 1:31 | 2022-04-13 | 2022-04-20 |
 | [Poor Boy \(Radio Edit\)](https://open.spotify.com/track/5Z6DxJNKw4jUiSDy95A0fp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Poor Boy \(Radio Edit\)](https://open.spotify.com/album/0QtXSzonmfOkR6jWtle4T5) | 3:25 | 2021-05-01 | 2022-04-14 |
 | [Poor Grammar](https://open.spotify.com/track/1Tdcb66Gwr5sczO5CJhmPc) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I'm Not Here to Make Friends](https://open.spotify.com/album/3DjTiR2VRYtZgPeK660iO8) | 2:36 | 2022-04-14 | 2022-10-08 |

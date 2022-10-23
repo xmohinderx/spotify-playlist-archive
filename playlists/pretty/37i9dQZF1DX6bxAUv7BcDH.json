@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26630,
+  "num_followers": 26628,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGI5NTYzNmMyYWJiMDFkYWQwYjI2NDIxNzc4ZDE0MDc2",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDM1MWI3YTBlYmVlZWUwMmZiMWYwNjlkNTE2YTljZGJh",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Taking The Long Way",
-        "url": "https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 237296,
-      "name": "Not Ready to Make Nice",
-      "url": "https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 147000,
       "name": "Hello, Dolly!",
       "url": "https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Taking The Long Way",
+        "url": "https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 237296,
+      "name": "Not Ready to Make Nice",
+      "url": "https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "The Movie Song Album",
         "url": "https://open.spotify.com/album/0viEs6bCf3nP560AFtCDcn"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 257359,
       "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
       "url": "https://open.spotify.com/track/1cx2NcSnJYdr3kvHWmX7fF"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Complete Clapton",
-        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
     },
     {
       "added_at": "2022-02-16 05:37:41",

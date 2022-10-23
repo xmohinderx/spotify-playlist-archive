@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: hope tala
 
-1,901 songs - 4 day 5 hr 45 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,902 songs - 4 day 5 hr 48 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1793,7 +1793,8 @@
 | [Want Me Back](https://open.spotify.com/track/7IoV5eGR85wUOXjninlmNu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:54 | 2019-08-10 | 2020-11-27 |
 | [Want To](https://open.spotify.com/track/1HFFkBC80X2eHzhtHwjpg9) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Want To](https://open.spotify.com/album/0vuxBG7PlEL28N4x9NhjHF) | 2:43 | 2019-10-04 | 2019-10-29 |
 | [Want U Back](https://open.spotify.com/track/7afpDI6k8fFpRuqEYFMxqR) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Want U Back](https://open.spotify.com/album/3TlH0am1m85oTah0V5MjWR) | 3:09 | 2021-01-15 | 2021-02-06 |
-| [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-02 |  |
+| [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 | 2022-06-02 |  |
+| [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-02 | 2022-10-23 |
 | [Warm](https://open.spotify.com/track/40Otjn8rGe8T5tbjK0eTbo) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Warm](https://open.spotify.com/album/1eik3ReaI8dJzF8piumicP) | 3:05 | 2019-11-07 | 2020-02-05 |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-23 | 2020-02-21 |
 | [Was It Something I Said \(feat\. Cavetown\)](https://open.spotify.com/track/4pCKJ8NFjBHSk1wGn13cab) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Was It Something I Said \(feat\. Cavetown\)](https://open.spotify.com/album/7r62ILwEeOZH9dJzvaU4vf) | 3:51 | 2020-05-15 | 2020-08-20 |

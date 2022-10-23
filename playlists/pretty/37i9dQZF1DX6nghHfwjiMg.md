@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,081 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,084 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 20 | [No Es Así](https://open.spotify.com/track/6SryqFcrWrgjgKrUeZQ6NE) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:31 |
 | 21 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 |
 | 22 | [Se Corre la Bola](https://open.spotify.com/track/7MIdTXBR5xOjxl8SOV4XAf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:43 |
-| 23 | [FC](https://open.spotify.com/track/69FdDBCt7D7LFJrupeujMz) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [FC](https://open.spotify.com/album/2hea6PJnjJvM6QG3vjCscG) | 2:59 |
+| 23 | [FC](https://open.spotify.com/track/69FdDBCt7D7LFJrupeujMz) | [Yami](https://open.spotify.com/artist/3hy2sPEDV0cdhA6SYc9Jc6) | [FC](https://open.spotify.com/album/2hea6PJnjJvM6QG3vjCscG) | 2:59 |
 | 24 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 |
 | 25 | [Casi Nunca Entiendo Nada](https://open.spotify.com/track/5DCMmMGHptS0nOmN97kIAV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Casi Nunca Entiendo Nada](https://open.spotify.com/album/7dAANS4Pwlb9OkkkmadzsV) | 3:13 |
 | 26 | [Bailarina](https://open.spotify.com/track/6aKDevkHNVtAXRUVC5aiu3) | [ELDANI](https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu) | [Bailarina](https://open.spotify.com/album/1VmIOFc1vgoU4lbZoIApQJ) | 4:04 |

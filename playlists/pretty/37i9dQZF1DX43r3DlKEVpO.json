@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59781,
+  "num_followers": 59798,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDEwN2RjOGU3ZTJhMGYwNTk0MGQzZWVjMDUwYTJjNjYw",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDJkNWQ1NTQ4ZTFhNTBmOWYwNDE1OTQ2YTdhNTRlYTEx",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -851,6 +851,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 200960,
       "name": "Andar com f\u00e9",
       "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 226640,
       "name": "Toda Menina Baiana",
       "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Chico Buarque de Hollanda Vol. 3",
+        "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Roda-Viva",
+      "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Rio Revisited",
         "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 203226,
       "name": "Samba Do Aviao - Live",
       "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Chico Buarque de Hollanda Vol. 3",
-        "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Roda-Viva",
-      "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "O Que Fa\u00e7o \u00c9 Musica",
-        "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
-      },
-      "artists": [
-        {
-          "name": "Jards Macal\u00e9",
-          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Vapor Barato",
-      "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Quem Sabe Isso Quer Dizer Amor",
@@ -1571,6 +1555,22 @@
       "duration_ms": 216412,
       "name": "Quem Sabe Isso Quer Dizer Amor",
       "url": "https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "O Que Fa\u00e7o \u00c9 Musica",
+        "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
+      },
+      "artists": [
+        {
+          "name": "Jards Macal\u00e9",
+          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Vapor Barato",
+      "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
     },
     {
       "added_at": "2021-08-18 22:14:03",

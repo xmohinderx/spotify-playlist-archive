@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121172,
+  "num_followers": 121164,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDg4YzM1OWViYjA0MDRkODU4YzZmOTVmMTZjOGRjYzU1",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDE2ZmVhNDRkNDBhZDEyMmEwMGRiZDFhYzM2NDBlM2Rh",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 178289,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "I Still Have Faith In You / Don't Shut Me Down",
         "url": "https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 310720,
       "name": "I Still Have Faith In You",
       "url": "https://open.spotify.com/track/3ddxe0WYUpNPtSnHgQOad5"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
     },
     {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Waiting On A War",
-      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
-    },
-    {
       "added_at": "2022-03-29 22:42:51",
       "album": {
         "name": "Negro",
@@ -803,6 +787,22 @@
       "duration_ms": 211693,
       "name": "El Flechazo y la Secuela",
       "url": "https://open.spotify.com/track/4dmqFKct1Bevg0rRgRJnVW"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Waiting On A War",
+      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
     },
     {
       "added_at": "2022-03-29 19:11:15",

@@ -1,12 +1,12 @@
 {
   "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
-  "num_followers": 981654,
+  "num_followers": 982240,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMDI3ZTVmMjgwNTkyZmYxNGM2NWU1YzQxYmUyYTEzNDgw",
+  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMGFjYzUzZGI1ODc5NzhmMGM4OGFmM2E3NzAwNWNmYTI0",
   "tracks": [
     {
       "added_at": "2022-09-08 15:12:04",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
-      },
-      "artists": [
-        {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
-    },
-    {
-      "added_at": "2022-05-26 22:19:37",
-      "album": {
         "name": "Le Tigre",
         "url": "https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 184686,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm"
+    },
+    {
+      "added_at": "2022-05-26 22:19:37",
+      "album": {
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
     },
     {
       "added_at": "2022-05-26 22:19:37",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "My Aim Is True",
-        "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
       },
       "artists": [
         {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Watching The Detectives - Single Version",
-      "url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
     },
     {
       "added_at": "2022-05-26 22:19:37",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "The Bela Session",
-        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
+        "name": "My Aim Is True",
+        "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
       },
       "artists": [
         {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
         }
       ],
-      "duration_ms": 576703,
-      "name": "Bela Lugosi's Dead (Official Version)",
-      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
+      "duration_ms": 226040,
+      "name": "Watching The Detectives - Single Version",
+      "url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
     },
     {
       "added_at": "2022-05-26 22:19:37",

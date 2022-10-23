@@ -302,6 +302,28 @@
     },
     {
       "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/7rQoDyK6Osl9a05uyWf2cu"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/1kZAtr2I4RlXDcOpZ7yA1C"
+    },
+    {
+      "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/33eus5o0AzboOAwXMqNc8r"
       },
@@ -1887,7 +1909,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 184091,
       "name": "Dibby Dibby DJ",
       "url": "https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz"

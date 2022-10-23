@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-325 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+327 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Poison](https://open.spotify.com/track/09cTiRshOYv9fVFrEZeL6q) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Robel Ketema](https://open.spotify.com/artist/4lTkauCDOkrOB493HZOzhK) | [Poison](https://open.spotify.com/album/6IL8XkH5PADpTdTNjBejVi) | 2:28 | 2021-10-27 | 2022-01-08 |
 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 | 2022-06-29 |  |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-01-08 |
+| [PROTECT ME](https://open.spotify.com/track/5lSGL6BnaHsW22aeOCq5ZU) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [PROTECT ME](https://open.spotify.com/album/56kpqdHI02XgcKGzIF2V7c) | 2:24 | 2022-10-22 |  |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-02 | 2022-01-08 |
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-06-28 |  |
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |
@@ -235,6 +236,7 @@
 | [Reflections \- il:lo Remix](https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Reflections \(il:lo Remix\)](https://open.spotify.com/album/3laEe6ZobS5JDM95kfP7GV) | 6:00 | 2022-01-14 | 2022-02-01 |
 | [Regret](https://open.spotify.com/track/1AVVqsv3ZtP0ZP9pfhs6Aw) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [A Change of Perspective](https://open.spotify.com/album/4lOCWG0YrcTYHFdtweLsv7) | 3:16 | 2021-08-19 | 2022-02-01 |
 | [Regret \- Remix](https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Regret \(Remix\)](https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A) | 3:29 | 2022-02-09 |  |
+| [Remedy](https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Remedy](https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA) | 3:34 | 2022-10-22 |  |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2021-10-04 | 2022-01-08 |
 | [RETURN TO NOTHINGNESS](https://open.spotify.com/track/2huuvkWXprS1pR4VJ8UuG7) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [RETURN TO NOTHINGNESS](https://open.spotify.com/album/2BEk18TPlSSo1Jgbkp999x) | 3:40 | 2022-02-28 | 2022-03-31 |
 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 | 2022-03-11 | 2022-04-19 |

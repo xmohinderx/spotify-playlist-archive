@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-173 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
+174 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Try Love Again](https://open.spotify.com/track/2tDQsXQCvipwjrsJMf4ZDf) | [The Natural Four](https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY) | [The Natural Four](https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j) | 4:25 | 2021-04-23 |  |
 | [Two Can Have A Party](https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:19 | 2022-05-11 |  |
 | [We Have Love](https://open.spotify.com/track/0TivVQKEP7z33IZcP0KXqA) | [The Arrows](https://open.spotify.com/artist/4Tbjz777ygL4926I4m8FvC) | [Eccentric Soul: The Bandit Label](https://open.spotify.com/album/2hM0W3KUfdF1BzFX36xI3z) | 2:44 | 2021-04-23 | 2022-07-29 |
-| [We Have Love](https://open.spotify.com/track/1ilg2MMgdtvqAlxZaRjeKz) | [The Arrows](https://open.spotify.com/artist/4Tbjz777ygL4926I4m8FvC) | [Eccentric Soul: The Bandit Label](https://open.spotify.com/album/1ZS0XMv3sDdr74LRb3h8z7) | 2:44 | 2022-05-11 |  |
+| [We Have Love](https://open.spotify.com/track/1ilg2MMgdtvqAlxZaRjeKz) | [The Arrows](https://open.spotify.com/artist/4Tbjz777ygL4926I4m8FvC) | [Eccentric Soul: The Bandit Label](https://open.spotify.com/album/1ZS0XMv3sDdr74LRb3h8z7) | 2:44 | 2022-05-11 | 2022-10-23 |
+| [We Have Love](https://open.spotify.com/track/3IQHu4EpI8Po30ltP4Avo3) | [The Arrows](https://open.spotify.com/artist/4Tbjz777ygL4926I4m8FvC) | [Bring Back The One I Love b/w We Have Love](https://open.spotify.com/album/5fJeXtikNC07V81RGsJUcA) | 2:47 | 2022-05-11 |  |
 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/70eine3FCFbBVmX3HZhto4) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Whatcha See Is Whatcha Get \[Stax Remasters\]](https://open.spotify.com/album/1kuAkkhsye50w4et6k4vOT) | 4:00 | 2021-04-23 |  |
 | [With My Love and What You've Got \(We Could Turn This World Around\)](https://open.spotify.com/track/0Kumf47kWgjaHmfXhyGRz8) | [Jean Wells](https://open.spotify.com/artist/5nE0fOlaVCjRBSZv2NA51m) | [Soul on Soul \- Deluxe Edition](https://open.spotify.com/album/3T0UrjowpknxYWhpMxH5CZ) | 2:22 | 2021-04-23 |  |
 | [Yellow Sunshine](https://open.spotify.com/track/2qmmw7HDfGNVFr3e9s26Cc) | [Yellow Sunshine](https://open.spotify.com/artist/7m64pEAzGkLbAlbX2g0Mmj) | [Conquer The World: The Lost Soul Of Philadelphia International Records](https://open.spotify.com/album/36EyfRc4KIyWtqdIZw1xSX) | 3:23 | 2021-07-20 |  |

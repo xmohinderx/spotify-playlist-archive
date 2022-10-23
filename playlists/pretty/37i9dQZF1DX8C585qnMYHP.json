@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Lila Tirando a Violeta Artwork: Thami Nabil",
-  "num_followers": 94229,
+  "num_followers": 94293,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMDg1MTc5NmM1ZmYxNzhkZWE4NDU4NTBkMjZmOGYxNmNj",
+  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMGFkNDY4YjcxODgwN2Q0MzRmOWQwMzgzN2I5OGQ1NmQz",
   "tracks": [
     {
       "added_at": "2022-09-14 04:00:00",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
-      },
-      "artists": [
-        {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
-        }
-      ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
-    },
-    {
       "added_at": "2022-09-27 23:34:16",
       "album": {
         "name": "First Fall",
@@ -585,20 +569,20 @@
       "url": "https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo"
     },
     {
-      "added_at": "2022-09-21 02:54:10",
+      "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Waypoints",
-        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
       },
       "artists": [
         {
-          "name": "Hans Berg",
-          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
         }
       ],
-      "duration_ms": 354645,
-      "name": "The Clearing Pt. 2",
-      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
       "added_at": "2022-09-21 02:54:10",
@@ -621,6 +605,22 @@
       "url": "https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO"
     },
     {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Waypoints",
+        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
+      },
+      "artists": [
+        {
+          "name": "Hans Berg",
+          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
+        }
+      ],
+      "duration_ms": 354645,
+      "name": "The Clearing Pt. 2",
+      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
+    },
+    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "Endless Filament",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "After Dark 4",
-        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
-      },
-      "artists": [
-        {
-          "name": "Mesh Kimono",
-          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Afterburn",
-      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
-    },
-    {
       "added_at": "2022-09-27 23:34:16",
       "album": {
         "name": "Cosmic Planta",
@@ -667,6 +651,22 @@
       "duration_ms": 204000,
       "name": "Liquid Planta Seeds",
       "url": "https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "After Dark 4",
+        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
+      },
+      "artists": [
+        {
+          "name": "Mesh Kimono",
+          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Afterburn",
+      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
     },
     {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
+    },
+    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "VIZIO",
@@ -817,20 +833,20 @@
       "url": "https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW"
     },
     {
-      "added_at": "2022-09-21 02:54:10",
+      "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+        "name": "Say Goodbye To The Wind",
+        "url": "https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ"
       },
       "artists": [
         {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+          "name": "Valerio Tricoli",
+          "url": "https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD"
         }
       ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
+      "duration_ms": 1544292,
+      "name": "Spopolatore",
+      "url": "https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI"
     },
     {
       "added_at": "2022-08-31 04:02:01",
@@ -847,22 +863,6 @@
       "duration_ms": 74304,
       "name": "B3",
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Say Goodbye To The Wind",
-        "url": "https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerio Tricoli",
-          "url": "https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD"
-        }
-      ],
-      "duration_ms": 1544292,
-      "name": "Spopolatore",
-      "url": "https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

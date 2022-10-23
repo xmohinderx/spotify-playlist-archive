@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,909 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,966 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 36 | [Oakwood Green \- Remastered](https://open.spotify.com/track/4kwA6pb1fswZ2RitXk9FKs) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/0JCvbWETwmTcjlVyfT2KRn) | 2:04 |
 | 37 | [The Healing Place](https://open.spotify.com/track/4LdxNQZKD9P0V9bTmIekBp) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 5:28 |
 | 38 | [Shettle Wood](https://open.spotify.com/track/5MYVdcxQksPeijQwJlldpZ) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Land of Look Behind \(Remastered + Expanded\)](https://open.spotify.com/album/5PfXgN1QUM9hpwdyyDeB5N) | 3:05 |
-| 39 | [The City Sleeps \- Remastered](https://open.spotify.com/track/4z2wYbLHA8PikfutuQZwZC) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:34 |
+| 39 | [The City Sleeps \- Remastered](https://open.spotify.com/track/5wsOFaUjcTEs5OthiDLpxQ) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/0JCvbWETwmTcjlVyfT2KRn) | 2:34 |
 | 40 | [Desert Equations \(for Brion Gysin\) \- Remastered](https://open.spotify.com/track/54cTtbblzyeTbU1FvVUCIu) | [Sussan Deyhim](https://open.spotify.com/artist/5JdC4MOQDRxMHoofdZJY0F), [Richard Horowitz](https://open.spotify.com/artist/18k4PVY4WySALYiokkex0R) | [Desert Equations: Azax Attra \(Made to Measure, Vol\. 8\) \[Remastered\]](https://open.spotify.com/album/7dnZjtP6pLFK4p77vQko9m) | 6:54 |
 | 41 | [Suddenly II](https://open.spotify.com/track/0W2IZBGMvUFfR14PUXRXc1) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 1:30 |
 | 42 | [Pete’s Boogie \(Previously Unreleased\)](https://open.spotify.com/track/0qrGqV15BOMUXl3kEdMllm) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz) | 3:58 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 73 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 | 74 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 
-Snapshot ID: `MTY2NDg5MTc1MCwwMDAwMDAwMDk0MGVkYTUwZDRmYzNhOWRmNjQxMzI1NWMwMmY4N2Uz`
+Snapshot ID: `MTY2NDg5MTc1MCwwMDAwMDAwMDA2YzA5NjRhYWNmZWFmOTc5YWU5OWZlNjU5MzFiMjcz`

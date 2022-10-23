@@ -1,12 +1,12 @@
 {
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
-  "num_followers": 77949,
+  "num_followers": 78129,
   "original_name": "Lluvia y Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMxNDQwNSwwMDAwMDAwMDE0ZmM3MjcxMTI3Nzc1YzM3MDVkNmE3MDBhMzRlZTQ0",
+  "snapshot_id": "MTY2NDMxNDQwNSwwMDAwMDAwMGZlM2M0OGU0NjBmYjBkNjQ5M2YwMmMyYTE0NTNkODM2",
   "tracks": [
     {
       "added_at": "2022-09-27 21:33:25",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-27 21:33:25",
       "album": {
-        "name": "Agua Nueva",
-        "url": "https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL"
-      },
-      "artists": [
-        {
-          "name": "Cristian",
-          "url": "https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
-    },
-    {
-      "added_at": "2022-09-27 21:33:25",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 254240,
       "name": "Antologia",
       "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2022-09-27 21:33:25",
+      "album": {
+        "name": "Agua Nueva",
+        "url": "https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL"
+      },
+      "artists": [
+        {
+          "name": "Cristian",
+          "url": "https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
     },
     {
       "added_at": "2022-09-27 21:33:25",

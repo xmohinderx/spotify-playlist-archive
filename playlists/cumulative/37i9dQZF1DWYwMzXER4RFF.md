@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-288 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+290 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Courtesy Call](https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Courtesy Call](https://open.spotify.com/album/5EnrSfbcIbpgpgeQAgnQ4Y) | 3:46 | 2021-12-06 | 2022-07-29 |
 | [Crass](https://open.spotify.com/track/1ltNqlKxSUM9abfYOdL0kA) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Grand National](https://open.spotify.com/album/5ZcDDiQ1rGGFMU4IBn0Zu2) | 2:53 | 2021-12-06 | 2022-07-25 |
 | [Creatures](https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Creatures](https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX) | 3:32 | 2021-12-06 | 2022-07-29 |
+| [Creatures](https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 | 2022-08-25 |  |
 | [Crow's Perch](https://open.spotify.com/track/5Jy5UwbZvQ7kHFOPXScnvE) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Crow's Perch](https://open.spotify.com/album/0B0Z0UFqsSCUBdM2nKgSVk) | 4:05 | 2021-12-06 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/42FoHPbDOZM1qCCCKmEvf2) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cruising](https://open.spotify.com/album/55fNVmdLsjVNTEE7TQcbGF) | 6:27 | 2021-12-06 | 2022-07-29 |
 | [Daily Routine](https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Daily Routine](https://open.spotify.com/album/7uzRTehZfg7fKNguCFrsZN) | 4:24 | 2021-12-06 | 2022-07-24 |
@@ -117,13 +118,14 @@
 | [Headroom](https://open.spotify.com/track/3vs2MlII33TgC5hAPZiUiu) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Headroom](https://open.spotify.com/album/0A7myLtAtp9gMhpoI2Zha7) | 3:06 | 2021-12-06 | 2022-07-28 |
 | [Heartbeat](https://open.spotify.com/track/3UtV7WLZvRZCH0oypoI402) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heartbeat](https://open.spotify.com/album/5e9ByDXq4Q6XaPSbmyq2c0) | 3:27 | 2022-03-11 | 2022-04-13 |
 | [HEY HEY](https://open.spotify.com/track/7FNp8GWvT5Y0fg93c0fgkG) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [HEY HEY](https://open.spotify.com/album/0ddhsC5Bvt2ifpngs2p24c) | 3:26 | 2022-03-11 | 2022-07-10 |
-| [hollow scene](https://open.spotify.com/track/2hDt5BixP1kCcIbFUXbsjz) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [creeping speedwells](https://open.spotify.com/album/3IUJgohelfuoshLviTrYZC) | 3:03 | 2022-08-25 |  |
+| [hollow scene](https://open.spotify.com/track/2hDt5BixP1kCcIbFUXbsjz) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [creeping speedwells](https://open.spotify.com/album/3IUJgohelfuoshLviTrYZC) | 3:03 | 2022-08-25 | 2022-10-23 |
 | [hollow scene](https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [hollow scene](https://open.spotify.com/album/6s5a4fG731JST484ZAsl5m) | 3:03 | 2021-12-06 | 2022-07-28 |
 | [Hollywood](https://open.spotify.com/track/7nhHhAK4luQGM6yxIAZcF4) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Hollywood](https://open.spotify.com/album/5HBRejbP2IlsqHNQDQb2oy) | 3:51 | 2021-12-06 | 2022-07-24 |
 | [Holy Smoke](https://open.spotify.com/track/3h1pKCq82AzewJHdJisElO) | [SLAP RASH](https://open.spotify.com/artist/5QHruUgCAsZJ9SfzvcoogM) | [Holy Smoke](https://open.spotify.com/album/1nayzHyYXMdlJFX9bMqnMr) | 3:40 | 2022-03-11 | 2022-04-21 |
 | [Homo Sapien](https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Sympathy for Life](https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT) | 2:55 | 2021-12-06 | 2022-08-26 |
 | [Horses](https://open.spotify.com/track/3FGdZPyBYvPVMen9m28Ula) | [Gag Salon](https://open.spotify.com/artist/2C3DYfvpYvOATMSMWL6lat) | [Horses](https://open.spotify.com/album/2WjI0m3MbKcBZciRqpiUZy) | 4:31 | 2022-03-11 | 2022-04-14 |
 | [Houseplants](https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t) | 4:18 | 2021-12-06 | 2022-10-16 |
+| [Houseplants](https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx) | 4:18 | 2022-08-25 |  |
 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 | 2021-12-06 |  |
 | [Hypnotiser Keeps the Ball Rolling](https://open.spotify.com/track/1gwv8PNoS7XjH6pTm9jgX4) | [Menace Beach](https://open.spotify.com/artist/4hJq1LJCscaxZrVgwA0LY1) | [Black Rainbow Sound](https://open.spotify.com/album/63zDPEicQHstOg7cUH17S5) | 3:26 | 2021-12-06 | 2022-04-17 |
 | [I Am Kate Moss](https://open.spotify.com/track/0FfZqUBiv9YAzlUko2XzDY) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [I Am Kate Moss](https://open.spotify.com/album/7E5SNH3yuDZlJezLvqMCwH) | 3:14 | 2022-03-03 | 2022-07-25 |
@@ -279,7 +281,7 @@
 | [Total Football](https://open.spotify.com/track/5fsfk1Oogb99koL8wyzomw) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 4:01 | 2021-12-06 | 2022-07-29 |
 | [Total Football](https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 4:01 | 2022-06-16 |  |
 | [Trials And Tribulations](https://open.spotify.com/track/6RL8zPiCh34CcBjQhnjGJp) | [Roxy Girls](https://open.spotify.com/artist/1gtmuSSPr9dQKaLWHooNew) | [Trials And Tribulations](https://open.spotify.com/album/0m4EQ6UKYYoaxhDIGF9Qk7) | 2:54 | 2021-12-06 | 2022-07-16 |
-| [Tropic](https://open.spotify.com/track/3bbPxO1xTChWg6wVHDUl4T) | [Glows](https://open.spotify.com/artist/26bQE33uUmcNp1jdowPRz4), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [Tropic](https://open.spotify.com/album/1YtLqjjhgaxNI6dkUQ2PlU) | 4:34 | 2021-12-06 |  |
+| [Tropic](https://open.spotify.com/track/3bbPxO1xTChWg6wVHDUl4T) | [Glows](https://open.spotify.com/artist/26bQE33uUmcNp1jdowPRz4), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [Tropic](https://open.spotify.com/album/1YtLqjjhgaxNI6dkUQ2PlU) | 4:34 | 2021-12-06 | 2022-10-23 |
 | [Uber Alles](https://open.spotify.com/track/3gQpvTd6fWeAT5RuqgTwei) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Uber Alles](https://open.spotify.com/album/1yvr4yB7fEgTUV7GIEBAlS) | 3:54 | 2021-12-06 | 2022-07-03 |
 | [Under Control](https://open.spotify.com/track/0171LDd84HFEbAQlf034jz) | [Coffee House Anarchists](https://open.spotify.com/artist/3E3TnRtEbsrdKuzF5e2Dhm) | [Ask a Flower Not to Bloom in Spring](https://open.spotify.com/album/3nFFMaj78fk5L36pmAyuSe) | 3:04 | 2021-12-06 | 2022-07-20 |
 | [Unseasonable Warmth](https://open.spotify.com/track/1Dsnj6bO73NfWMl6r17jF1) | [EXEK](https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V) | [Unseasonable Warmth](https://open.spotify.com/album/70UnxCJDTOaAa62lfQGAjA) | 6:30 | 2022-01-20 | 2022-07-20 |

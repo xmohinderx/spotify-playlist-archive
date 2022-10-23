@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-762 songs - 2 day 6 hr 40 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+763 songs - 2 day 6 hr 44 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [Stairfoot Lane Bunker \- Minor Science Remix](https://open.spotify.com/track/3u8t4yJcbYFYzipDYQN59H) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Minor Science](https://open.spotify.com/artist/7xkfvmfvOfMBZmIGKaLtzi) | [Stairfoot Lane Bunker](https://open.spotify.com/album/6gSznbAWVTqqNXIJUmQtKo) | 5:40 | 2019-06-19\* | 2020-08-26 |
 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 | 2019-05-26\* | 2020-10-22 |
 | [Starbeam](https://open.spotify.com/track/2i7ynLHCA3ZcBaHWHT522D) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Starbeam](https://open.spotify.com/album/1ribwcOXBbRU2xXDVWLvkf) | 5:50 | 2021-11-26 | 2022-07-29 |
-| [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* |  |
+| [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* | 2022-10-23 |
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2019-06-19\* | 2020-10-21 |
 | [Stranded](https://open.spotify.com/track/0g6SHe2SRb5y51mpBIvz1g) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Stranded \- EP](https://open.spotify.com/album/7dAwe5gLMsBfZI5FPrcR2C) | 3:16 | 2019-05-26\* | 2020-08-26 |
 | [Stranger to One](https://open.spotify.com/track/049XEpbNFnb4oLh3HHV6Ay) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Time to Recover](https://open.spotify.com/album/7wPPALVkC2GaCtv1hForKX) | 2:16 | 2021-06-05 | 2022-07-29 |
@@ -738,6 +738,7 @@
 | [Voyage de la planète](https://open.spotify.com/track/3gCofca5qSvByjfLbdxmds) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Voyage de la planète](https://open.spotify.com/album/0pcfZtOOtLD1tsEqUzkFtF) | 7:38 | 2019-06-21 | 2020-10-22 |
 | [Waiting on You](https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys), [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Waiting on You](https://open.spotify.com/album/2iOQO77EAtci3tu0KZLH4h) | 4:07 | 2021-02-28 | 2022-07-29 |
 | [Wake Up \- Nuage Remix](https://open.spotify.com/track/2ksI5VBtOvZegQBQRQgzLW) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/69dEWHRcIkqm2ycjET4WSB) | 3:36 | 2021-07-23 | 2022-10-05 |
+| [Wake Up \- Nuage Remix](https://open.spotify.com/track/6lEM7FPuQapGIDEwy0tNvj) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/2wrwP8NMrP8YGCj8g2ssxu) | 3:36 | 2022-09-09 |  |
 | [Wardenclyffe](https://open.spotify.com/track/69ujnOkXP2lMpKBJWJ3eXY) | [S U R V I V E](https://open.spotify.com/artist/12cKwxUl6Ku3VpSB3LjrM5) | [Wardenclyffe \- Single](https://open.spotify.com/album/6mdzk4mgo3jzFVYltZ9vLX) | 4:08 | 2019-06-26 | 2020-08-26 |
 | [Warm Blue](https://open.spotify.com/track/1GdkGsln9i2RYro5gTAht7) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 2:46 | 2019-06-19\* | 2020-10-22 |
 | [Warming Up](https://open.spotify.com/track/1PpS40SKQ4u9KTTAv1KXSE) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Warming Up](https://open.spotify.com/album/1FywCzskbD9gfasRPHut3A) | 3:36 | 2021-02-26 | 2022-04-20 |

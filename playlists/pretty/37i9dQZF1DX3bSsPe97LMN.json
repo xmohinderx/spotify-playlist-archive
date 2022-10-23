@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 44844,
+  "num_followers": 44859,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDFlMDk4NzJiMWY2ZjBjZjE4ZTZiZmMzYzI0YjU4ODg2",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDk1NGY4NTU3MjE4ZjIzMGM5M2M0ZWI0YmEwOTYwMzlk",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Quiero Contarte",
-        "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 160597,
-      "name": "Quiero Contarte",
-      "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
-    },
-    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Soy Infante",
@@ -639,6 +623,22 @@
       "duration_ms": 154750,
       "name": "Soy Infante",
       "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Quiero Contarte",
+        "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 160597,
+      "name": "Quiero Contarte",
+      "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S"
     },
     {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Sombrero Vaquero",
+        "url": "https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67"
+      },
+      "artists": [
+        {
+          "name": "GOHN",
+          "url": "https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W"
+        }
+      ],
+      "duration_ms": 209530,
+      "name": "Sombrero Vaquero",
+      "url": "https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Loko (with Los Primos Del Este)",
@@ -891,22 +907,6 @@
       "duration_ms": 128739,
       "name": "Loko (with Los Primos Del Este)",
       "url": "https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Sombrero Vaquero",
-        "url": "https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67"
-      },
-      "artists": [
-        {
-          "name": "GOHN",
-          "url": "https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W"
-        }
-      ],
-      "duration_ms": 209530,
-      "name": "Sombrero Vaquero",
-      "url": "https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Sue\u00f1o Americano",
-        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 134065,
-      "name": "Sue\u00f1o Americano",
-      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Bajo la Lluv\u00eda",
@@ -1095,6 +1079,22 @@
       "duration_ms": 154017,
       "name": "Bajo la Lluv\u00eda",
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Sue\u00f1o Americano",
+        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 134065,
+      "name": "Sue\u00f1o Americano",
+      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
     },
     {
       "added_at": "2022-09-23 19:34:49",

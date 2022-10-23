@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,718 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,731 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 19 | [Saturn](https://open.spotify.com/track/1VvsZ7IjtrZ08hm2kEQhVh) | [Susannah Stark](https://open.spotify.com/artist/33Sq6l1YFnUCRWeyYwsVIq) | [Time Together \(Hues & Intensities\)](https://open.spotify.com/album/6CEKHac7n0h7wfp1rmhQWK) | 4:54 |
 | 20 | [Rain](https://open.spotify.com/track/39TidRGtvrLJm5m3Jt0D0J) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Believer](https://open.spotify.com/album/6L0IdiiAC6ELOGyksKclzn) | 4:14 |
 | 21 | [Chambers](https://open.spotify.com/track/1YgVmOzs8I1g02PRQ6U3O8) | [Daisy Moon](https://open.spotify.com/artist/0wSbJfUfDDmDmxOaIteZrs) | [Geometry of Curves](https://open.spotify.com/album/5RsnXjuGIOjG3AKTy3tngR) | 4:26 |
-| 22 | [I don't want to sing I don't want to look](https://open.spotify.com/track/535X8gWq0G207WIktuKGmR) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Slow Dance '19](https://open.spotify.com/album/2FKu1cAkI8bTLP6uIiS3oZ) | 4:35 |
+| 22 | [I don't want to sing I don't want to look](https://open.spotify.com/track/0TjezNTKg3xroMIzbQO4t3) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Slow Dance '19](https://open.spotify.com/album/0ciY4l6aX0ss6gHwIgM0zj) | 4:35 |
 | 23 | [Screaming Colours](https://open.spotify.com/track/2tXEqUJploWqralhIPjmik) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 6:13 |
 | 24 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 |
 | 25 | [Seen Any Monsters Lately?](https://open.spotify.com/track/5Oqr3XF8VkOMYcZwud2Esp) | [Rachel Lyn](https://open.spotify.com/artist/7aI1w9YIJsFMyVpQivifbP) | [Oh Daydream](https://open.spotify.com/album/1eCWhDovH4FrjSSZpiLRpD) | 3:34 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDAyYmI4ZDg1ZWZhZTJmZWI1ODIyMGM1ZjVmOTZmMWM1`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMGZmNjI5ODhiY2Q5MDQ1M2JmY2UxZjQxNGExZGE0MDli`

@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-91 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
+92 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [J'ai tout su](https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:09 | 2022-09-23 |  |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2022-07-28 |  |
 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 | 2022-09-09 |  |
-| [Keșke](https://open.spotify.com/track/6BsCtl2xauC7m2n0j44rJv) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0uQNTw0R83Su7uyPNnPFMN) | 2:36 | 2022-07-28 |  |
+| [Keșke](https://open.spotify.com/track/457tUZZugWzzX60RDE55pt) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0PNe8ruEaoLVDGIXDyZzA7) | 2:36 | 2022-10-03 |  |
+| [Keșke](https://open.spotify.com/track/6BsCtl2xauC7m2n0j44rJv) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0uQNTw0R83Su7uyPNnPFMN) | 2:36 | 2022-07-28 | 2022-10-23 |
 | [Konsentra](https://open.spotify.com/track/7LEsTCnDwSyy994RI7xQEQ) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Konsentra](https://open.spotify.com/album/0S5ImD3mDpq22iXVNkT5d2) | 3:08 | 2022-07-28 |  |
 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 | 2022-10-02 |  |
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2022-07-28 |  |

@@ -2,9 +2,9 @@
 
 ### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Wael Kfoury.
+> Top Sharqi hits right now\. Cover: Nassif Zeytoun.
 
-85 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
+86 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Miye w khamsin](https://open.spotify.com/track/3QcXQ5bjDW8zzUbgRXjrv0) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 2:54 | 2022-05-04 |  |
 | [Ohebuka Raghman](https://open.spotify.com/track/2Y0K3JBY7toZYiq4cUP9Eu) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ohebuka Raghman](https://open.spotify.com/album/6BOAJQ63qhOdFOuU8O9rAW) | 3:20 | 2022-06-22 |  |
 | [Ouaa Tkhaf](https://open.spotify.com/track/56ghyTakOok9eCfKVktmpR) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Ouaa Tkhaf](https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU) | 2:50 | 2022-07-16 |  |
-| [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-09 |  |
+| [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-09 | 2022-10-23 |
 | [Raje3lek](https://open.spotify.com/track/6SNkENSOaM6I7tdE95O4h1) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Raje3lek](https://open.spotify.com/album/4OByYjnuaQ9wQ7J85404NO) | 3:55 | 2022-05-04 | 2022-07-17 |
 | [Rfi2it Albi](https://open.spotify.com/track/1Z5JztzNkHe0OEm5Hyr9BJ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Rfi2it Albi](https://open.spotify.com/album/31IqjAVtCZOUsxGs4jR7YS) | 3:46 | 2022-07-16 |  |
 | [Saet Ramel](https://open.spotify.com/track/1w7gIItudYNNhP6Aq07oPA) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Saet Ramel](https://open.spotify.com/album/4SNrpzI2euaUL34MKkkohJ) | 3:39 | 2022-06-20 |  |
@@ -92,6 +92,7 @@
 | [قدام الكل](https://open.spotify.com/track/29nkUuQAqOUUQPkcA21g74) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/49SBjUtuUUPV6AIAQk6lyL) | 2:56 | 2022-05-04 | 2022-07-29 |
 | [قدام الكل](https://open.spotify.com/track/2KTUVGrszTvLJa6zgWLmyL) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/2wJA7q1P2mraW3kA51V2Rn) | 3:04 | 2022-07-27 |  |
 | [لسا معاكي](https://open.spotify.com/track/41QZQmkjJdoeDs1tXvHkTe) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [لسا معاكي](https://open.spotify.com/album/4YjpY7ewK48QYGBUMHoAoF) | 3:24 | 2022-05-04 | 2022-06-21 |
+| [وبطير](https://open.spotify.com/track/5FnNPUjvsrRGiZiDvQDIj3) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [W Btir](https://open.spotify.com/album/2EcC0e5A1Yjpo3yLtxg37I) | 4:10 | 2022-10-22 |  |
 | [وحدة استثنائية](https://open.spotify.com/track/3Bnv2cObKDoOkGsEUiB5ng) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [وحدة استثنائية](https://open.spotify.com/album/6TrVUinitYu2meZYum1FSI) | 3:32 | 2022-06-20 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

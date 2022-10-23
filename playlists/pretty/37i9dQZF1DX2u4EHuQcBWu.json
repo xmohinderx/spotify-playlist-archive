@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 158495,
+  "num_followers": 158541,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIzMDI1MCwwMDAwMDAwMDYwYTJjODEwOTg4YzQwMDA4OWEwODgxYWU2ODFkNjJl",
+  "snapshot_id": "MTY2NDIzMDI1MCwwMDAwMDAwMDRlNDU4MDM5MjUzZTc1ZDdhNDYxODY2MTdlOTkwMzgw",
   "tracks": [
     {
       "added_at": "2022-09-26 22:09:52",
@@ -499,18 +499,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "Bi",
+        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
+      "duration_ms": 202906,
+      "name": "Baja a la Tierra (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -535,22 +539,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Bi",
-        "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 202906,
-      "name": "Baja a la Tierra (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
+      "duration_ms": 231653,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Mercedes Sosa En Argentina (En Directo)",
         "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 161026,
       "name": "Como La Cigarra - En Directo",
       "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Viva Italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
     },
     {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        }
+      ],
+      "duration_ms": 268467,
+      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
+      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
+    },
+    {
       "added_at": "2022-03-18 03:36:26",
       "album": {
         "name": "S\u00edganme los Buenos",
@@ -959,22 +975,6 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        }
-      ],
-      "duration_ms": 268467,
-      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
-      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
     },
     {
       "added_at": "2022-07-15 04:43:21",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "M\u00e1s Poder",
-        "url": "https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN"
-      },
-      "artists": [
-        {
-          "name": "La Sarita",
-          "url": "https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "M\u00e1s Poder",
-      "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
         "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
       },
@@ -1299,22 +1283,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
+        "name": "M\u00e1s Poder",
+        "url": "https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "La Sarita",
+          "url": "https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
+      "duration_ms": 255600,
+      "name": "M\u00e1s Poder",
+      "url": "https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1331,6 +1311,26 @@
       "duration_ms": 173977,
       "name": "Bloody Bloody Border",
       "url": "https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Viva el Planeta",
-        "url": "https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU"
-      },
-      "artists": [
-        {
-          "name": "Doctor Kr\u00e1pula",
-          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
-        }
-      ],
-      "duration_ms": 199105,
-      "name": "Exigimos",
-      "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Su Madre Patria",
         "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 136000,
       "name": "Su Madre Patria",
       "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Viva el Planeta",
+        "url": "https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU"
+      },
+      "artists": [
+        {
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+        }
+      ],
+      "duration_ms": 199105,
+      "name": "Exigimos",
+      "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+        "name": "Circular Colectivo",
+        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
       },
       "artists": [
         {
-          "name": "Rolando Alarcon",
-          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Si Somos Americanos",
-      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
+      "duration_ms": 215733,
+      "name": "El Pa\u00eds de No Pasa Nada",
+      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Circular Colectivo",
-        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Rolando Alarcon",
+          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
         }
       ],
-      "duration_ms": 215733,
-      "name": "El Pa\u00eds de No Pasa Nada",
-      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
+      "duration_ms": 123333,
+      "name": "Si Somos Americanos",
+      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
     },
     {
       "added_at": "2021-09-24 14:38:22",

@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-856 songs - 1 day 22 hr 28 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+857 songs - 1 day 22 hr 32 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,7 +640,7 @@
 | [Rooting For You](https://open.spotify.com/track/1spZPzBLYeVTvd0iDWXgC2) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Rooting For You](https://open.spotify.com/album/4yp0nH151NPmcakfthQDc9) | 2:56 | 2019-08-26 | 2021-03-22 |
 | [Ruin Your Party](https://open.spotify.com/track/0WuUpHEORKw3WTIlMb0Bv8) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ruin Your Party](https://open.spotify.com/album/5DExtFpcxmHagKqHZ97m4F) | 3:08 | 2019-06-21 | 2019-11-09 |
 | [Rumors \(feat\. ZAYN\)](https://open.spotify.com/track/6XjNLIoUiU2XKdbNp7PvHl) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:46 | 2019-10-25 | 2021-03-23 |
-| [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-17 |  |
+| [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-17 | 2022-10-23 |
 | [Run Away](https://open.spotify.com/track/5UP9LIb7thpuLFPPYiWz9J) | [Sebastian Lind](https://open.spotify.com/artist/4DTK3hcKbInoTaUhEZnN0w) | [Run Away](https://open.spotify.com/album/4Zp70pZBynVtrsofW4S9wI) | 4:12 | 2019-08-08 | 2019-11-09 |
 | [Run Into You \- Stripped](https://open.spotify.com/track/6veXclTRUlmWBZLti769dH) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Run Into You \(Stripped\)](https://open.spotify.com/album/0TQ5d8F7SH5T5tze0o40Pz) | 2:19 | 2020-06-02 | 2020-11-05 |
 | [Run Through Walls](https://open.spotify.com/track/7ybTXgmWoVFV33te4kVlUR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:26 | 2019-12-21 | 2022-04-20 |
@@ -683,6 +683,7 @@
 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 | 2022-07-07 |  |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-07 | 2022-04-19 |
 | [Snooze](https://open.spotify.com/track/3WYeza72Tw4pyEZ6T1jEwC) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Snooze](https://open.spotify.com/album/1MwYzLeYyefz3708ObaTnD) | 3:18 | 2021-05-22 | 2021-05-28 |
+| [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 |  |
 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [So Done \(feat\. Khalid\)](https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO) | 3:55 | 2020-08-14 | 2021-04-22 |
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-10-25 | 2020-01-04 |
 | [Soldier](https://open.spotify.com/track/0P7hldeLJsslU345SbZi5R) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Soldier](https://open.spotify.com/album/6JjICXfflptDGRm6GR7cgx) | 3:44 | 2019-05-25\* | 2019-10-04 |

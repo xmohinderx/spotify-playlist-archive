@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 39963,
+  "num_followers": 40025,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMGExMzRkY2ZjMDBiZmFkMWE4ZDIwZTcxMmMwNjJjNjBh",
+  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMGVhMDViZjg0NzEzNjE1YjEwYWU5NTIzMGYyYTU0NjY5",
   "tracks": [
     {
       "added_at": "2022-01-12 17:58:24",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Wild Youth",
+        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 258972,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 133773,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Wild Youth",
-        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 258972,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 157493,
       "name": "Give Me A Minute",
       "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 250114,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/0Brzu8MFxLwh3R57bImH2r"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 189215,
       "name": "On the Outside",
       "url": "https://open.spotify.com/track/2SIAABhWXJWDHLfx51VdDc"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 250114,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/0Brzu8MFxLwh3R57bImH2r"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Surprise, Surprise",
-        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 236276,
-      "name": "Surprise, Surprise",
-      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 200025,
       "name": "Montana",
       "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Surprise, Surprise",
+        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 236276,
+      "name": "Surprise, Surprise",
+      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
     },
     {
       "added_at": "2022-01-12 17:58:24",

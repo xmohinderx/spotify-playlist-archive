@@ -4,7 +4,7 @@
 
 > Los próceres de la historia del rock nacional\. Plastilina Mosh en portada.
 
-206 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
+207 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Antena \- En Vivo](https://open.spotify.com/track/4mcjz3fAxgvH3Poz7K0RUg) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Antena \(En Vivo\)](https://open.spotify.com/album/6UV8uTmGe6O6Gu7GOYo5uc) | 4:37 | 2022-01-28 | 2022-06-06 |
 | [Antes de Que Nos Olviden](https://open.spotify.com/track/3ZuGavt1YrOkg6G93lgfUw) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:47 | 2022-01-28 | 2022-07-29 |
 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 | 2022-01-28 |  |
+| [Aquí No Es Dónde](https://open.spotify.com/track/6IkojHlvNIAXXHWhlcE1Oq) | [Resorte](https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic) | [Crazy Pack Resorte](https://open.spotify.com/album/2yhvEOcsRufEw1qw91xMZy) | 4:01 | 2022-01-28 |  |
 | [Arrullo De Estrellas](https://open.spotify.com/track/1Ou8VdIw39ATdskqSnAaFo) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Arrullo De Estrellas](https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS) | 4:12 | 2022-01-28 | 2022-09-27 |
 | [Asalto Chido](https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 3:06 | 2022-01-28 | 2022-07-23 |
 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 | 2022-01-28 |  |
@@ -138,7 +139,7 @@
 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 | 2022-01-28 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 | 2022-01-28 |  |
 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 | 2022-01-28 |  |
-| [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 | 2022-01-28 |  |
+| [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 | 2022-01-28 | 2022-10-23 |
 | [No Dejes Que...](https://open.spotify.com/track/1W4eq1XFSjt2LHngDUNr7s) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Rock Latino](https://open.spotify.com/album/4dD4C9MoS87UAk3LYGLXGK) | 4:39 | 2022-01-28 | 2022-07-29 |
 | [No Es Que No Te Quiera](https://open.spotify.com/track/6akss3xIbiQipDjD0i8oYk) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/0TifYmTx6B0YqFrCIOyyFc) | 3:48 | 2022-01-28 | 2022-07-29 |
 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 | 2022-01-28 |  |

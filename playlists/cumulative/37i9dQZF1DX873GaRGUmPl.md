@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: FKA Twigs
 
-304 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+305 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,11 +285,12 @@
 | [VCR](https://open.spotify.com/track/6DXFVsLcEvOTSrkG9G1Cb1) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:57 | 2021-11-15 | 2022-07-22 |
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2022-02-21 |  |
 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 | 2021-11-15 | 2022-07-29 |
-| [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 | 2022-09-29 |  |
+| [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 | 2022-09-29 | 2022-10-23 |
 | [Wakin on a Pretty Day](https://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/2imxOfDIDk2voAYCZP88u2) | 9:30 | 2021-11-15 | 2022-07-29 |
 | [Walrus](https://open.spotify.com/track/7lbkMraoYo4Lop0rSwdzCV) | [D.D Dumbo](https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR) | [Utopia Defeated](https://open.spotify.com/album/2HFzHGB6jiMSRdrODrk83s) | 3:10 | 2021-11-15 | 2022-07-28 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-02-21 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-09-29 | 2022-10-21 |
+| [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-09-29 |  |
 | [We Used to Wait](https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:01 | 2022-02-21 | 2022-07-23 |
 | [Weekend](https://open.spotify.com/track/0tMrhzihI4NuFUKWHJv3RM) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/60ibpZMH9GFX5hQWd53UgE) | 3:20 | 2022-02-21 | 2022-05-25 |
 | [What's It All For?](https://open.spotify.com/track/2Y28HmBMyRrCgL0PTbkP7O) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [What's It All For?](https://open.spotify.com/album/2r3dPQxGEa9YiErCWHV5on) | 4:11 | 2022-02-21 | 2022-06-18 |

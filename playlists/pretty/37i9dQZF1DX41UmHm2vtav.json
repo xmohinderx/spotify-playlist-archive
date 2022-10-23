@@ -1,15 +1,15 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 363689,
+  "num_followers": 363815,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDQ3YTE5ZGNmMzQ2ZjNjMThhMmI5YzA0NzIyZDFjM2Rm",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMGNiNjBjYWVlODY0MzZkZWUyNjNjYjEyNDYxZGY4Njlk",
   "tracks": [
     {
-      "added_at": "2022-10-22 01:43:14",
+      "added_at": "2022-10-23 01:42:54",
       "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO"
@@ -111,30 +111,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 160794,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs"
       },
@@ -155,6 +131,30 @@
       "duration_ms": 174001,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 160794,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Forever Yours (Avicii Tribute)",
         "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 183652,
       "name": "Don't Let It Go",
       "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "Table For 2",
-        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "Table For 2",
-      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -531,6 +531,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "Adrenalizou (Gabriel Boni Remix)",
+        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        }
+      ],
+      "duration_ms": 214435,
+      "name": "Adrenalizou - Gabriel Boni Remix",
+      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Dog Days",
         "url": "https://open.spotify.com/album/2gVD1C1QGkqfC1RvjHuNcC"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 142439,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "Adrenalizou (Gabriel Boni Remix)",
-        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        }
-      ],
-      "duration_ms": 214435,
-      "name": "Adrenalizou - Gabriel Boni Remix",
-      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -755,42 +755,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Pandora (KVSH, Malifoo Remix)",
-        "url": "https://open.spotify.com/album/2279AkrhNjg4VyA8VGJaWa"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Pandora - KVSH, Malifoo Remix",
-      "url": "https://open.spotify.com/track/3EUUK9fCbeWNkBH2g9HOSP"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -831,6 +795,42 @@
       "duration_ms": 183431,
       "name": "Bem Melhor - KVSH Remix",
       "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Pandora (KVSH, Malifoo Remix)",
+        "url": "https://open.spotify.com/album/2279AkrhNjg4VyA8VGJaWa"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Pandora - KVSH, Malifoo Remix",
+      "url": "https://open.spotify.com/track/3EUUK9fCbeWNkBH2g9HOSP"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1371,26 +1371,22 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
+        "name": "O Xote Das Meninas (Pontifexx Remix)",
+        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
       },
       "artists": [
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
         }
       ],
-      "duration_ms": 175020,
-      "name": "Savages",
-      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
+      "duration_ms": 186666,
+      "name": "O Xote Das Meninas - Pontifexx Remix",
+      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1415,22 +1411,26 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "O Xote Das Meninas (Pontifexx Remix)",
-        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
       },
       "artists": [
         {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
         },
         {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 186666,
-      "name": "O Xote Das Meninas - Pontifexx Remix",
-      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
+      "duration_ms": 175020,
+      "name": "Savages",
+      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 241823,
       "name": "Paradise - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
     },
     {
       "added_at": "2022-10-07 03:01:00",

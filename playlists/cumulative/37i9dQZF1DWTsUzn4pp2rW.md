@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-223 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+224 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Not for Me](https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not For Me](https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd) | 4:03 | 2021-11-19 |  |
 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 | 2021-11-19 |  |
 | [One Less Lonely Girl](https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa) | [Nikki Ocean](https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00) | [One Less Lonely Girl](https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf) | 3:56 | 2021-11-19 | 2022-10-08 |
-| [Outline](https://open.spotify.com/track/15lJRmiVd7aIJtozQJg5Ld) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/2Pv1n3XbbTonM300ulb4cZ) | 3:13 | 2021-11-19 |  |
+| [Outline](https://open.spotify.com/track/15lJRmiVd7aIJtozQJg5Ld) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/2Pv1n3XbbTonM300ulb4cZ) | 3:13 | 2021-11-19 | 2022-10-23 |
+| [Outline](https://open.spotify.com/track/6aekud8Ey1Wf7alKILoN1g) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/1q9ZkhXNWMFhb3MAojQ3dC) | 3:13 | 2022-10-13 |  |
 | [Peace \- First Sessions Demo](https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Midnight Jones](https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg) | 3:53 | 2021-11-19 | 2022-08-12 |
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-09 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2022-02-08 | 2022-08-31 |

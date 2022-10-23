@@ -1,12 +1,12 @@
 {
   "description": "An introduction to some of alt-rock\u2019s most seminal tracks.",
-  "num_followers": 75738,
+  "num_followers": 75832,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAzODk4MiwwMDAwMDAwMGM1NDA0YTgzMDczN2ZkMTllNGQzN2M0NWIzM2Y4ZTg3",
+  "snapshot_id": "MTY2NjAzODk4MiwwMDAwMDAwMDRmZjdiY2E2ZmNhMzZjOTQzNzBlNDNlMzFkMWNmNmZh",
   "tracks": [
     {
       "added_at": "2022-10-11 07:35:44",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Cool in Motion",
-      "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Free All Angels",
         "url": "https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 309013,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Cool in Motion",
+      "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Repetition",
-        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
-      },
-      "artists": [
-        {
-          "name": "Unwound",
-          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
-        }
-      ],
-      "duration_ms": 185467,
-      "name": "Corpse Pose",
-      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Shed",
         "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 136826,
       "name": "Shed",
       "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
+      },
+      "artists": [
+        {
+          "name": "Unwound",
+          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
+        }
+      ],
+      "duration_ms": 185467,
+      "name": "Corpse Pose",
+      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Keep Telling Myself It's Alright",
         "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 195320,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Tune in, Drop Out",
-        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
-      },
-      "artists": [
-        {
-          "name": "Beach Riot",
-          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
-        }
-      ],
-      "duration_ms": 170161,
-      "name": "Tune in, Drop Out",
-      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Slow Heart",
         "url": "https://open.spotify.com/album/7K7AuoZ1mMIaPiDZSvhCsU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 249800,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/2CzfhFkxJZjdr6kNRUw8IM"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Tune in, Drop Out",
+        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "duration_ms": 170161,
+      "name": "Tune in, Drop Out",
+      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "Brave Faces Everyone",
+        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 242365,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Brave Faces Everyone",
-        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+        "name": "Infinite Pleasure",
+        "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
       },
       "artists": [
         {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
         }
       ],
-      "duration_ms": 242365,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
+      "duration_ms": 247360,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1115,38 +1131,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Infinite Pleasure",
-        "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
-        "name": "Celebrity Mansions",
-        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "United By Fate",
         "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "I'll Find You",
-      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Workbook",
         "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 212066,
       "name": "See A Little Light",
       "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "I'll Find You",
+      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
-      },
-      "artists": [
-        {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Pushing the Senses",
         "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 207946,
       "name": "Pushing The Senses",
       "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Pull a Little Closer",
-        "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
-      },
-      "artists": [
-        {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW"
-        }
-      ],
-      "duration_ms": 242480,
-      "name": "Pull a Little Closer",
-      "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Effloresce",
         "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 400680,
       "name": "Catalyst - Remastered",
       "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Pull a Little Closer",
+        "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
+      },
+      "artists": [
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW"
+        }
+      ],
+      "duration_ms": 242480,
+      "name": "Pull a Little Closer",
+      "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Ride The Fader",
-        "url": "https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2"
+        "name": "Airplane",
+        "url": "https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R"
       },
       "artists": [
         {
-          "name": "Chavez",
-          "url": "https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS"
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
         }
       ],
-      "duration_ms": 151706,
-      "name": "Unreal Is Here",
-      "url": "https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a"
+      "duration_ms": 205000,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

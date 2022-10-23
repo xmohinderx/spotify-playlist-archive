@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 30093,
+  "num_followers": 30128,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3NzQxNywwMDAwMDAwMDdmYmUzNTYwOGM3MTg0YTIyMDFhOGI0MGRhOGVmZjFi",
+  "snapshot_id": "MTY2Mzg3NzQxNywwMDAwMDAwMGU4ZWUwYjZjZjYyYjcxMGViM2M3YzJlMjY4YjliZGMx",
   "tracks": [
     {
       "added_at": "2022-09-22 20:10:17",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
-      },
-      "artists": [
-        {
-          "name": "Los de Mailin",
-          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
-        }
-      ],
-      "duration_ms": 133173,
-      "name": "No Cualquiera Es Correntino",
-      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "30 A\u00f1os Despu\u00e9s",
         "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
+      },
+      "artists": [
+        {
+          "name": "Los de Mailin",
+          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
+        }
+      ],
+      "duration_ms": 133173,
+      "name": "No Cualquiera Es Correntino",
+      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
         "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
         "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Los Palmare\u00f1os 23 A\u00f1os",
-        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
-      },
-      "artists": [
-        {
-          "name": "Los Palmare\u00f1os",
-          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Borracho Sin Destino",
-      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 125826,
       "name": "Asi Se Baila El Chamame",
       "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "Los Palmare\u00f1os 23 A\u00f1os",
+        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
+      },
+      "artists": [
+        {
+          "name": "Los Palmare\u00f1os",
+          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Borracho Sin Destino",
+      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -855,6 +855,26 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 189293,
       "name": "Taipero Poriahu",
       "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
         "name": "14 Exitos De Oro",
         "url": "https://open.spotify.com/album/0TnVgnauPO8YZXWGnC3lmr"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 123226,
       "name": "Un simbronazo",
       "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-22 20:10:17",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Juancito el Peregrino",
-          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Temple guarani",
-      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
-    },
-    {
-      "added_at": "2022-09-22 20:10:17",
-      "album": {
         "name": "Refugio de so\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1468,13 +1452,13 @@
       },
       "artists": [
         {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+          "name": "Juancito el Peregrino",
+          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
         }
       ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
+      "duration_ms": 148733,
+      "name": "Temple guarani",
+      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
     },
     {
       "added_at": "2022-09-22 20:10:17",
@@ -1495,6 +1479,22 @@
       "duration_ms": 154893,
       "name": "Nostalgias Camperas",
       "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
+    },
+    {
+      "added_at": "2022-09-22 20:10:17",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2022-09-22 20:10:17",

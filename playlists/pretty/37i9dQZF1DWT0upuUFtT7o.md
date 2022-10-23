@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Blondshell, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,116 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,147 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 5 | [empty](https://open.spotify.com/track/0nx0l4QmVFV7BdNuUELVg2) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [empty](https://open.spotify.com/album/4DqyPkbIaL3uQU5D0S55rv) | 4:30 |
 | 6 | [Butterflies](https://open.spotify.com/track/6jD1XCmOrPYs0LnC787bRj) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:25 |
 | 7 | [Signs](https://open.spotify.com/track/7AvTPx8xgskqHbtqttWwqT) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Signs / 22](https://open.spotify.com/album/2MM43V9DGUGU3ownGsT0c2) | 5:16 |
-| 8 | [sunday](https://open.spotify.com/track/3zr4TeNjRDqvGBCdXPhSmT) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [sunday](https://open.spotify.com/album/4GACDuLDmUJ1twsLW9N3Ak) | 4:24 |
+| 8 | [sunday](https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 4:24 |
 | 9 | [shabby](https://open.spotify.com/track/3KGei97B3SzGtigCO3hDdg) | [poolblood](https://open.spotify.com/artist/6TaXt2ECGxZ0MteLXaYsYs) | [shabby](https://open.spotify.com/album/4pad2gEpXC5aIwLdx2CDEQ) | 2:45 |
 | 10 | [Should've Loved You More](https://open.spotify.com/track/6pYaJK1J98qRWma11SfQZu) | [future.exboyfriend](https://open.spotify.com/artist/1qSSYhvOuxNuHzPdLfDQl1) | [Should've Loved You More](https://open.spotify.com/album/5AX9V8pZcCnQKw7AIPWubq) | 2:50 |
 | 11 | [Fake ID](https://open.spotify.com/track/2cWF2PNhZVa2Amajwxd5ss) | [Ryan Wright](https://open.spotify.com/artist/27zmUjQFgOyAfNtp48I9ZT) | [Fake ID](https://open.spotify.com/album/0z18Xa1psp76wXDl710NK5) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 69 | [Mantra](https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Disco Submarine](https://open.spotify.com/album/4RnBik4PFGy2POnDbeS6p5) | 2:46 |
 | 70 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 |
 
-Snapshot ID: `MTY2NjE1MjAwMCwwMDAwMDAwMDE5YTVlNDViMTMxZmQ2OTY3ZGQ2YWE3ZmEzZjdiYzFk`
+Snapshot ID: `MTY2NjE1MjAwMCwwMDAwMDAwMGJmYjZjNDM5YTI1NzEzZjMyZTkyZDAxODEyZWI5N2Rl`

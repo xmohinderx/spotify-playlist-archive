@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 33911,
+  "num_followers": 33939,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMDJkOGI0NThmOTU2Mjc1NTgwZmE5OTA3YWY1NDhkODYx",
+  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMDcxOTgyZTVhM2FlYmE2MjA1ZDRkOTU1YWNiZTZkMzE3",
   "tracks": [
     {
       "added_at": "2022-01-24 19:51:47",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2022-01-24 19:51:47",
-      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 275200,
       "name": "La Ciguapa",
       "url": "https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O"
+    },
+    {
+      "added_at": "2022-01-24 19:51:47",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2022-01-24 19:51:47",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
+        "name": "Los Due\u00f1os del Swing",
+        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "La Due\u00f1a del Swing",
+      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
+    },
+    {
+      "added_at": "2022-01-24 19:51:47",
+      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 283866,
       "name": "Cachamba",
       "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
-    },
-    {
-      "added_at": "2022-01-24 19:51:47",
-      "album": {
-        "name": "Kaleth Morales En Guitarras",
-        "url": "https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y"
-      },
-      "artists": [
-        {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
-      "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
     }
   ],
   "unique_name": "Sopa y Seco",

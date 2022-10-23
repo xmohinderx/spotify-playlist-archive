@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-540 songs - 1 day 9 hr 8 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+541 songs - 1 day 9 hr 11 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-10-07 |  |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2020-10-16 | 2022-04-17 |
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-06-04 | 2022-07-29 |
-| [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2022-06-01 |  |
+| [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2022-06-01 | 2022-10-23 |
 | [Heart and My Car](https://open.spotify.com/track/53mAiigGdkVIMItDdJjgLo) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Heart and My Car](https://open.spotify.com/album/0Rw4Iwk6Lc4KDBs57bpuwC) | 3:25 | 2020-10-05\* | 2020-10-06 |
 | [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 | 2022-07-25 | 2022-10-14 |
 | [Heart It Races \- Cover Version](https://open.spotify.com/track/2vupkXhwL4sNCRgNu72HCZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races](https://open.spotify.com/album/6wY9YCNf0EpuogJgcPLY0W) | 3:53 | 2020-10-16 | 2022-04-20 |
@@ -467,6 +467,7 @@
 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 | 2020-10-05\* | 2022-04-16 |
 | [The Curse \(feat\. Mac Demarco\)](https://open.spotify.com/track/5bAS2fMy1iHbw3DWrhI2ih) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [A Day in a Yellow Beat](https://open.spotify.com/album/6Cn3JpoA3LIrISLDH2gYmJ) | 5:05 | 2020-11-23 | 2022-04-21 |
 | [The Good Part](https://open.spotify.com/track/4hDABndhym9qJIaVLPWwzs) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [The Good Part / Woman](https://open.spotify.com/album/2w20QwPqV3Q1yXjdHxwwir) | 3:43 | 2020-10-05\* | 2022-04-21 |
+| [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-14 |  |
 | [The Night](https://open.spotify.com/track/3DDweM5gUHTpgAnWtWV9cJ) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [All in the Value](https://open.spotify.com/album/0oSo6YkoV8uhWzya7MLXis) | 5:01 | 2020-10-16 | 2022-04-21 |
 | [The One to Wait](https://open.spotify.com/track/3MPFzBWdqwaAeCSQpA7Ift) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/14h7FxQqVYilWuR8adP09G) | 6:33 | 2020-10-05\* | 2021-05-24 |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-25 |  |

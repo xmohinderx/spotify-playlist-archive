@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 1956,
+  "num_followers": 1961,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDk3ZDJkMjBkMDIzNzY2N2E0NGQwNGE0YjNjNjQzZjEz",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDZhZjZhODNjNTliZjU1ZTg2MGY0MGViOGE2YjBhYmFm",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Di Nobo / Shonuff",
+        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Di Nobo",
+      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH"
       },
@@ -677,20 +693,20 @@
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-10-15 05:57:00",
       "album": {
-        "name": "Di Nobo / Shonuff",
-        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
+        "name": "Ecua",
+        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Di Nobo",
-      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
+      "duration_ms": 228214,
+      "name": "Ecua",
+      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -707,22 +723,6 @@
       "duration_ms": 303240,
       "name": "Me Duele el Alma",
       "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
-    },
-    {
-      "added_at": "2021-10-15 05:57:00",
-      "album": {
-        "name": "Ecua",
-        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Ecua",
-      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
-      },
-      "artists": [
-        {
-          "name": "Joan Cases",
-          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
-    },
-    {
       "added_at": "2021-10-15 05:57:00",
       "album": {
         "name": "La Vida",
@@ -851,18 +835,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy"
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
       },
       "artists": [
         {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+          "name": "Joan Cases",
+          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
         }
       ],
-      "duration_ms": 266666,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/53xMyPShokgna72KTlwsXO"
+      "duration_ms": 168960,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -883,6 +867,22 @@
       "duration_ms": 213953,
       "name": "Calle ft. Villanueva",
       "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/53xMyPShokgna72KTlwsXO"
     },
     {
       "added_at": "2021-10-08 15:53:55",

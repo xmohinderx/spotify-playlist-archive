@@ -4,7 +4,7 @@
 
 > Latin tunes to get your beast mode on!
 
-189 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/7KrnL4O1UlxyAWzycdReuS)
+190 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/7KrnL4O1UlxyAWzycdReuS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Arcade](https://open.spotify.com/track/50FBxcGx87MFUmSVgZ8sf2) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Arcade](https://open.spotify.com/album/1kCAmCiA7fuYhltvhd05za) | 2:30 | 2022-02-02 | 2022-08-13 |
 | [Asesina \- Original mix](https://open.spotify.com/track/6PniMs08lEakpuRp2nsMGv) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Barloe Team](https://open.spotify.com/artist/4okiIReqptfBJ5UULmWycZ) | [Asesina](https://open.spotify.com/album/0Xr2X0dAUZK8H0RXXRncm4) | 3:07 | 2021-12-21 |  |
 | [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 | 2022-09-23 |  |
-| [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-09-23 |  |
+| [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-09-23 | 2022-10-23 |
+| [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 | 2022-09-23 |  |
 | [Bandolero](https://open.spotify.com/track/4CJwK0Wdy5FVwhr3tBvseE) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 3:58 | 2021-12-21 | 2022-08-13 |
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2021-12-21 |  |
 | [Barras y Berettas \(B.B.\)](https://open.spotify.com/track/3ipqtvM4cUoNCjmLeBnaEx) | [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Barras y Berettas \(B.B.\)](https://open.spotify.com/album/0BinHl5QNz4NornmuxQm2m) | 3:11 | 2022-09-23 |  |

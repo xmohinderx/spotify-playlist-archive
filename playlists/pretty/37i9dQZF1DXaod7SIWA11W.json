@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Tasha Cobbs Leonard",
-  "num_followers": 26682,
+  "num_followers": 26757,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU3Mzk3NiwwMDAwMDAwMGU1YTZmNTQyOTkzOWY3YTRmNGYxNWExYjc3ZDFlY2My",
+  "snapshot_id": "MTY2NDU3Mzk3NiwwMDAwMDAwMDFiNTJiMWQ4MmE2OGFjN2YzZTEyZjlmMmE3MmUyZTM5",
   "tracks": [
     {
       "added_at": "2022-09-30 21:39:36",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "I Will See (And Live)",
+        "url": "https://open.spotify.com/album/4vc87QuyU6CINvYdRRRM9q"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 484514,
+      "name": "I Will See (And Live)",
+      "url": "https://open.spotify.com/track/1QmFNu6g02GfeFnyvEejr3"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "Watch The Sun",
         "url": "https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 323855,
       "name": "The Better Benediction (feat. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls)",
       "url": "https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "I Will See (And Live)",
-        "url": "https://open.spotify.com/album/4vc87QuyU6CINvYdRRRM9q"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 484514,
-      "name": "I Will See (And Live)",
-      "url": "https://open.spotify.com/track/1QmFNu6g02GfeFnyvEejr3"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
-        "name": "Look Up to the Sky",
-        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 173522,
-      "name": "Look Up to the Sky",
-      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
         "name": "I's On Him",
         "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 181416,
       "name": "I's On Him",
       "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
+        "name": "Look Up to the Sky",
+        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 173522,
+      "name": "Look Up to the Sky",
+      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
     },
     {
       "added_at": "2022-09-30 21:39:36",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-09-30 21:39:36",
       "album": {
+        "name": "The Divide",
+        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
+      },
+      "artists": [
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 193385,
+      "name": "The Divide",
+      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
+    },
+    {
+      "added_at": "2022-09-30 21:39:36",
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 407811,
       "name": "The Word Is Working (Refreshed)",
       "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
-    },
-    {
-      "added_at": "2022-09-30 21:39:36",
-      "album": {
-        "name": "The Divide",
-        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
-      },
-      "artists": [
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 193385,
-      "name": "The Divide",
-      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
     },
     {
       "added_at": "2022-09-30 21:39:36",

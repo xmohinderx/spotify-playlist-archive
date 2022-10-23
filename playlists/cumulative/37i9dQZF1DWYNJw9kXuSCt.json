@@ -747,6 +747,24 @@
     {
       "album": {
         "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/1zvtSTLTx66rmGP6yNu1cJ"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
         "url": "https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa"
       },
       "artists": [
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 206542,
       "name": "Cuando Me D\u00e9 la Gana",
       "url": "https://open.spotify.com/track/2joHNbSdBZtZC5NlEQDUkZ"
@@ -1921,7 +1939,7 @@
           "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Nathy Peluso",
+          "name": "NATHY PELUSO",
           "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],

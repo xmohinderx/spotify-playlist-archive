@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 43518,
+  "num_followers": 43554,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDg1NzdkODhhMTg3ZThjOGIxNGM5NzE1NTU4YzlkMzE2",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDkxOTE3ODA5NGUwMjQ1YWE2NmFhMTRiOWVmYWU1MTNk",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -395,26 +395,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "F*CK LOVE",
-        "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 181688,
-      "name": "GO (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 163902,
       "name": "Flex (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "F*CK LOVE",
+        "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 181688,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1035,22 +1035,26 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "High Off Life",
-        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Sly Pyper",
+          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
         }
       ],
-      "duration_ms": 205666,
-      "name": "Solitaires (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF"
+      "duration_ms": 196180,
+      "name": "Guns Blazing (feat. Dr. Dre & Sly Pyper)",
+      "url": "https://open.spotify.com/track/3WpHqtFUwzIQBsV9YC5iNc"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1075,26 +1079,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Sly Pyper",
-          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 196180,
-      "name": "Guns Blazing (feat. Dr. Dre & Sly Pyper)",
-      "url": "https://open.spotify.com/track/3WpHqtFUwzIQBsV9YC5iNc"
+      "duration_ms": 205666,
+      "name": "Solitaires (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF"
     },
     {
       "added_at": "2021-11-12 16:22:17",

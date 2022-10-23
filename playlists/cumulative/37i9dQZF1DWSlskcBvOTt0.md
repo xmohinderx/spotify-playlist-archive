@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-317 songs - 1 day 9 hr 5 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+318 songs - 1 day 9 hr 10 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Jellydish](https://open.spotify.com/track/0o5vFkIE7BwQwBhkQ0s8ev) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 8:26 | 2022-02-11 | 2022-07-29 |
 | [Kakooja](https://open.spotify.com/track/6w77q0msPrGkcs8GjXMWq8) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Holographic Witness](https://open.spotify.com/album/7cg8231Zuu1nV8vdV051eR) | 5:08 | 2022-09-09 | 2022-09-20 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-07-08 | 2022-10-15 |
+| [Kami](https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 5:15 | 2022-07-08 |  |
 | [Katoa](https://open.spotify.com/track/438xLWbd5HkLpGn2d8rl5X) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Katoa](https://open.spotify.com/album/4lxbeDBHemLmKqjFTz7GIx) | 4:29 | 2022-05-24 | 2022-07-29 |
 | [Kedobi](https://open.spotify.com/track/6YYzX3QAelqBKZUaJlGnAY) | [Dexter Crowe](https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Kedobi](https://open.spotify.com/album/4vSiktL7qOOyYpu2pj3812) | 6:45 | 2021-04-30 | 2022-07-28 |
 | [Keya](https://open.spotify.com/track/7aWFnpijG4mmsxt3JArLPC) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Keya](https://open.spotify.com/album/22BI3KDK331rMMJDc7gkDj) | 6:08 | 2021-05-07 | 2022-07-29 |
@@ -238,7 +239,7 @@
 | [Praah Com Poesia](https://open.spotify.com/track/5wA6aFuMZw783ghYlxVybw) | [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 6:16 | 2021-04-21 | 2022-06-07 |
 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-07-08 |  |
 | [Pyxis](https://open.spotify.com/track/4VfESynVjdqW2aXQk4SMKs) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Pyxis EP](https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT) | 7:44 | 2022-03-11 | 2022-07-26 |
-| [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 |  |
+| [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 | 2022-10-23 |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |

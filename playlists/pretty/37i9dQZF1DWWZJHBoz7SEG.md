@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Shakira y Ozuna; Arctic Monkeys, Yuridia, Taylor Swift, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,435 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,749 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 30 | [Uh yeah](https://open.spotify.com/track/1PaH6xUsycYE68nsXL4j3I) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Uh yeah](https://open.spotify.com/album/1ofnoofcnmiI5N1cGeXqJD) | 3:32 |
 | 31 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 |
 | 32 | [Marzo](https://open.spotify.com/track/09qd1uIh1Za6FcZasjffgL) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Marzo](https://open.spotify.com/album/56cxGrtCsHNNBlMKrqFS0A) | 3:06 |
-| 33 | [TUYA](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 |
+| 33 | [Tuya](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 |
 | 34 | [Entre Las Nubes](https://open.spotify.com/track/26AaLzDTeiiECBUBBT4Qpt) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Virginia Elósegui](https://open.spotify.com/artist/7K3C5xiSfy5uEXI5e9x4wD) | [Entre Las Nubes](https://open.spotify.com/album/0mBoKEO2MtsR9V5tQu1v9r) | 3:52 |
 | 35 | [Persona Favorita](https://open.spotify.com/track/4vzTSRapnXGGZUoxsiCtL3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Persona Favorita](https://open.spotify.com/album/00cy9kHF15QYiSfD6Eyo5v) | 4:00 |
 | 36 | [Yo No Creo en el Destino](https://open.spotify.com/track/6YXE8PpZYcY8o04IO3Ttxg) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Canciones Sobre el Océano](https://open.spotify.com/album/3fYb0OqLYqk5RgSet4uVkT) | 4:14 |

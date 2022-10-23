@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-198 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+199 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Fear Colours](https://open.spotify.com/track/6LqGGX6csEr35xYFINiAA1) | [LoneLady](https://open.spotify.com/artist/0BwRrZKiv4NIiVcLgONuOh) | [Fear Colours](https://open.spotify.com/album/3pH6DSketPRDBNCIpUMuNW) | 4:35 | 2021-10-06 | 2022-05-25 |
 | [Feed Me](https://open.spotify.com/track/16wmuvedj0UKCkI7ngHEai) | [Earth Girl Helen Brown](https://open.spotify.com/artist/3zpGVsfbGWp8mwf3lNNfTq) | [Earth](https://open.spotify.com/album/4TqrulLNQUtyZmKyzQsmii) | 6:55 | 2021-10-06 | 2022-09-29 |
 | [Feedback Loop](https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Feedback Loop](https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE) | 3:08 | 2022-01-21 |  |
-| [Fiesta](https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp) | 3:06 | 2022-09-30 |  |
+| [Fiesta](https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u) | 3:06 | 2022-09-30 |  |
+| [Fiesta](https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp) | 3:06 | 2022-09-30 | 2022-10-23 |
 | [Forever](https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP) | [Mïrändä](https://open.spotify.com/artist/5WV3ngokHMKB6pmuRprszb) | [Forever](https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc) | 3:58 | 2022-09-11 |  |
 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 |  |
 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-10-03 |

@@ -4,7 +4,7 @@
 
 > Los mejor de los 90s\. The Best of the 90s
 
-138 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/12YhXjjSTG1Xke1hB666xL)
+139 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/12YhXjjSTG1Xke1hB666xL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Gotas De Lluvia](https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 | 2021-10-08 |  |
 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:02 | 2021-10-08 | 2022-07-29 |
 | [Hasta El Sol De Hoy](https://open.spotify.com/track/1ruoF0rzUcG2UZMaeSacRj) | [Anthony Colon](https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir), [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WdyVxGbOMTjTRK3HmLx2g) | 4:42 | 2021-10-08 | 2022-07-29 |
-| [Hasta el sol de Hoy](https://open.spotify.com/track/2vnWoSjTm3I7VO280loEX9) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [Edgar Joel](https://open.spotify.com/album/4JEM0eOrQHAsZANiLOFTyD) | 4:44 | 2022-03-01 |  |
+| [Hasta el sol de Hoy](https://open.spotify.com/track/2vnWoSjTm3I7VO280loEX9) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [Edgar Joel](https://open.spotify.com/album/4JEM0eOrQHAsZANiLOFTyD) | 4:44 | 2022-03-01 | 2022-10-23 |
+| [Hasta El Sol De Hoy](https://open.spotify.com/track/5WclvUYBMB0461AqVf2SNm) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A), [Anthony Colon](https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz) | 4:41 | 2022-08-31 |  |
 | [Hasta Que Te Conoci](https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 5:05 | 2022-03-01 |  |
 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 | 2021-10-08 |  |
 | [Hechizo De Luna](https://open.spotify.com/track/39CUfKWhGHna1nvDqW95Xn) | [Anthony Colon](https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir), [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WdyVxGbOMTjTRK3HmLx2g) | 4:56 | 2021-10-08 | 2022-07-29 |

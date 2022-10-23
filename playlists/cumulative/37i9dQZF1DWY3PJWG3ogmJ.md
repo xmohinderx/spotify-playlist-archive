@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-226 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
+227 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 | 2022-04-22 |  |
 | [My Own Grave](https://open.spotify.com/track/2QcHIZFd5Meeroa1HB1L90) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [My Own Grave](https://open.spotify.com/album/4zSeVXasb7coGxo7ymD3EM) | 4:13 | 2022-01-14 | 2022-07-29 |
 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 | 2022-01-14 | 2022-07-29 |
-| [Necessary Death](https://open.spotify.com/track/7z4APuNgUvfs1KjzkJOg5x) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Necessary Death](https://open.spotify.com/album/4RzEjXIN0lZMoooWsZ8ERf) | 2:53 | 2022-01-14 |  |
+| [Necessary Death](https://open.spotify.com/track/7z4APuNgUvfs1KjzkJOg5x) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Necessary Death](https://open.spotify.com/album/4RzEjXIN0lZMoooWsZ8ERf) | 2:53 | 2022-01-14 | 2022-10-23 |
 | [Nekketsu](https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 3:11 | 2022-01-14 |  |
 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 | 2022-01-14 | 2022-07-29 |
 | [Nightmare Vision](https://open.spotify.com/track/0FhCI4cKLfNKOyNPJt4Rku) | [Inferious](https://open.spotify.com/artist/3GsjlNLSPhQthK4XG6Uius) | [Nightmare Vision](https://open.spotify.com/album/23Y0im3BCMNgVGLtkfWj9Q) | 2:48 | 2022-01-14 | 2022-07-29 |
@@ -154,6 +154,7 @@
 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 | 2022-01-14 | 2022-07-27 |
 | [One with You](https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9) | [Backtrack](https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl) | [Bad to My World](https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS) | 2:29 | 2022-02-10 | 2022-07-22 |
 | [Pariah](https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Pariah](https://open.spotify.com/album/76PZTUklDOYoHolig8UwAM) | 3:29 | 2022-01-14 | 2022-07-29 |
+| [Pariah](https://open.spotify.com/track/4NaYTAuIouqO0uzJqlN5l2) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Splinters from an Ever\-Changing Face](https://open.spotify.com/album/6X3196GAOJl9oHyQC2YJNm) | 3:29 | 2022-04-22 |  |
 | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/track/4A64JdONZNE0ShoiHrJx1N) | [Left Behind](https://open.spotify.com/artist/0D9zhma3Ysy2QqysEkVWRW), [Matt Honeycutt](https://open.spotify.com/artist/3l3aszE2AlLuQ0LP4H54zO) | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/album/3XI1rSazMxST7wlUiYPgxD) | 3:41 | 2022-01-14 | 2022-07-29 |
 | [Persevere and Overcome](https://open.spotify.com/track/3mCmZxKUfhKtV1Uvtz77D6) | [Reign Supreme](https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e) | [Testing The Limits of Infinite](https://open.spotify.com/album/1qiiqJYRtQQkrmr6CjiYtn) | 2:37 | 2022-02-10 | 2022-07-15 |
 | [Persevere and Overcome](https://open.spotify.com/track/7kWjVG07PMQfgmUMcuISO7) | [Reign Supreme](https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e) | [Testing the Limits of Infinite](https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw) | 2:37 | 2022-04-22 |  |

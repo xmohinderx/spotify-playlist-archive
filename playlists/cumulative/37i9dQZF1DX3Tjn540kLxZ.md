@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-334 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+336 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [blind](https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:33 | 2021-12-22 |  |
 | [Bloodline / Difficult Things](https://open.spotify.com/track/5H4GjjQta6rgKNr2vxRvEl) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 4:22 | 2021-12-22 | 2022-07-19 |
 | [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2021-12-22 | 2022-10-14 |
+| [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2022-10-21 |  |
 | [Brand New](https://open.spotify.com/track/4uePWT5W8elnUfP2a3xb4P) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [Brand New](https://open.spotify.com/album/2EupJeogg1it8g0P0EGifE) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [bullet train](https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [bullet train](https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4) | 4:30 | 2021-12-22 | 2022-07-28 |
 | [Burning Bridges](https://open.spotify.com/track/76VK9vnW5pnnfS2pd7lkRo) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Burning Bridges](https://open.spotify.com/album/3UY0icdy06Ex4JQIAXzF6H) | 2:52 | 2022-03-31 | 2022-04-21 |
@@ -132,7 +133,7 @@
 | [Hollywood Swinging \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/1esVNOL8As1eKmdRl1JH6X) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 2:30 | 2022-07-04 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/0cBPuDA3xUjR4Vh9o7CKy8) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/7wsYh6yS6jeVu4kDfIVD6U) | 5:06 | 2022-03-31 | 2022-04-17 |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2022-07-04 |  |
-| [Honey Sweet](https://open.spotify.com/track/4D2rEIyYw0meeh8AOXqfxK) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 3:35 | 2022-03-31 |  |
+| [Honey Sweet](https://open.spotify.com/track/4D2rEIyYw0meeh8AOXqfxK) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 3:35 | 2022-03-31 | 2022-10-23 |
 | [How Can I Make It OK?](https://open.spotify.com/track/4esseJdxrcatxtl7Zk8Q5V) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/5OxxXTUecFQgCVqztbcynb) | 4:47 | 2021-12-22 | 2022-07-28 |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-02-04 | 2022-07-29 |
 | [How Not To Drown \(feat\. Robert Smith\)](https://open.spotify.com/track/0Z5lJxM6ongiaJ1z2ERwY3) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [How Not To Drown](https://open.spotify.com/album/4riAgQVKToWatpRuVplVH6) | 5:31 | 2022-03-31 | 2022-04-16 |
@@ -161,6 +162,7 @@
 | [Julia](https://open.spotify.com/track/3oUSdLtRYOSvXcLMrHctv7) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:39 | 2022-03-31 | 2022-04-21 |
 | [JUNO](https://open.spotify.com/track/5eGnzWOwLq7zhnj9XsTFY4) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [JUNO](https://open.spotify.com/album/0K0zA9j4dAYRTSzO4OoRp0) | 2:53 | 2021-12-22 | 2022-07-28 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-12-22 |  |
+| [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-21 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-02-04 |  |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-12-22 |  |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2021-12-22 |  |
@@ -323,7 +325,7 @@
 | [Wayside](https://open.spotify.com/track/2IH2ZVes9PkTRUxlDJj0vm) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Make It Thru](https://open.spotify.com/album/1VgAvVLtWn1Aoru8eidv5z) | 3:36 | 2021-12-22 | 2022-07-29 |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2021-12-22 |  |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2021-12-22 |  |
-| [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-03-31 |  |
+| [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-03-31 | 2022-10-23 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2021-12-22 |  |
 | [When U Saw Love \(ft\. Babygirl\)](https://open.spotify.com/track/2DGdgztVbE3pFmqoF1rHzp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 3:26 | 2021-12-22 | 2022-07-28 |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2021-12-22 | 2022-07-26 |

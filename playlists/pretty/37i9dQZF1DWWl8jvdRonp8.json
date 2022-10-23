@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 133028,
+  "num_followers": 133199,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjY5NjgwMCwwMDAwMDAwMDdiZWZjODc4Y2YzNWMzODU5Nzk0NjRhZDE4NzY2NGVk",
+  "snapshot_id": "MTYzNjY5NjgwMCwwMDAwMDAwMDIwMGMyZTE0NGY2ZTc4OGYzMGRiZmQyZTE3YTg1NmQx",
   "tracks": [
     {
       "added_at": "2021-11-12 06:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "El Chico Aquel",
-      "url": "https://open.spotify.com/track/3GwJnpt01qkamcjLnLX8Bp"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "M\u00e1s Capaces Que Nunca",
         "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 191360,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "El Chico Aquel",
+      "url": "https://open.spotify.com/track/3GwJnpt01qkamcjLnLX8Bp"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Por Eso...Gracias",
-        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 210733,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+      "duration_ms": 236093,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
+        "name": "Por Eso...Gracias",
+        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+      "duration_ms": 210733,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 284293,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
+      "duration_ms": 299786,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 299786,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
+      "duration_ms": 284293,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
     },
     {
       "added_at": "2021-11-12 06:00:00",

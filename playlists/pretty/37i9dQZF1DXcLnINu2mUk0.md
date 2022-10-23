@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,347 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,382 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 56 | [Novo Demais](https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32) | [TRIQ](https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd), [eaux](https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh) | [Novo Demais](https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH) | 3:08 |
 | 57 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
 | 58 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 |
-| 59 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 |
-| 60 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 |
+| 59 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 |
+| 60 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGJjMzk1OTEyMjdkODQyYmNiOGU5OTAyMWVmMTAyM2Q3`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDFhYmViM2U5YjkzNjQ3YWMwZTVlZTU5YWMzMTdjOGYx`

@@ -6,7 +6,7 @@
     "name": "Maciej P\u0119dzich",
     "url": "https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2"
   },
-  "snapshot_id": "MjY2LDRmMThjM2QxZmU2Y2YxZjMzMDkxOTM1OTM0MmIyMTRhMjQxYzFmZTA=",
+  "snapshot_id": "MjY4LGZiOTg5MGE5YjI0ZjBkY2Y5YWMxYTY5Y2Y0YTM3MGRmNTk4NWIyZjc=",
   "tracks": [
     {
       "added_at": "2022-10-21 13:07:21",
@@ -27,6 +27,50 @@
       "duration_ms": 221250,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4RtJdcAOrE62uSOwfNJwJh"
+    },
+    {
+      "added_at": "2022-10-21 13:10:40",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX"
+      },
+      "artists": [
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+        }
+      ],
+      "duration_ms": 185515,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
+    },
+    {
+      "added_at": "2022-10-21 13:09:10",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/2KPBaj8lPVtLh7Hq2xFvok"
+      },
+      "artists": [
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        {
+          "name": "Hooders",
+          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/5OaizvsSInYguBNQCBJMRe"
     },
     {
       "added_at": "2022-10-21 13:09:53",
@@ -83,50 +127,6 @@
       "duration_ms": 152879,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4aNRTn0uGJxYc4NuBwAeJw"
-    },
-    {
-      "added_at": "2022-10-21 13:09:10",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/2KPBaj8lPVtLh7Hq2xFvok"
-      },
-      "artists": [
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        },
-        {
-          "name": "Hooders",
-          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/5OaizvsSInYguBNQCBJMRe"
-    },
-    {
-      "added_at": "2022-10-21 13:10:40",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX"
-      },
-      "artists": [
-        {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
-        }
-      ],
-      "duration_ms": 185515,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
     },
     {
       "added_at": "2022-10-21 13:11:38",

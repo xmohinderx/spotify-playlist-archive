@@ -1,12 +1,12 @@
 {
   "description": "JAWNY makes anti pop.",
-  "num_followers": 670686,
+  "num_followers": 670833,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM5Nzk4MSwwMDAwMDAwMDYxOTdhZWMxNzMyZDg1ZGUxMmZjOGY3MmEyNjZiNDY2",
+  "snapshot_id": "MTY2NjM5Nzk4MSwwMDAwMDAwMDBhZWJjYmY0NmI1OGRiYzI1YjhiZGY5OGRjYWQ1MDQ3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:03:00",
@@ -253,6 +253,22 @@
       "url": "https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI"
     },
     {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "ZIG ZAGGING",
+        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
+      },
+      "artists": [
+        {
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "ZIG ZAGGING",
+      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
+    },
+    {
       "added_at": "2022-10-07 04:44:00",
       "album": {
         "name": "CHAOS NOW*",
@@ -271,22 +287,6 @@
       "duration_ms": 206946,
       "name": "BAD FRUIT*",
       "url": "https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "ZIG ZAGGING",
-        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
-      },
-      "artists": [
-        {
-          "name": "Asha Imuno",
-          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "ZIG ZAGGING",
-      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
+    },
+    {
       "added_at": "2022-10-04 15:18:04",
       "album": {
         "name": "venus fly trap",
@@ -415,22 +431,6 @@
       "duration_ms": 149840,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "caffeine",
-        "url": "https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "caffeine",
-      "url": "https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "caffeine",
+        "url": "https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 198346,
+      "name": "caffeine",
+      "url": "https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
+        "name": "a liquid breakfast",
+        "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Baby Blues",
+      "url": "https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
         "name": "Impostor Syndrome",
         "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "a liquid breakfast",
-        "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Baby Blues",
-      "url": "https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "VISUALS (DELUXE)",
         "url": "https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "DITTO",
-        "url": "https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu"
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
       },
       "artists": [
         {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
         }
       ],
-      "duration_ms": 150322,
-      "name": "DITTO",
-      "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
+      "duration_ms": 179026,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -867,6 +851,22 @@
       "duration_ms": 177000,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "DITTO",
+        "url": "https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "duration_ms": 150322,
+      "name": "DITTO",
+      "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "I Did Drugs For You",
-        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
-      },
-      "artists": [
-        {
-          "name": "Rook Monroe",
-          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "I Did Drugs For You",
-      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "Hotline",
         "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "boythots",
-        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+        "name": "I Did Drugs For You",
+        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
       },
       "artists": [
         {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
         }
       ],
-      "duration_ms": 137844,
-      "name": "boythots",
-      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+      "duration_ms": 192592,
+      "name": "I Did Drugs For You",
+      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1115,6 +1099,22 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH"
-      },
-      "artists": [
-        {
-          "name": "RUNNER BOY",
-          "url": "https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv"
-        },
-        {
-          "name": "Evann McIntosh",
-          "url": "https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB"
-        }
-      ],
-      "duration_ms": 175252,
-      "name": "PRETTY",
-      "url": "https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 185752,
       "name": "Loner",
       "url": "https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH"
+      },
+      "artists": [
+        {
+          "name": "RUNNER BOY",
+          "url": "https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv"
+        },
+        {
+          "name": "Evann McIntosh",
+          "url": "https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB"
+        }
+      ],
+      "duration_ms": 175252,
+      "name": "PRETTY",
+      "url": "https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
+        "name": "Sunset Drive - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 193983,
+      "name": "Sunset Drive - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/6ePn0iOHrkvAhtMzLxeIQL"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 129113,
       "name": "off the map",
       "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "maybe not",
-        "url": "https://open.spotify.com/album/1Q52MWeo7WqYYJnB8suIlL"
-      },
-      "artists": [
-        {
-          "name": "Shy High",
-          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "maybe not",
-      "url": "https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "Doja Cat",
         "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "THE FUNK WILL PREVAIL",
-        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
+        "name": "maybe not",
+        "url": "https://open.spotify.com/album/1Q52MWeo7WqYYJnB8suIlL"
       },
       "artists": [
         {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+          "name": "Shy High",
+          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
         }
       ],
-      "duration_ms": 109036,
-      "name": "LIL BIT",
-      "url": "https://open.spotify.com/track/29N9AppxSC5zhz7q7GZcAY"
+      "duration_ms": 162461,
+      "name": "maybe not",
+      "url": "https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1683,6 +1667,22 @@
       "duration_ms": 130804,
       "name": "Great Taste",
       "url": "https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "THE FUNK WILL PREVAIL",
+        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
+      },
+      "artists": [
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 109036,
+      "name": "LIL BIT",
+      "url": "https://open.spotify.com/track/29N9AppxSC5zhz7q7GZcAY"
     },
     {
       "added_at": "2022-10-04 15:18:04",

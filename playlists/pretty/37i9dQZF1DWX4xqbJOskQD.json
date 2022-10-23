@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1284,
+  "num_followers": 1285,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDU4M2Y1ODMxNGU2Yzc3MDJmOTQ2MGJlNmNkOTNkMmJk",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMGUzMmE3OTcwOGQ1NjU5YTJhZTMyYTAxMDBhYjFiMzIy",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Blue Velvet / The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Blue Velvet / The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
-      },
-      "artists": [
-        {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
     },
     {
       "added_at": "2022-03-28 19:29:09",

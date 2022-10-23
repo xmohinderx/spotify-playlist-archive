@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-283 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+284 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Fall Hard, Land Gently](https://open.spotify.com/track/7xD5j7CSHxAMXhzn1DSvYm) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Golden Hours](https://open.spotify.com/album/4Ui2AUwUW9N4a1QfZrhtZJ) | 2:30 | 2022-05-27 |  |
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-03-06 | 2022-05-03 |
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-02 |  |
-| [Feeling Good Feeling Great](https://open.spotify.com/track/2BeTDiDs3ttu9BXdDe3smE) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/6KJ5b8kHrWLKv7Fs2pjZJ3) | 1:57 | 2022-03-06 |  |
+| [Feeling Good Feeling Great](https://open.spotify.com/track/2BeTDiDs3ttu9BXdDe3smE) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/6KJ5b8kHrWLKv7Fs2pjZJ3) | 1:57 | 2022-03-06 | 2022-10-23 |
+| [Feeling Good Feeling Great](https://open.spotify.com/track/4AQfmenuVJJdptJfjUw8Sj) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/7iB4JqDfRuOuHf0Uiq6n7g) | 1:58 | 2022-10-02 |  |
 | [Fight For Me](https://open.spotify.com/track/3Q5CNIOXwGVxkRvqDJBX3L) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Blak Matriarchy](https://open.spotify.com/album/2mzKzKFYWgxSAy7tzXrUxY) | 3:02 | 2022-04-05 |  |
 | [Finest Quality](https://open.spotify.com/track/6WoUQDuKmRp0o08NBrSp1l) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Good Company \- EP](https://open.spotify.com/album/4yTvwbp957jWpDOSt2voOe) | 3:27 | 2022-04-05 |  |
 | [FLARE](https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [FLARE](https://open.spotify.com/album/3xTwXIBYS3w4LjFtIi7hIO) | 3:18 | 2022-02-03 | 2022-07-04 |

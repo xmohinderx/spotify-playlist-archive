@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-270 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+271 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Water to Wine](https://open.spotify.com/track/7s8wNjQc9iLTNCuSJ3cKtd) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl), [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Water to Wine](https://open.spotify.com/album/0udiMrzMhmWMDQNnrwIuhX) | 2:27 | 2022-10-06 |  |
 | [We Ain't The Same](https://open.spotify.com/track/239x84VQ0LsmOHTxkaGb33) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nter](https://open.spotify.com/artist/4DIp9TFBq2eh9sQbD5YT9I) | [We Ain't The Same](https://open.spotify.com/album/2A8uUoN1jbn0ATMSo035GD) | 3:15 | 2022-03-21 | 2022-07-01 |
 | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/track/05jey8nJnyBzV6FBtn4MIq) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/album/0qn4k950Hux9jAGQGrkRX7) | 2:47 | 2022-03-21 | 2022-08-11 |
-| [We Them Kids](https://open.spotify.com/track/3ptu0v9nT3IkP7i0o1NLQ4) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/0kPyUiPoFs7ZRo4chaWtCg) | 3:08 | 2022-09-16 |  |
+| [We Them Kids](https://open.spotify.com/track/1RBwVbMUpa19R0cFjfZQjQ) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/6t0yUrLLqYcCYV1d0ULOXN) | 3:08 | 2022-10-20 |  |
+| [We Them Kids](https://open.spotify.com/track/3ptu0v9nT3IkP7i0o1NLQ4) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/0kPyUiPoFs7ZRo4chaWtCg) | 3:08 | 2022-09-16 | 2022-10-23 |
 | [What We Saying?](https://open.spotify.com/track/4MkcARWzqjSsoLe7vUBoZt) | [Imperial Collective](https://open.spotify.com/artist/0d2VYzQHpvclvMtj0iPjNf), [Steez Malase](https://open.spotify.com/artist/4TPrFPcmonEoLJse8dS8Eo), [Kei Leeza](https://open.spotify.com/artist/5JRhaOlZVpXZfB6yx6YOe0), [Billz 90](https://open.spotify.com/artist/2GAkIQ6pAg0O22r0KlVOh7) | [What We Saying?](https://open.spotify.com/album/0aioFhC4M28NB1QYsQEsU2) | 2:37 | 2022-07-14 | 2022-08-26 |
 | [When It Rains](https://open.spotify.com/track/3nUnPMNtuyOzgIgrF067SZ) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [When It Rains](https://open.spotify.com/album/2Jok9H8f6HamTvZ8cGwA93) | 2:21 | 2022-09-29 |  |
 | [WHO](https://open.spotify.com/track/5UpbNdHBHsWWespVWRBicM) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [TMB The Driver](https://open.spotify.com/artist/1kUBxtJ8z3wybn5wGAu0H2), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ) | [WHO](https://open.spotify.com/album/3arCfti8W6CPLlmn23nrgq) | 2:40 | 2022-05-12 | 2022-09-23 |

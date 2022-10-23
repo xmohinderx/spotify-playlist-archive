@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 22551,
+  "num_followers": 22599,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGI3ZGVkYWExODM2YWQzMDM5MWViMWQzODgwOGZhNmY0",
+  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMDIwN2NkYjFlMDcyNzVkMzExOTZiNmNlYTNhYjgzOTM1",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
     },
     {
-      "added_at": "2022-02-04 19:55:03",
-      "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
-      },
-      "artists": [
-        {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Antolog\u00eda...Los Xochimilcas",
@@ -611,6 +595,22 @@
       "duration_ms": 192293,
       "name": "Pulque para dos",
       "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
+    },
+    {
+      "added_at": "2022-02-04 19:55:03",
+      "album": {
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+      },
+      "artists": [
+        {
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1117,20 +1117,20 @@
       "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La China Sonidera",
-        "url": "https://open.spotify.com/album/1vrANGVI9a1i4pMdzkuSv3"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I"
       },
       "artists": [
         {
-          "name": "La China Sonidera",
-          "url": "https://open.spotify.com/artist/7ejHKHw1TwhzW50cd14z9A"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
         }
       ],
-      "duration_ms": 240986,
-      "name": "Las Tlayudas",
-      "url": "https://open.spotify.com/track/4MkN79McNtKjsRtzZkUG1q"
+      "duration_ms": 261426,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1149,20 +1149,20 @@
       "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I"
+        "name": "La China Sonidera",
+        "url": "https://open.spotify.com/album/1vrANGVI9a1i4pMdzkuSv3"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+          "name": "La China Sonidera",
+          "url": "https://open.spotify.com/artist/7ejHKHw1TwhzW50cd14z9A"
         }
       ],
-      "duration_ms": 261426,
-      "name": "Bandolero",
-      "url": "https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93"
+      "duration_ms": 240986,
+      "name": "Las Tlayudas",
+      "url": "https://open.spotify.com/track/4MkN79McNtKjsRtzZkUG1q"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Endangered Species Remixed",
+        "url": "https://open.spotify.com/album/2TlM03dkKtiI20cS1ODVAl"
+      },
+      "artists": [
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Zeb",
+          "url": "https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Mi Swing es Tropical - Zeb Remix",
+      "url": "https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
       },
@@ -1259,22 +1279,6 @@
       "duration_ms": 163420,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1291,6 +1295,22 @@
       "duration_ms": 209360,
       "name": "Coconut Water",
       "url": "https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1323,26 +1343,6 @@
       "duration_ms": 331293,
       "name": "Limon En La Cabeza",
       "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Endangered Species Remixed",
-        "url": "https://open.spotify.com/album/2TlM03dkKtiI20cS1ODVAl"
-      },
-      "artists": [
-        {
-          "name": "Nickodemus",
-          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
-        },
-        {
-          "name": "Zeb",
-          "url": "https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Mi Swing es Tropical - Zeb Remix",
-      "url": "https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
-        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "La Sitiera",
-      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Mujeres con Cajones",
         "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 171813,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
+        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Luaka Bop Remix",
-        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Afro Blue - Koop Remix",
-      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 187813,
       "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Luaka Bop Remix",
+        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Afro Blue - Koop Remix",
+      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
     }
   ],
   "unique_name": "Cocina Tradicional",

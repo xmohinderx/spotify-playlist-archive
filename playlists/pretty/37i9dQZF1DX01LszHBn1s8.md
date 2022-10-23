@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > "it's me, hi, i'm the problem it's me" \- taylor swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,816 likes - 607 songs - 1 day 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,133 likes - 607 songs - 1 day 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

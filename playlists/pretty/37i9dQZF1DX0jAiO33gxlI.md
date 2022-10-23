@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Planet Hemp
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,614 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,679 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 50 | [Favela No Topo](https://open.spotify.com/track/5KtC1UhvyfLH5yCLTTfXwm) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Universo Particular](https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev) | 4:22 |
 | 51 | [México](https://open.spotify.com/track/6AAwphwJ4PJZdvYXVI6O6v) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [México](https://open.spotify.com/album/6J9ubZAUHPXBagg88Z4FVR) | 2:20 |
 | 52 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
-| 53 | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/track/2bnNGFhIubWO4PvEIlmSwC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/album/6Yck9pW5bltFmS87Trjv1u) | 4:36 |
+| 53 | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/track/2bnNGFhIubWO4PvEIlmSwC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Nasci pra Ser Grande \(Tributo F.R\)](https://open.spotify.com/album/6Yck9pW5bltFmS87Trjv1u) | 4:36 |
 | 54 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
 | 55 | [Easy Money](https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Easy Money](https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow) | 3:11 |
 | 56 | [favela venceu / citação: rap das armas \(mc junior / mc leonardo\)](https://open.spotify.com/track/0fW96dylK12UYA5okFd7Wo) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 2:50 |

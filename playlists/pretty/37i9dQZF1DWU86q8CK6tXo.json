@@ -1,12 +1,12 @@
 {
   "description": "Music by female-identifying musicians ONLY! Cover: <a href=\u201cspotify:artist:34bhyY8jfKez7uKakMfy4y\u201d>Maddie & Tae</a>. ",
-  "num_followers": 20930,
+  "num_followers": 20928,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU4NjIxMSwwMDAwMDAwMGE2Y2M1ODI5ZTYyMzg4NGUwMTFkZmE1NTdhZGQ5ZDYw",
+  "snapshot_id": "MTY2NTU4NjIxMSwwMDAwMDAwMGM1NTg5ODJkMmIzN2IxM2JkMTg3NDY2OGQwZGMxNTVh",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -607,30 +607,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Problem With It",
-        "url": "https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR"
-      },
-      "artists": [
-        {
-          "name": "Plains",
-          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Problem With It",
-      "url": "https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Ashley McBryde Presents: Lindeville",
         "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 220796,
       "name": "Bonfire At Tina's",
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Problem With It",
+        "url": "https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR"
+      },
+      "artists": [
+        {
+          "name": "Plains",
+          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Problem With It",
+      "url": "https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k"
     },
     {
       "added_at": "2022-10-07 04:00:00",

@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-105 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+106 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 3:50 | 2022-03-17 |  |
 | [Letting You Know](https://open.spotify.com/track/3lt7UEgLnIFdNSbm5BzAW6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Letting You Know](https://open.spotify.com/album/6eAACSfsRHEqRhP5QI8Tkr) | 3:04 | 2022-03-17 |  |
 | [Long Nights](https://open.spotify.com/track/7jJ8iI3nd7qtKEwpHBBiIX) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Long Nights](https://open.spotify.com/album/3VQp3peJICpaQMShwYRgJW) | 3:18 | 2022-03-17 |  |
-| [Love Tonight](https://open.spotify.com/track/0pkfyhvGnYHoSwGvRS36Gh) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Love Tonight](https://open.spotify.com/album/48xz1tzlZKsT3cHbUCzt4t) | 3:14 | 2021-10-26 |  |
+| [Love Tonight](https://open.spotify.com/track/0pkfyhvGnYHoSwGvRS36Gh) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Love Tonight](https://open.spotify.com/album/48xz1tzlZKsT3cHbUCzt4t) | 3:14 | 2021-10-26 | 2022-10-23 |
+| [Love Tonight](https://open.spotify.com/track/1aHXAZNGyetcsmDlPqBazn) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Love Tonight](https://open.spotify.com/album/5Lbxv2mUeOd8Ve8SOGMiX0) | 3:14 | 2022-03-17 |  |
 | [Luv N' Money](https://open.spotify.com/track/7Da2T8KU3NBm9j0pJtR6RN) | [Keemz](https://open.spotify.com/artist/2g2D97ebuBzFHgeE8TRb6P) | [Luv N' Money](https://open.spotify.com/album/0Ly2d4rq63yq7qzdq4gh0Z) | 2:37 | 2022-03-17 |  |
 | [Me and My Friends \(feat\. Wretch 32\)](https://open.spotify.com/track/7By4nQ21Yll3CqOzDEFQuw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 3:34 | 2021-10-26 | 2022-03-17 |
 | [MIA](https://open.spotify.com/track/1Ya6RTKCWWDtlgDrmkw7PP) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 2:57 | 2021-10-26 | 2022-03-17 |

@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-69 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
+70 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 | 2021-06-02 |  |
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/0VYEz3QEWELuILpeyzOF0A) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:31 | 2021-06-02 | 2022-07-29 |
 | [Love Someone Else](https://open.spotify.com/track/3inkqptdmI1W1N7GOh3EbZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/2sV7D1Zl4HQBDzHQzFhjAE) | 3:31 | 2021-06-02 | 2022-07-29 |
-| [Love Someone Else](https://open.spotify.com/track/7n27gfrVYoO1nDOgvDSoUz) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/790njJAF7FtshM2PBJy007) | 3:31 | 2021-06-02 |  |
+| [Love Someone Else](https://open.spotify.com/track/5v40kyxnNxfk3NZ4myxsyI) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/2QXfiilYaHKvKk1Lqj3T97) | 3:31 | 2021-06-02 |  |
+| [Love Someone Else](https://open.spotify.com/track/7n27gfrVYoO1nDOgvDSoUz) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/790njJAF7FtshM2PBJy007) | 3:31 | 2021-06-02 | 2022-10-23 |
 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 | 2021-06-02 |  |
 | [On the Regular](https://open.spotify.com/track/2XoBGBqBeyq5qxEhCfA8Ed) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Ratchet](https://open.spotify.com/album/7vX1WKSgkpG4jwOiaXDVT6) | 2:58 | 2021-06-02 | 2022-07-29 |
 | [On the Regular](https://open.spotify.com/track/4WxjTdY9p5TTx9qB21k1IX) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Ratchet](https://open.spotify.com/album/7wbl4fcf6oTL1BfKrx2pCC) | 2:58 | 2021-06-02 |  |

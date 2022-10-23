@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Malaa
 
-351 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+352 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Armageddon](https://open.spotify.com/track/6t0sQM20nfzukV8mzsFEWe) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Armageddon](https://open.spotify.com/album/6aDDd2jtcs4rPodWsAdliA) | 3:04 | 2021-10-29 | 2022-08-13 |
 | [Arrival](https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Arrival](https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9) | 3:27 | 2022-05-06 |  |
 | [Asquerosa](https://open.spotify.com/track/5eMDSOp94CwdbgduVHApEj) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Night Bass Freshmen Vol 6](https://open.spotify.com/album/4HaQp7QwyYbcjz5m4lAFHz) | 4:25 | 2021-10-29 | 2022-01-02 |
+| [Back 2 Back](https://open.spotify.com/track/1kZAtr2I4RlXDcOpZ7yA1C) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Back 2 Back](https://open.spotify.com/album/7rQoDyK6Osl9a05uyWf2cu) | 3:03 | 2022-09-30 |  |
 | [Back Again](https://open.spotify.com/track/0jbcpvTaI3wnaLqmlv5SsU) | [Awiin](https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP) | [Back Again](https://open.spotify.com/album/33eus5o0AzboOAwXMqNc8r) | 2:27 | 2021-10-29 | 2022-01-05 |
 | [Bad B](https://open.spotify.com/track/0umdCFKMzLzSBiMMh3Tuze) | [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [Bad B EP](https://open.spotify.com/album/73ncERCky1avlxnqiE0HN1) | 3:04 | 2022-03-18 | 2022-04-20 |
 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 | 2021-10-29 | 2022-07-30 |
@@ -98,7 +99,7 @@
 | [Deja Vu](https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Deja Vu](https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX) | 3:05 | 2022-04-01 |  |
 | [Diamonds](https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Diamonds](https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU) | 3:23 | 2022-03-18 | 2022-09-11 |
 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 | 2022-03-18 | 2022-07-30 |
-| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 |  |
+| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 | 2022-10-23 |
 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 | 2022-09-09 |  |
 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 | 2022-07-22 |  |
 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 |  |

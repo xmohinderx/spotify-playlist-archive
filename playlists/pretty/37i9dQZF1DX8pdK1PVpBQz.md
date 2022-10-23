@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Vallé Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,905 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,915 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 84 | [Lost](https://open.spotify.com/track/47qblVvemZdGYnlXj2qWjt) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Lost/Shivers](https://open.spotify.com/album/36FTMh71SyfTkV0aKDUnNG) | 3:50 |
 | 85 | [Good Intent](https://open.spotify.com/track/47DOtQiNKWteeyhnjGQlOT) | [Nikki Wishart](https://open.spotify.com/artist/5j9cDmdRADlgQYyycAgqGh) | [Good Intent](https://open.spotify.com/album/5ru9G6qwvHyntiUWLM4IZw) | 3:10 |
 | 86 | [Blessings](https://open.spotify.com/track/0G8UevdEVp26a2DGfhmaIp) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [Bitner Brown](https://open.spotify.com/artist/7hFXMhSb2iI4bJcxfcwQmM) | [Blessings](https://open.spotify.com/album/1m37BOYIflgwLuB3ekRfA5) | 3:00 |
-| 87 | [We Them Kids](https://open.spotify.com/track/3ptu0v9nT3IkP7i0o1NLQ4) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/0kPyUiPoFs7ZRo4chaWtCg) | 3:08 |
+| 87 | [We Them Kids](https://open.spotify.com/track/1RBwVbMUpa19R0cFjfZQjQ) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/6t0yUrLLqYcCYV1d0ULOXN) | 3:08 |
 | 88 | [nainowale](https://open.spotify.com/track/0dqoqYxfvhO21aM1qFxxTM) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Alxndah](https://open.spotify.com/artist/3sE6pnYLj2XG3KBb8Ya43v), [Sxwrd](https://open.spotify.com/artist/0hevWdFWDaO8XRtSbLLWPb) | [nainowale](https://open.spotify.com/album/7aFKu38dxkDzSbde9xFlCH) | 3:24 |
 | 89 | [Money Palava \(Problem\)](https://open.spotify.com/track/42ogGdD5Empt7lcwqf5KiE) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Money Palava \(Problem\)](https://open.spotify.com/album/27VmM7pZXsVRkC3oURVrX9) | 2:37 |
 | 90 | [685](https://open.spotify.com/track/17KxDy80RJnTgfGOC5AFuz) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [685](https://open.spotify.com/album/3vJ4r4fRG6baXlbysTg7jW) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [SNOW](https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [SNOW](https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc) | 2:57 |
 | 100 | [Dreams](https://open.spotify.com/track/3Xeh5UjgDMFEk3VaY4PBmU) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [Dreams](https://open.spotify.com/album/7BtC5wUYfab3eIsfBACAVU) | 2:25 |
 
-Snapshot ID: `MTY2NTU0Mjc0MSwwMDAwMDAwMDcyYWMzN2RlNDJkODRjYmExNWRkYTAyOTA1NjdmNmYx`
+Snapshot ID: `MTY2NTU0Mjc0MSwwMDAwMDAwMDY0ODNhMmQ1NDI3MjU2MGI2NDhkZTZlNDgxMzhmZGY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,213 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,232 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 31 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 |
 | 32 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 |
 | 33 | [Change Your Mind](https://open.spotify.com/track/07KyRPrK4fGBiJkGDWAwLJ) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Eyes Open EP](https://open.spotify.com/album/13Ua4Sd4A8WhG3CgaNOKT0) | 5:17 |
-| 34 | [Stories](https://open.spotify.com/track/16sqIjVTEld0bqx89VdOfZ) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Slow Dance '19](https://open.spotify.com/album/2FKu1cAkI8bTLP6uIiS3oZ) | 4:10 |
+| 34 | [Stories](https://open.spotify.com/track/2wN4Y7z16C2sbtH493TRnH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Slow Dance '19](https://open.spotify.com/album/0ciY4l6aX0ss6gHwIgM0zj) | 4:10 |
 | 35 | [You and Me](https://open.spotify.com/track/2RuOeqFMhuYLVGbgGPQx2l) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:54 |
 | 36 | [Chika \(scared\)](https://open.spotify.com/track/1XZFCOZm2Z0r0xszT254Of) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life](https://open.spotify.com/album/2eQW56txcEoh0iG0bC0gDr) | 2:48 |
 | 37 | [FHKD](https://open.spotify.com/track/4XpLwRcfumQsZ0IxDNOP3f) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 79 | [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDBkNDdjNmQyODIwZDc2ZWY5M2YwZjNjZThhNjE4YWY4`
+Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDhlNzQyZDU4OWM4ZjBiYWIxZTI3YTM1YTFjODdmNjdi`

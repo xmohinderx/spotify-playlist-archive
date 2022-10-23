@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: hope tala
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,210 likes - 123 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,333 likes - 123 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 82 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 83 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 |
 | 84 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
-| 85 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 |
+| 85 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 |
 | 86 | [First Time Caller](https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [First Time Caller](https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6) | 5:17 |
 | 87 | [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 |
 | 88 | [Read Mine](https://open.spotify.com/track/0rsVGAZYDgvvMBnAgqAamg) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Read Mine](https://open.spotify.com/album/4kBgigjvgHi8ZVDNUuk7a2) | 3:12 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 122 | [Wait for Something Better](https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Wait for Something Better](https://open.spotify.com/album/12tDYPpSTOkN4QjPKOeIDQ) | 3:12 |
 | 123 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
 
-Snapshot ID: `MTY2NjMzODY5NSwwMDAwMDAwMGU2OGM0NDA2NDcyMDUwMTVhMThmNjZmNGEwYzI5ZjQw`
+Snapshot ID: `MTY2NjMzODY5NSwwMDAwMDAwMDMwNmUxYzNmYWQ0OGI0ODZmNmZmOTlhYjM4ZTRhOGQ5`

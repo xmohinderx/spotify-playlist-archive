@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,198 likes - 60 songs - 3 hr 22 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,203 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 3 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 |
 | 4 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 |
 | 5 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 |
-| 6 | [Collide](https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy) | [Yula](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Collide](https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ) | 3:43 |
+| 6 | [Collide](https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Collide](https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ) | 3:43 |
 | 7 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 |
 | 8 | [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 |
 | 9 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 37 | [Overcast](https://open.spotify.com/track/1dyoS4DZxZ30XsWlJJk4kM) | [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX), [OREONIC](https://open.spotify.com/artist/336UacimPDVf0A1Y7yXTcm) | [Overcast](https://open.spotify.com/album/3rcCjWUJuOX7rmdsLc7PTl) | 3:33 |
 | 38 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 |
 | 39 | [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 |
-| 40 | [Wish You Stayed](https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2) | [Yula](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Wish You Stayed](https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg) | 3:00 |
+| 40 | [Wish You Stayed](https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Wish You Stayed](https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg) | 3:00 |
 | 41 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 |
 | 42 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 |
 | 43 | [Try Me](https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Try Me](https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC) | 3:14 |

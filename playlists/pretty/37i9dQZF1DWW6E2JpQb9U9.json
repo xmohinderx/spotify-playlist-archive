@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Rata Blanca",
-  "num_followers": 91870,
+  "num_followers": 91901,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGQ1ZGNkY2EyM2I3ZjI5ZjdlODMwODZkZmYwMmFkM2Fm",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDkwNjJjZmViNDM1MTllOGE0MzZiMjViNzNhYTk5Y2Zl",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Repuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Irresponsables - En Vivo",
-      "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Trapos",
         "url": "https://open.spotify.com/album/1K64jidLVfUXr4aCBbcXEI"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+        "name": "Repuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+      "duration_ms": 164933,
+      "name": "Irresponsables - En Vivo",
+      "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -779,18 +763,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
-        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
       },
       "artists": [
         {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
         }
       ],
-      "duration_ms": 267240,
-      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
-      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
+        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
+      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
         "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 244222,
       "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
       "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 291139,
+      "name": "Banda de Garage",
+      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 291139,
-      "name": "Banda de Garage",
-      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Strangerdanger (En Vivo)",
         "url": "https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 184919,
       "name": "Strangerdanger - En Vivo",
       "url": "https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "En Vivo En El Opera",
-        "url": "https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Sola En Los Bares",
-      "url": "https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "En Vivo En El Opera",
+        "url": "https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Sola En Los Bares",
+      "url": "https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 247613,
       "name": "La Rueda M\u00e1gica - En Vivo",
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "22/12/18 Flores (En Vivo)",
+        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 250538,
+      "name": "Ay, Qu\u00e9 Dios Boludo",
+      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -955,22 +971,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 261838,
-      "name": "Verano del 92",
-      "url": "https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "En Vivo en The Theater at Madison Square Garden",
         "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "22/12/18 Flores (En Vivo)",
-        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 250538,
-      "name": "Ay, Qu\u00e9 Dios Boludo",
-      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
+      "duration_ms": 261838,
+      "name": "Verano del 92",
+      "url": "https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Luces (En Vivo Luna Park 2006)",
         "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+      "duration_ms": 309720,
+      "name": "Pistolas - En Vivo",
+      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 309720,
-      "name": "Pistolas - En Vivo",
-      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "En el Ojo del Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 439800,
+      "name": "Te Dir\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 439800,
-      "name": "Te Dir\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 212106,
       "name": "Beatle - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Fantasma - En Vivo",
+      "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+        "name": "Tipitorex",
+        "url": "https://open.spotify.com/album/64A2yWDQnsti67uCO44olg"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 298520,
-      "name": "Fantasma - En Vivo",
-      "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
+      "duration_ms": 241346,
+      "name": "Campanas en la Noche - En Vivo",
+      "url": "https://open.spotify.com/track/2gcgBpVcO0CONdvzvTBmQM"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1671,22 +1687,6 @@
       "duration_ms": 244071,
       "name": "Envuelto en Llamas (En Vivo)",
       "url": "https://open.spotify.com/track/674zid6QdjoHzafff631N8"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Tipitorex",
-        "url": "https://open.spotify.com/album/64A2yWDQnsti67uCO44olg"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Campanas en la Noche - En Vivo",
-      "url": "https://open.spotify.com/track/2gcgBpVcO0CONdvzvTBmQM"
     }
   ],
   "unique_name": "Vivo de Rock",

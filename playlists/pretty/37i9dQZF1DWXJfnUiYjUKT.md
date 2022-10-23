@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,150 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,368 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 79 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 | 80 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 | 81 | [Pangaea \(with blackbear\)](https://open.spotify.com/track/6zYJeYNqyZvwlMNSeOP64Q) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Pangaea \(with blackbear\)](https://open.spotify.com/album/3shwqKaPqDxZnhlrv7Fte8) | 2:21 |
-| 82 | [I Do \(feat\. Slush Puppy\)](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do \(feat\. Slush Puppy\)](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
+| 82 | [I Do](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
 | 83 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 |
 | 84 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 85 | [Aang](https://open.spotify.com/track/1Tq22UsA5ThihqbZvustnR) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [Aang](https://open.spotify.com/album/0sNMiAQZPMUH6s97XSLSui) | 3:01 |

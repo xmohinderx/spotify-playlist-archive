@@ -521,6 +521,24 @@
     {
       "album": {
         "name": "Smash Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205532,
+      "name": "Desperate and Lovely, in Desperate Need of Love",
+      "url": "https://open.spotify.com/track/10Ja383QJKvslux3bE8Ke0"
+    },
+    {
+      "album": {
+        "name": "Smash Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR"
       },
       "artists": [
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 205532,
       "name": "Desperate and Lovely, in Desperate Need of Love",
       "url": "https://open.spotify.com/track/60XUrkTOflNBTG2792rfxv"

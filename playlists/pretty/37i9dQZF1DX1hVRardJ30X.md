@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Snow Tha Product
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,312 likes - 63 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,504 likes - 63 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 25 | [Panas](https://open.spotify.com/track/0pw3Dd2IECWlyljlK94yYc) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Panas](https://open.spotify.com/album/2ErDXZjybH2hnAwNe6PWzf) | 3:37 |
 | 26 | [Mala Eligiendo](https://open.spotify.com/track/2dtQLhWPtBfzrGT5ynTUym) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Mala Eligiendo](https://open.spotify.com/album/1zZBIPrew1UwBVY1UKxokG) | 3:36 |
 | 27 | [Sin Ti](https://open.spotify.com/track/5U5ibDz9FBaZ0ojCSl0VWw) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Sin Ti](https://open.spotify.com/album/1vDpcnsDjczsXhE0QgXKtX) | 3:30 |
-| 28 | [TUYA](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 |
+| 28 | [Tuya](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 |
 | 29 | [Malos Tiempos](https://open.spotify.com/track/0qUstNA6QVElQCUD8xCT1d) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Malos Tiempos](https://open.spotify.com/album/0YxcRRygXTz6ohI9lTsIEa) | 3:04 |
 | 30 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
 | 31 | [Mi Estilo](https://open.spotify.com/track/17mO121s5ssjoi3lVK7qs9) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 1:57 |

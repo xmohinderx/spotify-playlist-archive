@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,050 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,052 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Punka](https://open.spotify.com/track/2yTErvmzXrS0epevB7v25Q) | [Kenickie](https://open.spotify.com/artist/6yG0k5r13th34248rCB8Bz) | [At The Club](https://open.spotify.com/album/4VrMUdqrKKlydpoIvJbaB6) | 3:05 |
 | 2 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 3 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
-| 4 | [Love Someone Else](https://open.spotify.com/track/7n27gfrVYoO1nDOgvDSoUz) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/790njJAF7FtshM2PBJy007) | 3:31 |
+| 4 | [Love Someone Else](https://open.spotify.com/track/5v40kyxnNxfk3NZ4myxsyI) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/2QXfiilYaHKvKk1Lqj3T97) | 3:31 |
 | 5 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
 | 6 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
 | 7 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 51 | [The Best](https://open.spotify.com/track/6fekGHLJPWZQZQhPJgcJfl) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 3:50 |
 | 52 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 
-Snapshot ID: `MTYyMjYzNjkwMSwwMDAwMDAwMGMxYjAwZmZkNzJjYzZmMmIxMmI3NzBhNjRhZGQyYjY0`
+Snapshot ID: `MTYyMjYzNjkwMSwwMDAwMDAwMDNhZGIzMjNiNjBkMzRhZjJmZjA2OTA3MDczYzJiMzhh`

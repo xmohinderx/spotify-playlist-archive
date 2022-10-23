@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=AuJe25hQRnaUEPF0wC_09A\"> Ayra Starr  </a>  ",
-  "num_followers": 369881,
+  "num_followers": 370230,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMxMDQwMCwwMDAwMDAwMDY0NjdmYTFlNThkNjFjY2M4YTZiMmQ2OTgwNmYxMzgx",
+  "snapshot_id": "MTY2NjMxMDQwMCwwMDAwMDAwMGE5NTU4YjM0ZGZjNmI1NWQ0MTcyYzMzMzBiMjUwZjA1",
   "tracks": [
     {
       "added_at": "2022-10-21 00:00:00",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
       "added_at": "2022-06-08 08:17:45",
       "album": {
         "name": "Stand Strong (feat. Sunday Service Choir)",
@@ -1043,22 +1059,6 @@
       "duration_ms": 141958,
       "name": "LEADER!",
       "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2022-08-18 23:00:00",

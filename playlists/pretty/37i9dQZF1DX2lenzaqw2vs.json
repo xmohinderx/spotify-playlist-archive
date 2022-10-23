@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123857,
+  "num_followers": 123854,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDIzMzYxNWM3NjllZTIzNDg1NDliOWI4MThiZjI0ZDZh",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDg4OGNiNDVmYjU2MGU2OWI3ZTc0MGE5ZDE2MDVlOWRk",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 190000,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 216000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2483,6 +2483,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "TODOELORO",
+        "url": "https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV"
+      },
+      "artists": [
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "TODOELORO",
+      "url": "https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Amor, Locura & Otros Vicios",
         "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
       },
@@ -2551,26 +2571,6 @@
       "duration_ms": 206739,
       "name": "Luces",
       "url": "https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "TODOELORO",
-        "url": "https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV"
-      },
-      "artists": [
-        {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "TODOELORO",
-      "url": "https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY"
     },
     {
       "added_at": "2022-07-05 19:20:04",

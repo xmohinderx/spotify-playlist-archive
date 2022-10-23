@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-119 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
+120 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 | 2021-11-05 |  |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Price Tag](https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX) | 3:18 | 2021-11-05 | 2022-07-29 |
 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 | 2021-11-05 | 2022-10-16 |
-| [Rest Your Love \- Acoustic Version](https://open.spotify.com/track/2cWap35x6l2kXcjtOGYHqL) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Acoustic by Connor](https://open.spotify.com/album/4yKCxARipHPZ92wNy3HCyb) | 3:18 | 2022-09-09 |  |
+| [Rest Your Love \- Acoustic Version](https://open.spotify.com/track/2cWap35x6l2kXcjtOGYHqL) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Acoustic by Connor](https://open.spotify.com/album/4yKCxARipHPZ92wNy3HCyb) | 3:18 | 2022-09-09 | 2022-10-23 |
 | [Rise \- Acoustic](https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Rise \(Acoustic\)](https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm) | 3:52 | 2021-11-05 |  |
 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 | 2021-11-05 |  |
 | [Runaway With It \- Acoustic](https://open.spotify.com/track/6YlozqlJqreWYJ9hyxmwLp) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Runaway With It \(Acoustic\)](https://open.spotify.com/album/3gleKdRY062yS08CKCvfbr) | 2:56 | 2021-11-05 | 2022-09-05 |
@@ -110,6 +110,7 @@
 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:07 | 2021-11-05 |  |
 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 | 2021-11-05 |  |
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2021-11-05 |  |
+| [The Remedy \(I Won't Worry\) \- Live](https://open.spotify.com/track/0f0k6SsnHoZRR4Vkzvr2NO) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come \(Expanded Edition\)](https://open.spotify.com/album/5XmgxU4rDcAoP1EHiSFYBX) | 3:49 | 2022-10-14 |  |
 | [Thunder \- Live/Acoustic](https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4) | 3:34 | 2021-11-05 |  |
 | [Tudo Pah \- Casa Filtr](https://open.spotify.com/track/5QPj2GvEMAsca12RmRiMoX) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Pah \(Casa Filtr\)](https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO) | 2:43 | 2022-09-02 | 2022-10-08 |
 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 | 2021-11-05 |  |

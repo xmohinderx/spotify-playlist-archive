@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dance Gavin Dance
 
-553 songs - 2 day 0 hr 14 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+554 songs - 2 day 0 hr 20 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Blind Lead the Blind \- Instrumental](https://open.spotify.com/track/6VuJjoD1aYAgiXCVnE3EWb) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Blind Lead the Blind](https://open.spotify.com/album/2V7CF3U5UTrmbB6AoZOEiW) | 2:53 | 2022-07-13 | 2022-07-31 |
 | [Blind Me](https://open.spotify.com/track/2TKD4Yy8HvVqfLCTkM8BYV) | [For All We Know](https://open.spotify.com/artist/7MLlLV2nHeD1PDjGRNpqfV) | [For All We Know](https://open.spotify.com/album/0jkOvjIAH0ny7cSfCSrWD5) | 4:08 | 2021-12-17 | 2022-01-25 |
 | [Blindfolded](https://open.spotify.com/track/5ZUl1TfNTIppUKzLIUsLma) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Blindfolded](https://open.spotify.com/album/2SeDZbNzFiHvFTMhCrYIgh) | 4:13 | 2022-04-29 | 2022-05-21 |
+| [Blood Eagle](https://open.spotify.com/track/32pjM7j9cfP3hlMsUTpwVE) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/0A3ms3uYiTs9MPAfQrfoKt) | 5:58 | 2022-10-07 |  |
 | [Blood Eagle](https://open.spotify.com/track/76ZcAxDSaB8UIcY3cfC1zv) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/4b8Wu8BFcryfjXnVI5tTU0) | 5:58 | 2022-07-13 | 2022-10-21 |
 | [Blood Eagle](https://open.spotify.com/track/77Dj9s0W077FDWgEUpzQhu) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Blood Eagle](https://open.spotify.com/album/3ewFn7Jr3XY7qidzb3ImVd) | 5:58 | 2022-07-13 | 2022-07-27 |
 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 | 2021-12-17 |  |
@@ -336,7 +337,7 @@
 | [Para](https://open.spotify.com/track/1ygXmSQzIQm4kqGiTod2h0) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Para](https://open.spotify.com/album/5kaDYE7WiHuPcfnJLU1X7h) | 3:49 | 2022-07-13 |  |
 | [Paradise](https://open.spotify.com/track/64dt6MAY6mSV1mQBUl8Uf0) | [Artificial Sky](https://open.spotify.com/artist/2nrrmLHotFGo4Mg627nDtN) | [Paradise](https://open.spotify.com/album/1LF4dSz5wwgj1jPh0VHXRK) | 4:10 | 2022-07-13 | 2022-07-28 |
 | [Paradise](https://open.spotify.com/track/4JZvkJ4PHhg3sAgOxpeIwa) | [Midgar](https://open.spotify.com/artist/5QUScOesnUgAxXlWGZ7jGG) | [Paradise](https://open.spotify.com/album/7I8QHeOcEyRgi1hp9IZDAH) | 3:37 | 2022-01-14 | 2022-05-31 |
-| [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 | 2022-07-13 |  |
+| [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 | 2022-07-13 | 2022-10-23 |
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
 | [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2022-07-29 |

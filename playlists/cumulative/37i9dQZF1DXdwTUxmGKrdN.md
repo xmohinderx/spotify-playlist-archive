@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-190 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+191 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Echoes of the Heart](https://open.spotify.com/track/5O5Aa0k1p5fjXmBMDkjTVp) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/4PVrOH383N97LMbLNJCTAy) | 3:58 | 2021-12-27 | 2022-07-16 |
 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 | 2022-04-11 |  |
 | [Embrace ​](https://open.spotify.com/track/1ZXt69SBkxQXPiVuMJ7RhH) | [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Embrace](https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb) | 4:42 | 2021-12-27 | 2022-06-16 |
+| [Encantadora](https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Encantadora](https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda) | 4:10 | 2022-10-03 |  |
 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 | 2022-04-11 | 2022-04-20 |
 | [Everyone but You](https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Natural](https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5) | 5:11 | 2022-04-11 | 2022-07-03 |
 | [Exhale](https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 5:14 | 2021-12-27 | 2022-07-29 |
@@ -73,7 +74,7 @@
 | [Get Up, Stand Up](https://open.spotify.com/track/6pojpuQZ2BdoMtUjJJveia) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu), [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/13irGIRyXzvK9b39Zqcljs) | 4:57 | 2022-04-11 | 2022-04-21 |
 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2022-07-18 |  |
 | [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 | 2022-04-11 | 2022-10-01 |
-| [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 |  |
+| [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 | 2022-10-23 |
 | [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 | 2022-04-11 | 2022-04-20 |
 | [Happy Go Lucky](https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Paul Hardcastle 8](https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU) | 4:14 | 2021-12-27 | 2022-07-24 |
 | [Heading Wes](https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ) | 3:21 | 2022-08-15 | 2022-10-19 |

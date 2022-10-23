@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2?si=E4OGlb8vQ2WY5jdVtCai5Q"> Bryan the Mensah </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,043 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,056 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

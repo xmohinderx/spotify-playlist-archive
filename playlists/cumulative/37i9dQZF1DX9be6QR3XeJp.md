@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists\. Cover: piri & tommy
 
-162 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+163 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Cushty](https://open.spotify.com/track/3iJTVDrJi1SdhNBAysDARI) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Cushty](https://open.spotify.com/album/0Y7N8fG5BkaQFNumqr5SgV) | 2:44 | 2022-09-01 |  |
 | [Dark Days](https://open.spotify.com/track/1YptJwVc5cXAH1hul0nzXw) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/0tXbRDVR9O9pY7rbpA3YQf) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2022-07-28 |  |
-| [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/60XUrkTOflNBTG2792rfxv) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:25 | 2022-07-28 |  |
+| [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/10Ja383QJKvslux3bE8Ke0) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:25 | 2022-10-20 |  |
+| [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/60XUrkTOflNBTG2792rfxv) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:25 | 2022-07-28 | 2022-10-23 |
 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/3CqxeMggZlQ2TBipZO0St5) | [Lynks Afrikka](https://open.spotify.com/artist/47EdbsS4fuxKNkO5beb2Qi) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/4UKOFv0i3LNSZ87HNQH0S9) | 3:25 | 2022-02-18 | 2022-07-29 |
 | [Dior](https://open.spotify.com/track/7cjIuwb2Wcli6lKRopM2k5) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Dior](https://open.spotify.com/album/7kWMzEQmQt72v1sTQnaqKo) | 3:14 | 2022-02-18 |  |
 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 | 2022-02-18 |  |

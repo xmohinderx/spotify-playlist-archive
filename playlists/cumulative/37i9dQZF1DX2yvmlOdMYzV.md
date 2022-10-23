@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-264 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+265 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [curly](https://open.spotify.com/track/1Qvwp3DULKe2pJ3Nlqqf6j) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [curly](https://open.spotify.com/album/6U0XrlPoviGhADoNJ9WlMU) | 4:38 | 2021-12-15 | 2022-07-29 |
 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-10-14 |  |
 | [D'Evils](https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 2:51 | 2021-12-15 |  |
+| [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-19 |  |
 | [Dancing](https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Endless Summer](https://open.spotify.com/album/1i1hnI5ABCJE0CbbLsuIL1) | 4:05 | 2021-12-15 | 2022-04-08 |
 | [Dawn Rise](https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm) | [Colton Bryan](https://open.spotify.com/artist/1x9dy0YY8U7OAbT3opvFjO) | [Dawn Rise](https://open.spotify.com/album/4fRgWwUzS0uadgSBXdRJMH) | 3:30 | 2021-12-15 | 2022-10-19 |
 | [Daydream](https://open.spotify.com/track/57OukQCxwo81b1v9B7iuhg) | [Cariss Auburn](https://open.spotify.com/artist/2ufvSyz0aDtPdSTzB6a3b1) | [Daydream](https://open.spotify.com/album/5zUC2dAZOqF34yXVNI6g91) | 3:16 | 2021-12-15 | 2022-06-11 |
@@ -132,7 +133,7 @@
 | [KMS \- A COLORS SHOW](https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS \- A COLORS SHOW](https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt) | 2:26 | 2022-06-30 |  |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/5pkzBdjGwsm3D6EE4PPEQ2) | 1:13 | 2021-12-15 | 2022-04-07 |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD) | 1:13 | 2022-02-11 |  |
-| [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 |  |
+| [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 | 2022-10-23 |
 | [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 | 2022-09-05 |  |
 | [Lava/Treacle](https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/56BXeYf8Xp3zxKSuQmbOet) | 3:21 | 2021-12-15 | 2022-07-31 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 | 2022-10-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,305 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,300 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 44 | [ALCOHOL](https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a) | [Valeria Cid](https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U) | [ALCOHOL](https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla) | 2:52 |
 | 45 | [Casas de Papel](https://open.spotify.com/track/4CBSgapphmbC1Y7bGY1l1Y) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3) | [Casas de Papel](https://open.spotify.com/album/4ASwsSghM0muZ5n7SHI2Rn) | 3:48 |
 | 46 | [Alegría](https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty) | [Matiu Colin](https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr) | [Alegría](https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f) | 2:22 |
-| 47 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
-| 48 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
+| 47 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
+| 48 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
 | 49 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 |
 | 50 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
 | 51 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 57 | [Es el Final Me Alejo](https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo) | [Hermanas](https://open.spotify.com/artist/6DhjvxaxmaX7X9WGAGnxSr), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Hermanas](https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54) | 3:21 |
 | 58 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
 
-Snapshot ID: `MTY2NjE3MzA3NiwwMDAwMDAwMDYzNjNjZDQwYzg4ODUxMTI1ZGYwOGM5MmM3YmVkMGRi`
+Snapshot ID: `MTY2NjE3MzA3NiwwMDAwMDAwMDUxZDcxZTRiNTQ0NWQwMGU3ODY3NzIwN2I1MTUyNTM5`

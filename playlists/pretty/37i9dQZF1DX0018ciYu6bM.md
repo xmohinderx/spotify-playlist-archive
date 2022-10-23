@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,503 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,126 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 18 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 |
 | 19 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 |
 | 20 | [What If Love](https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Code Name: Arrow](https://open.spotify.com/album/6lGBHQBYL3eRzQ2ONYaxYc) | 3:10 |
-| 21 | [No Rules](https://open.spotify.com/track/4DAcnOyjgcSAuQuDNjTgSd) | [Baekho](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Absolute Zero](https://open.spotify.com/album/5I7mGDgQg72UTQEiEa2yX4) | 2:49 |
+| 21 | [No Rules](https://open.spotify.com/track/4DAcnOyjgcSAuQuDNjTgSd) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Absolute Zero](https://open.spotify.com/album/5I7mGDgQg72UTQEiEa2yX4) | 2:49 |
 | 22 | [Confession](https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Cheer Up \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy) | 4:39 |
 | 23 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
 | 24 | [Rollin' \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Rollin'](https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU) | 3:09 |

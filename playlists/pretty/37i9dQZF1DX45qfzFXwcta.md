@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,336 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 17 | [What's Real \- Instrumental](https://open.spotify.com/track/4BUrdsObZr1hX5GvmIVNaZ) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [One Of The Best Yet \(Instrumental\)](https://open.spotify.com/album/2RM0ccLK3EL96uOGXTNg1R) | 3:24 |
 | 18 | [HOW MANY EMCEES](https://open.spotify.com/track/02KycihpwqtqMQUR6eCdhy) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb) | [DAH INSTRUMENTALZ](https://open.spotify.com/album/5WXpW898b9Fd7GmRrrtMcu) | 3:56 |
 | 19 | [The Light \- Instrumental Version](https://open.spotify.com/track/6RQdGCiHnoWPpTAfI97hUR) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Dat's That Shit! \(An Exclusive Collection of Rare Instrumentals from the Dat Vault\)](https://open.spotify.com/album/5gBjsO4i4OjLKWvwezXdIo) | 3:11 |
-| 20 | [Till the Sun Comes Up](https://open.spotify.com/track/1m0KLCmVeh5kWxcEC9fuIL) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Till the Sun Comes Up](https://open.spotify.com/album/0pienniFn3oZcgJoSD7eRF) | 1:57 |
+| 20 | [Till the Sun Comes Up](https://open.spotify.com/track/35f01nZSdpR0KtTrupnwJf) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Selected Archive \(1996 \- 2002\) \- No\. 5](https://open.spotify.com/album/5NbcdKLDqdkgZyUgsxUnME) | 1:57 |
 | 21 | [Born 2 Live \- Instrumental](https://open.spotify.com/track/3rlNahb3xsXq83bBPT6bee) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 4:30 |
 | 22 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 |
 | 23 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 58 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
 | 59 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 
-Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGE3YjIwYzhjZTJiMzdlMDFjZDFjNzBjNDhmOTIyMDFm`
+Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMDQ4YmEzODg4ZmVkMzllZTk1YWQxMTQ0ODAzOWU1NGE4`

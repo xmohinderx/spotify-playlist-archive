@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 318936,
+  "num_followers": 319118,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDdlNDYwNzlkNGQ3NjUwNTkyMmQ5OWRhY2Y2OGI4MzI2",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDc2YzczNTg2ODYzM2VlNjgyNzU0NmJlNWRkMjg2MTUx",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "Dang Me",
-      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -663,8 +647,24 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "Dang Me",
+      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -795,8 +795,8 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+      "duration_ms": 168821,
+      "name": "Swinging Doors - Re-Recorded",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
     },
     {
       "added_at": "2022-07-29 04:02:00",

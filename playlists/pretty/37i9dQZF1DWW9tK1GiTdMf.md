@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 con blame, yanomi e chakra in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,632 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,642 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 5 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
 | 6 | [STOCCOLMA](https://open.spotify.com/track/2YbyAH03K37nF4fOnOGkIo) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [STOCCOLMA](https://open.spotify.com/album/0sctf7X3nBVx3d2yIznyXD) | 3:05 |
 | 7 | [UN CASSETTO DI LACRIME](https://open.spotify.com/track/7dLxR2WIxWxrm9iccELI6Y) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh) | [UN CASSETTO DI LACRIME](https://open.spotify.com/album/72fjREfFH9cBp1mSlRmGAu) | 2:40 |
-| 8 | [VIOLA \(feat\. Salmo\)](https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [VIOLA \(feat\. Salmo\)](https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC) | 3:02 |
+| 8 | [VIOLA – with Salmo](https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [VIOLA – with Salmo](https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC) | 3:02 |
 | 9 | [Male e Bene](https://open.spotify.com/track/7tkwRpNRH4l15B070Tdzqi) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Male e Bene](https://open.spotify.com/album/46pTEEeTXZ0Z4ACn6IHjFd) | 2:47 |
 | 10 | [I Bambini](https://open.spotify.com/track/5cfbyOVx3oDHN0Nhjjv663) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [I Bambini](https://open.spotify.com/album/40Yu7giotImMe1VyaY4ZEy) | 3:03 |
 | 11 | [WALE RMX](https://open.spotify.com/track/0b9eZe50TvLivR8cH1BjB4) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl) | [WALE RMX](https://open.spotify.com/album/7lZQkoJORLeNJb5ZakJwks) | 3:03 |

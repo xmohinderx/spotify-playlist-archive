@@ -4,7 +4,7 @@
 
 > Your favourite indie tracks in one place\.  Cover: Steve Lacy
 
-592 songs - 1 day 12 hr 1 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
+593 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Good Luck](https://open.spotify.com/track/3v1FPBfBPWPh1cXUJQut5V) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Good Luck](https://open.spotify.com/album/5DgfzgGilp01gB0LxF4Yo2) | 4:36 | 2021-02-03 | 2022-04-14 |
 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 | 2020-10-29\* | 2022-08-24 |
 | [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 | 2022-08-23 | 2022-10-14 |
+| [Good Recipe](https://open.spotify.com/track/5EwTVKsO2vCw81taf6awPq) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/7ywplgIyG56OtTafvKWr6b) | 2:31 | 2022-09-23 |  |
 | [Got The Love](https://open.spotify.com/track/3Yz87ZZz3UbjBTE9d7QHD1) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Lavender](https://open.spotify.com/album/0o1r2elNdzE964UNjJp6OG) | 3:24 | 2021-04-20 | 2022-04-12 |
 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 | 2021-03-27 | 2022-10-03 |
 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-09-02 |  |
@@ -513,7 +514,7 @@
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-08-23 |  |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2022-08-23 |  |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2021-02-22 | 2022-04-08 |
-| [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-12-17 |  |
+| [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-12-17 | 2022-10-23 |
 | [Take Me Home \(I'm Ready\)](https://open.spotify.com/track/6Os4gOHLexZzhmYskuBVkO) | [Tor Miller](https://open.spotify.com/artist/6HCZOENaZRSdEWQVSN8vzL) | [Take Me Home \(I'm Ready\)](https://open.spotify.com/album/6pZp6FNlYdK1qA82PCngRS) | 3:15 | 2020-10-29\* | 2022-04-16 |
 | [Take Me to the Light](https://open.spotify.com/track/6xxldyD49GihQ9HULyNIQb) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Take Me to the Light](https://open.spotify.com/album/4HDdX1Pt0kmyC2iZPodz8Y) | 4:15 | 2021-01-18 | 2022-07-11 |
 | [Take Some Time](https://open.spotify.com/track/0Ie1ea9VHGbktOaz5PsazO) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Take Some Time](https://open.spotify.com/album/3vA1f9U8MaUieQWJcOqrgT) | 3:22 | 2020-10-29\* | 2022-04-16 |

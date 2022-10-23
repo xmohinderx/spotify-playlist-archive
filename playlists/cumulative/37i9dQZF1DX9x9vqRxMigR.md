@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-331 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+332 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [This Fire](https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [A Good Storm](https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8) | 3:46 | 2021-02-23 | 2022-04-26 |
 | [Time for Me to Dance / C'est Mon Temps Pour Danse](https://open.spotify.com/track/0XtiH3M1gIDPsv7rep8klE) | [Terrance Simien](https://open.spotify.com/artist/2pBpjXBKJtxmlzjk5OjaRi), [The Zydeco Experience](https://open.spotify.com/artist/7sEdUDK4z6LEi8Xt3rhpeB) | [Dockside Sessions](https://open.spotify.com/album/6SP2aDNO9Yn80g2Kx6nt0s) | 2:47 | 2021-02-23 | 2022-04-26 |
 | [Train](https://open.spotify.com/track/1tsD45NKz6sp31uNT5vRD9) | [Hannah Bethel](https://open.spotify.com/artist/4mUIjM7G8fohMBSUzFpyxX) | [Train](https://open.spotify.com/album/45O4JsCUgB2yBJ2HtbwQtU) | 3:31 | 2021-02-23 | 2022-04-26 |
-| [Travelin' Woman \- Live](https://open.spotify.com/track/7vv9La4RcTE4bYUmWw0AKf) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg](https://open.spotify.com/album/3qEnkEbtsJmstbsgu9raBd) | 6:06 | 2022-04-25 |  |
+| [Travelin' Woman \- Live](https://open.spotify.com/track/2lty75qPKft6GAZV038SKg) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg \(Live From Austin, Texas\)](https://open.spotify.com/album/2zp40MVQUYXRc9GKMyjdfy) | 6:06 | 2022-04-25 |  |
+| [Travelin' Woman \- Live](https://open.spotify.com/track/7vv9La4RcTE4bYUmWw0AKf) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg](https://open.spotify.com/album/3qEnkEbtsJmstbsgu9raBd) | 6:06 | 2022-04-25 | 2022-10-23 |
 | [Tres Símbolos de un Llanero](https://open.spotify.com/track/3GHb7h6duAo4FpOCtaWVf0) | [Palo Cruza'o](https://open.spotify.com/artist/2byFdNVKv8DxsnUiik4LGE) | [Llano Folklore Music](https://open.spotify.com/album/5pDIlqLHQ4IaFKLUG0Me3G) | 3:36 | 2021-02-23 | 2022-04-26 |
 | [Trouble](https://open.spotify.com/track/0dCyFoxkOIv7yIEOKTjgSY) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/6bl7EH86i0YuBogSKRGmB0) | 4:07 | 2021-02-23 | 2022-04-26 |
 | [Tullamore to Boston](https://open.spotify.com/track/6UUA4MI0ErvgPrlBakWfmc) | [JigJam](https://open.spotify.com/artist/24LC0mLoDVkqekpxeQczZP) | [Phoenix](https://open.spotify.com/album/3i0kUgGGmJpWcESRhzcNrB) | 3:43 | 2022-04-25 |  |

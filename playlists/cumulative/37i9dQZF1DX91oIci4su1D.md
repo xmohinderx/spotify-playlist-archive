@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-469 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+470 songs - 1 day 4 hr 58 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alma](https://open.spotify.com/track/2mgbWoA25dlMI1ZwZnZMgj) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Alma](https://open.spotify.com/album/0E35hAZHemk48IrC95aDqh) | 3:44 | 2021-12-17 | 2022-02-26 |
 | [Altus](https://open.spotify.com/track/5ZXd1AtbfBu1ttvMvffjJp) | [Sean Tyas](https://open.spotify.com/artist/4zqERoiO42cNiA3pPDWnvN), [Manuel Le Saux](https://open.spotify.com/artist/1kkTYO0kOsWGwV9cGsWN23), [Db Mokk](https://open.spotify.com/artist/2vq15rXwss3IG5i0zF6gmb) | [Altus](https://open.spotify.com/album/3Eo6jSRMS3fsYDQ1RFM9oi) | 4:00 | 2022-06-10 | 2022-07-12 |
 | [Always](https://open.spotify.com/track/2aHYwFZQPVINDS5q7omlGz) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Always](https://open.spotify.com/album/64jo4kxE4a6TCb7WX9e4nF) | 4:10 | 2022-01-28 | 2022-02-26 |
-| [Always Alive \- Dennis Sheperd Remix](https://open.spotify.com/track/4lfQDVRh5YYBWZrwswhyAd) | [Dicosis](https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V), [Alexandra Badoi](https://open.spotify.com/artist/4HoXJ3c9TIwcRwnEjIj4a7), [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Always Alive \(Dennis Sheperd Remix\)](https://open.spotify.com/album/0xzG9kNaMeK6m0xEfl8KEJ) | 3:37 | 2021-12-17 |  |
+| [Always Alive \- Dennis Sheperd Remix](https://open.spotify.com/track/4lfQDVRh5YYBWZrwswhyAd) | [Dicosis](https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V), [Alexandra Badoi](https://open.spotify.com/artist/4HoXJ3c9TIwcRwnEjIj4a7), [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Always Alive \(Dennis Sheperd Remix\)](https://open.spotify.com/album/0xzG9kNaMeK6m0xEfl8KEJ) | 3:37 | 2021-12-17 | 2022-10-23 |
 | [Always Do](https://open.spotify.com/track/4kmQXH4GI0AhNs71HytnXw) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Always Do](https://open.spotify.com/album/2mYMh7LcICctukhHAOie6A) | 4:09 | 2022-03-04 | 2022-08-27 |
 | [Am I Dreaming?](https://open.spotify.com/track/7Hxj0MjstQUzoS5wQPPM6j) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he) | [Am I Dreaming?](https://open.spotify.com/album/3W6SHRewTnNJCLMTJ9yXIS) | 3:45 | 2021-12-17 |  |
 | [Amen](https://open.spotify.com/track/3i2qmRHQB0TNwQVm6OlIoS) | [STANDERWICK](https://open.spotify.com/artist/6mLXfZ1OfXde8Iy9BfKoHE) | [Amen](https://open.spotify.com/album/0szKmfI4kruz5S8nOoFAZN) | 3:08 | 2021-12-17 | 2022-03-12 |
@@ -329,6 +329,7 @@
 | [Phoenix in the Night](https://open.spotify.com/track/03gngsY2p3n9EDCHIYEJl4) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Phoenix in the Night](https://open.spotify.com/album/3uP7j1RY4GbWzrQyyIcT2f) | 3:49 | 2022-04-01 | 2022-05-14 |
 | [Pigments](https://open.spotify.com/track/2cvm7Ddd86XnS6CwMd6s7S) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Pigments](https://open.spotify.com/album/5K1L9bH7nOVOG3BhiJGuLb) | 2:52 | 2022-06-24 |  |
 | [Place Called Home \- Oldschool Flavour Mix](https://open.spotify.com/track/3qsTpnCKo4hmsNySPqjvBj) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Place Called Home \(Oldschool Flavour Mix\)](https://open.spotify.com/album/3IVTVEWjG6X0jVZifp2Pjl) | 2:44 | 2022-08-12 | 2022-09-24 |
+| [Playfulness \[The Magic\]](https://open.spotify.com/track/7tCFrSAX0pgEpvikUMTxRm) | [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Playfulness \[The Magic\]](https://open.spotify.com/album/1uoq2vszzd4NymRD7TbGFW) | 3:58 | 2022-10-14 |  |
 | [Poetry](https://open.spotify.com/track/4yFIYPDSbxHjmBiJVV7V9q) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Poetry](https://open.spotify.com/album/1vrE3SXQATS52bXCOTm1ex) | 3:07 | 2021-12-17 |  |
 | [Poison](https://open.spotify.com/track/7hgErdFGOvCeZBjrKyrPpu) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Poison](https://open.spotify.com/album/2SNwGMNUdsFXoCBOAzAijm) | 4:27 | 2021-12-17 | 2022-01-15 |
 | [Polarity](https://open.spotify.com/track/4RdSfPV8r8ENATeTplWLmB) | [Corti Organ](https://open.spotify.com/artist/0v0dCyLQpm5BcEL90AcnBK) | [Polarity](https://open.spotify.com/album/0R2woxQiu1NERaArCQBgC6) | 2:20 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Koe Wetzel",
-  "num_followers": 476585,
+  "num_followers": 476708,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDNjNDIzNzM1NjAzNzVhOTIwNDJhNzc4MGViOWE4ZGQw",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGU1OTUwZDM2M2IxOGVhZjMxYzY4N2Y1MTU5NDM5ZDg4",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -171,18 +171,30 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Ivan Moody",
+          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
+        },
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
         }
       ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+      "duration_ms": 197234,
+      "name": "Outlaws & Outsiders",
+      "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -219,30 +231,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
       "artists": [
         {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        },
-        {
-          "name": "Ivan Moody",
-          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
-        },
-        {
-          "name": "Mick Mars",
-          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 197234,
-      "name": "Outlaws & Outsiders",
-      "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -595,8 +595,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "One Hell of an Angel",
-        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 211517,
-      "name": "One Hell of an Angel",
-      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
+      "duration_ms": 186458,
+      "name": "Ride the Lightning - 717 Tapes",
+      "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -659,8 +659,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "One Hell of an Angel",
+        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 186458,
-      "name": "Ride the Lightning - 717 Tapes",
-      "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
+      "duration_ms": 211517,
+      "name": "One Hell of an Angel",
+      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+        "name": "Call It Country",
+        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
         }
       ],
-      "duration_ms": 194896,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
+      "duration_ms": 151148,
+      "name": "Call It Country",
+      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Call It Country",
-        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 151148,
-      "name": "Call It Country",
-      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+      "duration_ms": 194896,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Let the Rain Come Down",
-      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Workin' Man",
         "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 218419,
       "name": "Workin' Man",
       "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Let the Rain Come Down",
+      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Year to Be Young 1994",
         "url": "https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 200898,
       "name": "Year to Be Young 1994",
       "url": "https://open.spotify.com/track/189qLE479B11BbwQlOFxQO"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
+      },
+      "artists": [
+        {
+          "name": "Manny Blu",
+          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Train",
-        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
+        "name": "Varsity Type",
+        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
       "artists": [
         {
-          "name": "Manny Blu",
-          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 177320,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
+      "duration_ms": 202383,
+      "name": "Varsity Type",
+      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Long Shots",
+        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Stronger Than You",
+      "url": "https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 207215,
       "name": "Payback (feat. The Cadillac Three)",
       "url": "https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Long Shots",
-        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
-      },
-      "artists": [
-        {
-          "name": "Tim Montana",
-          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Stronger Than You",
-      "url": "https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Adobe Sessions Unplugged",
-        "url": "https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5"
+        "name": "Still a Few Cowboys Left",
+        "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Ben Gallaher",
+          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
         }
       ],
-      "duration_ms": 170861,
-      "name": "What Else Is New",
-      "url": "https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO"
+      "duration_ms": 194186,
+      "name": "Still a Few Cowboys Left",
+      "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Still a Few Cowboys Left",
-        "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
+        "name": "Adobe Sessions Unplugged",
+        "url": "https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5"
       },
       "artists": [
         {
-          "name": "Ben Gallaher",
-          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 194186,
-      "name": "Still a Few Cowboys Left",
-      "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
+      "duration_ms": 170861,
+      "name": "What Else Is New",
+      "url": "https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO"
     },
     {
       "added_at": "2022-10-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,336 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,412 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 16 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
 | 17 | [Everywhere I Go](https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Everywhere I Go](https://open.spotify.com/album/17Mzd54AI68RCfpPeAjzu8) | 4:50 |
 | 18 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
-| 19 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
+| 19 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
 | 20 | [Sugar](https://open.spotify.com/track/6OPZYgkL3w7R0ndqRiOmUm) | [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2), [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp), [Anya Asia](https://open.spotify.com/artist/3e3CvN6gZzgDSMTmdicIde) | [Sugar](https://open.spotify.com/album/5vbBGdOMXNrtPG3gzjGHD1) | 4:53 |
 | 21 | [Try Again](https://open.spotify.com/track/0SJExjBtsh8tcKE1ZTYDyP) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [Try Again](https://open.spotify.com/album/3KjLZmbiLld9UQQB2twWJQ) | 4:58 |
-| 22 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
+| 22 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
 | 23 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 |
 | 24 | [Diamonds](https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS), [Björn Berglund](https://open.spotify.com/artist/3TDlbePC2ZlRn1OcCWnnfi), [Samuel Lancine](https://open.spotify.com/artist/2R1Th5MYsqcss3rJXVyJmN) | [Ingaro](https://open.spotify.com/album/5PdipBlyX6oMt1UrjbQi9u) | 4:36 |
 | 25 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 49 | [Little Bird \- Monrroe Remix](https://open.spotify.com/track/3IIf1SrFn0nlVbFDglVXxV) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Little Bird \(Monrroe Remix\)](https://open.spotify.com/album/4yIC0tAFDyGdi3okp37zsW) | 5:36 |
 | 50 | [Aurora](https://open.spotify.com/track/6eXViRiXJKufjfzY3Ntxhx) | [Aperio](https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Aurora](https://open.spotify.com/album/58ejteTWAe3oBiU6At8OB1) | 5:39 |
 
-Snapshot ID: `MTY1NTIwNjk4OCwwMDAwMDAwMDMxNjJmOWY2YmIwMjNlYWQxOWY3MWRmYzk2NzYwYzIz`
+Snapshot ID: `MTY1NTIwNjk4OCwwMDAwMDAwMDNlMmY1NDEwYTMzZmU3NjU0ZjEwZjNjZWVmOGQ1OGQx`

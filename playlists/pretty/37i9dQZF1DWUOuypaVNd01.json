@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk, LEALL, Major RD, Derxan",
-  "num_followers": 21145,
+  "num_followers": 21181,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDcyYWJiOGZiOWEzZGM2ODNhZTUwYmVjNWFlMzc1MDEw",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDZhNGE4OTRkMGYzZGY3MTU2MjBlZTkzNjdmYjAyMzVj",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -515,6 +515,26 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "JOVEM OG",
+        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 198051,
       "name": "Clone",
       "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "JOVEM OG",
-        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "CRIME",
-      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -695,6 +695,30 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "BRIME!",
+        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 150064,
+      "name": "CHELSEA",
+      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "Rumo ao Estrelato",
         "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 224216,
       "name": "Passa Nada",
       "url": "https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "BRIME!",
-        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 150064,
-      "name": "CHELSEA",
-      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
     },
     {
       "added_at": "2022-10-14 03:01:00",

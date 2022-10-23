@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,281 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,650 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 24 | [Pandora](https://open.spotify.com/track/6xrv26JasFtSUPonlR2R1f) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Pandora](https://open.spotify.com/album/1EDDdbxK6KB70X7J1FDfsF) | 3:26 |
 | 25 | [Aléjate de Mi](https://open.spotify.com/track/7e1H8PHnHCrF3s42fHrK9d) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Dial Up](https://open.spotify.com/album/04XyYYmpMUscRLi00KJ16R) | 3:42 |
 | 26 | [El Bendecido](https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Bendecido](https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk) | 2:38 |
-| 27 | [El Gavilan](https://open.spotify.com/track/0x5DhCHzYMHtlNInGBwKWP) | [moneydontsleep](https://open.spotify.com/artist/5QRysb9fLWxmGMDjgahShe) | [El Gavilan](https://open.spotify.com/album/0gnKqnL6tOcLezY3msNSaG) | 2:55 |
+| 27 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
 | 28 | [Panas](https://open.spotify.com/track/0pw3Dd2IECWlyljlK94yYc) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Panas](https://open.spotify.com/album/2ErDXZjybH2hnAwNe6PWzf) | 3:37 |
 | 29 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 |
 | 30 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 66 | [Awakening](https://open.spotify.com/track/0G9wcvHxixu9y9jUogkZl7) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Awakening](https://open.spotify.com/album/66TMhPuqpTNoBoKpD3mAtH) | 3:42 |
 | 67 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDc5MjYyODJlY2E5NDU0MGU4YzM1MTE1MWYzNGFiODRl`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDlhN2Q4MzgwNjJlN2UyZTZlYTQ5MzQxMmFjYmMwZGU0`

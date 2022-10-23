@@ -4,7 +4,7 @@
 
 > make it pop! cover: joan
 
-461 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+462 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [Tangerine](https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9) | [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1), [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [Tangerine](https://open.spotify.com/album/61vdGknCYTjcsJFBc6KYcq) | 3:07 | 2022-05-20 | 2022-08-27 |
 | [that's how it goes](https://open.spotify.com/track/5Agb6psLvZTVv1QxfZR73X) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8), [Candor](https://open.spotify.com/artist/70b2sXX923hUCITy2mAUiZ) | [that's how it goes](https://open.spotify.com/album/6PDPgSD9VSmg5dKKa3y22q) | 2:01 | 2022-02-04 | 2022-02-26 |
 | [That's What Makes Me Love You](https://open.spotify.com/track/2nbjwfE22P08oLHDQ11xzf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [That's What Makes Me Love You](https://open.spotify.com/album/2TJRufbxBAMm10Fu6Bt5cj) | 2:35 | 2022-03-04 | 2022-07-16 |
-| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-08-19 |  |
+| [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-09-09 |  |
+| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-08-19 | 2022-10-23 |
 | [The Basics Are Coming Back](https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [The Basics Are Coming Back / Burnout](https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1) | 3:38 | 2022-03-11 | 2022-03-18 |
 | [the chase](https://open.spotify.com/track/2oeKs07xK7pO5b7Nxq9zOj) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [the chase](https://open.spotify.com/album/5IWhQ0YxYt1SRc6QODGWKv) | 3:25 | 2022-05-06 | 2022-07-23 |
 | [The Curse](https://open.spotify.com/track/0w1jfF6OgO3cpg8Mc74yfT) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [The Curse](https://open.spotify.com/album/3tdSVisnG7oFhR4pQE5eiI) | 3:46 | 2022-02-25 | 2022-03-26 |

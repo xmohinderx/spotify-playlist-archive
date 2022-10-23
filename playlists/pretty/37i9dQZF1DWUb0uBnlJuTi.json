@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 216533,
+  "num_followers": 216741,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGZkNzNiOGJlNDVmNGFjNTA2OWViYzU5MmRkYzExMjVk",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDc4ZjJmZWJlMGM2NzUzYTE2NTQ5MGY1MWI4NTVmYjE2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Funk in the Hole",
-      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
-    },
-    {
       "added_at": "2021-08-02 13:59:54",
       "album": {
         "name": "Spare Tire",
@@ -707,6 +691,22 @@
       "duration_ms": 168208,
       "name": "Spare Tire",
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Funk in the Hole",
+      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Long Live the King (Instrumental)",
-        "url": "https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf"
-      },
-      "artists": [
-        {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
-        }
-      ],
-      "duration_ms": 211268,
-      "name": "Long Live the King - Instrumental",
-      "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "So Cold",
@@ -763,6 +747,22 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Long Live the King (Instrumental)",
+        "url": "https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 211268,
+      "name": "Long Live the King - Instrumental",
+      "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
     },
     {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "Refractions",
-        "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        }
-      ],
-      "duration_ms": 217118,
-      "name": "Refractions",
-      "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Funky Snakefoot",
@@ -839,6 +823,22 @@
       "duration_ms": 225906,
       "name": "Funky Snakefoot",
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
+    },
+    {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "Refractions",
+        "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 217118,
+      "name": "Refractions",
+      "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 636733,
+      "name": "Palm Grease",
+      "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Glide",
@@ -951,22 +967,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 636733,
-      "name": "Palm Grease",
-      "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Let's Go Everywhere",
         "url": "https://open.spotify.com/album/2Y03j0Ty27Ia0Lcee6ZzZk"
       },
@@ -979,6 +979,26 @@
       "duration_ms": 194226,
       "name": "Where's the Music",
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Squid Exit Music (7\" radio edit)",
+        "url": "https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Squid Exit Music - 7\" radio edit",
+      "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1011,26 +1031,6 @@
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Squid Exit Music (7\" radio edit)",
-        "url": "https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        },
-        {
-          "name": "Mike Outram",
-          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Squid Exit Music - 7\" radio edit",
-      "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1081,10 +1081,10 @@
       "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
+      "added_at": "2021-06-04 04:01:00",
       "album": {
-        "name": "You Feel Me",
-        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
+        "name": "Be on the Lookout",
+        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 191443,
-      "name": "You Feel Me",
-      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
+      "duration_ms": 193516,
+      "name": "Be on the Lookout",
+      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Declassified",
-        "url": "https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk"
-      },
-      "artists": [
-        {
-          "name": "Groove Collective",
-          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
-        }
-      ],
-      "duration_ms": 349440,
-      "name": "Everything Is Changing",
-      "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Doin' Something",
         "url": "https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Declassified",
+        "url": "https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk"
+      },
+      "artists": [
+        {
+          "name": "Groove Collective",
+          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+        }
+      ],
+      "duration_ms": 349440,
+      "name": "Everything Is Changing",
+      "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1193,10 +1193,10 @@
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
     },
     {
-      "added_at": "2021-06-04 04:01:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "Be on the Lookout",
-        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 193516,
-      "name": "Be on the Lookout",
-      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+      "duration_ms": 191443,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1353,74 +1353,6 @@
       "url": "https://open.spotify.com/track/17nDpLJL5JfCCa7olHnEg9"
     },
     {
-      "added_at": "2021-05-07 04:09:00",
-      "album": {
-        "name": "Spirit of '70",
-        "url": "https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk"
-      },
-      "artists": [
-        {
-          "name": "Robert Walter",
-          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
-        },
-        {
-          "name": "Gary Bartz",
-          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
-        },
-        {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
-        }
-      ],
-      "duration_ms": 257293,
-      "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
-      "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
-      },
-      "artists": [
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        },
-        {
-          "name": "Adam Deitch",
-          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
-        },
-        {
-          "name": "Shaun Martin",
-          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
-      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Interstellar Black Space",
-        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
-      },
-      "artists": [
-        {
-          "name": "Brandon Coleman",
-          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "We Change - Part I",
-      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
-    },
-    {
       "added_at": "2021-02-05 05:01:00",
       "album": {
         "name": "Sunray Junonia",
@@ -1451,6 +1383,74 @@
       "duration_ms": 300000,
       "name": "Sunray Junonia",
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+        "url": "https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        },
+        {
+          "name": "Shaun Martin",
+          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
+      "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
+    },
+    {
+      "added_at": "2021-05-07 04:09:00",
+      "album": {
+        "name": "Spirit of '70",
+        "url": "https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk"
+      },
+      "artists": [
+        {
+          "name": "Robert Walter",
+          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
+        },
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "duration_ms": 257293,
+      "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
+      "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Interstellar Black Space",
+        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
+      },
+      "artists": [
+        {
+          "name": "Brandon Coleman",
+          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "We Change - Part I",
+      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
     }
   ],
   "unique_name": "Jazz-Funk",

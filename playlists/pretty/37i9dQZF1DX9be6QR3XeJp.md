@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: piri & tommy
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,304 likes - 129 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,298 likes - 129 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 105 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
 | 106 | [Black](https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Black](https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr) | 2:43 |
 | 107 | [Burning](https://open.spotify.com/track/37mG6IjvmVd0bKf83D7ZGt) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Burning](https://open.spotify.com/album/21aYxAH1YpxxBW6XfnBz0b) | 3:03 |
-| 108 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/60XUrkTOflNBTG2792rfxv) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:25 |
+| 108 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/10Ja383QJKvslux3bE8Ke0) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:25 |
 | 109 | [Can you](https://open.spotify.com/track/52VXLQTSzgIGjwFMx3ty3U) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 3:39 |
 | 110 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 |
 | 111 | [Glue](https://open.spotify.com/track/161ytLBY5C1QROy7k9JRLr) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Glue](https://open.spotify.com/album/7kn8Zwxp3AWqfsIrAxVJJW) | 2:29 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 128 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 129 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGZjN2Q4ODFiYjllMGFlYjY1ZTMxMWU4YTJkNTc5OTI4`
+Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGRkOWFkOTdjYjkxOGJmNzgxYjQ5NGZjMTEyMTIzZDUy`

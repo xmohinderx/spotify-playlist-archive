@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,090 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,093 likes - 73 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 18 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 |
 | 19 | [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 |
 | 20 | [Seems Like Yesterday](https://open.spotify.com/track/2xUabXbWjP4zg8KLWzjf5U) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Like Water](https://open.spotify.com/album/67jcLpkhhs8aym2g4ETAVf) | 6:57 |
-| 21 | [Opal](https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/0M3si2esFXD5q7uR6CROPc), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/02vuelAR4xyXZP1ZecWryz) | 4:07 |
+| 21 | [Opal](https://open.spotify.com/track/5sJyL8UvFs6onfikqUjUqY) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/1irwQnIWoD6cV6QTmN8zZ6), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/5qCDHuUXdrQSWCjG8kkpo3) | 4:07 |
 | 22 | [Ridge Road](https://open.spotify.com/track/3CXuqcOwULRO94390MGSAR) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Ridge Road](https://open.spotify.com/album/2YLOw1oVOWQvd3HB6sV6QP) | 3:58 |
 | 23 | [Time](https://open.spotify.com/track/3ueVK1E2huAZ5z1ZHYQh3M) | [Identical \(UK\)](https://open.spotify.com/artist/1OKXJiow05m9UQ37BsBliL) | [Time](https://open.spotify.com/album/7A52FQSOQK94yVNA3GYpn2) | 4:59 |
 | 24 | [Leaf](https://open.spotify.com/track/3kFX2uUuRtujp20lxIHbwF) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Leaf](https://open.spotify.com/album/0pykvqYUvN9Q8IO0gpw9Qq) | 4:06 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 72 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 |
 | 73 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 |
 
-Snapshot ID: `MTYzNDk4MTUyOCwwMDAwMDAwMDRiNjc0MWVmODc3YjQwZDU0N2QzODQzYWNmNDI4NzE2`
+Snapshot ID: `MTYzNDk4MTUyOCwwMDAwMDAwMGZjZjYyNGNkZjc4OWU1ZTQ4YzUyNTczZDY1NDJlZDkz`

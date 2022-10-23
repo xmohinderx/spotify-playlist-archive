@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,122 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,131 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 19 | [Brave Land](https://open.spotify.com/track/0zBKPL06WMlQYgPzHBnmOz) | [Raine Hamilton](https://open.spotify.com/artist/0i27dfajiXoyMl5m9zF2Fp) | [Brave Land](https://open.spotify.com/album/3fMMI9njh8Wa4EQfeCG4an) | 3:53 |
 | 20 | [You Make Me Wanna Dance](https://open.spotify.com/track/4yonD9lIO1eTrSofS0qsld) | [Dan Weber](https://open.spotify.com/artist/2IW8tpYJv3nKXyNi9wizuy) | [You Make Me Wanna Dance](https://open.spotify.com/album/2keZoHj1xA8mTgdWm5U7eg) | 3:08 |
 | 21 | [American Silence](https://open.spotify.com/track/4P62qR1305Bn5YjwTo2wPc) | [Chris Pierce](https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r) | [American Silence](https://open.spotify.com/album/7a52YjvdkaJdxcziVjo1Yx) | 2:55 |
-| 22 | [Travelin' Woman \- Live](https://open.spotify.com/track/7vv9La4RcTE4bYUmWw0AKf) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg](https://open.spotify.com/album/3qEnkEbtsJmstbsgu9raBd) | 6:06 |
+| 22 | [Travelin' Woman \- Live](https://open.spotify.com/track/2lty75qPKft6GAZV038SKg) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg \(Live From Austin, Texas\)](https://open.spotify.com/album/2zp40MVQUYXRc9GKMyjdfy) | 6:06 |
 | 23 | [Play That Song Again](https://open.spotify.com/track/6bMqAFXZkfp9q83eM2U3Q9) | [Jeffery Straker](https://open.spotify.com/artist/43y45lgRCYYP5B2DVoaAC7) | [Just Before Sunrise](https://open.spotify.com/album/7rTw4kmsNUjbj04BmX77dh) | 4:03 |
 | 24 | [Say Can You See](https://open.spotify.com/track/4V2PDGMJnPsuHnToEnjlkA) | [Scott Cook](https://open.spotify.com/artist/3NPSzus5OqXRBS42d7EuJe) | [Say Can You See](https://open.spotify.com/album/3CR4QgZCR7DIizxPnXORJC) | 4:02 |
 | 25 | [Hungover Eyes](https://open.spotify.com/track/2fzqMjT5OsO6Fjv1p2JoiH) | [Adrian + Meredith](https://open.spotify.com/artist/4qkOE9F3pGhhestpgh80m9) | [Bad For Business](https://open.spotify.com/album/7xhjFl71Ib8zTwky12Zi5C) | 2:47 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGI4NTJkNWVhYWEwZmZkNWM2Mzc5ZGFjZDg0N2EzYmQ1`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMDhkZDVkNGI0ODNlZTA0ODg3YTU4NmVlNTJjMmFmODcw`

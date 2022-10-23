@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: Katherine Li
 
-1,342 songs - 2 day 21 hr 1 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,344 songs - 2 day 21 hr 8 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,8 +189,9 @@
 | [Call It When You Want](https://open.spotify.com/track/58tD6edXHS6ojvNGqrfoxI) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [Call It When You Want](https://open.spotify.com/album/63HmVpuNaAvKbFq50NkZGg) | 2:59 | 2021-11-19 | 2022-01-29 |
 | [Callgirl](https://open.spotify.com/track/7ALLv4wodJgAT8cnuBSzhL) | [Ivy Adara](https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq) | [Intraduction](https://open.spotify.com/album/2Twt15SYY7B7xLZlfNKiFY) | 2:44 | 2019-05-26\* | 2019-08-13 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 |  |
-| [Can You Love Me Tonight?](https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love Letters From Houston](https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI) | 3:15 | 2022-05-27 |  |
+| [Can You Love Me Tonight?](https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love Letters From Houston](https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI) | 3:15 | 2022-05-27 | 2022-10-23 |
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-06-24 | 2022-09-03 |
+| [Can't Fight This Feeling](https://open.spotify.com/track/2B2XU2qh7WXzieDeGpNbAE) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Can't Fight This Feeling](https://open.spotify.com/album/2jaybF3VltBSzF8LduPa7e) | 3:01 | 2022-10-14 |  |
 | [Can't Stop Your Lovin' – Sandy's Remix](https://open.spotify.com/track/4G7aXmShhUGQtSFbkpHbmN) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Sandy's](https://open.spotify.com/artist/25uk210UmVGsLFuHXu4Tk4) | [Can't Stop Your Lovin' – Sandy's Remix](https://open.spotify.com/album/5CwB0a1RLClJTDn76JYW5d) | 4:17 | 2020-02-19 | 2021-10-16 |
 | [Cannonball](https://open.spotify.com/track/4YOAzHBhNgRYdZ1d6y0Mhf) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Cannonball](https://open.spotify.com/album/0kbea7FLhporH5drZqrevb) | 2:43 | 2022-06-06 | 2022-08-27 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-10-05 |  |
@@ -1180,7 +1181,8 @@
 | [That Girl](https://open.spotify.com/track/0bMuCogMMHhNSq4fd3z1gA) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [That Girl](https://open.spotify.com/album/43C2nwKBVQEe5Eo2SZbi1i) | 2:20 | 2022-07-15 | 2022-09-03 |
 | [That's What Everybody Said](https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [That's What Everybody Said](https://open.spotify.com/album/1wGTHTrbX8SulQLoJtjeTk) | 3:10 | 2021-10-08 | 2022-01-29 |
 | [That's What Makes Me Love You](https://open.spotify.com/track/2nbjwfE22P08oLHDQ11xzf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [That's What Makes Me Love You](https://open.spotify.com/album/2TJRufbxBAMm10Fu6Bt5cj) | 2:35 | 2022-03-04 | 2022-10-02 |
-| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 |  |
+| [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-09-09 |  |
+| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-10-23 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-10-08 |  |
 | [The Beach](https://open.spotify.com/track/1iJ5pNS5qk1dCTwhwcj85I) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [The Beach](https://open.spotify.com/album/07Ti5eoNOpNFkv9nOTIFN8) | 2:45 | 2020-04-21 | 2021-11-10 |
 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 | 2021-11-12 |  |

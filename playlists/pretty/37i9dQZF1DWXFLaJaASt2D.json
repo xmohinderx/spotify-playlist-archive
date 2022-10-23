@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 21182,
+  "num_followers": 21265,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDBiM2M0NWE5NDY3ZDNkZGVjNDBkMzYyZjRlZjZkN2U1",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDE0YTgyNDc1OGZhMzNkZDVlYjFiM2JhOTMwM2Y5Zjk4",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "American Thighs",
-        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
-      },
-      "artists": [
-        {
-          "name": "Veruca Salt",
-          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Seether",
-      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "American Thighs",
+        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
+      },
+      "artists": [
+        {
+          "name": "Veruca Salt",
+          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Seether",
+      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
     },
     {
       "added_at": "2021-04-20 17:48:20",

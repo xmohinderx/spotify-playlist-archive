@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-218 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
+219 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alone](https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 4:24 | 2022-06-16 |  |
 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 | 2021-11-19 |  |
 | [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 | 2021-11-19 | 2022-07-26 |
-| [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 | 2021-11-19 |  |
+| [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 | 2021-11-19 | 2022-10-23 |
 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 | 2022-06-16 |  |
 | [Asal Mein](https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein \- Single](https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV) | 3:44 | 2021-11-19 | 2022-07-29 |
 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 | 2021-11-19 |  |
@@ -49,6 +49,7 @@
 | [Chale Aana \(From "De De Pyaar De"\)](https://open.spotify.com/track/6vuMdb0E8buJeSHArN3dXk) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Chale Aana \(From "De De Pyaar De"\)](https://open.spotify.com/album/1TFFOjue8k2sLTISbqmHR9) | 4:31 | 2021-11-19 | 2022-02-14 |
 | [Church](https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 3:50 | 2021-11-19 |  |
 | [Con La Miel En Los Labios](https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Con La Miel En Los Labios](https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD) | 3:22 | 2021-11-19 |  |
+| [criminal](https://open.spotify.com/track/311s3ffZ2YnoB5jCcUOgiN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal \(A COLORS SHOW\)](https://open.spotify.com/album/2vtHb0aPw6c6PXrGeaNazY) | 2:37 | 2022-10-17 |  |
 | [Dahan](https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Dahan](https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij) | 4:57 | 2021-11-19 |  |
 | [Dalan Liyane](https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn) | 4:16 | 2021-11-19 | 2022-07-29 |
 | [Dalan Liyane](https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea) | 4:16 | 2022-06-16 |  |

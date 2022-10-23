@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-352 songs - 22 hr 35 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
+353 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Africa Unite](https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 2:55 | 2021-10-18 | 2022-07-29 |
 | [Afrikan Children](https://open.spotify.com/track/4c8z56rvgeuTfJ7Pm9XGeE) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 3:38 | 2021-10-18 | 2022-07-29 |
 | [After 3 \(feat\. Mortimer\)](https://open.spotify.com/track/6l9v8pNy1P39VNfqpbKuFL) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA), [Mortimer](https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:20 | 2022-08-18 | 2022-09-10 |
-| [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 | 2022-09-23 |  |
+| [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 | 2022-09-23 | 2022-10-23 |
 | [All You Need Is Love](https://open.spotify.com/track/3xyC7nabfT7TgqrTiTcpve) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc) | [Songs Around The World \(10 Year Anniversary Edition\)](https://open.spotify.com/album/23h2MOMXI92CmIdRLy9uMC) | 3:58 | 2021-10-18 | 2022-07-28 |
 | [Allow Me to Live](https://open.spotify.com/track/2ocgbHELlfQPXMFwQhIblw) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/5zN94MvRvUzdrwrt2MSWbx) | 3:03 | 2021-10-18 | 2022-07-22 |
 | [Angel](https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:55 | 2022-06-20 |  |
@@ -28,6 +28,7 @@
 | [Badman \- Rastafari Mix](https://open.spotify.com/track/6du9X9m5g3Og7NyrwFhKQW) | [Natty](https://open.spotify.com/artist/2bYR6To8Z49UmceWctNMIb), [The Rebel Ship](https://open.spotify.com/artist/4Hz6u0mY9f1Aze6PL7KWfP), [Benjamin Zephaniah](https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6) | [Man Like I&I \(Special 10th Anniversary Edition\)](https://open.spotify.com/album/3Y2FEGq005vgMMp2FPXswD) | 5:12 | 2021-10-18 | 2022-06-23 |
 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 | 2022-04-22 | 2022-05-06 |
 | [Bam Bam](https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:16 | 2022-06-20 |  |
+| [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-10-13 |  |
 | [Beach in Hawaii](https://open.spotify.com/track/7nCQ6Q6HJeHnwDHydc7x05) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu) | 3:44 | 2022-06-20 | 2022-10-13 |
 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 | 2021-10-18 | 2022-07-29 |
 | [Best of Me](https://open.spotify.com/track/27FkRxzVuWHCrwYEt2K5j0) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Best of Me](https://open.spotify.com/album/24TXQYteRWBURvGjjLO308) | 3:46 | 2021-10-18 | 2022-07-17 |

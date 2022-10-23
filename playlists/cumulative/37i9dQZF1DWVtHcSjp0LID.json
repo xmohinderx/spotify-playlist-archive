@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 437653,
       "name": "Heading North",
       "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
@@ -1965,6 +1965,24 @@
       "duration_ms": 295049,
       "name": "Red Giant",
       "url": "https://open.spotify.com/track/5V4fxT6U5kOuERIJM7Atgk"
+    },
+    {
+      "album": {
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+      },
+      "artists": [
+        {
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
     },
     {
       "album": {

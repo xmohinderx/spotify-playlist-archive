@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 280078,
+  "num_followers": 280351,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc5MDQzNCwwMDAwMDAwMDY2YWFmMjhlMjU5ZTFmZmE5MjcxNGM3YzNjYmU5MDIy",
+  "snapshot_id": "MTY1ODc5MDQzNCwwMDAwMDAwMDZiMjlkZGE5OWU4MDk3ZjM3Y2M1MmQyNWQ5MGQxMGYz",
   "tracks": [
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Pocketful Of Sunshine",
-        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Pocketful of Sunshine",
-      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Greetings From Imrie House (U.S. Version)",
-        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
-      },
-      "artists": [
-        {
-          "name": "The Click Five",
-          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Just the Girl",
-      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 225866,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "Greetings From Imrie House (U.S. Version)",
+        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
+      },
+      "artists": [
+        {
+          "name": "The Click Five",
+          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Just the Girl",
+      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
     },
     {
       "added_at": "2022-03-26 14:30:45",

@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-87 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
+88 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Tamara Alexa \- Interdimensional Travel Agent](https://open.spotify.com/track/0E27knHYJH1Zc485jR4eQA) | [Richard Horowitz](https://open.spotify.com/artist/18k4PVY4WySALYiokkex0R) | [Eros in Arabia](https://open.spotify.com/album/6ETfhsSMYre4TM8JStzRew) | 3:28 | 2022-06-14 |  |
 | [Tamara Alexa \- Interdimensional Travel Agent](https://open.spotify.com/track/4Jo1AyI1O4RxHgXwz5qzUV) | [Richard Horowitz](https://open.spotify.com/artist/18k4PVY4WySALYiokkex0R) | [Eros in Arabia](https://open.spotify.com/album/0iEbpePNJdijf0zgJWhjIe) | 3:28 | 2021-12-23 | 2022-07-29 |
 | [The Burning Temple](https://open.spotify.com/track/7Jkmc8EU96FhqBe52Vqahq) | [Thom Brennan](https://open.spotify.com/artist/1EHH5QEc23WZZ4KlbBngMZ) | [Mountains](https://open.spotify.com/album/7lWulChMGvHgoExzY2kMLd) | 3:37 | 2021-12-23 |  |
-| [The City Sleeps \- Remastered](https://open.spotify.com/track/4z2wYbLHA8PikfutuQZwZC) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:34 | 2021-12-23 |  |
+| [The City Sleeps \- Remastered](https://open.spotify.com/track/4z2wYbLHA8PikfutuQZwZC) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:34 | 2021-12-23 | 2022-10-23 |
+| [The City Sleeps \- Remastered](https://open.spotify.com/track/5wsOFaUjcTEs5OthiDLpxQ) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/0JCvbWETwmTcjlVyfT2KRn) | 2:34 | 2022-10-04 |  |
 | [The Ghost Has No Home](https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 7:35 | 2021-12-23 |  |
 | [The Healing Place](https://open.spotify.com/track/4LdxNQZKD9P0V9bTmIekBp) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 5:28 | 2021-12-23 |  |
 | [The Plateaux Of Mirror \- Remastered 2004](https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 4:13 | 2021-12-23 |  |

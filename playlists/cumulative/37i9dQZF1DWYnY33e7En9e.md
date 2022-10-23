@@ -4,7 +4,7 @@
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-433 songs - 1 day 6 hr 11 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
+434 songs - 1 day 6 hr 14 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Day One \(feat\. Big L, A.G., Lord Finesse, & O.C.\)](https://open.spotify.com/track/0xyR0utsJZGtHdcuBqTEVZ) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Lord Finesse,](https://open.spotify.com/artist/5l1PJmnyWyc4zYB5aImAio), [O.C](https://open.spotify.com/artist/61NRYdCrAE7dDiBx1yPbYq) | [Rare & Unreleased](https://open.spotify.com/album/799MZNbFZ6Lgrqs8sJ6T6i) | 4:14 | 2021-05-19 | 2022-03-04 |
 | [Detroit Rock City](https://open.spotify.com/track/7Dtukb9NLJs1i0lohMlIC5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum \(Remastered Version\)](https://open.spotify.com/album/5geXfGrkFVo5eiVz4DL0Q9) | 3:35 | 2021-05-19 | 2022-07-29 |
 | [Don't Bring Me Down](https://open.spotify.com/track/7rjMG5Lm94fEdQ9XxD5WLg) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [The Essential Electric Light Orchestra](https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp) | 4:03 | 2021-05-19 | 2022-07-29 |
-| [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 | 2021-05-19 |  |
+| [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 | 2021-05-19 | 2022-10-23 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2021-05-19 |  |
 | [Don't Sweat The Technique](https://open.spotify.com/track/3YXlTtlYDXI2SyofNm1ccg) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Gold](https://open.spotify.com/album/7cEhLD8Rovs1U2wSFx6agz) | 4:21 | 2021-05-19 | 2022-04-25 |
 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 | 2021-05-19 | 2022-07-28 |
@@ -186,6 +186,7 @@
 | [I'll Be Good](https://open.spotify.com/track/57b0v2TB75b3ON5g5e8Q6N) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire ..\. And More](https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9) | 5:21 | 2021-05-19 | 2022-01-14 |
 | [I'm Dreamin'](https://open.spotify.com/track/04VArZKHm1xesMxqnsutDY) | [Christopher Williams](https://open.spotify.com/artist/27TmRLInIAVyWyU14KlALf) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 5:03 | 2021-05-19 | 2022-02-03 |
 | [If It Isn't Love](https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 5:09 | 2021-05-19 | 2021-12-30 |
+| [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2021-05-19 |  |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2021-05-19 |  |
 | [In My Dreams \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/5IXUAYqwxmAFj69RWYFzbU) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Greatest Hits \(Re\-Recorded / Remastered Versions\)](https://open.spotify.com/album/0yTOt9Nd9IpyuYc74t1tNP) | 4:33 | 2021-05-19 | 2022-06-12 |
 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 | 2021-05-19 | 2022-10-15 |

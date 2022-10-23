@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,672,984 likes - 290 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,674,529 likes - 290 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 10 | [Un sourire et une larme \(valse\)](https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Petites danses et rêveries](https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB) | 2:26 |
 | 11 | [Entangled \- Ole\-Bjørn Talstad Rework](https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Entangled \(Ole\-Bjørn Talstad Rework\)](https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az) | 2:13 |
 | 12 | [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 |
-| 13 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 |
+| 13 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 |
 | 14 | [In Repose](https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [In Repose](https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ) | 2:22 |
 | 15 | [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 |
 | 16 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 |
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 190 | [Places](https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Places](https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI) | 2:34 |
 | 191 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 |
 | 192 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 |
-| 193 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 |
+| 193 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 |
 | 194 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 |
 | 195 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 |
 | 196 | [Departure](https://open.spotify.com/track/5HSBbEUofDbCCZOuXaJ9un) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Chasing Z's](https://open.spotify.com/album/539aflSEVCCgjDIN4w5rUn) | 3:04 |

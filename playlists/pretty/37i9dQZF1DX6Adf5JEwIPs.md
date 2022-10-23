@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Nathan Galante
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,389 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,424 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 29 | [Lo Mío No Tiene Cura](https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Lo Mío No Tiene Cura](https://open.spotify.com/album/143kPEitPDgMiNotLyLene) | 3:40 |
 | 30 | [Diamante](https://open.spotify.com/track/6NLt4ebna0B31uaVSjhw9c) | [Julian Caballero](https://open.spotify.com/artist/2A0P9R5amqelDRgqx40fte) | [Diamante](https://open.spotify.com/album/76sulnqqFBP8WzRlSAdJnP) | 2:14 |
 | 31 | [Gente De La Sierra](https://open.spotify.com/track/09eIPmeTuf37ye0pRmvWiw) | [Los de la Norte](https://open.spotify.com/artist/08zuxBeZmB7Z5LUAzxDept) | [Gente De La Sierra](https://open.spotify.com/album/2LW1I1JJD0E14NMskPzbr8) | 2:37 |
-| 32 | [Bling Bling](https://open.spotify.com/track/1l28NysVrkcOPkEsOoeP3k) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW), [Encontrados](https://open.spotify.com/artist/2LLdYEleQoYP8o74tkEKzn) | [Bling Bling](https://open.spotify.com/album/4f04g4LuSVQlqHVHwX1XPa) | 3:48 |
+| 32 | [Bling Bling](https://open.spotify.com/track/1l28NysVrkcOPkEsOoeP3k) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW), [Encontrados](https://open.spotify.com/artist/2LLdYEleQoYP8o74tkEKzn) | [Bling Bling](https://open.spotify.com/album/4f04g4LuSVQlqHVHwX1XPa) | 3:06 |
 | 33 | [Me Encanta](https://open.spotify.com/track/5pKPM9W3sfUjXrqfczJGVf) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [Me Encanta](https://open.spotify.com/album/6pw6ppJNOmpkwPwwaCNVZB) | 3:23 |
 | 34 | [Gracias A La Vida](https://open.spotify.com/track/635YCTVjU5z9hMAv5wAooo) | [Angel Carrillo](https://open.spotify.com/artist/4BsFHn8AwazI5QKbgs8oHz), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Gracias A La Vida](https://open.spotify.com/album/5dp5SGE7TsqBezPkG9DX8N) | 3:23 |
 | 35 | [A la Sorda Navegamos](https://open.spotify.com/track/1T6rSaFhw2YGCOywZ5jc3s) | [Javid Cota](https://open.spotify.com/artist/4CvtPO41PiI2qd0PM0iB60), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [A la Sorda Navegamos](https://open.spotify.com/album/2wrAKxD9sY9zDwukLRqy86) | 3:16 |

@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-421 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+422 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Arriba el Tiro](https://open.spotify.com/track/65sEPl3jMl4QWWVzluPTqk) | [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Kamaro](https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Ramón Cortéz](https://open.spotify.com/artist/0VURtYFz2B4jn308WVCgVF) | [Música Prohibida](https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA) | 3:46 | 2022-10-07 |  |
 | [Asesino \(feat\. Puri\)](https://open.spotify.com/track/2BsAjEvuw3PBoRr1T83hdH) | [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [MULTIPLICA](https://open.spotify.com/artist/0xpeO4zfSgXtpZi7NdId69), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Asesino \(feat\. Puri\)](https://open.spotify.com/album/6Hs1A0vzKFvnHn6I7Fe0Vl) | 2:46 | 2022-05-13 | 2022-10-08 |
 | [Asi Soy](https://open.spotify.com/track/4UHi7kSI60zA8lHeCk4Yrf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Asi Soy](https://open.spotify.com/album/1DgUPUAAgrQLV0h6rSVABP) | 3:56 | 2022-01-06 | 2022-01-20 |
-| [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-10-07 |  |
+| [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-10-07 | 2022-10-23 |
+| [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 | 2022-10-07 |  |
 | [Baby Schai](https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby Schai](https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa) | 3:10 | 2022-10-07 |  |
 | [Bacanora](https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Los del Noro](https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep) | 3:31 | 2022-10-07 |  |
 | [Bando Boyz Free 2](https://open.spotify.com/track/4D3fwZeOechinXHc72oCir) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free 2](https://open.spotify.com/album/3Q6HpqGRTI5rM5z2Ajbi96) | 3:21 | 2022-01-06 | 2022-05-14 |

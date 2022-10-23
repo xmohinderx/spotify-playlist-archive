@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 2193,
+  "num_followers": 2203,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM0NzQwMiwwMDAwMDAwMDkyNzdiOWQyODQzZTU5OGYwOTY2Y2I1MDBhYmM1MzM5",
+  "snapshot_id": "MTY2NjM0NzQwMiwwMDAwMDAwMGE4MDFjMDA4MzZkNmVhOTYwN2U5MWE0ZTNmM2JlYmM2",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -109,7 +109,7 @@
         },
         {
           "name": "5ive Rings",
-          "url": "https://open.spotify.com/artist/7zVRJxs2J10VVcLriaFb8J"
+          "url": "https://open.spotify.com/artist/1rYu7GER72nKaiEcCkXNjx"
         }
       ],
       "duration_ms": 161800,
@@ -445,26 +445,6 @@
       "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
     },
     {
-      "added_at": "2022-09-23 06:31:57",
-      "album": {
-        "name": "Philo",
-        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Philo",
-      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
-    },
-    {
       "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Only You",
@@ -489,22 +469,6 @@
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "M\u00e9chante",
-        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "M\u00e9chante",
-      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
-    },
-    {
       "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Cough (Odo)",
@@ -523,6 +487,42 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+    },
+    {
+      "added_at": "2022-09-23 06:31:57",
+      "album": {
+        "name": "Philo",
+        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Philo",
+      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "M\u00e9chante",
+        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "M\u00e9chante",
+      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -681,24 +681,20 @@
       "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
     },
     {
-      "added_at": "2022-02-11 10:48:58",
+      "added_at": "2022-07-07 23:00:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -717,20 +713,24 @@
       "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-02-11 10:48:58",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
       "artists": [
         {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-02-14 11:54:25",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
       "added_at": "2022-08-12 05:28:23",
       "album": {
         "name": "Jaiye Foreign",
@@ -783,22 +799,6 @@
       "duration_ms": 190164,
       "name": "Jaiye Foreign",
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
-    },
-    {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -865,24 +865,24 @@
       "url": "https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-08-05 07:04:42",
       "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
       "artists": [
         {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 176842,
-      "name": "The Love Song (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
+      "duration_ms": 195939,
+      "name": "Compromise (feat. Rema)",
+      "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -913,24 +913,24 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
-      "added_at": "2022-08-05 07:04:42",
+      "added_at": "2022-08-18 23:00:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 195939,
-      "name": "Compromise (feat. Rema)",
-      "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
+      "duration_ms": 176842,
+      "name": "The Love Song (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
     },
     {
-      "added_at": "2022-08-22 18:00:00",
+      "added_at": "2022-02-11 10:48:58",
       "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
       "artists": [
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+      "duration_ms": 165040,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
       "added_at": "2022-08-05 07:04:42",
@@ -1065,36 +1065,20 @@
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
-      "added_at": "2022-02-11 10:48:58",
+      "added_at": "2022-08-22 18:00:00",
       "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 165040,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1115,6 +1099,22 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2022-03-18 00:00:00",
@@ -1221,6 +1221,26 @@
       "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
     },
     {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Rum & Boogie",
@@ -1281,26 +1301,6 @@
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/16OczVqcp5NswQ7nawPX8h"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/6fZmsZJAnLXJW7p9KO9hNI"
-    },
-    {
       "added_at": "2022-09-09 08:49:10",
       "album": {
         "name": "When I See You",
@@ -1357,26 +1357,6 @@
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Wait On Me",
-        "url": "https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE"
-      },
-      "artists": [
-        {
-          "name": "Mayten",
-          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 247337,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"
-    },
-    {
       "added_at": "2022-09-30 06:55:26",
       "album": {
         "name": "Palmwine Music 3",
@@ -1397,6 +1377,26 @@
       "url": "https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe"
     },
     {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Wait On Me",
+        "url": "https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE"
+      },
+      "artists": [
+        {
+          "name": "Mayten",
+          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 247337,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Shakara",
@@ -1415,6 +1415,22 @@
       "duration_ms": 200869,
       "name": "Shakara",
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Kaba",
+        "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 171456,
+      "name": "Kaba",
+      "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
     },
     {
       "added_at": "2022-09-15 23:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Kaba",
-        "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 171456,
-      "name": "Kaba",
-      "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
     },
     {
       "added_at": "2022-02-11 10:48:58",

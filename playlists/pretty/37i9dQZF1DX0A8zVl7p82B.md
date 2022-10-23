@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,986 likes - 166 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,996 likes - 166 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 77 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
 | 78 | [Santa Visits Everyone](https://open.spotify.com/track/2ScrK8ptkddDk998DLu9sr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/2gfErXBICi3AIaEPBrideo) | 3:08 |
 | 79 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 |
-| 80 | [Perfect Holiday](https://open.spotify.com/track/7uurWnQa19yid3vd4rslmc) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/3BvrInE7zjaCeJHke6V00J) | 3:13 |
+| 80 | [Perfect Holiday](https://open.spotify.com/track/44db5yiEjupwyZxXSRoyK8) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/00M3oIJTaN91qcnp0RZHMP) | 3:13 |
 | 81 | [Driving Home for Christmas](https://open.spotify.com/track/5IVrfmg1eeDdHCD4TJZwvK) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Driving Home for Christmas](https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr) | 3:48 |
 | 82 | [Blackout Christmas](https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB) | 2:19 |
 | 83 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 165 | [Dear Santa](https://open.spotify.com/track/1HJ4AItKggXkCoi28YuaQt) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Dear Santa](https://open.spotify.com/album/2102M7KbKg8Qtjoub3teBw) | 3:48 |
 | 166 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW) | 3:28 |
 
-Snapshot ID: `MTY2NDg5NTc4MiwwMDAwMDAwMDk4MTUyNzJiOTdjYjZhMTA3MzhhYTFlOTQ3Y2U5NzYx`
+Snapshot ID: `MTY2NDg5NTc4MiwwMDAwMDAwMGMwYjA5NzI1ODAyYjIwOGVhN2EwODc1NDkxOGQ0MGM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,679 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,654 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 40 | [JOY \(Not Sure What I'm Going Through\)](https://open.spotify.com/track/1uy6RVUC2Qb70rlrmr9ZFh) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Human Again](https://open.spotify.com/album/2aiablb9OlYooQGVNylgid) | 3:17 |
 | 41 | [Heavy](https://open.spotify.com/track/7y7Wd6SDy39DHRfRU20GNU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/1JvNzY5bVTLty67NvTW4CT) | 4:04 |
 | 42 | [peace](https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:54 |
-| 43 | [If I Met Your Shadow](https://open.spotify.com/track/37uHPhQ2cYnVU7RcjayRuo) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [Legacy](https://open.spotify.com/album/3FHzq09sinM2wOmILgwuDg) | 2:14 |
+| 43 | [If I Met Your Shadow](https://open.spotify.com/track/4O5utxzrwef2IxmUzp5JaN) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [Legacy](https://open.spotify.com/album/3OHunaAZMGNjh7oOzL5Oum) | 2:14 |
 | 44 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 45 | [New York Time](https://open.spotify.com/track/3UekVNBa1Loh1r7feLHKqa) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [New York Time](https://open.spotify.com/album/0rHbLWUYdBIoNqjUUdg0xS) | 4:12 |
 | 46 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Lonely Star](https://open.spotify.com/track/7Amz41doI0DKoXLrF0KvYK) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:57 |
 | 80 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 
-Snapshot ID: `MTY2NTc3MzE0MywwMDAwMDAwMDA5ODc4YTAwM2JmNTk4M2JkZjc1MTM4MjEyODFmZDY4`
+Snapshot ID: `MTY2NTc3MzE0MywwMDAwMDAwMDFjMjI5ZmM1MWY5Mzc0MDhmZTE3OWE3MmIwNTE5NTQ3`

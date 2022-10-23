@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,509 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,533 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 25 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 |
 | 26 | [Right Round](https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1), [Kay](https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:16 |
 | 27 | [Game of Thrones \(Main Title\)](https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Covers, Vol\. III](https://open.spotify.com/album/3zEKL1CNwJGP0ajJg7OrnQ) | 2:48 |
-| 28 | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS) | 3:35 |
+| 28 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
 | 29 | [Back To Basics \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 1:30 |
-| 30 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
+| 30 | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS) | 3:35 |
 | 31 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
 | 32 | [Sweet Caroline](https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Right Round / Sweet Caroline \- Single](https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE) | 1:52 |
 | 33 | [Surface Pressure](https://open.spotify.com/track/2YePcRCovlBZ0wIYX7bXAa) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Surface Pressure](https://open.spotify.com/album/7aNLvoaHB7xqpqssKfQuJ2) | 3:14 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 |
 | 57 | [Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love](https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67) | [The Dartmouth Aires](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) | [The Sing\-Off: Season 3: Episode 7 \- Superstar Medleys](https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc) | 3:24 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDk0ZDg0M2JlMzQyNWExOTcxMzQ2MmNmYzMxNzU2ZWJk`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGNkYmIyOTQ3NDJkZjY5NzEwYTQxYzljODBlMzc0Y2M1`

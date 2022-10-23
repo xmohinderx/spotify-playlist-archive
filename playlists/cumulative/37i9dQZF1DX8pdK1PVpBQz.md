@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Vallé Artwork: Isu Kim
 
-1,355 songs - 3 day 2 hr 52 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,356 songs - 3 day 2 hr 55 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1297,7 +1297,8 @@
 | [We Feel The Same](https://open.spotify.com/track/7vvdyvFRBjCCL46j6ycUbs) | [CRYSTAL](https://open.spotify.com/artist/6erlraTakz7StG0neFXqbg) | [Garlic Ice Cream](https://open.spotify.com/album/10rXJpuvBgU7dq6dCBKASE) | 3:07 | 2022-10-12 |  |
 | [We Fled](https://open.spotify.com/track/6gYKFNIzcqzKJqIM2JpK6p) | [Angeles](https://open.spotify.com/artist/6rxQ2Ki8x6She8CbMIEMFV) | [We Fled](https://open.spotify.com/album/5puwrBZgR6vy3OcI5ZRXy3) | 3:32 | 2021-12-28 | 2022-01-13 |
 | [We Smoke](https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [RenzoMck.](https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [We Smoke](https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz) | 3:01 | 2022-04-20 | 2022-05-05 |
-| [We Them Kids](https://open.spotify.com/track/3ptu0v9nT3IkP7i0o1NLQ4) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/0kPyUiPoFs7ZRo4chaWtCg) | 3:08 | 2022-09-21 |  |
+| [We Them Kids](https://open.spotify.com/track/1RBwVbMUpa19R0cFjfZQjQ) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/6t0yUrLLqYcCYV1d0ULOXN) | 3:08 | 2022-10-12 |  |
+| [We Them Kids](https://open.spotify.com/track/3ptu0v9nT3IkP7i0o1NLQ4) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [We Them Kids](https://open.spotify.com/album/0kPyUiPoFs7ZRo4chaWtCg) | 3:08 | 2022-09-21 | 2022-10-23 |
 | [We're Not Friends](https://open.spotify.com/track/4wC671hLzup3wXTM9XybTJ) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [We're Not Friends](https://open.spotify.com/album/2mM7RZ4bozgqG2lKDpWrLm) | 2:38 | 2022-09-07 | 2022-09-29 |
 | [Wear Me Down](https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL) | [Jordan Fuller](https://open.spotify.com/artist/6ek2AyxsyDe2KtbWkaICdK) | [Wear Me Down](https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN) | 2:25 | 2022-09-28 |  |
 | [Web of Lies](https://open.spotify.com/track/4IhtU9s4EtE1YgITLqX5c3) | [Alfalfa](https://open.spotify.com/artist/2h1gd50mkekMwUbj8C9DhA) | [Web of Lies](https://open.spotify.com/album/2bPZ5EcNvVeDRuhmel5nW5) | 4:19 | 2022-07-13 | 2022-07-28 |

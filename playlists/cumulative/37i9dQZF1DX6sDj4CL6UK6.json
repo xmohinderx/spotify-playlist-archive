@@ -2391,10 +2391,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 198000,
       "name": "Windy",
       "url": "https://open.spotify.com/track/24eAf2cgB8ZQbaxE1HaygY"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/1Icgb4WlPI6TCotJlOIbtz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fernando",
+          "url": "https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq"
+        },
+        {
+          "name": "Belinda Terry",
+          "url": "https://open.spotify.com/artist/0kEYZD6hoUGbw9znLdD71p"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Windy",
+      "url": "https://open.spotify.com/track/6H1lOlpG1KTjZjUdkoosi6"
     },
     {
       "album": {

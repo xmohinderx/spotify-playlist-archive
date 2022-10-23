@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 454181,
+  "num_followers": 454335,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMGZhYTFhOWQxMzE0ODFjZDFkYTg0MzYxZjIyYWQ2ZjAz",
+  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDYxZDZjY2ZlMzdiNTU3MDRlNDZjM2ZkZTI0ZmVlNWFj",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -247,22 +247,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 158933,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -727,6 +727,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Jazz Christmas Songs By The Fire",
+        "url": "https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg"
+      },
+      "artists": [
+        {
+          "name": "Scott Leonard Jazz Band",
+          "url": "https://open.spotify.com/artist/3soQqRQIgqqYLTR62pZ8mK"
+        }
+      ],
+      "duration_ms": 201375,
+      "name": "Have Yourself A Merry Little Christmas - Fireplace",
+      "url": "https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "An Oscar Peterson Christmas",
         "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
@@ -743,18 +759,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Jazz Christmas Songs By The Fire",
-        "url": "https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg"
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
       "artists": [
         {
-          "name": "Scott Leonard Jazz Band",
-          "url": "https://open.spotify.com/artist/3soQqRQIgqqYLTR62pZ8mK"
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 201375,
-      "name": "Have Yourself A Merry Little Christmas - Fireplace",
-      "url": "https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4"
+      "duration_ms": 221240,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -807,22 +827,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
       "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        },
         {
           "name": "Ledisi",
           "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 221240,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3"
+      "duration_ms": 186333,
+      "name": "What Are You Doing New Year's Eve?",
+      "url": "https://open.spotify.com/track/7DESENONjlQosUbxToDKOy"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -839,22 +855,6 @@
       "duration_ms": 172960,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "What Are You Doing New Year's Eve?",
-      "url": "https://open.spotify.com/track/7DESENONjlQosUbxToDKOy"
     }
   ],
   "unique_name": "Christmas Jazz",

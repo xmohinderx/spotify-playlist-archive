@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 42366,
+  "num_followers": 42453,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2Mjk0NSwwMDAwMDAwMDBkMGVjODNiZDg3ODM3ZjQxOTI4YzNjOGE5MjZmZmVm",
+  "snapshot_id": "MTY2NTc2Mjk0NSwwMDAwMDAwMDA4NTY2NjgzNDk4MDk2MDYwYThjNmRmMzBkM2E1YjNk",
   "tracks": [
     {
       "added_at": "2022-10-10 12:52:23",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
     },
     {
-      "added_at": "2022-10-22 01:37:59",
+      "added_at": "2022-10-23 01:36:40",
       "album": {
         "name": "Sisters & Brothers",
         "url": "https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz"
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Mojo Hand",
-        "url": "https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Mojo Hand",
-      "url": "https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 138426,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Mojo Hand",
+        "url": "https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Mojo Hand",
+      "url": "https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Elementary Doctor Watson",
         "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
       },
@@ -463,22 +447,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "I Started Out With Nothin And I Still Got Most Of It Left",
-        "url": "https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Walkin Man",
-      "url": "https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Alabama Blues!",
         "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 194373,
       "name": "Alabama Blues",
       "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "I Started Out With Nothin And I Still Got Most Of It Left",
+        "url": "https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Walkin Man",
+      "url": "https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Lost & Lonesome",
-      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Lost & Lonesome",
+      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
-      },
-      "artists": [
-        {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
-        }
-      ],
-      "duration_ms": 294032,
-      "name": "Walking My Troubles Away",
-      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 294032,
+      "name": "Walking My Troubles Away",
+      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Simple Truths",
         "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 280306,
       "name": "I'm So Lonely",
       "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     }
   ],
   "unique_name": "Morning Blues",

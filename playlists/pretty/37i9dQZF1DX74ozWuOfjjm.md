@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,082 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,081 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 96 | [Exile](https://open.spotify.com/track/70icLfzhRlRTW5is736O3j) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Exile](https://open.spotify.com/album/5EUFuGYhoaO2vImrZnxYG6) | 3:35 |
 | 97 | [Fight For Me](https://open.spotify.com/track/3Q5CNIOXwGVxkRvqDJBX3L) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Blak Matriarchy](https://open.spotify.com/album/2mzKzKFYWgxSAy7tzXrUxY) | 3:02 |
 | 98 | [Haunted](https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Growing Pains](https://open.spotify.com/album/2Xq1V8fJL89IUm4eOBzMOu) | 3:33 |
-| 99 | [Feeling Good Feeling Great](https://open.spotify.com/track/2BeTDiDs3ttu9BXdDe3smE) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/6KJ5b8kHrWLKv7Fs2pjZJ3) | 1:57 |
+| 99 | [Feeling Good Feeling Great](https://open.spotify.com/track/4AQfmenuVJJdptJfjUw8Sj) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/7iB4JqDfRuOuHf0Uiq6n7g) | 1:58 |
 | 100 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 |
 
-Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMGFkNGUwMTEzNzc4ZjlhYWNkNjE4NjkyMjRiNjEwYzY1`
+Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMDI2ZjEyMzFjYTRmYmQ1MjUwZjRlZTU2ZTcyNjNmZjgx`

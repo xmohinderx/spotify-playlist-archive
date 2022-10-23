@@ -4,7 +4,7 @@
 
 > Indie music to keep your gaming session properly soundtracked.
 
-370 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
+371 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Change My Clothes](https://open.spotify.com/track/4mnjwMLCk3JZkhkok3u5g1) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Change My Clothes](https://open.spotify.com/album/2Y5WftWX9ZA7a01NYaBX4L) | 3:06 | 2021-10-20 | 2022-02-26 |
 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 | 2021-10-20 | 2022-02-26 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-05-06 | 2022-10-13 |
+| [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-10-12 |  |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2021-10-20 | 2021-12-21 |
 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 | 2021-10-20 | 2022-01-21 |
 | [Cigarette Ahegao](https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:03 | 2021-10-23\* | 2021-12-13 |
@@ -206,7 +207,7 @@
 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 | 2022-04-22 | 2022-06-24 |
 | [Michelle](https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:34 | 2021-10-29 | 2021-12-13 |
 | [Middy Titty](https://open.spotify.com/track/5nVGPIEjIx6gZnY67yC4xM) | [Paulie Leparik](https://open.spotify.com/artist/6UXdw3AJt6S6ri0IGsqquQ) | [Neon Daydream](https://open.spotify.com/album/7J2gaVvqkVNDqXeFc0q2aX) | 1:34 | 2021-10-20 | 2022-07-29 |
-| [Middy Titty](https://open.spotify.com/track/3QVe9gr87GYcRXAkVpPVYl) | [Paulie Leparik](https://open.spotify.com/artist/6UXdw3AJt6S6ri0IGsqquQ) | [Neon Daydream](https://open.spotify.com/album/4glHbVUpKSFzcgtqbj8qrU) | 1:34 | 2022-10-12 |  |
+| [Middy Titty](https://open.spotify.com/track/3QVe9gr87GYcRXAkVpPVYl) | [Paulie Leparik](https://open.spotify.com/artist/6UXdw3AJt6S6ri0IGsqquQ) | [Neon Daydream](https://open.spotify.com/album/4glHbVUpKSFzcgtqbj8qrU) | 1:34 | 2022-10-12 | 2022-10-23 |
 | [Million Little Problems](https://open.spotify.com/track/42kkoFjVaKgSeAYqkAXPXA) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:26 | 2022-05-06 | 2022-07-29 |
 | [Mind Over Matter \(Reprise\)](https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirrorball / Mind Over Matter \(Reprise\)](https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE) | 3:50 | 2021-10-20 | 2022-02-26 |
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2021-10-23\* | 2021-10-24 |

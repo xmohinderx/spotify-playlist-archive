@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Rican Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,402 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,410 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 30 | [New Diamonds \(Baltimore Club Music\)](https://open.spotify.com/track/4Hpw9nTTv6ADcE9y1ta6xx) | [DjGlo410](https://open.spotify.com/artist/4MbZ7DAYZSSNNjw7xW7p8r) | [New Diamonds \(Baltimore Club Music\)](https://open.spotify.com/album/2L9pfOy2wqkItdaXNntWcy) | 1:44 |
 | 31 | [Move 2 da Beat](https://open.spotify.com/track/0MDE0kSE3rCKm1mOopNMiA) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Djjoker106](https://open.spotify.com/artist/1sA9IBc9mm8WMNLHpVdmpL) | [Move 2 da Beat](https://open.spotify.com/album/2ekGqICrO9yMu3YcWZWkSj) | 2:25 |
 | 32 | [Get Crazy \(Baltimore Club\)](https://open.spotify.com/track/3oEUiOVFhS11NNzxSJZ7Wl) | [DJ Phinesse](https://open.spotify.com/artist/1kKYhBkBmPwu2Yj8LVbyM3) | [Get Crazy \(Baltimore Club\)](https://open.spotify.com/album/41g32Svf7juAM53wN2mTds) | 2:37 |
-| 33 | [Molly Bounce !](https://open.spotify.com/track/1AeOxzzRPrBeAppfSue8rA) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [Molly Bounce !](https://open.spotify.com/album/2NvjbMf0rUREXqJmOw8VHX) | 2:46 |
+| 33 | [Molly Bounce !](https://open.spotify.com/track/2mptkB2Hzi38QOj4oIfg7D) | [DJ Yae](https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ) | [Molly Bounce !](https://open.spotify.com/album/4eZXU2qcpiOVAOUc0A7bs0) | 2:46 |
 | 34 | [Wash Yo Handz](https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB) | [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507) | [Wash Yo Handz](https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY) | 1:58 |
 | 35 | [Get Busy \(Baltimore Club Music\)](https://open.spotify.com/track/42oCj6LkRWjIR2vBKJdIF4) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Bmore Club Gems, Vol\. 2](https://open.spotify.com/album/4Vh2Gdrn6o8ntrxjU55dr7) | 3:17 |
 | 36 | [Watch Out for the Big Girl](https://open.spotify.com/track/71C1N1mwADuLlSpVkIWgXq) | [Jimmy Jones](https://open.spotify.com/artist/3Jl6zZey7n9sVPK6vcZhtT) | [Watch Out for the Big Girl](https://open.spotify.com/album/7FoJmYkMDrOvRVQA0wtYnY) | 3:33 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 63 | [Baltimore City](https://open.spotify.com/track/2GXNQhq760y65pC0OGAAFq) | [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 4: The Pressure](https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF) | 3:06 |
 | 64 | [Jerome](https://open.spotify.com/track/0Y8GBM1KJ9H91q4KviQBFD) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 2:26 |
 
-Snapshot ID: `MTY2MzkxOTkyNSwwMDAwMDAwMGVkOGFhM2E2Yjk2Mjg3MjhlNjEyMDFmZWIwMjcxYjQ0`
+Snapshot ID: `MTY2MzkxOTkyNSwwMDAwMDAwMDlhNDIxNmZjN2VlNWFjZjAzOTQwYmY0YjI4NDJlNjYx`

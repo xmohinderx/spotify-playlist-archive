@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1701905,
+  "num_followers": 1702093,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMDQ5ZjgyZDMwN2EwOGMzOTIwNjBlNGNmYWU1YzFmNTE2",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGNiYjc2ZDkxNWMyNGRlNmUyZDQwYzE2ZTFmMzVjNTA3",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 183362,
-      "name": "Primer Avi\u00f3n",
-      "url": "https://open.spotify.com/track/7uQ9KzntzNaenXNb7JCrwH"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 217480,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 183362,
+      "name": "Primer Avi\u00f3n",
+      "url": "https://open.spotify.com/track/7uQ9KzntzNaenXNb7JCrwH"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Amar Sin Mentiras",
         "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Limonada",
+        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "C\u00f3mo Decirle",
+      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Tiene Que Existir",
         "url": "https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Limonada",
-        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "C\u00f3mo Decirle",
-      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Impulso",
-        "url": "https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2"
+        "name": "Tiempo Pa Olvidar",
+        "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
       },
       "artists": [
         {
-          "name": "Dvicio",
-          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 204920,
-      "name": "Cap\u00edtulos",
-      "url": "https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs"
+      "duration_ms": 199521,
+      "name": "Tiempo Pa Olvidar",
+      "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1579,22 +1583,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Tiempo Pa Olvidar",
-        "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
+        "name": "Impulso",
+        "url": "https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
         }
       ],
-      "duration_ms": 199521,
-      "name": "Tiempo Pa Olvidar",
-      "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
+      "duration_ms": 204920,
+      "name": "Cap\u00edtulos",
+      "url": "https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs"
     },
     {
       "added_at": "2022-08-31 06:52:27",

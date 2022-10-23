@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-119 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+120 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2022-01-28 |  |
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 |  |
 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 |  |
-| [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2022-01-28 |  |
+| [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-14 |  |
+| [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2022-01-28 | 2022-10-23 |
 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 | 2022-01-28 | 2022-10-15 |
 | [Sunk Like a Stone](https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Sunk Like a Stone](https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb) | 3:45 | 2022-01-28 |  |
 | [Surfboard](https://open.spotify.com/track/6vOCld6YP52WjVal0LoVii) | [Dave Hause](https://open.spotify.com/artist/6b58ZzXRHPakxMhPx7xHAx) | [Surfboard](https://open.spotify.com/album/77NueVTYdHXbx8bmZ5EoIf) | 3:14 | 2022-01-28 |  |

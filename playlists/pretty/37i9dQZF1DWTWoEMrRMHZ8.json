@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Fagner",
-  "num_followers": 325521,
+  "num_followers": 325595,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE0ODQwMCwwMDAwMDAwMDU4M2IyZjM5ZDU1Mzc1YTE0NTY2YjY3ZWIzNTcxMTEy",
+  "snapshot_id": "MTY2NjE0ODQwMCwwMDAwMDAwMGJlZmEzZDhlZGExOTNjZGY1OTI3MjYyYmMyOGMxODMx",
   "tracks": [
     {
       "added_at": "2022-10-19 03:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
+        "name": "Evid\u00eancias",
+        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 313038,
+      "name": "Evid\u00eancias",
+      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Evid\u00eancias",
-        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 313038,
-      "name": "Evid\u00eancias",
-      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -495,22 +495,22 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Beleza Destru\u00edda",
-        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
         },
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 280271,
-      "name": "Beleza Destru\u00edda",
-      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -531,22 +531,22 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+        "name": "Beleza Destru\u00edda",
+        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
       },
       "artists": [
         {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+      "duration_ms": 280271,
+      "name": "Beleza Destru\u00edda",
+      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 342514,
       "name": "Num Mundo de Paz",
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
+        "name": "O Caderno",
+        "url": "https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "O Caderno",
+      "url": "https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
         "name": "Ana Ca\u00f1as Canta Belchior",
         "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
       },
@@ -783,42 +803,6 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica",
-        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Quase um Segundo",
-      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
-        "name": "O Caderno",
-        "url": "https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "O Caderno",
-      "url": "https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
         "name": "Jasmim Parte 1",
         "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica",
+        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Quase um Segundo",
+      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj"
+      },
+      "artists": [
+        {
+          "name": "Dois \u00e9 Par",
+          "url": "https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk"
+        }
+      ],
+      "duration_ms": 160121,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1mWjgRmbkSgUsHDevU7jT9"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
         "name": "Vestido de Amor",
         "url": "https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 220286,
       "name": "SobreHumano",
       "url": "https://open.spotify.com/track/1NvxtekkTSINREzraxen7q"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
-        "name": "Dan\u00e7a",
-        "url": "https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj"
-      },
-      "artists": [
-        {
-          "name": "Dois \u00e9 Par",
-          "url": "https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk"
-        }
-      ],
-      "duration_ms": 160121,
-      "name": "Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1mWjgRmbkSgUsHDevU7jT9"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Precioso",
-        "url": "https://open.spotify.com/album/6iBn5bBL2SEwmhREwUK8TV"
-      },
-      "artists": [
-        {
-          "name": "Rachell Luz",
-          "url": "https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN"
-        }
-      ],
-      "duration_ms": 205808,
-      "name": "Precioso",
-      "url": "https://open.spotify.com/track/0oagbH3f6MNrsNMRth7spT"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
         "name": "Viol\u00e3o \u00c9 no Fundo do Quintal 2",
         "url": "https://open.spotify.com/album/07GwgunZwIdv7JbGYBudkh"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 215660,
       "name": "A Palo Seco - Radio Edit",
       "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
+        "name": "Precioso",
+        "url": "https://open.spotify.com/album/6iBn5bBL2SEwmhREwUK8TV"
+      },
+      "artists": [
+        {
+          "name": "Rachell Luz",
+          "url": "https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN"
+        }
+      ],
+      "duration_ms": 205808,
+      "name": "Precioso",
+      "url": "https://open.spotify.com/track/0oagbH3f6MNrsNMRth7spT"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "\u00c0deusdar\u00c1",
-        "url": "https://open.spotify.com/album/1DTQyqb5YW6aqf1q8ql6M6"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        }
-      ],
-      "duration_ms": 216617,
-      "name": "\u00c0deusdar\u00c1",
-      "url": "https://open.spotify.com/track/3xxZ5ZUAiXocIEqXBG3WQx"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
         "name": "Universo Em Si",
         "url": "https://open.spotify.com/album/1MCzMAsPRNamqRW8fEYjSM"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 206657,
       "name": "Devagar, Meu Bem",
       "url": "https://open.spotify.com/track/4usF77pzhFPT2Eefse5mzK"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
+        "name": "\u00c0deusdar\u00c1",
+        "url": "https://open.spotify.com/album/1DTQyqb5YW6aqf1q8ql6M6"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 216617,
+      "name": "\u00c0deusdar\u00c1",
+      "url": "https://open.spotify.com/track/3xxZ5ZUAiXocIEqXBG3WQx"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "cantar (ao vivo no bona)",
-        "url": "https://open.spotify.com/album/4cxTrMMLnNp0x1kW3GkVge"
-      },
-      "artists": [
-        {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
-        },
-        {
-          "name": "Jo\u00e3o Camarero",
-          "url": "https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "cantar - ao vivo no bona",
-      "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
         "name": "Porto",
         "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 228169,
       "name": "Folia",
       "url": "https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
+        "name": "cantar (ao vivo no bona)",
+        "url": "https://open.spotify.com/album/4cxTrMMLnNp0x1kW3GkVge"
+      },
+      "artists": [
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        },
+        {
+          "name": "Jo\u00e3o Camarero",
+          "url": "https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO"
+        }
+      ],
+      "duration_ms": 266093,
+      "name": "cantar - ao vivo no bona",
+      "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
     },
     {
       "added_at": "2022-10-19 03:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2022-10-19 03:00:00",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
-      },
-      "artists": [
-        {
-          "name": "Arthus Fochi",
-          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
-        },
-        {
-          "name": "Qinhones",
-          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
-    },
-    {
-      "added_at": "2022-10-19 03:00:00",
-      "album": {
         "name": "Mal\u00ea",
         "url": "https://open.spotify.com/album/04CejgJc5DS7Oy3r29ofZr"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 317500,
       "name": "Mal\u00ea",
       "url": "https://open.spotify.com/track/77yiJ3Bt8o8DDhNosd00nq"
+    },
+    {
+      "added_at": "2022-10-19 03:00:00",
+      "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
+      },
+      "artists": [
+        {
+          "name": "Arthus Fochi",
+          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
+        },
+        {
+          "name": "Qinhones",
+          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
     },
     {
       "added_at": "2022-10-19 03:00:00",

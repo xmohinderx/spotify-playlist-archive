@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from French Montana ft\. NAV, Roddy Ricch, Lil Uzi Vert and A Boogie Wit da Hoodie ft\. Tory Lanez is here! Cover: Nardo Wick, Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,344 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,379 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

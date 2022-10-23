@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-59 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
+61 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Dark World \(from “The Legend of Zelda: A Link to the Past"\)](https://open.spotify.com/track/6sorbC4D7e4wEyjbP9bkdP) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 | 2021-07-28 |  |
 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 | 2022-01-14 |  |
 | [Despacito](https://open.spotify.com/track/2unpmSGxxlwo39H6DKAL6v) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:23 | 2021-07-28 | 2022-10-22 |
+| [Despacito](https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:23 | 2021-07-28 |  |
 | [Do Ya Think I'm Sexy](https://open.spotify.com/track/1wp54f6s6QA7RnqrUySUOb) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Carmine j.r\. Appice](https://open.spotify.com/artist/2gis8i6r5Xh101633ZbE2f), [Duane Hitchings](https://open.spotify.com/artist/2RJJjBUWDbTmgcQgyo6lQq), [Gabriel Iglesias](https://open.spotify.com/artist/3u2mDZRzujeGzZD8mahPZQ), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 0:20 | 2021-07-28 |  |
-| [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 | 2021-07-28 |  |
+| [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 | 2021-07-28 | 2022-10-23 |
 | [Don't Stop Believin'](https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ) | [Mariachi Tierras Caliente](https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC) | [Don't Stop Believin'](https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s) | 3:43 | 2021-07-28 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/7vwp4fDLYkaLmMABuTQJKz) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 | 2022-10-22 |
 | [Don't You Want Me](https://open.spotify.com/track/33lBbfm7wD1lyorChcTqdK) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:33 | 2021-07-28 | 2022-10-19 |
@@ -37,11 +38,12 @@
 | [Hotel California](https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd) | [Mariachi Espiritus](https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7) | [Hotel California](https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K) | 5:21 | 2021-07-28 |  |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/19OQ0JOUYNRaZVjI2cS0YR) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:17 | 2021-07-28 | 2022-10-19 |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/1kCQGipg9DCCtTlx80wZ8J) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 3:17 | 2021-07-28 |  |
-| [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jBkwecH1M6L2M0LhrJZyw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 |  |
+| [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jBkwecH1M6L2M0LhrJZyw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 | 2022-10-23 |
 | [Killer Queen \- Instrumental](https://open.spotify.com/track/3L9bPBxPhitnEzTZI0YeU0) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:55 | 2021-07-28 |  |
 | [La Cucaracha](https://open.spotify.com/track/3rgPxzkWK65kjWtP8pkRGL) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G) | 2:45 | 2021-07-28 |  |
 | [La Cucaracha](https://open.spotify.com/track/5fCCJgB3XbG5mqVZBYLqOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 2:45 | 2021-07-28 | 2022-10-21 |
 | [Lithium](https://open.spotify.com/track/3az8lXrRXqUZPzWJ30UOfw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 4:06 | 2021-07-28 | 2022-10-19 |
+| [Lithium](https://open.spotify.com/track/5BndvW6RSdi15wE06Dj0oF) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 4:06 | 2021-07-28 |  |
 | [Livin' On a Prayer](https://open.spotify.com/track/3Gz5Eih3pFCSXuVvAFGNxf) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:55 | 2021-07-28 | 2022-10-22 |
 | [Man in the Box](https://open.spotify.com/track/5zrZCsmEfd6wJrgGk80nWj) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:22 | 2021-07-28 |  |
 | [Michelle \- Instrumental](https://open.spotify.com/track/3QSpwlTu9gXxyrUAVKwzDh) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:47 | 2021-07-28 |  |

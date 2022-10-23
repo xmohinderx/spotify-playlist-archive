@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 6090,
+  "num_followers": 6092,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDA0NjI0ZTJiZGFkYzg3Y2JlMmVjODM5M2I1YzZlZmM4",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGViYWRjYTlmY2YzYTQxMzY1NjgzNGYxYTY2OGNjYzRm",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le Qu\u00e9b\u00e9cois",
-        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
-      },
-      "artists": [
-        {
-          "name": "Sir Path",
-          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
-        }
-      ],
-      "duration_ms": 191578,
-      "name": "Vie de bum",
-      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Plus que le son",
         "url": "https://open.spotify.com/album/33JWnC9tjHe3hQ4J07XR9p"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 230582,
       "name": "La folle",
       "url": "https://open.spotify.com/track/2eoVlPokoArrDkSeNPDVlP"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le Qu\u00e9b\u00e9cois",
+        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
+      },
+      "artists": [
+        {
+          "name": "Sir Path",
+          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
+        }
+      ],
+      "duration_ms": 191578,
+      "name": "Vie de bum",
+      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Bateaux Colombiens",
+        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 251495,
+      "name": "OuinOuin",
+      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Fouette Saint-Patrick",
         "url": "https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 163459,
       "name": "Chill?",
       "url": "https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Bateaux Colombiens",
-        "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 251495,
-      "name": "OuinOuin",
-      "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Ind\u00e9l\u00e9bile",
+        "url": "https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 166835,
+      "name": "Kr\u00e8ve",
+      "url": "https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "C'est pas la qualit\u00e9 qui compte",
         "url": "https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 159688,
       "name": "Basilic",
       "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Ind\u00e9l\u00e9bile",
-        "url": "https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf"
-      },
-      "artists": [
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 166835,
-      "name": "Kr\u00e8ve",
-      "url": "https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "...At Least My Mom Loves Me",
-        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
+        "name": "Henny",
+        "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
       },
       "artists": [
         {
-          "name": "Maky Lavender",
-          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
         }
       ],
-      "duration_ms": 243721,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
+      "duration_ms": 227262,
+      "name": "Henny",
+      "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Henny",
-        "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
+        "name": "...At Least My Mom Loves Me",
+        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
       },
       "artists": [
         {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
         }
       ],
-      "duration_ms": 227262,
-      "name": "Henny",
-      "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
+      "duration_ms": 243721,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "On Frap",
-        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        },
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 197615,
-      "name": "Jalousie",
-      "url": "https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 236657,
       "name": "Faya",
       "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "On Frap",
+        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "duration_ms": 197615,
+      "name": "Jalousie",
+      "url": "https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Otages",
+      "url": "https://open.spotify.com/track/60hrnV0JCmsw9CNrMus0Vb"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "La Barquetterie",
         "url": "https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef"
       },
@@ -1763,38 +1779,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+        "name": "Oc\u00e9an",
+        "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
       },
       "artists": [
         {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+          "name": "Manu Militari",
+          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Otages",
-      "url": "https://open.spotify.com/track/60hrnV0JCmsw9CNrMus0Vb"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Jean-Talon",
-        "url": "https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE"
-      },
-      "artists": [
-        {
-          "name": "Calamine",
-          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
-        },
-        {
-          "name": "Liamliamliam",
-          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
-        }
-      ],
-      "duration_ms": 175262,
-      "name": "Jean-Talon",
-      "url": "https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq"
+      "duration_ms": 305906,
+      "name": "Peace and Love",
+      "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1819,18 +1815,38 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Oc\u00e9an",
-        "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
+        "name": "Jean-Talon",
+        "url": "https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE"
       },
       "artists": [
         {
-          "name": "Manu Militari",
-          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        },
+        {
+          "name": "Liamliamliam",
+          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
         }
       ],
-      "duration_ms": 305906,
-      "name": "Peace and Love",
-      "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
+      "duration_ms": 175262,
+      "name": "Jean-Talon",
+      "url": "https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 213167,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1867,30 +1883,6 @@
       "duration_ms": 214726,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "OUI (tout, tout, tout, toutttte)",
-        "url": "https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK"
-      },
-      "artists": [
-        {
-          "name": "Yes Mccan",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
-        },
-        {
-          "name": "Yen Dough",
-          "url": "https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG"
-        },
-        {
-          "name": "Cape Tula",
-          "url": "https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf"
-        }
-      ],
-      "duration_ms": 254445,
-      "name": "D\u00e9sir\u00e9e (feat. Cape Tula & Yen Dough)",
-      "url": "https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf"
     }
   ],
   "unique_name": "Les nouveaux classiques",

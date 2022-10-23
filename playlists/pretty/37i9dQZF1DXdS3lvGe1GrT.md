@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Junaco \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,323 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,368 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 52 | [Just Take Love, for Example](https://open.spotify.com/track/79WTsOWzsiCeyhq9OxkqzC) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [The Empty House Tapes, Vol\. 1](https://open.spotify.com/album/6YK7uXBuM58fpmvc9l1N1Y) | 4:18 |
 | 53 | [The Ghost of Me](https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [The Ghost of Me](https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo) | 3:13 |
 | 54 | [Next Day](https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Next Day](https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU) | 4:02 |
-| 55 | [The Rain](https://open.spotify.com/track/3KVxxn1MoYkjAzDeRHYZo4) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [The Rain](https://open.spotify.com/album/60sdH7DgcslnoQSPLkf7BP) | 3:35 |
+| 55 | [The Rain](https://open.spotify.com/track/0JLRbovJSwvjqh7wUyzPtc) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Call to Unknowns](https://open.spotify.com/album/2FZihRaczkHjLkc4ZT9gq4) | 3:35 |
 | 56 | [Where The River Goes](https://open.spotify.com/track/34ZuYTjotU24xALX5Hi23C) | [House Phone](https://open.spotify.com/artist/4BHMLvxLKkWPL7iuTnUdZC) | [Sunrise / Where The River Goes](https://open.spotify.com/album/2iF7lvvF2n8rX17ItmBeXZ) | 5:31 |
 | 57 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 58 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 |
 | 100 | [Walk The Streets On Sunrise](https://open.spotify.com/track/4ntU4sdYYE3j0I8qLeEHAx) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Impermanence](https://open.spotify.com/album/43KzRiTjzUvIGSbmSx1J3C) | 3:55 |
 
-Snapshot ID: `MTY2NjE2MDU5NiwwMDAwMDAwMDZhZmYyNDIxNTQxZmUyMDkxODhjZjBlN2Y4YmI4ZTM0`
+Snapshot ID: `MTY2NjE2MDU5NiwwMDAwMDAwMDllZDY3YzhhZGQzMmE3ZWI0Zjk1Y2FhZjExOWZkYzkx`

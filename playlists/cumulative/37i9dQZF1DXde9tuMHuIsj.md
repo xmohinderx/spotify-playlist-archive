@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Mariah Angeliq & YOVNGCHIMI
 
-174 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+175 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [All Eyes On Me](https://open.spotify.com/track/6M62Rj3Fllg7zOei8YJv8z) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [All Eyes On Me](https://open.spotify.com/album/4DGsYWDZhxvZsMMglHEFcL) | 3:20 | 2022-04-01 | 2022-04-16 |
 | [All Star](https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [All Star](https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh) | 3:30 | 2022-05-03 | 2022-09-17 |
 | [Asere](https://open.spotify.com/track/4RVLBBotar8s2iaU1kiMV5) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Dayme Beats](https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW) | [Asere](https://open.spotify.com/album/13fmrVErKhLEGe6Gm27QbH) | 5:03 | 2022-10-18 |  |
-| [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-09-16 |  |
+| [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-09-16 | 2022-10-23 |
+| [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 | 2022-10-21 |  |
 | [Babymama](https://open.spotify.com/track/77ashwth70ow3HR1IuVhiD) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie Se Salva](https://open.spotify.com/album/28IfFyKDKgXlS3dFGGNN3Z) | 4:13 | 2022-03-18 | 2022-05-04 |
 | [Babymama \- Remix](https://open.spotify.com/track/1d3mQY9cJeyx0EMxBkXORn) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Babymama \(Remix\)](https://open.spotify.com/album/1s00bDiU1JmP4Hpgb7A6Hs) | 7:24 | 2022-05-03 |  |
 | [Bancario \(with Chucky73\)](https://open.spotify.com/track/1YM3lPEvD32V4fK9JkdoMe) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Bancario \(with Chucky73\)](https://open.spotify.com/album/72cMfYH2JdMo7g8TWYcbPt) | 3:29 | 2022-05-03 |  |

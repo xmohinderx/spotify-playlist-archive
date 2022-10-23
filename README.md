@@ -1538,6 +1538,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Focus Guitar](/playlists/pretty/37i9dQZF1DXc6Umi4GHdr1.md)
 - [Focus Jazz](/playlists/pretty/37i9dQZF1DX8wWHvPMMfNA.md)
 - [Focus Piano](/playlists/pretty/37i9dQZF1DWZIOAPKUdaKS.md)
+- [Folamour's DJ Mix](/playlists/pretty/37i9dQZF1DWV1OrS6TwOVZ.md)
 - [Folclor Nómada](/playlists/pretty/37i9dQZF1DX2XI8j0WLbht.md)
 - [Folk & Friends](/playlists/pretty/37i9dQZF1DWWv6MSZULLBi.md)
 - [Folk & Rock 200 favoriter](/playlists/pretty/3cC0Hnr7idCemR4JxOh2lI.md)

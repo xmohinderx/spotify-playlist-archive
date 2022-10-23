@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,328 likes - 99 songs - 5 hr 22 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,333 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 73 | [CIUDAD 0, CIUDAD 1](https://open.spotify.com/track/2KrOCHeg7aiu5o1j8tzWmF) | [Laura Llera](https://open.spotify.com/artist/4toikQjmtZORLVE5oYZ8ej), [Mumbai Moon](https://open.spotify.com/artist/46n3zvHyU1ch6l6rFS9iQb) | [CIUDAD 0, CIUDAD 1](https://open.spotify.com/album/0odHo6NaatHMw2mGKqbjqW) | 3:33 |
 | 74 | [Nicaragua 2](https://open.spotify.com/track/2K1wlmRC0qx7Dzo1NJs1mn) | [Pablo Moreno](https://open.spotify.com/artist/3n8xKunGzWmzQvYaI0RF43) | [Nicaragua 2](https://open.spotify.com/album/1MKVLaz29neZIrWL4rDH0r) | 3:07 |
 | 75 | [BURDEOS FREESTYLE](https://open.spotify.com/track/07ZbBxgav7eIdxk56uMiUe) | [SLIM PÀSTEL](https://open.spotify.com/artist/0kVgwVZsqha68nTW5KcCLb) | [BURDEOS FREESTYLE](https://open.spotify.com/album/3EOD7XpHcM0Q9cpdxTKifN) | 3:24 |
-| 76 | [Goldfish](https://open.spotify.com/track/1vfQRY6kpdezfyjccko7tr) | [Ayesha A\. Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Goldfish](https://open.spotify.com/album/6VKlve2CUPbUU3BX6Ho7KK) | 3:09 |
+| 76 | [Goldfish](https://open.spotify.com/track/1vfQRY6kpdezfyjccko7tr) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Goldfish](https://open.spotify.com/album/6VKlve2CUPbUU3BX6Ho7KK) | 3:09 |
 | 77 | [what's different.](https://open.spotify.com/track/0PQKiRP2rd0t8oY2ohmbEB) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 3:02 |
 | 78 | [God's Incense](https://open.spotify.com/track/4vBGS75jLj7VlI2Oh1UuWA) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU) | [I Was Overthinking This](https://open.spotify.com/album/4I2o2HtxSLxqvUmb5D1JAy) | 3:58 |
 | 79 | [Baibe](https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ) | [Henry Tigan](https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo) | [Baibe](https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe) | 4:14 |

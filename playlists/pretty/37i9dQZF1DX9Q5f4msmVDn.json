@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 753,
+  "num_followers": 810,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDRjYWViY2I2ODZjYTRmZDJlNTE4MDZjMzI5N2Q4NWU5",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDAwNWMyMTE0NWQ1YzY5MzY3NDM1ZWZjZTY5Y2RhODcz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Plead The .45th",
         "url": "https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 140470,
       "name": "Plead The .45th",
       "url": "https://open.spotify.com/track/6AwbQI2M4BYZXAE5RoxzTW"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
     },
     {
       "added_at": "2022-10-01 16:00:00",

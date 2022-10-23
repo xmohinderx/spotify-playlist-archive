@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-421 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+422 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Nature Boy](https://open.spotify.com/track/7hDq6sOZ5Rl1XnSSfoOBRK) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Jan Johansson in Hamburg with Georg Riedel](https://open.spotify.com/album/1JqIyisOzzxq9TIyMoONSE) | 4:44 | 2022-04-14 | 2022-10-08 |
 | [Never Let Me Go](https://open.spotify.com/track/5AltAzCAJksd2Tl66jqlf3) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Never Let Me Go](https://open.spotify.com/album/4t2yMissRsj7z1LxDH64St) | 5:43 | 2022-04-14 | 2022-10-08 |
 | [Never Let Me Go](https://open.spotify.com/track/4FCwx5XYXU5WQhfstq7Hdq) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Breakfast on the Morning Tram](https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX) | 4:38 | 2022-04-14 | 2022-07-29 |
-| [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-06-30 |  |
+| [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-06-30 | 2022-10-23 |
 | [New Orleans](https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 5:40 | 2022-04-14 | 2022-10-03 |
 | [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 | 2022-09-29 |  |
 | [New York, New York](https://open.spotify.com/track/5sn5E8HsUitOsC70O26l4i) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [New York New York 1970\-72](https://open.spotify.com/album/6MxJ8JBBE3cf8W3IVoP6mq) | 2:48 | 2022-04-14 | 2022-05-03 |
@@ -369,6 +369,7 @@
 | [The Last Goodbye](https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 5:25 | 2022-06-30 | 2022-10-08 |
 | [The More I See You](https://open.spotify.com/track/4pBClgKkrfAOJuvIn59nlL) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [The More I See You](https://open.spotify.com/album/7G3KKQGJOvw0SyJu4cIQ0Y) | 4:01 | 2022-08-29 | 2022-10-08 |
 | [The Nearness of You](https://open.spotify.com/track/3MhWFpRMVEyZ9QXGIb5RJK) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Nearness](https://open.spotify.com/album/5JAcKvUBjbNTJ2SY8u8vYU) | 16:44 | 2022-04-14 | 2022-10-08 |
+| [The Night We Called It A Day](https://open.spotify.com/track/6ltEJhAuJ2ofBl63qbHVN0) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Night We Called It A Day](https://open.spotify.com/album/6l6Z60Wy6MTZtbrBrJT5Cw) | 3:32 | 2022-10-13 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/5Bl1TC8Y1qh3ui6fGSWL5a) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [The Shadow of Your Smile](https://open.spotify.com/album/3KWWvcVOoAM66JFb1LhlCR) | 6:28 | 2022-04-14 | 2022-10-19 |
 | [The Sidewinder](https://open.spotify.com/track/77b1v5Vohuobvvu61VrhKR) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 10:26 | 2022-04-14 | 2022-04-22 |
 | [The Way You Look Tonight](https://open.spotify.com/track/538i7a7QwrXfGH9p3eyI8C) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/13m2P4p9u49QJNJN0PQymi) | 3:00 | 2022-04-14 | 2022-05-03 |

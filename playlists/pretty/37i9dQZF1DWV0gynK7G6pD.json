@@ -1,6 +1,6 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Esther Abrami",
-  "num_followers": 659334,
+  "num_followers": 659612,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
@@ -181,7 +181,7 @@
       "artists": [
         {
           "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "url": "https://open.spotify.com/artist/0tP0YBLjgmCFjgRBH2y5ms"
         },
         {
           "name": "Khatia Buniatishvili",
@@ -383,6 +383,22 @@
       "duration_ms": 844106,
       "name": "Symphony No. 5 in E Minor, Op. 64: I. Andante - Allegro con anima",
       "url": "https://open.spotify.com/track/7gbeNIVBlJV5NtgGVu7h8r"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Winter (Ambient Mix)",
+        "url": "https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Winter - Ambient Mix",
+      "url": "https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1032,8 +1048,8 @@
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Fabio \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/1DwSNVcUjBfY6YCQZTAw3g"
+          "name": "Fabio Alvarez",
+          "url": "https://open.spotify.com/artist/4Igh66uWInAJDyw1Ys6ZJR"
         }
       ],
       "duration_ms": 345013,
@@ -1243,6 +1259,26 @@
       "duration_ms": 89733,
       "name": "Transformation (Voice and Piano)",
       "url": "https://open.spotify.com/track/4bhyVwhcZdkITKvXoHA4xM"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Schubert: String Quartet No. 15 in G Major, D. 887: III. Scherzo. Allegro vivace - Trio. Allegreto",
+        "url": "https://open.spotify.com/album/6czGi27WJZ2wTzlIW1ttXs"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jubilee Quartet",
+          "url": "https://open.spotify.com/artist/4CXGZvjzYuiOZAtRM1ECOc"
+        }
+      ],
+      "duration_ms": 432666,
+      "name": "String Quartet No. 15 in G Major, D. 887: III. Scherzo. Allegro vivace - Trio. Allegreto",
+      "url": "https://open.spotify.com/track/4bUoxaW1Zf5OisioYKAOUk"
     },
     {
       "added_at": "2022-10-21 04:00:00",

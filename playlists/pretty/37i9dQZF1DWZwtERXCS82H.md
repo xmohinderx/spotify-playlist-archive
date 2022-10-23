@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Quiet music for reading, curl up with a good book and a calm piano playlist in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,796 likes - 352 songs - 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,950 likes - 352 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 5 | [Quiet Dance](https://open.spotify.com/track/0odacBbDauDRkmcR1DtGsg) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Quiet Dance](https://open.spotify.com/album/7vaqZJ7ydcIZy4PXQzaft9) | 2:42 |
 | 6 | [Yasashii](https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6) | [Asahi Haru](https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM) | [Yasashii](https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR) | 2:14 |
 | 7 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 |
-| 8 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 |
+| 8 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 |
 | 9 | [Awakening](https://open.spotify.com/track/4NtQxFOAJhJdScCIgEZkeN) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Awakening](https://open.spotify.com/album/5vsFLDIbHA9rWnTLfM6n6Q) | 1:57 |
 | 10 | [Slow Motion](https://open.spotify.com/track/7jQpEPXoLaE2LHvqaQ5cQ3) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Slow Motion](https://open.spotify.com/album/492xERwIuQYnX5mAhZP9BV) | 3:20 |
 | 11 | [Proljetna šetnja](https://open.spotify.com/track/4X7aJG4AHslt5JpobU9LMf) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Proljetna šetnja](https://open.spotify.com/album/1HLQzO1WziLSrzhKWDFfNW) | 2:05 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 22 | [Skye](https://open.spotify.com/track/07nMoeNxaY9nZtvD01snY8) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:24 |
 | 23 | [Sendai](https://open.spotify.com/track/7tJDHTlzyUK1nsbSD2rf6f) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Sendai](https://open.spotify.com/album/1XRSfj0RiYAAeX6LrdVdRu) | 2:24 |
 | 24 | [Melancholic Waltz](https://open.spotify.com/track/0ViBAXDmsIDXIdCCClUwEJ) | [Infinite Stream](https://open.spotify.com/artist/6zn7nO9L9oTXa7xuPNNCZU) | [Melancholic Waltz](https://open.spotify.com/album/3vbKKaDHtmAF9DAivnI4IN) | 3:17 |
-| 25 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 |
+| 25 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 |
 | 26 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 |
 | 27 | [Take One Deep Breath](https://open.spotify.com/track/3IvshJQQfn2hGuwnMoUTUI) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Take One Deep Breath](https://open.spotify.com/album/1iMcNpnCMSH4NUAIaYq016) | 2:32 |
 | 28 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 31 | [Ravassard](https://open.spotify.com/track/3x5K5j5yMpCeGBMgKbhxNB) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Ravassard](https://open.spotify.com/album/6vTms1XjzCFrSBn3ybWw7M) | 2:03 |
 | 32 | [Blijheid](https://open.spotify.com/track/5JkjVf8tpS6JiBQ8M56Lhe) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Blijheid](https://open.spotify.com/album/0glfYY0y3DtvgPb4LpHzVM) | 2:30 |
 | 33 | [Renaissance](https://open.spotify.com/track/5O0GM5NdPDLIhkxbQKlxFL) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Renaissance](https://open.spotify.com/album/5s31Hfu0bB2BiTuU9AbUKy) | 2:37 |
-| 34 | [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 |
+| 34 | [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 |
 | 35 | [Days Of Roses](https://open.spotify.com/track/3QDpj4QuN10FOJXdCQOwOP) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Days Of Roses](https://open.spotify.com/album/1h8q1h380zEY9QYpPOckSr) | 2:00 |
 | 36 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 |
 | 37 | [Disappear for a while](https://open.spotify.com/track/1l3yPgvEagEz4OYS2hxMdc) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Disappear for a while](https://open.spotify.com/album/33IUKxm4PwH3avUizMk9L1) | 2:52 |

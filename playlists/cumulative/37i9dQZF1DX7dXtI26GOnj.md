@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  Foto: Shakira, Ozuna
 
-197 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
+198 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-08 | 2022-10-11 |
 | [Aquariana](https://open.spotify.com/track/73iqXVAZYZAUwgQshkzGI7) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc) | [Aquariana](https://open.spotify.com/album/4tqyyl0Mrz1blMDG8J2KwF) | 2:48 | 2022-02-11 | 2022-02-26 |
 | [ARRIBA 2](https://open.spotify.com/track/04NuKpoj3SsZxBmeZ6lLoE) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn) | [ARRIBA 2](https://open.spotify.com/album/5ycrVCgMcmwRpOLNiVdLbN) | 1:53 | 2022-05-06 | 2022-05-20 |
-| [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-12-31 |  |
+| [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-12-31 |  |
 | [Aunque no te pueda ver](https://open.spotify.com/track/7E7AuXsOzVjUS6IWnehgeA) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Punto y Aparte / Serendipia](https://open.spotify.com/album/3gNO25xNR1IR0cauqtnDbd) | 3:36 | 2022-03-25 | 2022-04-23 |
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-02-25 | 2022-03-17 |
 | [Balance](https://open.spotify.com/track/5CCwiWnf0TP0vtYv4TBvWv) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Balance](https://open.spotify.com/album/4hW18Z6rea01280WSafLt8) | 2:26 | 2022-03-22 | 2022-03-26 |
@@ -35,7 +35,8 @@
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2021-12-31 | 2022-02-26 |
 | [Brazilera](https://open.spotify.com/track/1oo1rEQATDYqmWysK6IrqP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:04 | 2021-12-31 | 2022-05-07 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-29 |  |
-| [Brujería](https://open.spotify.com/track/69BHn4uTkFhRRd41e11RwU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 2:45 | 2022-09-30 |  |
+| [Brujería](https://open.spotify.com/track/69BHn4uTkFhRRd41e11RwU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 2:45 | 2022-09-30 | 2022-10-23 |
+| [Brujería](https://open.spotify.com/track/7jrytGwEUEfp6Wr5qiWkZ5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:45 | 2022-10-21 |  |
 | [Bunda Pilantra](https://open.spotify.com/track/3lMAfrcqlzRzJITnci7oOw) | [Woody](https://open.spotify.com/artist/0ftuuyDyrn1ywNXhCW9Xoq), [Mc Sara](https://open.spotify.com/artist/7kQ9YpBhqes4SIVYWO99Cc) | [Bunda Pilantra](https://open.spotify.com/album/0lltffOPmZocx1tlZo2RYd) | 2:03 | 2022-01-14 | 2022-02-05 |
 | [BUQUEZIN](https://open.spotify.com/track/5P2HCxfiEObQI9SyUWcPD1) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 2:29 | 2022-02-04 | 2022-04-02 |
 | [Bésame](https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bésame](https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT) | 2:50 | 2021-12-31 | 2022-04-23 |

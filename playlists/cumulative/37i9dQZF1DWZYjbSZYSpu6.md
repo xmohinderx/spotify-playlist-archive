@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: JUSTHIS, SOYOU\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: CHUNG HA, Christopher\)
 
-200 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/3XvJZtxjOxsmcdtLvwdndV)
+201 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/3XvJZtxjOxsmcdtLvwdndV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [What if \(feat\. Suyoung Kim\)](https://open.spotify.com/track/2CBn3eqbkXq1rIF7owLQrb) | [Clazziquai](https://open.spotify.com/artist/0akZcna6MlOPRo0reVTaPr), [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [What if \(feat\. Suyoung Kim\)](https://open.spotify.com/album/1yPfdty2ujfCa49TV77oLQ) | 3:30 | 2022-03-24 | 2022-04-20 |
 | [Whatcha Doin'](https://open.spotify.com/track/1kfEJ0w6qRZR9dIOWJGe0J) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Whatcha Doin'](https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU) | 3:29 | 2022-07-25 | 2022-07-27 |
 | [Whatever it's love](https://open.spotify.com/track/6Og5uKfKl1ZQsP2L3LGZmL) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [Secret man](https://open.spotify.com/artist/2Cvys68dg8rnjD8PbWH8jH) | [Whatever it's love](https://open.spotify.com/album/3RT5vmy8KvoECa7lPw3Kck) | 3:48 | 2022-06-18 | 2022-07-10 |
+| [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 | 2022-10-22 |  |
 | [When You Fall](https://open.spotify.com/track/615AGw524AbNzTWUjHwXpO) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [When You Fall](https://open.spotify.com/album/2bGsIOkfC61PUPVK1ILQci) | 4:02 | 2022-03-24 | 2022-06-15 |
 | [Why \(Feat\. Gaeko\)](https://open.spotify.com/track/0877whPAoQZIQw1u0r7YgM) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Why](https://open.spotify.com/album/4JILWoE6FaQltScDKW4kbO) | 3:30 | 2022-04-21 | 2022-07-28 |
 | [WINE \(Feat.Changmo\)\(Prod\. by SUGA\)](https://open.spotify.com/track/2WnJKDk2OlzrTL9OFsKDMW) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Walkin'](https://open.spotify.com/album/2T09zKIYfKNHMOAkwHpEwp) | 3:52 | 2022-04-21 | 2022-07-29 |
@@ -199,7 +200,7 @@
 | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/track/7gNmBWybrfvC54kl980igz) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Kim Min Ki](https://open.spotify.com/artist/0vcaB67WgOvbcyhMvLpcXr) | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM) | 4:00 | 2022-03-24 | 2022-04-21 |
 | [그런 밤 Night Reminiscin’ \(with Yang Da Il\)](https://open.spotify.com/track/2ytM3e2Ma9sc7h5jW9Sa0P) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2), [Yang Dail](https://open.spotify.com/artist/3NEbGrK1xXcTac2hAWaDOM) | [Night Reminiscin’](https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq) | 3:48 | 2022-05-11 | 2022-07-07 |
 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2022-03-24 |  |
-| [나는 이별이에요 \(feat\. 소유\) \(prod\. 로코베리\)](https://open.spotify.com/track/3FvjHdC0AHVHrfUC0LVDsN) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [나는 이별이에요](https://open.spotify.com/album/17vD9b85xuj3inrpTJvYju) | 3:17 | 2022-09-05 |  |
+| [나는 이별이에요 \(feat\. 소유\) \(prod\. 로코베리\)](https://open.spotify.com/track/3FvjHdC0AHVHrfUC0LVDsN) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [나는 이별이에요](https://open.spotify.com/album/17vD9b85xuj3inrpTJvYju) | 3:17 | 2022-09-05 | 2022-10-23 |
 | [내 얘기 같아 \(Based On A True Story\)](https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:54 | 2022-03-24 | 2022-07-29 |
 | [멋지게 인사하는 법 \(Hello Tutorial\) \(Feat\. 슬기 \(SEULGI\) of Red Velvet\)](https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya) | 3:22 | 2022-07-25 |  |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2022-03-24 |  |

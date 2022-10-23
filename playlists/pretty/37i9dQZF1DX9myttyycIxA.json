@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Runnner",
-  "num_followers": 267998,
+  "num_followers": 268027,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2MjA3MywwMDAwMDAwMGFhMWYxNGM2ZTdiYWY2YjZiM2IzYTZlNWY1NWNkNDBk",
+  "snapshot_id": "MTY2NjM2MjA3MywwMDAwMDAwMDg0ZDQ3NTliYWM3NDA5YTlkYjBjMjdmMzNmYzE2YWFh",
   "tracks": [
     {
       "added_at": "2022-10-21 14:21:02",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "I Shimmer",
+        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "I Shimmer",
+      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Dog Eat Dog",
         "url": "https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N"
       },
@@ -235,18 +251,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "I Shimmer",
-        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 265278,
-      "name": "I Shimmer",
-      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
+      "duration_ms": 189466,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -279,26 +299,6 @@
       "duration_ms": 248666,
       "name": "When You Know You Know",
       "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Pictures of You",
-        "url": "https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -399,6 +399,26 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Nice Colors",
+        "url": "https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        },
+        {
+          "name": "Atwood",
+          "url": "https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv"
+        }
+      ],
+      "duration_ms": 147966,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Sepsis",
         "url": "https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l"
       },
@@ -431,26 +451,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Nice Colors",
-        "url": "https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        },
-        {
-          "name": "Atwood",
-          "url": "https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv"
-        }
-      ],
-      "duration_ms": 147966,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Someone to Love",
         "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Aftershook",
-        "url": "https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 205890,
-      "name": "Aftershook",
-      "url": "https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 231680,
       "name": "Her",
       "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Aftershook",
+        "url": "https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 205890,
+      "name": "Aftershook",
+      "url": "https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Antibiotics",
-        "url": "https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 186741,
-      "name": "Antibiotics",
-      "url": "https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "pg.4 a picture of three hedges/through your window",
         "url": "https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 224565,
       "name": "through your window",
       "url": "https://open.spotify.com/track/0Kw8SXw92PXokAfPPaP2Ot"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Antibiotics",
+        "url": "https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 186741,
+      "name": "Antibiotics",
+      "url": "https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "WASTELAND",
-      "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 188175,
       "name": "You are my House",
       "url": "https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "WASTELAND",
+      "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 188916,
-      "name": "The Burned Down Dairy Queen",
-      "url": "https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Oldies & Goldies",
         "url": "https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 221506,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 188916,
+      "name": "The Burned Down Dairy Queen",
+      "url": "https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "bodies",
-        "url": "https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh"
-      },
-      "artists": [
-        {
-          "name": "fearofmakingout",
-          "url": "https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c"
-        }
-      ],
-      "duration_ms": 182475,
-      "name": "bodies",
-      "url": "https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "ILY2",
         "url": "https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 225278,
       "name": "ILY2",
       "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "bodies",
+        "url": "https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh"
+      },
+      "artists": [
+        {
+          "name": "fearofmakingout",
+          "url": "https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c"
+        }
+      ],
+      "duration_ms": 182475,
+      "name": "bodies",
+      "url": "https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3MjUsKkgDivwM51Ew1sAgK"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/1aTHfnCCB8RleVKfq5u0bD"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Burnt",
         "url": "https://open.spotify.com/album/0Q1qEXD9LLptZnO4CBvz0K"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/3MjUsKkgDivwM51Ew1sAgK"
+        "name": "honeybee table at the butterfly feast",
+        "url": "https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB"
       },
       "artists": [
         {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/1aTHfnCCB8RleVKfq5u0bD"
+      "duration_ms": 164776,
+      "name": "death wish",
+      "url": "https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1091,22 +1107,6 @@
       "duration_ms": 187506,
       "name": "Flake",
       "url": "https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "honeybee table at the butterfly feast",
-        "url": "https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "death wish",
-      "url": "https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Park Lodge",
-        "url": "https://open.spotify.com/album/1hXRsKevSg8qrakx7AGZY5"
-      },
-      "artists": [
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 203177,
-      "name": "Park Lodge",
-      "url": "https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Deep Sea Ladder",
         "url": "https://open.spotify.com/album/43oCH1Z5gOYXSzhy40dMrA"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 209439,
       "name": "Deep Sea Ladder",
       "url": "https://open.spotify.com/track/1kgX28e49B0GC6U9HdwCoh"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Park Lodge",
+        "url": "https://open.spotify.com/album/1hXRsKevSg8qrakx7AGZY5"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "duration_ms": 203177,
+      "name": "Park Lodge",
+      "url": "https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "atonement",
-        "url": "https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        },
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 231929,
-      "name": "atonement",
-      "url": "https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Wish It Was",
         "url": "https://open.spotify.com/album/6VPEA2UY1r17TtbsGAiIdz"
       },
@@ -1227,34 +1207,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "They Quiet the Room b/w Quiet the Room",
-        "url": "https://open.spotify.com/album/1RHP4sr5TNlry2dIsTlM2d"
+        "name": "atonement",
+        "url": "https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE"
       },
       "artists": [
         {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 213594,
-      "name": "They Quiet the Room",
-      "url": "https://open.spotify.com/track/36bPFYC66Zqi95C9HDOFW8"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Ur Name on a Grain of Rice (demo)",
-        "url": "https://open.spotify.com/album/3OyhwGUgCnFAbD3sgZlkhu"
-      },
-      "artists": [
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
         }
       ],
-      "duration_ms": 270978,
-      "name": "Ur Name on a Grain of Rice - demo",
-      "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
+      "duration_ms": 231929,
+      "name": "atonement",
+      "url": "https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1291,6 +1259,38 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Ur Name on a Grain of Rice (demo)",
+        "url": "https://open.spotify.com/album/3OyhwGUgCnFAbD3sgZlkhu"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 270978,
+      "name": "Ur Name on a Grain of Rice - demo",
+      "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "They Quiet the Room b/w Quiet the Room",
+        "url": "https://open.spotify.com/album/1RHP4sr5TNlry2dIsTlM2d"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 213594,
+      "name": "They Quiet the Room",
+      "url": "https://open.spotify.com/track/36bPFYC66Zqi95C9HDOFW8"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0dD5lv9nE67MU25iNX7Lsd"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "HEY BESTIE",
-        "url": "https://open.spotify.com/album/1gPDKhz51xxY4Kmrl1IF1i"
-      },
-      "artists": [
-        {
-          "name": "Neanderthal",
-          "url": "https://open.spotify.com/artist/7AV66Eu1XevhHitr3MEama"
-        }
-      ],
-      "duration_ms": 161162,
-      "name": "HEY BESTIE",
-      "url": "https://open.spotify.com/track/4wpt4Ce3g5KMR7CJzE4JRu"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 211707,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "HEY BESTIE",
+        "url": "https://open.spotify.com/album/1gPDKhz51xxY4Kmrl1IF1i"
+      },
+      "artists": [
+        {
+          "name": "Neanderthal",
+          "url": "https://open.spotify.com/artist/7AV66Eu1XevhHitr3MEama"
+        }
+      ],
+      "duration_ms": 161162,
+      "name": "HEY BESTIE",
+      "url": "https://open.spotify.com/track/4wpt4Ce3g5KMR7CJzE4JRu"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1455,18 +1455,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "IT IS A PLEASURE TO BE HERE",
-        "url": "https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK"
+        "name": "River",
+        "url": "https://open.spotify.com/album/4l0KCP3KC7tCeSfdzBQqb0"
       },
       "artists": [
         {
-          "name": "TEEN BLUSH",
-          "url": "https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl"
+          "name": "The Song Confessional",
+          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
+        },
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
         }
       ],
-      "duration_ms": 210965,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY"
+      "duration_ms": 271678,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3HEhC2ZJYWBX8EtVHOnIdr"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1487,22 +1491,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4l0KCP3KC7tCeSfdzBQqb0"
+        "name": "IT IS A PLEASURE TO BE HERE",
+        "url": "https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK"
       },
       "artists": [
         {
-          "name": "The Song Confessional",
-          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
-        },
-        {
-          "name": "Pom Pom Squad",
-          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+          "name": "TEEN BLUSH",
+          "url": "https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl"
         }
       ],
-      "duration_ms": 271678,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3HEhC2ZJYWBX8EtVHOnIdr"
+      "duration_ms": 210965,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Nightdrive",
-        "url": "https://open.spotify.com/album/2GEgyBxEoXmxH0e80tzEoL"
+        "name": "Meet Me at the Gloaming",
+        "url": "https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK"
       },
       "artists": [
         {
-          "name": "Deathsport",
-          "url": "https://open.spotify.com/artist/0WpxSPJ1brZnF598ASh8i1"
+          "name": "A.O. Gerber",
+          "url": "https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf"
         }
       ],
-      "duration_ms": 207448,
-      "name": "Nightdrive",
-      "url": "https://open.spotify.com/track/5ASia9B7HUtC6s4ekpsGzQ"
+      "duration_ms": 240640,
+      "name": "Walk in the Dark",
+      "url": "https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Nightdrive",
+        "url": "https://open.spotify.com/album/2GEgyBxEoXmxH0e80tzEoL"
+      },
+      "artists": [
+        {
+          "name": "Deathsport",
+          "url": "https://open.spotify.com/artist/0WpxSPJ1brZnF598ASh8i1"
+        }
+      ],
+      "duration_ms": 207448,
+      "name": "Nightdrive",
+      "url": "https://open.spotify.com/track/5ASia9B7HUtC6s4ekpsGzQ"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Trading Doses",
         "url": "https://open.spotify.com/album/3LDWBlzWbvuVlgYnHkFPmq"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 171861,
       "name": "Trading Doses",
       "url": "https://open.spotify.com/track/2r3vdfi8SmACLX7BOUqcgg"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Meet Me at the Gloaming",
-        "url": "https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK"
-      },
-      "artists": [
-        {
-          "name": "A.O. Gerber",
-          "url": "https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Walk in the Dark",
-      "url": "https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "I Wanted the Real Thing",
-        "url": "https://open.spotify.com/album/3wZPE5iISiwQGzt7HFsKEN"
+        "name": "no worries",
+        "url": "https://open.spotify.com/album/0YZABvfm3F0e9wSo5HMCTG"
       },
       "artists": [
         {
-          "name": "Glom",
-          "url": "https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H"
+          "name": "Human Barbie",
+          "url": "https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv"
         }
       ],
-      "duration_ms": 177343,
-      "name": "I Wanted the Real Thing",
-      "url": "https://open.spotify.com/track/59sCcKFTV5pShKkjSrfMH2"
+      "duration_ms": 313000,
+      "name": "no worries",
+      "url": "https://open.spotify.com/track/2iI7C0lkcSU0lpxq29JLLB"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1667,6 +1667,22 @@
       "duration_ms": 124533,
       "name": "Mythical Bonds",
       "url": "https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "I Wanted the Real Thing",
+        "url": "https://open.spotify.com/album/3wZPE5iISiwQGzt7HFsKEN"
+      },
+      "artists": [
+        {
+          "name": "Glom",
+          "url": "https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H"
+        }
+      ],
+      "duration_ms": 177343,
+      "name": "I Wanted the Real Thing",
+      "url": "https://open.spotify.com/track/59sCcKFTV5pShKkjSrfMH2"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "no worries",
-        "url": "https://open.spotify.com/album/0YZABvfm3F0e9wSo5HMCTG"
+        "name": "Some Things Never Change",
+        "url": "https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4"
       },
       "artists": [
         {
-          "name": "Human Barbie",
-          "url": "https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv"
+          "name": "Priestgate",
+          "url": "https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i"
         }
       ],
-      "duration_ms": 313000,
-      "name": "no worries",
-      "url": "https://open.spotify.com/track/2iI7C0lkcSU0lpxq29JLLB"
+      "duration_ms": 217870,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Some Things Never Change",
-        "url": "https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4"
-      },
-      "artists": [
-        {
-          "name": "Priestgate",
-          "url": "https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i"
-        }
-      ],
-      "duration_ms": 217870,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "cupids out tonight",
         "url": "https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Nowhere, LA",
-        "url": "https://open.spotify.com/album/26cITT0Klc8cspvfpH9WNH"
-      },
-      "artists": [
-        {
-          "name": "Why Bonnie",
-          "url": "https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9"
-        }
-      ],
-      "duration_ms": 206569,
-      "name": "Nowhere, LA",
-      "url": "https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/2L5u7oVg5oIoSk0a11Ef7g"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 192046,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/0WwPT9bZCwOlqaj2G7Pojr"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Nowhere, LA",
+        "url": "https://open.spotify.com/album/26cITT0Klc8cspvfpH9WNH"
+      },
+      "artists": [
+        {
+          "name": "Why Bonnie",
+          "url": "https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9"
+        }
+      ],
+      "duration_ms": 206569,
+      "name": "Nowhere, LA",
+      "url": "https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE"
     },
     {
       "added_at": "2022-10-21 14:21:02",

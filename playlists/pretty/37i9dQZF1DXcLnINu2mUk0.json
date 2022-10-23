@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 19347,
+  "num_followers": 19382,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMGJjMzk1OTEyMjdkODQyYmNiOGU5OTAyMWVmMTAyM2Q3",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDFhYmViM2U5YjkzNjQ3YWMwZTVlZTU5YWMzMTdjOGYx",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "J\u00e1 N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS"
-      },
-      "artists": [
-        {
-          "name": "Nello Fellirio",
-          "url": "https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4"
-        },
-        {
-          "name": "Johnny B.O.B",
-          "url": "https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ"
-        },
-        {
-          "name": "Penelas Sidney",
-          "url": "https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "J\u00e1 N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Conquista Mundo",
         "url": "https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 152347,
       "name": "Conquista Mundo",
       "url": "https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "J\u00e1 N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS"
+      },
+      "artists": [
+        {
+          "name": "Nello Fellirio",
+          "url": "https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4"
+        },
+        {
+          "name": "Johnny B.O.B",
+          "url": "https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ"
+        },
+        {
+          "name": "Penelas Sidney",
+          "url": "https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "J\u00e1 N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x"
     }
   ],
   "unique_name": "Seda",

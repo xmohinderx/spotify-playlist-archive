@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 560091,
+  "num_followers": 560346,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMGUxNTBkZGMxZGRiNmVlMmZiYWNjNzA3NWI0M2NiZTdm",
+  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMGVjNDQ1OWFjMTViOTA3MmQ0YTI2YWQ0ODk5MGIxMDU5",
   "tracks": [
     {
       "added_at": "2022-09-09 23:42:18",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 171978,
-      "name": "Vino Tinto",
-      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 150315,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 171978,
+      "name": "Vino Tinto",
+      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2022-09-09 23:42:18",

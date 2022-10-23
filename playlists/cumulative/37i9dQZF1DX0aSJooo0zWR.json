@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 182040,
       "name": "Level One",
       "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
@@ -2529,6 +2529,24 @@
       "duration_ms": 227150,
       "name": "Thirty One",
       "url": "https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd"
+    },
+    {
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
+      },
+      "artists": [
+        {
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227150,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "album": {

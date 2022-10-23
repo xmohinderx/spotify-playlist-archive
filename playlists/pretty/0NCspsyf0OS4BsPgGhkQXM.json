@@ -1,13 +1,33 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs - cover featuring NGHTMRE.",
-  "num_followers": 2027692,
+  "num_followers": 2027617,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI1ODYsYjY5MzY4YjExODI2YTc3MzljNGU2YTI0MWYyMjk2OTkwODA5YzJiNQ==",
+  "snapshot_id": "MTI1ODcsODliMDg0YzM1YjFjNjMxOGQ2NTViMjkyMGIxOGE1MjAyYWZhOGNjYg==",
   "tracks": [
+    {
+      "added_at": "2022-10-22 15:33:48",
+      "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/5pX3la4oPIp1liaVcxDCIf"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Drama B",
+          "url": "https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr"
+        }
+      ],
+      "duration_ms": 123524,
+      "name": "Stampede",
+      "url": "https://open.spotify.com/track/0QjVOn2O9lTDDseljMKMK5"
+    },
     {
       "added_at": "2022-10-19 04:07:38",
       "album": {

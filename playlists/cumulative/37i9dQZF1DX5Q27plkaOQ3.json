@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 225600,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 158035,
       "name": "Fire Dance",
       "url": "https://open.spotify.com/track/3IICGfnISboAKaSudbZqPk"
@@ -2665,6 +2665,28 @@
       "duration_ms": 221600,
       "name": "Laserbeam",
       "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
+    },
+    {
+      "album": {
+        "name": "Laserbeam (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Laserbeam - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX"
     },
     {
       "album": {
@@ -3816,6 +3838,28 @@
     },
     {
       "album": {
+        "name": "Restraint",
+        "url": "https://open.spotify.com/album/4wMgltSmtOsh1kSF52jZNW"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143673,
+      "name": "Restraint",
+      "url": "https://open.spotify.com/track/27GuBokZqZ72HfLYvqmJrf"
+    },
+    {
+      "album": {
         "name": "RETURN TO DUST",
         "url": "https://open.spotify.com/album/56Qhtn8vRgO6UP8J20NT1k"
       },
@@ -4379,7 +4423,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 185600,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX"
@@ -5211,6 +5255,28 @@
       "duration_ms": 211862,
       "name": "Watch Me - Jon Casey",
       "url": "https://open.spotify.com/track/22tYNfFswhekyfe3VACcgr"
+    },
+    {
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/3GGE7ZpfgZwHSXsoxV5oKL"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214954,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/5Dmk7WSDEIywhhXKq7lP3j"
     },
     {
       "album": {

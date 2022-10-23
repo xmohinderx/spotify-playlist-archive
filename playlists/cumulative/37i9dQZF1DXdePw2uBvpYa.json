@@ -697,7 +697,7 @@
     {
       "album": {
         "name": "Anarchytecture",
-        "url": "https://open.spotify.com/album/790njJAF7FtshM2PBJy007"
+        "url": "https://open.spotify.com/album/2QXfiilYaHKvKk1Lqj3T97"
       },
       "artists": [
         {
@@ -708,6 +708,24 @@
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211125,
+      "name": "Love Someone Else",
+      "url": "https://open.spotify.com/track/5v40kyxnNxfk3NZ4myxsyI"
+    },
+    {
+      "album": {
+        "name": "Anarchytecture",
+        "url": "https://open.spotify.com/album/790njJAF7FtshM2PBJy007"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
       "duration_ms": 211125,
       "name": "Love Someone Else",
       "url": "https://open.spotify.com/track/7n27gfrVYoO1nDOgvDSoUz"

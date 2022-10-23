@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Dj Alex & La Joaqui.",
-  "num_followers": 1142273,
+  "num_followers": 1142421,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1MzUyNCwwMDAwMDAwMDM0NmRlN2EzMjYzYTU0Mjc3NjYyOTdmNmFkNDJjMGZh",
+  "snapshot_id": "MTY2NTc1MzUyNCwwMDAwMDAwMDgzNDVhOGU3MGIzMzI2MDk2MDQ2ODgwZThlYjQwMGU5",
   "tracks": [
     {
       "added_at": "2022-10-14 13:18:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-14 13:18:44",
       "album": {
-        "name": "Un T\u00e9 de Tilo por Favor",
-        "url": "https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Algo Tiene",
-      "url": "https://open.spotify.com/track/1k4ldqe6XE6Q143GsBwhfc"
-    },
-    {
-      "added_at": "2022-10-14 13:18:44",
-      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 127973,
       "name": "Dime si eres feliz",
       "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2022-10-14 13:18:44",
+      "album": {
+        "name": "Un T\u00e9 de Tilo por Favor",
+        "url": "https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Algo Tiene",
+      "url": "https://open.spotify.com/track/1k4ldqe6XE6Q143GsBwhfc"
     },
     {
       "added_at": "2022-10-14 13:18:44",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-14 13:18:44",
       "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
-    },
-    {
-      "added_at": "2022-10-14 13:18:44",
-      "album": {
         "name": "Si Tu Supieras",
         "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+    },
+    {
+      "added_at": "2022-10-14 13:18:44",
+      "album": {
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2022-10-14 13:18:44",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-10-14 13:18:44",
       "album": {
+        "name": "Si Me Llamas",
+        "url": "https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye"
+      },
+      "artists": [
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Si Me Llamas",
+      "url": "https://open.spotify.com/track/3966kX7ysRx4oKHShvmSYR"
+    },
+    {
+      "added_at": "2022-10-14 13:18:44",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 166736,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
-    },
-    {
-      "added_at": "2022-10-14 13:18:44",
-      "album": {
-        "name": "Si Me Llamas",
-        "url": "https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye"
-      },
-      "artists": [
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Si Me Llamas",
-      "url": "https://open.spotify.com/track/3966kX7ysRx4oKHShvmSYR"
     },
     {
       "added_at": "2022-10-14 13:18:44",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-10-14 13:18:44",
       "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
-      },
-      "artists": [
-        {
-          "name": "Zona Cumbia",
-          "url": "https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
-    },
-    {
-      "added_at": "2022-10-14 13:18:44",
-      "album": {
         "name": "El Color de Tus Ojos",
         "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 156821,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2022-10-14 13:18:44",
+      "album": {
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
+      },
+      "artists": [
+        {
+          "name": "Zona Cumbia",
+          "url": "https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
     },
     {
       "added_at": "2022-10-14 13:18:44",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-14 13:18:44",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7BFhm3PcO7hxATeviLbRbE"
-      },
-      "artists": [
-        {
-          "name": "Megapuesta",
-          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj"
-    },
-    {
-      "added_at": "2022-10-14 13:18:44",
-      "album": {
         "name": "D\u00e9jate Querer",
         "url": "https://open.spotify.com/album/4wJBjofsAF8HV04FfwtPyK"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 209718,
       "name": "D\u00e9jate Querer",
       "url": "https://open.spotify.com/track/5MBBsIHpiYiqmMbp7OQJcq"
+    },
+    {
+      "added_at": "2022-10-14 13:18:44",
+      "album": {
+        "name": "Donde Estas",
+        "url": "https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 154315,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
     },
     {
       "added_at": "2022-10-14 13:18:44",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2022-10-14 13:18:44",
       "album": {
-        "name": "Donde Estas",
-        "url": "https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7BFhm3PcO7hxATeviLbRbE"
       },
       "artists": [
         {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Megapuesta",
+          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
         }
       ],
-      "duration_ms": 154315,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
+      "duration_ms": 182952,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj"
     },
     {
       "added_at": "2022-10-14 13:18:44",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-10-14 13:18:44",
       "album": {
-        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 494464,
-      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
-    },
-    {
-      "added_at": "2022-10-14 13:18:44",
-      "album": {
         "name": "Canci\u00f3n para una Amiga",
         "url": "https://open.spotify.com/album/57hV017eOcP3SjmsZCyl46"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 132936,
       "name": "Canci\u00f3n para una Amiga",
       "url": "https://open.spotify.com/track/1VTg97n1ntojItZCkm9KEO"
+    },
+    {
+      "added_at": "2022-10-14 13:18:44",
+      "album": {
+        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 494464,
+      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

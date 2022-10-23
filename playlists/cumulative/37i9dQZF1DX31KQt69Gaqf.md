@@ -4,7 +4,7 @@
 
 > Let us take care of your workday soundtrack.
 
-165 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
+166 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alapathy](https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:14 | 2021-08-12 |  |
 | [Alone](https://open.spotify.com/track/0OpgcUct4WdaxxG2qA9qMP) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Alone](https://open.spotify.com/album/5deGJaQEHbt3gQArlYPRyd) | 3:42 | 2021-08-12 | 2022-07-28 |
 | [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 | 2021-08-12 |  |
-| [Astronaut](https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel·li](https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS) | 2:52 | 2021-08-12 |  |
+| [Astronaut](https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel·li](https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS) | 2:52 | 2021-08-12 | 2022-10-23 |
 | [Astronaut](https://open.spotify.com/track/7K8Q6VknlALKMZ0j4dcCfW) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Astronaut](https://open.spotify.com/album/3EEWQmsoBS1nYvND95aeqX) | 2:52 | 2021-08-12 | 2022-07-29 |
 | [AUATC](https://open.spotify.com/track/2X1PJ3l0wM4D42EiEdVh5W) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/22PYhoWaopcOplvKR6o5BA) | 2:22 | 2021-08-12 | 2022-07-29 |
 | [AUATC](https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP) | 2:22 | 2021-08-12 |  |
@@ -117,6 +117,7 @@
 | [obsessed](https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [obsessed](https://open.spotify.com/album/2RgYgVbpfItLr4jj3exBqF) | 4:56 | 2021-08-12 | 2022-10-21 |
 | [Oh GOD](https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:46 | 2021-08-12 |  |
 | [oh GOD](https://open.spotify.com/track/78x4xRisFJS0eniXD3rIhk) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:47 | 2021-08-12 | 2022-07-29 |
+| [Party Fear](https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [Andy](https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO) | 3:32 | 2021-08-12 |  |
 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 | 2021-08-12 | 2022-07-29 |
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2021-08-12 |  |
 | [Pure Shores](https://open.spotify.com/track/6kfhbpmXRL9Cs5b47Ri3Qw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P) | 3:52 | 2021-08-12 |  |

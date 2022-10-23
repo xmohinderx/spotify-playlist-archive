@@ -8876,6 +8876,28 @@
     },
     {
       "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/5pX3la4oPIp1liaVcxDCIf"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Drama B",
+          "url": "https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123524,
+      "name": "Stampede",
+      "url": "https://open.spotify.com/track/0QjVOn2O9lTDDseljMKMK5"
+    },
+    {
+      "album": {
         "name": "Start A Fire",
         "url": "https://open.spotify.com/album/3TVQNtBHT21LU5SYTMdmml"
       },

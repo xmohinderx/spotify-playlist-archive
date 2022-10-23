@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-259 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+260 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Ragge](https://open.spotify.com/track/6Zs81zXoJ7SVL9vmwRMV8i) | [Thomassen & Berg](https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2) | [Ragge](https://open.spotify.com/album/4P1Pf5kUXT5XUSYUqdtKxO) | 2:05 | 2022-01-20 | 2022-07-03 |
 | [Raggen](https://open.spotify.com/track/33C7lhLNX5KKMyzrIi4bEo) | [Chris og Colada](https://open.spotify.com/artist/0YVbhK3PygEi4q70SrSPfB) | [Raggen](https://open.spotify.com/album/0UcMYS1DaPVY48qykyef6p) | 2:28 | 2022-04-14 | 2022-06-24 |
 | [Raggen måste gå](https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Raggen måste gå](https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF) | 2:11 | 2022-09-22 |  |
+| [REDLÖS](https://open.spotify.com/track/75mZ7bYRxnXKLYEfxsWg4U) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [REDLÖS](https://open.spotify.com/album/66r5D0woGoI1UjKmnvY4BB) | 2:47 | 2022-10-20 |  |
 | [Rett Ut Av Rehab](https://open.spotify.com/track/2AmSuzgwMHKpP8i3cMvDWr) | [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X) | [Rett Ut Av Rehab](https://open.spotify.com/album/0EsF8pGhd04FZFwbYW1ilI) | 2:23 | 2021-12-16 | 2022-04-19 |
 | [Rompa mi](https://open.spotify.com/track/4xh1HYiuwF8B200hbKW5Ic) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Linni Meister](https://open.spotify.com/artist/4YaUbZmPC6MY6Rl1rBTDuR) | [Rompa mi](https://open.spotify.com/album/2AJkF1bVcZvVnZqTBFATCs) | 3:27 | 2021-12-16 | 2022-05-14 |
 | [Ronny & Ragge](https://open.spotify.com/track/0u64RPrwUD8k2R8tdy8wwI) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ronny & Ragge](https://open.spotify.com/album/1Muad7jeVrKifXLHd18RTB) | 2:49 | 2021-12-16 | 2022-10-16 |
@@ -215,7 +216,7 @@
 | [Sju Fjell](https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sju Fjell](https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ) | 2:58 | 2021-12-16 |  |
 | [Sjå sole](https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Staut](https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD) | 3:26 | 2021-12-16 | 2022-10-16 |
 | [Sjømann Per](https://open.spotify.com/track/5TkkyRI7euRu4S0BUSuCw6) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [Vagabond 2](https://open.spotify.com/album/6NP63au6tG2b3Bm6dSjC5x) | 2:34 | 2021-12-16 | 2022-07-29 |
-| [Sjømann Per](https://open.spotify.com/track/6cyIrcpZHSk6HnPa8NKW4W) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [Vagabond 2](https://open.spotify.com/album/5qWBU6SAuGqXvjy7gvH2Q7) | 2:34 | 2022-10-13 |  |
+| [Sjømann Per](https://open.spotify.com/track/6cyIrcpZHSk6HnPa8NKW4W) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [Vagabond 2](https://open.spotify.com/album/5qWBU6SAuGqXvjy7gvH2Q7) | 2:34 | 2022-10-13 | 2022-10-23 |
 | [Skaldyrfest](https://open.spotify.com/track/3B9geW64jbjETYth2w63nO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Skaldyrfest](https://open.spotify.com/album/0Rrr29tVnfog1jR5zgJza8) | 3:44 | 2022-01-13 | 2022-06-16 |
 | [SKIPET](https://open.spotify.com/track/2FoaNJ0TLBYI3YbEYF377u) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/7mWe2qgLah9gxLlDXHYEVb) | 2:31 | 2022-04-21 | 2022-05-20 |
 | [SKIPET](https://open.spotify.com/track/2PIEzb11ggvjMpLLSQWjIp) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/280AD6mveKaBGutfj8UWMp) | 2:31 | 2022-05-19 | 2022-07-27 |

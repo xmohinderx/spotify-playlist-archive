@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Instrumental, ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,937 likes - 41 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,981 likes - 41 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

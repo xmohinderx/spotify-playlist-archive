@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 51039,
+  "num_followers": 51086,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDA1ODdmODVmYmI1MWJiZTcwODk1OTRmMDFiMTRjZDFh",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGY2N2EyNDE0NjM3N2VjMGJhYzg2YmIzMDczMTAyMTJm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Entrega de Amor",
+        "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
+      },
+      "artists": [
+        {
+          "name": "Efrain Colombo",
+          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
+        },
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 185852,
+      "name": "Entrega de Amor",
+      "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "La \u00daltima Estrella",
         "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 228388,
       "name": "No Me Quiero Olvidar",
       "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Entrega de Amor",
-        "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
-      },
-      "artists": [
-        {
-          "name": "Efrain Colombo",
-          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
-        },
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 185852,
-      "name": "Entrega de Amor",
-      "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
     },
     {
       "added_at": "2022-10-07 03:00:00",

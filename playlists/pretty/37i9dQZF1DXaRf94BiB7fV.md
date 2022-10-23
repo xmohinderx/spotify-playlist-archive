@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Madmast, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,051 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,102 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gumshuda ki Talaash](https://open.spotify.com/track/2sqinCkMH0s95saWmrvQo0) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY), [Vaibhav Sharma](https://open.spotify.com/artist/0NodMMnhAa0idBBJjEahzT), [Keshav Parthasarathy](https://open.spotify.com/artist/5GSfTNyns154BhSLwWluNY), [Anish Nair](https://open.spotify.com/artist/1Zh9u9ekjX2taEn6CHdESW), [Nishant Nair](https://open.spotify.com/artist/406kfqBWAtFHKGfKGlKaVl), [Saurav Dutta](https://open.spotify.com/artist/6TXLdm0Yx24l6r7ImLT4jL) | [Gumshuda Ki Talaash](https://open.spotify.com/album/3W6OaxRNKgmqkpb9rSoayR) | 4:46 |
+| 1 | [Gumshuda ki Talaash](https://open.spotify.com/track/2sqinCkMH0s95saWmrvQo0) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY) | [Gumshuda Ki Talaash](https://open.spotify.com/album/3W6OaxRNKgmqkpb9rSoayR) | 4:46 |
 | 2 | [Dil Bawra](https://open.spotify.com/track/7wqmHuIP2SF5hdPtWrAwso) | [Anirudh Deshmukh](https://open.spotify.com/artist/3HiO5a3yy7KtslxTJrBLNL) | [Dil Bawra](https://open.spotify.com/album/7Lpb7YtL2bHU6q6oEacS6f) | 4:50 |
 | 3 | [Dil Khuda Tu](https://open.spotify.com/track/39wfLOxVKYy5n8SnScagR9) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Dil Khuda Tu](https://open.spotify.com/album/0CClNhVaYM415ArYUq2Y9t) | 3:16 |
 | 4 | [Ho Tum Yahan](https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Ho Tum Yahan](https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu) | 4:08 |

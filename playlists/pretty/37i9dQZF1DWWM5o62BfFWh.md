@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,506 likes - 68 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,550 likes - 68 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 62 | [Quiéreme](https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:11 |
 | 63 | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/track/7zKXVAALHOZPmKeQxLTwam) | [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [Jorge Jr.](https://open.spotify.com/artist/4rTOPh4U5GgLw0sVViorhV), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/album/15Lnc1Yh5SK47FcS5cVRKo) | 3:48 |
 | 64 | [Las Feas](https://open.spotify.com/track/2WiWXnVgfeU0N0gCZr6eKy) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Los Exitos \(Lo Nuevo y Lo Mejor\)](https://open.spotify.com/album/7xSWQZdRZcqq78lN2bAlXW) | 3:38 |
-| 65 | [Tu de Que Vas](https://open.spotify.com/track/5pRnPE7WsFJExVgZs5yx4o) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 4:19 |
-| 66 | [Volvere Junto a Ti](https://open.spotify.com/track/2OWKqDlP17Go78ykRGlvJd) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 3:48 |
+| 65 | [Tu de Que Vas](https://open.spotify.com/track/5e2uf58IYZUxCZSeAIOK4p) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Latin Hits 2016](https://open.spotify.com/album/7kVCS59JxiYu4IHZcRg9ms) | 4:22 |
+| 66 | [Volveré Junto a Ti](https://open.spotify.com/track/64c6JUdoG2qEGH8xuyXnrA) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 3:48 |
 | 67 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 |
 | 68 | [Cubaton](https://open.spotify.com/track/4bHNliUdG1EDk3O29Usvjn) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Cubaton](https://open.spotify.com/album/1Npp9LzY0iyDiL7y7kEuUi) | 3:18 |
 
-Snapshot ID: `MTY0OTQzMzk3OCwwMDAwMDAwMGRmN2U4MDMyZjZjMWU5YjNhODRhYjdjYWMzMjU4MTIx`
+Snapshot ID: `MTY0OTQzMzk3OCwwMDAwMDAwMDU4MjcyODMwYWQwMzcwMDg0ZjgxNWYwMzE0NTRhMzkw`

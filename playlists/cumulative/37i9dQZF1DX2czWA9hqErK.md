@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-400 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+401 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [All My Friends](https://open.spotify.com/track/2cPgeAOjqxOE2dFjuBsst3) | [Jamie Grey](https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t) | [Songs They Told Me Weren't Singles \- Part 2](https://open.spotify.com/album/33m4Lm71jeXL5KlArauvev) | 3:03 | 2022-03-29 | 2022-07-19 |
 | [All Night Long](https://open.spotify.com/track/3oYuIcMNiEgy3HMX2BPUb2) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [All Night Long](https://open.spotify.com/album/6OYva1symTcQGU5bPLtx5I) | 3:05 | 2022-05-31 | 2022-07-29 |
 | [All or Nothing](https://open.spotify.com/track/3p3gtW1UzNZs1sGEtrNN2N) | [Rudie Edwards](https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk) | [Worst Ways](https://open.spotify.com/album/7h5tazd3LMN0ApQUfzmYS7) | 2:51 | 2021-12-16 | 2022-04-25 |
-| [Alone](https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Alone](https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4) | 3:25 | 2022-04-11 |  |
+| [Alone](https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Alone](https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4) | 3:25 | 2022-04-11 | 2022-10-23 |
 | [Alone \- Alternative Mix](https://open.spotify.com/track/1hIiWgqEAKLXyYAwWtGzZA) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Alone \(Alternative Mix\)](https://open.spotify.com/album/7mxXHwogbzZOyNvuK06HmB) | 3:39 | 2021-12-16 | 2022-02-21 |
 | [already there](https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/7q7zqYQbicds26NyRSuAk7) | 2:56 | 2021-12-16 | 2022-01-17 |
 | [Always](https://open.spotify.com/track/01Y5S152OwJiWUFCw8W1EU) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Always](https://open.spotify.com/album/7Hqt5opblmGaI0do4WZRnq) | 3:47 | 2021-12-16 | 2022-04-05 |
@@ -90,6 +90,7 @@
 | [cruel](https://open.spotify.com/track/05K6M63VAEG3GwfmKPbrOH) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [cruel](https://open.spotify.com/album/61FUBtPcOfc0kxrBJlBPmt) | 3:22 | 2022-01-17 | 2022-07-18 |
 | [Cry](https://open.spotify.com/track/0SXtIKwGuLlHJ7Q7gwo0Te) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Cry](https://open.spotify.com/album/4zerSuxIYLWLemMPPC8Ivi) | 3:47 | 2021-12-16 | 2022-02-09 |
 | [Cut Me Out Your Photos](https://open.spotify.com/track/2JDu2WDRJxQrLVMCHXh3HY) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Cut Me Out Your Photos](https://open.spotify.com/album/5xPuSqnIZdMXZIT1L3WBYU) | 2:48 | 2022-04-04 | 2022-04-20 |
+| [Danger](https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Danger](https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj) | 2:55 | 2022-10-21 |  |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-10-21 |  |
 | [Dear Reader](https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:45 | 2022-10-21 |  |
 | [Die Fast](https://open.spotify.com/track/1A2li95lRQu2vAOhaflAVB) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Die Fast](https://open.spotify.com/album/3XM7u1odzIm7leIRmmTBQO) | 3:39 | 2021-12-16 | 2021-12-30 |

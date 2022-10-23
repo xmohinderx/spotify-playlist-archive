@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-233 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
+234 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Cozumel](https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:47 | 2022-06-07 | 2022-07-28 |
 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 | 2022-06-07 |  |
 | [Cumbia Cienaguera](https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:04 | 2021-10-19 | 2022-07-24 |
-| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2022-06-07 |  |
+| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2022-06-07 | 2022-10-23 |
 | [Cumbia Del Caribe](https://open.spotify.com/track/2QwG8nmiwvSwWdVqqpEH7m) | [Orquesta De Edmundo Arias](https://open.spotify.com/artist/3kbbhoHPSGIvPe77gD2Rxk) | [Musica Tropical De Colombia 2](https://open.spotify.com/album/6yB0UUjVedFpxgQ7dGHn73) | 3:16 | 2022-06-07 | 2022-07-19 |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2022-06-07 |  |
 | [Cumbia Del Infinito](https://open.spotify.com/track/1zPTmz8qgQXnnpOeKGmmek) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 3:22 | 2022-06-07 | 2022-07-22 |
@@ -237,6 +237,7 @@
 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 | 2022-07-19 | 2022-07-29 |
 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 | 2022-06-07 |  |
 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 | 2022-07-19 |  |
+| [Vuelve](https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [La Suegra](https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa) | 4:04 | 2022-07-19 |  |
 | [Vuelve](https://open.spotify.com/track/3K8mW9o6jtuRkhz3miRYvD) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [15 Exitos Lisandro Meza](https://open.spotify.com/album/396R5wiqEA2dfKasiocYkr) | 4:04 | 2022-07-19 | 2022-10-03 |
 | [Vuelve](https://open.spotify.com/track/0kVzYM0q4PvXrgaHOC1ptA) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [A Punta de Maiz](https://open.spotify.com/album/4Y2SBLeuq5TutVy7DLlr2V) | 4:10 | 2022-06-07 | 2022-07-29 |
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2022-07-19 |  |

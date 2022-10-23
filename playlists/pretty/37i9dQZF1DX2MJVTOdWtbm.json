@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Ramon Vega",
-  "num_followers": 100938,
+  "num_followers": 100954,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NjgzMiwwMDAwMDAwMDg4ODI5Nzc5YzFmNjEwMzFkYTZlYTAyM2RhYWEzZmZj",
+  "snapshot_id": "MTY2Mzk0NjgzMiwwMDAwMDAwMDFiMWZiMjA4MjU3MzlmZDljOTA5MWM4MDg5NDZkMGY3",
   "tracks": [
     {
       "added_at": "2022-09-23 15:27:11",
@@ -731,22 +731,22 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
-        "name": "Pleasure (feat. RINI)",
-        "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
       },
       "artists": [
         {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
         },
         {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 161305,
-      "name": "Pleasure (feat. RINI)",
-      "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
+      "duration_ms": 167218,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
     },
     {
       "added_at": "2022-09-23 15:27:11",
@@ -791,22 +791,22 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
+        "name": "Pleasure (feat. RINI)",
+        "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
       },
       "artists": [
         {
-          "name": "Beruti",
-          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
         },
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
-      "duration_ms": 167218,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
+      "duration_ms": 161305,
+      "name": "Pleasure (feat. RINI)",
+      "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
     },
     {
       "added_at": "2022-09-23 15:27:11",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
-        "name": "Limo",
-        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Limo",
-      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
-    },
-    {
-      "added_at": "2022-09-23 15:27:11",
-      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 183997,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
+    },
+    {
+      "added_at": "2022-09-23 15:27:11",
+      "album": {
+        "name": "Limo",
+        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Limo",
+      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
     },
     {
       "added_at": "2022-09-23 15:27:11",

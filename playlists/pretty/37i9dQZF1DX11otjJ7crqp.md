@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,719 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,794 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 25 | [Dividends](https://open.spotify.com/track/6wVgp48zEWftYjf6R5fXFt) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Dividends](https://open.spotify.com/album/4hMKcJUFZ4FbMGiJ1L5N1L) | 3:38 |
 | 26 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 |
 | 27 | [Do I make you nervous?](https://open.spotify.com/track/1FC511SYR7SXb1qrBr3oq0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Do I make you nervous?](https://open.spotify.com/album/5zjEJwtQGYfo08aaYiZsYZ) | 2:32 |
-| 28 | [Stereo](https://open.spotify.com/track/7FJy1sJSge6xV0jOFxjiNI) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT), [Pluma](https://open.spotify.com/artist/6lx2Qo3NHZCGQkiDZbOHoA) | [Stereo](https://open.spotify.com/album/0zdx4KrEnHNyCM2lBMnuWJ) | 2:47 |
+| 28 | [Stereo](https://open.spotify.com/track/7FJy1sJSge6xV0jOFxjiNI) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT), [Sly Chance](https://open.spotify.com/artist/0Fr3mbBdvenGZh5nuKAWpT) | [Stereo](https://open.spotify.com/album/0zdx4KrEnHNyCM2lBMnuWJ) | 2:47 |
 | 29 | [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 |
 | 30 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 31 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 42 | [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 |
 | 43 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
 | 44 | [Good Grief!](https://open.spotify.com/track/2NM1xnjA3rV2vVlbRobkIH) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Good Grief!](https://open.spotify.com/album/014sDuoL5qu3jviq8vBi63) | 3:00 |
-| 45 | [I Do \(feat\. Slush Puppy\)](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do \(feat\. Slush Puppy\)](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
+| 45 | [I Do](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
 | 46 | [lexapro](https://open.spotify.com/track/61KFAZbfP6fnb8lEZU20yG) | [Jack Price](https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh) | [lexapro](https://open.spotify.com/album/0ftQ4DSqbNkIUrKM7uc0Kh) | 2:43 |
 | 47 | [what's the matter with you](https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [what's the matter with you](https://open.spotify.com/album/30rzHPzFWkagAe2AiPKOBY) | 3:16 |
 | 48 | [Last Thing On Your Mind](https://open.spotify.com/track/0dO9u5u3sgreIQFOq6BLDp) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Last Thing On Your Mind](https://open.spotify.com/album/1Bt5O0npaDI6bfvgmFGbAQ) | 3:13 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 67 | [Something Different \- lofi remix](https://open.spotify.com/track/58PLzRUABG9skJIKreuVdX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good \(lofi remixes\)](https://open.spotify.com/album/3Fpxa7OUrdGmqEebgoAF1E) | 2:34 |
 | 68 | [INCREDIBLE WORLD](https://open.spotify.com/track/1AhGBxVYGKwTDn1yr5EDiI) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL: SUPER DELUXE VALUE SIZE](https://open.spotify.com/album/6w3qgPT9n2ZNScSARe8KcF) | 3:21 |
 | 69 | [Hot All the Time](https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Hot All the Time](https://open.spotify.com/album/4gAXGVFBGfDnYQL1KVEkej) | 3:01 |
-| 70 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories II](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
+| 70 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
 | 71 | [Recharge My Heart](https://open.spotify.com/track/7ltvazcssAldoNhI5W6bYc) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Recharge My Heart](https://open.spotify.com/album/4mJOcfahsF3JULnHQiVUWV) | 2:41 |
 | 72 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 | 73 | [Caesar’s Doomsday](https://open.spotify.com/track/57enTu5k2ZQ5shupQNqCz9) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF) | [Caesar’s Doomsday](https://open.spotify.com/album/5NVG1Iuelgxewh2f8RBiCF) | 3:11 |

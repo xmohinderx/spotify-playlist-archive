@@ -863,10 +863,32 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 194546,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/0pkfyhvGnYHoSwGvRS36Gh"
+    },
+    {
+      "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/5Lbxv2mUeOd8Ve8SOGMiX0"
+      },
+      "artists": [
+        {
+          "name": "Soul\u00e9",
+          "url": "https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP"
+        },
+        {
+          "name": "C Cane",
+          "url": "https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "Love Tonight",
+      "url": "https://open.spotify.com/track/1aHXAZNGyetcsmDlPqBazn"
     },
     {
       "album": {

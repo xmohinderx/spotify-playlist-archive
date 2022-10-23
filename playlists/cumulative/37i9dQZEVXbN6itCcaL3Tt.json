@@ -1171,10 +1171,28 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "album": {
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1448,6 +1466,28 @@
     },
     {
       "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "awejniak",
+      "url": "https://open.spotify.com/track/50qfAuiTpmx5HI4YvxUt2V"
+    },
+    {
+      "album": {
         "name": "Megalomania",
         "url": "https://open.spotify.com/album/7bPOmqpNy4BMsKS1YcYwNG"
       },
@@ -1617,7 +1657,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -1653,7 +1693,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 279333,
       "name": "Bajka (K. K. Baczy\u0144ski)",
       "url": "https://open.spotify.com/track/4YRE7sIZcaKdMCb21gFHKc"
@@ -1841,7 +1881,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 169428,
       "name": "BEDOESIARA",
       "url": "https://open.spotify.com/track/0wMGcWjZ2Lymgnbxjy5FXN"
@@ -2224,6 +2264,24 @@
     },
     {
       "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219853,
+      "name": "Blant",
+      "url": "https://open.spotify.com/track/4te0YWCyaIcU5uSvAaEY2k"
+    },
+    {
+      "album": {
         "name": "W samo po\u0142udnie",
         "url": "https://open.spotify.com/album/4FDs0EKmcJlEAVyGcx2bFg"
       },
@@ -2503,7 +2561,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -2917,7 +2975,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 227105,
       "name": "B\u0141\u0104D W SYMULACJI",
       "url": "https://open.spotify.com/track/1PWk4dgJhx5BbzBJxX9Oh8"
@@ -3752,6 +3810,24 @@
     },
     {
       "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "D I A B L E",
+      "url": "https://open.spotify.com/track/0K0r4umLd6ssfXIu1MjjYI"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -4003,7 +4079,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 205500,
       "name": "Do * w sztambuch (A. Mickiewicz)",
       "url": "https://open.spotify.com/track/6ZgFEHAcaw6OHGX0tZyQxk"
@@ -5071,7 +5147,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 125440,
       "name": "Faka",
       "url": "https://open.spotify.com/track/2Ei5fjJrwugA91fSaXsfA8"
@@ -5133,7 +5209,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -5492,6 +5568,24 @@
     },
     {
       "album": {
+        "name": "GEST",
+        "url": "https://open.spotify.com/album/5s8Pu9ZVgfX5JeR9ahd9Hg"
+      },
+      "artists": [
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214833,
+      "name": "GEST",
+      "url": "https://open.spotify.com/track/2xY6SKd13QgZnrWXmOgAl7"
+    },
+    {
+      "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
@@ -5693,6 +5787,24 @@
       "duration_ms": 145093,
       "name": "Gruby Temat",
       "url": "https://open.spotify.com/track/0W03wM1BhZTmTWLXdIqEXG"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1LnwlSer3ls18ishQPDIJb"
     },
     {
       "album": {
@@ -6133,7 +6245,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -7007,7 +7119,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 197837,
       "name": "Jeszcze B\u0119dzie Pi\u0119knie",
       "url": "https://open.spotify.com/track/0IANgBgdiyhHg0gXdN8zdW"
@@ -7817,7 +7929,7 @@
       },
       "artists": [
         {
-          "name": "Reto",
+          "name": "ReTo",
           "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
         },
         {
@@ -7919,7 +8031,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 120016,
       "name": "KOCIMI\u0118TKA",
       "url": "https://open.spotify.com/track/0czMIykCNrza3OEmWvJEYO"
@@ -8455,6 +8567,24 @@
       "duration_ms": 157672,
       "name": "lato (poca\u0142uj mnie) - MANDEE Remix",
       "url": "https://open.spotify.com/track/5aqHPb3UEXkCqra9k0ZaLG"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
       "album": {
@@ -9176,6 +9306,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218270,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -9517,6 +9665,24 @@
       "duration_ms": 216960,
       "name": "Milan\u00f3wek callin'",
       "url": "https://open.spotify.com/track/5l74luBcjQrNqa62BZd7MD"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221853,
+      "name": "millenium",
+      "url": "https://open.spotify.com/track/5EUUrt6DYirGyFtm1tbOVp"
     },
     {
       "album": {
@@ -9877,6 +10043,24 @@
       "duration_ms": 194042,
       "name": "Moonwalk",
       "url": "https://open.spotify.com/track/7HvMlXXpPKj3nYClkyoxbE"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "mori",
+      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
     },
     {
       "album": {
@@ -10710,6 +10894,24 @@
     },
     {
       "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "Nie lubi\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/0D4fkUwi4d7Ee0cNx7xx9z"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -10925,6 +11127,28 @@
       "duration_ms": 157714,
       "name": "Numer o spodenkach kr\u00f3tkich",
       "url": "https://open.spotify.com/track/2lCq8c3uKMxbX6GwUNVXij"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "O czym \u015bnisz?",
+      "url": "https://open.spotify.com/track/3DT74w83RPPACZ2TvqX5PY"
     },
     {
       "album": {
@@ -11485,7 +11709,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 183750,
       "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
       "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
@@ -13013,6 +13237,24 @@
       "duration_ms": 171055,
       "name": "POST",
       "url": "https://open.spotify.com/track/0u7wjOCv1AbuEkI9UVyMZ6"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171973,
+      "name": "POST",
+      "url": "https://open.spotify.com/track/7u3Nx6lqDYahtcAZ3T2XeY"
     },
     {
       "album": {
@@ -14789,10 +15031,32 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
       "album": {
@@ -15163,7 +15427,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -15185,7 +15449,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 196600,
       "name": "Szafir",
       "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"
@@ -15207,6 +15471,24 @@
       "duration_ms": 200086,
       "name": "Szampan",
       "url": "https://open.spotify.com/track/0xwpK0H2aL5YxREvcNw4Pe"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221293,
+      "name": "Szaro\u015b\u0107 i R\u00f3\u017c",
+      "url": "https://open.spotify.com/track/0O7gPfhWX4R1OkVk83obsl"
     },
     {
       "album": {
@@ -15247,7 +15529,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 203394,
       "name": "Szary \u015bwiat",
       "url": "https://open.spotify.com/track/0IeTXtlaZaJ31r0TfPu6Gc"
@@ -15381,7 +15663,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 165653,
       "name": "Szmata",
       "url": "https://open.spotify.com/track/1BwnO14BpmoRjGt2lla75r"
@@ -15617,6 +15899,24 @@
       "duration_ms": 209600,
       "name": "Tatua\u017ce i Motocykle",
       "url": "https://open.spotify.com/track/4F3N8BizzYmHbUee1ASmhc"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "TAZOSy",
+      "url": "https://open.spotify.com/track/0oYqfYHqP2O9V3ISCQ8MMN"
     },
     {
       "album": {
@@ -15885,10 +16185,28 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 215453,
       "name": "To co masz Ty!",
       "url": "https://open.spotify.com/track/3RYR0I1GeqV3Qw5IgLcByW"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "To co masz Ty!",
+      "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
     },
     {
       "album": {
@@ -16504,6 +16822,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/2ccf19f8bAysRSNLrziawu"
       },
@@ -16895,6 +17231,24 @@
       "duration_ms": 139920,
       "name": "Wiatr wielkich zmian",
       "url": "https://open.spotify.com/track/5VqQwZyDMgNqn638j2D3jJ"
+    },
+    {
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212626,
+      "name": "WiRUS",
+      "url": "https://open.spotify.com/track/46AOp2btoGZVXeKSQvsFbZ"
     },
     {
       "album": {
@@ -17423,6 +17777,24 @@
       "duration_ms": 144000,
       "name": "YO MAMALE",
       "url": "https://open.spotify.com/track/6UQWIXmtV5GLwzLOtjTVPM"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194206,
+      "name": "You're On Your Own, Kid",
+      "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
     },
     {
       "album": {

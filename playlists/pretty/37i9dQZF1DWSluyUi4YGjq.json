@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 20843,
+  "num_followers": 20855,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAxMDA3NSwwMDAwMDAwMDY3YjRjN2E3NGU4ZTEwNGQ0NmRkZTc0Zjk2NTVhZjBh",
+  "snapshot_id": "MTY2NTAxMDA3NSwwMDAwMDAwMDNmNjRhMTMxMTA5MTliYTJhYzgxNTE3NDE4ZjY3ZDY3",
   "tracks": [
     {
       "added_at": "2022-09-29 00:07:21",
@@ -179,18 +179,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+        "name": "Whirr & Nothing (Split Version)",
+        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
       },
       "artists": [
         {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
+      "duration_ms": 206533,
+      "name": "Ease",
+      "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
     },
     {
       "added_at": "2022-09-21 00:37:05",
@@ -211,18 +211,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Whirr & Nothing (Split Version)",
-        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
         }
       ],
-      "duration_ms": 206533,
-      "name": "Ease",
-      "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Handsome Man",
-      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "TRU",
         "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 202528,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Handsome Man",
+      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
+    },
+    {
       "added_at": "2022-04-12 01:44:39",
       "album": {
         "name": "Together",
@@ -847,22 +863,6 @@
       "duration_ms": 226693,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Find Yourself Along The Way",
-        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
-      },
-      "artists": [
-        {
-          "name": "The Meeting Places",
-          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Now I Know You Could Never Be The One",
-      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -899,18 +899,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu"
+        "name": "Find Yourself Along The Way",
+        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "The Meeting Places",
+          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
         }
       ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
+      "duration_ms": 242066,
+      "name": "Now I Know You Could Never Be The One",
+      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "View No Country",
-        "url": "https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj"
-      },
-      "artists": [
-        {
-          "name": "Kraus",
-          "url": "https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951"
-        }
-      ],
-      "duration_ms": 178121,
-      "name": "Glass Valley",
-      "url": "https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Miserable Miracles",
         "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Our Goal to Realise",
-        "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
+        "name": "View No Country",
+        "url": "https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj"
       },
       "artists": [
         {
-          "name": "Amusement Parks On Fire",
-          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+          "name": "Kraus",
+          "url": "https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951"
         }
       ],
-      "duration_ms": 197563,
-      "name": "Our Goal to Realise",
-      "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
+      "duration_ms": 178121,
+      "name": "Glass Valley",
+      "url": "https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1395,6 +1379,22 @@
       "duration_ms": 311912,
       "name": "Pica",
       "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Our Goal to Realise",
+        "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
+      },
+      "artists": [
+        {
+          "name": "Amusement Parks On Fire",
+          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+        }
+      ],
+      "duration_ms": 197563,
+      "name": "Our Goal to Realise",
+      "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1427,22 +1427,6 @@
       "duration_ms": 405324,
       "name": "S.W.I.M.",
       "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Always, Sometimes, Seldom, Never",
-        "url": "https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV"
-      },
-      "artists": [
-        {
-          "name": "Tears Run Rings",
-          "url": "https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "Mind the Wires",
-      "url": "https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1483,6 +1467,38 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Always, Sometimes, Seldom, Never",
+        "url": "https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV"
+      },
+      "artists": [
+        {
+          "name": "Tears Run Rings",
+          "url": "https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "Mind the Wires",
+      "url": "https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Lesser Matters",
+        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Keen on Boys",
+      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "I Might Have",
         "url": "https://open.spotify.com/album/4Odq2mxuv8gPwzfPeY7oy2"
       },
@@ -1513,20 +1529,20 @@
       "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-08-03 04:09:20",
       "album": {
-        "name": "Lesser Matters",
-        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
+        "name": "Fairy Rust",
+        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
       },
       "artists": [
         {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
         }
       ],
-      "duration_ms": 293160,
-      "name": "Keen on Boys",
-      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+      "duration_ms": 233679,
+      "name": "Seven of Cups",
+      "url": "https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1577,22 +1593,6 @@
       "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
     },
     {
-      "added_at": "2022-08-03 04:09:20",
-      "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 233679,
-      "name": "Seven of Cups",
-      "url": "https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "The Big Roar",
@@ -1623,6 +1623,22 @@
       "duration_ms": 257533,
       "name": "Look Around",
       "url": "https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM"
+    },
+    {
+      "added_at": "2022-08-25 17:19:45",
+      "album": {
+        "name": "Nomofobia",
+        "url": "https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR"
+      },
+      "artists": [
+        {
+          "name": "Uniforms",
+          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
+        }
+      ],
+      "duration_ms": 209046,
+      "name": "Nomofobia",
+      "url": "https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1671,22 +1687,6 @@
       "duration_ms": 255573,
       "name": "Spring and by Summer Fall",
       "url": "https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy"
-    },
-    {
-      "added_at": "2022-08-25 17:19:45",
-      "album": {
-        "name": "Nomofobia",
-        "url": "https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR"
-      },
-      "artists": [
-        {
-          "name": "Uniforms",
-          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
-        }
-      ],
-      "duration_ms": 209046,
-      "name": "Nomofobia",
-      "url": "https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA"
     },
     {
       "added_at": "2021-10-19 01:47:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,740,194 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,757,014 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 25 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 |
 | 26 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 |
 | 27 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 |
-| 28 | [WRAITH KING](https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/7rVlpWZjzkvYT7Ge8hffMZ) | [WRAITH KING](https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys) | 2:03 |
+| 28 | [WRAITH KING](https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys) | 2:03 |
 | 29 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 |
 | 30 | [AIRCRAFT](https://open.spotify.com/track/6bJgpGMGgaLfsEE3v7j1ix) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [AIRCRAFT](https://open.spotify.com/album/4lycdKfQVAT12qo4omu3jf) | 2:21 |
 | 31 | [God's Revenge](https://open.spotify.com/track/7x3SAQDjvfr7is2O4xZZ4u) | [Feerix](https://open.spotify.com/artist/3pCsoptVyteSgucFwAXpUM) | [God's Revenge](https://open.spotify.com/album/66yvaJzhUa8Jrzg0TSUkuL) | 2:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,348 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,406 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 9 | [Predestinado](https://open.spotify.com/track/0IlSLH0ymezHJdmVMIjOsl) | [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Predestinado](https://open.spotify.com/album/1hrWv8EAx6K8ePi2r5XcP7) | 2:44 |
 | 10 | [Alto](https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte) | [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7), [Curioso Beats](https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u) | [Alto](https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco) | 2:45 |
 | 11 | [Prazer Jesus](https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Prazer Jesus](https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt) | 2:38 |
-| 12 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
-| 13 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 |
+| 12 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 |
+| 13 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 14 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 |
 | 15 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 |
 | 16 | [Diamante na Lama](https://open.spotify.com/track/7nwxUkKjvGBICXZxg4hXFY) | [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r), [Franco Trapboy](https://open.spotify.com/artist/1lEF3mYcI4rXGRlPXx8ScU), [Mollina](https://open.spotify.com/artist/3MGVz8UR64lAnmMRf1AIsV) | [Diamante na Lama](https://open.spotify.com/album/0D5Yz9YNHe2DVSLjXfGD7o) | 2:46 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 34 | [Os Dois Lados](https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Os Dois Lados](https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG) | 3:39 |
 | 35 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
 | 36 | [Ele É Deus Em Mim](https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:54 |
-| 37 | [Apologetas](https://open.spotify.com/track/5VO6wd9GZRZUQSq149WuIM) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Apologetas](https://open.spotify.com/album/634hOgzEX0ZjtPLI52bCTm) | 2:58 |
-| 38 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 |
+| 37 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 |
+| 38 | [Apologetas](https://open.spotify.com/track/5VO6wd9GZRZUQSq149WuIM) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Apologetas](https://open.spotify.com/album/634hOgzEX0ZjtPLI52bCTm) | 2:58 |
 | 39 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 40 | [Pedra](https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Pedra](https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w) | 3:10 |
 | 41 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Eu Sou](https://open.spotify.com/track/5nNBTKt7DwBtrvjeX21i3X) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Eu Sou](https://open.spotify.com/album/3A59tNKNF1ZUVBWIegUSFJ) | 2:48 |
 | 65 | [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 |
 
-Snapshot ID: `MTY2NjM1OTI5NiwwMDAwMDAwMDU3NzE1ZjJjNDQ4MDI0ZjVkODIzNjY1ZTcxMmIzMzdm`
+Snapshot ID: `MTY2NjM1OTI5NiwwMDAwMDAwMGUwYjMwZjJmMzE3MTE5NDg1MzdkODZhMjVjNzcxYTU0`

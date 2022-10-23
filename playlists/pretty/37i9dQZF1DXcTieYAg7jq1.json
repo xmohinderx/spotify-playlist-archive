@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Ashe",
-  "num_followers": 400570,
+  "num_followers": 400600,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGVkMmE4NDdmOTkwNzY1OWYyN2NlNTQwZWIzODhmM2Fk",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGFkZDkzYTI0NDE4MDk5MzMwZTI4YTQ2ZWExNTQyZmY5",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -477,7 +477,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/0IZRnFA7QE1IbZJOQodEDA"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "duration_ms": 181259,
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 283879,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Buddy's Rendezvous",
@@ -637,22 +653,6 @@
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 283879,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "All Summer",
@@ -667,22 +667,6 @@
       "duration_ms": 171773,
       "name": "All Summer",
       "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Building Balance",
-        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 184952,
-      "name": "Consider Me",
-      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -723,6 +707,22 @@
       "duration_ms": 169410,
       "name": "Places We Won't Walk",
       "url": "https://open.spotify.com/track/0wfnEetPwlLHmnzhRXvPuk"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Building Balance",
+        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 184952,
+      "name": "Consider Me",
+      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -797,26 +797,6 @@
       "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "about time",
-        "url": "https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Takahiro Izumikawa",
-          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
-        }
-      ],
-      "duration_ms": 193047,
-      "name": "about time",
-      "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "L.A.B IV",
@@ -847,6 +827,26 @@
       "duration_ms": 157133,
       "name": "I NEED YOU",
       "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "about time",
+        "url": "https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Takahiro Izumikawa",
+          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
+        }
+      ],
+      "duration_ms": 193047,
+      "name": "about time",
+      "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "New Ways",
@@ -963,22 +979,6 @@
       "duration_ms": 201226,
       "name": "Paul Newman Daytona Rolex",
       "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "AM Gold",
-        "url": "https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 169228,
-      "name": "AM Gold",
-      "url": "https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Sound & Color (Deluxe)",
@@ -1151,6 +1135,22 @@
       "duration_ms": 179482,
       "name": "Shoegaze",
       "url": "https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "AM Gold",
+        "url": "https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 169228,
+      "name": "AM Gold",
+      "url": "https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Higher",
@@ -1327,6 +1311,22 @@
       "duration_ms": 143386,
       "name": "Baby I'll Wait",
       "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1413,20 +1413,20 @@
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+        "name": "It Will Come In Time",
+        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
       },
       "artists": [
         {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
+      "duration_ms": 173862,
+      "name": "It Will Come In Time",
+      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1445,36 +1445,20 @@
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-06-24 04:02:00",
       "album": {
-        "name": "It Will Come In Time",
-        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
         }
       ],
-      "duration_ms": 173862,
-      "name": "It Will Come In Time",
-      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "comfortably in pain",
-        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 153315,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1507,6 +1491,22 @@
       "duration_ms": 197290,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "comfortably in pain",
+        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 153315,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1553,6 +1553,22 @@
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Someone to Love",
+        "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Where the Light Is",
@@ -1577,22 +1593,6 @@
       "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Someone to Love",
-        "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Someone to Love",
-      "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Adi Oasis",
@@ -1607,6 +1607,22 @@
       "duration_ms": 241057,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "Love Is Love",
+        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
         }
       ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+      "duration_ms": 186783,
+      "name": "Love Is Love",
+      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Love Is Love",
-        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
+        "name": "Italian Ice",
+        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
       },
       "artists": [
         {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
         }
       ],
-      "duration_ms": 186783,
-      "name": "Love Is Love",
-      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
+      "duration_ms": 243769,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Italian Ice",
-        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 243769,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
     }
   ],
   "unique_name": "Retro Pop",

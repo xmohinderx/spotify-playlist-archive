@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-85 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+86 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Ghost of the Mountain](https://open.spotify.com/track/4cwQ5XhN8p6UkUUYj8hPp2) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 5:38 | 2022-04-15 |  |
 | [Good Times](https://open.spotify.com/track/4YLLXJnKBQmYVC0XXvR1XS) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:33 | 2022-04-15 |  |
 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 | 2022-04-15 |  |
-| [Guitar Interlude in Bb](https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii) | 1:59 | 2022-04-15 |  |
+| [Guitar Interlude in Bb](https://open.spotify.com/track/2Ou90Hssj1tD2k2rintpgE) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/5biMirupjO0D7M8lOetEid) | 1:59 | 2022-10-14 |  |
+| [Guitar Interlude in Bb](https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii) | 1:59 | 2022-04-15 | 2022-10-23 |
 | [Home Alone](https://open.spotify.com/track/1IWK7wCyYkUiTbY78KE0jr) | [Soothing Dog Sounds](https://open.spotify.com/artist/30tUXL7OQLtFE7DmKCKLCo) | [Blues Music for Dogs](https://open.spotify.com/album/42KEN0fc3AtktxdETSDlZa) | 2:56 | 2022-04-15 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi) | [Berdon Kirksaether](https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o), [The Twang Bar Kings](https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo) | [Blues](https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-04-15 |  |

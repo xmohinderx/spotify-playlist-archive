@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-242 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+243 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Crime em Tânger](https://open.spotify.com/track/5RDLAg3zVPTlsmOlKNNGf9) | [Rapaz Ego](https://open.spotify.com/artist/6KZN67WFv4KQC5kWnCJePK) | [Crime em Tânger](https://open.spotify.com/album/4RGncxsGvUjxsu1A947z4I) | 4:29 | 2021-11-12 | 2022-07-28 |
 | [curl your toes, clench your fists](https://open.spotify.com/track/5Y4QJNJ1Ebr7aCkRuhEUhf) | [Slugabed](https://open.spotify.com/artist/7lGyDgJJYSgOd9R5T4Cwe4), [Miles Spilsbury](https://open.spotify.com/artist/23ZeblILk9U5IlYwQlacaq) | [curl your toes, clench your fists](https://open.spotify.com/album/6sZbrZyD6a9fOyep454rLv) | 7:14 | 2021-11-12 | 2022-07-19 |
 | [Damaged Eyes Squinting into the Beautiful Overhot Sun](https://open.spotify.com/track/0eqsixwwOHKerHiBmaqQQG) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Future Teenage Cave Artists](https://open.spotify.com/album/4I9skhRTov4hKAxAgoclt3) | 3:58 | 2021-11-12 | 2022-06-30 |
-| [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 | 2022-08-31 |  |
+| [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 | 2022-08-31 | 2022-10-23 |
 | [Disciplina](https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Sem Bênção / Sem Crença](https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg) | 5:28 | 2021-11-12 | 2022-07-27 |
 | [Distant Restart](https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Distant Restart](https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF) | 3:21 | 2021-11-12 | 2022-07-28 |
 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 | 2021-11-12 | 2022-07-29 |
@@ -98,6 +98,7 @@
 | [Human Touch](https://open.spotify.com/track/6bO1ZRc6JEvIhBgVQH4VPh) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Human Touch](https://open.spotify.com/album/7mTPROFhQbXPcVobbPXV3h) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [I Fucked up I Was a Child](https://open.spotify.com/track/3Gv8uENEjjly7JASxPZ0GK) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [I Fucked up I Was a Child](https://open.spotify.com/album/2NqiM1M6rO9YxFFs2jJJgr) | 4:43 | 2021-11-12 | 2022-07-28 |
 | [I teleported to Acapulco](https://open.spotify.com/track/0TZcrDs4cFHR7plX9F0eVu) | [Øresund Space Collective](https://open.spotify.com/artist/2uvfGz1p9D7bj8MnuRPjlC) | [Slip into the Vortex](https://open.spotify.com/album/6qfXssEj5ifrHYiQfHmgYz) | 9:55 | 2021-11-12 | 2022-07-26 |
+| [I'll Gladly Place Myself Below You](https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 5:12 | 2021-11-12 |  |
 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/7fpEayIv2yPcLnbiRLDMWn) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF) | 5:12 | 2021-11-12 | 2022-10-16 |
 | [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-09 |  |
 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 | 2021-11-12 |  |

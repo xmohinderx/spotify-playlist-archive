@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: paopao",
-  "num_followers": 696104,
+  "num_followers": 696101,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMGNiYWVlYTgyOWI5ODNmMjE1NzcwYmE3YzIwMTA2NGQw",
+  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMDAzNTk2YzdkYTI5NDQ2MThlZWExMzg1MjdmM2ZhYjM4",
   "tracks": [
     {
       "added_at": "2022-10-09 22:45:37",
@@ -683,30 +683,6 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "En La Disco Revela",
-        "url": "https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "En La Disco Revela",
-      "url": "https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
         "name": "Cheers to the Best Memories",
         "url": "https://open.spotify.com/album/1WNwlBvoohUFZcJt3uLrd4"
       },
@@ -727,6 +703,30 @@
       "duration_ms": 176030,
       "name": "Somebody That You Don't Know (feat. Rauw Alejandro)",
       "url": "https://open.spotify.com/track/2wHNBYCfnVNEXCOORj4tyV"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "En La Disco Revela",
+        "url": "https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "En La Disco Revela",
+      "url": "https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -759,6 +759,22 @@
       "duration_ms": 156903,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1XlcDTgLG4B7IZU9UFmvRB"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "lo que pas\u00f3",
+        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "lo que pas\u00f3",
+      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -799,22 +815,6 @@
       "duration_ms": 194000,
       "name": "XLEY",
       "url": "https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "lo que pas\u00f3",
-        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "lo que pas\u00f3",
-      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
         "name": "Conoce",
         "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 219130,
       "name": "Conoce",
       "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1FIiSEBdr1vujOzxWfHHiD"
-      },
-      "artists": [
-        {
-          "name": "R.I.Pablo",
-          "url": "https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 174259,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1FIiSEBdr1vujOzxWfHHiD"
+      },
+      "artists": [
+        {
+          "name": "R.I.Pablo",
+          "url": "https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
         "name": "Foreplay",
         "url": "https://open.spotify.com/album/0Zyin6wtlQoUC3ZSqMbAtT"
       },
@@ -1227,22 +1211,34 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "Direction",
-        "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
       },
       "artists": [
         {
-          "name": "Aniya Teno",
-          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
-        },
-        {
-          "name": "Ivan Orozco",
-          "url": "https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
         }
       ],
-      "duration_ms": 225454,
-      "name": "Direction",
-      "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
+      "duration_ms": 211688,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "do you come here often?",
+        "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 154415,
+      "name": "do you come here often?",
+      "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "do you come here often?",
-        "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
+        "name": "Direction",
+        "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
       },
       "artists": [
         {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+          "name": "Aniya Teno",
+          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
+        },
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl"
         }
       ],
-      "duration_ms": 154415,
-      "name": "do you come here often?",
-      "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
+      "duration_ms": 225454,
+      "name": "Direction",
+      "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
     },
     {
       "added_at": "2022-10-09 22:45:37",

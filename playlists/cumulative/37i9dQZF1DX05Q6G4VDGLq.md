@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-330 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+331 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Désespérés](https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Désespérés](https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL) | 3:41 | 2022-06-28 | 2022-10-08 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-06-28 |  |
 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2022-06-28 | 2022-10-08 |
-| [Don't Open Your Eyes](https://open.spotify.com/track/7df0Uedn5GeMUWObiYxqFe) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Johan Tengholm](https://open.spotify.com/artist/43zscbPDZ5M7eJTRs0Uuz0), [Henrik Jäderberg](https://open.spotify.com/artist/1wwJ6VEXQBeKg50pBqn6sJ) | [Don't Open Your Eyes](https://open.spotify.com/album/1ejv2hUVUyou505zdv37pB) | 2:55 | 2022-06-28 |  |
+| [Don't Open Your Eyes](https://open.spotify.com/track/7df0Uedn5GeMUWObiYxqFe) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Johan Tengholm](https://open.spotify.com/artist/43zscbPDZ5M7eJTRs0Uuz0), [Henrik Jäderberg](https://open.spotify.com/artist/1wwJ6VEXQBeKg50pBqn6sJ) | [Don't Open Your Eyes](https://open.spotify.com/album/1ejv2hUVUyou505zdv37pB) | 2:55 | 2022-06-28 | 2022-10-23 |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-06-28 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-06-28 |  |
 | [Duchesse](https://open.spotify.com/track/7qwMwFHW4JBRXiKRBpFE13) | [The Wallraff Group](https://open.spotify.com/artist/7gDYcXocmhQcTiVy1z9AyO) | [Duchesse](https://open.spotify.com/album/330hDxHxMjD4AOt5ZfWrud) | 3:30 | 2022-06-28 | 2022-10-05 |
@@ -120,6 +120,7 @@
 | [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-06-28 |  |
 | [I Remember Clifford](https://open.spotify.com/track/6taUJ3uoR0GoCGNe8LLwGQ) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 3:03 | 2022-06-28 | 2022-10-08 |
+| [I Remember You](https://open.spotify.com/track/1k2KhAnHidiCUsTyOiJtr2) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [I Remember You](https://open.spotify.com/album/1fRZ3SYAcAoTeiK2h7SNE0) | 3:02 | 2022-10-13 |  |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-28 |  |
 | [I Wish I Knew](https://open.spotify.com/track/6jEtmU0Wssyr3KObLUxFYU) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 4:23 | 2022-06-28 | 2022-10-08 |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2022-06-28 |  |

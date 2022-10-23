@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Kiaz, L7NNON",
-  "num_followers": 234573,
+  "num_followers": 234645,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyMTIwMCwwMDAwMDAwMDVlYWU0YzU1NDZmNjU4NTYwOWUzNjNiZGFhMDg0YTIw",
+  "snapshot_id": "MTY2NjMyMTIwMCwwMDAwMDAwMGE1NmFiOTgwNzg5NmM2ZDMxY2VhZWViYzJlZjkyMDA5",
   "tracks": [
     {
       "added_at": "2022-10-21 03:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
-        "name": "Amor e Amor",
-        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Amor e Amor",
-      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
-    },
-    {
-      "added_at": "2022-10-21 03:00:00",
-      "album": {
         "name": "Final de Semana",
         "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 201682,
       "name": "Final de Semana",
       "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
+    },
+    {
+      "added_at": "2022-10-21 03:00:00",
+      "album": {
+        "name": "Amor e Amor",
+        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Amor e Amor",
+      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
     },
     {
       "added_at": "2022-10-21 03:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
-      },
-      "artists": [
-        {
-          "name": "LK 3030",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 158625,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
-    },
-    {
-      "added_at": "2022-10-21 03:00:00",
-      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
+    },
+    {
+      "added_at": "2022-10-21 03:00:00",
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
+      },
+      "artists": [
+        {
+          "name": "LK 3030",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 158625,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
     },
     {
       "added_at": "2022-10-21 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
-        "name": "Posturada",
-        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        }
-      ],
-      "duration_ms": 176064,
-      "name": "Posturada",
-      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
-    },
-    {
-      "added_at": "2022-10-21 03:00:00",
-      "album": {
         "name": "Golpe Baixo",
         "url": "https://open.spotify.com/album/3JTHIZV0FUtTD8gCpSCu10"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 350014,
       "name": "Xavequin 2",
       "url": "https://open.spotify.com/track/2C2Ya63y7cp3rh01Umjy2P"
+    },
+    {
+      "added_at": "2022-10-21 03:00:00",
+      "album": {
+        "name": "Posturada",
+        "url": "https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        }
+      ],
+      "duration_ms": 176064,
+      "name": "Posturada",
+      "url": "https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd"
     },
     {
       "added_at": "2022-10-21 03:00:00",
@@ -1135,6 +1135,34 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
+        "name": "Sussurros",
+        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Sussurros",
+      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
+    },
+    {
+      "added_at": "2022-10-21 03:00:00",
+      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -1175,34 +1203,6 @@
       "duration_ms": 174315,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2022-10-21 03:00:00",
-      "album": {
-        "name": "Sussurros",
-        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Sussurros",
-      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
     },
     {
       "added_at": "2022-10-21 03:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
+        "name": "Calo na Garganta",
+        "url": "https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 268201,
+      "name": "Calo na Garganta",
+      "url": "https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy"
+    },
+    {
+      "added_at": "2022-10-21 03:00:00",
+      "album": {
         "name": "Te Fazer Vibrar",
         "url": "https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 187272,
       "name": "Te Fazer Vibrar",
       "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"
-    },
-    {
-      "added_at": "2022-10-21 03:00:00",
-      "album": {
-        "name": "Calo na Garganta",
-        "url": "https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 268201,
-      "name": "Calo na Garganta",
-      "url": "https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy"
     },
     {
       "added_at": "2022-10-21 03:00:00",

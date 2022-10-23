@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 231757,
+  "num_followers": 231899,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMGY5MDMwYTU2YzFiNzQzNWViYjAxM2EwYmNiNGRhNDM2",
+  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMDU3MDg3Nzk0YTU3YjJlNDYzOWU2ZTUzYjFhZDlhMWUz",
   "tracks": [
     {
       "added_at": "2022-08-31 07:05:31",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
       },
       "artists": [
         {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+      "duration_ms": 227733,
+      "name": "Desesperada",
+      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
       "artists": [
         {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Desesperada",
-      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "Quien Como T\u00fa",
         "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Lo Mejor De Los Tres Grandes",
-        "url": "https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 351333,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "En Concierto, Vol. 2",
         "url": "https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 253400,
       "name": "Ya Me Voy para Siempre",
       "url": "https://open.spotify.com/track/4316Ntihofu3zTa7b5OeGT"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Lo Mejor De Los Tres Grandes",
+        "url": "https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 351333,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw"
     },
     {
       "added_at": "2022-08-31 07:05:31",

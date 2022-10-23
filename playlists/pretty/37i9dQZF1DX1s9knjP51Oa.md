@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Slow down with some calming keys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,630 likes - 307 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,865 likes - 307 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 69 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 |
 | 70 | [Dorénevant](https://open.spotify.com/track/7lUXTcOSlWXNGN25wj7iNf) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Dorénevant](https://open.spotify.com/album/68K0s9E4y7TKDuKZb5zs2Z) | 2:28 |
 | 71 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
-| 72 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 |
+| 72 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 |
 | 73 | [Chaleureuse](https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Chaleureuse](https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw) | 2:14 |
 | 74 | [Rester Dans Les Parages](https://open.spotify.com/track/3NqUYlQxTAWw3Mg3OaOwUE) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Rester Dans Les Parages](https://open.spotify.com/album/2sEefiUsuwEzMN8tXzxXVQ) | 2:28 |
 | 75 | [Old Friends](https://open.spotify.com/track/7gK75qkpI8WjfL2Tpi3Z5C) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [Old Friends](https://open.spotify.com/album/0RwX2sJ91NUNGsEvaOiwLF) | 1:50 |

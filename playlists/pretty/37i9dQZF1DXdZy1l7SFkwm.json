@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 30691,
+  "num_followers": 30706,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDgxMjNhNDZjMjEwNmMzMjJhZDdjN2UzYWZmNGM0ZjU1",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGYxNjg5ZDVhOGFlNGRkMTA0Mjk5Y2MwZTU5MWMzMmU5",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
-        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
-      },
-      "artists": [
-        {
-          "name": "Paula Sergio",
-          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Garota de Ipanema",
-      "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Tim Maia 1973",
         "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
+        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+          "name": "Paula Sergio",
+          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
         }
       ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come",
-      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
+      "duration_ms": 150613,
+      "name": "Garota de Ipanema",
+      "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -427,6 +411,22 @@
       "duration_ms": 179293,
       "name": "Mas, Que Nada!",
       "url": "https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
         "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 168706,
       "name": "Beggin' - 2007 Remaster",
       "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "O Morro (N\u00e3o Tem Vez)",
-      "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Dois Momentos",
         "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 198466,
       "name": "Quando voc\u00ea chegar",
       "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "O Morro (N\u00e3o Tem Vez)",
+      "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Beach Samba",
-        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Beach Samba",
-      "url": "https://open.spotify.com/track/2jCjSJuWQ4GSj9vhrFywDj"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The Vintage Series",
         "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 223866,
       "name": "Soy Loco Por Ti America - Remastered 2006",
       "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Beach Samba",
+        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Beach Samba",
+      "url": "https://open.spotify.com/track/2jCjSJuWQ4GSj9vhrFywDj"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Sweet and Dandy",
+      "url": "https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 263266,
       "name": "Um Abraco No Getz",
       "url": "https://open.spotify.com/track/29v0gMFSZ7VmKXWOdywJck"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Sweet and Dandy",
-      "url": "https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD"
     },
     {
       "added_at": "2021-03-15 16:04:53",

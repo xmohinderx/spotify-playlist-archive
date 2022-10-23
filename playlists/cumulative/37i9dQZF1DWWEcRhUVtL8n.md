@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Tegan & Sara
 
-1,389 songs - 3 day 1 hr 6 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,390 songs - 3 day 1 hr 9 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-20 | 2021-01-15 |
 | [Busy Boy](https://open.spotify.com/track/3YvF7itMxKrlezMRKpkfdD) | [Mark Johns](https://open.spotify.com/artist/6zMEGo7y1noMoUEcQfIRCT) | [Busy Boy](https://open.spotify.com/album/3z9eUWFyWVUsrvHZ6GphpI) | 2:28 | 2021-02-23 | 2021-03-06 |
 | [but i love you](https://open.spotify.com/track/43W2o7HEEYpj56vrkV7SpY) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [but i love you](https://open.spotify.com/album/0oTvl2dWcSOaToatvwkmQi) | 2:39 | 2021-02-23 | 2021-05-27 |
+| [Butterflies](https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/7m1b79R5MjeWFZbfu6hgIT) | 2:56 | 2022-10-21 |  |
 | [Butterflies](https://open.spotify.com/track/3qOcLXQaamgc5R7pDQKQQp) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/1LbZK7uYkOT7V4Ru6wguCq) | 2:56 | 2020-10-20 | 2022-07-29 |
 | [Butterflies](https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW) | 2:56 | 2022-06-17 | 2022-10-13 |
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-10-13\* | 2021-10-12 |
@@ -465,7 +466,7 @@
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-07 | 2022-04-20 |
 | [Fuck What People Say](https://open.spotify.com/track/374oRsbKs0t6GWDKJorPt6) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Fuck What People Say](https://open.spotify.com/album/4VUAWpsRiLFjrFXU6SzzQT) | 2:46 | 2020-10-20 | 2021-10-12 |
 | [Fucking Married](https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c) | 3:13 | 2022-10-15 |  |
-| [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 |  |
+| [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 | 2022-10-23 |
 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 | 2021-02-22 | 2021-05-26 |
 | [Furniture](https://open.spotify.com/track/5hwCVRrBvFOkH3oK0LB7Fc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Furniture](https://open.spotify.com/album/62JRLwlRIdkFkFs22DnE51) | 2:36 | 2020-10-20 | 2021-02-01 |
 | [Furniture](https://open.spotify.com/track/6Yw8OzTprQU3pqwnBRodi3) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Furniture](https://open.spotify.com/album/4ESA2feUF3VJ5tWpFmbgwB) | 2:36 | 2021-01-23 | 2022-06-15 |
@@ -989,7 +990,7 @@
 | [Post Humorous](https://open.spotify.com/track/59BJgnWKzFnh5TGkhHfmod) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Post Humorous](https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy) | 4:39 | 2020-10-13\* | 2021-06-03 |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2021-10-02 | 2022-04-15 |
 | [Prescriptions](https://open.spotify.com/track/3LYjxu7eqgGPDiPz8ed4pX) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Prescriptions](https://open.spotify.com/album/3hdDCo5ApKuKVWBOPluH5L) | 3:47 | 2022-02-25 | 2022-04-21 |
-| [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories II](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 | 2022-10-21 |  |
+| [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 | 2022-10-21 |  |
 | [Pressure Point](https://open.spotify.com/track/6viryDZQ6Jr8J2bjqf2hSg) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Pressure Point](https://open.spotify.com/album/5B7CTMT8SCyoOzdh8MsqVX) | 3:26 | 2022-03-29 | 2022-07-25 |
 | [Pretend](https://open.spotify.com/track/1h8dms5lJ4QcXB0tyguk4c) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Juliana Madrid EP](https://open.spotify.com/album/24kUFs20sObGQMAW7VgWso) | 3:07 | 2022-08-19 | 2022-08-27 |
 | [Pretty Girl Lie](https://open.spotify.com/track/0M85Og8M7oRFB9KqimQe51) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Pretty Girl Lie](https://open.spotify.com/album/0uRebnXmyiOUUzpjCyxY2m) | 3:38 | 2020-10-13\* | 2020-11-15 |

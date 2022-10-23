@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 79046,
+  "num_followers": 79230,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDhkYzBhMTY1MDFhNDkwM2MzZTc3ODI1MTg3N2MyMDI3",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDNmMGNiOGE1MTY5YmEzZjQ1YjIwNWM4ODhmYjE3ZGU4",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -299,18 +283,34 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
         }
       ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Heroin Girl",
-      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 184293,
       "name": "Son Of Sam",
       "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Heroin Girl",
+      "url": "https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 215825,
-      "name": "French Disko",
-      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Fizzy Fuzzy Big & Buzzy",
         "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 257200,
       "name": "Banditos",
       "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "French Disko",
+      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Rites Of Passage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
-      },
-      "artists": [
-        {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Signals, Calls and Marches",
         "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 233573,
       "name": "That's When I Reach For My Revolver",
       "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Rites Of Passage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
+      },
+      "artists": [
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+      },
+      "artists": [
+        {
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+        }
+      ],
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "24 Hour Revenge Therapy (Remastered)",
         "url": "https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 230973,
       "name": "Shady Lane",
       "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Dusk at Cubist Castle",
-        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
-      },
-      "artists": [
-        {
-          "name": "The Olivia Tremor Control",
-          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
-        }
-      ],
-      "duration_ms": 112066,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
-      },
-      "artists": [
-        {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Breadcrumb Trail",
-      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Car Button Cloth",
         "url": "https://open.spotify.com/album/5NQ9PLQuzOIKG4R1lxcVMf"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 170906,
       "name": "If I Could Talk I'd Tell You",
       "url": "https://open.spotify.com/track/7F8eSGduNKaqn16evCtdB0"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
+      },
+      "artists": [
+        {
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Breadcrumb Trail",
+      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
     },
     {
       "added_at": "2022-05-30 14:05:21",

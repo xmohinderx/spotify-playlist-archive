@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 358513,
+  "num_followers": 358842,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGQ0YWNhZDU5NjkzM2M5ODQwODRmM2EzODVmZDJhZWZi",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDE2ZjA3ZjEzOGM4ZDQ1Nzk2OWJjOGU1MDU5ZGM3MTcy",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 171907,
       "name": "deixa fluir",
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -503,6 +503,34 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Dizeres",
+        "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Dizeres",
+      "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Lisboa-Madrid",
         "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
@@ -539,30 +567,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Dizeres",
-        "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
+        "name": "Mariana Nolasco Sessions 2",
+        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
       "artists": [
         {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 257644,
-      "name": "Dizeres",
-      "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+      "duration_ms": 138647,
+      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
+      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -579,22 +595,6 @@
       "duration_ms": 174040,
       "name": "Benzin",
       "url": "https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Mariana Nolasco Sessions 2",
-        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 138647,
-      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
-      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 152376,
+      "name": "TE AMO (em caixa alta)",
+      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "da primeira vez (from the first time)",
-        "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "da primeira vez (from the first time)",
-      "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -851,22 +851,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Melhor Agora",
-        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+        "name": "da primeira vez (from the first time)",
+        "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 152376,
-      "name": "TE AMO (em caixa alta)",
-      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
+      "duration_ms": 201183,
+      "name": "da primeira vez (from the first time)",
+      "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
     },
     {
       "added_at": "2022-10-14 03:00:00",

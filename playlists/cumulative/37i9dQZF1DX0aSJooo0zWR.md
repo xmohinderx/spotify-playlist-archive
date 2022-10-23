@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea & Nino Josele
 
-132 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+133 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Keisha Billip](https://open.spotify.com/track/0dPq960kuzrOCOTfj4M7Su) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Keisha Billip](https://open.spotify.com/album/70sAqcPrrvuTLywNpCJbdn) | 4:22 | 2021-02-12 | 2022-07-29 |
 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 | 2021-02-12 |  |
 | [Leimert Day](https://open.spotify.com/track/4HrR8RwNBqEUC45kYHKKaL) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM) | [Leimert Day](https://open.spotify.com/album/30LIb1TdJBCtWgkGld79rU) | 3:54 | 2021-02-12 | 2022-07-29 |
-| [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 | 2021-02-12 |  |
+| [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 | 2021-02-12 | 2022-10-23 |
 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 | 2021-02-12 | 2022-09-29 |
 | [Lockdown Boogie](https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Lockdown Boogie](https://open.spotify.com/album/2UQzqEK9yKcIZjY4taxUk9) | 5:18 | 2021-02-12 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:56 | 2022-09-23 |  |
@@ -132,6 +132,7 @@
 | [The Nightbus](https://open.spotify.com/track/45GLV5lorbBlvcen01tNwp) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [The Nightbus](https://open.spotify.com/album/3niNqIPnj4qyJMrVO9UjwI) | 4:55 | 2021-06-18 | 2022-07-29 |
 | [The Red One](https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [I Can See Your House From Here](https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb) | 4:19 | 2021-02-12 |  |
 | [Thirty One](https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Thirty One](https://open.spotify.com/album/0qbO0VkbG4gPPdDF7vCjMb) | 3:47 | 2021-02-12 | 2022-10-20 |
+| [Thirty One](https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 3:47 | 2021-02-12 |  |
 | [Trains](https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1) | [Steps Ahead](https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5) | [Magnetic](https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb) | 7:31 | 2021-02-12 |  |
 | [Trinity](https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Trinity](https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv) | 7:54 | 2022-06-10 |  |
 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 | 2021-07-02 |  |

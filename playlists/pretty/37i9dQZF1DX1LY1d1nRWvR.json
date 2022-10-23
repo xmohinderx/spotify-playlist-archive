@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 23641,
+  "num_followers": 23658,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGNmM2ViMTgwMjZiN2YwMjNjMmQ0MWU3ZmNiYjgzYjY5",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGVmMmQwMmJhM2ZmYmM5ZTcxOTI4MDA4YjdmOTkwYTA3",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
-      },
-      "artists": [
-        {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
-        }
-      ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Houses",
-        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
-      },
-      "artists": [
-        {
-          "name": "Steve Spacek",
-          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
-        }
-      ],
-      "duration_ms": 450950,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
         }
       ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Jerusalem EP's",
         "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 407893,
       "name": "Servants Jaz House",
       "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -827,38 +827,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Side Street",
-        "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Tom Walsh",
-          "url": "https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Side Street",
-      "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Sun Is Warm and Directly Above You",
         "url": "https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 371861,
       "name": "Mogeri",
       "url": "https://open.spotify.com/track/6Iq7a7HZ6eFpsAVW6Qfohp"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Side Street",
+        "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Tom Walsh",
+          "url": "https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "Side Street",
+      "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
     },
     {
       "added_at": "2021-10-08 17:36:35",

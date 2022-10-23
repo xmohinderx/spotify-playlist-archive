@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,019 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,017 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 20 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
 | 21 | [Tinted Eyes \(feat\. blackbear & 24kGoldn\)](https://open.spotify.com/track/68UW3plyDDNg1dkNIZRezJ) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tinted Eyes \(feat\. blackbear & 24kGoldn\)](https://open.spotify.com/album/63qrRZqzJKieNXIbN2Uvkx) | 2:55 |
 | 22 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 |
-| 23 | [Mine](https://open.spotify.com/track/0lPZ8UNB5bmvhn7ba8faJi) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Mine](https://open.spotify.com/album/4eIMzMjOqP5xYIdH0NGAV3) | 3:20 |
-| 24 | [Lose You](https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 2:28 |
+| 23 | [Lose You](https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 2:28 |
+| 24 | [Mine](https://open.spotify.com/track/0lPZ8UNB5bmvhn7ba8faJi) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Mine](https://open.spotify.com/album/4eIMzMjOqP5xYIdH0NGAV3) | 3:20 |
 | 25 | [Parle à ta tête](https://open.spotify.com/track/3lTGqzJbMYDHXbqeV8pt7d) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Parle à ta tête](https://open.spotify.com/album/1KEfoqJ2dbtfB6jSNFpByF) | 2:56 |
 | 26 | [Do The Most](https://open.spotify.com/track/7n0lXKEOaFxrAU0R93fIQh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:24 |
 | 27 | [ROCKSTAR \(feat\. Roddy Ricch\) \- BLM REMIX](https://open.spotify.com/track/4Aykm3xrOFSHrAnv80KUhh) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCKSTAR \(feat\. Roddy Ricch\) \[BLM REMIX\]](https://open.spotify.com/album/3xGZrrUdbVXu3CRXSSsPQZ) | 3:24 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 60 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
 | 61 | [Sweat](https://open.spotify.com/track/0drXYOymxrIl2lzhVnsiMH) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sweat](https://open.spotify.com/album/0r5iMvc6l6oJDyHgQLMxaT) | 3:24 |
 | 62 | [Higher](https://open.spotify.com/track/02rpa9omMkxHb1wrA5dNyR) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Higher](https://open.spotify.com/album/4vsPp7l8q37wmtnSAJkfmb) | 2:22 |
-| 63 | [Fantasy](https://open.spotify.com/track/6O7c7tf1FQsrb3gjJX3oZk) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Vannah](https://open.spotify.com/artist/4jwv3a7juNAOTSjZrkuz0P) | [Fantasy](https://open.spotify.com/album/5gcFASqSTMjuLNhcrrcs5L) | 3:20 |
-| 64 | [Run Run](https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb) | 3:43 |
+| 63 | [Run Run](https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb) | 3:43 |
+| 64 | [Fantasy](https://open.spotify.com/track/6O7c7tf1FQsrb3gjJX3oZk) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Vannah](https://open.spotify.com/artist/4jwv3a7juNAOTSjZrkuz0P) | [Fantasy](https://open.spotify.com/album/5gcFASqSTMjuLNhcrrcs5L) | 3:20 |
 | 65 | [Le monde est à nous](https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Le monde est à nous](https://open.spotify.com/album/2GO68pEg33eudiyr8GuxH6) | 3:12 |
 | 66 | [Je suis à toi \(Moto Blanco Remix\)](https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis à toi \(MOTO BLANCO REMIX\)](https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa) | 3:17 |
 | 67 | [Barquette](https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 | 75 | [Comme dans les films](https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Comme dans les films](https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv) | 3:03 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDllMjViZjQ4OWQ2YjQwZmViYjQ5ZDQ0ZmJhMWExMDE5`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDU5Yzc0YzlhNjMwNzZjZTU5NThkZGRjN2RjYWViOGZl`

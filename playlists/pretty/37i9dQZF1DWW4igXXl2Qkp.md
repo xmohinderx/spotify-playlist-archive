@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,380 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,409 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 10 | [Mr\. Do It Up](https://open.spotify.com/track/3KHRBIfbMAWIBxpNfyHuR3) | [ShaqO](https://open.spotify.com/artist/5JKI6b6ZEZpy5oNKzL1hbs) | [Oh My Fault](https://open.spotify.com/album/23mjPzCQtMK6bFRzHR3mNy) | 3:08 |
 | 11 | [Starry Night](https://open.spotify.com/track/3xUKMt4RGN9V3ofnWDbQ1X) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:14 |
 | 12 | [Ben10](https://open.spotify.com/track/7KBZKRX0WpvB5Wkqb7TcvD) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c) | [Ben10](https://open.spotify.com/album/1nA3Vx5C8t2yduDXgkHQbW) | 2:51 |
-| 13 | [Murder 2.0](https://open.spotify.com/track/6aNYcinVw2hmruqPGzsZrz) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder 2.0](https://open.spotify.com/album/0RKvEog6DzNJFfq085z1wZ) | 3:06 |
+| 13 | [Murder 2.0](https://open.spotify.com/track/44BSQfTmbO2Onoj8Oi02vq) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder 2.0](https://open.spotify.com/album/2404wXyauFNBZvmfuKLVUK) | 3:06 |
 | 14 | [I'M GOOD](https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD](https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd) | 3:16 |
 | 15 | [Black Visa](https://open.spotify.com/track/3UKJ6X8H1hQDWr22HuKdj4) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Black Visa](https://open.spotify.com/album/558YuTRXhHZk8RAq8wMm1i) | 3:06 |
 | 16 | [Contact](https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Contact](https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Heart Of Gold](https://open.spotify.com/track/66zbX8vwdDMHYn6kQ9xCf8) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Kyesha](https://open.spotify.com/album/3f49SaBQU5TNoX1JeBEm8f) | 1:29 |
 | 50 | [2 the Max](https://open.spotify.com/track/4N9pAupgXexImJ5Vgv1kFz) | [Jay Pareil](https://open.spotify.com/artist/7bROBB1DkMVz52NoCTaIfc) | [2 the Max](https://open.spotify.com/album/0wsQltrC4GfBXEsva0AENk) | 1:50 |
 
-Snapshot ID: `MTY2NjE4OTQ5MywwMDAwMDAwMGU3NjRkNmI4MDdmYmViNDM2YTY5MjA2N2M1MGI0MzVm`
+Snapshot ID: `MTY2NjE4OTQ5MywwMDAwMDAwMGU0YjU1N2E3OTdiMmI3ZmU5NTk4YmNjNDBhYmM0NDZl`
