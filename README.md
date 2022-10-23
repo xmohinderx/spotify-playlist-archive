@@ -2823,6 +2823,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Party Hits 2000s](/playlists/pretty/37i9dQZF1DX7e8TjkFNKWH.md)
 - [Party Hits 2010s](/playlists/pretty/37i9dQZF1DWWylYLMvjuRG.md)
 - [Party Jazz](/playlists/pretty/37i9dQZF1DXcrFx9OjqPuj.md)
+- [Partyhymnen](/playlists/pretty/37i9dQZF1DX9EM98aZosoy.md)
 - [Pass The Chutney](/playlists/pretty/37i9dQZF1DWWXmRdYIgq8J.md)
 - [Paul Simon: Covered](/playlists/pretty/37i9dQZF1DXb9WXpUmdSWn.md)
 - [Peace](/playlists/pretty/37i9dQZF1DXdCsscAsbRNz.md)
