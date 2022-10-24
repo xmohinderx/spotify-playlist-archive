@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-513 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+514 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,8 @@
 | [Owee](https://open.spotify.com/track/0uWnVdGtYre58CfvsCCl5O) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [Owee](https://open.spotify.com/album/6MC9pGp7vdpCigU7pFiUvl) | 3:30 | 2022-06-30 | 2022-08-11 |
 | [participate](https://open.spotify.com/track/1mL9IalZM0lre130QZclJH) | [danny G](https://open.spotify.com/artist/55u10Zb9W8haN1zahVokOb) | [participate](https://open.spotify.com/album/12lYkxzDtnoNee3BIJK1Yl) | 2:16 | 2022-04-13 | 2022-05-26 |
 | [Paths](https://open.spotify.com/track/4UHUcV7KiI86HGZfCBigdV) | [Brandon Nembhard](https://open.spotify.com/artist/3iz36sr0k9vScDNDRPZtLS) | [Paths](https://open.spotify.com/album/106kGoWEDM1BJhus1oiUZt) | 2:26 | 2022-05-04 | 2022-05-26 |
-| [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 | 2022-10-19 |  |
+| [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 | 2022-10-19 | 2022-10-24 |
+| [Penthouse](https://open.spotify.com/track/1e3jS5O9vxsLiHiL5SBU71) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/15M4bcl7Q4CSWkqIuX1ydt) | 2:24 | 2022-10-19 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 | 2022-10-19 |  |
 | [Perc](https://open.spotify.com/track/4mqBxUcdwusuB3jU5GHXUo) | [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Perc](https://open.spotify.com/album/1FZw6sfV5Y6SLGhLSGn3gC) | 3:35 | 2022-03-02 | 2022-03-10 |
 | [Personal](https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq) | [Derek King](https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E), [Shaun Sloan](https://open.spotify.com/artist/4bbKZi7t8CaAYqrpe37asy) | [Personal](https://open.spotify.com/album/2NQWkiIPcvCG9ykCPuTdc7) | 3:20 | 2022-01-19 | 2022-02-24 |

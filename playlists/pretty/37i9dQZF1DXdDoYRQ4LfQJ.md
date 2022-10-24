@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > The hottest corridos in the US! Bien Al Tiro con Fuerza Regida, Los Gemelos de Sinaloa & Calle 24
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,196 likes - 120 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,442 likes - 120 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

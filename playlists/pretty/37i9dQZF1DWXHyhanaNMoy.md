@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Hier alleen magic en motion! Cover: Antoon & Dopebwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,907 likes - 71 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,933 likes - 71 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 6 | [Carolina](https://open.spotify.com/track/1IxDjSx4nasfoO539Iemie) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Carolina](https://open.spotify.com/album/0NDDauT2FX7ZWUoFXqb1Vq) | 2:46 |
 | 7 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 |
 | 8 | [DEY INSIDE](https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU) | [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Dey Inside](https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D) | 3:14 |
-| 9 | [In De Stad](https://open.spotify.com/track/30lf4XnHp3frvhhdkaTLPP) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [In De Stad](https://open.spotify.com/album/0moBAfClHoAxNCHFzoNYNQ) | 2:36 |
-| 10 | [Op Huid](https://open.spotify.com/track/7lLzTC4SFSIHRpdghjrZ9h) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Op Huid](https://open.spotify.com/album/1mauFKVEqWbJa3Ak3uGRBi) | 2:28 |
-| 11 | [Nobody Knows](https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Nobody Knows](https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G) | 2:36 |
-| 12 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 |
-| 13 | [1 Blik](https://open.spotify.com/track/3YD8JSsQWSyRr3OhIrUR6y) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [1 Blik](https://open.spotify.com/album/7dp8ZZuptJZo40Jn8OCTMm) | 2:11 |
-| 14 | [BALANCE](https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [BALANCE](https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub) | 3:20 |
+| 9 | [1 Blik](https://open.spotify.com/track/3YD8JSsQWSyRr3OhIrUR6y) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [1 Blik](https://open.spotify.com/album/7dp8ZZuptJZo40Jn8OCTMm) | 2:11 |
+| 10 | [BALANCE](https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [BALANCE](https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub) | 3:20 |
+| 11 | [In De Stad](https://open.spotify.com/track/30lf4XnHp3frvhhdkaTLPP) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [In De Stad](https://open.spotify.com/album/0moBAfClHoAxNCHFzoNYNQ) | 2:36 |
+| 12 | [Op Huid](https://open.spotify.com/track/7lLzTC4SFSIHRpdghjrZ9h) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Op Huid](https://open.spotify.com/album/1mauFKVEqWbJa3Ak3uGRBi) | 2:28 |
+| 13 | [Nobody Knows](https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Nobody Knows](https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G) | 2:36 |
+| 14 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 |
 | 15 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
 | 16 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 |
 | 17 | [Nobo](https://open.spotify.com/track/68v2Ba7SorxKY1fKjoeTpR) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7) | [Nobo](https://open.spotify.com/album/32f8LFkYiCbedQhWjLiGtv) | 3:44 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 70 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
 | 71 | [No Time](https://open.spotify.com/track/3LDGbBBS3Pg9NIBIz531Zr) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Cané](https://open.spotify.com/artist/5fCEdL4vmhOgT1d4wNmfSZ) | [No Time](https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR) | 3:18 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDBlMDlkZGYzNjU0ODk3NzgwOGZkNWU3NTZiZjg4YjA2`
+Snapshot ID: `MTY2NjUwODUxNSwwMDAwMDAwMDM5ZjRkZTQyMTlmZjUzZTMyM2ZhMzUyYmE4OWIyOGI1`

@@ -4,7 +4,7 @@
 
 > Chestnuts roasting on an open fire..\. Timeless heart\-warming classics for the holiday season.
 
-86 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
+87 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-25 |  |
 | [Joy To The World](https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:24 | 2021-12-25 |  |
 | [Joy To The World](https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Christmas With Nat, Dean And Bing](https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z) | 1:25 | 2021-12-25 | 2022-07-29 |
-| [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-25 |  |
+| [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2022-10-23 |  |
+| [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-25 | 2022-10-24 |
 | [Let It Snow! Let It Snow! Let It Snow! \- 78rpm Version](https://open.spotify.com/track/4yV74JwUiz7YS59ReFtI3D) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs By Sinatra](https://open.spotify.com/album/5N2cLBuoG6WVu80LuTrUm5) | 2:35 | 2021-12-25 | 2022-07-29 |
 | [Linus And Lucy](https://open.spotify.com/track/33EcmYsTQVIGRGnGPOfTwu) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 3:04 | 2021-12-25 |  |
 | [Linus And Lucy](https://open.spotify.com/track/0MmNrhvLcoWjo7AOr0vgka) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 3:05 | 2021-12-25 | 2022-09-19 |

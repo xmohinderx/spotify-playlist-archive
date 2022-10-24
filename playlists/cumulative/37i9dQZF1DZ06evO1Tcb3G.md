@@ -4,7 +4,7 @@
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/6jrQNq1cx9gVBJzI5ViIZd)
+49 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/6jrQNq1cx9gVBJzI5ViIZd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Ghosts That We Knew](https://open.spotify.com/track/4ClTOGZc8kcb8l58Vx5z5A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:39 | 2022-09-16 | 2022-10-13 |
 | [Guiding Light](https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:37 | 2022-09-16 |  |
 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/2va7x2PRDMO8wRDvkK5hwV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9) | 4:04 | 2022-09-16 |  |
-| [Hopeless Wanderer](https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:07 | 2022-09-16 |  |
+| [Hopeless Wanderer](https://open.spotify.com/track/4dfLrcSJpjvoRlgkHZEqz1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 5:07 | 2022-10-24 |  |
+| [Hopeless Wanderer](https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:07 | 2022-09-16 | 2022-10-24 |
 | [Hurt \(Live from Werchter\)](https://open.spotify.com/track/7owiVG8UaTtTkcErdgyHet) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta Tour EP](https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB) | 4:59 | 2022-09-16 |  |
 | [I Will Wait](https://open.spotify.com/track/5PRRthP9SLfbXB359MfIWv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/5tFS6ENAcvCW1V8uKYuk5m) | 4:36 | 2022-09-16 |  |
 | [Learn Me Right](https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Indomable](https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx) | 3:45 | 2022-09-16 |  |

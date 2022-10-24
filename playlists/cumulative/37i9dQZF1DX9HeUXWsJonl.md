@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-94 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+95 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Netfakarna Sghar](https://open.spotify.com/track/70TSRrLk6BQmII9Er1EFTB) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Netfakarna Sghar](https://open.spotify.com/album/0Ts679QMb1TVqilC2gMmAl) | 4:00 | 2021-12-10 | 2022-07-29 |
 | [Njib El Money \(pablo Escobar\)](https://open.spotify.com/track/044YKRzKttKARlfjsHSbzF) | [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Njib El Money \(pablo Escobar\)](https://open.spotify.com/album/1Tu1cPyBT51plB72MoSSV1) | 3:03 | 2022-09-07 | 2022-09-13 |
 | [Njik Nzour](https://open.spotify.com/track/58oVWjYLjemAvRIIb2lDWS) | [Amon](https://open.spotify.com/artist/4nOP7DBb86tiEXS1NqQ2bw) | [Njik Nzour](https://open.spotify.com/album/3Cq4ZZHahM2IZNt2AnhaCo) | 3:18 | 2021-12-10 |  |
+| [Noum Elil](https://open.spotify.com/track/7D9vjMrVVF9cG2z4vB6SQY) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Rahal](https://open.spotify.com/album/3mif5AjUcXbVBQL3QLSP5Q) | 4:12 | 2022-10-23 |  |
 | [Nour Einya](https://open.spotify.com/track/4I2RsbFM6kjO0CrNsSG3CD) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Nour Einya](https://open.spotify.com/album/7olrz330h5TSKVwhjyP9BR) | 4:33 | 2021-12-10 | 2022-07-12 |
 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 | 2022-09-12 |  |
 | [Peace](https://open.spotify.com/track/4309E381wM4XchDUk4xgeg) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Peace](https://open.spotify.com/album/0gX0SYcp8QbxSIZNnRw3a4) | 4:00 | 2021-12-10 | 2022-07-12 |
@@ -99,7 +100,7 @@
 | [عروبية](https://open.spotify.com/track/11ypWG74HBSPJKIhkhJeFR) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2) | [عروبية](https://open.spotify.com/album/72QNAZfCUjvEhaXoOLFZSu) | 4:15 | 2022-09-07 |  |
 | [عشقك](https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [عشقك](https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF) | 2:53 | 2022-07-11 |  |
 | [مش بروحي](https://open.spotify.com/track/4d3dXSolGmXPrnTUyICqWO) | [Abn Salah](https://open.spotify.com/artist/0R4MMq6qbsLaTXh63wOMvD), [Vibe Entertainment Ly](https://open.spotify.com/artist/3Qt921zWIOKAGgML2n2Ljl) | [مش بروحي](https://open.spotify.com/album/45UyUIAgWzg5DxjiLblVwj) | 3:29 | 2022-09-14 | 2022-09-22 |
-| [هكا نعيش](https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7) | [Walid Salhi](https://open.spotify.com/artist/3eWsdDqacW8AmlYfonweYL) | [هكا نعيش](https://open.spotify.com/album/6VKkxrt6xSlztxBbkWeZtE) | 4:49 | 2022-09-07 |  |
+| [هكا نعيش](https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7) | [Walid Salhi](https://open.spotify.com/artist/3eWsdDqacW8AmlYfonweYL) | [هكا نعيش](https://open.spotify.com/album/6VKkxrt6xSlztxBbkWeZtE) | 4:49 | 2022-09-07 | 2022-10-24 |
 | [يا مالي البيت](https://open.spotify.com/track/28hkUg6xp4S4VIWw5jdqiq) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [يا مالي البيت](https://open.spotify.com/album/35K9946pjbcu35cfcBMEUk) | 3:19 | 2022-05-13 | 2022-08-30 |
 | [يامالي عليا](https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [يامالي عليا](https://open.spotify.com/album/4K6RK8yyrTiwFglvCHFt1p) | 3:44 | 2021-12-10 |  |
 

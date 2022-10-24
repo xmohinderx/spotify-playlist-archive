@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with SLANDER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,084 likes - 143 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,136 likes - 143 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

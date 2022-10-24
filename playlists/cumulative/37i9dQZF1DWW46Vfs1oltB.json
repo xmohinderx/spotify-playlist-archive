@@ -1756,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/6PdpK07kj9Uf5Bs2Xm0isj"
+      },
+      "artists": [
+        {
+          "name": "Jo Gwangil",
+          "url": "https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc"
+    },
+    {
+      "album": {
         "name": "BUM (feat. Chillin Homie & Kid Milli)",
         "url": "https://open.spotify.com/album/7w9mPTFLGn8yGp1CwKNEAO"
       },
@@ -2927,6 +2945,32 @@
       "duration_ms": 155555,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/73Za0sGW3USEZjoNrYX145"
+    },
+    {
+      "album": {
+        "name": "ICEBOX",
+        "url": "https://open.spotify.com/album/3BwNFpY7SMop2NmhaFrO41"
+      },
+      "artists": [
+        {
+          "name": "Ian Ka$h",
+          "url": "https://open.spotify.com/artist/0WlRUcYhuk4rkUm4zEpXu1"
+        },
+        {
+          "name": "viceversa",
+          "url": "https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Dickhead Freestyle (Feat. viceversa, Swings)",
+      "url": "https://open.spotify.com/track/7w8mE5b0EdpVplCnJKbwZX"
     },
     {
       "album": {
@@ -5139,6 +5183,36 @@
       "duration_ms": 196898,
       "name": "Grown up",
       "url": "https://open.spotify.com/track/0NSdT6BHyzK2hhUrxPKaCx"
+    },
+    {
+      "album": {
+        "name": "ICEBOX",
+        "url": "https://open.spotify.com/album/3BwNFpY7SMop2NmhaFrO41"
+      },
+      "artists": [
+        {
+          "name": "Ian Ka$h",
+          "url": "https://open.spotify.com/artist/0WlRUcYhuk4rkUm4zEpXu1"
+        },
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "Chillin Homie",
+          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "GTFO (Feat. Fleeky Bang, Chillin Homie, Don Mills)",
+      "url": "https://open.spotify.com/track/5alVBQh4nG77utmREaP7hT"
     },
     {
       "album": {

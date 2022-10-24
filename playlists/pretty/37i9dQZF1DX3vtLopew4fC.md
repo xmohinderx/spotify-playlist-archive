@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,521 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,519 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 8 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 |
 | 9 | [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 |
 | 10 | [ICE QUEEN](https://open.spotify.com/track/0ubRt9HAgPeXN7faPOkh4Q) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [ICE QUEEN](https://open.spotify.com/album/7q4Z8U8I6nRu2oFR22rskG) | 2:24 |
-| 11 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 |
+| 11 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 |
 | 12 | [Many Men \- Spotify Singles](https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:36 |
 | 13 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 | 14 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Heavy](https://open.spotify.com/track/7q0MPwF6ORiKJWXLYGAhsH) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:07 |
 | 50 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
 
-Snapshot ID: `MTY2NTU4OTY4NSwwMDAwMDAwMDRkMTU4OTJiODYwNzkwNDBjNTY0YTQ0NjdkOTdlYmJm`
+Snapshot ID: `MTY2NTU4OTY4NSwwMDAwMDAwMDkyZTQzMDQwYzkzOWIzNWQ1ZDkzOGVhNGQ3NWE1MDM4`

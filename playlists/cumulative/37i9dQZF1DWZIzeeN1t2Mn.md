@@ -4,7 +4,7 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-70 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
+71 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 | 2020-06-17 |  |
 | [Body in Motion](https://open.spotify.com/track/11xpBwmHDLUb8luVNFfQex) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 3:41 | 2020-06-17 |  |
 | [Body In Motion](https://open.spotify.com/track/7srkcblVXjo60Clqk9lywq) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/2X5598poSfDQ3B0YRytfgf) | 3:41 | 2020-06-17 | 2022-07-29 |
-| [Bury Me](https://open.spotify.com/track/4QDiWSoFqt8u2WZRA5CSU8) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/6OTdYz0uSfO86gJHpSlXKL) | 3:45 | 2020-06-17 |  |
+| [Bury Me](https://open.spotify.com/track/4QDiWSoFqt8u2WZRA5CSU8) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/6OTdYz0uSfO86gJHpSlXKL) | 3:45 | 2020-06-17 | 2022-10-24 |
+| [Bury Me](https://open.spotify.com/track/5wXM3N6mZVKY1KogR8aj8x) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/4TxEIUXckIIuvTT1UPCsKy) | 3:45 | 2020-06-17 |  |
 | [Cast Your Cares](https://open.spotify.com/track/7LL4WNn25gRttBo33fNULY) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Hands Are Made for Working](https://open.spotify.com/album/4c3cNKOMgMHeZJcD6Q03JO) | 5:35 | 2020-06-17 |  |
 | [Chill Pill \(Experiment 2\)](https://open.spotify.com/track/1HD1bASivIYv2EzAnQUem3) | [Hawk House](https://open.spotify.com/artist/0ot8XpQrZOe4nHZ6EMJHJ9) | [A Handshake To The Brain](https://open.spotify.com/album/7m7U6WAMkNHREaon3KeABY) | 3:32 | 2020-06-17 | 2022-07-29 |
 | [Chill Pill \(Experiment 2\)](https://open.spotify.com/track/5DmZvacVjbIbldPDYl3J26) | [Hawk House](https://open.spotify.com/artist/0ot8XpQrZOe4nHZ6EMJHJ9) | [A Handshake To The Brain](https://open.spotify.com/album/13nel2sv4uGInxb1qlds78) | 3:32 | 2020-06-17 |  |

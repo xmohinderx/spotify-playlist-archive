@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "\u5fc3\u81d3",
+        "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Dance with me",
+      "url": "https://open.spotify.com/track/1G48etb0pwMYpqlCVpM955"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30ea\u30b9",
         "url": "https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 217880,
       "name": "Raspberry Moon",
       "url": "https://open.spotify.com/track/1UksXs7fzQh4CcpaknzGXH"

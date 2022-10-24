@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Tis the season! All new holiday releases. Cover: Elton John & Ed Sheeran",
+  "description": "'Tis the season! All new holiday releases. Cover: Backstreet Boys",
   "name": "New Music Holiday",
   "published_playlist_ids": [
     "5LfWH4HC2jeu9j5xLz96yV"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 210882,
       "name": "A Christmas To Remember",
       "url": "https://open.spotify.com/track/6hvBmhDifLf4D2c7un98hi"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 228860,
       "name": "Bring on Christmas Day",
       "url": "https://open.spotify.com/track/4aBOiLLaZesaTEYPItY8A9"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 200502,
       "name": "Christmas",
       "url": "https://open.spotify.com/track/3UGqwSBKsqP5SqJIFnDSzy"
@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Christmas All Over Again",
+        "url": "https://open.spotify.com/album/6k2tmcgtBZh7Haf1yGOUSP"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181350,
+      "name": "Christmas All Over Again",
+      "url": "https://open.spotify.com/track/6Y47JOcU3IQSDtblqdAuda"
+    },
+    {
+      "album": {
         "name": "Christmas All Over The World",
         "url": "https://open.spotify.com/album/7FSO75sI5gwkJGZyXK0aVM"
       },
@@ -385,7 +403,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 200461,
       "name": "Christmas Calling (Jolly Jones)",
       "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 209507,
       "name": "Christmas Dance",
       "url": "https://open.spotify.com/track/00S1YMEXSav5LsxIF6sZZD"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 231549,
       "name": "Christmas Isn't Canceled (Just You)",
       "url": "https://open.spotify.com/track/4zHDuDQx8dcWVmVVtyIzRO"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 249853,
       "name": "Favorite Tings",
       "url": "https://open.spotify.com/track/48w7HvN7eiCX2vrc82M2KU"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 211346,
       "name": "For You (Holiday Remix) - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
@@ -993,10 +1011,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 198279,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt"
+    },
+    {
+      "album": {
+        "name": "Winterlicious",
+        "url": "https://open.spotify.com/album/6ADILx1y6wM0CryTlqIKlv"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/6kVmzSme4v5p1I2IgeOlWU"
     },
     {
       "album": {
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 187638,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/3iGFoeKxEw4iJEZ852Xtnx"
@@ -1559,7 +1595,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
@@ -1766,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "It's Christmastime",
+        "url": "https://open.spotify.com/album/5ERy83u8h7P6BppwtG0rCZ"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "It's Christmastime",
+      "url": "https://open.spotify.com/track/3HpjbC0AWdWjXrMDG88SsM"
+    },
+    {
+      "album": {
         "name": "It's the Most Wonderful Time of the Year",
         "url": "https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc"
       },
@@ -1777,7 +1831,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 177108,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
@@ -1799,6 +1853,24 @@
       "duration_ms": 205117,
       "name": "It's the Most Wonderful Time of the Year - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, Y\u2019all",
+        "url": "https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141586,
+      "name": "It\u2019s Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw"
     },
     {
       "album": {
@@ -1867,7 +1939,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 116677,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0tTwVivY5U4GxlnTT5vxNb"
@@ -1954,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "Just Me This Year",
+        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
+    },
+    {
+      "album": {
         "name": "Keeping Christmas Classy",
         "url": "https://open.spotify.com/album/5HQD7BYmIrH77vuQvFCWxU"
       },
@@ -2027,7 +2117,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 144456,
       "name": "Krampus",
       "url": "https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf"
@@ -2099,7 +2189,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 159629,
       "name": "Let It Snow! - 10th Anniversary",
       "url": "https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz"
@@ -2277,7 +2367,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 314546,
       "name": "Merry Christmas Baby [with Keb' Mo']",
       "url": "https://open.spotify.com/track/1H62J4ULsAQ7WIGmI4bcC2"
@@ -2357,6 +2447,24 @@
       "duration_ms": 141972,
       "name": "Messed Up On Christmas",
       "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
+    },
+    {
+      "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/3iElV1aXLlk9k26SHtzUco"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231613,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l"
     },
     {
       "album": {
@@ -2486,6 +2594,24 @@
     },
     {
       "album": {
+        "name": "I Dream Of Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5"
+    },
+    {
+      "album": {
         "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
         "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
       },
@@ -2501,7 +2627,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 185280,
       "name": "O Holy Night (duet with Calum Scott)",
       "url": "https://open.spotify.com/track/6uVIFU7TaQ9MA2CNNQdgTp"
@@ -2729,10 +2855,28 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 149573,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/03yVoDvmEN4eWzJjI2SqlJ"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Comin\u2019 To Town",
+        "url": "https://open.spotify.com/album/1WwXf2YyHyN5kdHxjMVKOe"
+      },
+      "artists": [
+        {
+          "name": "Lauren Weintraub",
+          "url": "https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161785,
+      "name": "Santa Claus Is Comin\u2019 To Town",
+      "url": "https://open.spotify.com/track/56NwAqyAAD9yJ2gn2W1dvO"
     },
     {
       "album": {
@@ -3095,7 +3239,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 210026,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire) (duet with John Legend)",
       "url": "https://open.spotify.com/track/1O9ML3Bv8XvQ3xWUVL0jj7"
@@ -3153,6 +3297,32 @@
       "duration_ms": 216160,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/7JtmuEVASuB41vjs5OkZ09"
+    },
+    {
+      "album": {
+        "name": "A Family Christmas",
+        "url": "https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/6GBYT0dqkba3xaXS5BkPKE"
     },
     {
       "album": {
@@ -3395,6 +3565,24 @@
       "duration_ms": 165956,
       "name": "Tis The Season",
       "url": "https://open.spotify.com/track/1FyYqRWeCWiO5jfY2BiGvs"
+    },
+    {
+      "album": {
+        "name": "two christmases",
+        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
+      },
+      "artists": [
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142658,
+      "name": "two christmases",
+      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
     },
     {
       "album": {
@@ -3739,6 +3927,24 @@
       "duration_ms": 198626,
       "name": "You Deserve It All",
       "url": "https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd"
+    },
+    {
+      "album": {
+        "name": "You're a Mean One, Mr. Grinch",
+        "url": "https://open.spotify.com/album/24dsAqvKwTszZNu8SvDT3m"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139065,
+      "name": "You're a Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/14jBrACMWokYaK1qMyznP5"
     },
     {
       "album": {

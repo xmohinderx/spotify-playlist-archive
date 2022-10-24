@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-334 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
+335 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/track/3tHm0NnzLiQsaMUkJNcAij) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/album/18JkYWC5jB0R8GuaROnv0R) | 2:58 | 2021-09-02 | 2022-06-25 |
 | [Hold On](https://open.spotify.com/track/03i4lR6ZZo0214WhmrE8t9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Hold On](https://open.spotify.com/album/6oFeA7Pda0jOC7jVNIAp9k) | 3:09 | 2021-09-02 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/5qDsijQM75KTdv3RtSPx91) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:09 | 2022-06-24 |  |
-| [HOME](https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:54 | 2022-06-24 |  |
+| [HOME](https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:54 | 2022-06-24 | 2022-10-24 |
+| [HOME](https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:54 | 2022-09-02 |  |
 | [Hot \(feat\. Gunna\)](https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:13 | 2021-09-02 |  |
 | [Hot Boy Bling \(feat\. Jack Harlow & Lil Durk\)](https://open.spotify.com/track/3qTHxCUwefoOR0jiwCRcQN) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CB5](https://open.spotify.com/album/2mTRsFeFo7zou6PWFLT03v) | 3:00 | 2021-09-02 |  |
 | [Hot Shower](https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 3:45 | 2021-09-02 | 2022-06-24 |

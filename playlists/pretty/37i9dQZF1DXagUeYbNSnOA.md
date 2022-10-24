@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,300 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,290 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

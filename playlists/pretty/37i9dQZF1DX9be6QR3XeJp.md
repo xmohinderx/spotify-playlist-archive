@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: piri & tommy
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,298 likes - 129 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,290 likes - 129 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

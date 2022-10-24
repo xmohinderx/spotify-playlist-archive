@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: emlyn, Paty B, Avenoir, Blondshell
 
-2,544 songs - 5 day 19 hr 45 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
+2,545 songs - 5 day 19 hr 48 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1700,7 +1700,8 @@
 | [Peaked in High School](https://open.spotify.com/track/0iuo9ILD4Wc17e3fytZxS7) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Peaked in High School](https://open.spotify.com/album/0KVApYeZKlPebizwZOxt9m) | 3:24 | 2022-08-31 | 2022-09-09 |
 | [Pearls](https://open.spotify.com/track/2JqNbfLcvxTD3hSOkJ8Wtk) | [obviouslydan](https://open.spotify.com/artist/0fGywSoYx01FmWSEronsE7) | [Pearls](https://open.spotify.com/album/7aCiTw0bPYFxniRlA6pu88) | 3:44 | 2022-07-20 | 2022-07-28 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-25 | 2022-06-09 |
-| [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 | 2022-10-21 |  |
+| [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 | 2022-10-21 | 2022-10-24 |
+| [Penthouse](https://open.spotify.com/track/1e3jS5O9vxsLiHiL5SBU71) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/15M4bcl7Q4CSWkqIuX1ydt) | 2:24 | 2022-10-21 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 | 2022-10-21 |  |
 | [peon](https://open.spotify.com/track/2pRIFvnmGp8swkjRKmL9H6) | [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E) | [peon](https://open.spotify.com/album/5SAq4DdwbqQkt2bNNqpOsr) | 3:42 | 2021-12-08 | 2022-01-13 |
 | [People Pleaser](https://open.spotify.com/track/7eIVtnxGiX62VZ537vGkZo) | [Bruce Wiegner](https://open.spotify.com/artist/02mmPJCzXVNykiTwDgD5Pu) | [People Pleaser](https://open.spotify.com/album/5EPmANLLXR7OQtAwt1NKE6) | 2:35 | 2022-06-15 | 2022-06-30 |

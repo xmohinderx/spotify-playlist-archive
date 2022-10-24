@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > Music to get fly to\. Cover: Thom Browne SS 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,369 likes - 108 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,318 likes - 108 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

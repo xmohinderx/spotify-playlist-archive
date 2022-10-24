@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,033 likes - 173 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,093 likes - 173 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

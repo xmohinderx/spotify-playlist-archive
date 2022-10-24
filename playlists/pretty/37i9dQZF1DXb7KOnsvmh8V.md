@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,453 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,542 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

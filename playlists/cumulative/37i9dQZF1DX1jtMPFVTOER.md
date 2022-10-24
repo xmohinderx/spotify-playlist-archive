@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: José James
 
-333 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
+334 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Violets \(feat\. Phonte\)](https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:23 | 2021-11-12 | 2022-05-14 |
 | [waiting all night \- A.N.T.E Remix A.N.T.E Remix](https://open.spotify.com/track/1Lqe4dwE7iDeDxkMrbdhoS) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS), [A.N.T.E](https://open.spotify.com/artist/62G9dKWmB3RwMAhr3UHTR8) | [waiting all night \(A.N.T.E Remix A.N.T.E Remix\)](https://open.spotify.com/album/0emU9w3sqbPKGEw5Jtg0Ea) | 2:09 | 2022-06-03 |  |
 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 | 2022-10-14 |  |
-| [Watching Me](https://open.spotify.com/track/3xY1Aje8Jkur905F4XKgTx) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Watching Me / Energy](https://open.spotify.com/album/0niOnhlSQAnnTuqIQDvBcu) | 4:10 | 2022-09-16 |  |
+| [Watching Me](https://open.spotify.com/track/3xY1Aje8Jkur905F4XKgTx) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Watching Me / Energy](https://open.spotify.com/album/0niOnhlSQAnnTuqIQDvBcu) | 4:10 | 2022-09-16 | 2022-10-24 |
+| [Watching Me](https://open.spotify.com/track/6JCRy8Y7toRZknPCH3xcqG) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 4:10 | 2022-09-16 |  |
 | [Way Out](https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl) | 3:20 | 2022-04-29 | 2022-07-29 |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-04-29 |  |
 | [We Good](https://open.spotify.com/track/0lDV0fFZoExtkbPPSAXWea) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Exchange](https://open.spotify.com/album/41oWMEufnbwHM97tHMotox) | 2:52 | 2021-11-12 | 2022-05-28 |

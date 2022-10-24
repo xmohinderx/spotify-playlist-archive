@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6L0IFMoxZABDTeTkmPaFPR)
+68 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/6L0IFMoxZABDTeTkmPaFPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 | 2022-06-01 |  |
 | [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 | 2022-07-26 |  |
 | [El Gabito \(En Vivo\)](https://open.spotify.com/track/2KlWJQJY4iQ0wacmBrBFdj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gabito \(En Vivo\)](https://open.spotify.com/album/1oWBe0hMfCUMrr1PgH4mDo) | 3:17 | 2022-06-01 | 2022-10-13 |
+| [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2022-10-24 |  |
 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 | 2022-06-01 |  |
 | [El Güero \(En Vivo\)](https://open.spotify.com/track/15J0GGYsaeGj0jyoGXPKXY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Güero \(En Vivo\)](https://open.spotify.com/album/4X4D0S2WG2GGTSFi7mJ9TZ) | 2:15 | 2022-06-01 | 2022-10-16 |
 | [El H \(En Vivo\)](https://open.spotify.com/track/6053Is00EA36bQRzjvairQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Pisteando Con Amigos \(En Vivo\)](https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU) | 3:00 | 2022-06-01 |  |
@@ -54,7 +55,7 @@
 | [Los Pajaros \(En Vivo\)](https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Los Pajaros \(En Vivo\)](https://open.spotify.com/album/3V1HnCC6js35Pw7NFctA6Y) | 2:31 | 2022-08-09 | 2022-08-11 |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2022-06-01 |  |
 | [Me Veran Relajado](https://open.spotify.com/track/4rNCNL3SaHHDe77U7gMez1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup) | [Me Veran Relajado](https://open.spotify.com/album/3IOA8hIuW1vRN4qA5lIvGl) | 3:22 | 2022-10-05 | 2022-10-08 |
-| [No Le Busquen \(JG\)](https://open.spotify.com/track/2VaY5MqPffz37MMmjSH3iK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:18 | 2022-06-01 |  |
+| [No Le Busquen \(JG\)](https://open.spotify.com/track/2VaY5MqPffz37MMmjSH3iK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:18 | 2022-06-01 | 2022-10-24 |
 | [No Se Vallan Por Los Mitotes](https://open.spotify.com/track/1sQJkxf5nPTs2gEcr7YaUl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:05 | 2022-06-01 | 2022-10-13 |
 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 | 2022-06-01 |  |
 | [Para Que Regreses \(En Vivo\)](https://open.spotify.com/track/0NkmRK1su043rBIUrr6HDe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Para Que Regreses \(En Vivo\)](https://open.spotify.com/album/0GZFCSHYZCxmSDDMpI3wn8) | 2:41 | 2022-06-03 | 2022-07-03 |

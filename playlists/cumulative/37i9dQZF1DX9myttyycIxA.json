@@ -719,10 +719,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 231929,
       "name": "atonement",
       "url": "https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu"
+    },
+    {
+      "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231929,
+      "name": "atonement",
+      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
     },
     {
       "album": {
@@ -7018,6 +7040,24 @@
     },
     {
       "album": {
+        "name": "liminal spaces",
+        "url": "https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125830,
+      "name": "lust",
+      "url": "https://open.spotify.com/track/4Glfjo6o4dPmRLRi5HKYdf"
+    },
+    {
+      "album": {
         "name": "lust",
         "url": "https://open.spotify.com/album/5UVCryBuK6Pv0IilUHXqL0"
       },
@@ -7047,7 +7087,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 125830,
       "name": "lust",
       "url": "https://open.spotify.com/track/5cGcuoicAC9mVHiey0i0NM"

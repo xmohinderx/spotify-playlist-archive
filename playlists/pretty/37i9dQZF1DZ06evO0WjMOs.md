@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,853 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,874 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 29 | [Dancing Queen](https://open.spotify.com/track/1dHbjQmKlr15e6xP7VDfWi) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Dancing Queen](https://open.spotify.com/album/7kPywVWHVzRTrlzPMXFIWq) | 3:05 |
 | 30 | [When The World Stopped Moving](https://open.spotify.com/track/5UIHXjP6OYHXJdnnNKmAHX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV) | 3:14 |
 
-Snapshot ID: `Mjc3NzQyMDAsMDAwMDAwMDBlMWIyYzAwNWY4M2I0MDNkZDhiNzdiMGZjYWU0OTA3YQ==`
+Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBlYjUyMDFlNDY3MjE3OTZlYjRmM2M4MDc4ODJmYTFlYw==`

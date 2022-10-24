@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Taylor Swift, Arctic Monkeys, Lil Uzi Vert, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,974,170 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,974,582 likes - 98 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 54 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 |
 | 55 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 |
 | 56 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 |
-| 57 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [No Cap](https://open.spotify.com/artist/74hNwjwN0bzYcLODzb3nLs) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:19 |
+| 57 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:19 |
 | 58 | [Breaking Point](https://open.spotify.com/track/4MuURuXNnHsh5ybOYDBVak) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Breaking Point](https://open.spotify.com/album/7DLx088BMfXhRCvL6P7g6I) | 2:18 |
 | 59 | [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 |
 | 60 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 75 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 | 76 | [Pangaea \(with blackbear\)](https://open.spotify.com/track/6zYJeYNqyZvwlMNSeOP64Q) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Pangaea \(with blackbear\)](https://open.spotify.com/album/3shwqKaPqDxZnhlrv7Fte8) | 2:21 |
 | 77 | [I Do](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
-| 78 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
+| 78 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 79 | [Aang](https://open.spotify.com/track/1Tq22UsA5ThihqbZvustnR) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [Aang](https://open.spotify.com/album/0sNMiAQZPMUH6s97XSLSui) | 3:01 |
 | 80 | [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 |
 | 81 | [Always](https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Always](https://open.spotify.com/album/4JPTBzG9A9HqkS0dscsM6H) | 2:52 |

@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "14 Year Old Me",
+        "url": "https://open.spotify.com/album/30OWSNKICd1uTJBqAuRylQ"
+      },
+      "artists": [
+        {
+          "name": "K Anderson",
+          "url": "https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199803,
+      "name": "14 Year Old Me",
+      "url": "https://open.spotify.com/track/2evjAEtY3HsI3DLKzbkI9y"
+    },
+    {
+      "album": {
+        "name": "14 Year Old Me",
         "url": "https://open.spotify.com/album/5oY4oozC9s6StQYjrblb9L"
       },
       "artists": [
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 199803,
       "name": "14 Year Old Me",
       "url": "https://open.spotify.com/track/48jBzw9xQyddW036qQsREk"

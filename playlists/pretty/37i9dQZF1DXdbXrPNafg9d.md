@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,193 likes - 173 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,351 likes - 173 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 141 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 |
 | 142 | [Relax and Run \(feat\. Erika de Casier & Eva Tolkin\)](https://open.spotify.com/track/5s3mhLIMAUxDeTELjS8gVT) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Eva Tolkin](https://open.spotify.com/artist/3Vo834c5EcKKZfy5ZvaP5I) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:04 |
 | 143 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
-| 144 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 |
+| 144 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 |
 | 145 | [Someone Like You](https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ) | 4:32 |
 | 146 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 147 | [Eggshells](https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Eggshells](https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN) | 2:31 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 172 | [Run The Credits](https://open.spotify.com/track/03vgK21xN1rnN2WbSY2txK) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Run The Credits](https://open.spotify.com/album/1AYmvWV0JLTdgNMAxngkGy) | 4:21 |
 | 173 | [Half Life](https://open.spotify.com/track/5Gn8dr5NrwoxtCQhs6WO9v) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Half Life](https://open.spotify.com/album/7g5yKklmczUfA3pEuNjnrE) | 3:47 |
 
-Snapshot ID: `MTY2NjMzODk5MiwwMDAwMDAwMDhkOGIzMjA0MWY0NGRjY2Q1MDA1ZTRiNjk3MGI5ZGJk`
+Snapshot ID: `MTY2NjMzODk5MiwwMDAwMDAwMDIyNzY5OGNhYzM5ZDhiMjAwMmZiZDExM2ViMjNiYTM4`

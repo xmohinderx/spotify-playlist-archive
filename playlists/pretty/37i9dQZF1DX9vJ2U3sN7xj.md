@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 
 > nos fuimos de fiesta 🎉 <br/>Cover: Don Omar
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,508 likes - 120 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,535 likes - 120 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

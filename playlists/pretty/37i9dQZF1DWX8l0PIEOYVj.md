@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: HALIENE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,780 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,856 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 3 | [Infinity](https://open.spotify.com/track/5wYHPCDZjhEYbbehpjmk2J) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [The Way Through](https://open.spotify.com/album/2dh7RwbawwT2hjgWW6PC9u) | 4:36 |
 | 4 | [Diamonds](https://open.spotify.com/track/5fysRiR2y8RkSSqj9SjAuL) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Diamonds](https://open.spotify.com/album/4HFJTH30eKuikl7GaQrIcq) | 4:24 |
 | 5 | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA) | 3:25 |
-| 6 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 |
+| 6 | [Colors \(with Eyelar\)](https://open.spotify.com/track/04ByQsyzXGuHYiUGBenErh) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(feat\. Eyelar\) \[Remixes\]](https://open.spotify.com/album/3ji2WEKdHvckf3bG8CMnpT) | 3:51 |
 | 7 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 |
 | 8 | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/album/3VH8ly1obBbFxSJodod4eD) | 4:13 |
 | 9 | [It's Not Too Late](https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 4:34 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Start Over \(feat\. Danni Carra\)](https://open.spotify.com/track/789tQuKCnSNj9ekKbLnEc2) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Somewhere In Between EP](https://open.spotify.com/album/2bnNcIyUBsgGGVI2EWSPY7) | 4:10 |
 | 150 | [Flare](https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Mirrors](https://open.spotify.com/album/6rPIY9dx2jNh9VFsX86ErA) | 3:10 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDE1YWVmOWYyYmYzMzMyNWY1NmY2MTdjODQ3MTNlNzk0`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGJlZjU0ZGQyZDNhNDY0MWUxNzA4YmFlZTZhMDliYjIy`

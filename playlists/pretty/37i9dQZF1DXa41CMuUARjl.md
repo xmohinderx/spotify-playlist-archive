@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Lastlings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,421 likes - 101 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,514 likes - 101 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 11 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 |
 | 12 | [Believe In Love](https://open.spotify.com/track/56GN8iXX2Hvx2Duorz0Xri) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Believe In Love](https://open.spotify.com/album/2Z0DgrB0MxcO3I6oElw8C9) | 3:35 |
 | 13 | [Move](https://open.spotify.com/track/0DTRPo8y1AYs8AsueVu1FP) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [Move](https://open.spotify.com/album/2TsZWIgZEkp1VoVYnCxDwc) | 2:23 |
-| 14 | [Breathe \- Original Mix](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 |
+| 14 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 |
 | 15 | [Timelapse](https://open.spotify.com/track/2ivnsOi3RcEbskFvTS9zt3) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 8:13 |
 | 16 | [Deep In Your Heart](https://open.spotify.com/track/4aWzNzb2VXhqQw491l9yB1) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Deep In Your Heart](https://open.spotify.com/album/6wCnIDSFu2IlfLWu5B0L0u) | 2:34 |
 | 17 | [Don’t Walk Away](https://open.spotify.com/track/2TNkWEQkEj1ksOydBwurwF) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Don’t Walk Away](https://open.spotify.com/album/3YnMECirAZJqx2e40IiEC2) | 2:33 |

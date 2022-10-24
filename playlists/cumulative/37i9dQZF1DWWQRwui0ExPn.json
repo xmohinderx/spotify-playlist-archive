@@ -79789,10 +79789,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 202072,
       "name": "yugatu",
       "url": "https://open.spotify.com/track/3eq5UzNAoGMdns6JayLaZg"
+    },
+    {
+      "album": {
+        "name": "ripple room",
+        "url": "https://open.spotify.com/album/012HxPEZF8LcbBHmu9HdT5"
+      },
+      "artists": [
+        {
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202072,
+      "name": "yugatu",
+      "url": "https://open.spotify.com/track/7Im8ZwdtOa8brvg6sreL0w"
     },
     {
       "album": {

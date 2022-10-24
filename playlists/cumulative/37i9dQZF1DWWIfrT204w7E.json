@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Drill scenes connect. Cover: Black Sherif",
+  "description": "Drill scenes connect. Cover: Central Cee",
   "name": "City to City",
   "published_playlist_ids": [
     "7CePQXk9T7nhNQbo5PKUkn"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 228251,
       "name": "30 (feat. Bizzy Banks)",
       "url": "https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ"
@@ -5464,6 +5464,24 @@
     },
     {
       "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "album": {
         "name": "Only You Freestyle",
         "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
       },
@@ -5859,6 +5877,28 @@
       "duration_ms": 124982,
       "name": "PINOCCHIO",
       "url": "https://open.spotify.com/track/5GO45r4u84nc3QvdoVw4YP"
+    },
+    {
+      "album": {
+        "name": "Pisces (feat. Krept & Konan)",
+        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Pisces (feat. Krept & Konan)",
+      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
     },
     {
       "album": {
@@ -7245,7 +7285,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 148000,
       "name": "Talk To Me Nice",
       "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"

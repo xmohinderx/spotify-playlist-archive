@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-109 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+110 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aachk El Memnou3](https://open.spotify.com/track/5eqd75kv4vAPQdvZ7RJTJb) | [Cheb Akil](https://open.spotify.com/artist/5zhdzKcrjPbWWcFIwfhSqw) | [Raï RnB 2013](https://open.spotify.com/album/1L08FkHFD7tIsXVxy0kF7u) | 4:04 | 2021-10-19 |  |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 | 2022-07-29 |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0TZ6DTWepaTh3yniKcaNYz) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:15 | 2022-05-11 | 2022-08-25 |
-| [Alach ana manansach](https://open.spotify.com/track/65rxGidLak2RsVEl2vkMAM) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Alach ana manansach](https://open.spotify.com/album/2bOKrFNEjE5BZUaba94RyW) | 6:40 | 2022-09-20 |  |
+| [Alach ana manansach](https://open.spotify.com/track/65rxGidLak2RsVEl2vkMAM) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Alach ana manansach](https://open.spotify.com/album/2bOKrFNEjE5BZUaba94RyW) | 6:40 | 2022-09-20 | 2022-10-24 |
 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 | 2021-10-19 |  |
 | [Amoune talens zahri win w ana win](https://open.spotify.com/track/5CLJ2AUPt5FEehRBKlaP2I) | [Chiheb Records](https://open.spotify.com/artist/1BzNuIZWSLjzzSGdhrAVzE) | [Amoune talens zahri win w ana win](https://open.spotify.com/album/1lBG8SHriKycg8252UOGX3) | 3:05 | 2022-09-08 | 2022-09-20 |
 | [Amour éternel](https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Amour éternel](https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0) | 5:02 | 2022-08-28 | 2022-09-21 |
@@ -64,6 +64,7 @@
 | [Khrajtili Contra](https://open.spotify.com/track/3E57drIDddFObDyBhY057V) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Khrajtili Contra](https://open.spotify.com/album/0kQZFAGnInhVLDMcXTehqs) | 4:17 | 2021-10-19 | 2022-09-21 |
 | [Ki L3ada](https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Ki L3ada](https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd) | 3:45 | 2022-08-31 | 2022-09-06 |
 | [kima dir ndir](https://open.spotify.com/track/15bx2Uh9lxEIysIk5SDlV6) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [kima dir ndir](https://open.spotify.com/album/5W9y9LYQ7LTLaSW6TYiDns) | 5:30 | 2022-09-20 |  |
+| [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 | 2022-10-23 |  |
 | [Labset Katifa](https://open.spotify.com/track/57V60lq7u17cQVU2IFj0zT) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina & Fares Chaoui](https://open.spotify.com/artist/1wK0uONYm86jWiHVFDIxuF) | [Labset Katifa](https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD) | 5:22 | 2022-09-20 | 2022-09-28 |
 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 |  |
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 |  |

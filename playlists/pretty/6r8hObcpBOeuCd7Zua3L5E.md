@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 24,120 likes - 50 songs - 2 hr 8 min
+[Digster](https://open.spotify.com/user/digster.fm) - 24,119 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 | 18 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 |
 | 19 | [DIVE IN! \- SPED UP!](https://open.spotify.com/track/1I3DclkIlscxB8FjPpocCI) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN! \(SPED UP! / SLOWED REVERB!\)](https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP) | 1:20 |
 | 20 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 |
-| 21 | [Teenage Dirtbag \- Sped Up](https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag \(Sped Up\)](https://open.spotify.com/album/3MJwPSoCnSfeuoZKHu4PCO) | 3:21 |
+| 21 | [Teenage Dirtbag \- Sped Up](https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Teenage Dirtbag \(Sped Up\)](https://open.spotify.com/album/3MJwPSoCnSfeuoZKHu4PCO) | 3:21 |
 | 22 | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \- Sped Up Version](https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \[Sped Up Version\]](https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r) | 2:15 |
 | 23 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 |
 | 24 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 |

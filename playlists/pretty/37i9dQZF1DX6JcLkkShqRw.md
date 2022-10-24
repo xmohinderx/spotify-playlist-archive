@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Cris Mj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,395 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,579 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

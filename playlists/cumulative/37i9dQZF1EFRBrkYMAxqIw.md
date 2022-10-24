@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-78 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
+79 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Masochistic](https://open.spotify.com/track/56o8wi8BFSpeW1m8TRcQUJ) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Masochistic](https://open.spotify.com/album/4gqoXId2ShFtzrx2YUUmA8) | 2:40 | 2022-05-25 |  |
 | [Miss You Everyday](https://open.spotify.com/track/2UijtofYLPpDsqJLOXxANZ) | [Trackhead](https://open.spotify.com/artist/5TUQR9SiumLYwagBKWNoEu) | [Miss You Everyday](https://open.spotify.com/album/6A2G528TCQNZMH2VaY0RUS) | 2:40 | 2022-05-25 |  |
 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 | 2022-05-25 |  |
+| [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 | 2022-10-23 |  |
 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 | 2022-05-25 |  |
 | [Oblivion \(feat\. Amber Van Day\)](https://open.spotify.com/track/3HNs1UAn7OZQiby7DXTIYl) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion \(feat\. Amber Van Day\)](https://open.spotify.com/album/4xG7w6o7w2ah1W2a3tPgaV) | 3:12 | 2022-05-25 |  |
 | [On My Way](https://open.spotify.com/track/1hkM6wr47hVWSEK6EY4nAl) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [On My Way](https://open.spotify.com/album/5mG78aHvHhVs0KR7FYK3vv) | 3:01 | 2022-05-25 | 2022-06-12 |

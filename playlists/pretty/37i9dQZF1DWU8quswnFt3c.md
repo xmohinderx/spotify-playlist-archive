@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,905 likes - 71 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,882 likes - 71 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

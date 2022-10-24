@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0RiCMVj1fDLgP3TQwhgent)
+71 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/0RiCMVj1fDLgP3TQwhgent)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [CaCO](https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 5:11 | 2022-08-23 |  |
 | [CaCO \-Instrumental](https://open.spotify.com/track/58H90Fan0uwDxquVbZ6yFK) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 5:10 | 2022-08-27 | 2022-10-13 |
 | [Close Friend](https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アクセンティア](https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo) | 4:29 | 2022-06-09 |  |
+| [Dance with me](https://open.spotify.com/track/1G48etb0pwMYpqlCVpM955) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:48 | 2022-10-24 |  |
 | [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 | 2022-06-09 |  |
 | [dear brightness](https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [INNOCENCE](https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI) | 4:39 | 2022-06-09 | 2022-10-12 |
 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 | 2022-10-21 |  |
@@ -35,7 +36,7 @@
 | [MEMORIA orchestra ver.](https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:29 | 2022-06-09 |  |
 | [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 | 2022-06-09 |  |
 | [Rainy Day](https://open.spotify.com/track/14lEsLLwniuLalb1G8Brpu) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Best \- A](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:34 | 2022-06-11 | 2022-07-20 |
-| [Raspberry Moon](https://open.spotify.com/track/1UksXs7fzQh4CcpaknzGXH) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ツナガルオモイ](https://open.spotify.com/album/5hnBLFUkkZQhquwedJ2tFZ) | 3:37 | 2022-06-09 |  |
+| [Raspberry Moon](https://open.spotify.com/track/1UksXs7fzQh4CcpaknzGXH) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ツナガルオモイ](https://open.spotify.com/album/5hnBLFUkkZQhquwedJ2tFZ) | 3:37 | 2022-06-09 | 2022-10-24 |
 | [Resonance](https://open.spotify.com/track/7p5NnU5fSHo52LaVEkFH6O) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:27 | 2022-08-31 |  |
 | [Rosoku metronome](https://open.spotify.com/track/0b3Zn6LJsLJ8H6MpUI7IXz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER special edition](https://open.spotify.com/album/6YzzWuOx0NtLffVP3UA521) | 4:22 | 2022-06-11 | 2022-07-19 |
 | [SINGULARITY](https://open.spotify.com/track/0SD34sXHsm29Gm637omcuA) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:42 | 2022-06-11 |  |

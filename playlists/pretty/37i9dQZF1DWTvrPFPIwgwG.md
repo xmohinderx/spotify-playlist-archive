@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Claudio Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,532 likes - 85 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,543 likes - 85 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

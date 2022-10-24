@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 
 > La casa de los corazones rotos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,445 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,981 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 94 | [Cuando Fuimos Nada](https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:37 |
 | 95 | [Acábame De Matar](https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:08 |
 | 96 | [200 COPAS](https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [200 COPAS \(Short Version\)](https://open.spotify.com/album/0BkCyY7jYD6pCfbMMyIdci) | 3:18 |
-| 97 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
+| 97 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 98 | [Que Llore, Que Llore](https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Aquí Casual](https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK) | 2:45 |
 | 99 | [Vete](https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Unas Mías y Otras Prestadas](https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk) | 3:38 |
 | 100 | [Así Ya No](https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Fenómeno](https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > R&B without boundaries\. Cover: Nick Hakim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,123 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,392 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 20 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 |
 | 21 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
 | 22 | [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 |
-| 23 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
+| 23 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 24 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 |
 | 25 | [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 |
 | 26 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |

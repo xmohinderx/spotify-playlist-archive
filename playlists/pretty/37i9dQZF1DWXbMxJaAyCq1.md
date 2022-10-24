@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbMxJaAyCq1.md) - [plain]
 
 > This is the remix..\. escúchalos acá\. Foto: Tiago PZK & Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,837 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,980 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

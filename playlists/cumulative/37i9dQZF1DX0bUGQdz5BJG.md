@@ -4,14 +4,15 @@
 
 > Music City must\-hears\. Cover: Avery Anna
 
-907 songs - 2 day 0 hr 33 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+908 songs - 2 day 0 hr 36 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/track/6R7nxAdrHuQXHGRrDc9Rit) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [11 Beers \(feat\. Jake Owen\)](https://open.spotify.com/album/0NMpxcd0QLTrDqJ9bb58Qw) | 3:24 | 2022-03-11 | 2022-04-09 |
 | [1500](https://open.spotify.com/track/5LqBhI2AXpT6wBeFfDHcdx) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [1500](https://open.spotify.com/album/26JUWS5fjv5HeBXC8Xp0Nt) | 2:55 | 2022-01-28 | 2022-02-26 |
 | [1x1](https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4bK3rdCDBq8D7VXtdtg3cR) | 3:12 | 2022-04-29 | 2022-08-06 |
-| [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/track/0odAECRtE7vyuy0Omn5rEl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/album/1TDSke4vpYnUDjqaAQnNtj) | 3:09 | 2022-09-09 |  |
+| [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/track/0odAECRtE7vyuy0Omn5rEl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/album/1TDSke4vpYnUDjqaAQnNtj) | 3:09 | 2022-09-09 | 2022-10-24 |
+| [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/track/1VWISlyavHVnJGMyusdFp8) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [Hope for Tomorrow](https://open.spotify.com/album/6m5geZHkasXmHn3c4HsJmW) | 3:09 | 2022-10-21 |  |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-20 | 2022-06-04 |
 | [5:00 in the Country](https://open.spotify.com/track/0ZihIYlSAKxKr0etrivKlt) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [5:00 in the Country](https://open.spotify.com/album/56XLLVVP1ZYOSa3TOcsDKg) | 2:55 | 2022-07-29 | 2022-10-08 |
 | [7 and 70](https://open.spotify.com/track/3dVrqZdrC3ocZSU92kWPzx) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Mustang](https://open.spotify.com/album/3paZZaE6RhzQczzivyZP7M) | 3:19 | 2022-08-26 | 2022-10-01 |

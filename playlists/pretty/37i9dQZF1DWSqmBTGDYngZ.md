@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 
 > Make your shower more uplifting by singing along to these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,946,548 likes - 200 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,947,998 likes - 200 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

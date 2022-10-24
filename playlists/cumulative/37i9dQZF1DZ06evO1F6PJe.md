@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-77 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/2BVD95AHXNw45iCkOYGi05)
+78 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/2BVD95AHXNw45iCkOYGi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Baddest Blues \- Live](https://open.spotify.com/track/1Ol03EITMeWn5ZGSJlcg99) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live in Amsterdam](https://open.spotify.com/album/44663Jws4dbqAO7RUnuqMu) | 5:09 | 2022-08-09 | 2022-08-11 |
 | [Beyond The Silence \- Live](https://open.spotify.com/track/0eanKKNuZ7maqjNstIUqQX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Now Serving: Royal Tea Live From The Ryman](https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9) | 7:14 | 2022-08-05 |  |
 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 | 2022-08-05 |  |
+| [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 | 2022-10-24 |  |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-08-05 |  |
 | [Boogie With Stu \- Live](https://open.spotify.com/track/168hcGYzhikucSpy8LLTiV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 4:17 | 2022-08-06 | 2022-10-13 |
 | [Born Under A Bad Sign \- Live](https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:03 | 2022-08-30 | 2022-09-01 |
@@ -40,7 +41,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/0tcJCqyRnUu2gEmt9iLcTO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs) | 8:06 | 2022-10-07 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 8:06 | 2022-08-05 | 2022-10-06 |
 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 | 2022-08-05 |  |
-| [I'll Take Care Of You](https://open.spotify.com/track/4T7n1ZajPPQCuvX4yby9Pt) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Don't Explain](https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs) | 5:13 | 2022-10-05 |  |
+| [I'll Take Care Of You](https://open.spotify.com/track/4T7n1ZajPPQCuvX4yby9Pt) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Don't Explain](https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs) | 5:13 | 2022-10-05 | 2022-10-24 |
 | [I'll Take Care Of You](https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 5:13 | 2022-08-05 | 2022-10-06 |
 | [I've Got Some Mind Over What Matters](https://open.spotify.com/track/3YmTA9alkAY8Y5qL18OIPq) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:50 | 2022-10-05 | 2022-10-07 |
 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 | 2022-08-06 |  |

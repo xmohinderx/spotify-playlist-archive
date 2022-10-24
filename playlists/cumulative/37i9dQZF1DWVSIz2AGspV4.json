@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 257221,
       "name": "Anthena",
       "url": "https://open.spotify.com/track/6qgdwgLxnzZWkAlqAp40jY"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 210789,
       "name": "Halaa Bel Ghali",
       "url": "https://open.spotify.com/track/725jIHfBfhBDhGiz4YbNIk"
@@ -2400,6 +2400,24 @@
     },
     {
       "album": {
+        "name": "Shoof El Qahar",
+        "url": "https://open.spotify.com/album/3TJMe97n0hfRVGuMsKPEQw"
+      },
+      "artists": [
+        {
+          "name": "Hatem Al Iraqi",
+          "url": "https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204204,
+      "name": "Shoof El Qahar",
+      "url": "https://open.spotify.com/track/0A1TN1veorX1HdN4G0Coal"
+    },
+    {
+      "album": {
         "name": "Shqed Ahtajlk",
         "url": "https://open.spotify.com/album/6k6itTk9EeV5yddkYUIpIc"
       },
@@ -2625,6 +2643,24 @@
       "duration_ms": 239149,
       "name": "Treed Amoot ?",
       "url": "https://open.spotify.com/track/5NX2YtvUOAnkGPADa55RP5"
+    },
+    {
+      "album": {
+        "name": "Wahdek Ya Eani",
+        "url": "https://open.spotify.com/album/3JJKAeLguFFnEVYMbS64hr"
+      },
+      "artists": [
+        {
+          "name": "Ali Alsalem",
+          "url": "https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152304,
+      "name": "Wahdek Ya Eani",
+      "url": "https://open.spotify.com/track/7FJ5peqeu1dUXMXi0d9ntB"
     },
     {
       "album": {

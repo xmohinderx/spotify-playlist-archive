@@ -4,11 +4,12 @@
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-134 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+135 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14 Year Old Me](https://open.spotify.com/track/48jBzw9xQyddW036qQsREk) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/5oY4oozC9s6StQYjrblb9L) | 3:19 | 2021-06-01 |  |
+| [14 Year Old Me](https://open.spotify.com/track/2evjAEtY3HsI3DLKzbkI9y) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/30OWSNKICd1uTJBqAuRylQ) | 3:19 | 2022-06-10 |  |
+| [14 Year Old Me](https://open.spotify.com/track/48jBzw9xQyddW036qQsREk) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/5oY4oozC9s6StQYjrblb9L) | 3:19 | 2021-06-01 | 2022-10-24 |
 | [All Apologies](https://open.spotify.com/track/1zX0Pv0l7GQUFlf0lNADqy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/5cbLLHZkBzxsxLefNLLUfE) | 2:37 | 2021-06-01 | 2022-07-29 |
 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2022-06-10 |  |
 | [All I Want Is to Be Your Girl](https://open.spotify.com/track/3guh1SDKtf0KhA8dIlUY9H) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Holly Miranda](https://open.spotify.com/album/4OLTEQDy4WLfSAydhHfM4a) | 2:35 | 2021-06-01 |  |

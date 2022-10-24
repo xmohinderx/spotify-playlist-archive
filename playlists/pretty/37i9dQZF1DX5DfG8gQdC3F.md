@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift \(pictured\), Carly Rae Jepsen, Lil Uzi Vert, Arctic Monkeys, dvsn and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,001 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,038 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 50 | [Save Me](https://open.spotify.com/track/5vuI9kaVhO9PeFcuZ1EAms) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Save Me](https://open.spotify.com/album/63khUh1Cek87Bp5fq4wJ7O) | 4:27 |
 | 51 | [Dinosaur](https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R) | 3:47 |
 | 52 | [Bam Bam](https://open.spotify.com/track/4MmPyxZPIagKaSKa2TbZMy) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Derrick Sound](https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo) | [Bam Bam](https://open.spotify.com/album/1S8dKPA6xLAJpuacSaWFc2) | 2:51 |
-| 53 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
+| 53 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 54 | [Life Is...](https://open.spotify.com/track/46jni4B6gnRB5EbjIEnsf3) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [\#PlasticFreeParty](https://open.spotify.com/album/1cvskFPm3EvkVSleUYgNaL) | 4:13 |
 | 55 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
 | 56 | [Eggshells](https://open.spotify.com/track/7wGwYO5EkMa9sakdoNjOhT) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Eggshells](https://open.spotify.com/album/1EBnNmxQlf3CRbYKgCBO0h) | 3:03 |

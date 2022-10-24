@@ -1,12 +1,12 @@
 {
   "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: French Montana, NAV",
-  "num_followers": 155557,
+  "num_followers": 155609,
   "original_name": "Northern Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDc4OTFiMDBmOTVjMGE4NTg4ZDc3OWZkYzhmNGEwMTEw",
+  "snapshot_id": "MTY2NjU0NjcwMywwMDAwMDAwMDZmYzY3NDY0YTFjMzJjYmZjODEzMzJhMzIzM2NiNWJi",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -31,6 +31,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "One In The Chamber",
+        "url": "https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 171429,
+      "name": "One In The Chamber",
+      "url": "https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Vince Carter",
         "url": "https://open.spotify.com/album/27Ov0gmzsleAzK9hH2VEUm"
       },
@@ -51,22 +71,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "One In The Chamber",
-        "url": "https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL"
+        "name": "Here it Goes",
+        "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
       },
       "artists": [
         {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
         },
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 171429,
-      "name": "One In The Chamber",
-      "url": "https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy"
+      "duration_ms": 189450,
+      "name": "Here it Goes",
+      "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -103,62 +123,66 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "TRENDSETTER",
-        "url": "https://open.spotify.com/album/7D16qtAGlUyoa5nGIpheVb"
+        "name": "Take Shots (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
       },
       "artists": [
         {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 232053,
-      "name": "TRENDSETTER",
-      "url": "https://open.spotify.com/track/14ZViTPOLvy5r9PXo9ECAc"
+      "duration_ms": 281985,
+      "name": "Take Shots (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
     },
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Dude",
-        "url": "https://open.spotify.com/album/27dB4D8JGquqfGmnx3wgXi"
+        "name": "Run My Shit Remix",
+        "url": "https://open.spotify.com/album/5Oqb3wbgzKePnsNnksxozu"
       },
       "artists": [
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
         },
         {
-          "name": "BVB",
-          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
         }
       ],
-      "duration_ms": 148235,
-      "name": "Dude",
-      "url": "https://open.spotify.com/track/6C6uzF0DjTq4uG6jcQLftW"
+      "duration_ms": 174285,
+      "name": "Run My Shit Remix",
+      "url": "https://open.spotify.com/track/0Eg2hkbMCRb5DGK0FNeL1q"
     },
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "4AM On Dupont",
-        "url": "https://open.spotify.com/album/6S77qSP8TbbRtm9yQiNJve"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
-          "name": "Young Smoke",
-          "url": "https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Lil Berete",
-          "url": "https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 119971,
-      "name": "4AM On Dupont",
-      "url": "https://open.spotify.com/track/4vxTQp84vJKaHZI0lNbtzP"
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -195,102 +219,42 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Run My Shit Remix",
-        "url": "https://open.spotify.com/album/5Oqb3wbgzKePnsNnksxozu"
+        "name": "4AM On Dupont",
+        "url": "https://open.spotify.com/album/6S77qSP8TbbRtm9yQiNJve"
       },
       "artists": [
         {
-          "name": "Mindflip",
-          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+          "name": "Young Smoke",
+          "url": "https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD"
         },
         {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+          "name": "Lil Berete",
+          "url": "https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx"
         }
       ],
-      "duration_ms": 174285,
-      "name": "Run My Shit Remix",
-      "url": "https://open.spotify.com/track/0Eg2hkbMCRb5DGK0FNeL1q"
+      "duration_ms": 119971,
+      "name": "4AM On Dupont",
+      "url": "https://open.spotify.com/track/4vxTQp84vJKaHZI0lNbtzP"
     },
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Take Shots (feat. Tory Lanez)",
-        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
+        "name": "TRENDSETTER",
+        "url": "https://open.spotify.com/album/7D16qtAGlUyoa5nGIpheVb"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
         },
         {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
         }
       ],
-      "duration_ms": 281985,
-      "name": "Take Shots (feat. Tory Lanez)",
-      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "One Time (with Don Toliver feat. Future)",
-      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Ain't Reason",
-        "url": "https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 146590,
-      "name": "Ain't Reason",
-      "url": "https://open.spotify.com/track/2HCKM5YBNx2D6HX4JHTyTx"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Here it Goes",
-        "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
-      },
-      "artists": [
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Here it Goes",
-      "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
+      "duration_ms": 232053,
+      "name": "TRENDSETTER",
+      "url": "https://open.spotify.com/track/14ZViTPOLvy5r9PXo9ECAc"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -307,6 +271,42 @@
       "duration_ms": 179333,
       "name": "sophisticated",
       "url": "https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Dude",
+        "url": "https://open.spotify.com/album/27dB4D8JGquqfGmnx3wgXi"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Dude",
+      "url": "https://open.spotify.com/track/6C6uzF0DjTq4uG6jcQLftW"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Ain't Reason",
+        "url": "https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 146590,
+      "name": "Ain't Reason",
+      "url": "https://open.spotify.com/track/2HCKM5YBNx2D6HX4JHTyTx"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/3oqn2IvF6pCDoNN3hxNYCf"
+      },
+      "artists": [
+        {
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/073y3yGyBGWiUvHHRtsmrN"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Two 2 Tango",
         "url": "https://open.spotify.com/album/2uEVCwGYe05U7KeFjq9fcH"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/3oqn2IvF6pCDoNN3hxNYCf"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/073y3yGyBGWiUvHHRtsmrN"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "ESSENTIAL",
         "url": "https://open.spotify.com/album/39uRyDgwJjQzlzdTv2Ndjh"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 166160,
       "name": "Who!? What!?",
       "url": "https://open.spotify.com/track/1YTzKEfWyUaptahtWr7jmQ"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "It's Just The Beginning",
+        "url": "https://open.spotify.com/album/6c99o38RogYbp0pSN8anba"
+      },
+      "artists": [
+        {
+          "name": "3MFrench",
+          "url": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
+        }
+      ],
+      "duration_ms": 129570,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/6ahXhjpt7yzGxDsGH5zejn"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "I'M GOOD",
+        "url": "https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "duration_ms": 196272,
+      "name": "I'M GOOD",
+      "url": "https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -1215,22 +1247,6 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "I'M GOOD",
-        "url": "https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd"
-      },
-      "artists": [
-        {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
-        }
-      ],
-      "duration_ms": 196272,
-      "name": "I'M GOOD",
-      "url": "https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 144615,
       "name": "NO LOVE LOST",
       "url": "https://open.spotify.com/track/7vB7zhGbL8gpIIuY97dyRY"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "It's Just The Beginning",
-        "url": "https://open.spotify.com/album/6c99o38RogYbp0pSN8anba"
-      },
-      "artists": [
-        {
-          "name": "3MFrench",
-          "url": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
-        }
-      ],
-      "duration_ms": 129570,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/6ahXhjpt7yzGxDsGH5zejn"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1495,6 +1495,22 @@
       "duration_ms": 132546,
       "name": "STICK",
       "url": "https://open.spotify.com/track/1dgTZLHXNTXhn0L9D3MNF9"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Doin' Right",
+        "url": "https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Doin' Right",
+      "url": "https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 124583,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/48tYeh5ztFzgkdpRjxQOFx"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Doin' Right",
-        "url": "https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn"
-      },
-      "artists": [
-        {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Doin' Right",
-      "url": "https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a"
     }
   ],
   "unique_name": "Northern Bars",

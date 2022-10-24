@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174197,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ"
+    },
+    {
+      "album": {
         "name": "NYC",
         "url": "https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC"
       },

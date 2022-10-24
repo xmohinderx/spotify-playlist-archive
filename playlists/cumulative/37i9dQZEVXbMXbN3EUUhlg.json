@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 223489,
       "name": "Acabei de Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/0BWEkqsmPe3qOzrRVztHU3"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 165996,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/0K3u2t8YNuJ5NR9lKC1frv"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 132044,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 194165,
       "name": "Bejeweled",
       "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
@@ -2675,7 +2675,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 153958,
       "name": "Dengo",
       "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
@@ -3351,7 +3351,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 154868,
       "name": "ERRO PLANEJADO - Ao Vivo",
       "url": "https://open.spotify.com/track/2TdOWHAolNaQx8gyRDVS1N"
@@ -3785,7 +3785,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 183244,
       "name": "Evento Cancelado - Ao Vivo",
       "url": "https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6"
@@ -4587,7 +4587,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Gostosinha \u00e9 Ela",
       "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
@@ -4939,7 +4939,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "Incendeia",
       "url": "https://open.spotify.com/track/0jAAnWNbcHf6X1EXOtvOT7"
@@ -5169,7 +5169,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
@@ -5239,7 +5239,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 247962,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0"
@@ -5739,7 +5739,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 191039,
       "name": "Mastermind",
       "url": "https://open.spotify.com/track/7zcJSflhqcSGICHUjgncnj"
@@ -6197,10 +6197,28 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
     },
     {
       "album": {
@@ -6961,7 +6979,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 155771,
       "name": "N\u00c9 SEGREDO",
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
@@ -7791,7 +7809,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 139153,
       "name": "Primeiro Beck Ela Me Mamou",
       "url": "https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci"
@@ -7935,7 +7953,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
@@ -8059,7 +8077,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 210556,
       "name": "Question...?",
       "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
@@ -8985,7 +9003,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 188496,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
@@ -9069,7 +9087,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 170880,
       "name": "Tchuco Nela",
       "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
@@ -9203,7 +9221,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 187381,
       "name": "Termina Comigo Antes",
       "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP"
@@ -10075,7 +10093,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
@@ -10459,7 +10477,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 194206,
       "name": "You're On Your Own, Kid",
       "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"

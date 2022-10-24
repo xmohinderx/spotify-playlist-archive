@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's Carly Rae Jepsen album week! If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,342 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,509 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 21 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 22 | [Beautiful \- Benny Benassi Remix](https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Stripped \- 20th Anniversary Edition](https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw) | 3:35 |
 | 23 | [Frankenstein](https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:12 |
-| 24 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 |
+| 24 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 |
 | 25 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 |
 | 26 | [Madonna](https://open.spotify.com/track/609uwmngAk830waa8OpT87) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Madonna](https://open.spotify.com/album/4mvbNmdH5BZRIz1ZacBJOF) | 3:05 |
 | 27 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 89 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |
 | 90 | [Like Me](https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Like Me](https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU) | 1:58 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGRlNTMzMmFiOTc4ZmFlOTk5ZWM1YWQzMDFlODdlNzQ0`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDUyZTMxMjFjYzJjYTljNmUyMjZlOTVkZGI4ZGQxZmRk`

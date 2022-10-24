@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,961 likes - 46 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,970 likes - 45 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 26 | [Esfumar](https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:27 |
 | 27 | [Yo lloraré por ti](https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:50 |
 | 28 | [Extrañarte](https://open.spotify.com/track/2CccpAbBdXvE1C6PzCP5B3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:50 |
-| 29 | [Mar de nubes](https://open.spotify.com/track/7yUqRdOBt0my6W7WlYThhq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:04 |
+| 29 | [El espacio](https://open.spotify.com/track/17oZ17aeENHR2L8FxSNTB0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:38 |
 | 30 | [Látigo de fuego](https://open.spotify.com/track/4a7n3hqqlgcpqzfBOcfLTQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Látigo de fuego](https://open.spotify.com/album/43zuensuw729kZhtB1emiI) | 3:51 |
 | 31 | [Perdóname](https://open.spotify.com/track/5Old2vvcl089PeN4o995b9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 |
 | 32 | [Fui feliz](https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:56 |
-| 33 | [El espacio](https://open.spotify.com/track/17oZ17aeENHR2L8FxSNTB0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:38 |
+| 33 | [Mar de nubes](https://open.spotify.com/track/7yUqRdOBt0my6W7WlYThhq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:04 |
 | 34 | [No me atrevo a preguntar](https://open.spotify.com/track/1ASsOEm4V9yWkgJ573Uf8q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:39 |
 | 35 | [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 |
 | 36 | [Dos](https://open.spotify.com/track/1TywStTqkJ9XIgPsrOMXmH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 5:04 |
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 43 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 | 44 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/2X7Mzcr24Zk7LyHE0JQBs9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/3WfMKEzc06cGLrqfyDAQ5c) | 4:04 |
 | 45 | [Solo el Sol \- Remix](https://open.spotify.com/track/3TBTVJRElT9eO7WXcj2HMN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Solo el Sol \(Remix\)](https://open.spotify.com/album/14fNTy68j4YcrIjk2aV6RN) | 6:18 |
-| 46 | [Zona de promesas](https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver \- Tributo Chileno a Cerati \(Disco 2\)](https://open.spotify.com/album/2WO40wVGEPnYKpSYhoM0Z6) | 4:47 |
 
-Snapshot ID: `Mjc3NzQxOTksMDAwMDAwMDAwNzc5ZGFlMDIyMDc4NTlhYjFiODZhOTJiMTQ3MWQwNA==`
+Snapshot ID: `Mjc3NzYyNjksMDAwMDAwMDBjMTlmNGIxYWNmMGUyOWIxNTVlZGUxNzY5MzViMTRhYQ==`

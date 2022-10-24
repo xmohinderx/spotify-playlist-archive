@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,969 likes - 200 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,065 likes - 200 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

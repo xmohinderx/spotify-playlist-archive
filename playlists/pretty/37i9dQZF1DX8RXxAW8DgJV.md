@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,921 likes - 79 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,039 likes - 79 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

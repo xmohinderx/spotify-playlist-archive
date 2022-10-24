@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > "it's me, hi, i'm the problem it's me" \- taylor swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,133 likes - 607 songs - 1 day 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,279 likes - 607 songs - 1 day 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -418,7 +418,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 408 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 409 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 |
 | 410 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
-| 411 | [Nasty](https://open.spotify.com/track/2eWeACOtxwaVMfIhYBsAid) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [www.FuckMe.com](https://open.spotify.com/album/1b0DzzjaWd5PXhgcMvV6WT) | 2:15 |
+| 411 | [Nasty](https://open.spotify.com/track/5vQVca1ShutehX51ewkuPN) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat), [Fraser](https://open.spotify.com/artist/0mDpXFOFb3Gz2sabUfP2Ka) | [www.FuckMe.com \(Deluxe\)](https://open.spotify.com/album/3r3s52Mk0KkwegBofKxAMr) | 2:14 |
 | 412 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 |
 | 413 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 |
 | 414 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
@@ -616,4 +616,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 606 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 |
 | 607 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDE2Y2MxMDY1MjBmN2JkNGU5YjE5ZmY4MWVlZDQ2ZDgy`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDY1NmUyMGE5Y2M4YmE0Yzk5NWY4ODEzNjM5N2Y0YzFh`

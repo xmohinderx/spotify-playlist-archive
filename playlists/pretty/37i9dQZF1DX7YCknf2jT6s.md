@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: <br/>Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,546 likes - 107 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,695 likes - 107 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

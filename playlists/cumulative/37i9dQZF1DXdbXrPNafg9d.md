@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Arctic Monkeys
 
-4,338 songs - 10 day 14 hr 54 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,339 songs - 10 day 14 hr 57 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4003,7 +4003,8 @@
 | [Vendetta](https://open.spotify.com/track/00RqnHWC4WAHfq5fKBBc2g) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Vendetta](https://open.spotify.com/album/68qfGaEIcpRy3ofkfwkzaB) | 5:13 | 2021-02-19 | 2021-04-10 |
 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 | 2022-07-08 | 2022-08-20 |
 | [Vertigo](https://open.spotify.com/track/3oPo4NNfp4CZCtV5I6P7Bm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vertigo](https://open.spotify.com/album/2z6ruRHlcugqblwV17FfqA) | 2:50 | 2022-03-11 | 2022-04-29 |
-| [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-16 |  |
+| [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-16 | 2022-10-24 |
+| [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-30 |  |
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2020-05-15 | 2020-07-03 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-03-26 |
 | [Vi er uendelig](https://open.spotify.com/track/3dxv7WJBIO67ZAcYZa7kCu) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Vi er uendelig](https://open.spotify.com/album/2GhvPBPQcc31MRfmaBIUYy) | 3:55 | 2019-06-14 | 2019-06-28 |

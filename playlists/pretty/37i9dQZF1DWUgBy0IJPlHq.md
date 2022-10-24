@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Shane Smith & the Saints
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,156 likes - 130 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,291 likes - 130 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

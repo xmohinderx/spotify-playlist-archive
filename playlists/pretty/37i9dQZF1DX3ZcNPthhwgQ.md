@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZcNPthhwgQ.md) - [plain]
 
 > Las rolas para escuchar mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,365 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,519 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,146 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,192 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 22 | [Spanish Bombs \- Remastered](https://open.spotify.com/track/6wtmql7FJ7SSLuSw8JD8rX) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:18 |
 | 23 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 |
 | 24 | [London's Burning \- Remastered](https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:11 |
-| 25 | [Somebody Got Murdered \- Remastered](https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:34 |
+| 25 | [The Leader \- Remastered](https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 1:42 |
 | 26 | [Complete Control](https://open.spotify.com/track/0mlwPYU0ApElSjZN4yA4L9) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:12 |
 | 27 | [Julie's Been Working for the Drug Squad \- Remastered](https://open.spotify.com/track/2rUVY6uXm8J0IEr230B1L1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:03 |
 | 28 | [This is England](https://open.spotify.com/track/7p949cKSO5MDSjajSrAcfI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:50 |
-| 29 | [The Leader \- Remastered](https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 1:42 |
+| 29 | [Somebody Got Murdered \- Remastered](https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:34 |
 | 30 | [This is Radio Clash](https://open.spotify.com/track/7sQkeztZAGR3haZL71wvZe) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 4:12 |
 | 31 | [English Civil War \- Remastered](https://open.spotify.com/track/6h54MGmPGmerDMBgHTgIA4) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 2:35 |
 | 32 | [Pressure Drop](https://open.spotify.com/track/2pnxIOz7WbWZX8lKyLixHn) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 3:25 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 48 | [Dirty Punk](https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:09 |
 | 49 | [First Night Back in London](https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:11 |
 
-Snapshot ID: `Mjc3NzQyMDAsMDAwMDAwMDBkMjNmNjJkODQ5MzA0YWZhZTAwZjc3MjkwNDAyMDcwZA==`
+Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBlNjA2N2M1MWE3YjdkYTBjODI0MmI1ODA4ZjI5MGFiOQ==`

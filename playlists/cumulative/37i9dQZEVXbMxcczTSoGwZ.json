@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 204067,
       "name": "20min",
       "url": "https://open.spotify.com/track/2u4aD9hjuT1UHDsmHVEOjr"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 154767,
       "name": "40K",
       "url": "https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0"
@@ -8305,7 +8305,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
@@ -8791,7 +8791,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 137437,
       "name": "Kilogram",
       "url": "https://open.spotify.com/track/1SIR8a6teKGjlzyvZir3Cv"
@@ -9911,7 +9911,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 225463,
       "name": "Laulu ilman sanoja (feat. ABREU)",
       "url": "https://open.spotify.com/track/5U6DBJXCpgbwDirAYukeHo"
@@ -10387,6 +10387,32 @@
       "duration_ms": 170829,
       "name": "Lokakuu (feat. Bizi)",
       "url": "https://open.spotify.com/track/2xFJFJqWsQbIQFGuvNv4Yn"
+    },
+    {
+      "album": {
+        "name": "Loppuun asti (Vain el\u00e4m\u00e4\u00e4 kausi 13)",
+        "url": "https://open.spotify.com/album/5E7XLRSiY2mNf3qA3EEMI0"
+      },
+      "artists": [
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+        },
+        {
+          "name": "Club For Five",
+          "url": "https://open.spotify.com/artist/1gu9pTR4fuo9fSvMNWpHzW"
+        },
+        {
+          "name": "Rajaton",
+          "url": "https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264338,
+      "name": "Loppuun asti (Vain el\u00e4m\u00e4\u00e4 kausi 13)",
+      "url": "https://open.spotify.com/track/553Q54pcJMbdk1Y5s4qYKr"
     },
     {
       "album": {
@@ -11021,7 +11047,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
@@ -11439,7 +11465,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 313670,
       "name": "Mestarit Potpuri",
       "url": "https://open.spotify.com/track/00xPOo32RtUsZrizZJaawd"
@@ -11497,10 +11523,28 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
     },
     {
       "album": {
@@ -14095,7 +14139,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 187036,
       "name": "Perhe on sekaisin - Musiikkia elokuvasta Kulkuset kulkuset",
       "url": "https://open.spotify.com/track/5eYgqoGAAKjIjeBKGGmtRc"
@@ -14893,7 +14937,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 210556,
       "name": "Question...?",
       "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
@@ -16084,7 +16128,7 @@
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 154572,
+      "duration_ms": 154570,
       "name": "Shamppanjadieetill\u00e4",
       "url": "https://open.spotify.com/track/22KSKT3mCbSiG4RT20ogxB"
     },
@@ -16619,7 +16663,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -19775,7 +19819,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"

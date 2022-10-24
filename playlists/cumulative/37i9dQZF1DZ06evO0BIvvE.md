@@ -4,7 +4,7 @@
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/1gFUXn6U9aKUVqz74eCknF)
+69 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1gFUXn6U9aKUVqz74eCknF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Amanhã \(feat\. Billy Paul\)](https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Sandra de Sá](https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm) | 5:25 | 2022-05-25 |  |
 | [Be Truthful to Me](https://open.spotify.com/track/2qvVFJqlGwSmAsdqpew5xv) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:08 | 2022-07-03 | 2022-10-13 |
 | [Billy's Back Home](https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 4:32 | 2022-05-25 |  |
-| [Black Wonders of the World](https://open.spotify.com/track/4vfdPWGjFSA623VULHgQqN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 7:56 | 2022-05-25 |  |
+| [Black Wonders of the World](https://open.spotify.com/track/4vfdPWGjFSA623VULHgQqN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 7:56 | 2022-05-25 | 2022-10-24 |
 | [Bring the Family Back](https://open.spotify.com/track/2p1SZrBaJS6yHK0OdPfo1x) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 5:01 | 2022-05-25 |  |
 | [Brown Baby](https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:35 | 2022-05-25 |  |
 | [Compared to What](https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 | 2022-05-25 |  |
@@ -50,6 +50,7 @@
 | [Malorie](https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 3:47 | 2022-05-25 |  |
 | [Me and Mrs Jones \(with Billy Paul\)](https://open.spotify.com/track/3An00Ze0w1MugizM3HGYtr) | [Chico & The Gypsies](https://open.spotify.com/artist/7EbSS8L1ZtVfwiMz40F1MI), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Chico & The Gypsies & International Friends](https://open.spotify.com/album/1j0sRFAO5QDtqAMVFOptn7) | 3:55 | 2022-05-25 |  |
 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 | 2022-05-25 |  |
+| [Me and Mrs\. Jones \(1895 Jazz Remix\)](https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK) | [1895](https://open.spotify.com/artist/02I4WY5ssrOFmOSU4sEzxp), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Kay Sax](https://open.spotify.com/artist/2V5gBk8YFrg9fwYtacwZCh) | [Me and Mrs\. Jones \(1895 Jazz Remix\)](https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs) | 5:08 | 2022-10-24 |  |
 | [Mrs\. Robinson](https://open.spotify.com/track/4jJ2YMKm2FqIvn7p85pSJY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 4:29 | 2022-05-25 |  |
 | [My Head's On Straight](https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:11 | 2022-05-25 |  |
 | [On A Clear Day \(You Can See Forever\)](https://open.spotify.com/track/4d60Vgve7bbcFfnEkeZqn4) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Feelin' Good at the Cadillac Club](https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR) | 4:36 | 2022-05-27 |  |

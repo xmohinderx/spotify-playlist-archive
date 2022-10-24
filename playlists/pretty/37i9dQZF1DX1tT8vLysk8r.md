@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tT8vLysk8r.md) - [plain]
 
 > An introduction to the best\-loved works of Russian composer Sergei Prokofiev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,871 likes - 61 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,888 likes - 61 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

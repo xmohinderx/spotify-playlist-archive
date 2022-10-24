@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-224 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+225 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2022-02-08 | 2022-08-31 |
 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 | 2021-11-19 |  |
 | [River](https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [River](https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq) | 2:57 | 2021-11-19 | 2022-10-08 |
-| [Same Way Home](https://open.spotify.com/track/4WgcqTAXHGKi0NrbE1b1PK) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7) | [Same Way Home](https://open.spotify.com/album/7yirPo5yscyEu6l0yJMh51) | 2:58 | 2022-10-13 |  |
+| [Same Way Home](https://open.spotify.com/track/0735YMiYFFdDRlrA20fXKW) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/6qfMf8A1BZZsPeQdVkewVA) | [Same Way Home](https://open.spotify.com/album/2I0nMc844hT1Sb8em5ycpl) | 2:58 | 2022-10-13 |  |
+| [Same Way Home](https://open.spotify.com/track/4WgcqTAXHGKi0NrbE1b1PK) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7) | [Same Way Home](https://open.spotify.com/album/7yirPo5yscyEu6l0yJMh51) | 2:58 | 2022-10-13 | 2022-10-24 |
 | [Same Way Home](https://open.spotify.com/track/5ja2Rt6qki0on26cKUOrbG) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7) | [Same Way Home](https://open.spotify.com/album/7qNO6QXzhsJarTBHXXlhwL) | 2:58 | 2021-11-19 | 2022-10-20 |
 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 | 2021-11-19 |  |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2021-11-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,316 likes - 314 songs - 19 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,503 likes - 314 songs - 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

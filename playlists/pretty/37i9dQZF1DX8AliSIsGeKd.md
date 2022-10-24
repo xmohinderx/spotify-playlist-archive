@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Jil Tanner
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,500 likes - 78 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,726 likes - 78 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Resistance](https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Resistance](https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit) | 6:34 |
 | 2 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
 | 3 | [Timelapse](https://open.spotify.com/track/2ivnsOi3RcEbskFvTS9zt3) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 8:13 |
-| 4 | [Amnesia \- Original Mix](https://open.spotify.com/track/4twfO41BhJml2pbakKniZi) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Amnesia](https://open.spotify.com/album/2ctzau5sfX05QJl5VPB7Ib) | 6:43 |
+| 4 | [Amnesia](https://open.spotify.com/track/4twfO41BhJml2pbakKniZi) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Amnesia](https://open.spotify.com/album/2ctzau5sfX05QJl5VPB7Ib) | 6:43 |
 | 5 | [Do It the Way You Feel](https://open.spotify.com/track/292hNWdCyvlYR4jyGmfseR) | [CIOZ](https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp) | [Do It the Way You Feel](https://open.spotify.com/album/399ElzO9JNbyFMvyxmft9c) | 6:39 |
 | 6 | [Life Is...](https://open.spotify.com/track/46jni4B6gnRB5EbjIEnsf3) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [\#PlasticFreeParty](https://open.spotify.com/album/1cvskFPm3EvkVSleUYgNaL) | 4:13 |
 | 7 | [Shades of You](https://open.spotify.com/track/0CXRQBo3GDBEusK9OqzyyR) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Hiraeth](https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18) | 4:41 |

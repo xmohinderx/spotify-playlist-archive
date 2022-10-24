@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Celebrating Plains’ new album ‘I Walked With You A Ways.’
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,880 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,919 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

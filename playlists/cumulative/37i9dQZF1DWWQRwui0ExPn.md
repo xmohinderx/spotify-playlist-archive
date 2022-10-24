@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,097 songs - 6 day 12 hr 3 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,098 songs - 6 day 12 hr 7 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4085,7 +4085,8 @@
 | [Your Vibe](https://open.spotify.com/track/1DM6OEWbOSsaL0eDMQBmhV) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [De La Crème](https://open.spotify.com/album/7sdDO4v6wf19Kz60IszTap) | 1:27 | 2022-02-25 | 2022-07-16 |
 | [Yours](https://open.spotify.com/track/6LjKrcsIkqKBu3R77CgFxF) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Yours](https://open.spotify.com/album/5PPOFjyayurcIKf6M4YRbz) | 2:26 | 2021-11-20 | 2022-06-17 |
 | [yours in the end](https://open.spotify.com/track/4wLxKc5S6xM2J9Z7YFjsRv) | [Shiro](https://open.spotify.com/artist/1udlYKXZJPJW9zFMz6deuj) | [yours in the end](https://open.spotify.com/album/0ARqopFhP54PReshHnrWjY) | 1:37 | 2021-10-20 | 2022-04-24 |
-| [yugatu](https://open.spotify.com/track/3eq5UzNAoGMdns6JayLaZg) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [yugatu](https://open.spotify.com/album/1aI9v6ZA0k88NrdpqfNhCc) | 3:22 | 2022-07-15 |  |
+| [yugatu](https://open.spotify.com/track/3eq5UzNAoGMdns6JayLaZg) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [yugatu](https://open.spotify.com/album/1aI9v6ZA0k88NrdpqfNhCc) | 3:22 | 2022-07-15 | 2022-10-24 |
+| [yugatu](https://open.spotify.com/track/7Im8ZwdtOa8brvg6sreL0w) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/012HxPEZF8LcbBHmu9HdT5) | 3:22 | 2022-10-14 |  |
 | [Yugen](https://open.spotify.com/track/5Qxkj85iFpJKPGb1JRq48F) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Yugen](https://open.spotify.com/album/5WKe3DoGzAnyzn2VJTGXeF) | 1:38 | 2019-11-29 | 2021-07-29 |
 | [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-07-01 | 2022-10-14 |
 | [Yuki](https://open.spotify.com/track/316XgMkvkl639PPBdOqghb) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Yuki](https://open.spotify.com/album/7CvDXOm91qEUW4zQgVjFbd) | 2:20 | 2020-01-13 | 2021-08-22 |

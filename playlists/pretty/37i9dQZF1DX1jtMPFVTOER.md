@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: José James
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,673 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,742 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 29 | [I Love You](https://open.spotify.com/track/1VYvWpbuOfXKSm4jpuJblj) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [I Love You](https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo) | 3:08 |
 | 30 | [Beast Mode](https://open.spotify.com/track/468bLIu92tWlKhnuIUFqeE) | [Dope Knife](https://open.spotify.com/artist/1NuyIyXEUSZIMxj3WXDSeW), [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Beast Mode](https://open.spotify.com/album/1w382jEqdoA1uZR7Dgubzx) | 3:44 |
 | 31 | [Freedom Ain't Easy](https://open.spotify.com/track/6QhcPuRKNVEVijKdiDGpA4) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [JAMO](https://open.spotify.com/album/2KwsDZxvocXfvPk8WDHHYz) | 5:20 |
-| 32 | [Watching Me](https://open.spotify.com/track/3xY1Aje8Jkur905F4XKgTx) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Watching Me / Energy](https://open.spotify.com/album/0niOnhlSQAnnTuqIQDvBcu) | 4:10 |
+| 32 | [Watching Me](https://open.spotify.com/track/6JCRy8Y7toRZknPCH3xcqG) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 4:10 |
 | 33 | [Down This Path](https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh), [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [Owen Chow](https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7) | [Down This Path](https://open.spotify.com/album/47pnzCgYCKlZpp5MfzDAQW) | 3:22 |
 | 34 | [Most Days](https://open.spotify.com/track/2dZGh2ErH1lUytxHO7xX1J) | [Syf of Talking Knots](https://open.spotify.com/artist/1SfICWafk2B0pEobXALC00), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Most Days](https://open.spotify.com/album/2punKtWEurmWV58F6MiqcT) | 2:29 |
 | 35 | [Head Over Heels](https://open.spotify.com/track/6Na5SH1jPHninkLsfn8ADB) | [Apollo Bebop](https://open.spotify.com/artist/5Ar4PuRM6i2krbQ8QduUFG) | [Head Over Heels](https://open.spotify.com/album/3Z8cqJPS7K0QjNhc2f3IWv) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [All I Do](https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [All I Do](https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln) | 4:40 |
 | 100 | [Old Antique Shop](https://open.spotify.com/track/3ccxDTiF91eNXnSbmL3ixM) | [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Old Antique Shop](https://open.spotify.com/album/6Nyu3mpwkwSmgxxkGyIVZJ) | 1:12 |
 
-Snapshot ID: `MTY2NjMyNDg2MCwwMDAwMDAwMGNjNjYwMWRkNWI0NWY2OTIyZTMzYjNjNWMwZDE4NDlk`
+Snapshot ID: `MTY2NjMyNDg2MCwwMDAwMDAwMDdjZjI2MzFlNDJiNDVjNDJlMWUyN2M2ODUyZjZkYzBj`

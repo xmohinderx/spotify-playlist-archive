@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life in your 250sq ft micro apartment Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,428,261 likes - 150 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,428,324 likes - 150 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

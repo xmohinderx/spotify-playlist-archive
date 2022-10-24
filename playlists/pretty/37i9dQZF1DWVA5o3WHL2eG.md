@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,374 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,379 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

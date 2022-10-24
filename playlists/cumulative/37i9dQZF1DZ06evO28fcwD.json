@@ -89,6 +89,28 @@
     {
       "album": {
         "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/0sGbDq8dssHTaXryYykdEa"
+    },
+    {
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
         "url": "https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw"
       },
       "artists": [
@@ -103,7 +125,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 226400,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/4XJuLu021CU3Ucama9EK6L"
@@ -143,7 +165,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 260780,
       "name": "Akehlulek Ubaba",
       "url": "https://open.spotify.com/track/1cBplO9bxqPdmmZlyYoFda"
@@ -1349,6 +1371,24 @@
     {
       "album": {
         "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342880,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw"
+    },
+    {
+      "album": {
+        "name": "Heavenly",
         "url": "https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND"
       },
       "artists": [
@@ -1589,6 +1629,24 @@
     {
       "album": {
         "name": "The Star and the Wiseman",
+        "url": "https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Swing Low Sweet Chariot",
+      "url": "https://open.spotify.com/track/5BujScz3tYp115DoioZUCs"
+    },
+    {
+      "album": {
+        "name": "The Star and the Wiseman",
         "url": "https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO"
       },
       "artists": [
@@ -1599,7 +1657,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 232093,
       "name": "Swing Low Sweet Chariot",
       "url": "https://open.spotify.com/track/5eTQdyKwV5KJCK1yuBmVOX"

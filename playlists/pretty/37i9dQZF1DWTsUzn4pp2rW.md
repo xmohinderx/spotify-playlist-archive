@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,421 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,535 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 24 | [Everywhere](https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ) | [Eve St\. Jones](https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii) | [Everywhere](https://open.spotify.com/album/1cOMb8F5PoPBgF79sKxO11) | 3:01 |
 | 25 | [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 |
 | 26 | [Love Is In The Picture](https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Love Is In The Picture](https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw) | 3:38 |
-| 27 | [Same Way Home](https://open.spotify.com/track/4WgcqTAXHGKi0NrbE1b1PK) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7) | [Same Way Home](https://open.spotify.com/album/7yirPo5yscyEu6l0yJMh51) | 2:58 |
+| 27 | [Same Way Home](https://open.spotify.com/track/0735YMiYFFdDRlrA20fXKW) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/6qfMf8A1BZZsPeQdVkewVA) | [Same Way Home](https://open.spotify.com/album/2I0nMc844hT1Sb8em5ycpl) | 2:58 |
 | 28 | [I Ran \(So Far Away\)](https://open.spotify.com/track/37JRb6cexDkgxVPqcuFivc) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [I Ran \(So Far Away\)](https://open.spotify.com/album/7qhixjUIoIgMYA2Q3yjJi0) | 4:02 |
 | 29 | [Mary's Prayer](https://open.spotify.com/track/0uCdUcTpmaHHnoapSi4B7e) | [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [Mary's Prayer](https://open.spotify.com/album/6vOp6eBQeJnEeG88NNEmR6) | 3:14 |
 | 30 | [Birthday](https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [Some Day](https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 3:49 |
 | 100 | [That's What Friends Are For](https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [That's What Friends Are For](https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ) | 3:43 |
 
-Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDlhZmJiMTQ4ODk3NmE2MTA5MjQ0ZGUzYzVkNTJjMTcx`
+Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMGRiOTgyOTEwMDdhZDAyODIzMGFiMjBhODRmNTg5NTZl`

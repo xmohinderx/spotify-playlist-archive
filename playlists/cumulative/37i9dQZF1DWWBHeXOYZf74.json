@@ -18937,10 +18937,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 181706,
       "name": "M1",
       "url": "https://open.spotify.com/track/3XhLn2Ed0UrCvkwjcKghxB"
+    },
+    {
+      "album": {
+        "name": "COMETA",
+        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "M1",
+      "url": "https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv"
     },
     {
       "album": {
@@ -26949,6 +26967,10 @@
         {
           "name": "Duckwrth",
           "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         }
       ],
       "date_added": "2022-10-21",
@@ -31677,10 +31699,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 218200,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t"
+    },
+    {
+      "album": {
+        "name": "COMETA",
+        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e"
     },
     {
       "album": {

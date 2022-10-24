@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,588 likes - 102 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,595 likes - 102 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 8 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 |
 | 9 | [An Arp in Tunisia](https://open.spotify.com/track/6VmcLYc8U5BhnnpRZgtK4k) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:34 |
 | 10 | [The Lower 9th](https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:59 |
-| 11 | [Wessel](https://open.spotify.com/track/7qmozlnwvvhUMzqKH80lfK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 5:03 |
+| 11 | [Wessel](https://open.spotify.com/track/2cw7XwWJaQSaGnj0lQ3pGQ) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 5:03 |
 | 12 | [Marshland IV \- Rays](https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland IV \- Rays](https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT) | 7:24 |
 | 13 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 |
 | 14 | [Mumpsimus](https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:21 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 101 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 |
 | 102 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDNhODJkNWI1MmYzYzE5MmI2MGI3ZDU5MjVlZGM2YWQ3`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGIxMjE5ZjU5Nzc1MTBlNDVhNDUzYTg1ZTVmOWI4ZGYy`

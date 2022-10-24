@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Parkway Drive
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,634 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,663 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 71 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 |
 | 72 | [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 |
 | 73 | [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 |
-| 74 | [Eden Will Drown](https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Eden Will Drown](https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR) | 3:12 |
-| 75 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 |
+| 74 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 |
+| 75 | [UFO Party](https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [UFO Party](https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2) | 4:02 |
 
-Snapshot ID: `MTY2NjMzNTYwMCwwMDAwMDAwMGQ3MmYzNTY1NmIwYjYyNGI4NGU5ZTU5NGY2YjYzNDVh`
+Snapshot ID: `MTY2NjMzNTYwMCwwMDAwMDAwMDk3MGE1NjZkMjViMDZmOGEyOGZkZjY4ZGEwNGRmYjc3`

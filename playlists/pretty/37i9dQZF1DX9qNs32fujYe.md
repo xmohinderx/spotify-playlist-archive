@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Stryper
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,921 likes - 200 songs - 14 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,451 likes - 200 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

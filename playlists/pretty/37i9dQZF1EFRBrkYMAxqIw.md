@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115 likes - 72 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 115 likes - 73 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 24 | [On My Way \(Rain or Shine Remix\)](https://open.spotify.com/track/4dVxY7muQS2QYy0bjhM7df) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/4NtbltmozSWfZ4ZfRPXCLL) | 4:00 |
 | 25 | [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 |
 | 26 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 |
-| 27 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 |
-| 28 | [HighLife](https://open.spotify.com/track/121Dj5DvG9EKGWJ0PW9s4a) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [HighLife](https://open.spotify.com/album/37hLJXky9rC9KbpzYzzUGg) | 3:32 |
+| 27 | [HighLife](https://open.spotify.com/track/121Dj5DvG9EKGWJ0PW9s4a) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [HighLife](https://open.spotify.com/album/37hLJXky9rC9KbpzYzzUGg) | 3:32 |
+| 28 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 |
 | 29 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
 | 30 | [Body Language](https://open.spotify.com/track/2WeCFWSiGDlGHmksFpLyLs) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Cami Izquierdo](https://open.spotify.com/artist/54h1tXeljTw12xFojrH0Vc) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:44 |
 | 31 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 53 | [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 |
 | 54 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 |
 | 55 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 |
-| 56 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
-| 57 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 |
+| 56 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 |
+| 57 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
 | 58 | [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 |
 | 59 | [A LITTLE LONGER](https://open.spotify.com/track/4pBJPDDnP8OIlxpNOkJrJK) | [raLf.mp3](https://open.spotify.com/artist/0HJPhLLVDLqQsK80UeWyh7) | [2MNY 2B NoTICED](https://open.spotify.com/album/788LcoNQqE019iOEG2HX3P) | 3:19 |
 | 60 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 |
@@ -75,10 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 65 | [American Spirits](https://open.spotify.com/track/2Aza8RDhzkcY8Ee27HsGdq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/4oroUN99tUCHorAFBW3QFN) | 2:45 |
 | 66 | [God Only Knows](https://open.spotify.com/track/0LVE8AE8ZsVxvwVoFIch9D) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 3:24 |
 | 67 | [Who You Travel With](https://open.spotify.com/track/5GKarKZIWcOFKKwJVcOADW) | [Blessing Annatoria](https://open.spotify.com/artist/7sOvnyvSZRdtT0hmJeR9QI) | [Count My Blessings](https://open.spotify.com/album/1ihGORcoWn4WCKYeWO8FHW) | 3:06 |
-| 68 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 |
-| 69 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 |
-| 70 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
-| 71 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
-| 72 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 68 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
+| 69 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 |
+| 70 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 |
+| 71 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
+| 72 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
+| 73 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc3NzQ3OTksMDAwMDAwMDBmODMyNzA0YzE4NzgwZmE3YzBiNjgxNjJlZGY5MzAzNg==`
+Snapshot ID: `Mjc3NzYyOTksMDAwMDAwMDA2YTU5MjUyMGEwMTE1MzEwNmNlYzNkMDQwODc3N2YzMw==`

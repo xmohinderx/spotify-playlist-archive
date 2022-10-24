@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,409 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,418 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 |
 | 2 | [Having Motion](https://open.spotify.com/track/6FjEFQVT9XPZeMrDtftNZA) | [D30](https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40) | [Youngest IN Motion 3](https://open.spotify.com/album/3ybprcgjxU6gE91Todd5cs) | 2:04 |
-| 3 | [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 |
+| 3 | [Penthouse](https://open.spotify.com/track/1e3jS5O9vxsLiHiL5SBU71) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/15M4bcl7Q4CSWkqIuX1ydt) | 2:24 |
 | 4 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 |
 | 5 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 |
 | 6 | [Vanish](https://open.spotify.com/track/3WS7XmqLWy2CEXLLABVsDc) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [Vanish](https://open.spotify.com/album/4TCv8hUT2EWButKeOC2jnC) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Heart Of Gold](https://open.spotify.com/track/66zbX8vwdDMHYn6kQ9xCf8) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Kyesha](https://open.spotify.com/album/3f49SaBQU5TNoX1JeBEm8f) | 1:29 |
 | 50 | [2 the Max](https://open.spotify.com/track/4N9pAupgXexImJ5Vgv1kFz) | [Jay Pareil](https://open.spotify.com/artist/7bROBB1DkMVz52NoCTaIfc) | [2 the Max](https://open.spotify.com/album/0wsQltrC4GfBXEsva0AENk) | 1:50 |
 
-Snapshot ID: `MTY2NjE4OTQ5MywwMDAwMDAwMGU0YjU1N2E3OTdiMmI3ZmU5NTk4YmNjNDBhYmM0NDZl`
+Snapshot ID: `MTY2NjE4OTQ5MywwMDAwMDAwMGFiZDdhNmVkYTU4N2I4ODNkODY1ZmZlZmZlNDc0ODAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,453 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,520 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 50 | [The Eco\-Terrorist In Me](https://open.spotify.com/track/00mAAFCc9meOcSQuligKC8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 2:45 |
 | 51 | [Politics Of Love](https://open.spotify.com/track/64aO8TbjJew43QHwgHJ2Jy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 4:09 |
 
-Snapshot ID: `Mjc3NzQyMDAsMDAwMDAwMDBhOGEyMDEwODJkNTRlMWVlYTg1NTA0NGJhYzUyMDg1MQ==`
+Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA3N2ExZDJlZjc1OGRhZDk0YzNkYzljYmJkMTkyMGU0Zg==`

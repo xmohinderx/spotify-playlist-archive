@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop hits right now\. Cover: Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,831,717 likes - 72 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,831,920 likes - 72 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

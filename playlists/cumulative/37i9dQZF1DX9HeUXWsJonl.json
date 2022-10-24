@@ -1284,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Rahal",
+        "url": "https://open.spotify.com/album/3mif5AjUcXbVBQL3QLSP5Q"
+      },
+      "artists": [
+        {
+          "name": "Tati G13",
+          "url": "https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252581,
+      "name": "Noum Elil",
+      "url": "https://open.spotify.com/track/7D9vjMrVVF9cG2z4vB6SQY"
+    },
+    {
+      "album": {
         "name": "Nour Einya",
         "url": "https://open.spotify.com/album/7olrz330h5TSKVwhjyP9BR"
       },
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 289454,
       "name": "\u0647\u0643\u0627 \u0646\u0639\u064a\u0634",
       "url": "https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7"

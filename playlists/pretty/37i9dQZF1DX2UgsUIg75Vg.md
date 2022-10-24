@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Baby Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,275,072 likes - 111 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,275,389 likes - 111 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

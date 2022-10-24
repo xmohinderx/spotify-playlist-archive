@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,905 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,005 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

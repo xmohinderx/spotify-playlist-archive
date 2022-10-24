@@ -2,9 +2,9 @@
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 
-> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla
+> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, Jonasu, Karen Harding, MK
 
-1,329 songs - 2 day 22 hr 11 min - [published](https://open.spotify.com/playlist/0Ntnl9seA6EX8wAm2l1oSO)
+1,330 songs - 2 day 22 hr 14 min - [published](https://open.spotify.com/playlist/0Ntnl9seA6EX8wAm2l1oSO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,6 +849,7 @@
 | [OMG](https://open.spotify.com/track/56ZD9IVl8khgd6GVDN0ic4) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB) | [OMG](https://open.spotify.com/album/7p0G9MMIWOCviNGgmJY4as) | 2:27 | 2021-11-16 | 2021-11-24 |
 | [Omno](https://open.spotify.com/track/5WnL6Og2fR7Kw0n2Kqb9iB) | [Oxygen](https://open.spotify.com/artist/2DKGhTwAR3rnDaqJBDQak7) | [Omno](https://open.spotify.com/album/5jXv5B9eLEOXXJrH80JYKQ) | 2:41 | 2022-07-22 |  |
 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 | 2020-07-20 | 2020-08-03 |
+| [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-10-23 |  |
 | [On My California](https://open.spotify.com/track/05kyh6IkfisfWjZoVkHFTL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Shaun Frank](https://open.spotify.com/artist/0BBwlSQvHHtahgYpLj1wJE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Fontwell](https://open.spotify.com/artist/61XzGe1fL2e2Xk2sjKhPUq) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 3:06 | 2020-08-17 | 2020-08-24 |
 | [On My Mind](https://open.spotify.com/track/73q91uUFExJXYKsnZP9gFX) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [On My Mind](https://open.spotify.com/album/6PEkbnlo9YzRWqEL4A7hru) | 3:13 | 2022-03-17 | 2022-03-25 |
 | [On My Mind](https://open.spotify.com/track/2wvJsZat6AUgMuiw9wLzJi) | [Robin Tayger](https://open.spotify.com/artist/0lM9sKjSzEzcQZZeFlITzy) | [On My Mind](https://open.spotify.com/album/2kdbr8bwTxVl7e3SCQFcb1) | 2:52 | 2022-09-09 |  |
@@ -964,7 +965,7 @@
 | [Run](https://open.spotify.com/track/1QKR9U1OnjOHXLKAEzRcN8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Run](https://open.spotify.com/album/6aCu2u1Xdwf1bBr69gBRPM) | 3:50 | 2022-04-10 | 2022-04-20 |
 | [Run Around](https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Run Around](https://open.spotify.com/album/6PEApdxop2cHLXra7RScde) | 2:19 | 2021-02-09 | 2021-03-02 |
 | [Run Away](https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7) | [Run Away](https://open.spotify.com/album/3gZDrYqECHtsaX6DI7QfRF) | 2:36 | 2020-10-05 | 2020-10-19 |
-| [Run Free](https://open.spotify.com/track/1oIdcFtf58sZbS7QyZQJ2P) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [IVIE](https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN) | [Run Free](https://open.spotify.com/album/37QAucQUcm3aCvRLxjtwKj) | 2:50 | 2019-09-29\* |  |
+| [Run Free](https://open.spotify.com/track/1oIdcFtf58sZbS7QyZQJ2P) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [IVIE](https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN) | [Run Free](https://open.spotify.com/album/37QAucQUcm3aCvRLxjtwKj) | 2:50 | 2019-09-29\* | 2022-10-24 |
 | [Run Free \(with HUTS\)](https://open.spotify.com/track/1ytGToyD4sNifrEV4ZDw2p) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Run Free \(with HUTS\)](https://open.spotify.com/album/5giABaCRhwvaiC2GkZ7v3g) | 2:13 | 2020-12-17 | 2021-07-02 |
 | [Run Free \- Alex Grey Remix](https://open.spotify.com/track/6qynl60zV0oHvGY57xXaG1) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [IVIE](https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Run Free \(Alex Grey Remix\)](https://open.spotify.com/album/5n0DuImHSfThkCqNQzUlKh) | 2:39 | 2019-09-29\* | 2020-05-27 |
 | [Run Free \- LODE Remix](https://open.spotify.com/track/1v7ieSIGSuV9mPjKnUGVs8) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [IVIE](https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN), [LODE](https://open.spotify.com/artist/6zFDmr6TUlLrZ3H2KQK0KA) | [Run Free \(The Remixes\)](https://open.spotify.com/album/1O9brDsCpqpZTBrZk8yPRL) | 2:56 | 2020-05-26 | 2020-05-27 |

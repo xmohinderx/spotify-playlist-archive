@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/3RYiM0Z1VUR8qi10gB3VQT)
+61 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/3RYiM0Z1VUR8qi10gB3VQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Holy, Holy, Holy \(God With Us\)](https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Jesus, Firm Foundation: Hymns of Worship](https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi) | 4:15 | 2022-09-14 |  |
 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff) | 4:51 | 2022-09-14 |  |
 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 | 2022-09-14 |  |
+| [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 | 2022-10-24 |  |
 | [Inheritance](https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Grace Upon Grace](https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc) | 8:01 | 2022-09-14 |  |
 | [Joyful Noise](https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:12 | 2022-09-14 |  |
 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 | 2022-09-14 |  |
@@ -51,7 +52,7 @@
 | [My Only Love](https://open.spotify.com/track/3dSvjnkPXd7QqYdwGpBxxY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Love In Between](https://open.spotify.com/album/0VatKO8y9ivCWD4obvX4U7) | 3:34 | 2022-09-14 | 2022-10-15 |
 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 | 2022-09-14 |  |
 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-09-24 |  |
-| [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 | 2022-09-14 |  |
+| [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 | 2022-09-14 | 2022-10-24 |
 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 | 2022-09-14 |  |
 | [Rest](https://open.spotify.com/track/7nEzee6SW3xOxh5ciJsei2) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:40 | 2022-09-14 |  |
 | [Run To The Father](https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:41 | 2022-09-14 |  |

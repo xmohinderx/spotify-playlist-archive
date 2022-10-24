@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,689,167 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,689,420 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 21 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 |
 | 22 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
 | 23 | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI) | 6:30 |
-| 24 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [No Cap](https://open.spotify.com/artist/74hNwjwN0bzYcLODzb3nLs) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:19 |
+| 24 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:19 |
 | 25 | [Chief](https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:49 |
 | 26 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 |
 | 27 | [Reel Em In](https://open.spotify.com/track/50yCs2ldgkd0OJji21ZAAa) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Reel Em In](https://open.spotify.com/album/4JNBTgwYusBL4RfduIShBZ) | 2:24 |

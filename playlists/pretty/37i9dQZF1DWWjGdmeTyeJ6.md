@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: emlyn, Paty B, Avenoir, Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,368 likes - 72 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,270 likes - 72 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 10 | [Yesterdays.](https://open.spotify.com/track/6RMPhGmhBkZWlITgD1T0ai) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Albion Road Demos.](https://open.spotify.com/album/456OEsSKMH1s7Oe1tklbZr) | 3:13 |
 | 11 | [Some Things Never Change](https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Some Things Never Change](https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4) | 3:37 |
 | 12 | [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 |
-| 13 | [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 |
+| 13 | [Penthouse](https://open.spotify.com/track/1e3jS5O9vxsLiHiL5SBU71) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/15M4bcl7Q4CSWkqIuX1ydt) | 2:24 |
 | 14 | [MANGATA](https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [DEVILS PLAYGROUND](https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE) | 1:55 |
 | 15 | [Can You Move To The Beat](https://open.spotify.com/track/7rljiHdUyJWOx7bY57FMFn) | [RETNA](https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz) | [Can You Move To The Beat](https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi) | 3:06 |
 | 16 | [My Weakness](https://open.spotify.com/track/70eeePOYW3D3GubmKM197H) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Highways](https://open.spotify.com/album/0bSBKTyijO05S4IHqwQrjC) | 4:20 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 71 | [shabby](https://open.spotify.com/track/3KGei97B3SzGtigCO3hDdg) | [poolblood](https://open.spotify.com/artist/6TaXt2ECGxZ0MteLXaYsYs) | [shabby](https://open.spotify.com/album/4pad2gEpXC5aIwLdx2CDEQ) | 2:45 |
 | 72 | [doubts](https://open.spotify.com/track/1Ur4CR2gD4Foa5i7WVutK8) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [doubts](https://open.spotify.com/album/3kEnFT44CdWVwOoDYsUj5J) | 4:04 |
 
-Snapshot ID: `MTY2NjM5NTEyNiwwMDAwMDAwMGFlMmJmMjE4OTlhMTY5YjY4MzJiOTEwNWM1YmQxMzE1`
+Snapshot ID: `MTY2NjM5NTEyNiwwMDAwMDAwMDE4ZDEyODdlMzViNmJmMmIyNjZkZWMyMThhNDU3NjQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,851 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,974 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 18 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
 | 19 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 |
 | 20 | [Francis Ford Coppola](https://open.spotify.com/track/0wGatt1VN1O7Mt5gwx7lzj) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Francis Ford Coppola](https://open.spotify.com/album/5niKVfj2vTA0RSCIDZ35PN) | 1:49 |
-| 21 | [Decoded \(feat\. Scarface\) \- BONUS TRACK](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 |
+| 21 | [Decoded \(feat\. Scarface\)](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 |
 | 22 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
 | 23 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
 | 24 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |

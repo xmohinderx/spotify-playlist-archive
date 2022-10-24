@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,370 likes - 172 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,513 likes - 172 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 25 | [Tonight I Need You](https://open.spotify.com/track/1X35vAv8UkaCx7iuu0gRfd) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw), [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Tonight I Need You](https://open.spotify.com/album/2SMMppv2SGJ3CrieT2N0oz) | 3:18 |
 | 26 | [Wish You Were The One](https://open.spotify.com/track/7350LOdDNax72K821W4oQF) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Wish You Were The One](https://open.spotify.com/album/2f56Ld9gl7DKGk8liDuOZn) | 3:03 |
 | 27 | [Bad Bad Bitch](https://open.spotify.com/track/1TLSXpcTKkhsrfGIKbZnva) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Bad Bad Bitch](https://open.spotify.com/album/15o9NyVPSSnNlHQUf62pa6) | 3:15 |
-| 28 | [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/track/0odAECRtE7vyuy0Omn5rEl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/album/1TDSke4vpYnUDjqaAQnNtj) | 3:09 |
+| 28 | [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/track/1VWISlyavHVnJGMyusdFp8) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [Hope for Tomorrow](https://open.spotify.com/album/6m5geZHkasXmHn3c4HsJmW) | 3:09 |
 | 29 | [Big Wheels](https://open.spotify.com/track/6DrrFMDjglq6IZGtn0ee1v) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Big Wheels](https://open.spotify.com/album/3aZG6ZinA2CuavlDgSpQDR) | 2:09 |
 | 30 | [Heartbreak In Boots](https://open.spotify.com/track/1pP0dNfTVENxNgUI42xnAk) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [Heartbreak In Boots](https://open.spotify.com/album/212DoETvEuKBW2JeycM7bH) | 2:49 |
 | 31 | [Cryin' in a GMC](https://open.spotify.com/track/3xjJEPm15d6MMdKCpM6FXE) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Cryin' in a GMC](https://open.spotify.com/album/6q5cYSipe57XXlaWQvyeOt) | 2:58 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 171 | [The Nicest Thing](https://open.spotify.com/track/1QUoN2CZPNXrGoCjmKSEcW) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [The Nicest Thing](https://open.spotify.com/album/2U2Uqf6BzYTFq15339EgRy) | 2:51 |
 | 172 | [Things That Matter](https://open.spotify.com/track/6CZN0bIk5Ij3s4BsZCJZG8) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Things That Matter](https://open.spotify.com/album/4wc9lCB0OlOhcIxkQZdN4R) | 3:13 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDlhZjg0YmI4MTg0MTFjY2UwNzU2NDQwOWM0Y2Q3Mjlm`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDU3MzZlYTdkYjBjZWNlNGE1ZjhkNmM4NTVjZDE3MjMw`

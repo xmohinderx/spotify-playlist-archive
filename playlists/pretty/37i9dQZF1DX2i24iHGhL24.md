@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,398 likes - 198 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,511 likes - 198 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dance Gavin Dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,626 likes - 200 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,684 likes - 200 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

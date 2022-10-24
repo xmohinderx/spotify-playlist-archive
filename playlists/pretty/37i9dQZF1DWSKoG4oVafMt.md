@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,559 likes - 132 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,618 likes - 132 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 39 | [Online](https://open.spotify.com/track/7fGrbGJKlgW8Kr2IB4aENm) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Online](https://open.spotify.com/album/7ljwwgTixfY9XDUs8J5kS7) | 3:22 |
 | 40 | [Peacock](https://open.spotify.com/track/2XOe28s6xDk79Wjjbn6l94) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Peacock](https://open.spotify.com/album/0C6RgcPPKO6LWs4xQUY7xu) | 3:18 |
 | 41 | [Yaad Karogi](https://open.spotify.com/track/3o81S19Lv9VDFC0nSbdsY8) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Simran Kaur](https://open.spotify.com/artist/3ZBhVsCWljAG7ommW5sPRW) | [I Am Zack Knight](https://open.spotify.com/album/5lySBRzqQIXmTZlz7jlJlC) | 3:01 |
-| 42 | [Gaddi Te Cash](https://open.spotify.com/track/0uRJ59HziWoXm7tRSKZVCd) | [sunny kahlon](https://open.spotify.com/artist/5yh848qlot2Cumncth1ZnG), [Rummi Dodher](https://open.spotify.com/artist/04lgbBBLaSklEQWkNPGHZd) | [Gaddi Te Cash](https://open.spotify.com/album/380vz7zqGCMEfdZsbXNPWo) | 3:11 |
+| 42 | [Gaddi Te Cash](https://open.spotify.com/track/0uRJ59HziWoXm7tRSKZVCd) | [Sunny Kahlon](https://open.spotify.com/artist/1H5i29nyKuLuvowaqkYDLF), [Rummi Dodher](https://open.spotify.com/artist/04lgbBBLaSklEQWkNPGHZd) | [Gaddi Te Cash](https://open.spotify.com/album/380vz7zqGCMEfdZsbXNPWo) | 3:11 |
 | 43 | [Gaddi Vich](https://open.spotify.com/track/0KxuTHWJkecNAPKuXWIqZH) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Gaddi Vich](https://open.spotify.com/album/6bfbWtvi8eyz80nVUOOX7t) | 2:52 |
 | 44 | [All Day Sunday](https://open.spotify.com/track/1bBNGadbSt0cWzPlxFfmgm) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [All Day Sunday](https://open.spotify.com/album/6aB9nSsIosjBxUIgln10vy) | 2:50 |
 | 45 | [Meri Zuban \(From "MOH"\)](https://open.spotify.com/track/5h0ths4OtpJMDkJpZrycQZ) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Meri Zuban \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2t9AwGoCQlroUmuTjXYehD) | 3:47 |

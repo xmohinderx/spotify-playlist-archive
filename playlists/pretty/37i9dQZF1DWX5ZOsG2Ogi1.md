@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5ZOsG2Ogi1.md) - [plain]
 
 > ¡Perreo del bueno!<br/>Cover: Farina
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,863 likes - 110 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,962 likes - 110 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

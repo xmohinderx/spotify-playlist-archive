@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-532 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+533 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,8 @@
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 3:34 | 2021-12-08 | 2022-01-06 |
 | [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 | 2022-09-07 | 2022-10-06 |
 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 | 2021-12-08 | 2022-01-06 |
-| [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-10-05 |  |
+| [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-10-05 | 2022-10-24 |
+| [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 | 2022-10-12 |  |
 | [Tantalize](https://open.spotify.com/track/69XetTmUGiEM4eMWVQoIHg) | [Hndfll](https://open.spotify.com/artist/4a3CKmVSIT07QVRSZRFSoj) | [Tantalize](https://open.spotify.com/album/3Df12uC2kXeq1loFzt5Pjn) | 2:56 | 2022-07-06 | 2022-08-04 |
 | [Tee Time](https://open.spotify.com/track/20JOGMvhHJWCr02iMDITE9) | [Alex Hughes](https://open.spotify.com/artist/6iL96eq4EA2eoFI9CzyJgI) | [Tee Time](https://open.spotify.com/album/3xJ2AMy7j3QGGoBolhCGsy) | 2:58 | 2022-09-07 | 2022-10-06 |
 | [Temporary Farewell](https://open.spotify.com/track/5izFSdELM0aLAOWz7YEywd) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Temporary Farewell](https://open.spotify.com/album/3uL5zrm1IVvjFGRcuQ6H7B) | 3:44 | 2022-03-08 | 2022-04-07 |

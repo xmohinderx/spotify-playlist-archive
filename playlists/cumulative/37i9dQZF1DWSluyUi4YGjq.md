@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-207 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+209 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 | 2021-10-19 | 2022-07-29 |
 | [At It Again](https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:03 | 2021-10-19 |  |
 | [At It Again](https://open.spotify.com/track/4isFw2ryQ6trDwkf7wKrCn) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [At It Again](https://open.spotify.com/album/1FY5lw1ekEF4XPHeDhXGLf) | 2:03 | 2021-10-19 | 2022-07-29 |
-| [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 | 2022-08-03 |  |
+| [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 | 2022-08-03 | 2022-10-24 |
+| [atonement](https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 3:51 | 2022-08-03 |  |
 | [Aurora](https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:50 | 2021-10-19 |  |
 | [Autopilot Paradise](https://open.spotify.com/track/0dj2Uv200jKLhbukIVVSqn) | [Lemonade Shoelace](https://open.spotify.com/artist/72gHreLHpaDQdue2ON7snF) | [Autopilot Paradise](https://open.spotify.com/album/6txXTab3aLAy2ypXvXtoDu) | 4:54 | 2022-10-05 |  |
 | [Avec Lui](https://open.spotify.com/track/4zWpQKHzdbGNkRP00xAIbe) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/61LPJuFRFHtLf0rily6iKz) | [Balloons of Memories](https://open.spotify.com/album/0fUR7LZcSVYO8nDywl12Z9) | 5:14 | 2022-03-03 | 2022-07-26 |
@@ -91,7 +92,8 @@
 | [Gloss](https://open.spotify.com/track/2G7lT3oddwsV7tLX07IHvL) | [Rilev](https://open.spotify.com/artist/4dr041b5YGK6DrnD8VpHeW) | [Gloss](https://open.spotify.com/album/3gZNvLJPaHzUUpYxdFFo3p) | 4:41 | 2021-10-19 | 2022-07-23 |
 | [Glow](https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:02 | 2021-10-19 |  |
 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 | 2021-10-19 |  |
-| [good](https://open.spotify.com/track/4CbIwXygDbSAo8jEjNm2MP) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [good](https://open.spotify.com/album/1X7Be9kpcbuBq2IK6OH8F2) | 4:05 | 2022-09-11 |  |
+| [good](https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 4:05 | 2022-09-11 |  |
+| [good](https://open.spotify.com/track/4CbIwXygDbSAo8jEjNm2MP) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [good](https://open.spotify.com/album/1X7Be9kpcbuBq2IK6OH8F2) | 4:05 | 2022-09-11 | 2022-10-24 |
 | [Goodtimes](https://open.spotify.com/track/3Pt8kGU9mlpwMsrLA8JmVO) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Fantasy Country](https://open.spotify.com/album/1wG63pgwLf0S5qWlKrDJuP) | 4:03 | 2021-10-19 | 2022-08-20 |
 | [green](https://open.spotify.com/track/4f25SUnxXt0e4ZAnEXXHl0) | [とおのねむり](https://open.spotify.com/artist/11maCnra9UsFVEkqyNO4HU) | [green](https://open.spotify.com/album/4KTZk1PCU51Um5tKj5o1WO) | 4:31 | 2022-08-31 | 2022-09-29 |
 | [Handsome Man](https://open.spotify.com/track/69AmXsTIzhpL1PzKzq4FRP) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Handsome Man](https://open.spotify.com/album/6NKe1FLpu6vd6XlccHhRYw) | 2:28 | 2021-10-19 | 2022-07-29 |
